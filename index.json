@@ -403,6 +403,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbkp/"
+        },
+        {
+            "code": "BTPN",
+            "name": "PT Bank SMBC Indonesia Tbk",
+            "name_short": "Bank SMBC Indonesia",
+            "sector": "banking",
+            "group": "private_mid",
+            "kbmi": 3,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "H1 2026",
+            "interim_period_end": "2026-06-30",
+            "data_through": "2026-06-30",
+            "dividend_records": 4,
+            "file": "issuers/BTPN.json",
+            "prices": {
+                "file": "prices/BTPN.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1888,
+                "last_close": 2420,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/btpn/"
         }
     ]
 }

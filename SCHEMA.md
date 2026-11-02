@@ -256,6 +256,10 @@ day (Monday to Friday, WIB): around 09:20 the session's opening price is publish
   for some issuers, rights issues. The fetcher reverses that scaling. A rights reversal is
   listed in `source.reversed` with Yahoo's factor and the annual-report year-end price it
   was checked against (BBRI's 2021 rights issue: Yahoo factor 0.909075).
+- A bar whose high/low do not contain its own open/close is the source's defect: it is kept
+  as published (never edited or dropped) and listed in `source.anomalies` (BTPN 2022-12-30:
+  high 2,640 below the close 2,650, which matches the annual report). The validator reports a
+  listed anomaly as a warning; an unlisted one is an error.
 - A session Yahoo has no trades for is left out, never filled in. Rows already published
   do not change, except the last 10 sessions, which the source may still correct.
 

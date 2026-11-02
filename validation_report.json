@@ -2547,6 +2547,177 @@
                     "casa": 1
                 }
             }
+        },
+        "BTPN": {
+            "errors": [],
+            "mismatches": [],
+            "explained": [
+                "[dps_total:2023] FY2023 DPS×shares = 357.0 bn vs stated total dividend 471.7 bn (24.3% off) — check DPS share_basis — EXPLAINED: The FY2023 dividend (Rp471,666,901,105 = Rp44.304837942/share) was paid in April 2024 on 10,645,945,748 shares, i.e. including the March 2024 Rights Issue II shares (announcement of 22 Mar 2024, p. 1); FY2023 year-end shares outstanding were 8,056,814,671. 44.304837942 x 10,645,945,748 = Rp471.67bn = stated total.",
+                "[eps_shares:2024] FY2024 EPS×shares = 2,970.2 bn vs profit 2,813.0 bn (5.6% off) — check share_basis / treasury shares — EXPLAINED: Reported FY2024 basic EPS (Rp279) uses the weighted-average share count of 10,087,089,587 (FS2024 PDF p. 193, Note 43d) because 2,589,131,077 Rights Issue II shares were issued in March 2024 (ex-right 28 Feb 2024); year-end shares are 10,645,945,748. 2,812,986 / 10,087,089,587 = Rp278.9."
+            ],
+            "warnings": [
+                "FY2020: no dividend records",
+                "FY2021: no dividend records"
+            ],
+            "coverage": {
+                "2019": {
+                    "total_assets": 1,
+                    "loans_gross": 1,
+                    "deposits": 1,
+                    "equity_attr": 1,
+                    "total_equity": 1
+                },
+                "2020": {
+                    "net_profit_attr": 1,
+                    "eps": 1,
+                    "payout_ratio": 1,
+                    "total_assets": 1,
+                    "loans_gross": 1,
+                    "deposits": 1,
+                    "equity_attr": 1,
+                    "total_equity": 1,
+                    "shares_out": 1,
+                    "year_end_price": 1,
+                    "roe": 1,
+                    "roa": 1,
+                    "nim": 1,
+                    "coc": 0,
+                    "npl_gross": 1,
+                    "npl_net": 1,
+                    "lar": 0,
+                    "npl_coverage": 0,
+                    "ldr": 1,
+                    "car": 1,
+                    "cir": 1,
+                    "bopo": 1,
+                    "casa": 1
+                },
+                "2021": {
+                    "net_profit_attr": 1,
+                    "eps": 1,
+                    "payout_ratio": 1,
+                    "total_assets": 1,
+                    "loans_gross": 1,
+                    "deposits": 1,
+                    "equity_attr": 1,
+                    "total_equity": 1,
+                    "shares_out": 1,
+                    "year_end_price": 1,
+                    "roe": 1,
+                    "roa": 1,
+                    "nim": 1,
+                    "coc": 1,
+                    "npl_gross": 1,
+                    "npl_net": 1,
+                    "lar": 0,
+                    "npl_coverage": 1,
+                    "ldr": 1,
+                    "car": 1,
+                    "cir": 1,
+                    "bopo": 1,
+                    "casa": 1
+                },
+                "2022": {
+                    "net_profit_attr": 1,
+                    "eps": 1,
+                    "payout_ratio": 1,
+                    "total_assets": 1,
+                    "loans_gross": 1,
+                    "deposits": 1,
+                    "equity_attr": 1,
+                    "total_equity": 1,
+                    "shares_out": 1,
+                    "year_end_price": 1,
+                    "roe": 1,
+                    "roa": 1,
+                    "nim": 1,
+                    "coc": 1,
+                    "npl_gross": 1,
+                    "npl_net": 1,
+                    "lar": 0,
+                    "npl_coverage": 1,
+                    "ldr": 1,
+                    "car": 1,
+                    "cir": 1,
+                    "bopo": 1,
+                    "casa": 1
+                },
+                "2023": {
+                    "net_profit_attr": 1,
+                    "eps": 1,
+                    "payout_ratio": 1,
+                    "total_assets": 1,
+                    "loans_gross": 1,
+                    "deposits": 1,
+                    "equity_attr": 1,
+                    "total_equity": 1,
+                    "shares_out": 1,
+                    "year_end_price": 1,
+                    "roe": 1,
+                    "roa": 1,
+                    "nim": 1,
+                    "coc": 1,
+                    "npl_gross": 1,
+                    "npl_net": 1,
+                    "lar": 0,
+                    "npl_coverage": 1,
+                    "ldr": 1,
+                    "car": 1,
+                    "cir": 1,
+                    "bopo": 1,
+                    "casa": 1
+                },
+                "2024": {
+                    "net_profit_attr": 1,
+                    "eps": 1,
+                    "payout_ratio": 1,
+                    "total_assets": 1,
+                    "loans_gross": 1,
+                    "deposits": 1,
+                    "equity_attr": 1,
+                    "total_equity": 1,
+                    "shares_out": 1,
+                    "year_end_price": 1,
+                    "roe": 1,
+                    "roa": 1,
+                    "nim": 1,
+                    "coc": 1,
+                    "npl_gross": 1,
+                    "npl_net": 1,
+                    "lar": 0,
+                    "npl_coverage": 1,
+                    "ldr": 1,
+                    "car": 1,
+                    "cir": 1,
+                    "bopo": 1,
+                    "casa": 1
+                },
+                "2025": {
+                    "net_profit_attr": 1,
+                    "eps": 1,
+                    "payout_ratio": 1,
+                    "total_assets": 1,
+                    "loans_gross": 1,
+                    "deposits": 1,
+                    "equity_attr": 1,
+                    "total_equity": 1,
+                    "shares_out": 1,
+                    "year_end_price": 1,
+                    "roe": 1,
+                    "roa": 1,
+                    "nim": 1,
+                    "coc": 1,
+                    "npl_gross": 1,
+                    "npl_net": 1,
+                    "lar": 0,
+                    "npl_coverage": 1,
+                    "ldr": 1,
+                    "car": 1,
+                    "cir": 1,
+                    "bopo": 1,
+                    "casa": 1
+                }
+            }
         }
     },
     "prices": {
@@ -2710,6 +2881,20 @@
             "mismatches": [],
             "explained": [],
             "warnings": []
+        },
+        "BTPN": {
+            "sessions": 1888,
+            "first_date": "2019-01-02",
+            "last_date": "2026-11-02",
+            "year_end_checked": 6,
+            "errors": [],
+            "mismatches": [],
+            "explained": [
+                "[price_year_end:2024] FY2024: last close 2200 (2024-12-30) is Rp2,200.00 on today's basis, the annual report says Rp2,610.00 (15.7%) — EXPLAINED: SMBC Indonesia AR2024 (PDF p. 20, Share Highlights; repeated in AR2025) prints the Q4-2024 close as Rp2,610 while the same row prints high Rp2,400 and low Rp2,220, so the printed close lies outside its own range. The price source closes the last 2024 session (30 Dec 2024) at Rp2,200, inside that range, consistent with press reports of about Rp2,200. The AR figure appears misprinted; neither source is edited (fundamentals keep the AR value as printed)."
+            ],
+            "warnings": [
+                "2022-12-30: low ≤ open/close ≤ high violated — source anomaly, kept as published"
+            ]
         }
     }
 }

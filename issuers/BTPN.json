@@ -1,0 +1,1544 @@
+{
+    "schema": 1,
+    "code": "BTPN",
+    "name": "PT Bank SMBC Indonesia Tbk",
+    "name_short": "Bank SMBC Indonesia",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.smbci.com",
+    "ir_url": "https://www.smbci.com/en/hubungan-investor",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 182 (printed p. 180), Risk Management, CAR calculation report: Core Capital (Tier 1) Bank 33,184,333 / Consolidated 44,027,008 (Rp juta); PDF p. 32, awards list ('KBMI 3' category)",
+        "note": "AR2025 has no sentence stating the tier; bank-only core capital of Rp33.2tn is inside the KBMI 3 band (Rp14tn-Rp70tn, POJK 12/POJK.03/2021) and the AR lists awards won in the KBMI 3 category."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 181631.385,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2020/final-lkfs-btpn-audited_31-december-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "First year after the 1 Feb 2019 merger with PT Bank Sumitomo Mitsui Indonesia; the FY2019 FS shows FY2018 (BTPN alone) at 101,341,224. FY2020 FS repeats FY2019 unchanged."
+            },
+            "loans_gross": {
+                "v": 141760.183,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2023/ar-2022--btpn_-eng-resize.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights 2019-2022, 'Loans 2)' (note 2: including Sharia financing/receivables)",
+                "basis": "consolidated",
+                "note": "Gross, before allowance. Equals the audited FS face lines (Rp juta): 130,627,900 + 2,132,709 loans, 8,999,574 sharia financing."
+            },
+            "deposits": {
+                "v": 86939.479,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2023/ar-2022--btpn_-eng-resize.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights 2019-2022, 'Deposits from Customers 3)' (note 3: including temporary syirkah funds)",
+                "basis": "consolidated",
+                "note": "Third-party funds incl. BTPN Syariah temporary syirkah funds, principal excl. accrued interest. Equals the audited FS face lines (Rp juta): deposits from customers 78,849,654 + 539,161, temporary syirkah funds 7,550,664."
+            },
+            "equity_attr": {
+                "v": 29868.043,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2020/final-lkfs-btpn-audited_31-december-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Ekuitas yang diatribusikan kepada pemilik entitas induk' subtotal (after treasury shares)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 31471.928,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2020/final-lkfs-btpn-audited_31-december-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests (about 30% of BTPN Syariah)."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 1749.293,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2021/8.-final_lkfs-31-dec-2020_bank-btpn_print.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih ... diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 217,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2021/8.-final_lkfs-31-dec-2020_bank-btpn_print.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, 'Laba bersih per saham - Dasar' (basic EPS, full Rupiah)",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2021/ringkasan-risalah-rupst-2021-btpn---website.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-04-22",
+                "loc": "PDF p. 12, Summary of minutes of the AGMS of 22 Apr 2021, Second Agenda (appropriation of FY2020 net profit Rp1,749,293,097,131: Rp12,000 to the mandatory reserve, the rest to retained earnings)",
+                "basis": "consolidated",
+                "note": "No dividend paid out of FY2020 profit."
+            },
+            "total_assets": {
+                "v": 183165.978,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2021/8.-final_lkfs-31-dec-2020_bank-btpn_print.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 136212.619,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2023/ar-2022--btpn_-eng-resize.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights 2019-2022, 'Loans 2)' (note 2: including Sharia financing/receivables)",
+                "basis": "consolidated",
+                "note": "Gross, before allowance. Equals the audited FS face lines (Rp juta): 125,482,985 + 1,206,768 loans, 9,522,866 sharia financing."
+            },
+            "deposits": {
+                "v": 100788.906,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2023/ar-2022--btpn_-eng-resize.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights 2019-2022, 'Deposits from Customers 3)' (note 3: including temporary syirkah funds)",
+                "basis": "consolidated",
+                "note": "Third-party funds incl. BTPN Syariah temporary syirkah funds, principal excl. accrued interest. Equals the audited FS face lines (Rp juta): deposits from customers 88,425,046 + 4,440,494, temporary syirkah funds 7,923,366."
+            },
+            "equity_attr": {
+                "v": 31215.716,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2021/8.-final_lkfs-31-dec-2020_bank-btpn_print.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Ekuitas yang diatribusikan kepada pemilik entitas induk' subtotal (after treasury shares)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 32964.753,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2021/8.-final_lkfs-31-dec-2020_bank-btpn_print.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests (about 30% of BTPN Syariah)."
+            },
+            "shares_out": {
+                "v": 8053732969,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2021/8.-final_lkfs-31-dec-2020_bank-btpn_print.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 165 (Note 27 share capital), shareholder composition (Biro Administrasi Efek)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "8,148,931,869 issued less 95,198,900 treasury shares = 8,053,732,969 outstanding."
+            },
+            "year_end_price": {
+                "v": 3110,
+                "source_url": "https://www.smbci.com/ar-2020-btpn_eng_14-april.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 21 (printed p. 19), Quarterly Stocks Performance 2020 & 2019, December 'Closing (Rp)' 2020",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Same value in AR2021 PDF p. 21. Q4 closing as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 6.1,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "Return on Equity as printed; the AR does not state the formula. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "roa": {
+                "v": 1.4,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "RoA before tax (AR note 6). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "nim": {
+                "v": 6.1,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "Net Interest Income Margin as printed. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "coc": {
+                "v": null,
+                "note": "not disclosed for FY2020: the FY2020/FY2021 analyst decks are not on smbci.com or in the Internet Archive; AR2020 and AR2021 print no cost-of-credit ratio (checked Financial Highlights PDF p. 16-17 / 16-17 and MD&A)."
+            },
+            "npl_gross": {
+                "v": 1.2,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "npl_net": {
+                "v": 0.5,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in the AR Financial Highlights (AR2025/AR2023 PDF p. 15) or in the analyst-deck Asset Quality tables (they show gross/net NPL, cost of credit, LLP/NPL and the special-mention share only)"
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "not disclosed for FY2020: no LLP/NPL or coverage ratio in AR2020/AR2021 (Financial Highlights, MD&A, risk management); FY2021 deck not available."
+            },
+            "ldr": {
+                "v": 134.2,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "LDR not including loans to banks (AR note 8); loans include sharia financing and, from 2024, OTO/SOF financing receivables. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "car": {
+                "v": 25.6,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "KPMM including credit, operational and market risk (AR note 5). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "cir": {
+                "v": 53.9,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio; 2019-2021 values restated in AR2022 to the SEOJK 9/SEOJK.03/2020 presentation (AR2022 note 7). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "bopo": {
+                "v": 85.5,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "BOPO restated in AR2022 (note 7); AR2021 originally printed 89.5 for 2020 and 80.5 for 2021 (AR2021 PDF p. 17). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "casa": {
+                "v": 27.5,
+                "source_url": "https://www.smbci.com/ar-2020-btpn_eng_14-april.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 138, MD&A, third-party funds ('The CASA ratio slightly dropped to 27.5% compared to 28.1% in 2019')",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits incl. temporary syirkah funds (group)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 2664.714,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2022/8.-laporan-keuangan-2021-audit-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih ... diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 331,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2022/8.-laporan-keuangan-2021-audit-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, 'Laba bersih per saham - Dasar' (basic EPS, full Rupiah)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2022/s.030---ringkasan-risalah-rupst-2022-btpn-inc-lampiran-.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-04-21",
+                "loc": "PDF p. 15, Summary of minutes of the AGMS of 21 Apr 2022, Second Agenda (appropriation of FY2021 net profit Rp2,664,713,200,958: Rp700,000 to the mandatory reserve, the rest to retained earnings)",
+                "basis": "consolidated",
+                "note": "No dividend paid out of FY2021 profit. AR2022 PDF p. 155: 'BTPN has not planned to disburse dividends'."
+            },
+            "total_assets": {
+                "v": 191917.794,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2022/8.-laporan-keuangan-2021-audit-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 135598.774,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2023/ar-2022--btpn_-eng-resize.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights 2019-2022, 'Loans 2)' (note 2: including Sharia financing/receivables)",
+                "basis": "consolidated",
+                "note": "Gross, before allowance. Equals the audited FS face lines (Rp juta): 124,303,837 + 851,468 loans, 10,443,469 sharia financing."
+            },
+            "deposits": {
+                "v": 109380.13,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2023/ar-2022--btpn_-eng-resize.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights 2019-2022, 'Deposits from Customers 3)' (note 3: including temporary syirkah funds)",
+                "basis": "consolidated",
+                "note": "Third-party funds incl. BTPN Syariah temporary syirkah funds, principal excl. accrued interest. Equals the audited FS face lines (Rp juta): deposits from customers 96,226,638 + 4,247,589, temporary syirkah funds 8,905,903."
+            },
+            "equity_attr": {
+                "v": 33965.263,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2022/8.-laporan-keuangan-2021-audit-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Ekuitas yang diatribusikan kepada pemilik entitas induk' subtotal (after treasury shares)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 36078.927,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2022/8.-laporan-keuangan-2021-audit-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests (about 30% of BTPN Syariah)."
+            },
+            "shares_out": {
+                "v": 8056644071,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2022/8.-laporan-keuangan-2021-audit-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 160 (Note 27 share capital), shareholder composition (Biro Administrasi Efek)",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "8,149,106,869 issued less 92,462,798 treasury shares = 8,056,644,071 outstanding."
+            },
+            "year_end_price": {
+                "v": 2620,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2022/ar-2021-btpn_eng_14-april.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 21 (printed p. 19), Quarterly Stocks Performance 2021 & 2020, December 'Closing (Rp)' 2021",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Same value in AR2022 PDF p. 19. Q4 closing as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 8.6,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "Return on Equity as printed; the AR does not state the formula. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "roa": {
+                "v": 2.2,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "RoA before tax (AR note 6). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "nim": {
+                "v": 6.6,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "Net Interest Income Margin as printed. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "coc": {
+                "v": 1.58,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2022/btpn--analyst--briefing--fy-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 37, Asset Quality table, Dec-21 column",
+                "basis": "consolidated",
+                "note": "'Gross Cost of Credit' (%), group loan book."
+            },
+            "npl_gross": {
+                "v": 1.7,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "npl_net": {
+                "v": 0.4,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in the AR Financial Highlights (AR2025/AR2023 PDF p. 15) or in the analyst-deck Asset Quality tables (they show gross/net NPL, cost of credit, LLP/NPL and the special-mention share only)"
+            },
+            "npl_coverage": {
+                "v": 173.46,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2022/btpn--analyst--briefing--fy-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 37, Asset Quality table, Dec-21 column",
+                "basis": "consolidated",
+                "note": "'Loan Loss Provision/NPL' (%), group loan book (note on slide: NPL calculated on total loans excluding loans to banks)."
+            },
+            "ldr": {
+                "v": 123.1,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "LDR not including loans to banks (AR note 8); loans include sharia financing and, from 2024, OTO/SOF financing receivables. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "car": {
+                "v": 26.2,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "KPMM including credit, operational and market risk (AR note 5). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "cir": {
+                "v": 49.3,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio; 2019-2021 values restated in AR2022 to the SEOJK 9/SEOJK.03/2020 presentation (AR2022 note 7). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "bopo": {
+                "v": 76,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Main Highlights, Financial Ratios table (2020-2023); same values in AR2022 PDF p. 15",
+                "basis": "consolidated",
+                "note": "BOPO restated in AR2022 (note 7); AR2021 originally printed 89.5 for 2020 and 80.5 for 2021 (AR2021 PDF p. 17). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "casa": {
+                "v": 34.6,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2022/ar-2021-btpn_eng_14-april.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 141, MD&A, third-party funds ('resulting to an increase from 27.5% to 34.6% in CASA ratio')",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits incl. temporary syirkah funds (group)."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 3095.701,
+                "source_url": "https://www.smbci.com/_default_upload_bucket/BTPN_LKT_Desember%202022_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih ... diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 384,
+                "source_url": "https://www.smbci.com/_default_upload_bucket/BTPN_LKT_Desember%202022_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, 'Laba bersih per saham - Dasar' (basic EPS, full Rupiah)",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31"
+            },
+            "payout_ratio": {
+                "v": 20,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 150 (printed p. 148), MD&A Dividend Realization table ('Dividend to Net Income Ratio (%)' 20)",
+                "basis": "consolidated",
+                "note": "AGMS 13 Apr 2023."
+            },
+            "total_assets": {
+                "v": 209169.704,
+                "source_url": "https://www.smbci.com/_default_upload_bucket/BTPN_LKT_Desember%202022_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 146123.516,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Loans 2)' (note 2: including Sharia financing/receivables and financing receivables)",
+                "basis": "consolidated",
+                "note": "Gross, before allowance. Equals the audited FS face lines (Rp juta): 132,208,660 + 2,387,393 loans, 11,527,463 sharia financing."
+            },
+            "deposits": {
+                "v": 114866.548,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Deposits from Customers 3)' (note 3: including temporary syirkah funds)",
+                "basis": "consolidated",
+                "note": "Third-party funds incl. BTPN Syariah temporary syirkah funds, principal excl. accrued interest. Equals the audited FS face lines (Rp juta): deposits from customers 103,942,403 + 1,080,884, temporary syirkah funds 9,843,261."
+            },
+            "equity_attr": {
+                "v": 36906.676,
+                "source_url": "https://www.smbci.com/_default_upload_bucket/BTPN_LKT_Desember%202022_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Ekuitas yang diatribusikan kepada pemilik entitas induk' subtotal (after treasury shares)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 39413.024,
+                "source_url": "https://www.smbci.com/_default_upload_bucket/BTPN_LKT_Desember%202022_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests (about 30% of BTPN Syariah)."
+            },
+            "shares_out": {
+                "v": 8056644071,
+                "source_url": "https://www.smbci.com/_default_upload_bucket/BTPN_LKT_Desember%202022_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 150 (Note 27 share capital), shareholder composition (Biro Administrasi Efek)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "8,149,106,869 issued less 92,462,798 treasury shares = 8,056,644,071 outstanding."
+            },
+            "year_end_price": {
+                "v": 2650,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2023/ar-2022--btpn_-eng-resize.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Quarterly Stock Performance 2022 & 2021, December 'Closing (Rp)' 2022",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Same value in AR2023 PDF p. 18. Q4 closing as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 9.1,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Return on Equity as printed; the AR does not state the formula. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "roa": {
+                "v": 2.4,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "RoA before tax (AR note 6). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "nim": {
+                "v": 6.3,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Net Interest Income Margin as printed. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "coc": {
+                "v": 1.26,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2022/btpn--analyst--briefing--fy-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 37, Asset Quality table, Dec-22 column",
+                "basis": "consolidated",
+                "note": "'Gross Cost of Credit' (%), group loan book."
+            },
+            "npl_gross": {
+                "v": 1.4,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "npl_net": {
+                "v": 0.4,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in the AR Financial Highlights (AR2025/AR2023 PDF p. 15) or in the analyst-deck Asset Quality tables (they show gross/net NPL, cost of credit, LLP/NPL and the special-mention share only)"
+            },
+            "npl_coverage": {
+                "v": 172.75,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2022/btpn--analyst--briefing--fy-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 37, Asset Quality table, Dec-22 column",
+                "basis": "consolidated",
+                "note": "'Loan Loss Provision/NPL' (%), group loan book (note on slide: NPL calculated on total loans excluding loans to banks)."
+            },
+            "ldr": {
+                "v": 126.7,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "LDR not including loans to banks (AR note 8); loans include sharia financing and, from 2024, OTO/SOF financing receivables. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "car": {
+                "v": 27.3,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "KPMM including credit, operational and market risk (AR note 5). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "cir": {
+                "v": 49.8,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "bopo": {
+                "v": 75.1,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "casa": {
+                "v": 35,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2023/ar-2022--btpn_-eng-resize.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 148, MD&A, customer deposits ('The Bank's 2022 CASA Ratio was 35.0%, higher than the previous year of 34.6%')",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits incl. temporary syirkah funds (group)."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 2358.334,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2023/final_-btpn_-lkt_31--desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih ... diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 293,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2023/final_-btpn_-lkt_31--desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, 'Laba bersih per saham - Dasar' (basic EPS, full Rupiah)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31"
+            },
+            "payout_ratio": {
+                "v": 20,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 150 (printed p. 148), MD&A Dividend Realization table ('Dividend to Net Income Ratio (%)' 20)",
+                "basis": "consolidated",
+                "note": "AGMS 21 Mar 2024."
+            },
+            "total_assets": {
+                "v": 201448.392,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2023/final_-btpn_-lkt_31--desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 156561.297,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Loans 2)' (note 2: including Sharia financing/receivables and financing receivables)",
+                "basis": "consolidated",
+                "note": "Gross, before allowance. Equals the audited FS face lines (Rp juta): 141,400,072 + 3,773,364 loans, 11,387,861 sharia financing."
+            },
+            "deposits": {
+                "v": 108198.576,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Deposits from Customers 3)' (note 3: including temporary syirkah funds)",
+                "basis": "consolidated",
+                "note": "Third-party funds incl. BTPN Syariah temporary syirkah funds, principal excl. accrued interest. Equals the audited FS face lines (Rp juta): deposits from customers 97,793,480 + 484,276, temporary syirkah funds 9,920,820."
+            },
+            "equity_attr": {
+                "v": 38666.426,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2023/final_-btpn_-lkt_31--desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Ekuitas yang diatribusikan kepada pemilik entitas induk' subtotal (after treasury shares)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 41283.104,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2023/final_-btpn_-lkt_31--desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests (about 30% of BTPN Syariah)."
+            },
+            "shares_out": {
+                "v": 8056814671,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2023/final_-btpn_-lkt_31--desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 155 (Note 27 share capital), shareholder composition (Biro Administrasi Efek)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "8,149,106,869 issued less 92,292,198 treasury shares = 8,056,814,671 outstanding (shareholder table total excluding 'Saham tresuri')."
+            },
+            "year_end_price": {
+                "v": 2620,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Share Performance, 2023 Quarter IV (December) 'Closing'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Same value in AR2024 PDF p. 20. Q4 closing as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 6.5,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Return on Equity as printed; the AR does not state the formula. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "roa": {
+                "v": 1.7,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "RoA before tax (AR note 6). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "nim": {
+                "v": 6.5,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Net Interest Income Margin as printed. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "coc": {
+                "v": 2.02,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2023/btpn--analyst--briefing--fy-2023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 33, Asset Quality table, Dec-23 column",
+                "basis": "consolidated",
+                "note": "'Gross Cost of Credit' (%), group loan book."
+            },
+            "npl_gross": {
+                "v": 1.4,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "npl_net": {
+                "v": 0.4,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in the AR Financial Highlights (AR2025/AR2023 PDF p. 15) or in the analyst-deck Asset Quality tables (they show gross/net NPL, cost of credit, LLP/NPL and the special-mention share only)"
+            },
+            "npl_coverage": {
+                "v": 220.72,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2023/btpn--analyst--briefing--fy-2023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 33, Asset Quality table, Dec-23 column",
+                "basis": "consolidated",
+                "note": "'Loan Loss Provision/NPL' (%), group loan book (note on slide: NPL calculated on total loans excluding loans to banks)."
+            },
+            "ldr": {
+                "v": 142.7,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "LDR not including loans to banks (AR note 8); loans include sharia financing and, from 2024, OTO/SOF financing receivables. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "car": {
+                "v": 29.9,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "KPMM including credit, operational and market risk (AR note 5). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "cir": {
+                "v": 52.7,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "bopo": {
+                "v": 83.7,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "casa": {
+                "v": 40.8,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2024/baru/ar-2023--btpn_-eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 133, MD&A, customer deposits ('bringing the CASA ratio to 40.8% at the end of December 2023, up from 35.0% in December 2022')",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits incl. temporary syirkah funds (group)."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 2812.986,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2024/lkfs--smbci-31--dec-2024----audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih ... diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 279,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2024/lkfs--smbci-31--dec-2024----audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, 'Laba bersih per saham - Dasar' (basic EPS, full Rupiah)",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Weighted-average shares 10,087,089,587 (FS2024 PDF p. 193, Note 43d) because the Rights Issue II shares were issued in March 2024."
+            },
+            "payout_ratio": {
+                "v": 20,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 150 (printed p. 148), MD&A Dividend Realization table ('Dividend to Net Income Ratio (%)' 20)",
+                "basis": "consolidated",
+                "note": "AGMS 22 Apr 2025."
+            },
+            "total_assets": {
+                "v": 241096.427,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2024/lkfs--smbci-31--dec-2024----audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 179404.617,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Loans 2)' (note 2: including Sharia financing/receivables and financing receivables)",
+                "basis": "consolidated",
+                "note": "Gross, before allowance. Equals the audited FS face lines (Rp juta): 139,362,461 + 437,775 loans, 10,171,759 sharia financing, 29,432,622 financing receivables (OTO/SOF)."
+            },
+            "deposits": {
+                "v": 121317.811,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Deposits from Customers 3)' (note 3: including temporary syirkah funds)",
+                "basis": "consolidated",
+                "note": "Third-party funds incl. BTPN Syariah temporary syirkah funds, principal excl. accrued interest. Equals the audited FS face lines (Rp juta): deposits from customers 111,396,668 + 321,791, temporary syirkah funds 9,599,352."
+            },
+            "equity_attr": {
+                "v": 47767.374,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2024/lkfs--smbci-31--dec-2024----audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Ekuitas yang diatribusikan kepada pemilik entitas induk' subtotal (after treasury shares)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 54746.039,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2024/lkfs--smbci-31--dec-2024----audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests (30% of BTPN Syariah; from end-March 2024 also 49% of PT Oto Multiartha and PT Summit Oto Finance)."
+            },
+            "shares_out": {
+                "v": 10645945748,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2024/lkfs--smbci-31--dec-2024----audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 174 (Note 29 share capital), shareholder composition (Biro Administrasi Efek)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid 10,645,945,748 after the Feb 2024 withdrawal of 92,292,198 treasury shares and the Rights Issue II (2,589,131,077 new shares); no treasury shares."
+            },
+            "year_end_price": {
+                "v": 2610,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2025/ar--smbc-2024_-eng_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Share Highlights, 2024 Quarter IV (December) 'Closing'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "DOUBTFUL: printed as 2,610 in AR2024 and repeated in AR2025 (PDF p. 18), and the printed Q4 market cap (27,785,918,402,280) equals 2,610 x 10,645,945,748, but the same row prints Q4 high 2,400 / low 2,220, so the close is above the quarter's high (the 2024 Q1 row is also inconsistent: close 2,370 below low 2,558). A Kontan article (3 Jul 2025) says the 30 Jun 2025 price of Rp2,520 was about 14.54% above the end-2024 price, which would put the end-2024 close near Rp2,200. Stored as printed; check against the daily price series. Q4 closing as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 6.8,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Return on Equity as printed; the AR does not state the formula. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "roa": {
+                "v": 1.8,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "RoA before tax (AR note 6). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "nim": {
+                "v": 7.1,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Net Interest Income Margin as printed. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "coc": {
+                "v": 2.37,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2024/smbc--indonesia--analyst--briefing--fy-2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 47, Asset Quality table, Dec-24 column",
+                "basis": "consolidated",
+                "note": "'Gross Cost of Credit' (%), group loan book."
+            },
+            "npl_gross": {
+                "v": 2.5,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "npl_net": {
+                "v": 1.1,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in the AR Financial Highlights (AR2025/AR2023 PDF p. 15) or in the analyst-deck Asset Quality tables (they show gross/net NPL, cost of credit, LLP/NPL and the special-mention share only)"
+            },
+            "npl_coverage": {
+                "v": 247.64,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2024/smbc--indonesia--analyst--briefing--fy-2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 47, Asset Quality table, Dec-24 column",
+                "basis": "consolidated",
+                "note": "'Loan Loss Provision/NPL' (%), group loan book (note on slide: NPL calculated on total loans excluding loans to banks)."
+            },
+            "ldr": {
+                "v": 147,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "LDR not including loans to banks (AR note 8); loans include sharia financing and, from 2024, OTO/SOF financing receivables. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "car": {
+                "v": 30,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "KPMM including credit, operational and market risk (AR note 5). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "cir": {
+                "v": 53.9,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "bopo": {
+                "v": 83.2,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "casa": {
+                "v": 37.6,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 143 (printed p. 141), MD&A Financial Performance, customer deposits ('... from 37.6% at the end of December 2024')",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits incl. temporary syirkah funds (group)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 505.557,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2025/lkfs--pt--bank--smbc--indonesia--tbk-31--dec-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih ... diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "FY2025 consolidated net result was a loss of Rp102.1bn; the non-controlling interests (mainly the 49% minority in OTO/SOF, which lost Rp2.4tn) took a Rp607.7bn loss, so profit attributable to owners stayed positive."
+            },
+            "eps": {
+                "v": 47,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2025/lkfs--pt--bank--smbc--indonesia--tbk-31--dec-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, 'Laba bersih per saham - Dasar' (basic EPS, full Rupiah)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31"
+            },
+            "payout_ratio": {
+                "v": 20,
+                "source_url": "https://www.smbci.com/pdf/investor/corporate-action/dividend/jadwal-dan--tata--cara--dividen--tunai_eng-2026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-04-23",
+                "loc": "p. 1, Announcement of schedule and procedures for cash dividend (AGMS 23 Apr 2026: 20% of FY2025 net profit)",
+                "basis": "consolidated",
+                "note": "Also in the AGMS 2026 summary of minutes (ringkasan risalah RUPST, PDF p. 12): 20% of net profit, about Rp101,111,345,366."
+            },
+            "total_assets": {
+                "v": 245848.165,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2025/lkfs--pt--bank--smbc--indonesia--tbk-31--dec-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 185387.869,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Loans 2)' (note 2: including Sharia financing/receivables and financing receivables)",
+                "basis": "consolidated",
+                "note": "Gross, before allowance. Equals the audited FS face lines (Rp juta): 144,226,759 + 431,325 loans, 10,352,755 sharia financing, 30,377,030 financing receivables (OTO/SOF)."
+            },
+            "deposits": {
+                "v": 131001.08,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Deposits from Customers 3)' (note 3: including temporary syirkah funds)",
+                "basis": "consolidated",
+                "note": "Third-party funds incl. BTPN Syariah temporary syirkah funds, principal excl. accrued interest. Equals the audited FS face lines (Rp juta): deposits from customers 120,758,859 + 312,470, temporary syirkah funds 9,929,751."
+            },
+            "equity_attr": {
+                "v": 47453.768,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2025/lkfs--pt--bank--smbc--indonesia--tbk-31--dec-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Ekuitas yang diatribusikan kepada pemilik entitas induk' subtotal (after treasury shares)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 53455.714,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2025/lkfs--pt--bank--smbc--indonesia--tbk-31--dec-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests (30% of BTPN Syariah; from end-March 2024 also 49% of PT Oto Multiartha and PT Summit Oto Finance)."
+            },
+            "shares_out": {
+                "v": 10645945748,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2025/lkfs--pt--bank--smbc--indonesia--tbk-31--dec-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 184 (Note 29 share capital), shareholder composition (Biro Administrasi Efek)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid 10,645,945,748; no treasury shares (no treasury line on the balance sheet)."
+            },
+            "year_end_price": {
+                "v": 2120,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Share Highlights, 2025 Kuartal IV (Desember) 'Closing'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Market capitalisation printed for Q4 2025 (22,569,404,985,760) = 2,120 x 10,645,945,748. Q4 closing as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 1.1,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Return on Equity as printed; the AR does not state the formula. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "roa": {
+                "v": 0.1,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "RoA before tax (AR note 6). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "nim": {
+                "v": 7,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Net Interest Income Margin as printed. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "coc": {
+                "v": 4.52,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing--fy-2025_-eng_-new.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 50, Asset Quality table, Dec'25 (Audited) column",
+                "basis": "consolidated",
+                "note": "'Gross Cost of Credit' (%), group loan book."
+            },
+            "npl_gross": {
+                "v": 2.6,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "npl_net": {
+                "v": 0.8,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in the AR Financial Highlights (AR2025/AR2023 PDF p. 15) or in the analyst-deck Asset Quality tables (they show gross/net NPL, cost of credit, LLP/NPL and the special-mention share only)"
+            },
+            "npl_coverage": {
+                "v": 150.57,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing--fy-2025_-eng_-new.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 50, Asset Quality table, Dec'25 (Audited) column",
+                "basis": "consolidated",
+                "note": "'Loan Loss Provision/NPL' (%), group loan book (note on slide: NPL calculated on total loans excluding loans to banks)."
+            },
+            "ldr": {
+                "v": 140.3,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "LDR not including loans to banks (AR note 8); loans include sharia financing and, from 2024, OTO/SOF financing receivables. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "car": {
+                "v": 29.3,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "KPMM including credit, operational and market risk (AR note 5). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "cir": {
+                "v": 54.3,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio. Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "bopo": {
+                "v": 97.7,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Financial Highlights, Financial Ratios table (2022-2025)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income). Consolidated: the AR highlight ratios match the group figures (e.g. FY2025 CAR 29.3 = consolidated KPMM 29.31% vs bank-only 27.63%, AR2025 PDF p. 184; NIM 7.0 vs bank-only ~3.8-4%; ROE 1.1 = Rp506bn profit to owners / ~Rp47.6tn equity)."
+            },
+            "casa": {
+                "v": 40.6,
+                "source_url": "https://www.smbci.com/pdf/investor/annual-report/2026/ar-2025--smbc--indonesia_-eng_-final_-medium.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 143 (printed p. 141), MD&A Financial Performance, customer deposits ('The CASA ratio in 2025 was 40.6%, an increase from 37.6% at the end of December 2024')",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits incl. temporary syirkah funds (group)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 76.848365833,
+            "total": 619.139930957,
+            "cum_date": "2023-04-28",
+            "ex_date": "2023-05-02",
+            "record_date": "2023-05-03",
+            "pay_date": "2023-05-12",
+            "share_basis": "2023-04-14",
+            "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2023/btpn----jadwal-dan--tata--cara--dividen--tunai---eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-04-14",
+            "loc": "p. 1, Announcement of schedule and procedures for the distribution of cash dividend (AGMS 13 Apr 2023), dated Jakarta 14 April 2023",
+            "note": "20% of FY2022 profit: Rp619,139,930,957 = about Rp76.848365833/share on 8,056,644,071 shares outstanding after treasury stock. AR2025 PDF p. 150 prints the payment date as 11 May 2023 (announcement: 12 May 2023)."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 44.304837942,
+            "total": 471.666901105,
+            "cum_date": "2024-04-01",
+            "ex_date": "2024-04-02",
+            "record_date": "2024-04-03",
+            "pay_date": "2024-04-19",
+            "share_basis": "2024-03-22",
+            "source_url": "https://www.smbci.com/pdf/investor/corporate-action/dividend/jadwal-dan--tata--cara--dividen--tunai-2024---eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-03-22",
+            "loc": "p. 1, Announcement of schedule and procedures for the distribution of cash dividend (AGMS 21 Mar 2024), dated Jakarta 22 March 2024",
+            "note": "20% of FY2023 profit: Rp471,666,901,105 = Rp44.304837942/share on 10,645,945,748 shares, i.e. including the 2,589,131,077 Rights Issue II shares issued in March 2024 (FY2023 year-end outstanding was 8,056,814,671)."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 52.846144577,
+            "total": 562.597188162,
+            "cum_date": "2025-04-30",
+            "ex_date": "2025-05-02",
+            "record_date": "2025-05-05",
+            "pay_date": "2025-05-23",
+            "share_basis": "2025-04-23",
+            "source_url": "https://www.smbci.com/pdf/investor/annual-general-meeting/annual-general-meeting-of-shareholders/2025/rupst/2b--smbci----jadwal-dan--tata--cara--dividen--tunai---eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-04-23",
+            "loc": "p. 1, Announcement of schedule and procedures for the distribution of cash dividend (AGMS 22 Apr 2025), dated Jakarta 23 April 2025",
+            "note": "20% of FY2024 profit: Rp562,597,188,162 = estimated Rp52.846144577/share on 10,645,945,748 shares."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 9.497638609,
+            "total": 101.111345366,
+            "cum_date": "2026-05-04",
+            "ex_date": "2026-05-05",
+            "record_date": "2026-05-06",
+            "pay_date": "2026-05-22",
+            "share_basis": "2026-04-24",
+            "source_url": "https://www.smbci.com/pdf/investor/corporate-action/dividend/jadwal-dan--tata--cara--dividen--tunai_eng-2026.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-24",
+            "loc": "p. 1, Announcement of schedule and procedures for the distribution of cash dividend (AGMS 23 Apr 2026), dated Jakarta 24 April 2026",
+            "note": "20% of FY2025 profit: Rp101,111,345,366 = estimated Rp9.497638609/share (printed with a decimal comma, 'IDR 9,497638609') on 10,645,945,748 shares."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 1403.421,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2026/final_-fs--smbci_30--juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 10, Consolidated statement of changes in equity, 'Laba (rugi) bersih periode berjalan', column 'Jumlah' attributable to owners of the parent",
+                "basis": "consolidated",
+                "note": "Unaudited consolidated interim FS for the six months to 30 Jun 2026. Includes Rp476,269 juta profit from discontinued operations (pension-loan portfolio sold to PT Bank Tabungan Negara, PDF p. 9 and Note 50); continuing operations Rp927,152 juta."
+            },
+            "profit_ytd_prior": {
+                "v": 1000.097,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2026/final_-fs--smbci_30--juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 11, Consolidated statement of changes in equity, six months to 30 Jun 2025, 'Laba bersih periode berjalan' attributable to owners of the parent",
+                "basis": "consolidated",
+                "note": "Comparative; same total as originally reported in the 1H2025 analyst deck (Rp1,000bn)."
+            },
+            "equity_attr": {
+                "v": 48728.343,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2026/final_-fs--smbci_30--juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 7, Consolidated statement of financial position, equity attributable to owners of the parent subtotal",
+                "basis": "consolidated",
+                "note": "Unaudited consolidated interim FS for the six months to 30 Jun 2026."
+            },
+            "shares_out": {
+                "v": 10645945748,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2026/final_-fs--smbci_30--juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 7, share capital line ('Modal ditempatkan dan disetor penuh sebesar 10.645.945.748 saham'); no treasury-share line",
+                "basis": "n/a",
+                "share_basis": "2026-06-30"
+            },
+            "total_assets": {
+                "v": 245453.323,
+                "source_url": "https://www.smbci.com/pdf/investor/financial-statement/quarterly-financial-statement/2026/final_-fs--smbci_30--juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Unaudited consolidated interim FS for the six months to 30 Jun 2026. Includes Rp7,934,544 juta 'Aset dikuasai untuk dijual' (pension loans awaiting transfer to BTN)."
+            },
+            "loans_gross": {
+                "v": 185268,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 34, Balance Sheet table, 'Loans (gross)' Jun'26 (Unaudited)",
+                "basis": "consolidated",
+                "note": "Same definition as fy.*.loans_gross (Dec'25 column = 185,388). The FS face (FS 1H2026 PDF p. 4) shows only 177,418.9 bn (loans 133,958,811 + 530,604, sharia financing 11,031,970, financing receivables 31,897,535 Rp juta) because the remaining pension loans are reclassified to assets held for sale; the deck total appears to include them."
+            },
+            "loans_gross_prior": {
+                "v": 185040,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 34, Balance Sheet table, 'Loans (gross)' Jun'25 (Unaudited)",
+                "basis": "consolidated",
+                "note": "Also 185,040 in the 1H2025 deck."
+            },
+            "deposits": {
+                "v": 126566,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 34 and p. 37, 'Total Customer Deposits' Jun'26",
+                "basis": "consolidated",
+                "note": "Incl. temporary syirkah funds; equals FS 1H2026 face lines (PDF p. 5-6): deposits from customers 116,424,968 + 340,718 and temporary syirkah funds 9,800,000 Rp juta."
+            },
+            "deposits_prior": {
+                "v": 109818,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 34 and p. 37, 'Total Customer Deposits' Jun'25",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 6.29,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 36, Ratios table, ROE Jun'26 (Unaudited)",
+                "basis": "consolidated",
+                "note": "Consolidated (same series as the FY values: Dec'25 1.13). Annualised. Bank-only ROE in the published statement: 6.39."
+            },
+            "roa": {
+                "v": 1.81,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 36, Ratios table, ROA Jun'26 (Unaudited)",
+                "basis": "consolidated",
+                "note": "Consolidated, annualised (Dec'25 0.12). Bank-only: 1.26."
+            },
+            "nim": {
+                "v": 6.89,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 36, Ratios table, NIM Jun'26 (Unaudited)",
+                "basis": "consolidated",
+                "note": "Consolidated (Dec'25 7.02). Bank-only NIM in the published statement: 3.78."
+            },
+            "coc": {
+                "v": 2.24,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 39, Asset Quality table, 'Gross Cost of Credit' Jun26",
+                "basis": "consolidated",
+                "note": "Same series as fy.*.coc (Dec'25 4.52); annualised."
+            },
+            "npl_gross": {
+                "v": 3.48,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 36 and p. 39, NPL (gross) Jun'26",
+                "basis": "consolidated",
+                "note": "Consolidated (Dec'25 2.59). Bank-only in the published statement: 1.49."
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in the AR Financial Highlights (AR2025/AR2023 PDF p. 15) or in the analyst-deck Asset Quality tables (they show gross/net NPL, cost of credit, LLP/NPL and the special-mention share only)"
+            },
+            "npl_coverage": {
+                "v": 118.12,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 39, Asset Quality table, 'Loan Loss Provision/NPL' Jun26",
+                "basis": "consolidated"
+            },
+            "ldr": {
+                "v": null,
+                "note": "Consolidated LDR not disclosed for 30 Jun 2026 (the deck shows only 'Loan to Funding' 105.21). The published statement (PUB Jun 2026, Financial Ratios table, bank-only) prints LDR 126.42 (30 Jun 2025: 149.47); not stored because fy.*.ldr is the consolidated AR series."
+            },
+            "car": {
+                "v": 30.68,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 36, Ratios table, CAR Jun'26 (Unaudited)",
+                "basis": "consolidated",
+                "note": "Consolidated KPMM (Dec'25 29.31). Bank-only in the published statement: 29.27."
+            },
+            "cir": {
+                "v": null,
+                "note": "Consolidated CIR not disclosed for H1 2026 (deck and FS do not print it). The published statement (PUB Jun 2026, Financial Ratios table, bank-only) prints CIR 61.19 (30 Jun 2025: 62.11); not stored because fy.*.cir is the consolidated AR series."
+            },
+            "casa": {
+                "v": 47.5,
+                "source_url": "https://www.smbci.com/pdf/investor/investor-news/2026/smbc--indonesia--analyst--briefing-1-h-2026_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 33 and p. 37, CASA ratio Jun'26 ('lifting the Bank's CASA ratio from 39.8% in June 2025 to 47.5% in June 2026')",
+                "basis": "consolidated"
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2024",
+            "reason": "Reported FY2024 basic EPS (Rp279) uses the weighted-average share count of 10,087,089,587 (FS2024 PDF p. 193, Note 43d) because 2,589,131,077 Rights Issue II shares were issued in March 2024 (ex-right 28 Feb 2024); year-end shares are 10,645,945,748. 2,812,986 / 10,087,089,587 = Rp278.9."
+        },
+        {
+            "check": "dps_total:2023",
+            "reason": "The FY2023 dividend (Rp471,666,901,105 = Rp44.304837942/share) was paid in April 2024 on 10,645,945,748 shares, i.e. including the March 2024 Rights Issue II shares (announcement of 22 Mar 2024, p. 1); FY2023 year-end shares outstanding were 8,056,814,671. 44.304837942 x 10,645,945,748 = Rp471.67bn = stated total."
+        },
+        {
+            "check": "price_year_end:2024",
+            "reason": "SMBC Indonesia AR2024 (PDF p. 20, Share Highlights; repeated in AR2025) prints the Q4-2024 close as Rp2,610 while the same row prints high Rp2,400 and low Rp2,220, so the printed close lies outside its own range. The price source closes the last 2024 session (30 Dec 2024) at Rp2,200, inside that range, consistent with press reports of about Rp2,200. The AR figure appears misprinted; neither source is edited (fundamentals keep the AR value as printed)."
+        }
+    ],
+    "research_notes": [
+        "ISSUER: PT Bank SMBC Indonesia Tbk, IDX code BTPN (unchanged). Formerly PT Bank BTPN Tbk; the name change was approved by the EGMS of 29 Aug 2024 and took effect on 2 Oct 2024; OJK approved the logo change by letter S-195/PB.31/2024 of 24 Sep 2024 (AR2025 PDF p. 69). Majority shareholder Sumitomo Mitsui Banking Corporation, 91.05% at 31 Dec 2025 (FS2025 PDF p. 184).",
+        "SOURCE ACCESS: every document was downloaded directly from www.smbci.com with a plain browser User-Agent; no bot challenge, no Internet Archive needed. The bank's site rewrites 'btpn' to 'smbci' in some link URLs on its English pages, which makes those links 404; the original file names (with 'btpn') were used and are the source_url values. The old www.btpn.com domain no longer resolves.",
+        "SCOPE (consolidated vs bank-only): all fy.* money figures are consolidated: the Bank plus PT Bank BTPN Syariah Tbk (70% owned, itself listed as BTPS), PT BTPN Syariah Ventura (the IR site lists an Aug 2026 disclosure titled 'pencabutan izin usaha BTPNS Ventura', i.e. licence revocation; image-only PDF, not read) and, from the end of March 2024, PT Oto Multiartha and PT Summit Oto Finance (51% each). FY2024 growth is distorted by the OTO/SOF acquisition: financing receivables of Rp29.4tn were added to loans and goodwill rose to Rp1.1tn. BTPS's own numbers belong to the separate BTPS file and must not be mixed in.",
+        "DEFINITIONS: loans_gross = the bank's printed group 'Loans' total = conventional loans + sharia financing (+ OTO/SOF financing receivables from 2024), gross before allowance. deposits = the bank's 'Deposits from Customers (including temporary syirkah funds)' = third-party funds incl. BTPN Syariah mudharabah funds (about Rp7.6-9.9tn a year), excluding accrued interest. Both were checked line by line against each year's audited FS face. Note: BBNI.json's FY2019-2020 deposits exclude syirkah funds; here they are included because that is how this bank reports its third-party funds and its LDR/CASA.",
+        "RATIO BASIS: the FY ratios (CAR, NPL, ROA, ROE, NIM, BOPO, CIR, LDR) come from the AR 'Financial Highlights - Financial Ratios' table and are CONSOLIDATED: they match the consolidated KPMM (FY2025 29.31% consolidated vs 27.63% bank-only, AR2025 PDF p. 184) and group NIM/ROE, and the FY2022 deck labels the same series 'Key Financial Ratios - Consolidated'. The OJK published statements print a different, BANK-ONLY ratio table (e.g. 30 Jun 2026 NIM 3.78, LDR 126.42, CIR 61.19 vs group NIM 6.89). CoC and NPL coverage come from the analyst decks (group loan book). LAR is not disclosed in any document used. FY2020 CoC and NPL coverage are null because the FY2020/FY2021 decks could not be found on smbci.com or in the Internet Archive.",
+        "RESTATED DEFINITIONS: AR2022 restated BOPO and CIR for 2019-2021 to the SEOJK 9/SEOJK.03/2020 presentation (AR2022 PDF p. 15 note 7). The stored FY2020/FY2021 BOPO (85.5/76.0) and CIR (53.9/49.3) are the restated values from AR2023 PDF p. 15 (identical in AR2022); AR2021 originally printed BOPO 89.5 (2020) and 80.5 (2021), and AR2021 PDF p. 7 quotes a CIR of 63.2% for 2021 on the old definition. Balance-sheet and profit figures were never restated: each later FS repeats the prior year unchanged (checked FY2019-FY2024).",
+        "FY2019 / MERGER: BTPN merged with PT Bank Sumitomo Mitsui Indonesia effective 1 Feb 2019 and issued 2,296,846,112 shares to SMBC (FS2021 Note 27). FY2019 is the first post-merger balance sheet (TA Rp181.6tn); the FY2019 FS shows FY2018 for BTPN alone (Rp101.3tn), so FY2018->FY2019 growth is not meaningful. In Aug 2019 SMBC sold 400,000,000 existing shares at Rp3,600 to meet the free-float rule (AR2025 PDF p. 111): a secondary sale, not a new issue. FY2020 FS repeats FY2019 unchanged except P&L reclassifications (Note 48).",
+        "SHARES / CORPORATE ACTIONS since 2019: no split, reverse split or bonus issue (the last split was 1:5 on 28 Mar 2011). One rights issue: PMHMETD II, ex-right 28 Feb 2024 (see corporate_actions). Other share-count changes are not corporate actions of the listed types: MESOP issuances 2019-2021 (8,148,916,869 -> 8,149,106,869), transfer of 2,633,202 treasury shares to material risk takers (Aug 2021) and resale of treasury shares to the market, and the withdrawal (cancellation) of 92,292,198 treasury shares approved by the EGMS of 7 Dec 2023 and listed on 22 Feb 2024 (AR2025 PDF p. 111; FS2024 Note 1c). Rights Issue I (Dec 2010) is before the window.",
+        "EPS / SHARE_BASIS: no splits in the window, so share_basis only documents the date (period end for FY figures, announcement date for dividends). EPS x year-end shares matches profit within 0.2% in 2020-2023 and 1.0% in 2025; FY2024 is 5.6% off because the reported EPS uses weighted-average shares (10,087,089,587) after the March 2024 rights issue (validation_ack). The FY2023 EPS (293) was not restated for the rights bonus element in FS2024.",
+        "DIVIDENDS: no dividend out of FY2019 (AGMS 2020), FY2020 (AGMS 22 Apr 2021) or FY2021 (AGMS 21 Apr 2022) profit; payout_ratio 0 for 2020/2021 with the AGMS summaries as source. FY2022-FY2025: one final cash dividend each, 20% of profit, no interim or special dividends. The FY2023 dividend was paid on 10,645,945,748 shares including the March 2024 rights shares, hence the dps_total mismatch against FY2023 year-end shares (validation_ack). AR2025 prints the FY2022 payment date as 11 May 2023; the bank's announcement says 12 May 2023 (stored).",
+        "YEAR-END PRICE FY2024 DOUBTFUL: AR2024 (and AR2025, copied) print the 2024 Q4 close as Rp2,610 while the same row's high/low are 2,400/2,220, and the Q1 2024 row is also inconsistent (close 2,370 below low 2,558). A Kontan article of 3 Jul 2025 says the 30 Jun 2025 price of Rp2,520 was about 14.54% above the end-2024 price, which would make the end-2024 close about Rp2,200 (the headline calls it a one-day gain, so this is ambiguous too). The AR value is stored as printed. Once prices/BTPN.json exists, the price_year_end:2024 check will show whether the AR is wrong; it then needs an ack (or the owner decides to null it). There is no prices/BTPN.json yet, so the price checks did not run.",
+        "INTERIM: H1 2026 (unaudited consolidated FS for the period ended 30 Jun 2026 + 1H2026 analyst deck). 9M2026 is not available: smbci.com lists no Sep 2026 statement or deck as of 2026-11-03, and Kontan (30 Sep 2026) reported that the bank told IDX its 9M2026 consolidated FS would be audited. Re-run once the audited 9M2026 FS is published. H1 2026 includes the pension-loan sale (the IR site lists image-only disclosures titled 'closing project east', June and Aug 2026; the facts here come from FS 1H2026 Notes 44 and 50): on 22 May 2026 the bank agreed to transfer its pension and pre-pension loan portfolio to PT Bank Tabungan Negara (Persero) Tbk (first closing June 2026, second phase Q3 2026). It is presented as a discontinued operation (Rp476bn of H1 2026 profit to owners) and Rp7.93tn of assets held for sale at 30 Jun 2026; the deck's loan total (used) still includes the held-for-sale loans. Interim ldr and cir are null (only bank-only values are published; they are quoted in the notes).",
+        "FY2025 LOSS AT GROUP LEVEL: consolidated net result FY2025 was -Rp102.1bn after Rp8.0tn of provisions (largely at OTO/SOF following a portfolio review by SMBC); profit to owners was +Rp505.6bn because minorities absorbed -Rp607.7bn. ROA 0.1 / ROE 1.1 are real, not unit slips.",
+        "KBMI: 3. AR2025 PDF p. 182 prints bank-only core capital (Tier 1) of Rp33,184,333 juta at 31 Dec 2025, inside the KBMI 3 band (Rp14tn-Rp70tn, POJK 12/POJK.03/2021); the AR (PDF p. 32) and AR2024 (PDF p. 32) cite awards in the 'KBMI 3' category. BTPN Syariah itself is KBMI 2 (AR2022 PDF p. 141).",
+        "SELF-CHECK (validator rules): eps x shares_out vs net_profit_attr: 2020 -0.09%, 2021 +0.08%, 2022 -0.06%, 2023 +0.10%, 2024 +5.6% (acked), 2025 -1.03%. profit x payout vs stated dividend total: all within 0.01%. dps x FY-end shares vs total: 2022 0.00%, 2023 -24.3% (acked), 2024 0.00%, 2025 0.00%."
+    ]
+}
