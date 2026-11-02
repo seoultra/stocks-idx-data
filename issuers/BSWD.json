@@ -1,0 +1,1418 @@
+{
+    "schema": 1,
+    "code": "BSWD",
+    "name": "PT Bank of India Indonesia Tbk",
+    "name_short": "Bank of India Indonesia",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://boiindonesia.co.id",
+    "ir_url": "https://boiindonesia.co.id/id/category/hubungan-dengan-investor/",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 124, risk-management chapter: 'Dalam klasifikasi kelompok bank berdasarkan modal inti, Bank dikategorikan dalam Kelompok KBMI 1, yaitu kelompok bank berdasarkan modal inti dengan modal inti sampai dengan Rp6 triliun'",
+        "note": "KBMI 1 (core capital up to Rp6tn, POJK 12/POJK.03/2021); also AR2023 PDF p. 107 and AR2024 PDF p. 107. Core capital Rp3,498,326 juta at 30 Sep 2026 (30 Sep 2026 published report PDF p. 6), so still KBMI 1."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 4007.412556573,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 4 (Exhibit A/1), 31 Dec 2019 comparative column (as reclassified, Note 42), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Same in the FY2019 audited FS (FS2019 PDF p. 6, 'JUMLAH ASET'). Single entity (no subsidiaries, associates or JVs - AR2025 PDF p. 33); the audited 'Laporan Keuangan' cover the whole bank, tagged consolidated per the schema rule."
+            },
+            "loans_gross": {
+                "v": 2065.583544585,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 4 (Exhibit A/1), 31 Dec 2019 comparative column (as reclassified, Note 42), 'Kredit yang diberikan' subtotal (related + third parties) before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 2528.560155263,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page), 31 Dec 2019 comparative column (as reclassified, Note 42 PDF p. 107), 'Total/Jumlah simpanan dari nasabah' (current accounts + savings + time deposits)",
+                "basis": "consolidated",
+                "note": "Deposits from customers only (excludes deposits from other banks)."
+            },
+            "equity_attr": {
+                "v": 1161.277170478,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page), 31 Dec 2019 comparative column (as reclassified, Note 42 PDF p. 107), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity. The FY2019 audited FS (FS2019 PDF p. 7) originally showed Rp1,163,069,170,478; the FY2020 FS reclassify Rp1,792,000,000 'Uang muka setoran modal' (advance capital payment) from equity to other liabilities (Note 42, PDF p. 107). The reclassified comparative is stored for consistency with FY2020."
+            },
+            "total_equity": {
+                "v": 1161.277170478,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page), 31 Dec 2019 comparative column (as reclassified, Note 42 PDF p. 107), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 1750,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, 'Data Saham 2019 per Bulan' table, Desember closing ('Penutupan')",
+                "basis": "n/a",
+                "share_basis": "2019-12-31",
+                "note": "Informational: no rights or bonus issue falls before 2020-12-31, but the value is stored for completeness. The stock was suspended by IDX on 12 Feb 2018 (delisting plan) and did not trade at all in 2019: every month of the AR2019 table shows only the last close Rp1,750 with no high/low/volume."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": -70.581531876,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6 (Exhibit B/1), '(RUGI) LABA NETO TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Single entity (no subsidiaries, associates or JVs - AR2025 PDF p. 33); the audited 'Laporan Keuangan' cover the whole bank, tagged consolidated per the schema rule. Net LOSS (real): pre-tax profit Rp18.9bn turned into a loss by a Rp89.5bn deferred-tax expense (deferred tax assets fell from Rp98.1bn to Rp21.0bn, FS2020 PDF p. 4)."
+            },
+            "eps": {
+                "v": -50.82,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7 (Exhibit B/2, scanned page read from the rendered image), 'Laba (rugi) per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic EPS (Note 30). The FS use the FY-end share count as the 'weighted average' (1,388,800,000 shares)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-06-30",
+                "loc": "PDF p. 67, AGMS of 30 Jun 2021, resolution on agenda 2: 'Penetapan Penggunaan Laba Bersih Tahun Buku 2020, yaitu tidak ada pembagian dividen' / 'no dividend distribution'",
+                "basis": "consolidated",
+                "note": "FY2020 was a net loss (Rp-70.6bn); no dividend. Accumulated deficit throughout FY2019-FY2025."
+            },
+            "total_assets": {
+                "v": 3721.363459751,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4 (Exhibit A/1), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Single entity (no subsidiaries, associates or JVs - AR2025 PDF p. 33); the audited 'Laporan Keuangan' cover the whole bank, tagged consolidated per the schema rule."
+            },
+            "loans_gross": {
+                "v": 1944.371844259,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4 (Exhibit A/1), 'Kredit yang diberikan' subtotal (related + third parties) before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 2433.72713035,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), 'Total/Jumlah simpanan dari nasabah' (current accounts + savings + time deposits)",
+                "basis": "consolidated",
+                "note": "Deposits from customers only (excludes deposits from other banks)."
+            },
+            "equity_attr": {
+                "v": 1057.669579451,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1057.669579451,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 1388800000,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), equity section, 'Modal ditempatkan dan disetor penuh' caption",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid 1,388,800,000 shares (nominal Rp200); no treasury shares. Unchanged since PUT III (Dec 2017) - the shares were suspended from trading on IDX all year (12 Feb 2018 - 15 Dec 2023)."
+            },
+            "year_end_price": {
+                "v": 1750,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, 'Data Saham 2020 per Bulan' table, Desember closing",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Suspended all year (IDX suspension 12 Feb 2018 - 15 Dec 2023): no trades, last close Rp1,750 carried in every month."
+            },
+            "roe": {
+                "v": -6.84,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Rasio Keuangan / Financial Ratio' table, 2020 column",
+                "basis": "bank_only",
+                "note": "OJK definition: net profit / average core capital (AR2023 PDF p. 7 labels it 'Laba Bersih Terhadap Rata-Rata Modal Inti')."
+            },
+            "roa": {
+                "v": 0.49,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Rasio Keuangan / Financial Ratio' table, 2020 column",
+                "basis": "bank_only",
+                "note": "OJK definition: profit BEFORE tax / average total assets (AR2023 PDF p. 7 'Laba Sebelum Pajak terhadap Rata-Rata Total Aset'), hence positive in some loss years. Positive although the bank made a net loss: the OJK ROA uses profit before tax (2020 pre-tax profit Rp18.9bn; the loss came from a Rp89.5bn deferred-tax write-down)."
+            },
+            "nim": {
+                "v": 2.68,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Rasio Keuangan / Financial Ratio' table, 2020 column",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2020 (checked: 'Rasio Keuangan' table, MD&A, risk-management chapter) or in the Dec 2020 OJK published report."
+            },
+            "npl_gross": {
+                "v": 4.95,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Rasio Keuangan / Financial Ratio' table, 2020 column",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 2.22,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Rasio Keuangan / Financial Ratio' table, 2020 column",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 68,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18, Board of Commissioners' report: 'rasio Loan at Risk (LAR) yang mencapai 68,00% per Desember 2020'",
+                "basis": "bank_only",
+                "note": "As printed: LAR 68.00% at Dec 2020 'which then received relaxation' (Covid-19 restructuring). Above the validator's 60% plausibility ceiling - real as printed (pandemic-era restructured loans count as loans at risk). No LAR table exists; narrative figure."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2020 and the Dec 2020 published report print no NPL coverage ratio (allowance / NPL); the only 'coverage' ratio printed is the liquidity coverage ratio (LCR). Not computed."
+            },
+            "ldr": {
+                "v": 79.89,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Rasio Keuangan / Financial Ratio' table, 2020 column",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 45.49,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Rasio Keuangan / Financial Ratio' table, 2020 column",
+                "basis": "bank_only",
+                "note": "KPMM including credit + operational risk; far above the validator's 80% plausibility ceiling because the bank holds Rp3.3-3.5tn core capital (injected by Bank of India in 2021-2023 to meet the Rp3tn minimum core capital rule) against a small Rp4-4.8tn loan book. Real value, not a unit slip."
+            },
+            "cir": {
+                "v": 86.36,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Rasio Keuangan / Financial Ratio' table, 2020 column",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 93.65,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Rasio Keuangan / Financial Ratio' table, 2020 column",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 15.21,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_BOII_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Rasio Keuangan / Financial Ratio' table, 2020 column",
+                "basis": "bank_only",
+                "note": "'Dana Murah terhadap Dana Pihak Ketiga' (low-cost funds = current + savings accounts / third-party funds)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": -44.051239526,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7 (Exhibit B/2, scanned page read from the rendered image), 'RUGI NETO TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Net LOSS (real): pre-tax loss Rp42.4bn on Rp67.0bn loan-loss provisions (Covid-era restructured book)."
+            },
+            "eps": {
+                "v": -31.72,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7 (Exhibit B/2, scanned page), 'Laba (rugi) per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic EPS (Note 31). The FS use the FY-end share count as the 'weighted average' (1,388,800,000 shares)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Juni_2022_Hasil_RUPST.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-06-28",
+                "loc": "p. 1, AGMS result of 28 Jun 2022, 'Mata Acara Rapat Kedua': 'Penetapan Rugi Tahun Buku 2021, yaitu tidak ada pembagian dividen' (scanned page, read visually)",
+                "basis": "consolidated",
+                "note": "FY2021 net loss; no dividend."
+            },
+            "total_assets": {
+                "v": 4255.493556351,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 4 (Exhibit A/1), 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1805.123769959,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 4 (Exhibit A/1), 'Kredit yang diberikan' subtotal (related + third parties) before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 2054.170905845,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), 'Total/Jumlah simpanan dari nasabah' (current accounts + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 2018.746227482,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity. Includes Rp1,000bn 'Dana setoran modal' (Bank of India's capital deposit for PUT IV: transfers of 22, 24 and 29 Dec 2021 per the PUT IV prospectus; AR2025 PDF p. 18 dates the injection 31 Dec 2021)."
+            },
+            "total_equity": {
+                "v": 2018.746227482,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 1388800000,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Audit_Report_PT_Bank_of_India_Indonesia_Tbk_31_December_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), equity section, 'Modal ditempatkan dan disetor penuh' caption",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid 1,388,800,000 shares; no treasury shares. Equity also holds Rp1,000bn 'Dana setoran modal' paid in by Bank of India on 31 Dec 2021 ahead of PUT IV (shares issued in Aug/Sep 2022) - so equity per share at FY2021 is not on the same basis as the share count."
+            },
+            "year_end_price": {
+                "v": 1750,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, 'Data Saham 2021 per Bulan' table, Desember closing",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Suspended all year; no trades, last close Rp1,750 carried."
+            },
+            "roe": {
+                "v": -3.93,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2021 column",
+                "basis": "bank_only",
+                "note": "OJK definition: net profit / average core capital (AR2023 PDF p. 7 labels it 'Laba Bersih Terhadap Rata-Rata Modal Inti'). AR2021 PDF p. 7. Same value in AR2022 and AR2023."
+            },
+            "roa": {
+                "v": -1.23,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2021 column",
+                "basis": "bank_only",
+                "note": "OJK definition: profit BEFORE tax / average total assets (AR2023 PDF p. 7 'Laba Sebelum Pajak terhadap Rata-Rata Total Aset'), hence positive in some loss years."
+            },
+            "nim": {
+                "v": 2.95,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2021 column",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2021 (checked: 'Rasio Keuangan' table, MD&A, risk-management chapter) or in the Dec 2021 OJK published report."
+            },
+            "npl_gross": {
+                "v": 9.08,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2021 column",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 3.38,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2021 column",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 43.36,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 61, governance outcomes: 'Bank telah berhasil menurunkan tingkat LAR dari 43,36% menjadi 37,98%'",
+                "basis": "bank_only",
+                "note": "The AR2022 sentence gives the 2021 starting level (43.36%) and the 2022 level (37.98%) without dates; read as Dec 2021 -> Dec 2022. AR2021 itself prints no LAR figure."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2021 and the Dec 2021 published report print no NPL coverage ratio (allowance / NPL); the only 'coverage' ratio printed is the liquidity coverage ratio (LCR). Not computed."
+            },
+            "ldr": {
+                "v": 87.88,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2021 column",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 98.07,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2021 column",
+                "basis": "bank_only",
+                "note": "KPMM including credit + operational risk; far above the validator's 80% plausibility ceiling because the bank holds Rp3.3-3.5tn core capital (injected by Bank of India in 2021-2023 to meet the Rp3tn minimum core capital rule) against a small Rp4-4.8tn loan book. Real value, not a unit slip."
+            },
+            "cir": {
+                "v": 91.62,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2021 column",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 120.64,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2021 column",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 20.4,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_-_Sustainability_Report_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2021 column",
+                "basis": "bank_only",
+                "note": "'Dana Murah terhadap Dana Pihak Ketiga' (low-cost funds = current + savings accounts / third-party funds)."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 16.589767385,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Report_Audit_BOII_31_Desember_2022-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7 (Exhibit B/2, scanned page read from the rendered image), 'LABA (RUGI) NETO TAHUN BERJALAN'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 6.94,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Report_Audit_BOII_31_Desember_2022-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7 (Exhibit B/2, scanned page); Note 30 PDF p. 68, 'Laba (rugi) per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic EPS (Note 30). The FS use the FY-end share count as the 'weighted average' (2,388,861,478 shares) even though the PUT IV shares were issued only in late Aug 2022 - presumably because the Rp1tn capital deposit for them was already in equity at end-2021; EPS x FY-end shares = profit."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Hasil_Pengumuman_RUPST_Jun_2023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-06-27",
+                "loc": "p. 1, AGMS result of 27 Jun 2023, 'Mata Acara Kedua Rapat': 'Penetapan Penggunaan Laba Bersih Tahun Buku 2022, yaitu tidak ada pembagian dividen dan seluruh perolehan laba bersih tahun buku 2022 dibukukan sebagai Laba Ditahan' (scanned page, read visually)",
+                "basis": "consolidated",
+                "note": "Whole FY2022 profit retained (accumulated deficit Rp-429.6bn at end-2022)."
+            },
+            "total_assets": {
+                "v": 6060.045883689,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Report_Audit_BOII_31_Desember_2022-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 4 (Exhibit A/1), 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 2505.160020656,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Report_Audit_BOII_31_Desember_2022-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 4 (Exhibit A/1), 'Kredit yang diberikan' subtotal (related + third parties) before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 2372.540031817,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Report_Audit_BOII_31_Desember_2022-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), 'Total/Jumlah simpanan dari nasabah' (current accounts + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3332.242148671,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Report_Audit_BOII_31_Desember_2022-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity. Includes Rp1,300bn 'Dana setoran modal' (Bank of India's capital deposit for PUT V, received 29 Nov 2022)."
+            },
+            "total_equity": {
+                "v": 3332.242148671,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Report_Audit_BOII_31_Desember_2022-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 2388861478,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Report_Audit_BOII_31_Desember_2022-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5 (Exhibit A/2, scanned page read from the rendered image), equity section, 'Modal ditempatkan dan disetor penuh' caption",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid 2,388,861,478 shares after PUT IV (1,000,061,478 new shares, listed 2 Sep 2022); no treasury shares. Equity also holds Rp1,300bn 'Dana setoran modal' received 29 Nov 2022 for PUT V (shares issued Apr/May 2023) - equity per share at FY2022 mixes bases. IDX-listed shares 2,364,972,863 (99% listing cap, AR2025 PDF p. 18)."
+            },
+            "year_end_price": {
+                "v": 1750,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, 'Data Saham 2022 per Bulan' table, Desember closing",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Suspended all year; no trades. PUT IV (ex 15 Aug 2022) took place during the suspension, so the carried 'close' Rp1,750 is the pre-rights price."
+            },
+            "roe": {
+                "v": 0.79,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2022 column",
+                "basis": "bank_only",
+                "note": "OJK definition: net profit / average core capital (AR2023 PDF p. 7 labels it 'Laba Bersih Terhadap Rata-Rata Modal Inti')."
+            },
+            "roa": {
+                "v": 0.14,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2022 column",
+                "basis": "bank_only",
+                "note": "OJK definition: profit BEFORE tax / average total assets (AR2023 PDF p. 7 'Laba Sebelum Pajak terhadap Rata-Rata Total Aset'), hence positive in some loss years."
+            },
+            "nim": {
+                "v": 3.3,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2022 column",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2022 (checked: 'Rasio Keuangan' table, MD&A, risk-management chapter) or in the Dec 2022 OJK published report."
+            },
+            "npl_gross": {
+                "v": 9.07,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2022 column",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 4.83,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2022 column",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 37.98,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 61, governance outcomes ('... dari 43,36% menjadi 37,98%'); AR2023 PDF p. 2 repeats 37.98% for 2022",
+                "basis": "bank_only"
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2022 and the Dec 2022 published report print no NPL coverage ratio (allowance / NPL); the only 'coverage' ratio printed is the liquidity coverage ratio (LCR). Not computed."
+            },
+            "ldr": {
+                "v": 105.59,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2022 column",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 127.42,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2022 column",
+                "basis": "bank_only",
+                "note": "KPMM including credit + operational risk; far above the validator's 80% plausibility ceiling because the bank holds Rp3.3-3.5tn core capital (injected by Bank of India in 2021-2023 to meet the Rp3tn minimum core capital rule) against a small Rp4-4.8tn loan book. Real value, not a unit slip."
+            },
+            "cir": {
+                "v": 67.96,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2022 column",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 99.38,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2022 column",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 17.13,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report___Sustainability_Report_2022_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2022 column",
+                "basis": "bank_only",
+                "note": "'Dana Murah terhadap Dana Pihak Ketiga' (low-cost funds = current + savings accounts / third-party funds). AR2022 PDF p. 7 table and AR2023 PDF p. 7 print 17.13; the AR2022 chart on PDF p. 8 prints 14.63 for 2022. 17.13 = (283,551 + 122,913) / 2,372,540 (AR2022 PDF p. 7 DPK breakdown), so the table value is stored."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 48.831391424,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Lap_Keu_PT_Bank_of_India_Indonesia__Tbk_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 13.24,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Lap_Keu_PT_Bank_of_India_Indonesia__Tbk_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12; Note 31 PDF p. 83, 'Laba (rugi) per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic EPS (Note 31). The FS use the FY-end share count as the 'weighted average' (3,688,866,845 shares) even though the PUT V shares were issued in Apr/May 2023 (capital deposit already in equity at end-2022)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Hasil_RUPST_Juni_2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-06-27",
+                "loc": "p. 1, AGMS result of 27 Jun 2024, 'Mata Acara Kedua Rapat': '... Penggunaan Laba Bersih Tahun Buku 2023, yaitu tidak ada pembagian dividen dan seluruh laba bersih tahun buku 2023 dibukukan sebagai Laba Ditahan' (scanned page, read visually)",
+                "basis": "consolidated",
+                "note": "Also AR2024 PDF p. 68 and AR2025 PDF p. 54."
+            },
+            "total_assets": {
+                "v": 6128.562060955,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Lap_Keu_PT_Bank_of_India_Indonesia__Tbk_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 3716.153617702,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Lap_Keu_PT_Bank_of_India_Indonesia__Tbk_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, 'Kredit yang diberikan' subtotal (related + third parties) before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 2700.802105052,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Lap_Keu_PT_Bank_of_India_Indonesia__Tbk_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, 'Total/Jumlah simpanan dari nasabah' (current accounts + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3378.441004326,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Lap_Keu_PT_Bank_of_India_Indonesia__Tbk_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3378.441004326,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Lap_Keu_PT_Bank_of_India_Indonesia__Tbk_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 3688866845,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Lap_Keu_PT_Bank_of_India_Indonesia__Tbk_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, equity section, 'Modal ditempatkan dan disetor penuh' caption",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid 3,688,866,845 shares after PUT V (1,300,005,367 new shares, May 2023); no treasury shares. IDX-listed 3,651,978,177 (99% cap, AR2025 PDF p. 34)."
+            },
+            "year_end_price": {
+                "v": 1245,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, 'Data Saham 2023 per Bulan' table, Desember closing (same in AR2024 PDF p. 9 two-year table)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Suspension lifted from session I of 18 Dec 2023 (IDX Peng-UPT-00010/BEI.PP3/12-2023, AR2023 PDF p. 96). The AR tables show Rp1,750 through Oct 2023, Rp1,185 for November (no trades; consistent with an exchange-adjusted ex-rights reference price after the two 1:1 rights issues at Rp1,000 in 2022-2023: (1,750+1,000)/2 = 1,375, (1,375+1,000)/2 = 1,187.5 -> tick 1,185; that interpretation is mine, not printed) and Rp1,245 for December (first trades)."
+            },
+            "roe": {
+                "v": 1.49,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2023 column",
+                "basis": "bank_only",
+                "note": "OJK definition: net profit / average core capital (AR2023 PDF p. 7 labels it 'Laba Bersih Terhadap Rata-Rata Modal Inti')."
+            },
+            "roa": {
+                "v": 0.96,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2023 column",
+                "basis": "bank_only",
+                "note": "OJK definition: profit BEFORE tax / average total assets (AR2023 PDF p. 7 'Laba Sebelum Pajak terhadap Rata-Rata Total Aset'), hence positive in some loss years."
+            },
+            "nim": {
+                "v": 4.58,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2023 column",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2023 (checked: 'Rasio Keuangan' table, MD&A, risk-management chapter) or in the Dec 2023 OJK published report."
+            },
+            "npl_gross": {
+                "v": 6.28,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2023 column",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 3.88,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2023 column",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 13.66,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, theme text: 'kredit kualitas rendah (KKR) dari 37,98% menjadi 13,66%' / 'loans at risk (LAR) from 37.98% to 13.66%'",
+                "basis": "bank_only",
+                "note": "AR2024 PDF p. 13 repeats 13.66% for 2023."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2023 and the Dec 2023 published report print no NPL coverage ratio (allowance / NPL); the only 'coverage' ratio printed is the liquidity coverage ratio (LCR). Not computed."
+            },
+            "ldr": {
+                "v": 137.59,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2023 column",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 92.54,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2023 column",
+                "basis": "bank_only",
+                "note": "KPMM including credit + operational risk; far above the validator's 80% plausibility ceiling because the bank holds Rp3.3-3.5tn core capital (injected by Bank of India in 2021-2023 to meet the Rp3tn minimum core capital rule) against a small Rp4-4.8tn loan book. Real value, not a unit slip."
+            },
+            "cir": {
+                "v": 40.03,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2023 column",
+                "basis": "bank_only",
+                "note": "AR2023 (first publication) prints 40.03; the 31 Dec 2024 published report (comparative column), AR2024 PDF p. 7 and AR2025 PDF p. 6 restate 2023 CIR as 39.14. First-reported value stored."
+            },
+            "bopo": {
+                "v": 84.69,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2023 column",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 19.38,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Financial-Performance/Annual_Report_Sustainability_Report_2023_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2023 column",
+                "basis": "bank_only",
+                "note": "'Dana Murah terhadap Dana Pihak Ketiga' (low-cost funds = current + savings accounts / third-party funds)."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 78.754937362,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Lap_Keu_PT_Bank_of_India_Indonesia_Tbk_31_Des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 21.35,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Lap_Keu_PT_Bank_of_India_Indonesia_Tbk_31_Des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12; Note 31 PDF p. 84, 'Laba (rugi) per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic EPS (Note 31). The FS use the FY-end share count as the 'weighted average' (3,688,866,845 shares)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/RUPS/Hasil_RUPST_24_Juni_2025_.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-24",
+                "loc": "p. 1, AGMS result of 24 Jun 2025, '2. Mata Acara Kedua Rapat': 'Penggunaan Laba Bersih Perseroan Tahun Buku 2024 dibukukan sebagai Laba Ditahan dan dipergunakan sepenuhnya untuk membantu peningkatan kinerja Perseroan' (scanned page, read visually)",
+                "basis": "consolidated",
+                "note": "Whole FY2024 profit retained; no dividend."
+            },
+            "total_assets": {
+                "v": 6815.156755265,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Lap_Keu_PT_Bank_of_India_Indonesia_Tbk_31_Des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 4140.311144536,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Lap_Keu_PT_Bank_of_India_Indonesia_Tbk_31_Des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, 'Kredit yang diberikan' subtotal (related + third parties) before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 3102.705925557,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Lap_Keu_PT_Bank_of_India_Indonesia_Tbk_31_Des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, 'Total/Jumlah simpanan dari nasabah' (current accounts + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3457.363152063,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Lap_Keu_PT_Bank_of_India_Indonesia_Tbk_31_Des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3457.363152063,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Lap_Keu_PT_Bank_of_India_Indonesia_Tbk_31_Des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 3688866845,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Lap_Keu_PT_Bank_of_India_Indonesia_Tbk_31_Des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, equity section, 'Modal ditempatkan dan disetor penuh' caption",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid 3,688,866,845 shares; no treasury shares; no corporate action in 2024 (AR2024 PDF p. 10)."
+            },
+            "year_end_price": {
+                "v": 2690,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, 'Data Saham 2024 per Bulan' table, Desember closing (same in AR2025 PDF p. 6 two-year table)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Thin trading: no trades in May, Jun, Aug, Oct, Nov 2024 (monthly volume in the table is a few shares-thousand lots)."
+            },
+            "roe": {
+                "v": 2.39,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2024 column",
+                "basis": "bank_only",
+                "note": "OJK definition: net profit / average core capital (AR2023 PDF p. 7 labels it 'Laba Bersih Terhadap Rata-Rata Modal Inti'). Identical to the 31 Dec 2024 OJK published report (LapKeuTRIWULANBOII122024.pdf, ratio block)."
+            },
+            "roa": {
+                "v": 1.52,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2024 column",
+                "basis": "bank_only",
+                "note": "OJK definition: profit BEFORE tax / average total assets (AR2023 PDF p. 7 'Laba Sebelum Pajak terhadap Rata-Rata Total Aset'), hence positive in some loss years. Identical to the 31 Dec 2024 OJK published report (LapKeuTRIWULANBOII122024.pdf, ratio block)."
+            },
+            "nim": {
+                "v": 4.63,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2024 column",
+                "basis": "bank_only",
+                "note": "AR2024 and the 31 Dec 2024 OJK published report print 4.63; the 31 Dec 2025 published report (comparative column, new SEOJK 29/2025 template), AR2025 PDF p. 6 and the Oct-2026 incidental public expose restate 2024 NIM as 4.44. First-reported value stored. Identical to the 31 Dec 2024 OJK published report (LapKeuTRIWULANBOII122024.pdf, ratio block)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2024 (checked: 'Rasio Keuangan' table, MD&A, risk-management chapter) or in the Dec 2024 OJK published report."
+            },
+            "npl_gross": {
+                "v": 6.02,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2024 column",
+                "basis": "bank_only",
+                "note": "Identical to the 31 Dec 2024 OJK published report (LapKeuTRIWULANBOII122024.pdf, ratio block)."
+            },
+            "npl_net": {
+                "v": 3.48,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2024 column",
+                "basis": "bank_only",
+                "note": "Identical to the 31 Dec 2024 OJK published report (LapKeuTRIWULANBOII122024.pdf, ratio block)."
+            },
+            "lar": {
+                "v": 12.38,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Board of Commissioners' report: 'menekan rasio Loan at Risk (LAR) menjadi sebesar 12,38%' (from 13.66%)",
+                "basis": "bank_only"
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2024 and the Dec 2024 published report print no NPL coverage ratio (allowance / NPL); the only 'coverage' ratio printed is the liquidity coverage ratio (LCR). Not computed."
+            },
+            "ldr": {
+                "v": 133.44,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2024 column",
+                "basis": "bank_only",
+                "note": "Identical to the 31 Dec 2024 OJK published report (LapKeuTRIWULANBOII122024.pdf, ratio block)."
+            },
+            "car": {
+                "v": 88.58,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2024 column",
+                "basis": "bank_only",
+                "note": "KPMM including credit + operational risk; far above the validator's 80% plausibility ceiling because the bank holds Rp3.3-3.5tn core capital (injected by Bank of India in 2021-2023 to meet the Rp3tn minimum core capital rule) against a small Rp4-4.8tn loan book. Real value, not a unit slip. Identical to the 31 Dec 2024 OJK published report (LapKeuTRIWULANBOII122024.pdf, ratio block)."
+            },
+            "cir": {
+                "v": 44.03,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2024 column",
+                "basis": "bank_only",
+                "note": "AR2024 and the 31 Dec 2024 published report print 44.03; AR2025 / 31 Dec 2025 published report restate 2024 as 44.09. First-reported value stored. Identical to the 31 Dec 2024 OJK published report (LapKeuTRIWULANBOII122024.pdf, ratio block)."
+            },
+            "bopo": {
+                "v": 79.67,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2024 column",
+                "basis": "bank_only",
+                "note": "AR2024 and the 31 Dec 2024 published report print 79.67; AR2025 / 31 Dec 2025 published report restate 2024 as 79.71. First-reported value stored. Identical to the 31 Dec 2024 OJK published report (LapKeuTRIWULANBOII122024.pdf, ratio block)."
+            },
+            "casa": {
+                "v": 18.63,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2024_BOII_2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, 'Rasio Keuangan / Financial Ratio' table, 2024 column",
+                "basis": "bank_only",
+                "note": "'Dana Murah terhadap Dana Pihak Ketiga' (low-cost funds = current + savings accounts / third-party funds). Identical to the 31 Dec 2024 OJK published report (LapKeuTRIWULANBOII122024.pdf, ratio block)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 48.282258651,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Report_PT_Bank_of_India_Indonesia_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 13.09,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Report_PT_Bank_of_India_Indonesia_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12; Note 30 PDF p. 82, 'Laba (rugi) per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic EPS (Note 30). The FS use the FY-end share count as the 'weighted average' (3,688,866,845 shares)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/RUPS/Hasil_RUPST_24_Juni_2026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-24",
+                "loc": "p. 2, AGMS result of 24 Jun 2026 (published 25 Jun 2026), 'Keputusan Mata Acara Kedua': 'Penggunaan Laba Bersih Perseroan Tahun Buku 2025 seluruhnya dibukukan sebagai Laba ditahan'",
+                "basis": "consolidated",
+                "note": "Whole FY2025 profit retained; no dividend."
+            },
+            "total_assets": {
+                "v": 7177.245297778,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Report_PT_Bank_of_India_Indonesia_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 4189.110101793,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Report_PT_Bank_of_India_Indonesia_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, 'Kredit yang diberikan' subtotal (related + third parties) before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 3617.715219297,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Report_PT_Bank_of_India_Indonesia_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, 'Total/Jumlah simpanan dari nasabah' (current accounts + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3512.254400929,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Report_PT_Bank_of_India_Indonesia_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3512.254400929,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Report_PT_Bank_of_India_Indonesia_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 3688866845,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/lap_Keu_Tahunan/Final_Report_PT_Bank_of_India_Indonesia_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, equity section, 'Modal ditempatkan dan disetor penuh' caption",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid 3,688,866,845 shares; no treasury shares; no corporate action in 2025 (AR2025 PDF p. 7)."
+            },
+            "year_end_price": {
+                "v": 850,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Data Saham 2025 per Bulan' table, Desember closing ('Nilai Akhir' close 850)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Thin trading (no trades in Feb 2025)."
+            },
+            "roe": {
+                "v": 1.44,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Rasio Keuangan / Financial Ratio' table, 2025 column",
+                "basis": "bank_only",
+                "note": "OJK definition: net profit / average core capital (AR2023 PDF p. 7 labels it 'Laba Bersih Terhadap Rata-Rata Modal Inti'). Identical to the 31 Dec 2025 OJK published report (PUBLIKASI_Desember_2025_All.pdf, ratio table)."
+            },
+            "roa": {
+                "v": 0.92,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Rasio Keuangan / Financial Ratio' table, 2025 column",
+                "basis": "bank_only",
+                "note": "OJK definition: profit BEFORE tax / average total assets (AR2023 PDF p. 7 'Laba Sebelum Pajak terhadap Rata-Rata Total Aset'), hence positive in some loss years. Identical to the 31 Dec 2025 OJK published report (PUBLIKASI_Desember_2025_All.pdf, ratio table)."
+            },
+            "nim": {
+                "v": 4.3,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Rasio Keuangan / Financial Ratio' table, 2025 column",
+                "basis": "bank_only",
+                "note": "Identical to the 31 Dec 2025 OJK published report (PUBLIKASI_Desember_2025_All.pdf, ratio table)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2025 (checked: 'Rasio Keuangan' table, MD&A, risk-management chapter) or in the Dec 2025 OJK published report."
+            },
+            "npl_gross": {
+                "v": 5.58,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Rasio Keuangan / Financial Ratio' table, 2025 column",
+                "basis": "bank_only",
+                "note": "Identical to the 31 Dec 2025 OJK published report (PUBLIKASI_Desember_2025_All.pdf, ratio table)."
+            },
+            "npl_net": {
+                "v": 4.33,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Rasio Keuangan / Financial Ratio' table, 2025 column",
+                "basis": "bank_only",
+                "note": "Identical to the 31 Dec 2025 OJK published report (PUBLIKASI_Desember_2025_All.pdf, ratio table)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: AR2025 prints no LAR / 'Kredit Kualitas Rendah' figure and the 31 Dec 2025 published report (old template) has no KKR line; the KKR line first appears in the 30 Sep 2026 report (see interim; its 30 Sep 2025 comparative is 11.90%)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2025 and the Dec 2025 published report print no NPL coverage ratio (allowance / NPL); the only 'coverage' ratio printed is the liquidity coverage ratio (LCR). Not computed."
+            },
+            "ldr": {
+                "v": 115.79,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Rasio Keuangan / Financial Ratio' table, 2025 column",
+                "basis": "bank_only",
+                "note": "Identical to the 31 Dec 2025 OJK published report (PUBLIKASI_Desember_2025_All.pdf, ratio table)."
+            },
+            "car": {
+                "v": 87.79,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Rasio Keuangan / Financial Ratio' table, 2025 column",
+                "basis": "bank_only",
+                "note": "KPMM including credit + operational risk; far above the validator's 80% plausibility ceiling because the bank holds Rp3.3-3.5tn core capital (injected by Bank of India in 2021-2023 to meet the Rp3tn minimum core capital rule) against a small Rp4-4.8tn loan book. Real value, not a unit slip. Identical to the 31 Dec 2025 OJK published report (PUBLIKASI_Desember_2025_All.pdf, ratio table)."
+            },
+            "cir": {
+                "v": 44.93,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Rasio Keuangan / Financial Ratio' table, 2025 column",
+                "basis": "bank_only",
+                "note": "Identical to the 31 Dec 2025 OJK published report (PUBLIKASI_Desember_2025_All.pdf, ratio table)."
+            },
+            "bopo": {
+                "v": 88.27,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Rasio Keuangan / Financial Ratio' table, 2025 column",
+                "basis": "bank_only",
+                "note": "Identical to the 31 Dec 2025 OJK published report (PUBLIKASI_Desember_2025_All.pdf, ratio table)."
+            },
+            "casa": {
+                "v": 19.01,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Annual_report/Annual_Report___Sustainability_Report_2025_BOII.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'Rasio Keuangan / Financial Ratio' table, 2025 column",
+                "basis": "bank_only",
+                "note": "'Dana Murah terhadap Dana Pihak Ketiga' (low-cost funds = current + savings accounts / third-party funds). Identical to the 31 Dec 2025 OJK published report (PUBLIKASI_Desember_2025_All.pdf, ratio table)."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 72.683,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Laporan Laba Rugi, 'LABA (RUGI) BERSIH TAHUN BERJALAN', 30 SEP 2026 column (Rp juta)",
+                "basis": "consolidated",
+                "note": "Unaudited OJK quarterly published report (Laporan Keuangan Publikasi), whole entity. No full 9M2026 interim FS is posted on the IR page (only the 30 Jun 2026 interim FS)."
+            },
+            "profit_ytd_prior": {
+                "v": 10.182,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 3, Laporan Laba Rugi, 30 SEP 2025 comparative column (Rp juta)",
+                "basis": "consolidated",
+                "note": "Same 10,182 in the 30 Sep 2025 published report (PUBLIKASI_September_2025_All.pdf, PDF p. 3). 9M2025 profit was depressed by Rp109.2bn impairment charges."
+            },
+            "equity_attr": {
+                "v": 3584.937,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, Laporan Posisi Keuangan, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 3688866845,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, equity: paid-up capital = modal dasar 2,200,000 less unpaid 1,462,227 = Rp737,773 juta at Rp200 nominal",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Exact count 3,688,866,845 from the 30 Jun 2026 interim FS (Lap_Keu_Bank_of_India_Indonesia_30_Jun_2026.pdf, PDF p. 5 and the registrar table); paid-up capital unchanged at 30 Sep 2026 (Rp737,773 juta = 3,688,866,845 x Rp200). No corporate action since PUT V (Incidental Public Expose 8 Oct 2026, slide 14: no corporate action planned)."
+            },
+            "total_assets": {
+                "v": 6986.839,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, Laporan Posisi Keuangan, 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 4775.701,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, asset line 9 'Kredit yang diberikan' (gross; the allowance is line 13b, Rp96,118 juta) (Rp juta)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 4098.376,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/PUBLIKASI_September_2025_All.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 2, Laporan Posisi Keuangan 30 Sep 2025, line 9 'Kredit yang diberikan' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 3355.172,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, liability lines 1-3: Giro 694,365 + Tabungan 94,629 + Deposito 2,566,178 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Sum of the three printed third-party-fund lines (the report prints no DPK subtotal)."
+            },
+            "deposits_prior": {
+                "v": 3519.752,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/PUBLIKASI_September_2025_All.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 2, liability lines 1-3 at 30 Sep 2025: Giro 590,126 + Tabungan 121,577 + Deposito 2,808,049 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Sum of the three printed third-party-fund lines."
+            },
+            "roe": {
+                "v": 2.84,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 9, 'Laporan Rasio Keuangan 30 September 2026 dan 30 September 2025', 30 SEP 2026 column, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Annualised, OJK definition (net profit / average core capital). 30 Sep 2025: 0.40%."
+            },
+            "roa": {
+                "v": 1.74,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 9, 'Laporan Rasio Keuangan 30 September 2026 dan 30 September 2025', 30 SEP 2026 column, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (pre-tax profit / average assets), annualised. 30 Sep 2025: 0.42%."
+            },
+            "nim": {
+                "v": 4.18,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 9, 'Laporan Rasio Keuangan 30 September 2026 dan 30 September 2025', 30 SEP 2026 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 4.33%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the 30 Sep 2026 published report (ratio table PDF p. 9) or the Oct-2026 incidental public expose deck."
+            },
+            "npl_gross": {
+                "v": 4.93,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 9, 'Laporan Rasio Keuangan 30 September 2026 dan 30 September 2025', 30 SEP 2026 column, 'NPL gross'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 5.98%."
+            },
+            "lar": {
+                "v": 18.22,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 9, 'Laporan Rasio Keuangan 30 September 2026 dan 30 September 2025', 30 SEP 2026 column, '7 Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "KKR ('low-quality loans'), the OJK published-report loan-at-risk line new in the SEOJK 29/2025 template; no formula printed. 30 Sep 2025 comparative: 11.90%. The FY LAR figures (AR narrative) are not necessarily on the same definition."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: the 30 Sep 2026 published report prints no NPL coverage ratio (only 'CKPN aset keuangan terhadap aset produktif' 1.47%, which is not NPL coverage)."
+            },
+            "ldr": {
+                "v": 142.34,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 9, 'Laporan Rasio Keuangan 30 September 2026 dan 30 September 2025', 30 SEP 2026 column, 'Loan to Deposits Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 116.44%."
+            },
+            "car": {
+                "v": 83.52,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 9, 'Laporan Rasio Keuangan 30 September 2026 dan 30 September 2025', 30 SEP 2026 column, '1 Kewajiban Penyediaan Modal Minimum (KPMM)'; KPMM report PDF p. 7 (CET1 82.71%)",
+                "basis": "bank_only",
+                "note": "Above the validator's 80% ceiling - real (core capital Rp3,498.3bn vs RWA Rp4,229.5bn, PDF pp. 6-7). 30 Sep 2025: 89.99%."
+            },
+            "cir": {
+                "v": 44.1,
+                "source_url": "https://kms.boiindonesia.co.id/storage/documents/1/Triwulanan/Laporan_Keuangan_Pub_Sep_26_IN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 9, 'Laporan Rasio Keuangan 30 September 2026 dan 30 September 2025', 30 SEP 2026 column, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 44.41%. BOPO 71.11%."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not printed as a ratio in the 30 Sep 2026 published report (only the giro / tabungan / deposito balances, PDF p. 2); not computed. The incidental public expose deck gives CASA 20.62% for 31 Aug 2026 (different date)."
+            }
+        }
+    },
+    "validation_ack": [],
+    "research_notes": [
+        "SOURCE ACCESS: every document came straight from the bank's own CMS https://kms.boiindonesia.co.id/storage/documents/1/... (links read from the __NEXT_DATA__ JSON of the Next.js IR pages under https://boiindonesia.co.id/id/category/hubungan-dengan-investor/, saved in html/). Plain curl with a browser User-Agent on 2026-11-03, no bot challenge (www.boiindonesia.co.id answers 403; the bare domain works). No Internet Archive copy was needed. idx.co.id was not used. News (pasardana/kontan, via web search) only for the Oct-2026 trading suspensions, which are not data in this file.",
+        "ENTITY / BASIS: PT Bank of India Indonesia Tbk (formerly PT Bank Swadesi Tbk; renamed 2011; Bank of India - owned by the Government of India - holds 90.96% since PUT V, PT Panca Mantra Jaya 4.99% at the Jun-2025 AGMS; free float 7.68% at 31 Mar 2026 per news, free-float deadline 31 Mar 2029 per the Oct-2026 incidental public expose). The bank has no subsidiaries, associates or JVs (AR2025 PDF p. 33); its audited 'Laporan Keuangan' are the whole entity. Money fields carry basis 'consolidated' (validator rule), ratios 'bank_only' as printed. equity_attr = total_equity (no NCI). Conventional bank, no sharia unit. Auditors: Tanubrata Sutanto Fahmi Bambang & Rekan (BDO) for FY2021-FY2022, Kanaka Puradiredja Suhartono (Nexia) for FY2023-FY2024 (per AGMS results).",
+        "UNITS: all audited FS FY2019-FY2025 are in full Rupiah (divided by 1e9, full precision kept); the OJK published reports (9M2025, 9M2026) are in Rp juta (divided by 1,000). FS2020-FS2022 PDF pp. 5 and 7 (liabilities/equity and the second P&L page incl. EPS) are scanned images with no text layer; their values were read from the rendered pages (img/) and cross-checked with the AR financial highlights (AR2022 PDF p. 7: 2022/2021/2020 levels) and the next year's comparative columns.",
+        "LOSS YEARS ARE REAL: net loss Rp-70.6bn (2020: deferred-tax write-down of Rp89.5bn on a pre-tax profit of Rp18.9bn) and Rp-44.1bn (2021: Covid-era provisions); profit Rp16.6bn (2022), 48.8bn (2023), 78.8bn (2024), 48.3bn (2025), 72.7bn in 9M2026. Accumulated deficit (saldo laba tidak ditentukan penggunaannya) between Rp-446bn (2021) and Rp-254bn (2025) in every year-end FY2019-FY2025 - this is why no dividend was paid.",
+        "RATIOS OUTSIDE THE VALIDATOR RANGES ARE REAL: CAR 98.07 (2021), 127.42 (2022), 92.54 (2023), 88.58 (2024), 87.79 (2025), 83.52 (9M2026) - Bank of India injected Rp1tn (Dec 2021) and Rp1.3tn (Nov 2022) to lift core capital above the Rp3tn floor while the loan book stayed at Rp1.8-4.8tn. LAR 68.00% at Dec 2020 (AR2020 BoC report; pandemic restructuring). LDR 133-142% in 2023-2026 (loans funded by equity). All as printed by the bank, consistent across the AR ratio tables and the OJK published reports.",
+        "RATIO SOURCES / RESTATEMENTS: each FY's ROA, ROE, NIM, LDR, CIR, CAR, BOPO, NPL gross/net and CASA ('Dana Murah terhadap DPK') come from the 'Rasio Keuangan' table of that year's AR (first publication); FY2024 and FY2025 are identical to the Dec 2024 / Dec 2025 OJK published reports. Later documents restate some values: FY2023 CIR 40.03 -> 39.14 (Dec-2024 report, AR2024, AR2025); FY2024 NIM 4.63 -> 4.44, CIR 44.03 -> 44.09, BOPO 79.67 -> 79.71 (Dec-2025 report in the new SEOJK 29/2025 template, AR2025, Oct-2026 expose). AR2022's chart prints 2022 CASA 14.63 against 17.13 in its table (17.13 stored; matches the DPK breakdown). Older Dec published reports (2020-2023) are no longer on the IR page and were not used. ROA is pre-tax (OJK), ROE = net profit / average core capital. LAR has no table: FY2020-FY2024 values are narrative figures from the BoC/governance texts (AR2020 p. 18, AR2022 p. 61, AR2023 p. 2, AR2024 p. 13); FY2025 LAR, all CoC and all NPL coverage values are not disclosed (null). The 9M2026 LAR is the new OJK 'Kredit Kualitas Rendah (KKR)' line.",
+        "TRADING HISTORY (matters for the price file): IDX suspended BSWD in all markets on 12 Feb 2018 (the EGMS of 26 Mar 2018 approved a voluntary delisting at Bank of India's direction). The EGMS of 12 Dec 2023 cancelled the delisting and IDX lifted the suspension from session I of 18 Dec 2023 (AR2023 PDF pp. 10 and 96; AR2024 PDF p. 10). So there were NO trades from mid-Feb 2018 to 15 Dec 2023: the AR year-end 'closes' for 2019-2022 (Rp1,750) are the carried last price. Both rights issues (PUT IV ex 15 Aug 2022, PUT V ex 11 Apr 2023, each 1:1 at Rp1,000) happened inside that gap, i.e. between the FY2022 carried close (1,750) and the FY2023 close (1,245). The AR tables show a non-traded Nov-2023 'close' of Rp1,185, which equals the theoretical ex-rights price of 1,750 after two 1:1 rights at 1,000 (1,187.5 rounded to the tick) - my reading, not printed. After resumption trading is very thin (many months with no trades in 2024-2025). Per news (pasardana.id, kontan.co.id, Oct 2026), IDX suspended the stock again around 30 Sep/5 Oct 2026 after a >140% rise to Rp3,600, reopened it on 15 Oct 2026 and suspended it again from 21 Oct 2026 - news only, no company document; not used as data.",
+        "CORPORATE ACTIONS 2019-01-01 to 2026-11-03: two rights issues only (PUT IV 2022-08-15 1:1 @Rp1,000; PUT V 2023-04-11 1:1 @Rp1,000), both with a numeric price. No split, reverse split, bonus issue or par-value change (nominal Rp200 since IPO; AR2024 PDF p. 10 and AR2025 PDF p. 7 state no corporate action in 2024 and 2025). The 2026 material-information letters (9 and 25 Mar 2026, EGMS 5 Mar 2026) concern management changes and article 17 (directors' powers) only; the incidental public expose of 8 Oct 2026 (slide 14) says no corporate action is planned. Earlier rights issues (PUT I 2008, PUT II Dec 2014-Jan 2015, PUT III Dec 2017 @Rp1,890) are before scope. Share count: 1,388,800,000 (2017-2021) -> 2,388,861,478 (2022) -> 3,688,866,845 (2023 onward). Since no rights or bonus issue has an ex-date before 2020-12-31, fy.2019.year_end_price is not required; it is stored anyway (Rp1,750, AR2019) for completeness.",
+        "PER-SHARE BASIS: there was never a split, so share_basis is simply each figure's period-end date. The FS compute basic EPS on the FY-end share count in 2022 and 2023 (labelled 'weighted average'), so EPS x FY-end shares = profit in every year and no eps_shares acknowledgement is needed. Book value per share is distorted at end-2021 and end-2022: equity includes Bank of India's capital deposits (Rp1.0tn and Rp1.3tn) for shares issued only in the following year.",
+        "DIVIDENDS: none out of FY2020-FY2025 profit (losses in 2020-2021; accumulated deficit throughout). AGMS decisions: 30 Jun 2021 (FY2020, AR2021 PDF p. 67), 28 Jun 2022 (FY2021), 27 Jun 2023 (FY2022), 27 Jun 2024 (FY2023), 24 Jun 2025 (FY2024), 24 Jun 2026 (FY2025) - all 'no dividend / profit retained'. payout_ratio = 0 for 2020-2025 with those sources; the dividends list is empty. (The validator warns 'no dividend records' for the profitable years 2022-2025; that is expected.)",
+        "INTERIM: 9M2026 (30 Sep 2026) from the OJK quarterly published report posted 29 Oct 2026 (unaudited); no full 9M interim FS on the IR page yet. The validator's 'YTD profit YoY +614%' warning is real: 9M2026 profit Rp72.7bn vs 9M2025 Rp10.2bn, when impairment charges fell from Rp109.2bn to Rp29.7bn (report PDF p. 3). Prior-year loans and deposits from the 30 Sep 2025 published report. Deposits are the sum of the printed giro + tabungan + deposito lines (no subtotal printed). CoC, NPL coverage and CASA are not in the 9M2026 documents (null).",
+        "KBMI: AR2025 PDF p. 124 (and AR2023/AR2024 PDF p. 107) classify the bank as KBMI 1; core capital Rp3.5tn at 30 Sep 2026."
+    ]
+}

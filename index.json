@@ -878,6 +878,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/babp/"
+        },
+        {
+            "code": "BSWD",
+            "name": "PT Bank of India Indonesia Tbk",
+            "name_short": "Bank of India Indonesia",
+            "sector": "banking",
+            "group": "private_mid",
+            "kbmi": 1,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 0,
+            "file": "issuers/BSWD.json",
+            "prices": {
+                "file": "prices/BSWD.json",
+                "first_date": "2023-12-18",
+                "last_date": "2026-10-20",
+                "sessions": 170,
+                "last_close": 8075,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/bswd/"
         }
     ]
 }
