@@ -29,6 +29,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | PNBN | PT Bank Pan Indonesia Tbk | 3 | FY2020–FY2025 | Q1 2026 | [issuers/PNBN.json](issuers/PNBN.json) | [prices/PNBN.json](prices/PNBN.json) 2019-01-02 → 2026-10-30 |
 | MEGA | PT Bank Mega Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/MEGA.json](issuers/MEGA.json) | [prices/MEGA.json](prices/MEGA.json) 2019-01-10 → 2026-10-30 |
 | BTPS | PT Bank BTPN Syariah Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BTPS.json](issuers/BTPS.json) | [prices/BTPS.json](prices/BTPS.json) 2019-01-02 → 2026-10-30 |
+| BBTN | PT Bank Tabungan Negara (Persero) Tbk | 3 | FY2020–FY2025 | H1 2026 | [issuers/BBTN.json](issuers/BBTN.json) | [prices/BBTN.json](prices/BBTN.json) 2019-01-02 → 2026-11-02 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->

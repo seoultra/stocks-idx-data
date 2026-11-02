@@ -1,0 +1,1566 @@
+{
+    "schema": 1,
+    "code": "BBTN",
+    "name": "PT Bank Tabungan Negara (Persero) Tbk",
+    "name_short": "Bank Tabungan Negara",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.btn.co.id",
+    "ir_url": "https://www.btn.co.id/id/About/Investor-Relation/Investor-Relation",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+        "source_type": "filing",
+        "as_of_date": "2024-12-31",
+        "loc": "AR2024 PDF p. 738 (PPATK Financial Integrity Rating: 'di atas rata-rata nilai FIR KBMI 3'); PDF pp. 215-216 awards in the 'KBMI 3' category",
+        "note": "AR2024 has no sentence that states the tier directly; it benchmarks BTN against the KBMI 3 peer group and lists awards won as a KBMI 3 bank. Consistent with core capital: FS2025 Note 53d (PDF p. 331) prints bank-only core capital (modal inti) of Rp28,900,137 juta at 31 Dec 2025 (Rp29,834,471 juta at 31 Dec 2024), inside the KBMI 3 band of Rp14tn-Rp70tn (POJK 12/POJK.03/2021)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 311776.828,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 791, statement of financial position (audited FS inside the AR), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "BTN had no subsidiary until it acquired PT Bank Victoria Syariah on 5 Jun 2025, so this single-entity audited statement (which includes the Sharia Business Unit, UUS) is the whole group; stored as basis 'consolidated'. Same figure is the 2019 comparative in AR2020's FS."
+            },
+            "loans_gross": {
+                "v": 255825.159,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 897, Note 11a 'Kredit yang diberikan dan pembiayaan/piutang syariah' - Jenis, 'Total' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans incl. sharia financing/receivables (UUS), before allowance for impairment."
+            },
+            "deposits": {
+                "v": 206905.692,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 792, statement of financial position (audited FS inside the AR), 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "'Total simpanan dari nasabah' (current accounts, wadiah current accounts, savings, wadiah savings, time deposits). EXCLUDES temporary syirkah (mudharabah) customer deposits of 18,477.539 shown under 'Dana syirkah temporer'. "
+            },
+            "equity_attr": {
+                "v": 23836.195,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 795, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest before 2025: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 23836.195,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 795, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries). Equity fell to 19,987.845 in 2020 mainly because of the PSAK 71/73 transition adjustment of -Rp6,180,134 juta to retained earnings on 1 Jan 2020 (AR2020 PDF p. 698)."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 1602.358,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 696, statement of profit or loss, 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Profit for the year; no subsidiaries, so all attributable to owners."
+            },
+            "eps": {
+                "v": 151,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 696, 'Laba per saham - Dasar (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic EPS (full Rupiah). No dilutive instruments."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.btn.co.id/-/media/Files/rups/keputusan/keputusan-rupst-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, AGMS 10 Mar 2021, second agenda decision",
+                "basis": "n/a",
+                "note": "AGMS 10 Mar 2021 allocated the whole FY2020 profit of Rp1,602,356,526,240 to reserves ('seluruhnya ditetapkan sebagai Cadangan'): no dividend for FY2020. FY2021 statement of cash flows shows no dividend paid in 2021."
+            },
+            "total_assets": {
+                "v": 361208.406,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 690, statement of financial position (audited FS inside the AR), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "BTN had no subsidiary until it acquired PT Bank Victoria Syariah on 5 Jun 2025, so this single-entity audited statement (which includes the Sharia Business Unit, UUS) is the whole group; stored as basis 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 260114.163,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 835, Note 11a 'Kredit yang diberikan dan pembiayaan/piutang syariah' - Jenis, 'Total' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans incl. sharia financing/receivables (UUS), before allowance for impairment."
+            },
+            "deposits": {
+                "v": 259149.814,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 691, statement of financial position (audited FS inside the AR), 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "'Total simpanan dari nasabah' (current accounts, wadiah current accounts, savings, wadiah savings, time deposits). EXCLUDES temporary syirkah (mudharabah) customer deposits of 19,841.104 shown under 'Dana syirkah temporer'. BTN's own 'third-party funds' (DPK) incl. sharia: 279,135 (FY2024 analyst deck PDF p. 31)."
+            },
+            "equity_attr": {
+                "v": 19987.845,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 694, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest before 2025: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 19987.845,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 694, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10590000000,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 694, statement of financial position, 'Modal ditempatkan dan disetor penuh'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid 10,590,000,000 shares (1 Series A Dwiwarna + 10,589,999,999 Series B). No treasury shares (AR2020 PDF p. 601: no share buyback in 2020)."
+            },
+            "year_end_price": {
+                "v": 1725,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 23, 'Tabel Harga, Volume dan Kapitalisasi Saham BBTN 2019-2020', 2020 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits since listing."
+            },
+            "roe": {
+                "v": 10.02,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "ROE per OJK (annualised profit after tax / average Tier 1 capital; the FY2024 deck labels it 'ROE (Tier-1)'). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "roa": {
+                "v": 0.69,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "nim": {
+                "v": 3.06,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "NIM per OJK. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "coc": {
+                "v": 0.9,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'Cost of Credit (CoC)'",
+                "basis": "bank_only",
+                "note": "Cost of credit as reported (provision / average loans). Same values in the FY2023 deck for 2020-2023. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_gross": {
+                "v": 4.37,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "Gross NPL (incl. sharia financing). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_net": {
+                "v": 2.06,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "Net NPL. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "lar": {
+                "v": 34.1,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'Loan at Risk (LAR)'",
+                "basis": "bank_only",
+                "note": "BTN Loan at Risk (incl. COVID-19 restructured loans in 2020-2022 and sharia financing). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_coverage": {
+                "v": 115,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'NPL Coverage'",
+                "basis": "bank_only",
+                "note": "NPL coverage (allowance / NPL) as reported in the deck. Same values in the FY2023 deck for 2020-2023. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "ldr": {
+                "v": 93.19,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "LDR (loans + sharia financing / third-party funds incl. syirkah). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "car": {
+                "v": 19.34,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit. KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 53.85,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'RASIO LAINNYA - Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported (not BOPO). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "bopo": {
+                "v": 91.61,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "casa": {
+                "v": 41.11,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), LIKUIDITAS 'CASA'",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds incl. sharia). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 2376.227,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1016, statement of profit or loss, 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Profit for the year; no subsidiaries, so all attributable to owners."
+            },
+            "eps": {
+                "v": 224,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1016, 'Laba per saham - Dasar (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic EPS (full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 10,
+                "source_url": "https://www.btn.co.id/-/media/Files/rups/keputusan/keputusan-rupst-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, AGMS 2 Mar 2022, second agenda decision ('Sebesar 10% ... ditetapkan sebagai Dividen Tunai')",
+                "basis": "n/a",
+                "note": "10% of FY2021 net profit; 90% to reserves."
+            },
+            "total_assets": {
+                "v": 371868.311,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1010, statement of financial position (audited FS inside the AR), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "BTN had no subsidiary until it acquired PT Bank Victoria Syariah on 5 Jun 2025, so this single-entity audited statement (which includes the Sharia Business Unit, UUS) is the whole group; stored as basis 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 274835.291,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1135, Note 11a 'Kredit yang diberikan dan pembiayaan/piutang syariah' - Jenis, 'Total' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans incl. sharia financing/receivables (UUS), before allowance for impairment."
+            },
+            "deposits": {
+                "v": 273189.056,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1011, statement of financial position (audited FS inside the AR), 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "'Total simpanan dari nasabah' (current accounts, wadiah current accounts, savings, wadiah savings, time deposits). EXCLUDES temporary syirkah (mudharabah) customer deposits of 22,763.144 shown under 'Dana syirkah temporer'. BTN's own 'third-party funds' (DPK) incl. sharia: 295,976 (FY2024 analyst deck PDF p. 31)."
+            },
+            "equity_attr": {
+                "v": 21406.647,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1014, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest before 2025: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 21406.647,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1014, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10590000000,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1014, statement of financial position, 'Modal ditempatkan dan disetor penuh'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid 10,590,000,000 shares. No treasury shares (AR2021 PDF p. 931: no share buyback in 2021)."
+            },
+            "year_end_price": {
+                "v": 1730,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 26 (printed p. 24), 'Informasi Harga Saham', 2021 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits since listing."
+            },
+            "roe": {
+                "v": 13.64,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "ROE per OJK (annualised profit after tax / average Tier 1 capital; the FY2024 deck labels it 'ROE (Tier-1)'). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "roa": {
+                "v": 0.81,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "nim": {
+                "v": 3.99,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "NIM per OJK. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "coc": {
+                "v": 1.4,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'Cost of Credit (CoC)'",
+                "basis": "bank_only",
+                "note": "Cost of credit as reported (provision / average loans). Same values in the FY2023 deck for 2020-2023. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_gross": {
+                "v": 3.7,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "Gross NPL (incl. sharia financing). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_net": {
+                "v": 1.2,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "Net NPL. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "lar": {
+                "v": 26.75,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-januari-2022-audited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2021 analyst deck ('FY2021 Results Presentation', Jakarta 8 Feb 2022) PDF p. 27, 'Loan at Risk (LAR)': 'Total LAR declined to 26.75% in Dec 21 from 34.11%'",
+                "basis": "bank_only",
+                "note": "BTN Loan at Risk (incl. COVID-19 restructured loans in 2020-2022 and sharia financing). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit. CONFLICT: the FY2024 deck (PDF p. 31) prints 24.2% for 2021, while the FY2021 deck (26.75%) and the FY2023 deck (PDF p. 24: 26.8%) agree; the FY2021 figure is stored."
+            },
+            "npl_coverage": {
+                "v": 141.8,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'NPL Coverage'",
+                "basis": "bank_only",
+                "note": "NPL coverage (allowance / NPL) as reported in the deck. Same values in the FY2023 deck for 2020-2023. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "ldr": {
+                "v": 92.86,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "LDR (loans + sharia financing / third-party funds incl. syirkah). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "car": {
+                "v": 19.14,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit. KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 48.18,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'RASIO LAINNYA - Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported (not BOPO). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "bopo": {
+                "v": 89.28,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "casa": {
+                "v": 44.3,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), LIKUIDITAS 'CASA'",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds incl. sharia). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 3045.073,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 708, statement of profit or loss, 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Profit for the year; no subsidiaries, so all attributable to owners."
+            },
+            "eps": {
+                "v": 288,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 709, 'Laba per saham - Dasar (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic EPS on 10.59bn weighted shares; NOT restated for the bonus element of the Dec 2022/Jan 2023 rights issue (AR2023 and AR2024 comparatives still print 288)."
+            },
+            "payout_ratio": {
+                "v": 20,
+                "source_url": "https://www.btn.co.id/-/media/Files/rups/keputusan/keputusan-risalah_rupst-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 6, AGMS 16 Mar 2023, second agenda decision ('Sebesar 20% ... sebagai Dividen Tunai')",
+                "basis": "n/a",
+                "note": "20% of FY2022 net profit."
+            },
+            "total_assets": {
+                "v": 402148.312,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 702, statement of financial position (audited FS inside the AR), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "BTN had no subsidiary until it acquired PT Bank Victoria Syariah on 5 Jun 2025, so this single-entity audited statement (which includes the Sharia Business Unit, UUS) is the whole group; stored as basis 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 298281.704,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 825, Note 11a 'Kredit yang diberikan dan pembiayaan/piutang syariah' - Jenis, 'Total' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans incl. sharia financing/receivables (UUS), before allowance for impairment."
+            },
+            "deposits": {
+                "v": 297099.801,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 703, statement of financial position (audited FS inside the AR), 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "'Total simpanan dari nasabah' (current accounts, wadiah current accounts, savings, wadiah savings, time deposits). EXCLUDES temporary syirkah (mudharabah) customer deposits of 24,823.456 shown under 'Dana syirkah temporer'. BTN's own 'third-party funds' (DPK) incl. sharia: 321,937 (FY2024 analyst deck PDF p. 31)."
+            },
+            "equity_attr": {
+                "v": 25909.354,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 706, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes 'Dana setoran modal' (capital deposit for the in-progress PMHMETD II rights issue) of Rp2,756,575 juta."
+            },
+            "total_equity": {
+                "v": 25909.354,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 706, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10590000000,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 706, statement of financial position, 'Modal ditempatkan dan disetor penuh'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid capital per the audited balance sheet at 31 Dec 2022: 10,590,000,000 shares. The PMHMETD II rights issue (rights trading 28 Dec 2022 - 5 Jan 2023) was still running: equity includes a 'Dana setoran modal' (capital deposit) of Rp2,756,575 juta for shares not yet issued, and the AR2022 share table (PDF p. 27) prints 12.87bn shares outstanding for Q4 2022 (KSEI count incl. rights already exercised). The audited legal count is stored; post-rights count 14,034,444,413. No buyback in 2022 (AR2022 PDF p. 610)."
+            },
+            "year_end_price": {
+                "v": 1350,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/laporan-tahunan-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 27, 'Tabel Harga, Volume dan Kapitalisasi Saham Bank BTN 2021-2022', 2022 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits since listing."
+            },
+            "roe": {
+                "v": 16.42,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "ROE per OJK (annualised profit after tax / average Tier 1 capital; the FY2024 deck labels it 'ROE (Tier-1)'). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "roa": {
+                "v": 1.02,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "nim": {
+                "v": 4.4,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "NIM per OJK. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "coc": {
+                "v": 1.4,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'Cost of Credit (CoC)'",
+                "basis": "bank_only",
+                "note": "Cost of credit as reported (provision / average loans). Same values in the FY2023 deck for 2020-2023. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_gross": {
+                "v": 3.38,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "Gross NPL (incl. sharia financing). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_net": {
+                "v": 1.32,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "Net NPL. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "lar": {
+                "v": 23.2,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'Loan at Risk (LAR)'",
+                "basis": "bank_only",
+                "note": "BTN Loan at Risk (incl. COVID-19 restructured loans in 2020-2022 and sharia financing). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_coverage": {
+                "v": 155.7,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'NPL Coverage'",
+                "basis": "bank_only",
+                "note": "NPL coverage (allowance / NPL) as reported in the deck. Same values in the FY2023 deck for 2020-2023. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "ldr": {
+                "v": 92.65,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "LDR (loans + sharia financing / third-party funds incl. syirkah). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "car": {
+                "v": 20.17,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit. KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 46.66,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'RASIO LAINNYA - Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported (not BOPO). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "bopo": {
+                "v": 86,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "casa": {
+                "v": 48.52,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), LIKUIDITAS 'CASA'",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds incl. sharia). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 3500.988,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/en/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 775, statement of profit or loss, 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Profit for the year; no subsidiaries, so all attributable to owners."
+            },
+            "eps": {
+                "v": 249,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/en/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 776, 'Laba per saham - Dasar (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic EPS on weighted-average shares (rights-issue shares issued in early Jan 2023, so ~14.03bn)."
+            },
+            "payout_ratio": {
+                "v": 20,
+                "source_url": "https://www.btn.co.id/-/media/Files/rups/keputusan/keputusan-risalah-rupst-2023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, AGMS 6 Mar 2024, second agenda decision ('Sebesar 20% ... sejumlah Rp700.197.524.051,75')",
+                "basis": "n/a",
+                "note": "20% of FY2023 net profit; 80% (Rp2,800,790,096,207) to reserves."
+            },
+            "total_assets": {
+                "v": 438749.736,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/en/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 769, statement of financial position (audited FS inside the AR), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "BTN had no subsidiary until it acquired PT Bank Victoria Syariah on 5 Jun 2025, so this single-entity audited statement (which includes the Sharia Business Unit, UUS) is the whole group; stored as basis 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 333698.141,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/en/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 889, Note 11a 'Kredit yang diberikan dan pembiayaan/piutang syariah' - Jenis, 'Total' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans incl. sharia financing/receivables (UUS), before allowance for impairment."
+            },
+            "deposits": {
+                "v": 322501.148,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/en/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 770, statement of financial position (audited FS inside the AR), 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "'Total simpanan dari nasabah' (current accounts, wadiah current accounts, savings, wadiah savings, time deposits). EXCLUDES temporary syirkah (mudharabah) customer deposits of 27,082.860 shown under 'Dana syirkah temporer'. BTN's own 'third-party funds' (DPK) incl. sharia: 349,933 (FY2024 analyst deck PDF p. 31)."
+            },
+            "equity_attr": {
+                "v": 30479.152,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/en/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 773, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest before 2025: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 30479.152,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/en/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 773, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 14034444413,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/en/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 773, statement of financial position, 'Modal ditempatkan dan disetor penuh'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid 14,034,444,413 shares after the PMHMETD II rights issue (3,444,444,413 new Series B shares). No treasury shares (AR2023 PDF p. 672: no buyback in 2023)."
+            },
+            "year_end_price": {
+                "v": 1250,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/en/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 27, 'Tabel Harga, Volume dan Kapitalisasi Saham Bank BTN 2022-2023', 2023 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits since listing."
+            },
+            "roe": {
+                "v": 13.86,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "ROE per OJK (annualised profit after tax / average Tier 1 capital; the FY2024 deck labels it 'ROE (Tier-1)'). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "roa": {
+                "v": 1.07,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "nim": {
+                "v": 3.75,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "NIM per OJK. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "coc": {
+                "v": 1.2,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'Cost of Credit (CoC)'",
+                "basis": "bank_only",
+                "note": "Cost of credit as reported (provision / average loans). Same values in the FY2023 deck for 2020-2023. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_gross": {
+                "v": 3.01,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "Gross NPL (incl. sharia financing). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_net": {
+                "v": 1.32,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "Net NPL. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "lar": {
+                "v": 21.1,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'Loan at Risk (LAR)'",
+                "basis": "bank_only",
+                "note": "BTN Loan at Risk (incl. COVID-19 restructured loans in 2020-2022 and sharia financing). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_coverage": {
+                "v": 155.2,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'NPL Coverage'",
+                "basis": "bank_only",
+                "note": "NPL coverage (allowance / NPL) as reported in the deck. Same values in the FY2023 deck for 2020-2023. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "ldr": {
+                "v": 95.36,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "LDR (loans + sharia financing / third-party funds incl. syirkah). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "car": {
+                "v": 20.07,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit. KPMM (CAR) incl. credit, market and operational risk. AR2023's own table (PDF p. 26) printed 20.16; AR2024 and the FY2024 deck (20.1) print the later figure 20.07, stored here."
+            },
+            "cir": {
+                "v": 45.26,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'RASIO LAINNYA - Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported (not BOPO). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "bopo": {
+                "v": 86.1,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "casa": {
+                "v": 53.73,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), LIKUIDITAS 'CASA'",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds incl. sharia). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 3007.328,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 892, statement of profit or loss, 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Profit for the year; no subsidiaries, so all attributable to owners."
+            },
+            "eps": {
+                "v": 214,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 893, 'Laba per saham - Dasar (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic EPS (full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 25,
+                "source_url": "https://www.btn.co.id/-/media/Files/rups/keputusan/Ringkasan-Risalah-RUPST-TB-2024-Final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, AGMS 26 Mar 2025, second agenda decision ('Sebesar 25% ... sejumlah Rp751.831.923.459,47')",
+                "basis": "n/a",
+                "note": "25% of FY2024 net profit."
+            },
+            "total_assets": {
+                "v": 469614.502,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 886, statement of financial position (audited FS inside the AR), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "BTN had no subsidiary until it acquired PT Bank Victoria Syariah on 5 Jun 2025, so this single-entity audited statement (which includes the Sharia Business Unit, UUS) is the whole group; stored as basis 'consolidated'. FS2025 shows the same 2024 comparative (no restatement)."
+            },
+            "loans_gross": {
+                "v": 357972.932,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 1009, Note 11a 'Kredit yang diberikan dan pembiayaan/piutang syariah' - Jenis, 'Total' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans incl. sharia financing/receivables (UUS), before allowance for impairment."
+            },
+            "deposits": {
+                "v": 352437.48,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 887, statement of financial position (audited FS inside the AR), 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "'Total simpanan dari nasabah' (current accounts, wadiah current accounts, savings, wadiah savings, time deposits). EXCLUDES temporary syirkah (mudharabah) customer deposits of 29,216.772 shown under 'Dana syirkah temporer'. BTN's own 'third-party funds' (DPK) incl. sharia: 381,667 (AR2024 PDF p. 341: 381,667.001) (FY2024 analyst deck PDF p. 31)."
+            },
+            "equity_attr": {
+                "v": 32571.889,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 890, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest before 2025: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 32571.889,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 890, statement of financial position (audited FS inside the AR), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 14034444413,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 890, statement of financial position, 'Modal ditempatkan dan disetor penuh'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid 14,034,444,413 shares. No treasury shares (AR2024 PDF p. 781: no share buyback in 2024)."
+            },
+            "year_end_price": {
+                "v": 1140,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 28 (printed p. 26), 'Tabel Harga, Volume dan Kapitalisasi Saham BTN Tahun 2023-2024', 2024 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits since listing."
+            },
+            "roe": {
+                "v": 10.76,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "ROE per OJK (annualised profit after tax / average Tier 1 capital; the FY2024 deck labels it 'ROE (Tier-1)'). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "roa": {
+                "v": 0.83,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "nim": {
+                "v": 2.86,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "NIM per OJK. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "coc": {
+                "v": 0.6,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'Cost of Credit (CoC)'",
+                "basis": "bank_only",
+                "note": "Cost of credit as reported (provision / average loans). Same values in the FY2023 deck for 2020-2023. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_gross": {
+                "v": 3.16,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "Gross NPL (incl. sharia financing). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_net": {
+                "v": 1.89,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "Net NPL. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "lar": {
+                "v": 19.7,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'Loan at Risk (LAR)'",
+                "basis": "bank_only",
+                "note": "BTN Loan at Risk (incl. COVID-19 restructured loans in 2020-2022 and sharia financing). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "npl_coverage": {
+                "v": 115.4,
+                "source_url": "https://www.btn.co.id/-/media/Files/Materi-Presentasi/analyst-meeting-per-31-desember-2024-unaudited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 analyst deck ('FY24 Results Presentation', Jakarta 11 Feb 2025) PDF p. 31, 'Financial Snapshots', 'NPL Coverage'",
+                "basis": "bank_only",
+                "note": "NPL coverage (allowance / NPL) as reported in the deck. Same values in the FY2023 deck for 2020-2023. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "ldr": {
+                "v": 93.79,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%)",
+                "basis": "bank_only",
+                "note": "LDR (loans + sharia financing / third-party funds incl. syirkah). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "car": {
+                "v": 18.5,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit. KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 57.15,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'RASIO LAINNYA - Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported (not BOPO). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "bopo": {
+                "v": 88.7,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO. OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            },
+            "casa": {
+                "v": 54.07,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-tahunan/2024/AR-2024--BBTNIND-Lengkap-040325-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 27 (printed p. 25), 'Tabel Ikhtisar Keuangan', RASIO KEUANGAN (%), LIKUIDITAS 'CASA'",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds incl. sharia). OJK bank ratio. BTN had no subsidiaries before Jun 2025, so the bank figure covers the whole entity incl. the Sharia Business Unit."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 3501.154,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_31-des-2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 22, consolidated statement of profit or loss, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Attributable to owners of the parent; NCI share nil. OJK individual (bank-only) profit: 3,424.891 (PUB TW-IV 2025)."
+            },
+            "eps": {
+                "v": 249,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_31-des-2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 22, 'Laba per saham - Dasar (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic EPS attributable to owners of the parent (consolidated). The OJK published report shows individual (bank-only) EPS of 244."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.btn.co.id/-/media/Files/rups/apr-2026/Ringkasan-Risalah-RUPST-TB-2025-BBTN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 8 (Q&A on p. 7), AGMS 23 Apr 2026, second agenda decision",
+                "basis": "n/a",
+                "note": "AGMS 23 Apr 2026 allocated the whole FY2025 consolidated profit attributable to owners, Rp3,501,154,166,119, to retained earnings ('seluruhnya ditetapkan sebagai Saldo Laba Ditahan'); management: 'dividend payout sebesar 0%'. Confirmed by the 1H2026 interim FS Note 32c (PDF p. 230, printed p. 227: FY2025 profit appropriation = retained earnings Rp3,501,154 juta, no dividend)."
+            },
+            "total_assets": {
+                "v": 527793.42,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_31-des-2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 15, consolidated statement of financial position, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Consolidated: BTN + PT Bank Syariah Nasional (BSN, formerly PT Bank Victoria Syariah; 99.9984% owned, acquired 5 Jun 2025). The UUS (sharia unit) was spun off into BSN effective 22 Dec 2025 (FS2025 Note 1i, PDF pp. 44-47); sharia assets stay in the consolidated figures. OJK individual (bank-only) total assets: 462,462.651 (PUB TW-IV 2025)."
+            },
+            "loans_gross": {
+                "v": 400576.087,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_31-des-2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 148, Note 11a 'Kredit yang diberikan dan pembiayaan/piutang syariah' - Jenis, 'Total' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "Note 11a total: loans 345,702.924 + sharia financing/receivables 54,873.163 (the latter now booked in BSN). Gross, before allowance."
+            },
+            "deposits": {
+                "v": 405499.731,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_31-des-2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 16, consolidated statement of financial position, 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "'Total simpanan dari nasabah' (current accounts, wadiah current accounts, savings, wadiah savings, time deposits). EXCLUDES temporary syirkah (mudharabah) customer deposits of 31,856.042 shown under 'Dana syirkah temporer'.  OJK-format consolidated report (PUB TW-IV 2025) prints demand 169,242.419 / savings 43,884.181 / time 224,271.277 with no total line."
+            },
+            "equity_attr": {
+                "v": 36210.275,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_31-des-2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 19, consolidated statement of financial position, 'Total ekuitas yang dapat diatribusikan kepada entitas induk'",
+                "basis": "consolidated",
+                "note": "Equity attributable to owners of the parent. Non-controlling interest is Rp18 juta (0.0016% of BSN)."
+            },
+            "total_equity": {
+                "v": 36210.293,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_31-des-2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 19, consolidated statement of financial position, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interest of Rp18 juta (0.018 IDR bn)."
+            },
+            "shares_out": {
+                "v": 14034444413,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_31-des-2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 19, statement of financial position, 'Modal ditempatkan dan disetor penuh'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid 14,034,444,413 shares at 31 Dec 2025 (FS2025 PDF p. 19); the balance sheet has no treasury-share line."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not retrieved: the FY2025 annual report (~95 MB) and the FY2025 analyst deck (>10 MB) could not be downloaded (btn.co.id bot-protected; not archived; too large for the fetch tool). None of the retrieved FY2025 documents (audited FS, OJK published report, AGMS summary) prints a share price."
+            },
+            "roe": {
+                "v": 11.57,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-IV-2025_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PUB TW-IV 2025 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), December 31, 2025 (Audited)",
+                "basis": "bank_only",
+                "note": "ROE per OJK (Tier 1 based). Individual (bank-only) OJK ratio. The UUS was spun off into subsidiary BSN on 22 Dec 2025, so at 31 Dec 2025 the bank-only balance sheet excludes sharia financing/deposits while the full-year P&L still includes the UUS until the spin-off; not fully comparable with 2020-2024. The report prints no consolidated version."
+            },
+            "roa": {
+                "v": 0.89,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-IV-2025_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PUB TW-IV 2025 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), December 31, 2025 (Audited)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax). Individual (bank-only) OJK ratio. The UUS was spun off into subsidiary BSN on 22 Dec 2025, so at 31 Dec 2025 the bank-only balance sheet excludes sharia financing/deposits while the full-year P&L still includes the UUS until the spin-off; not fully comparable with 2020-2024. The report prints no consolidated version."
+            },
+            "nim": {
+                "v": 4.2,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-IV-2025_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PUB TW-IV 2025 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), December 31, 2025 (Audited)",
+                "basis": "bank_only",
+                "note": "NIM per OJK (2024: 2.86). Individual (bank-only) OJK ratio. The UUS was spun off into subsidiary BSN on 22 Dec 2025, so at 31 Dec 2025 the bank-only balance sheet excludes sharia financing/deposits while the full-year P&L still includes the UUS until the spin-off; not fully comparable with 2020-2024. The report prints no consolidated version."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not found: the cost of credit for FY2025 is printed only in the FY2025 annual report and analyst deck, neither of which could be retrieved (btn.co.id bot-protected, not archived, files >10 MB). The audited FS2025 and the OJK published report TW-IV 2025 do not print it (checked)."
+            },
+            "npl_gross": {
+                "v": 3.17,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-IV-2025_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PUB TW-IV 2025 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), December 31, 2025 (Audited)",
+                "basis": "bank_only",
+                "note": "Individual (bank-only) OJK ratio. The UUS was spun off into subsidiary BSN on 22 Dec 2025, so at 31 Dec 2025 the bank-only balance sheet excludes sharia financing/deposits while the full-year P&L still includes the UUS until the spin-off; not fully comparable with 2020-2024. The report prints no consolidated version."
+            },
+            "npl_net": {
+                "v": 1.85,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-IV-2025_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PUB TW-IV 2025 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), December 31, 2025 (Audited)",
+                "basis": "bank_only",
+                "note": "Individual (bank-only) OJK ratio. The UUS was spun off into subsidiary BSN on 22 Dec 2025, so at 31 Dec 2025 the bank-only balance sheet excludes sharia financing/deposits while the full-year P&L still includes the UUS until the spin-off; not fully comparable with 2020-2024. The report prints no consolidated version."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not found: the loan at risk for FY2025 is printed only in the FY2025 annual report and analyst deck, neither of which could be retrieved (btn.co.id bot-protected, not archived, files >10 MB). The audited FS2025 and the OJK published report TW-IV 2025 do not print it (checked)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not found: the NPL coverage for FY2025 is printed only in the FY2025 annual report and analyst deck, neither of which could be retrieved (btn.co.id bot-protected, not archived, files >10 MB). The audited FS2025 and the OJK published report TW-IV 2025 do not print it (checked)."
+            },
+            "ldr": {
+                "v": 91.28,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-IV-2025_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PUB TW-IV 2025 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), December 31, 2025 (Audited)",
+                "basis": "bank_only",
+                "note": "Individual (bank-only) OJK ratio. The UUS was spun off into subsidiary BSN on 22 Dec 2025, so at 31 Dec 2025 the bank-only balance sheet excludes sharia financing/deposits while the full-year P&L still includes the UUS until the spin-off; not fully comparable with 2020-2024. The report prints no consolidated version."
+            },
+            "car": {
+                "v": 19.02,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-IV-2025_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PUB TW-IV 2025 PDF p. 11 ratio table (INDIVIDUAL); same value in the KPMM statement PDF p. 8",
+                "basis": "bank_only",
+                "note": "Individual KPMM. The KPMM statement (PDF p. 8) also prints CONSOLIDATED CAR 20.92% (CET1 17.60%, Tier 1 18.66%). Individual (bank-only) OJK ratio. The UUS was spun off into subsidiary BSN on 22 Dec 2025, so at 31 Dec 2025 the bank-only balance sheet excludes sharia financing/deposits while the full-year P&L still includes the UUS until the spin-off; not fully comparable with 2020-2024. The report prints no consolidated version."
+            },
+            "cir": {
+                "v": 49.19,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-IV-2025_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PUB TW-IV 2025 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), December 31, 2025 (Audited)",
+                "basis": "bank_only",
+                "note": "Cost to income ratio (not BOPO). Individual (bank-only) OJK ratio. The UUS was spun off into subsidiary BSN on 22 Dec 2025, so at 31 Dec 2025 the bank-only balance sheet excludes sharia financing/deposits while the full-year P&L still includes the UUS until the spin-off; not fully comparable with 2020-2024. The report prints no consolidated version."
+            },
+            "bopo": {
+                "v": 89.04,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-IV-2025_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PUB TW-IV 2025 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), December 31, 2025 (Audited), 'Operating Expenses to Operating Income'",
+                "basis": "bank_only",
+                "note": "Individual (bank-only) OJK ratio. The UUS was spun off into subsidiary BSN on 22 Dec 2025, so at 31 Dec 2025 the bank-only balance sheet excludes sharia financing/deposits while the full-year P&L still includes the UUS until the spin-off; not fully comparable with 2020-2024. The report prints no consolidated version."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not found: the CASA ratio for FY2025 is printed only in the FY2025 annual report and analyst deck, neither of which could be retrieved (btn.co.id bot-protected, not archived, files >10 MB). The audited FS2025 and the OJK published report TW-IV 2025 do not print it (checked)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 22.43839,
+            "total": 237.62257568,
+            "cum_date": "2022-03-11",
+            "ex_date": "2022-03-14",
+            "record_date": "2022-03-15",
+            "pay_date": "2022-03-31",
+            "share_basis": "2022-03-04",
+            "source_url": "https://www.btn.co.id/-/media/Files/rups/keputusan/keputusan-rupst-2022.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-03-04",
+            "loc": "PDF p. 10, 'Jadwal dan Tata Cara Pembayaran Dividen Tunai' (announcement of AGMS 2 Mar 2022, dated 4 Mar 2022); amount p. 5",
+            "note": "Rp237,622,575,680 = Rp22.43839/share on 10,590,000,000 shares; 10% payout. Cum/ex shown for the regular & negotiated market (cash market: cum 15 Mar, ex 16 Mar 2022)."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 43.39426,
+            "total": 609.01437184,
+            "cum_date": "2023-03-28",
+            "ex_date": "2023-03-29",
+            "record_date": "2023-03-30",
+            "pay_date": "2023-04-14",
+            "share_basis": "2023-03-17",
+            "source_url": "https://www.btn.co.id/-/media/Files/rups/keputusan/keputusan-risalah_rupst-2022.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-03-17",
+            "loc": "PDF p. 11, 'Jadwal dan Tata Cara Pembayaran Dividen Tunai' (announcement of AGMS 16 Mar 2023, dated 17 Mar 2023); amount p. 6",
+            "note": "Rp609,014,371,840 = Rp43.39426/share, paid on the post-rights-issue 14,034,444,413 shares; 20% payout. Cash market: cum 30 Mar, ex 31 Mar 2023."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 49.89136,
+            "total": 700.19752405175,
+            "cum_date": "2024-03-18",
+            "ex_date": "2024-03-19",
+            "record_date": "2024-03-20",
+            "pay_date": "2024-04-05",
+            "share_basis": "2024-03-07",
+            "source_url": "https://www.btn.co.id/-/media/Files/rups/keputusan/keputusan-risalah-rupst-2023.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-03-07",
+            "loc": "PDF p. 13, 'Jadwal Pembagian Dividen Tunai' (announcement of AGMS 6 Mar 2024, dated 7 Mar 2024); amount pp. 7-8",
+            "note": "Rp700,197,524,051.75 = Rp49.89136/share; 20% payout. Cash market: cum 20 Mar, ex 21 Mar 2024."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 53.57048,
+            "total": 751.83192345947,
+            "cum_date": "2025-04-14",
+            "ex_date": "2025-04-15",
+            "record_date": "2025-04-16",
+            "pay_date": "2025-04-25",
+            "share_basis": "2025-03-27",
+            "source_url": "https://www.btn.co.id/-/media/Files/rups/keputusan/Ringkasan-Risalah-RUPST-TB-2024-Final.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-03-27",
+            "loc": "PDF p. 17, 'Jadwal Pembagian Dividen Tunai' (announcement of AGMS 26 Mar 2025, dated 27 Mar 2025); amount p. 9",
+            "note": "Rp751,831,923,459.47 = Rp53.57048/share; 25% payout. Cash market: cum 16 Apr, ex 17 Apr 2025. The schedule's payment line is mislabelled 'Tahun Buku 2023' in both language versions; it is the FY2024 dividend."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 2402.212,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_30-Juni-2026---release-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "1H2026 FS PDF p. 12, interim consolidated statement of profit or loss, 'Laba periode berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Jun 2026, unaudited interim consolidated FS. OJK individual: 1,958.187."
+            },
+            "profit_ytd_prior": {
+                "v": 1706.389,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_30-Juni-2026---release-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "1H2026 FS PDF p. 12, comparative column (period ended 30 Jun 2025)",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Jun 2025; consolidates BSN (ex-BVIS) from 5 Jun 2025. Same figure in the audited 1H2025 FS (PDF p. 22)."
+            },
+            "equity_attr": {
+                "v": 37557.768,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_30-Juni-2026---release-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "1H2026 FS PDF p. 9, 'Total ekuitas yang dapat diatribusikan kepada entitas induk'",
+                "basis": "consolidated",
+                "note": "Same figure in the OJK published report (consolidated column). NCI Rp18 juta."
+            },
+            "shares_out": {
+                "v": 14034444413,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_30-Juni-2026---release-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "1H2026 FS PDF p. 9, 'Modal ditempatkan dan disetor penuh 14.034.444.413 saham'",
+                "basis": "n/a",
+                "share_basis": "2026-06-30",
+                "note": "Issued and fully paid; no treasury-share line in the balance sheet."
+            },
+            "total_assets": {
+                "v": 545161.326,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_30-Juni-2026---release-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "1H2026 FS PDF p. 5, interim consolidated statement of financial position, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 418111.164,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_30-Juni-2026---release-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "1H2026 FS PDF p. 139, Note 11a 'Jenis Kredit dan Pembiayaan/Piutang Syariah', 'Total' (gross)",
+                "basis": "consolidated",
+                "note": "Loans 358,504.060 + sharia financing 59,607.104, before allowance."
+            },
+            "loans_gross_prior": {
+                "v": 376110.415,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/long-form-laporan-keungan-triwulan/2025/BTN-Lapkeu-Q2-2025---Long-Form.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "1H2025 audited interim consolidated FS PDF p. 147, Note 11a, 'Total' (gross)",
+                "basis": "consolidated",
+                "note": "30 Jun 2025 (audited, for the BVIS acquisition): loans 327,644.289 + sharia financing 48,466.126."
+            },
+            "deposits": {
+                "v": 400781.469,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/bank-tabungan-negara_billingual_30-Juni-2026---release-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "1H2026 FS PDF p. 6, 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Same definition as fy.*.deposits: excludes temporary syirkah customer deposits of 32,171.160 (PDF p. 8)."
+            },
+            "deposits_prior": {
+                "v": 374457.868,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/long-form-laporan-keungan-triwulan/2025/BTN-Lapkeu-Q2-2025---Long-Form.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "1H2025 audited interim consolidated FS PDF p. 16, 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Excludes temporary syirkah customer deposits of 31,836.925 (PDF p. 18)."
+            },
+            "roe": {
+                "v": 13.36,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-II-2026_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PUB TW-II 2026 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), June 30, 2026 (Unaudited)",
+                "basis": "bank_only",
+                "note": "ROE per OJK (Tier 1 based, annualised). 30 Jun 2025: 11.82 (incl. UUS). Individual (bank-only) OJK ratio: BTN after the 22 Dec 2025 sharia spin-off (sharia business is in subsidiary BSN). The 30 Jun 2025 comparative still includes the UUS. No consolidated version printed except CAR."
+            },
+            "roa": {
+                "v": 1.06,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-II-2026_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PUB TW-II 2026 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), June 30, 2026 (Unaudited)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax, annualised). 30 Jun 2025: 0.91. Individual (bank-only) OJK ratio: BTN after the 22 Dec 2025 sharia spin-off (sharia business is in subsidiary BSN). The 30 Jun 2025 comparative still includes the UUS. No consolidated version printed except CAR."
+            },
+            "nim": {
+                "v": 3.46,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-II-2026_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PUB TW-II 2026 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), June 30, 2026 (Unaudited)",
+                "basis": "bank_only",
+                "note": "NIM per OJK. 30 Jun 2025: 4.39. Individual (bank-only) OJK ratio: BTN after the 22 Dec 2025 sharia spin-off (sharia business is in subsidiary BSN). The 30 Jun 2025 comparative still includes the UUS. No consolidated version printed except CAR."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not in the 1H2026 FS or the OJK published report; the 1H2026 analyst presentation could not be retrieved (BTN decks are ~20 MB, beyond the fetch tool; not archived)."
+            },
+            "npl_gross": {
+                "v": 3.03,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-II-2026_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PUB TW-II 2026 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), June 30, 2026 (Unaudited)",
+                "basis": "bank_only",
+                "note": "30 Jun 2025: 3.31. Individual (bank-only) OJK ratio: BTN after the 22 Dec 2025 sharia spin-off (sharia business is in subsidiary BSN). The 30 Jun 2025 comparative still includes the UUS. No consolidated version printed except CAR."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not in the 1H2026 FS or the OJK published report; the 1H2026 analyst presentation could not be retrieved."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not printed in the 1H2026 FS or the OJK published report (would have to be derived); the 1H2026 analyst presentation could not be retrieved."
+            },
+            "ldr": {
+                "v": 96.49,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-II-2026_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PUB TW-II 2026 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), June 30, 2026 (Unaudited)",
+                "basis": "bank_only",
+                "note": "30 Jun 2025: 92.36. Individual (bank-only) OJK ratio: BTN after the 22 Dec 2025 sharia spin-off (sharia business is in subsidiary BSN). The 30 Jun 2025 comparative still includes the UUS. No consolidated version printed except CAR."
+            },
+            "car": {
+                "v": 17.9,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-II-2026_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PUB TW-II 2026 PDF p. 11 ratio table (INDIVIDUAL); KPMM statement PDF p. 8",
+                "basis": "bank_only",
+                "note": "Individual KPMM. CONSOLIDATED CAR 20.05% (KPMM statement, PDF p. 8). 30 Jun 2025 individual 16.93 / consolidated 17.51. Individual (bank-only) OJK ratio: BTN after the 22 Dec 2025 sharia spin-off (sharia business is in subsidiary BSN). The 30 Jun 2025 comparative still includes the UUS. No consolidated version printed except CAR."
+            },
+            "cir": {
+                "v": 52.27,
+                "source_url": "https://www.btn.co.id/-/media/Files/Laporan-Perusahaan/laporan-keuangan-triwulan/2026/Laporan-Keuangan-Publikasi-Triwulanan-BTN_TW-II-2026_ENGLISH.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PUB TW-II 2026 PDF p. 11, 'Calculation of Financial Ratios' (INDIVIDUAL), June 30, 2026 (Unaudited)",
+                "basis": "bank_only",
+                "note": "Cost to income ratio (not BOPO; BOPO 84.15). 30 Jun 2025: 47.81. Individual (bank-only) OJK ratio: BTN after the 22 Dec 2025 sharia spin-off (sharia business is in subsidiary BSN). The 30 Jun 2025 comparative still includes the UUS. No consolidated version printed except CAR."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not printed as a ratio in the 1H2026 FS or the OJK published report; the 1H2026 analyst presentation could not be retrieved."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "dps_total:2022",
+            "reason": "The FY2022 dividend (Rp43.39426/share, total Rp609,014,371,840; AGMS 16 Mar 2023, recording date 30 Mar 2023) was paid on the 14,034,444,413 shares outstanding after the PMHMETD II rights issue completed in Jan 2023, while fy.2022.shares_out is the audited 31 Dec 2022 count of 10,590,000,000. 43.39426 x 14,034,444,413 = Rp609.0bn = stated total; the gap is real (source: keputusan-risalah_rupst-2022.pdf p. 11; AR2024 PDF p. 195)."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: www.btn.co.id sits behind Imperva/Incapsula; curl from this server gets a 302 cookie-challenge loop (not bypassed). Documents to mid-2025 came from Internet Archive snapshots of the exact btn.co.id URLs (timestamps in sources.md). Documents published later (FY2025 audited FS, 1H2026 interim FS, 1H2025 long-form FS, OJK published reports TW-IV 2025 and TW-II 2026, AGMS summaries for FY2024 and FY2025, the 2022 rights-issue prospectus) are not archived; they were retrieved with the Claude Code WebFetch tool, which received the PDFs from btn.co.id without any challenge, and were then read with pdftotext. Document URLs were found in an archived copy (2026-10-19) of BTN's Quarterly-Report IR page and by web search. Save Page Now was not used.",
+        "NOT RETRIEVED: the FY2025 annual report (~95 MB) and all 2025/2026 analyst presentations (FY2025 deck, 1Q26 deck ~20 MB) exceed the fetch tool's 10 MB limit and are not archived. Hence FY2025 year_end_price, coc, lar, npl_coverage, casa and the interim coc/lar/npl_coverage/casa are null. Re-run with a machine that can reach btn.co.id directly to fill them.",
+        "INTERIM: 9M2026 is not published yet. BTN told OJK/IDX that its 30 Sep 2026 interim FS will be limited-reviewed by a public accountant because of a corporate action planned before end-2026 (Kontan 1 Oct 2026: capital strengthening options incl. a remaining Rp3tn subordinated-bond ceiling, and Rp300-400bn of securitisation); limited-reviewed interim statements are normally due within two months of the period end (i.e. by end-Nov 2026). The interim block is H1 2026.",
+        "GROUP SCOPE / SHARIA SPIN-OFF: until 5 Jun 2025 BTN had no subsidiaries (AR2024 PDF p. 193 (printed p. 191): no subsidiaries, associates, JV or SPV); its sharia business was an internal Sharia Business Unit (UUS, 'BTN Syariah') included in every BTN statement. On 5 Jun 2025 BTN acquired 99.9984% of PT Bank Victoria Syariah (goodwill Rp527,705 juta), renamed it PT Bank Syariah Nasional (BSN; deed 27 Aug 2025, OJK approval of the new name 24 Sep 2025), and spun the UUS off into BSN effective 22 Dec 2025 (FS2025 Note 1i, PDF pp. 44-47). So FY2025 and the H1 2026 interim are consolidated (BTN + BSN) and still include all sharia assets/deposits; growth 2024->2025 is NOT distorted by the spin-off at the consolidated level (it adds the small ex-BVIS book). But OJK INDIVIDUAL (bank-only) ratios from 31 Dec 2025 exclude the sharia balance sheet, so FY2025 and interim ratios are not like-for-like with FY2020-FY2024 (which covered the whole entity incl. UUS). FY2025 consolidated CAR 20.92% and 1H2026 consolidated CAR 20.05% are given in notes.",
+        "BASIS: fy.2019-2024 money figures come from BTN's single-entity audited financial statements (no subsidiaries) and are stored as basis 'consolidated' because they are the whole group; fy.2025 and interim are true consolidated figures. Ratios are OJK bank ratios ('bank_only'), which for 2020-2024 equal the whole entity.",
+        "DEPOSITS DEFINITION: fy.*.deposits = balance-sheet 'Total simpanan dari nasabah' (conventional + wadiah deposits from customers). It EXCLUDES temporary syirkah (mudharabah) customer deposits (2024: 29,216.772; 2025: 31,856.042 IDR bn), which BTN counts in its own 'Dana Pihak Ketiga' (DPK, 2024: 381,667.001 per AR2024 PDF p. 341) and in its reported LDR/CASA. Loans_gross INCLUDES sharia financing (Note 11 total), matching BTN's 'Total Loan & Financing'. This follows the BBNI precedent; a computed loans/deposits ratio will be higher than the reported LDR.",
+        "RATIO SOURCES: FY2020-FY2024 OJK ratios (ROE, ROA, NIM, NPL, LDR, KPMM, BOPO, CASA, CIR) from AR2024's five-year table, cross-checked against AR2020-AR2023: identical except FY2023 KPMM (AR2023: 20.16; AR2024: 20.07, stored). LAR, NPL coverage and CoC for 2020-2024 from the FY2024 analyst deck (same values in the FY2023 deck for 2020-2023) EXCEPT LAR 2021: the FY2024 deck prints 24.2% but the FY2021 deck (26.75%) and FY2023 deck (26.8%) agree, so 26.75% is stored. ROE is the OJK Tier-1-based ROE (the deck labels it 'ROE (Tier-1)'). FY2025 and H1 2026 ratios are from the OJK published reports (individual).",
+        "NIM JUMP: FY2025 individual NIM 4.20% vs 2.86% in 2024 is real per the OJK published report; consolidated net interest and profit-sharing income rose from 11,492.652 to 18,218.549 IDR bn (FS2025 PDF p. 20) while interest expense was flat.",
+        "SHARES / RIGHTS ISSUE: the only share-count change since 2019 is the PMHMETD II rights issue (ex-right 23 Dec 2022; 10.59bn -> 14,034,444,413 shares, completed Jan 2023). No splits, reverse splits or bonus issues since listing (AR2024 share-listing chronology PDF pp. 194-196); no share buybacks/treasury shares 2020-2025. FY2022: the audited balance sheet still shows 10,590,000,000 issued shares plus a Rp2,756,575 juta capital deposit inside equity, while the AR share table prints 12.87bn shares outstanding for Q4 2022 (rights exercised before year-end); the audited count is stored. A BVPS computed for FY2022 from these levels therefore uses 10.59bn shares against equity that already includes most of the rights money (overstated); AR2022 itself prints BVPS Rp2,131.",
+        "EPS: as printed, never restated. FY2022 EPS 288 (10.59bn shares) was not restated for the bonus element of the rights issue in later reports. eps x shares_out vs net_profit_attr: 2020 -0.2%, 2021 -0.2%, 2022 +0.2%, 2023 -0.2%, 2024 -0.1%, 2025 -0.2%.",
+        "DIVIDENDS: one final cash dividend per year, no interim or special dividends (statements of changes in equity show a single payment per year: 2022 237.624, 2023 609.015, 2024 700.198, 2025 751.833; none in 2021 and none in H1 2026). No dividend for FY2020 (AGMS 10 Mar 2021: all profit to reserves) or FY2025 (AGMS 23 Apr 2026: 0% payout, all to retained earnings to fund loan growth) - both stored as payout_ratio 0 with the AGMS source, and there are no dividend records for those years. Payout x profit vs stated totals: within 0.01% for FY2021-FY2024. DPS x FY-end shares: FY2022 off by 24.5% because the dividend was paid on the post-rights share count (explained in validation_ack).",
+        "RESTATEMENTS: none found. Each year's figures are as originally reported in that year's audited FS; the later comparatives (AR2021-AR2024, FS2025) show identical totals. FY2020 equity is lower than FY2019 mainly because of the PSAK 71/73 transition adjustment (-Rp6,180,134 juta to retained earnings on 1 Jan 2020, AR2020 PDF p. 698).",
+        "OWNERSHIP NOTE: the 2026 AGMS summary is issued under a Danantara Indonesia letterhead and refers to the 'Pemegang Saham Seri B Terbanyak' (largest Series B holder); the legal name is still PT Bank Tabungan Negara (Persero) Tbk in the 1H2026 FS. No effect on the share count.",
+        "AR2023 FILE: the URL .../laporan-tahunan/en/laporan-tahunan-2023.pdf (used here) is the Indonesian-language AR2023 despite the 'en' folder; the separate '...-2023-en.pdf' snapshot is truncated.",
+        "MODEL IMPACT (for the page code): FY2025 year_end_price is null, so P/E, P/B and dividend yield at the FY2025 close cannot be computed from this file; the interim has shares_out, equity and profit, so TTM/BVPS at H1 2026 can be computed. Interim coc, lar, npl_coverage and casa are null."
+    ]
+}

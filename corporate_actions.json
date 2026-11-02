@@ -39,6 +39,19 @@
             "note": "PMHMETD I (HMETD) to form the ultra-micro holding (PT Pegadaian, PT PNM). Each holder of 1,000,000,000 shares on the 9 Sep 2021 register received 230,128,553 rights; 1 right = 1 new Series B share (nominal Rp50) at Rp3,400. Cum (regular & negotiation) 7 Sep 2021, ex 8 Sep 2021; rights trading/exercise 13-22 Sep 2021; allotment 27 Sep 2021. 28,213,191,604 new shares (123,345,810,000 -> 151,559,001,604); proceeds Rp95.92tn, of which Rp54.77tn Government in-kind (Pegadaian/PNM shares) and Rp41.15tn cash; TERP Rp3,810 (AR2025 PDF p.197). AGMS approval 22 Jul 2021. Not a split: no per-share adjustment factor."
         },
         {
+            "code": "BBTN",
+            "type": "rights",
+            "ratio_old": 100000000,
+            "ratio_new": 32525443,
+            "ex_date": "2022-12-23",
+            "exercise_price": 1200,
+            "source_url": "https://www.btn.co.id/assets/pdf/prospektus/prospektus-penambahan-modal-dengan-memberikan-hak-memesan-efek.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-12-15",
+            "loc": "Prospectus PMHMETD II (issued 15 Dec 2022) PDF p. 1, 'JADWAL' (cum-right regular & negotiated market 22 Dec 2022; ex-right 23 Dec 2022; recording date 26 Dec 2022) and ratio/exercise price on the same page",
+            "note": "PMHMETD II (Penawaran Umum Terbatas II). Each holder of 100,000,000 shares on the 26 Dec 2022 register received 32,525,443 rights; 1 right = 1 new Series B share (nominal Rp500) at Rp1,200. EGMS 18 Oct 2022; OJK effective 14 Dec 2022; rights listed/traded/exercised 28 Dec 2022 - 5 Jan 2023; cash market ex-right 27 Dec 2022; standby buyer PT CIMB Niaga Sekuritas. 3,444,444,413 new shares (10,590,000,000 -> 14,034,444,413); proceeds Rp4,133,333,295,600, of which state capital injection (PMN) Rp2,479,999,997,600 (AR2024 PDF p. 195). Not a split: no per-share adjustment factor."
+        },
+        {
             "code": "BMRI",
             "type": "split",
             "ratio_old": 1,
