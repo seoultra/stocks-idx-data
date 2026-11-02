@@ -30,8 +30,13 @@ averages and growth), every dividend paid out of those years, and the latest int
 period (Q1, H1 or 9M) with the same period a year earlier.
 
 Each price file holds the daily open, high, low, close and volume of every trading session
-since 2 January 2019. A new row is added after each session closes, Monday to Friday at
-about 17:30 WIB. This is end-of-day data, not a real-time feed.
+since 2 January 2019. It is updated twice every trading day (Monday to Friday, WIB):
+
+- **About 09:20:** today's opening price is published as `today` (marked provisional).
+- **About 17:30:** today's full row (open, high, low, close, volume) is added to `rows`
+  and `today` is removed.
+
+This is not a real-time feed.
 
 ## Fetching the data
 
@@ -60,6 +65,9 @@ curl -s https://raw.githubusercontent.com/seoultra/stocks-idx-data/main/issuers/
 ```
 
 ```sh
+# Today's opening price, while the session is running (null outside trading hours)
+curl -s https://raw.githubusercontent.com/seoultra/stocks-idx-data/main/prices/BBCA.json | jq '.today'
+
 # BBCA's last five sessions: date, open, high, low, close, volume
 curl -s https://raw.githubusercontent.com/seoultra/stocks-idx-data/main/prices/BBCA.json \
   | jq -c '.rows[-5:][]'
@@ -141,8 +149,8 @@ The result for every issuer is in [validation_report.json](validation_report.jso
 ## Updates and corrections
 
 Annual figures are added after each annual report, usually in March or April. Interim
-figures follow the Q1, H1 and 9M results. Daily prices are committed after every trading
-session. The commit history is the changelog.
+figures follow the Q1, H1 and 9M results. Daily prices are committed twice per trading day
+(opening price, then the full row after the close). The commit history is the changelog.
 
 If you find a wrong number, please open an issue with the document and page that show
 the correct figure.

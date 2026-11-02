@@ -204,8 +204,9 @@ its own copy (the validator rejects it), so there is one table and no drift.
   until a source with redistribution permission is in place.
 
 ## Daily prices: `prices/<CODE>.json`
-End-of-day data, not real-time. One row per IDX trading session since 2019-01-02, added
-after each session closes (Monday to Friday, around 17:30 WIB).
+Not real-time. One row per IDX trading session since 2019-01-02. Two updates per trading
+day (Monday to Friday, WIB): around 09:20 the session's opening price is published as
+`today`; around 17:30 the full row is appended to `rows` and `today` is removed.
 
 ```json
 {
@@ -219,6 +220,7 @@ after each session closes (Monday to Friday, around 17:30 WIB).
   "first_date": "2019-01-02",
   "last_date": "2026-11-02",
   "sessions": 1889,
+  "today": { "date": "2026-11-03", "open": 5025, "status": "provisional", "note": "…" },
   "columns": ["date", "open", "high", "low", "close", "volume"],
   "rows": [
     ["2021-10-12", 36275, 36600, 36225, 36600, 18213400],
@@ -234,6 +236,10 @@ after each session closes (Monday to Friday, around 17:30 WIB).
   `splits` always equals the splits for that code in `corporate_actions.json`.
 - Dividends are not adjusted for. Rights issues do not change the factor (rule 4 above).
 - `volume` is in shares (not lots) for the regular-market session.
+- `today` exists only while a session is in progress: the opening price, provisional, as
+  traded. It is never part of `rows`; use `rows` for anything historical. If the evening
+  update has not run yet, `today` can still be there after the close.
+- In `index.json`, each issuer's `prices.today` mirrors it (`null` outside trading hours).
 - **Source handling.** Yahoo Finance publishes its history already scaled for splits and,
   for some issuers, rights issues. The fetcher reverses that scaling. A rights reversal is
   listed in `source.reversed` with Yahoo's factor and the annual-report year-end price it
@@ -252,7 +258,8 @@ A commit only reaches the website after it passes the validator:
 - **Daily prices.** Errors: dates not increasing or on a weekend, low > open/close or
   high < open/close, a price that is not a multiple of the IDX tick size (usually a missed
   split), a close that moves more than 35% in one session on the split-adjusted series,
-  `splits` that differ from `corporate_actions.json`. Cross-check: the last close of every
+  `splits` that differ from `corporate_actions.json`, a `today` that is not after the last
+  row, off the tick grid or more than 35% from the last close. Cross-check: the last close of every
   year must equal the `year_end_price` printed in the annual report (within 0.5%).
 - A gap with a real cause is never "fixed" by editing a number. It is recorded in the
   issuer's `validation_ack` with the reason, e.g. BBRI FY2021, where the rights issue
