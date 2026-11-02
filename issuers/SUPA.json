@@ -1,0 +1,1342 @@
+{
+    "schema": 1,
+    "code": "SUPA",
+    "name": "PT Super Bank Indonesia Tbk",
+    "name_short": "Superbank",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.superbank.id",
+    "ir_url": "https://www.superbank.id/hubungan-investor",
+    "kbmi": {
+        "v": 2,
+        "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/ie6RuctGepXrkiRzmt8b9oWsfDwpEwGShceUEPT5.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF p. 66 (printed pp. 130-131), MD&A equity review: 'Peningkatan ekuitas ini secara resmi memposisikan Superbank sebagai Bank kategori KBMI 2'; also PDF pp. 18-19 and 21 (management reports)",
+        "note": "KBMI 2 since the IPO raised core capital above Rp6tn (equity Rp8.16tn at 31 Dec 2025). Before the IPO the bank was KBMI 1 (AR2025 PDF p. 11, award 'Top 5 Best Financial Integrity Rating among KBMI 1', 28 Nov 2025). The 9M2026 press release (28 Oct 2026) repeats KBMI 2."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 1258.593,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 50 (printed p. 46), 'Ikhtisar Pos-Pos Tertentu Neraca dan Laba Rugi' (Rp juta), 2019 column, 'Total Aset'",
+                "basis": "consolidated",
+                "note": "Superbank has no subsidiaries; its own statements are the whole reporting entity. Same figure in the audited FY2019 published statement (FS2019 annual publication) and as the FY2020 comparative."
+            },
+            "loans_gross": {
+                "v": 854.355,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 50 (printed p. 46), 'Ikhtisar Pos-Pos Tertentu Neraca dan Laba Rugi' (Rp juta), 2019 column, 'Kredit yang diberikan'",
+                "basis": "consolidated",
+                "note": "Gross: the FY2019 published statement shows Kredit 854,355 with the allowance (4,026) on a separate line."
+            },
+            "deposits": {
+                "v": 941.606,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 50 (printed p. 46), 'Ikhtisar Pos-Pos Tertentu Neraca dan Laba Rugi' (Rp juta), 2019 column, 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "Giro 125,480 + Tabungan 37,147 + Deposito 778,979 (Rp juta), as printed."
+            },
+            "equity_attr": {
+                "v": 297.856,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 50 (printed p. 46), 'Ikhtisar Pos-Pos Tertentu Neraca dan Laba Rugi' (Rp juta), 2019 column, 'Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest. The FY2019 published statement itself prints 297,855 (rounding)."
+            },
+            "total_equity": {
+                "v": 297.856,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 50 (printed p. 46), 'Ikhtisar Pos-Pos Tertentu Neraca dan Laba Rugi' (Rp juta), 2019 column, 'Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest. The FY2019 published statement itself prints 297,855 (rounding)."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 12.109194,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 83 (FS p. 2), audited Laporan Laba Rugi (Rp ribu), 2020 column, '(RUGI) LABA BERSIH' 12.109.194",
+                "basis": "consolidated",
+                "note": "Superbank has no subsidiaries; its own statements are the whole reporting entity. Comparative 'after restatement (Note 26) and reclassification (Note 27)'; the net profit equals the originally published Rp12,109 juta (FY2020 published statement, AR2020 p. 50)."
+            },
+            "eps": {
+                "v": null,
+                "note": "Not presented: Bank Fama was a private company; the FY2020 published statement prints 'Laba Bersih Per Saham: -' and the audited FY2021 FS (with 2020 comparative) has no EPS line."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "No dividend was declared specifically out of FY2020 profit. On 23 Aug 2021 the then-private Bank Fama paid an interim dividend of Rp196.9bn (AR2021 PDF p. 133, Note 16) that roughly equalled all retained earnings at 1 Jan 2021 (Rp195.6bn, which included FY2020 profit); it is recorded under fy 2021 as the audited FS label it. No payout ratio was reported."
+            },
+            "total_assets": {
+                "v": 1718.411213,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 82 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2021 (Rp ribu), 2020 comparative column, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Equals the originally published Rp1,718,411 juta (FY2020 published statement; AR2020 p. 50)."
+            },
+            "loans_gross": {
+                "v": 766.677739,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 124 (FS p. 43), Note 9a, 'Jumlah kredit yang diberikan sebelum cadangan kerugian penurunan nilai', 2020 column",
+                "basis": "consolidated",
+                "note": "Gross; allowance 10,612,674 (Rp ribu). Net 756,065,065 on the balance sheet."
+            },
+            "deposits": {
+                "v": 703.664883,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 82 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2021 (Rp ribu), 2020 comparative column, 'Simpanan nasabah'",
+                "basis": "consolidated",
+                "note": "AR2020 p. 50 prints DPK 703,665 juta (Giro 75,846 + Tabungan 28,077 + Deposito 599,742)."
+            },
+            "equity_attr": {
+                "v": 1004.11962,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 82 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2021 (Rp ribu), 2020 comparative column, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes Rp365bn 'Uang muka modal' (advance for capital paid 30 Dec 2020, converted to share capital in 2021). No non-controlling interest."
+            },
+            "total_equity": {
+                "v": 1004.11962,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 82 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2021 (Rp ribu), 2020 comparative column, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes Rp365bn advance for capital. No non-controlling interest."
+            },
+            "shares_out": {
+                "v": null,
+                "note": "Conflicting sources, so not stored: AR2020 PDF p. 9 (printed p. 5) says paid-in capital at end-2020 was Rp780.5bn = 7,805 million shares of Rp100 (deed 30 Dec 2020, OJK approval 4 Feb 2021), but the audited balance sheet shows share capital Rp415.5bn plus Rp365bn 'advance for capital' (i.e. 4,155 million Rp100 shares issued), and the audited FY2021 FS Note 15 (AR2021 PDF p. 133) prints '415.500.000.000' in the share-count column for 31 Dec 2020. No EPS was presented for FY2020, so nothing depends on this count."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed in this year: SUPA (formerly PT Bank Fama International, a private bank) listed on IDX on 17 Dec 2025 (AR2025 PDF p. 9). No market price exists."
+            },
+            "roe": {
+                "v": 3.07,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 51 (printed p. 47), 'Rasio Keuangan', 2020 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "As in the FY2020 published statement and the AR2022 five-year table. AR2021 p. 55 reprints 2020 ROE as 1.21% (different basis; not used)."
+            },
+            "roa": {
+                "v": 1.08,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 51 (printed p. 47), 'Rasio Keuangan', 2020 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "AR2021 p. 55 reprints 2020 ROA as 0.70% (different basis; not used)."
+            },
+            "nim": {
+                "v": 3.64,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 51 (printed p. 47), 'Rasio Keuangan', 2020 column, 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in the AR ratio tables, MD&A, OJK published reports, prospectus summary or decks (checked AR2020-AR2025, Prospektus Ringkas, 2025-2026 published reports, Q2/Q3 2026 decks)."
+            },
+            "npl_gross": {
+                "v": 5.18,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 51 (printed p. 47), 'Rasio Keuangan', 2020 column, 'NPL gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 4.32,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 51 (printed p. 47), 'Rasio Keuangan', 2020 column, 'NPL net'",
+                "basis": "bank_only",
+                "note": "The FY2020 published statement and AR2022 also print 4.32; the FY2021 published statement and AR2021 print 4.42 for 2020 (the 2019 value) - treated as a carry-over error."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for the bank: the ARs quote Loan at Risk only for the banking industry (e.g. AR2023 PDF p. 89, AR2025 PDF p. 52); the OJK 'Kredit Kualitas Rendah' row first appears in the 2026 published reports."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2020 (AR2020 ratio table and FY2020 published statement checked)."
+            },
+            "ldr": {
+                "v": 108.95,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 51 (printed p. 47), 'Rasio Keuangan', 2020 column, 'LDR'",
+                "basis": "bank_only",
+                "note": "The FY2021 published statement and AR2021/AR2022 reprint 108.97."
+            },
+            "car": {
+                "v": 72.77,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 51 (printed p. 47), 'Rasio Keuangan', 2020 column, 'Kewajiban Pemenuhan Modal Minimum (KPMM)'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": null,
+                "note": "Not disclosed for FY2020 (only BOPO is reported)."
+            },
+            "bopo": {
+                "v": 92.67,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/j5hqVl46XaUPN2FF1Wusib8y35LSmxzaMM8Gxl2A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 51 (printed p. 47), 'Rasio Keuangan', 2020 column, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio (AR ratio tables, MD&A, press releases and decks checked). Only the components are printed: see giro/tabungan/deposito in the AR highlights or the OJK published balance sheet. FY2020 components (Rp juta): Giro 75,846, Tabungan 28,077, Deposito 599,742 (AR2020 p. 50)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": -33.794087,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 83 (FS p. 2), audited Laporan Laba Rugi (Rp ribu), '(RUGI) LABA BERSIH' (33.794.087)",
+                "basis": "consolidated",
+                "note": "Net loss. AR2023 p. 14 misprints it as (33,974)."
+            },
+            "eps": {
+                "v": null,
+                "note": "Not presented: private company; the FY2021 published statement prints 'LABA BERSIH PER SAHAM -' and the audited FY2021 FS has no EPS line."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Not meaningful / not reported: FY2021 was a net loss, yet the Bank paid an interim dividend of Rp196,865,700 thousand on 23 Aug 2021 (AR2021 PDF p. 133, Note 16; see dividends) out of retained earnings of earlier years, before the sale to Emtek."
+            },
+            "total_assets": {
+                "v": 2717.856594,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 82 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2021 (Rp ribu), 2021 column, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Superbank has no subsidiaries; its own statements are the whole reporting entity."
+            },
+            "loans_gross": {
+                "v": 634.196137,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 124 (FS p. 43), Note 9a, 'Jumlah kredit yang diberikan sebelum cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross; allowance 63,963,490 (Rp ribu). The AR2021 highlights table (p. 54) shows the NET figure 570,233 as 'Kredit yang diberikan'."
+            },
+            "deposits": {
+                "v": 742.506101,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 82 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2021 (Rp ribu), 2021 column, 'Simpanan nasabah'",
+                "basis": "consolidated",
+                "note": "AR2021 p. 54: DPK 742,506 juta = Giro 170,569 + Tabungan 27,839 + Deposito 544,098."
+            },
+            "equity_attr": {
+                "v": 1950.356025,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 82 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2021 (Rp ribu), 2021 column, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes Rp1tn 'Uang muka modal' paid by A5-DB and Singtel Alpha in Dec 2021 (shares issued Jan 2022)."
+            },
+            "total_equity": {
+                "v": 1950.356025,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 82 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2021 (Rp ribu), 2021 column, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes Rp1tn advance for capital."
+            },
+            "shares_out": {
+                "v": 9773660000,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/zBzzQWnoNT0LeE4KaK9pHvfXWqM6NZVCP2kr6cjI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2022 PDF p. 60 (FS p. 57), Note 15 share capital, 31 Dec 2021 table, 'Jumlah' 9.773.660.000",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Rp100 nominal; Emtek group (PT Elang Media Visitama 93%, PT Nusantara Berkat Agung 7%). Also AR2021 PDF p. 9 (printed p. 5)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed in this year: SUPA (formerly PT Bank Fama International, a private bank) listed on IDX on 17 Dec 2025 (AR2025 PDF p. 9). No market price exists."
+            },
+            "roe": {
+                "v": -3.08,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/BSx3rwN3Lyz82tVYTjtMlQfa9CVl3DZUkpq4LPk8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2021 audited published annual report (Bandung, 25 Apr 2022), single-page PDF p. 1, 'Laporan Rasio Keuangan', 31 Dec 21 column, '8 Return on equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Same in AR2022 p. 16 and AR2023 p. 15. AR2021's own ratio table (PDF p. 55) prints -1.72% (not used)."
+            },
+            "roa": {
+                "v": -2.47,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/BSx3rwN3Lyz82tVYTjtMlQfa9CVl3DZUkpq4LPk8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2021 audited published annual report (Bandung, 25 Apr 2022), single-page PDF p. 1, 'Laporan Rasio Keuangan', 31 Dec 21 column, '7 Return on asset (ROA)'",
+                "basis": "bank_only",
+                "note": "AR2021 p. 55 prints -1.24% (not used)."
+            },
+            "nim": {
+                "v": 4.94,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/BSx3rwN3Lyz82tVYTjtMlQfa9CVl3DZUkpq4LPk8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2021 audited published annual report (Bandung, 25 Apr 2022), single-page PDF p. 1, 'Laporan Rasio Keuangan', 31 Dec 21 column, '9 Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in the AR ratio tables, MD&A, OJK published reports, prospectus summary or decks (checked AR2020-AR2025, Prospektus Ringkas, 2025-2026 published reports, Q2/Q3 2026 decks)."
+            },
+            "npl_gross": {
+                "v": 4.39,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/BSx3rwN3Lyz82tVYTjtMlQfa9CVl3DZUkpq4LPk8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2021 audited published annual report (Bandung, 25 Apr 2022), single-page PDF p. 1, 'Laporan Rasio Keuangan', 31 Dec 21 column, '5 NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 2.82,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/BSx3rwN3Lyz82tVYTjtMlQfa9CVl3DZUkpq4LPk8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2021 audited published annual report (Bandung, 25 Apr 2022), single-page PDF p. 1, 'Laporan Rasio Keuangan', 31 Dec 21 column, '6 NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for the bank: the ARs quote Loan at Risk only for the banking industry (e.g. AR2023 PDF p. 89, AR2025 PDF p. 52); the OJK 'Kredit Kualitas Rendah' row first appears in the 2026 published reports."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2021 (AR2021 ratio table, FY2021 published statement checked)."
+            },
+            "ldr": {
+                "v": 89.93,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/BSx3rwN3Lyz82tVYTjtMlQfa9CVl3DZUkpq4LPk8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2021 audited published annual report (Bandung, 25 Apr 2022), single-page PDF p. 1, 'Laporan Rasio Keuangan', 31 Dec 21 column, '11 Loan To Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 174.31,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/BSx3rwN3Lyz82tVYTjtMlQfa9CVl3DZUkpq4LPk8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2021 audited published annual report (Bandung, 25 Apr 2022), single-page PDF p. 1, 'Laporan Rasio Keuangan', 31 Dec 21 column, '1 Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": null,
+                "note": "Not disclosed for FY2021 (only BOPO is reported)."
+            },
+            "bopo": {
+                "v": 138.39,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/BSx3rwN3Lyz82tVYTjtMlQfa9CVl3DZUkpq4LPk8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2021 audited published annual report (Bandung, 25 Apr 2022), single-page PDF p. 1, 'Laporan Rasio Keuangan', 31 Dec 21 column, '10 BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio (AR ratio tables, MD&A, press releases and decks checked). Only the components are printed: see giro/tabungan/deposito in the AR highlights or the OJK published balance sheet. FY2021 components (Rp juta): Giro 170,569, Tabungan 27,839, Deposito 544,098 (AR2021 p. 54)."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": -155.186624,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/zBzzQWnoNT0LeE4KaK9pHvfXWqM6NZVCP2kr6cjI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 5 (FS p. 2), audited Laporan Laba Rugi (Rp ribu), 'RUGI BERSIH' (155.186.624)",
+                "basis": "consolidated",
+                "note": "Superbank has no subsidiaries; its own statements are the whole reporting entity."
+            },
+            "eps": {
+                "v": -8.5,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/QzNwcTLtA4YnB82hKHChLVDSffq9bjpO1Cae8viZ.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "IPO FS (30 Jun 2025 and FY2024/2023/2022, reissued 12 Nov 2025) PDF p. 7 (FS p. 4), 'LABA (RUGI) BERSIH PER SAHAM - Dasar'; weighted shares in Note 33, PDF p. 113 (FS p. 110)",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Loss per share; first presented in the IPO FS (the original FY2022 FS has no EPS line). Weighted average 18,262,240,500 shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/ie6RuctGepXrkiRzmt8b9oWsfDwpEwGShceUEPT5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 77 (printed p. 152), 'Kebijakan Dividen dan Historis Pembagian Dividen': 'Hingga akhir tahun 2025, Bank belum melakukan pembagian dividen'",
+                "basis": "n/a",
+                "note": "No dividend: FY2022 net loss; no dividend line in the FY2023/FY2024 statements of changes in equity."
+            },
+            "total_assets": {
+                "v": 3995.632839,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/zBzzQWnoNT0LeE4KaK9pHvfXWqM6NZVCP2kr6cjI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2022 (Rp ribu), 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 938.044073,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/zBzzQWnoNT0LeE4KaK9pHvfXWqM6NZVCP2kr6cjI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 49, Note 9a, 'Jumlah kredit yang diberikan sebelum cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross; allowance 185,709,612 (Rp ribu)."
+            },
+            "deposits": {
+                "v": 370.827924,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/zBzzQWnoNT0LeE4KaK9pHvfXWqM6NZVCP2kr6cjI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2022 (Rp ribu), 'Simpanan nasabah'",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3545.253661,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/zBzzQWnoNT0LeE4KaK9pHvfXWqM6NZVCP2kr6cjI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2022 (Rp ribu), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 3545.253661,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/zBzzQWnoNT0LeE4KaK9pHvfXWqM6NZVCP2kr6cjI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2022 (Rp ribu), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 23162059576,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/zBzzQWnoNT0LeE4KaK9pHvfXWqM6NZVCP2kr6cjI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 60 (FS p. 57), Note 15 share capital, 31 Dec 2022 'Jumlah' 23.162.059.576",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Single class, Rp100 nominal."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed in this year: SUPA (formerly PT Bank Fama International, a private bank) listed on IDX on 17 Dec 2025 (AR2025 PDF p. 9). No market price exists."
+            },
+            "roe": {
+                "v": -5.53,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/mNZXnczg2Z9KPzEOAtBHlm2DOQf7K4tL4WB2Wsid.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 16 (printed p. 14), 'Rasio Keuangan', 2022 column, 'Return on Equity (ROE)'",
+                "basis": "bank_only"
+            },
+            "roa": {
+                "v": -5.72,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/mNZXnczg2Z9KPzEOAtBHlm2DOQf7K4tL4WB2Wsid.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 16 (printed p. 14), 'Rasio Keuangan', 2022 column, 'Return on Asset (ROA)'",
+                "basis": "bank_only"
+            },
+            "nim": {
+                "v": 4.77,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/mNZXnczg2Z9KPzEOAtBHlm2DOQf7K4tL4WB2Wsid.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 16 (printed p. 14), 'Rasio Keuangan', 2022 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in the AR ratio tables, MD&A, OJK published reports, prospectus summary or decks (checked AR2020-AR2025, Prospektus Ringkas, 2025-2026 published reports, Q2/Q3 2026 decks)."
+            },
+            "npl_gross": {
+                "v": 5.44,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/mNZXnczg2Z9KPzEOAtBHlm2DOQf7K4tL4WB2Wsid.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 16 (printed p. 14), 'Rasio Keuangan', 2022 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 2.08,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/mNZXnczg2Z9KPzEOAtBHlm2DOQf7K4tL4WB2Wsid.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 16 (printed p. 14), 'Rasio Keuangan', 2022 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for the bank: the ARs quote Loan at Risk only for the banking industry (e.g. AR2023 PDF p. 89, AR2025 PDF p. 52); the OJK 'Kredit Kualitas Rendah' row first appears in the 2026 published reports."
+            },
+            "npl_coverage": {
+                "v": 363.94,
+                "source_url": "https://www.superbank.id/content/files/id/prospektus-ringkas-superbank-penawaran-umum-perdana-saham.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Prospektus Ringkas (Investor Daily 25 Nov 2025 p. 8) PDF p. 1, 'Rasio Keuangan' table, 'Penyisihan kerugian penurunan nilai kredit terhadap kredit bermasalah', 31 Desember 2022 column",
+                "basis": "bank_only",
+                "note": "Loan-loss allowance / non-performing loans as defined in the prospectus summary."
+            },
+            "ldr": {
+                "v": 252.96,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/mNZXnczg2Z9KPzEOAtBHlm2DOQf7K4tL4WB2Wsid.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 16 (printed p. 14), 'Rasio Keuangan', 2022 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Real, not a unit slip: deposits had fallen to Rp0.37tn while the bank was being rebuilt as a digital bank (FS2022)."
+            },
+            "car": {
+                "v": 253.62,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/mNZXnczg2Z9KPzEOAtBHlm2DOQf7K4tL4WB2Wsid.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 16 (printed p. 14), 'Rasio Keuangan', 2022 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Real: equity Rp3.5tn against a small risk-weighted asset base."
+            },
+            "cir": {
+                "v": 125.14,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/mNZXnczg2Z9KPzEOAtBHlm2DOQf7K4tL4WB2Wsid.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 105 (printed p. 103), MD&A target vs actual table, 'CIR' Realisasi",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 208.58,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/mNZXnczg2Z9KPzEOAtBHlm2DOQf7K4tL4WB2Wsid.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 16 (printed p. 14), 'Rasio Keuangan', 2022 column, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio (AR ratio tables, MD&A, press releases and decks checked). Only the components are printed: see giro/tabungan/deposito in the AR highlights or the OJK published balance sheet."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": -385.101042,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/TRv7cplPL6ddK52LV6Y5gKQgFlUP0ktg2lzfEK2a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 5 (FS p. 2), audited Laporan Laba Rugi (Rp ribu), 'RUGI BERSIH' (385.101.042)",
+                "basis": "consolidated",
+                "note": "Superbank has no subsidiaries; its own statements are the whole reporting entity."
+            },
+            "eps": {
+                "v": -15.8,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/QzNwcTLtA4YnB82hKHChLVDSffq9bjpO1Cae8viZ.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "IPO FS (30 Jun 2025 and FY2024/2023/2022, reissued 12 Nov 2025) PDF p. 7 (FS p. 4), 'LABA (RUGI) BERSIH PER SAHAM - Dasar'; weighted shares in Note 33, PDF p. 113 (FS p. 110)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Loss per share; weighted average 24,316,293,729 shares (capital increases Jul-Sep 2023)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/ie6RuctGepXrkiRzmt8b9oWsfDwpEwGShceUEPT5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 77 (printed p. 152): 'Hingga akhir tahun 2025, Bank belum melakukan pembagian dividen'",
+                "basis": "n/a",
+                "note": "No dividend: FY2023 net loss; no dividend line in the FY2024 statement of changes in equity."
+            },
+            "total_assets": {
+                "v": 5556.073836,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/TRv7cplPL6ddK52LV6Y5gKQgFlUP0ktg2lzfEK2a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2023 (Rp ribu), 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 2920.822529,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/TRv7cplPL6ddK52LV6Y5gKQgFlUP0ktg2lzfEK2a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 48, Note 9a, 'Jumlah kredit yang diberikan sebelum cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross; allowance 278,588,346 (Rp ribu)."
+            },
+            "deposits": {
+                "v": 921.705611,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/TRv7cplPL6ddK52LV6Y5gKQgFlUP0ktg2lzfEK2a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2023 (Rp ribu), 'Simpanan nasabah'",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 4368.336521,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/TRv7cplPL6ddK52LV6Y5gKQgFlUP0ktg2lzfEK2a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2023 (Rp ribu), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 4368.336521,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/TRv7cplPL6ddK52LV6Y5gKQgFlUP0ktg2lzfEK2a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2023 (Rp ribu), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 26408717026,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/Fb6XhCwskDBw5N3DQom6iU3hszituQbBr9ziYy9A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2024 PDF p. 67 (FS p. 64), Note 19 share capital, 31 Dec 2023 table, 'Jumlah' 26.408.717.026 (FS2023 PDF p. 60 prints the two series separately: 26.035.513.026 A + 373.204.000 B)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Total issued = 26,035,513,026 Series A (Rp100, ordinary) + 373,204,000 Series B (Rp1 employee incentive shares, no voting rights; held by Bersama Sustainability Trust). Series B is counted because the EPS denominators include it."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed in this year: SUPA (formerly PT Bank Fama International, a private bank) listed on IDX on 17 Dec 2025 (AR2025 PDF p. 9). No market price exists."
+            },
+            "roe": {
+                "v": -10.7,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/yFK2s7F1VWWGCw0bezAnHqGgtOw7Xb55RG2Y3nG3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15 (printed p. 13), 'Rasio Keuangan', 2023 column, 'Return on Equity (ROE)'",
+                "basis": "bank_only"
+            },
+            "roa": {
+                "v": -10.86,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/yFK2s7F1VWWGCw0bezAnHqGgtOw7Xb55RG2Y3nG3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15 (printed p. 13), 'Rasio Keuangan', 2023 column, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "Real loss year (pre-launch build-out); outside the validator's [-10, 10] range."
+            },
+            "nim": {
+                "v": 7.18,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/yFK2s7F1VWWGCw0bezAnHqGgtOw7Xb55RG2Y3nG3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15 (printed p. 13), 'Rasio Keuangan', 2023 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in the AR ratio tables, MD&A, OJK published reports, prospectus summary or decks (checked AR2020-AR2025, Prospektus Ringkas, 2025-2026 published reports, Q2/Q3 2026 decks)."
+            },
+            "npl_gross": {
+                "v": 3.8,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/yFK2s7F1VWWGCw0bezAnHqGgtOw7Xb55RG2Y3nG3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15 (printed p. 13), 'Rasio Keuangan', 2023 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 1.06,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/yFK2s7F1VWWGCw0bezAnHqGgtOw7Xb55RG2Y3nG3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15 (printed p. 13), 'Rasio Keuangan', 2023 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for the bank: the ARs quote Loan at Risk only for the banking industry (e.g. AR2023 PDF p. 89, AR2025 PDF p. 52); the OJK 'Kredit Kualitas Rendah' row first appears in the 2026 published reports."
+            },
+            "npl_coverage": {
+                "v": 251.14,
+                "source_url": "https://www.superbank.id/content/files/id/prospektus-ringkas-superbank-penawaran-umum-perdana-saham.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Prospektus Ringkas (Investor Daily 25 Nov 2025 p. 8) PDF p. 1, 'Rasio Keuangan' table, 'Penyisihan kerugian penurunan nilai kredit terhadap kredit bermasalah', 31 Desember 2023 column",
+                "basis": "bank_only",
+                "note": "CONFLICT: AR2025 PDF p. 7 prints 2023 'CKPN terhadap NPL' as 238.8. The prospectus value is used because it matches the audited FS2023 (allowance 278,589 / NPL 3.80% x loans 2,920,823 ~ 251%)."
+            },
+            "ldr": {
+                "v": 316.89,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/yFK2s7F1VWWGCw0bezAnHqGgtOw7Xb55RG2Y3nG3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15 (printed p. 13), 'Rasio Keuangan', 2023 column, 'Loan to deposit ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Real (deposits only Rp0.92tn before the app launch in Jun 2024); outside the validator's [30, 160] range."
+            },
+            "car": {
+                "v": 185.63,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/yFK2s7F1VWWGCw0bezAnHqGgtOw7Xb55RG2Y3nG3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15 (printed p. 13), 'Rasio Keuangan', 2023 column, 'Kewajiban Penyediaan Modal Minimum'",
+                "basis": "bank_only",
+                "note": "Real; outside the validator's [5, 80] range."
+            },
+            "cir": {
+                "v": 209.33,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/yFK2s7F1VWWGCw0bezAnHqGgtOw7Xb55RG2Y3nG3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 103 (printed p. 101), target vs actual table, 'CIR' Realisasi",
+                "basis": "bank_only",
+                "note": "Real (costs > income); outside the validator's [0, 150] range. Same value in AR2024 p. 60."
+            },
+            "bopo": {
+                "v": 239.67,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/yFK2s7F1VWWGCw0bezAnHqGgtOw7Xb55RG2Y3nG3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15 (printed p. 13), 'Rasio Keuangan', 2023 column, 'BOPO'",
+                "basis": "bank_only",
+                "note": "Real; outside the validator's [0, 200] range."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio (AR ratio tables, MD&A, press releases and decks checked). Only the components are printed: see giro/tabungan/deposito in the AR highlights or the OJK published balance sheet. FY2023 components (Rp juta): Giro 123,987, Tabungan 21,092, Deposito 776,627 (AR2025 p. 6)."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": -366.367,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/Fb6XhCwskDBw5N3DQom6iU3hszituQbBr9ziYy9A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 5 (FS p. 2), audited Laporan Laba Rugi, 'RUGI BERSIH' (366.367)",
+                "basis": "consolidated",
+                "note": "Superbank has no subsidiaries; its own statements are the whole reporting entity."
+            },
+            "eps": {
+                "v": -13,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/y8EXBpVT6YzvKJj3AJEpaCCrFX2BYTMZXNRVWvl0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2025 PDF p. 6 (FS p. 3), 'LABA (RUGI) BERSIH PER SAHAM - Dasar', 2024 column; Note 32, PDF p. 81",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Loss per share; weighted average 28,144,006,254 shares (Jun 2024 capital increase). The original FY2024 FS has no EPS line; the IPO FS prints the same (13.0)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/ie6RuctGepXrkiRzmt8b9oWsfDwpEwGShceUEPT5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 77 (printed p. 152): 'Hingga akhir tahun 2025, Bank belum melakukan pembagian dividen'",
+                "basis": "n/a",
+                "note": "No dividend: FY2024 net loss; no dividend in the FY2025 statement of changes in equity."
+            },
+            "total_assets": {
+                "v": 11395.094,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/Fb6XhCwskDBw5N3DQom6iU3hszituQbBr9ziYy9A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2024 (Rp juta), 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 6426.416,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/Fb6XhCwskDBw5N3DQom6iU3hszituQbBr9ziYy9A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 53 (FS p. 50), Note 10, 'Jumlah kredit yang diberikan sebelum cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross; allowance 371,703 (Rp juta)."
+            },
+            "deposits": {
+                "v": 4942.826,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/Fb6XhCwskDBw5N3DQom6iU3hszituQbBr9ziYy9A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2024 (Rp juta), 'Simpanan nasabah'",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 5247.532,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/Fb6XhCwskDBw5N3DQom6iU3hszituQbBr9ziYy9A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2024 (Rp juta), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 5247.532,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/Fb6XhCwskDBw5N3DQom6iU3hszituQbBr9ziYy9A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2024 (Rp juta), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 29340405350,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/Fb6XhCwskDBw5N3DQom6iU3hszituQbBr9ziYy9A.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 66 (FS p. 63), Note 19 share capital, 31 Dec 2024 'Jumlah' 29.340.405.350",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "28,840,405,350 Series A (Rp100) + 500,000,000 Series B (Rp1 employee incentive shares, Bersama Sustainability Trust)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed in this year: SUPA (formerly PT Bank Fama International, a private bank) listed on IDX on 17 Dec 2025 (AR2025 PDF p. 9). No market price exists."
+            },
+            "roe": {
+                "v": -7.5,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/69gw6ES7mhxGHI38UgeEIdwmBFIkC70DRJepckY4.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 60 (printed pp. 118-119), 'Rasio Keuangan Penting', 2024 column, 'Return on equity (ROE)'",
+                "basis": "bank_only"
+            },
+            "roa": {
+                "v": -4.93,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/69gw6ES7mhxGHI38UgeEIdwmBFIkC70DRJepckY4.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 60 (printed pp. 118-119), 'Rasio Keuangan Penting', 2024 column, 'Return on asset (ROA)'",
+                "basis": "bank_only"
+            },
+            "nim": {
+                "v": 7.88,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/69gw6ES7mhxGHI38UgeEIdwmBFIkC70DRJepckY4.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 60 (printed pp. 118-119), 'Rasio Keuangan Penting', 2024 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in the AR ratio tables, MD&A, OJK published reports, prospectus summary or decks (checked AR2020-AR2025, Prospektus Ringkas, 2025-2026 published reports, Q2/Q3 2026 decks)."
+            },
+            "npl_gross": {
+                "v": 2.27,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/69gw6ES7mhxGHI38UgeEIdwmBFIkC70DRJepckY4.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 60 (printed pp. 118-119), 'Rasio Keuangan Penting', 2024 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.35,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/69gw6ES7mhxGHI38UgeEIdwmBFIkC70DRJepckY4.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 60 (printed pp. 118-119), 'Rasio Keuangan Penting', 2024 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for the bank: the ARs quote Loan at Risk only for the banking industry (e.g. AR2023 PDF p. 89, AR2025 PDF p. 52); the OJK 'Kredit Kualitas Rendah' row first appears in the 2026 published reports."
+            },
+            "npl_coverage": {
+                "v": 254.69,
+                "source_url": "https://www.superbank.id/content/files/id/prospektus-ringkas-superbank-penawaran-umum-perdana-saham.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Prospektus Ringkas (Investor Daily 25 Nov 2025 p. 8) PDF p. 1, 'Rasio Keuangan' table, 'Penyisihan kerugian penurunan nilai kredit terhadap kredit bermasalah', 31 Desember 2024 column",
+                "basis": "bank_only",
+                "note": "AR2025 PDF p. 7 prints 254.7 (same)."
+            },
+            "ldr": {
+                "v": 130.01,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/69gw6ES7mhxGHI38UgeEIdwmBFIkC70DRJepckY4.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 60 (printed pp. 118-119), 'Rasio Keuangan Penting', 2024 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 95.84,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/69gw6ES7mhxGHI38UgeEIdwmBFIkC70DRJepckY4.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 60 (printed pp. 118-119), 'Rasio Keuangan Penting', 2024 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Real; outside the validator's [5, 80] range."
+            },
+            "cir": {
+                "v": 139.16,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/69gw6ES7mhxGHI38UgeEIdwmBFIkC70DRJepckY4.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 60 (printed pp. 118-119), 'Rasio Keuangan Penting', 2024 column, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 148.63,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/69gw6ES7mhxGHI38UgeEIdwmBFIkC70DRJepckY4.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 60 (printed pp. 118-119), 'Rasio Keuangan Penting', 2024 column, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio (AR ratio tables, MD&A, press releases and decks checked). Only the components are printed: see giro/tabungan/deposito in the AR highlights or the OJK published balance sheet. FY2024 components (Rp juta): Giro 113,672, Tabungan 1,258,347, Deposito 3,570,807 (AR2025 p. 6)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 99.684,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/y8EXBpVT6YzvKJj3AJEpaCCrFX2BYTMZXNRVWvl0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 6 (FS p. 3), audited Laporan Laba Rugi, 'LABA (RUGI) BERSIH' 99.684",
+                "basis": "consolidated",
+                "note": "Superbank has no subsidiaries; its own statements are the whole reporting entity. First full-year profit since the digital relaunch."
+            },
+            "eps": {
+                "v": 3.3,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/y8EXBpVT6YzvKJj3AJEpaCCrFX2BYTMZXNRVWvl0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 6 (FS p. 3), 'LABA (RUGI) BERSIH PER SAHAM - Dasar'; Note 32, PDF p. 81 (FS p. 78)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Weighted average 29,827,679,271 shares (IPO shares issued 18 Dec 2025). Diluted also 3.3."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.superbank.id/content/files/id/pengumuman-ringkasan-risalah-rapat-umum-pemegang-saham-tahunan.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-04-27",
+                "loc": "Ringkasan Risalah RUPST 27 Apr 2026 (dated 28 Apr 2026), PDF p. 5, Keputusan Mata Acara Kedua: 'tidak mengalokasikan dana cadangan dan tidak membagikan dividen ... masih memiliki saldo defisit'",
+                "basis": "n/a",
+                "note": "No dividend out of FY2025 profit because of the accumulated deficit (Rp846bn at 31 Dec 2025). Dividend policy (Prospektus Ringkas p. 2): up to 85% of net profit once retained earnings are positive, planned from FY2029 profit."
+            },
+            "total_assets": {
+                "v": 21282.312,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/y8EXBpVT6YzvKJj3AJEpaCCrFX2BYTMZXNRVWvl0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2025 (Rp juta), 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 9618.259,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/y8EXBpVT6YzvKJj3AJEpaCCrFX2BYTMZXNRVWvl0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2025 (Rp juta), 'Jumlah kredit yang diberikan'",
+                "basis": "consolidated",
+                "note": "Gross; allowance 418,681 (Rp juta)."
+            },
+            "deposits": {
+                "v": 11827.129,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/y8EXBpVT6YzvKJj3AJEpaCCrFX2BYTMZXNRVWvl0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 4 (FS p. 1), audited Laporan Posisi Keuangan 31 Dec 2025 (Rp juta), 'Jumlah simpanan nasabah'",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 8164.594,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/y8EXBpVT6YzvKJj3AJEpaCCrFX2BYTMZXNRVWvl0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 5 (FS p. 2), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 8164.594,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/y8EXBpVT6YzvKJj3AJEpaCCrFX2BYTMZXNRVWvl0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 5 (FS p. 2), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 33897017650,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_tahunans/upload/y8EXBpVT6YzvKJj3AJEpaCCrFX2BYTMZXNRVWvl0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 5 (FS p. 2) face ('33.897.017.650 lembar saham pada tanggal 18 Desember 2025') and Note 21, PDF p. 64",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Single class Rp100 after the Nov-2025 conversion of the Series B shares; includes the 4,406,612,300 IPO shares. No treasury shares."
+            },
+            "year_end_price": {
+                "v": 935,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/ie6RuctGepXrkiRzmt8b9oWsfDwpEwGShceUEPT5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-30",
+                "loc": "AR2025 PDF p. 9 (printed pp. 16-17), 'Ikhtisar Saham', 30 Desember 2025 row, 'Penutupan' (Closing)",
+                "basis": "n/a",
+                "share_basis": "2025-12-30",
+                "note": "Close of 30 Dec 2025, the last IDX session of 2025. The same row prints high 1,230, low 790 (since listing on 17 Dec 2025 at the IPO price of Rp635), 33,897,017,650 shares, market cap Rp31,693,711,502,750."
+            },
+            "roe": {
+                "v": 1.97,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/dDRiEO5l5XD6llZcoxWD3dykNXx90frjPFzuXfWb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "OJK published report 31 Dec 2025 (with press release of 11 Mar 2026), PDF p. 5, 'RASIO KINERJA', 31-Dec-25 column, '8 Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF p. 8 prints 2.0 (rounded)."
+            },
+            "roa": {
+                "v": 0.92,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/dDRiEO5l5XD6llZcoxWD3dykNXx90frjPFzuXfWb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "OJK published report 31 Dec 2025 (with press release of 11 Mar 2026), PDF p. 5, 'RASIO KINERJA', 31-Dec-25 column, '7 Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "AR2025 p. 8: 0.9."
+            },
+            "nim": {
+                "v": 10.64,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/dDRiEO5l5XD6llZcoxWD3dykNXx90frjPFzuXfWb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "OJK published report 31 Dec 2025 (with press release of 11 Mar 2026), PDF p. 5, 'RASIO KINERJA', 31-Dec-25 column, '9 Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "AR2025 p. 8: 10.6."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in the AR ratio tables, MD&A, OJK published reports, prospectus summary or decks (checked AR2020-AR2025, Prospektus Ringkas, 2025-2026 published reports, Q2/Q3 2026 decks)."
+            },
+            "npl_gross": {
+                "v": 2.6,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/dDRiEO5l5XD6llZcoxWD3dykNXx90frjPFzuXfWb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "OJK published report 31 Dec 2025 (with press release of 11 Mar 2026), PDF p. 5, 'RASIO KINERJA', 31-Dec-25 column, '5 NPL gross'",
+                "basis": "bank_only",
+                "note": "AR2025 p. 7: 2.6."
+            },
+            "npl_net": {
+                "v": 0.68,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/dDRiEO5l5XD6llZcoxWD3dykNXx90frjPFzuXfWb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "OJK published report 31 Dec 2025 (with press release of 11 Mar 2026), PDF p. 5, 'RASIO KINERJA', 31-Dec-25 column, '6 NPL net'",
+                "basis": "bank_only",
+                "note": "AR2025 p. 7: 0.7."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for the bank: the ARs quote Loan at Risk only for the banking industry (e.g. AR2023 PDF p. 89, AR2025 PDF p. 52); the OJK 'Kredit Kualitas Rendah' row first appears in the 2026 published reports."
+            },
+            "npl_coverage": {
+                "v": 167.6,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/ie6RuctGepXrkiRzmt8b9oWsfDwpEwGShceUEPT5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 7 (printed pp. 12-13), 'Rasio Keuangan', 'CKPN terhadap NPL / Loan Loss Coverage', 2025 column",
+                "basis": "bank_only"
+            },
+            "ldr": {
+                "v": 81.32,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/dDRiEO5l5XD6llZcoxWD3dykNXx90frjPFzuXfWb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "OJK published report 31 Dec 2025 (with press release of 11 Mar 2026), PDF p. 5, 'RASIO KINERJA', 31-Dec-25 column, '12 Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "AR2025 p. 7: 81.3."
+            },
+            "car": {
+                "v": 93.24,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/dDRiEO5l5XD6llZcoxWD3dykNXx90frjPFzuXfWb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "OJK published report 31 Dec 2025 (with press release of 11 Mar 2026), PDF p. 5, 'RASIO KINERJA', 31-Dec-25 column, '1 Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Real (IPO proceeds Rp2.7tn in Dec 2025); outside the validator's [5, 80] range. AR2025 p. 7: 93.2."
+            },
+            "cir": {
+                "v": 70.52,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/dDRiEO5l5XD6llZcoxWD3dykNXx90frjPFzuXfWb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "OJK published report 31 Dec 2025 (with press release of 11 Mar 2026), PDF p. 5, 'RASIO KINERJA', 31-Dec-25 column, '11 Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "AR2025 p. 8: 70.5."
+            },
+            "bopo": {
+                "v": 93.53,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/dDRiEO5l5XD6llZcoxWD3dykNXx90frjPFzuXfWb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "OJK published report 31 Dec 2025 (with press release of 11 Mar 2026), PDF p. 5, 'RASIO KINERJA', 31-Dec-25 column, '10 BOPO'",
+                "basis": "bank_only",
+                "note": "AR2025 p. 8: 93.5."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio (AR ratio tables, MD&A, press releases and decks checked). Only the components are printed: see giro/tabungan/deposito in the AR highlights or the OJK published balance sheet. FY2025 components (Rp juta): Giro 294,183, Tabungan 2,234,514, Deposito 9,298,432 (AR2025 p. 6)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2021,
+            "type": "interim",
+            "dps": null,
+            "total": 196.8657,
+            "cum_date": null,
+            "ex_date": null,
+            "record_date": null,
+            "pay_date": "2021-08-23",
+            "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_tahunan/upload/xT9NiN8sQBjAaukr5cgw4at1x7XZenlKxQQ2nbzC.pdf",
+            "source_type": "filing",
+            "as_of_date": "2021-08-23",
+            "loc": "AR2021 PDF p. 133 (FS p. 52), audited FY2021 FS Note 16 'Penggunaan Laba Bersih'; also the statement of changes in equity ('Pembayaran dividen (196.865.700)') and the cash-flow statement (Rp ribu)",
+            "note": "Paid by the then-private PT Bank Fama International to its founding shareholders (Junus Jen Suherman, Edi Susanto, Dewi Janti, PT Surya Putra Mandiri Sejahtera) under a resolution of 23 Aug 2021, OJK approval 15 Sep 2021. Rp196,865,700 thousand. Labelled 'interim dividen' in the FS although FY2021 ended in a net loss: it was in effect a distribution of the retained earnings of earlier years (Rp195.6bn at 1 Jan 2021) before the Dec-2021 sale to Emtek; on the same day the same shareholders injected Rp196.866bn of new share capital (Note 15). DPS not stated (the share count at the payment date is ambiguous, see fy.2020.shares_out); no cum/ex/record dates (unlisted). AR2025 p. 77 says the Bank 'has not distributed any dividends' as of end-2025, which ignores this pre-takeover payment."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 299.889,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/AJeaGt8m4Bj33tnHZBInQsowu5CY5DlEB23Dipww.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 6 (FS p. 3), Laporan Laba Rugi, 'LABA BERSIH', 2026 column",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2026, unaudited. Basic EPS 8.8."
+            },
+            "profit_ytd_prior": {
+                "v": 60.126,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/AJeaGt8m4Bj33tnHZBInQsowu5CY5DlEB23Dipww.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 6 (FS p. 3), 'LABA BERSIH', 2025 comparative column",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2025, unaudited (pre-IPO). The +399% YoY is real (profit ramp after the 2025 break-even; 9M2025 published report also prints 60,126)."
+            },
+            "equity_attr": {
+                "v": 8422.746,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/AJeaGt8m4Bj33tnHZBInQsowu5CY5DlEB23Dipww.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 5 (FS p. 2), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest. The OJK published report prints 8,422,745 (rounding)."
+            },
+            "shares_out": {
+                "v": 33897017650,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/AJeaGt8m4Bj33tnHZBInQsowu5CY5DlEB23Dipww.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 5 (FS p. 2), 'Modal ditempatkan dan disetor penuh 33.897.017.650 lembar saham'",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Unchanged since the IPO; no treasury shares."
+            },
+            "total_assets": {
+                "v": 27498.71,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/AJeaGt8m4Bj33tnHZBInQsowu5CY5DlEB23Dipww.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 (unaudited, authorised 28 Oct 2026) PDF p. 4 (FS p. 1), Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 13792.413,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/AJeaGt8m4Bj33tnHZBInQsowu5CY5DlEB23Dipww.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 (unaudited, authorised 28 Oct 2026) PDF p. 4 (FS p. 1), Laporan Posisi Keuangan, 'Jumlah kredit yang diberikan'",
+                "basis": "consolidated",
+                "note": "Gross; allowance 492,162 (Rp juta)."
+            },
+            "loans_gross_prior": {
+                "v": 9037.171,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/t5sTfSR9Un9P9mENhQWm6A6qUVecASmYVghH20NV.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "OJK published report 30 Sep 2025 (with press release of 20 Oct 2025), PDF p. 5, Laporan Posisi Keuangan, '9 Kredit yang diberikan', 30-Sep-25 column",
+                "basis": "consolidated",
+                "note": "Gross (the allowance is a separate line in this format). No 9M2025 interim FS is posted; the 9M2026 FS compares the balance sheet with 31 Dec 2025 only."
+            },
+            "deposits": {
+                "v": 17602.062,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/AJeaGt8m4Bj33tnHZBInQsowu5CY5DlEB23Dipww.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 (unaudited, authorised 28 Oct 2026) PDF p. 4 (FS p. 1), Laporan Posisi Keuangan, 'Jumlah simpanan nasabah'",
+                "basis": "consolidated",
+                "note": "= Giro 589,018 + Tabungan 2,995,183 + Deposito 14,017,861 in the 30 Sep 2026 published report."
+            },
+            "deposits_prior": {
+                "v": 9816.693,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/t5sTfSR9Un9P9mENhQWm6A6qUVecASmYVghH20NV.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "OJK published report 30 Sep 2025 PDF p. 5, Laporan Posisi Keuangan, '1 Giro' 292,874 + '2 Tabungan' 1,762,030 + '3 Deposito' 7,761,789 (Rp juta), 30-Sep-25 column",
+                "basis": "consolidated",
+                "note": "SUM of the three printed DPK lines; this format prints no DPK total. The same sum equals the FS total 'Jumlah simpanan nasabah' at 31 Dec 2025 (11,827,129) and 30 Sep 2026 (17,602,062). Press release of 20 Oct 2025: DPK 'Rp9,8 triliun'."
+            },
+            "roe": {
+                "v": 5.23,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/sreWhuB0Z2JrpxZx1cbuz2L0QpbW2kVsTrEChbga.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (with press release of 28 Oct 2026), PDF p. 5, 'RASIO KINERJA', 30-Sep-26 column, '9 Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Annualised, OJK definition. The press release/deck quote a 'Pre-Tax ROE' of 6.23% (different definition)."
+            },
+            "roa": {
+                "v": 2.04,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/sreWhuB0Z2JrpxZx1cbuz2L0QpbW2kVsTrEChbga.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (with press release of 28 Oct 2026), PDF p. 5, 'RASIO KINERJA', 30-Sep-26 column, '8 Return on Asset (ROA)'",
+                "basis": "bank_only"
+            },
+            "nim": {
+                "v": 8.62,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/sreWhuB0Z2JrpxZx1cbuz2L0QpbW2kVsTrEChbga.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (with press release of 28 Oct 2026), PDF p. 5, 'RASIO KINERJA', 30-Sep-26 column, '10 Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in the AR ratio tables, MD&A, OJK published reports, prospectus summary or decks (checked AR2020-AR2025, Prospektus Ringkas, 2025-2026 published reports, Q2/Q3 2026 decks)."
+            },
+            "npl_gross": {
+                "v": 2.3,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/sreWhuB0Z2JrpxZx1cbuz2L0QpbW2kVsTrEChbga.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (with press release of 28 Oct 2026), PDF p. 5, 'RASIO KINERJA', 30-Sep-26 column, '5 NPL gross'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 11.35,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/sreWhuB0Z2JrpxZx1cbuz2L0QpbW2kVsTrEChbga.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (with press release of 28 Oct 2026), PDF p. 5, 'RASIO KINERJA', 30-Sep-26 column, '7 Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "OJK 'Kredit Kualitas Rendah' (low-quality loans: special mention + NPL + restructured current), the published-report proxy for loan at risk; the bank publishes no own LaR series. 30 Sep 2025: 10.67."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for 9M2026 (published report, press release and Q3 2026 deck checked; the FS notes give NPL and allowance amounts but no ratio)."
+            },
+            "ldr": {
+                "v": 78.36,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/sreWhuB0Z2JrpxZx1cbuz2L0QpbW2kVsTrEChbga.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (with press release of 28 Oct 2026), PDF p. 5, 'RASIO KINERJA', 30-Sep-26 column, '13 Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 73.26,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/sreWhuB0Z2JrpxZx1cbuz2L0QpbW2kVsTrEChbga.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (with press release of 28 Oct 2026), PDF p. 5, 'RASIO KINERJA', 30-Sep-26 column, '1 Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 54.16,
+                "source_url": "https://bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com/files/laporan_keuangan_triwulans/upload/sreWhuB0Z2JrpxZx1cbuz2L0QpbW2kVsTrEChbga.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (with press release of 28 Oct 2026), PDF p. 5, 'RASIO KINERJA', 30-Sep-26 column, '12 Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio (AR ratio tables, MD&A, press releases and decks checked). Only the components are printed: see giro/tabungan/deposito in the AR highlights or the OJK published balance sheet. 30 Sep 2026 components (Rp juta): Giro 589,018, Tabungan 2,995,183, Deposito 14,017,861."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2022",
+            "reason": "Capital increases during 2022 (5 Jan 2022 A5-DB/Singtel Alpha from the Rp1tn advance; 19 Jul 2022 Singtel Alpha and PT Kudo Teknologi Indonesia (Grab); 23 Dec 2022 PT Tiga Sira Sejahtera - FS2022 Note 15, PDF pp. 60-61) took the share count from 9,773,660,000 to 23,162,059,576, so basic EPS (8.5) uses weighted-average shares of 18,262,240,500 (IPO FS Note 33, PDF p. 113): -155,187 / 18,262.2m = -8.50. EPS x year-end shares overstates the loss by ~27%; the gap is real."
+        },
+        {
+            "check": "eps_shares:2023",
+            "reason": "Shares rose from 23,162,059,576 to 26,408,717,026 in Jul-Sep 2023 (APIC conversion 11 Jul, 373.2m Series B incentive shares 28 Aug, 2.65bn KakaoBank shares 27 Sep 2023; FS2024 Note 19), so the FY2023 loss per share (15.8) uses weighted-average shares of 24,316,293,729 (IPO FS Note 33): -385,101 / 24,316.3m = -15.84. Real gap."
+        },
+        {
+            "check": "eps_shares:2024",
+            "reason": "126.8m Series B shares (30 Apr 2024) and 2.80bn Series A shares (21 Jun 2024) were issued during the year (FS2024 Note 19), so the FY2024 loss per share (13.0) uses weighted-average shares of 28,144,006,254 (FS2025 Note 32): -366,367 / 28,144.0m = -13.02, while year-end shares are 29,340,405,350. Real gap (~4%)."
+        },
+        {
+            "check": "eps_shares:2025",
+            "reason": "IPO: 4,406,612,300 new shares issued 18 Dec 2025 (plus 150m Series B in Apr 2025), so FY2025 basic EPS (3.3) uses weighted-average shares of 29,827,679,271 (FS2025 Note 32, PDF p. 81): 99,684 / 29,827.7m = 3.34, while year-end shares are 33,897,017,650. Real gap (~12%)."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: every document came from Superbank's own channels and was fetched with plain curl (browser User-Agent) on 2026-11-03; no bot challenge was bypassed and no Internet Archive copy was needed for data. The www.superbank.id IR HTML pages return 403 to this server (intermittent WAF), but the site's public JSON endpoints https://api.superbank.id/api/v1/id/laporantahunans, .../laporankeuangantahunan and .../laporankeuangantriwulan (used by the IR pages; they also returned 403 on some tries) list the documents, which are stored in Superbank's own S3 bucket bucket-bfm-prd.s3.ap-southeast-3.amazonaws.com ('bfm' = Bank Fama). Those S3 URLs are the source_url values. Other files are on www.superbank.id/content/files/. idx.co.id was not used. The full IPO prospectus (/content/files/prospektus-superbank-penawaran-umum-perdana-saham.pdf) returned 403 on every try; the short prospectus (Prospektus Ringkas) and the audited IPO FS (30 Jun 2025, FY2024/23/22) were used instead. Note: the website terms (/syarat-ketentuan, 'Kekayaan Intelektual') prohibit systematic retrieval of site content into a database without Superbank's written permission; the figures here are from public regulatory filings, but the owner should be aware.",
+        "ENTITY HISTORY: PT Super Bank Indonesia Tbk is the former PT Bank Fama International (Bandung, founded 1993), a small private bank. Emtek (PT Elang Media Visitama + PT Nusantara Berkat Agung) bought 100% in Dec 2021; A5-DB Holdings and Singtel Alpha (Jan 2022), Grab (PT Kudo Teknologi Indonesia), KakaoBank (Sep 2023) and GXS Bank (Aug 2025, from Singtel) joined. Renamed Superbank in Feb 2023 (FS2023 title 'formerly PT Bank Fama International'); digital app launched Jun 2024. IPO 10-15 Dec 2025 at Rp635, 4,406,612,300 new shares (13%), net proceeds Rp2,730.8bn; listed 17 Dec 2025 (FS2025 Note 21). FY2020-FY2021 are a different, tiny conventional bank (assets Rp1.7-2.7tn), so growth and ROE comparisons across 2021-2023 reflect a rebuilt business, not organic growth.",
+        "BASIS: the Bank has no subsidiaries in any year (FY2019 published statement 'Bank tidak memiliki anak perusahaan'; all FS are 'Laporan Keuangan', not consolidated). Money fields are stored with basis 'consolidated' (the validator requires it for profit/equity); equity_attr = total_equity (no NCI). Ratios are 'bank_only' as printed in the OJK-format ratio tables (ARs / published reports).",
+        "LOSS YEARS (real data, not errors): net losses FY2021 -33.8bn, FY2022 -155.2bn, FY2023 -385.1bn, FY2024 -366.4bn; profit FY2020 12.1bn (Bank Fama) and FY2025 99.7bn (first full-year profit of the digital bank); 9M2026 profit 299.9bn. Accumulated deficit Rp846bn at 31 Dec 2025, Rp546bn at 30 Sep 2026.",
+        "RATIOS OUTSIDE THE VALIDATOR'S PLAUSIBLE RANGES ARE REAL: LDR 252.96 (FY2022) and 316.89 (FY2023) because deposits were tiny (Rp0.37tn / Rp0.92tn) before the app launch; CAR 174.31 (FY2021), 253.62 (FY2022), 185.63 (FY2023), 95.84 (FY2024), 93.24 (FY2025) because of repeated capital injections and the IPO; CIR 209.33 and BOPO 208.58/239.67 (FY2022-FY2023) because costs exceeded income; ROA -10.86 (FY2023). All are printed in the company's own ratio tables and are consistent with the FS levels.",
+        "RATIO SOURCE CHOICES / CONFLICTS: FY2020 ratios from AR2020's own table (= FY2020 published statement). FY2021 ratios from the audited FY2021 OJK published statement (= AR2022 and AR2023 reprints); AR2021's own ratio table prints different ROE/ROA (-1.72/-1.24 vs -3.08/-2.47) and is not used. FY2020 NPL net 4.32 (own-year documents) vs 4.42 in the FY2021 statement/AR2021 (looks like the 2019 value carried over). FY2023 NPL coverage: prospectus summary 251.14 vs AR2025 238.8 - the prospectus value matches the audited FS2023 and is used. FY2025 ratios use the 2-decimal OJK published report of 31 Dec 2025; AR2025 prints the same values rounded to 1 decimal.",
+        "SHARES / PER-SHARE: EPS was not presented while Bank Fama was private (FY2020-FY2021: null). FY2022-FY2024 loss per share first appears in the IPO FS (reissued 12 Nov 2025) and FY2024 again in FS2025. All EPS use weighted-average shares; years with capital increases (2022, 2023, 2024, 2025) therefore fail EPS x year-end shares - acknowledged in validation_ack with the weighted counts. shares_out FY2023/FY2024 include the Series B employee incentive shares (Rp1 nominal, no voting rights, held by Bersama Sustainability Trust: 373,204,000 / 500,000,000) because the EPS denominators include them; Series A alone: 26,035,513,026 / 28,840,405,350. FY2020 shares_out is null because AR2020 (7,805m shares incl. a Rp365bn 30-Dec-2020 capital increase) conflicts with the audited balance sheet (that Rp365bn is 'advance for capital'). year_end_price exists only for FY2025 (935, 30 Dec 2025).",
+        "CORPORATE ACTIONS: none recorded. Since listing (17 Dec 2025) there has been no split, reverse split, bonus or rights issue: the share count is 33,897,017,650 at 31 Dec 2025 and 30 Sep 2026 (interim FS), and the IR 'Aksi Korporasi' page lists only the IPO documents. Pre-IPO capital changes, all while the company was private (no market, no ex-date, no effect on any stored per-share value): (a) in 2020 the nominal value went from Rp100 million to Rp100 per share (AR2020/AR2021 profile; 1:1,000,000) alongside capital increases; (b) many private placements 2020-2025 (2 Oct 2020 Rp350bn, 30 Dec 2020 Rp365bn, 23 Aug 2021 Rp196.9bn, Jan 2022 Rp1tn, 2022 Grab/others, 2023 KakaoBank, Jun 2024 Rp1.26tn, employee Series B shares 2023-2025); (c) 11 Nov 2025 the FS call a 'penggabungan saham (reverse stock split) atas seluruh saham seri B': the 650,000,000 Series B shares (Rp1) became 650,000,000 shares of Rp100 by capitalising Rp64.35bn of share premium - the share COUNT did not change (Prospektus Ringkas p. 1 capital table; FS2025 Note 21), so the factor is 1. If the owner wants (a) or (c) in corporate_actions.json, note they predate the first price row.",
+        "DIVIDENDS: no dividend since the 2021 takeover (AR2025 p. 77; AGMS 27 Apr 2026 decided no dividend for FY2025 because of the deficit; IR page 'Perseroan belum memiliki riwayat Informasi Dividen'). The only dividend in the window is the Rp196.9bn 'interim dividend' the private Bank Fama paid its founding families on 23 Aug 2021 (recorded under fy 2021, total only, no DPS/dates). Dividend policy from the prospectus: up to 85% of net profit once retained earnings are positive, first planned out of FY2029 profit.",
+        "INTERIM: 9M2026 from the unaudited interim FS (authorised 28 Oct 2026) for money items and shares, and the OJK published report of the same date for ratios. The prior-year balances (30 Sep 2025) come from the 30 Sep 2025 published report because no 9M2025 FS is posted; deposits_prior is the sum of the printed Giro/Tabungan/Deposito lines (no DPK total in that format). CoC, NPL coverage and CASA are not disclosed (null).",
+        "NULLS (main reasons): CoC, CASA every year (never disclosed as ratios); LaR FY2020-FY2025 (industry figures only); NPL coverage FY2020-FY2021; CIR FY2020-FY2021; EPS FY2020-FY2021 (not presented while private); year_end_price FY2020-FY2024 (not listed); shares_out FY2020 (conflicting sources); payout FY2020/FY2021 (see notes).",
+        "DATES: FS authorised for issue - FY2022 29 Mar 2023, FY2023 28 Mar 2024, FY2024 17 Mar 2025, IPO FS reissued 12 Nov 2025, FY2025 9 Mar 2026, 9M2026 28 Oct 2026. FY2021 published statement dated 25 Apr 2022."
+    ]
+}
