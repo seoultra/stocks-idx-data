@@ -1,0 +1,1433 @@
+{
+    "schema": 1,
+    "code": "BVIC",
+    "name": "PT Bank Victoria International Tbk",
+    "name_short": "Bank Victoria",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://victoriabank.co.id",
+    "ir_url": "https://victoriabank.co.id/page/tinjauan-ekonomi/informasi-saham",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF p. 115 (printed p. 113), MD&A Pangsa Pasar: 'Pangsa Pasar Bank Victoria terhadap KBMI 1' / 'In the Bank group based on KBMI 1 Core Capital, Bank Victoria's market share ...'; PDF p. 139, Modal Inti (Tier I) Rp4,000,450 million",
+        "note": "AR2025 benchmarks the bank against its own OJK core-capital group, KBMI 1, and lists awards in the KBMI 1 category (PDF pp. 31-37). Core capital Rp4.0tn is below the Rp6tn KBMI 2 threshold (POJK 12/POJK.03/2021)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 30456.458802,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS FY2019 PDF p. 5, Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Consolidated with subsidiary PT Bank Victoria Syariah (99.99%)."
+            },
+            "loans_gross": {
+                "v": 17440.119532,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS FY2019 PDF p. 5, 'Pinjaman yang diberikan, pembiayaan dan piutang syariah' total (related + third parties), gross before CKPN",
+                "basis": "consolidated",
+                "note": "Includes the sharia financing of Bank Victoria Syariah."
+            },
+            "deposits": {
+                "v": 23297.82741,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS FY2019 PDF p. 6, 'Simpanan nasabah' 21,791,637,063 + 'Dana syirkah temporer - Simpanan nasabah' 1,506,190,347 (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Third-party funds incl. temporary syirkah customer deposits of Bank Victoria Syariah (loans include its financing); excludes deposits from other banks. Customer deposits excl. syirkah: 21791.637063 IDR bn."
+            },
+            "equity_attr": {
+                "v": 2986.437599,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS FY2019 PDF p. 7, equity attributable to owners of the parent (total equity 2,986,454,603 less non-controlling interest 17,004, Rp thousand)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 2986.454603,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS FY2019 PDF p. 7, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 84,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 19, Ikhtisar Saham, 2019 Triwulan IV Harga Penutupan",
+                "basis": "n/a",
+                "share_basis": "2019-12-31",
+                "note": "Q4-2019 close as printed. Same 84 in the AR2020 two-year table (PDF p. 18). Stored for the price fetcher (anchor before the 2022 rights issues); no rights/bonus issue before 2020-12-31."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": -252.19368,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS FY2020 PDF p. 9, Laporan laba rugi, 'Rugi bersih ... yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Net loss. Consolidated with Bank Victoria Syariah."
+            },
+            "eps": {
+                "v": -28.17,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS FY2020 PDF p. 9, 'Laba/(rugi) per saham dasar (Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic = diluted; weighted average 8,951,947 thousand shares (Note 40, PDF p. 127). No split or bonus issue since listing."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-14_2022-04-28_LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-06-25",
+                "loc": "Audited FS FY2021 PDF p. 141, Note 28 Penggunaan Rugi Bersih Tahun 2020",
+                "basis": "n/a",
+                "note": "Net loss year: AGMS of 25 Jun 2021 - no profit, no dividend. AR2021 PDF p. 232: no dividend for FY2020 and FY2021."
+            },
+            "total_assets": {
+                "v": 26221.407472,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS FY2020 PDF p. 5, Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Consolidated with subsidiary PT Bank Victoria Syariah (99.99%)."
+            },
+            "loans_gross": {
+                "v": 14843.354298,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS FY2020 PDF p. 5, 'Pinjaman yang diberikan, pembiayaan dan piutang syariah' total (related + third parties), gross before CKPN",
+                "basis": "consolidated",
+                "note": "Includes the sharia financing of Bank Victoria Syariah."
+            },
+            "deposits": {
+                "v": 19656.11148,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS FY2020 PDF p. 6, 'Simpanan nasabah' 18,331,429,119 + 'Dana syirkah temporer - Simpanan nasabah' 1,324,682,361 (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Third-party funds incl. temporary syirkah customer deposits of Bank Victoria Syariah (loans include its financing); excludes deposits from other banks. Customer deposits excl. syirkah: 18331.429119 IDR bn."
+            },
+            "equity_attr": {
+                "v": 2644.357035,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS FY2020 PDF p. 7, equity attributable to owners of the parent (total equity 2,644,375,254 less non-controlling interest 18,219, Rp thousand)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 2644.375254,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS FY2020 PDF p. 7, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 8951947039,
+                "source_url": "https://victoriabank.co.id/uploads/2021-12-28_LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS FY2020 PDF p. 7, equity section 'Modal ditempatkan dan disetor penuh - 8.951.947.039 saham'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 114,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 18, Ikhtisar Saham, 2020 Triwulan IV Harga Penutupan",
+                "basis": "n/a",
+                "share_basis": "2021-06-03",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). Same 114 in AR2021 PDF p. 20."
+            },
+            "roe": {
+                "v": -12.74,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 211 (printed p. 209), Tabel Rasio Keuangan Penting* (MD&A), 2020 column",
+                "basis": "bank_only",
+                "note": "ROE per OJK (profit after tax / average Tier 1 capital), bank only. Same values in the AR2021 table (PDF p. 220, 2020 column) and the AR2022 five-year highlights (PDF pp. 18-19)."
+            },
+            "roa": {
+                "v": -1.26,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 211 (printed p. 209), Tabel Rasio Keuangan Penting* (MD&A), 2020 column",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only. Same values in the AR2021 table (PDF p. 220, 2020 column) and the AR2022 five-year highlights (PDF pp. 18-19)."
+            },
+            "nim": {
+                "v": 0.82,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 211 (printed p. 209), Tabel Rasio Keuangan Penting* (MD&A), 2020 column",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. Same values in the AR2021 table (PDF p. 220, 2020 column) and the AR2022 five-year highlights (PDF pp. 18-19)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2020 (ratio tables, MD&A), the audited FS or the Pubex decks (checked)."
+            },
+            "npl_gross": {
+                "v": 7.58,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 211 (printed p. 209), Tabel Rasio Keuangan Penting* (MD&A), 2020 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only. Same values in the AR2021 table (PDF p. 220, 2020 column) and the AR2022 five-year highlights (PDF pp. 18-19)."
+            },
+            "npl_net": {
+                "v": 4.91,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 211 (printed p. 209), Tabel Rasio Keuangan Penting* (MD&A), 2020 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no loan-at-risk ratio in AR2020; the OJK published report adds Kredit Kualitas Rendah (KKR) only from the 2026 reports (see interim; the 31 Dec 2025 report has no KKR line)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2020 prints only CKPN/earning assets and CKPN fulfilment, no NPL coverage ratio (checked). Not computed."
+            },
+            "ldr": {
+                "v": 75.64,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 211 (printed p. 209), Tabel Rasio Keuangan Penting* (MD&A), 2020 column",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 16.68,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 211 (printed p. 209), Tabel Rasio Keuangan Penting* (MD&A), 2020 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, operational and market risk, bank only. Same values in the AR2021 table (PDF p. 220, 2020 column) and the AR2022 five-year highlights (PDF pp. 18-19)."
+            },
+            "cir": {
+                "v": null,
+                "note": "Not disclosed for FY2020: the AR2020 and AR2021 ratio tables have no CIR line and the Dec 2020 published report has none (checked). First printed for 2021 in AR2022."
+            },
+            "bopo": {
+                "v": 112.09,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 211 (printed p. 209), Tabel Rasio Keuangan Penting* (MD&A), 2020 column",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 20.64,
+                "source_url": "https://victoriabank.co.id/uploads/2021-11-25_AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 211 (printed p. 209), Tabel Rasio Keuangan Penting* (MD&A), 2020 column",
+                "basis": "bank_only",
+                "note": "'Rasio Dana Murah (CASA)', bank only."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": -119.063715,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-14_2022-04-28_LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS FY2021 PDF p. 12, Laporan laba rugi, 'Rugi bersih ... yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Net loss. Consolidated with Bank Victoria Syariah."
+            },
+            "eps": {
+                "v": -12.9,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-14_2022-04-28_LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS FY2021 PDF p. 12, 'Laba/(rugi) per saham dasar (Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic = diluted; weighted average 9,228,483 thousand shares (Note 38, PDF p. 146). No split or bonus issue since listing."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://victoriabank.co.id/uploads/2023-03-31_LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-06-03",
+                "loc": "Audited FS FY2022 PDF p. 143, Note 29 Penggunaan Rugi Bersih Tahun 2021",
+                "basis": "n/a",
+                "note": "Net loss year: AGMS of 3 Jun 2022 - no profit, no dividend. AR2022 PDF p. 169 says the same."
+            },
+            "total_assets": {
+                "v": 24947.143045,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-14_2022-04-28_LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS FY2021 PDF p. 8, Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Consolidated with subsidiary PT Bank Victoria Syariah (99.99%)."
+            },
+            "loans_gross": {
+                "v": 15489.074411,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-14_2022-04-28_LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS FY2021 PDF p. 8, 'Pinjaman yang diberikan, pembiayaan dan piutang syariah' total (related + third parties), gross before CKPN",
+                "basis": "consolidated",
+                "note": "Includes the sharia financing of Bank Victoria Syariah."
+            },
+            "deposits": {
+                "v": 19306.864295,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-14_2022-04-28_LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS FY2021 PDF p. 9, 'Simpanan nasabah' 18,084,871,983 + 'Dana syirkah temporer - Simpanan nasabah' 1,221,992,312 (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Third-party funds incl. temporary syirkah customer deposits of Bank Victoria Syariah (loans include its financing); excludes deposits from other banks. Customer deposits excl. syirkah: 18084.871983 IDR bn."
+            },
+            "equity_attr": {
+                "v": 3014.407847,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-14_2022-04-28_LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS FY2021 PDF p. 10, equity attributable to owners of the parent (total equity 3,014,425,174 less non-controlling interest 17,327, Rp thousand)",
+                "basis": "consolidated",
+                "note": "No subtotal printed on the FY2021 face; the same 3,014,407,847 is printed as the 2021 comparative subtotal in FS2022 PDF p. 16."
+            },
+            "total_equity": {
+                "v": 3014.425174,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-14_2022-04-28_LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS FY2021 PDF p. 10, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10487132568,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-14_2022-04-28_LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS FY2021 PDF p. 10, equity section 'Modal ditempatkan dan disetor penuh - 10.487.132.568 ... saham'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "No treasury shares. Up from 8,951,947,039: two private placements without pre-emptive rights (PMTHMETD) in 2021: 586,205,939 shares at Rp160 (May 2021) and 948,979,590 at Rp196 (listed 13 Dec 2021)."
+            },
+            "year_end_price": {
+                "v": 204,
+                "source_url": "https://victoriabank.co.id/uploads/2022-05-24_AR%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 20, Ikhtisar Saham, 2021 Triwulan IV Harga Penutupan",
+                "basis": "n/a",
+                "share_basis": "2022-05-23",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). Same 204 in AR2022 PDF p. 21."
+            },
+            "roe": {
+                "v": -6.54,
+                "source_url": "https://victoriabank.co.id/uploads/2022-05-24_AR%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 220 (printed p. 218), Tabel Rasio Keuangan Penting* (MD&A), 2021 column",
+                "basis": "bank_only",
+                "note": "ROE per OJK (profit after tax / average Tier 1 capital), bank only. Same values in the AR2022 five-year highlights (PDF pp. 18-19)."
+            },
+            "roa": {
+                "v": -0.71,
+                "source_url": "https://victoriabank.co.id/uploads/2022-05-24_AR%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 220 (printed p. 218), Tabel Rasio Keuangan Penting* (MD&A), 2021 column",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only. Same values in the AR2022 five-year highlights (PDF pp. 18-19)."
+            },
+            "nim": {
+                "v": 2.36,
+                "source_url": "https://victoriabank.co.id/uploads/2022-05-24_AR%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 220 (printed p. 218), Tabel Rasio Keuangan Penting* (MD&A), 2021 column",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. Same values in the AR2022 five-year highlights (PDF pp. 18-19)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2021 (ratio tables, MD&A), the audited FS or the Pubex decks (checked)."
+            },
+            "npl_gross": {
+                "v": 7.27,
+                "source_url": "https://victoriabank.co.id/uploads/2022-05-24_AR%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 220 (printed p. 218), Tabel Rasio Keuangan Penting* (MD&A), 2021 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only. Same values in the AR2022 five-year highlights (PDF pp. 18-19)."
+            },
+            "npl_net": {
+                "v": 4.08,
+                "source_url": "https://victoriabank.co.id/uploads/2022-05-24_AR%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 220 (printed p. 218), Tabel Rasio Keuangan Penting* (MD&A), 2021 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no loan-at-risk ratio in AR2021; the OJK published report adds Kredit Kualitas Rendah (KKR) only from the 2026 reports (see interim; the 31 Dec 2025 report has no KKR line)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2021 prints only CKPN/earning assets and CKPN fulfilment, no NPL coverage ratio (checked). Not computed."
+            },
+            "ldr": {
+                "v": 81.25,
+                "source_url": "https://victoriabank.co.id/uploads/2022-05-24_AR%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 220 (printed p. 218), Tabel Rasio Keuangan Penting* (MD&A), 2021 column",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 17.49,
+                "source_url": "https://victoriabank.co.id/uploads/2022-05-24_AR%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 220 (printed p. 218), Tabel Rasio Keuangan Penting* (MD&A), 2021 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, operational and market risk, bank only. Same values in the AR2022 five-year highlights (PDF pp. 18-19)."
+            },
+            "cir": {
+                "v": 37.99,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2021 column",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed by the bank (bank only); BOPO stored separately."
+            },
+            "bopo": {
+                "v": 104.94,
+                "source_url": "https://victoriabank.co.id/uploads/2022-05-24_AR%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 220 (printed p. 218), Tabel Rasio Keuangan Penting* (MD&A), 2021 column",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 24.64,
+                "source_url": "https://victoriabank.co.id/uploads/2022-05-24_AR%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 220 (printed p. 218), Tabel Rasio Keuangan Penting* (MD&A), 2021 column",
+                "basis": "bank_only",
+                "note": "'Rasio Dana Murah (CASA)', bank only."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 226.173453,
+                "source_url": "https://victoriabank.co.id/uploads/2023-03-31_LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS FY2022 PDF p. 19, Laporan laba rugi, 'Laba ... yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Bank Victoria Syariah consolidated until its divestment on 22 Dec 2022 (statement footnote *)."
+            },
+            "eps": {
+                "v": 19.17,
+                "source_url": "https://victoriabank.co.id/uploads/2023-03-31_LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS FY2022 PDF p. 19, 'Laba/(rugi) per saham dasar (Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic = diluted; weighted average 11,795,945 thousand shares (Note 39, PDF p. 149). No split or bonus issue since listing."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://victoriabank.co.id/uploads/2024-04-22_Bank%20Victoria%20tbk_31%20desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-05-26",
+                "loc": "Audited FS FY2023 PDF p. 136, Note 27 Penggunaan Laba Bersih Tahun 2023",
+                "basis": "n/a",
+                "note": "AGMS of 26 May 2023 allocated the FY2022 profit to the general reserve (Rp25bn) and retained earnings; no dividend."
+            },
+            "total_assets": {
+                "v": 25932.001125,
+                "source_url": "https://victoriabank.co.id/uploads/2023-03-31_LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS FY2022 PDF p. 14, Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Bank Victoria Syariah was deconsolidated on 23 Dec 2022 (80% sold to parent PT Victoria Investama Tbk on 22 Dec 2022, FS2022 Note 50 PDF p. 191): the 31 Dec 2022 balance sheet is the bank alone (19.81% stake equity-accounted)."
+            },
+            "loans_gross": {
+                "v": 15824.611091,
+                "source_url": "https://victoriabank.co.id/uploads/2023-03-31_LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS FY2022 PDF p. 14, 'Pinjaman yang diberikan, pembiayaan dan piutang syariah' total (related + third parties), gross before CKPN",
+                "basis": "consolidated",
+                "note": "Bank only after the deconsolidation of Bank Victoria Syariah (Dec 2022)."
+            },
+            "deposits": {
+                "v": 19371.837637,
+                "source_url": "https://victoriabank.co.id/uploads/2023-03-31_LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS FY2022 PDF p. 15, 'Simpanan nasabah' total (related + third parties)",
+                "basis": "consolidated",
+                "note": "No temporary syirkah funds after the Dec 2022 deconsolidation."
+            },
+            "equity_attr": {
+                "v": 3700.463481,
+                "source_url": "https://victoriabank.co.id/uploads/2023-03-31_LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS FY2022 PDF p. 16, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 3700.463481,
+                "source_url": "https://victoriabank.co.id/uploads/2023-03-31_LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS FY2022 PDF p. 16, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 15848234714,
+                "source_url": "https://victoriabank.co.id/uploads/2023-03-31_LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS FY2022 PDF p. 16, equity section 'Modal ditempatkan dan disetor penuh - 15.848.234.714 ... saham'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "No treasury shares. Two rights issues in 2022: PMHMETD VI +2,553,461,919 (listed 31 Aug 2022) and PMHMETD VII +2,807,640,227 (allotted 28 Dec 2022)."
+            },
+            "year_end_price": {
+                "v": 107,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 21, Ikhtisar Saham, 2022 Triwulan IV Harga Penutupan",
+                "basis": "n/a",
+                "share_basis": "2023-05-16",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). Same 107 in AR2023 PDF p. 22."
+            },
+            "roe": {
+                "v": 9.48,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2022 column",
+                "basis": "bank_only",
+                "note": "ROE per OJK (profit after tax / average Tier 1 capital), bank only. Same values in AR2022 highlights PDF pp. 18-19 and AR2023 PDF p. 130 (2022 column)."
+            },
+            "roa": {
+                "v": 1.47,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2022 column",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only. Same values in AR2022 highlights PDF pp. 18-19 and AR2023 PDF p. 130 (2022 column)."
+            },
+            "nim": {
+                "v": 3.52,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2022 column",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. Same values in AR2022 highlights PDF pp. 18-19 and AR2023 PDF p. 130 (2022 column)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2022 (ratio tables, MD&A), the audited FS or the Pubex decks (checked)."
+            },
+            "npl_gross": {
+                "v": 4.23,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2022 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only. Same values in AR2022 highlights PDF pp. 18-19 and AR2023 PDF p. 130 (2022 column)."
+            },
+            "npl_net": {
+                "v": 3.42,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2022 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no loan-at-risk ratio in AR2022; the OJK published report adds Kredit Kualitas Rendah (KKR) only from the 2026 reports (see interim; the 31 Dec 2025 report has no KKR line)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2022 prints only CKPN/earning assets and CKPN fulfilment, no NPL coverage ratio (checked). Not computed."
+            },
+            "ldr": {
+                "v": 81.69,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2022 column",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 21.97,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2022 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, operational and market risk, bank only. Same values in AR2022 highlights PDF pp. 18-19 and AR2023 PDF p. 130 (2022 column)."
+            },
+            "cir": {
+                "v": 35.98,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2022 column",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed by the bank (bank only); BOPO stored separately."
+            },
+            "bopo": {
+                "v": 79.44,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2022 column",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 28.56,
+                "source_url": "https://victoriabank.co.id/uploads/2023-05-17_AR%202022%20BVIC%20NEW.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 159 (printed p. 157), Tabel Rasio Keuangan Penting* (MD&A), 2022 column",
+                "basis": "bank_only",
+                "note": "'Rasio Dana Murah (CASA)', bank only."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 101.816341,
+                "source_url": "https://victoriabank.co.id/uploads/2024-04-22_Bank%20Victoria%20tbk_31%20desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS FY2023 PDF p. 16, Laporan laba rugi, 'Laba ... yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 6.42,
+                "source_url": "https://victoriabank.co.id/uploads/2024-04-22_Bank%20Victoria%20tbk_31%20desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS FY2023 PDF p. 16, 'Laba/(rugi) per saham dasar (Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic = diluted; weighted average 15,848,235 thousand shares (Note 37, PDF p. 141). No split or bonus issue since listing."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-10_bank%20victoria%20international_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-06-14",
+                "loc": "Audited FS FY2024 PDF p. 129, Note 27 Penggunaan Laba Bersih",
+                "basis": "n/a",
+                "note": "AGMS of 14 Jun 2024 allocated the FY2023 profit to the general reserve and retained earnings; no dividend (AR2024 PDF p. 141)."
+            },
+            "total_assets": {
+                "v": 29624.240421,
+                "source_url": "https://victoriabank.co.id/uploads/2024-04-22_Bank%20Victoria%20tbk_31%20desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS FY2023 PDF p. 13, Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "No subsidiaries (Bank Victoria Syariah = 19.81% associate): stand-alone statements = whole reporting entity."
+            },
+            "loans_gross": {
+                "v": 18628.743177,
+                "source_url": "https://victoriabank.co.id/uploads/2024-04-22_Bank%20Victoria%20tbk_31%20desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS FY2023 PDF p. 12, 'Pinjaman yang diberikan, pembiayaan dan piutang syariah' total (related + third parties), gross before CKPN",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 22429.180492,
+                "source_url": "https://victoriabank.co.id/uploads/2024-04-22_Bank%20Victoria%20tbk_31%20desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS FY2023 PDF p. 13, 'Simpanan nasabah' total (related + third parties)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3824.78501,
+                "source_url": "https://victoriabank.co.id/uploads/2024-04-22_Bank%20Victoria%20tbk_31%20desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS FY2023 PDF p. 14, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 3824.78501,
+                "source_url": "https://victoriabank.co.id/uploads/2024-04-22_Bank%20Victoria%20tbk_31%20desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS FY2023 PDF p. 14, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 15848235778,
+                "source_url": "https://victoriabank.co.id/uploads/2024-04-22_Bank%20Victoria%20tbk_31%20desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS FY2023 PDF p. 14, equity section 'Modal ditempatkan dan disetor penuh - 15.848.235.778 ... saham'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "No treasury shares. Series VII warrant exercises +1,064 shares."
+            },
+            "year_end_price": {
+                "v": 99,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 22, Ikhtisar Saham, 2023 Quarter IV Closing",
+                "basis": "n/a",
+                "share_basis": "2024-05-01",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). Same 99 in AR2024 PDF p. 22."
+            },
+            "roe": {
+                "v": 3.12,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 130, Tabel Rasio Keuangan Penting* (MD&A), 2023 column",
+                "basis": "bank_only",
+                "note": "ROE per OJK (profit after tax / average Tier 1 capital), bank only. Same values in AR2023 highlights PDF p. 19, AR2024 PDF p. 132 (2023 column) and the Dec 2024 published report (2023 column)."
+            },
+            "roa": {
+                "v": 0.48,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 130, Tabel Rasio Keuangan Penting* (MD&A), 2023 column",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only. Same values in AR2023 highlights PDF p. 19, AR2024 PDF p. 132 (2023 column) and the Dec 2024 published report (2023 column)."
+            },
+            "nim": {
+                "v": 2.58,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 130, Tabel Rasio Keuangan Penting* (MD&A), 2023 column",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. Same values in AR2023 highlights PDF p. 19, AR2024 PDF p. 132 (2023 column) and the Dec 2024 published report (2023 column)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2023 (ratio tables, MD&A), the audited FS or the Pubex decks (checked)."
+            },
+            "npl_gross": {
+                "v": 3.99,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 130, Tabel Rasio Keuangan Penting* (MD&A), 2023 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only. Same values in AR2023 highlights PDF p. 19, AR2024 PDF p. 132 (2023 column) and the Dec 2024 published report (2023 column)."
+            },
+            "npl_net": {
+                "v": 3.24,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 130, Tabel Rasio Keuangan Penting* (MD&A), 2023 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no loan-at-risk ratio in AR2023; the OJK published report adds Kredit Kualitas Rendah (KKR) only from the 2026 reports (see interim; the 31 Dec 2025 report has no KKR line)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2023 prints only CKPN/earning assets and CKPN fulfilment, no NPL coverage ratio (checked). Not computed."
+            },
+            "ldr": {
+                "v": 83.06,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 130, Tabel Rasio Keuangan Penting* (MD&A), 2023 column",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 19.95,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 130, Tabel Rasio Keuangan Penting* (MD&A), 2023 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, operational and market risk, bank only. Same values in AR2023 highlights PDF p. 19, AR2024 PDF p. 132 (2023 column) and the Dec 2024 published report (2023 column)."
+            },
+            "cir": {
+                "v": 46.15,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 130, Tabel Rasio Keuangan Penting* (MD&A), 2023 column",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed by the bank (bank only); BOPO stored separately."
+            },
+            "bopo": {
+                "v": 91.67,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 130, Tabel Rasio Keuangan Penting* (MD&A), 2023 column",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 23.93,
+                "source_url": "https://victoriabank.co.id/uploads/2024-05-02_ARSR%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 130, Tabel Rasio Keuangan Penting* (MD&A), 2023 column",
+                "basis": "bank_only",
+                "note": "'Rasio Dana Murah (CASA)', bank only."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 117.859238,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-10_bank%20victoria%20international_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS FY2024 PDF p. 15, Laporan laba rugi, 'LABA BERSIH TAHUN BERJALAN' (no non-controlling interest)",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 7.44,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-10_bank%20victoria%20international_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS FY2024 PDF p. 16, 'Laba/(rugi) per saham dasar (Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic = diluted; weighted average 15,848,529 thousand shares (FS2025 Note 40, PDF p. 135). No split or bonus issue since listing."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://victoriabank.co.id/uploads/2025-06-23_WEB-Hasil%20Rapat%20Umum%20Pemegang%20Saham%20Tahunan%202024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-20",
+                "loc": "Pengumuman Hasil RUPS Tahunan (held 20 Jun 2025, FY2024), PDF p. 3, Mata Acara Kedua",
+                "basis": "n/a",
+                "note": "Rp25bn to the general reserve, Rp92.86bn retained: 'Dengan demikian Perseroan tidak memberikan dividen untuk tahun buku 2024.' Also FS2025 Note 30 PDF p. 129."
+            },
+            "total_assets": {
+                "v": 31045.989252,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-10_bank%20victoria%20international_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS FY2024 PDF p. 13, Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "No subsidiaries (Bank Victoria Syariah = 19.81% associate): stand-alone statements = whole reporting entity."
+            },
+            "loans_gross": {
+                "v": 20559.860321,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-10_bank%20victoria%20international_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS FY2024 PDF p. 12, 'Pinjaman yang diberikan' total (related + third parties), gross before CKPN",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 23332.1115,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-10_bank%20victoria%20international_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS FY2024 PDF p. 13, 'Simpanan nasabah' total (related + third parties)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3933.459658,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-10_bank%20victoria%20international_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS FY2024 PDF p. 14, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 3933.459658,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-10_bank%20victoria%20international_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS FY2024 PDF p. 14, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 15848532906,
+                "source_url": "https://victoriabank.co.id/uploads/2025-03-10_bank%20victoria%20international_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS FY2024 PDF p. 14, equity section 'Modal ditempatkan dan disetor penuh - 15.848.532.906 ... saham'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "No treasury shares. Series VII warrant exercises +297,128 shares."
+            },
+            "year_end_price": {
+                "v": 89,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 22, Ikhtisar Saham, 2024 Kuartal IV Harga Penutupan",
+                "basis": "n/a",
+                "share_basis": "2025-04-28",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). Same 89 in AR2025 PDF p. 26."
+            },
+            "roe": {
+                "v": 3.41,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 132, Rasio Keuangan Penting (MD&A), 2024 column",
+                "basis": "bank_only",
+                "note": "ROE per OJK (profit after tax / average Tier 1 capital), bank only. Same values in the 31 Dec 2024 published report ratio table (bank, audited) and AR2025 highlights PDF p. 22."
+            },
+            "roa": {
+                "v": 0.51,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 132, Rasio Keuangan Penting (MD&A), 2024 column",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only. Same values in the 31 Dec 2024 published report ratio table (bank, audited) and AR2025 highlights PDF p. 22."
+            },
+            "nim": {
+                "v": 2.21,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 19 (printed p. 17), Ikhtisar Keuangan, Rasio Keuangan table, NIM 2024 column",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. AR2024 highlights (PDF p. 19), AR2025 highlights (PDF p. 22) and the 31 Dec 2024 published report print 2.21; the MD&A tables of AR2024 (PDF p. 132) and AR2025 (PDF p. 135) and the Pubex 2025 deck print 2.22. 2.21 stored (regulatory publication)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2024 (ratio tables, MD&A), the audited FS or the Pubex decks (checked)."
+            },
+            "npl_gross": {
+                "v": 3.27,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 132, Rasio Keuangan Penting (MD&A), 2024 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only. Same values in the 31 Dec 2024 published report ratio table (bank, audited) and AR2025 highlights PDF p. 22."
+            },
+            "npl_net": {
+                "v": 2.36,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 132, Rasio Keuangan Penting (MD&A), 2024 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no loan-at-risk ratio in AR2024; the OJK published report adds Kredit Kualitas Rendah (KKR) only from the 2026 reports (see interim; the 31 Dec 2025 report has no KKR line)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2024 prints only CKPN/earning assets and CKPN fulfilment, no NPL coverage ratio (checked). Not computed."
+            },
+            "ldr": {
+                "v": 88.12,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 132, Rasio Keuangan Penting (MD&A), 2024 column",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 21.53,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 132, Rasio Keuangan Penting (MD&A), 2024 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, operational and market risk, bank only. Same values in the 31 Dec 2024 published report ratio table (bank, audited) and AR2025 highlights PDF p. 22."
+            },
+            "cir": {
+                "v": 55.35,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 132, Rasio Keuangan Penting (MD&A), 2024 column",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed by the bank (bank only); BOPO stored separately."
+            },
+            "bopo": {
+                "v": 88,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 132, Rasio Keuangan Penting (MD&A), 2024 column",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 26.58,
+                "source_url": "https://victoriabank.co.id/uploads/2025-04-28_AR%20SR%202024%20BVIC%2028042025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 132, Rasio Keuangan Penting (MD&A), 2024 column",
+                "basis": "bank_only",
+                "note": "'Rasio Dana Murah (CASA)', bank only."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 131.744927,
+                "source_url": "https://victoriabank.co.id/uploads/2026-03-16_bank%20victoria%20international%20tbk_31%20des%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS FY2025 PDF p. 15, Laporan laba rugi, 'LABA BERSIH TAHUN BERJALAN' (no non-controlling interest)",
+                "basis": "consolidated",
+                "note": "Includes a one-off gain of Rp100,660,221 thousand on the sale of the 19.81% Bank Victoria Syariah stake to BTN (FS2025 PDF p. 93, Note 34)."
+            },
+            "eps": {
+                "v": 7.15,
+                "source_url": "https://victoriabank.co.id/uploads/2026-03-16_bank%20victoria%20international%20tbk_31%20des%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS FY2025 PDF p. 16, 'Laba/(rugi) per saham dasar (Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic = diluted; weighted average 18,419,419 thousand shares (Note 40, PDF p. 135). No split or bonus issue since listing."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://victoriabank.co.id/uploads/2026-07-22_WEB-Hasil%20Rapat%20Umum%20Pemegang%20Saham%20Tahunan%202025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-05",
+                "loc": "Pengumuman Hasil RUPS Tahunan (held 5 Jun 2026, FY2025), PDF p. 3, Mata Acara Kedua",
+                "basis": "n/a",
+                "note": "Rp25bn to the general reserve, Rp106.74bn retained: 'Dengan Demikian Perseroan Tidak Memberikan Dividen Untuk Tahun Buku 2025.'"
+            },
+            "total_assets": {
+                "v": 36201.697084,
+                "source_url": "https://victoriabank.co.id/uploads/2026-03-16_bank%20victoria%20international%20tbk_31%20des%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS FY2025 PDF p. 13, Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "No subsidiaries; the 19.81% Bank Victoria Syariah stake was sold to BTN on 5 Jun 2025 (FS2025 PDF p. 93)."
+            },
+            "loans_gross": {
+                "v": 22380.166216,
+                "source_url": "https://victoriabank.co.id/uploads/2026-03-16_bank%20victoria%20international%20tbk_31%20des%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS FY2025 PDF p. 12, 'Pinjaman yang diberikan' total (related + third parties), gross before CKPN",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 24294.698104,
+                "source_url": "https://victoriabank.co.id/uploads/2026-03-16_bank%20victoria%20international%20tbk_31%20des%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS FY2025 PDF p. 13, 'Simpanan nasabah' total (related + third parties)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 4368.92122,
+                "source_url": "https://victoriabank.co.id/uploads/2026-03-16_bank%20victoria%20international%20tbk_31%20des%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS FY2025 PDF p. 14, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 4368.92122,
+                "source_url": "https://victoriabank.co.id/uploads/2026-03-16_bank%20victoria%20international%20tbk_31%20des%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS FY2025 PDF p. 14, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18419418828,
+                "source_url": "https://victoriabank.co.id/uploads/2026-03-16_bank%20victoria%20international%20tbk_31%20des%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS FY2025 PDF p. 14, equity section 'Modal ditempatkan dan disetor penuh - 18.419.418.828 ... saham'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "No treasury shares. Series VII warrant exercises +2,570,885,922 shares (warrants expired 18 Dec 2025; AR2025 PDF p. 100, share-listing chronology)."
+            },
+            "year_end_price": {
+                "v": 115,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 25 (printed p. 23), Ikhtisar Saham, 2025 Kuartal IV Harga Penutupan",
+                "basis": "n/a",
+                "share_basis": "2026-04-28",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date)."
+            },
+            "roe": {
+                "v": 3.41,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 135 (printed p. 133), Tabel Rasio Keuangan Penting (MD&A), 2025 column",
+                "basis": "bank_only",
+                "note": "ROE per OJK (profit after tax / average Tier 1 capital), bank only. Same values in AR2025 highlights PDF p. 22 (printed p. 20) and the 31 Dec 2025 published report ratio table."
+            },
+            "roa": {
+                "v": 0.5,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 135 (printed p. 133), Tabel Rasio Keuangan Penting (MD&A), 2025 column",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only. Same values in AR2025 highlights PDF p. 22 (printed p. 20) and the 31 Dec 2025 published report ratio table."
+            },
+            "nim": {
+                "v": 2.05,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 135 (printed p. 133), Tabel Rasio Keuangan Penting (MD&A), 2025 column",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. Same values in AR2025 highlights PDF p. 22 (printed p. 20) and the 31 Dec 2025 published report ratio table."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2025 (ratio tables, MD&A), the audited FS or the Pubex decks (checked)."
+            },
+            "npl_gross": {
+                "v": 2.49,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 135 (printed p. 133), Tabel Rasio Keuangan Penting (MD&A), 2025 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only. Same values in AR2025 highlights PDF p. 22 (printed p. 20) and the 31 Dec 2025 published report ratio table."
+            },
+            "npl_net": {
+                "v": 1.73,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 135 (printed p. 133), Tabel Rasio Keuangan Penting (MD&A), 2025 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no loan-at-risk ratio in AR2025; the OJK published report adds Kredit Kualitas Rendah (KKR) only from the 2026 reports (see interim; the 31 Dec 2025 report has no KKR line)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2025 prints only CKPN/earning assets and CKPN fulfilment, no NPL coverage ratio (checked). Not computed."
+            },
+            "ldr": {
+                "v": 92.12,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 135 (printed p. 133), Tabel Rasio Keuangan Penting (MD&A), 2025 column",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 23.84,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 135 (printed p. 133), Tabel Rasio Keuangan Penting (MD&A), 2025 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, operational and market risk, bank only. Same values in AR2025 highlights PDF p. 22 (printed p. 20) and the 31 Dec 2025 published report ratio table."
+            },
+            "cir": {
+                "v": 48.41,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 135 (printed p. 133), Tabel Rasio Keuangan Penting (MD&A), 2025 column",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed by the bank (bank only); BOPO stored separately."
+            },
+            "bopo": {
+                "v": 92.17,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 135 (printed p. 133), Tabel Rasio Keuangan Penting (MD&A), 2025 column",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 29.33,
+                "source_url": "https://victoriabank.co.id/uploads/2026-04-28_AR%20SR%202025%20BVIC.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 135 (printed p. 133), Tabel Rasio Keuangan Penting (MD&A), 2025 column",
+                "basis": "bank_only",
+                "note": "'Rasio Dana Murah (CASA)', bank only."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 100.967,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Laba Rugi, 30 September 2026 column, 'LABA (RUGI) TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Rp100,967 million. The bank has no subsidiaries (individual report = whole entity). Same 100,967 in the monthly report of 30 Sep 2026."
+            },
+            "profit_ytd_prior": {
+                "v": 127.789,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Laba Rugi, 30 September 2025 column, 'LABA (RUGI) TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Rp127,789 million (monthly report 30 Sep 2025: 127,790). 9M2025 included part of the Rp100.66bn gain on the Bank Victoria Syariah sale (5 Jun 2025)."
+            },
+            "equity_attr": {
+                "v": 4437.001,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-16_template%20apolo%20laporan%20publikasi%20September%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK monthly published report 30 Sep 2026 (Laporan Posisi Keuangan Bulanan, individual, dated 16 Oct 2026), PDF p. 2, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "Rp4,437,001 million = paid-in 1,841,942 + agio 667,678 + OCI 299,298 + reserves 252,200 + retained 1,375,883; consistent with CET1 Rp4,072,714m in the quarterly KPMM table. The quarterly 30 Sep 2026 report prints 'TOTAL EKUITAS' 5,636,989 because it moves Rp1,199,988m into line 19 'Ekuitas Lainnya' and out of 'Surat berharga yang diterbitkan' (2,776,992 vs 3,976,981 in the monthly report) - apparently the subordinated bonds; its own Dec 2025 column shows 'Ekuitas Lainnya' 1,446,744 but excludes it from the total 4,368,921. Not used. No subsidiaries: attributable = total."
+            },
+            "shares_out": {
+                "v": 18419418828,
+                "source_url": "https://victoriabank.co.id/uploads/2026-07-29_Bank%20Victoria%20International%20Billingual_30%20Juni_2026_final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "Interim FS 30 Jun 2026 PDF p. 115, share-capital note ('Saldo 30 Juni 2026 18.419.418.828')",
+                "basis": "n/a",
+                "share_basis": "2026-06-30",
+                "note": "Latest share count in a filing. Unchanged at 30 Sep 2026: paid-in capital Rp1,841,942 million in the 9M2026 published report (= 18,419,418,828 x Rp100) and the IR share-listing table (https://victoriabank.co.id/page/tinjauan-ekonomi/informasi-saham) ends at 18,419,418,828 (last listing 31 Dec 2025). No treasury shares."
+            },
+            "total_assets": {
+                "v": 34950.173,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Posisi Keuangan, 30 September 2026 column, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Monthly report 30 Sep 2026: 34,950,175."
+            },
+            "loans_gross": {
+                "v": 21382.371,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Posisi Keuangan, line 9 'Kredit yang diberikan' (gross; CKPN shown separately)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 21387.275,
+                "source_url": "https://victoriabank.co.id/uploads/2025-10-29_September%202025%20W%20TTD.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2025 (single page), Laporan Posisi Keuangan, line 9 'Kredit yang diberikan', 30 September 2025 column",
+                "basis": "consolidated",
+                "note": "Same 21,387,275 in the monthly report of 30 Sep 2025."
+            },
+            "deposits": {
+                "v": 23576.77,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Posisi Keuangan, liabilities lines 1-3: Giro 3,548,161 + Tabungan 3,885,088 + Deposito 16,143,521 (Rp million)",
+                "basis": "consolidated"
+            },
+            "deposits_prior": {
+                "v": 24207.207,
+                "source_url": "https://victoriabank.co.id/uploads/2025-10-29_September%202025%20W%20TTD.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2025, Laporan Posisi Keuangan, Giro 3,409,428 + Tabungan 3,755,645 + Simpanan berjangka 17,042,134 (Rp million)",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 3.35,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Rasio Keuangan, 30 September 2026 column",
+                "basis": "bank_only",
+                "note": "ROE per OJK (annualised, Tier 1 based), bank only; 30 Sep 2025: 4.47."
+            },
+            "roa": {
+                "v": 0.52,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Rasio Keuangan, 30 September 2026 column",
+                "basis": "bank_only",
+                "note": "Bank only; 30 Sep 2025: 0.70."
+            },
+            "nim": {
+                "v": 2.47,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Rasio Keuangan, 30 September 2026 column",
+                "basis": "bank_only",
+                "note": "Bank only; 30 Sep 2025: 1.86."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 published report, the H1 2026 interim FS or any 2026 deck (checked)."
+            },
+            "npl_gross": {
+                "v": 3.36,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Rasio Keuangan, 30 September 2026 column",
+                "basis": "bank_only",
+                "note": "Bank only; 30 Sep 2025: 2.50. NPL net 2.11 (1.84)."
+            },
+            "lar": {
+                "v": 11.06,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Rasio Keuangan, 30 September 2026 column, line 7 'Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "OJK 'Kredit Kualitas Rendah' (low-quality loans: special mention + restructured current + NPL), the regulator's LaR-type measure; first printed in 2026 reports (30 Sep 2025 comparative 9.04)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 published report (only CKPN/earning assets 1.93%) or the H1 2026 interim FS (checked). Not computed."
+            },
+            "ldr": {
+                "v": 90.69,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Rasio Keuangan, 30 September 2026 column",
+                "basis": "bank_only",
+                "note": "Bank only; 30 Sep 2025: 88.35."
+            },
+            "car": {
+                "v": 22.07,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Rasio Keuangan, 30 September 2026 column",
+                "basis": "bank_only",
+                "note": "KPMM, bank only; 30 Sep 2025: 22.09. CET1 Rp4,072,714m (KPMM table, same report)."
+            },
+            "cir": {
+                "v": 50.66,
+                "source_url": "https://victoriabank.co.id/uploads/2026-10-30_Publikasi%20September%202026%20-%20Updated.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK quarterly published report 30 Sep 2026 (Laporan Publikasi, unaudited, dated 28 Oct 2026; single page), Laporan Rasio Keuangan, 30 September 2026 column, line 12 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Bank only; BOPO 92.90; 30 Sep 2025 CIR 42.71."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the 9M2026 published report (no CASA line) and no 2026 deck (checked). Not computed."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "Two private placements in 2021 (586,205,939 shares in May and 948,979,590 on 10-13 Dec 2021) lifted FY-end shares to 10,487,132,568, but FY2021 basic loss per share Rp-12.90 is on a weighted average of 9,228,483 thousand shares (FS2021 Note 38, PDF p. 146, https://victoriabank.co.id/uploads/2025-03-14_2022-04-28_LKT%202021.pdf): -12.90 x 9,228.5m = Rp-119.0bn = reported loss. Real weighted-average effect."
+        },
+        {
+            "check": "eps_shares:2022",
+            "reason": "Two rights issues in 2022 (PMHMETD VI +2,553,461,919 shares listed 31 Aug 2022, PMHMETD VII +2,807,640,227 allotted 28 Dec 2022): FY2022 basic EPS Rp19.17 is on a weighted average of 11,795,945 thousand shares (FS2022 Note 39, PDF p. 149, https://victoriabank.co.id/uploads/2023-03-31_LKT%202022.pdf): 19.17 x 11,795.9m = Rp226.1bn = reported profit; FY-end shares 15,848,234,714."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: every document was downloaded directly from victoriabank.co.id/uploads/ on 2026-11-03 with curl and a browser User-Agent (no bot protection, no archive copy needed; idx.co.id not used). The two KSEI rights-schedule notices came straight from web.ksei.co.id (cross-check only). The 2023-2026 OJK published reports are single-page Illustrator PDFs with no text layer for the tables: they were rendered at 250 dpi (pdftoppm) and read visually; the monthly OJK reports and all audited FS/ARs have text layers.",
+        "ENTITY / BASIS: FY2019-FY2021 statements are consolidated with PT Bank Victoria Syariah (BVS, 99.99%). On 22 Dec 2022 the bank sold 80% of BVS to its parent PT Victoria Investama Tbk (common-control transaction at nominal Rp288bn, loss Rp968m to APIC; FS2022 Note 50 PDF p. 191): BVS is consolidated in the FY2022 income statement until 22 Dec 2022, but the 31 Dec 2022 balance sheet is the bank alone with BVS as a 19.81% equity-accounted associate. FY2023-FY2025 statements are stand-alone (no subsidiaries); they are the whole reporting entity and are stored as basis 'consolidated' (validator convention, as for BBYB/MEGA). On 5 Jun 2025 the remaining 19.81% was sold to PT Bank Tabungan Negara (Persero) Tbk for Rp322.5bn (gain Rp100.66bn in FY2025 other operating income; FS2025 PDF p. 93) - BTN uses BVS for its sharia spin-off. Group perimeter therefore changes at end-2022: loans and deposits FY2021->FY2022 are not like-for-like (FY2021 includes BVS financing/DPK).",
+        "UNITS: all audited FS are in Rp thousand (divided by 1e6, full precision kept); OJK published reports in Rp million (divided by 1e3).",
+        "DEPOSITS DEFINITION: FY2019-FY2021 deposits = customer deposits + temporary syirkah customer deposits of BVS (loans include BVS sharia financing). Customer deposits excluding syirkah: 2019 21,791.637; 2020 18,331.429; 2021 18,084.872 IDR bn. From FY2022 there is no syirkah fund. Deposits from other banks are excluded throughout.",
+        "RATIOS: all FY ratios are bank-only (the AR tables are footnoted 'Merupakan angka PT Bank Victoria International Tbk (Entitas Induk saja)') and identical to the OJK published-report ratios; ROE is Tier-1 based (OJK), ROA pre-tax (OJK). CIR is printed from FY2021 (AR2022 MD&A) - FY2020 null. Not disclosed anywhere (ARs, FS, Pubex 2023/2024/2025 decks): cost of credit, NPL coverage, loan at risk (FY) - null. NIM 2024: 2.21 (highlights, published report) vs 2.22 (MD&A, Pubex) - 2.21 stored.",
+        "LOSS YEARS ARE REAL: FY2019 -13.8bn, FY2020 -252.2bn, FY2021 -119.1bn (heavy provisions, NIM 0.82% in 2020). Ratios such as ROE -12.74 / BOPO 112.09 (2020) and ROE -6.54 / BOPO 104.94 (2021) are as printed. FY2025 profit 131.7bn includes the one-off Rp100.66bn gain on the BVS sale (core profit much lower).",
+        "DIVIDENDS: no cash dividend was paid from FY2019-FY2025 profit (loss years 2019-2021; AGMS 2023, 2024, 2025, 2026 allocated FY2022-FY2025 profit to the general reserve and retained earnings). payout_ratio is stored as 0 with the AGMS/FS-note source for each year. The IR share-information page (https://victoriabank.co.id/page/tinjauan-ekonomi/informasi-saham, 'Riwayat Dividen') shows the last cash dividends for FY2009 and FY2013. dividends[] is empty.",
+        "CORPORATE ACTIONS 2019-2026: no split, reverse split or bonus issue (AR2025 share-listing chronology PDF pp. 99-100, printed pp. 97-98; IR share-listing table). Two rights issues, both in 2022 (PMHMETD VI ex 9 Aug 2022 100:67 @ Rp150; PMHMETD VII ex 14 Dec 2022 100:38 @ Rp150 with free Series VII warrants) - recorded in corporate_actions. Not recorded (no schema type): private placements without pre-emptive rights (PMTHMETD) of 280,898,877 shares @ Rp356 (listed 29 May 2019), 586,205,939 @ Rp160 (May 2021) and 948,979,590 @ Rp196 (listed 13 Dec 2021); Series VII warrant exercises 2023-2025 (2,571,184,114 shares; most in Q2 2025). fy.2019.year_end_price (84) is stored as an extra anchor although no rights/bonus ex-date falls before 2020-12-31.",
+        "FY2025 EPS: the bank divides FY2025 profit by 18,419,419 thousand shares (= year-end count) although 2.57bn warrant shares were issued during 2025 (most in Q2) - printed EPS 7.15 kept as is; EPS x FY-end shares therefore matches profit.",
+        "INTERIM 9M2026: from the OJK quarterly published report of 30 Sep 2026 ('Publikasi September 2026 - Updated'), except equity, which comes from the OJK monthly report of the same date because the quarterly report adds Rp1,199,988m of apparently subordinated bonds to equity ('Ekuitas Lainnya'; total equity 5,636,989 vs 4,437,001 in the monthly report and CET1 4,072,714). No 9M2026 interim FS was posted on the bank's site (the IR site posts only half-year interim FS). A REVIEWER should re-check equity when the 9M2026 interim FS appears on IDX.",
+        "KBMI: KBMI 1 (core capital Rp4.0tn at end-2025; AR2025 benchmarks against KBMI 1). Controlling shareholder PT Victoria Investama Tbk (60.17% at 30 Sep 2026) and ultimate controller Suzanna Tanojo (6.32% direct)."
+    ]
+}
