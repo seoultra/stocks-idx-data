@@ -264,4 +264,5 @@ A commit only reaches the website after it passes the validator:
 - A gap with a real cause is never "fixed" by editing a number. It is recorded in the
   issuer's `validation_ack` with the reason, e.g. BBRI FY2021, where the rights issue
   makes the reported EPS use weighted-average shares. It then shows as `explained` in
-  `validation_report.json`.
+  `validation_report.json`. A year-end price conflict between the annual report and the
+  price source uses the check name `price_year_end:<YEAR>` (e.g. BDMN FY2020).

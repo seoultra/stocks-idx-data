@@ -24,6 +24,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | BNGA | PT Bank CIMB Niaga Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/BNGA.json](issuers/BNGA.json) | [prices/BNGA.json](prices/BNGA.json) 2019-01-02 → 2026-10-30 |
 | NISP | PT Bank OCBC NISP Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/NISP.json](issuers/NISP.json) | [prices/NISP.json](prices/NISP.json) 2019-01-02 → 2026-10-30 |
 | BDMN | PT Bank Danamon Indonesia Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/BDMN.json](issuers/BDMN.json) | [prices/BDMN.json](prices/BDMN.json) 2019-01-02 → 2026-10-30 |
+| BNII | PT Bank Maybank Indonesia Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/BNII.json](issuers/BNII.json) | [prices/BNII.json](prices/BNII.json) 2019-01-02 → 2026-10-30 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->

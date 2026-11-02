@@ -1,0 +1,1548 @@
+{
+    "schema": 1,
+    "code": "BNII",
+    "name": "PT Bank Maybank Indonesia Tbk",
+    "name_short": "Maybank Indonesia",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.maybank.co.id",
+    "ir_url": "https://www.maybank.co.id/id/corporateinformation/InvestorRelation",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 304 (printed p. 302), Risk Management / ICAAP: 'In accordance with POJK 12/POJK.03/2021 ... Maybank Indonesia falls into the KBMI 3 category where the core capital (Tier 1) currently owned is in the range of Rp14 trillion to Rp70 trillion'",
+        "note": "Tier 1 capital at 31 Dec 2025: Rp30,882bn consolidated / Rp25,326bn bank only (LKP Dec 2025 p. 4, KPMM). AR2025 p. 43 awards are also in KBMI 3 categories."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 169082.83,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2019_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9 (FS p. 2), Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 122578.758,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 31 (printed p. 29), Financial Highlights, Consolidated statement of financial position, 'Loans 1)' (2019 column)",
+                "basis": "consolidated",
+                "note": "AR 'Loans' total, footnote 1 'Include consumer financing receivables' (WOM Finance, Maybank Indonesia Finance); before allowance for impairment. FS2019: loans and sharia receivables/financing (gross) 111,611,893 + consumer financing receivables net of unearned income 10,966,865 = 122,578,758 (Rp juta)."
+            },
+            "deposits": {
+                "v": 110601.006,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2019_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 10 (FS p. 3), Consolidated statement of financial position, 'Simpanan nasabah' total (deposits from customers)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 26249.433,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2019_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 12 (FS p. 5), Consolidated statement of financial position, 'Jumlah ekuitas teratribusi kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 26684.916,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2019_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 12 (FS p. 5), Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 1266.348,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (FS p. 7), Consolidated statement of profit or loss, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 16.62,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (FS p. 7), 'LABA PER SAHAM DASAR (nilai penuh)' / basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31"
+            },
+            "payout_ratio": {
+                "v": 20,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-03-26",
+                "loc": "PDF p. 220 (printed p. 218), Dividend Policy and Distribution: AGMS 26 Mar 2021, '20% of the 2020 net profit'; PDF p. 590 (printed p. 588)",
+                "basis": "consolidated",
+                "note": "20% of FY2020 net profit attributable (Rp1,266,347,622,457) = Rp253,269,524,491."
+            },
+            "total_assets": {
+                "v": 173224.412,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (FS p. 2), Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "As originally reported in the FY2020 audited FS. The FY2022 FS (1 Jan 2021 column) restates it to 173,190.035 (DSAK-IAI 'attribution of benefits to periods of service', PSAK 24); AR2024 highlights print the restated figure."
+            },
+            "loans_gross": {
+                "v": 105271.33,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 31 (printed p. 29), Financial Highlights, Consolidated statement of financial position, 'Loans 1)' (2020 column)",
+                "basis": "consolidated",
+                "note": "AR 'Loans' total, footnote 1 'Include consumer financing receivables' (WOM Finance, Maybank Indonesia Finance); before allowance for impairment. FS2020: loans and sharia receivables/financing (gross) 97,038,850 + consumer financing receivables net of unearned income 8,232,480 = 105,271,330 (Rp juta)."
+            },
+            "deposits": {
+                "v": 115003.047,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10 (FS p. 3), Consolidated statement of financial position, 'Simpanan nasabah' total (deposits from customers)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 26837.593,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (FS p. 5), Consolidated statement of financial position, 'Jumlah ekuitas teratribusi kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated (PSAK 24 / DSAK-IAI, FY2022 FS 1 Jan 2021 column): 26,956.128."
+            },
+            "total_equity": {
+                "v": 27223.63,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (FS p. 5), Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated (PSAK 24 / DSAK-IAI, FY2022 FS 1 Jan 2021 column): 27,345.513."
+            },
+            "shares_out": {
+                "v": 76215195821,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 266 (Note 27 share capital: Series A 388,146,231 + Series B 8,891,200,000 + Series D 66,935,849,590 = 76,215,195,821); PDF p. 279 (Note 43 EPS, weighted-average shares outstanding 76,215,195,821)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "No treasury shares and no change in issued shares since Rights Issue (PUT) VIII in June 2018."
+            },
+            "year_end_price": {
+                "v": 318,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 36 (printed p. 34), Share Highlights, quarterly price table 2020 Quarter IV closing 318; Share Performance Highlights 'Closing Price' 318",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 5.13,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table (2020 column)",
+                "basis": "consolidated",
+                "note": "Return on equity as reported (OJK ratio table; the analyst decks label it 'Return On Equity (Tier 1)', i.e. profit on average Tier 1 capital). Consolidated: this AR table matches the 'KONSOLIDASIAN' column of the OJK published report and the 'Consolidated' column of the FY analyst deck (the AR footnote marks only LDR/GWM/PLM/NOP as bank only)."
+            },
+            "roa": {
+                "v": 1.04,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table (2020 column)",
+                "basis": "consolidated",
+                "note": "ROA as reported in the OJK-format ratio table (OJK defines ROA on pre-tax profit / average total assets), consolidated."
+            },
+            "nim": {
+                "v": 4.55,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table (2020 column)",
+                "basis": "consolidated",
+                "note": "NIM as reported (OJK published-statement classification), consolidated."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed as a ratio: checked AR2020 and AR2025 financial highlights / key financial ratio tables and MD&A, and the FY2020 analyst deck (Financial Ratios and income statement pages); only the provision amount is given."
+            },
+            "npl_gross": {
+                "v": 4,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table (2020 column)",
+                "basis": "consolidated",
+                "note": "NPL gross, consolidated (AR footnote 1: includes consumer financing receivables)."
+            },
+            "npl_net": {
+                "v": 2.49,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table (2020 column)",
+                "basis": "consolidated",
+                "note": "NPL net, consolidated (includes consumer financing receivables)."
+            },
+            "lar": {
+                "v": 21.5,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Presentasi-Perusahaan/Maybank-Indonesia-Financial-Result-FY-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 3, FY 2021 Executive Summary: 'Loan at Risk (LaR - Bank only) improved to 18.0% in Dec-21 from 21.5% in Dec-20'",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (consolidated LaR not disclosed)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: checked AR2020/AR2025 financial highlights and key ratio tables, MD&A asset-quality sections and the FY2020 analyst deck. The tables give CKPN to earning assets and 'fulfilment of required allowance' only."
+            },
+            "ldr": {
+                "v": 79.25,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table (2020 column)",
+                "basis": "bank_only",
+                "note": "LDR bank only (AR footnote 2 'Bank only'; regulatory LDR). Consolidated LDR (incl. consumer financing receivables) is printed in the FY deck / MD&A key ratio table."
+            },
+            "car": {
+                "v": 24.31,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table (2020 column)",
+                "basis": "consolidated",
+                "note": "CAR (total, incl. credit, market and operational risk), consolidated."
+            },
+            "cir": {
+                "v": 59.66,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 205 (printed p. 203), MD&A 'KEY FINANCIAL RATIOS' table, 'Cost to income ratio (CIR)' 2020 column",
+                "basis": "consolidated",
+                "note": "Consolidated (table values match the deck 'Consolidated' columns). AR2020 PDF p. 207 and the FY2021 deck (Dec-20 column) also print 59.66%; the FY2020 deck p. 14 printed 59.26%. AR2024's highlight table has no CIR row."
+            },
+            "bopo": {
+                "v": 87.83,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table (2020 column)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated."
+            },
+            "casa": {
+                "v": 39.81,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Presentasi-Perusahaan/Maybank-Indonesia-Financial-Result-FY2020.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 14, Financial Ratios, Consolidated column, 'CASA to Total Funding' Dec-20",
+                "basis": "consolidated",
+                "note": "CASA ratio (current + savings accounts / deposits from customers), consolidated. Bank only 40.07%. FY2021 deck p. 14 repeats Dec-20 CASA 39.81% (consolidated)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 1644.97,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2021_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (FS p. 7), Consolidated statement of profit or loss, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "As originally reported (also the base of the FY2021 dividend: AGMS 25 Mar 2022). Restated in the FY2022 FS (PSAK 24 / DSAK-IAI): 1,666.316."
+            },
+            "eps": {
+                "v": 21.58,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2021_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (FS p. 7), 'LABA PER SAHAM DASAR (nilai penuh)' / basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "As originally reported. Restated in the FY2022 FS: 21.86."
+            },
+            "payout_ratio": {
+                "v": 30,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/RUPS/2022/Notification-to-Shareholders-Cash-Dividend-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-03-25",
+                "loc": "p. 1, Notification to the Shareholders on the schedule and procedures for cash dividend payments (AGMS 25 Mar 2022): 'approximately 30% of the 2021 Company's Net Profit'",
+                "basis": "consolidated",
+                "note": "AGMS resolution (AR2022 PDF p. 422): 30% of FY2021 net profit Rp1,644,969,584,617 (as originally reported)."
+            },
+            "total_assets": {
+                "v": 168758.476,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2021_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9 (FS p. 2), Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "As originally reported in the FY2021 audited FS. Restated in the FY2022 FS (PSAK 24 / DSAK-IAI) to 168,712.977."
+            },
+            "loans_gross": {
+                "v": 101770.531,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 28 (printed p. 26), Financial Highlights, Consolidated statement of financial position, 'Loans 1)' (2021 column)",
+                "basis": "consolidated",
+                "note": "AR 'Loans' total, footnote 1 'Include consumer financing receivables' (WOM Finance, Maybank Indonesia Finance); before allowance for impairment. FS2021: loans and sharia receivables/financing (gross) 93,807,773 + consumer financing receivables net of unearned income 7,962,758 = 101,770,531 (Rp juta). AR2021 p. 24 prints the same figure in Rp bn (101,771)."
+            },
+            "deposits": {
+                "v": 114898.775,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2021_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10 (FS p. 3), Consolidated statement of financial position, 'Simpanan nasabah' total (deposits from customers)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 28301.139,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2021_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12 (FS p. 5), Consolidated statement of financial position, 'Jumlah ekuitas teratribusi kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated in the FY2022 FS (PSAK 24 / DSAK-IAI): 28,458.762."
+            },
+            "total_equity": {
+                "v": 28725.123,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2021_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12 (FS p. 5), Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated in the FY2022 FS (PSAK 24 / DSAK-IAI): 28,886.439."
+            },
+            "shares_out": {
+                "v": 76215195821,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2021_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 252 (Note 27 share capital: Series A 388,146,231 + Series B 8,891,200,000 + Series D 66,935,849,590 = 76,215,195,821); PDF p. 264 (Note 43 EPS, weighted-average shares outstanding 76,215,195,821)",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "No treasury shares and no change in issued shares since Rights Issue (PUT) VIII in June 2018."
+            },
+            "year_end_price": {
+                "v": 332,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 29 (printed p. 27), Share Price Performance, 2021 Quarter IV closing 332; 'Closing Price (in Rupiah)' 332",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 6.36,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "Return on equity as reported (OJK ratio table; the analyst decks label it 'Return On Equity (Tier 1)', i.e. profit on average Tier 1 capital). Consolidated: this AR table matches the 'KONSOLIDASIAN' column of the OJK published report and the 'Consolidated' column of the FY analyst deck (the AR footnote marks only LDR/GWM/PLM/NOP as bank only). Restated value. As originally reported in the FY2021 deck (p. 14): 6.29%."
+            },
+            "roa": {
+                "v": 1.34,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "ROA as reported in the OJK-format ratio table (OJK defines ROA on pre-tax profit / average total assets), consolidated. Restated value (DSAK-IAI PSAK 24 restatement of FY2021). As originally reported in the FY2021 deck (p. 14): 1.32%."
+            },
+            "nim": {
+                "v": 4.69,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NIM as reported (OJK published-statement classification), consolidated."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed as a ratio: checked AR2021 and AR2025 financial highlights / key financial ratio tables and MD&A, and the FY2021 analyst deck (Financial Ratios and income statement pages); only the provision amount is given."
+            },
+            "npl_gross": {
+                "v": 3.69,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NPL gross, consolidated (AR footnote 1: includes consumer financing receivables)."
+            },
+            "npl_net": {
+                "v": 2.56,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NPL net, consolidated (includes consumer financing receivables)."
+            },
+            "lar": {
+                "v": 18.01,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 202 (printed p. 200), MD&A loan quality: Bank Only's Loan at Risk (LAR) 'improved to 12.72% in December 2022 from 18.01% a year earlier'",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (consolidated LaR not disclosed). FY2021 deck p. 3 rounds it to 18.0%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: checked AR2021/AR2025 financial highlights and key ratio tables, MD&A asset-quality sections and the FY2021 analyst deck. The tables give CKPN to earning assets and 'fulfilment of required allowance' only."
+            },
+            "ldr": {
+                "v": 76.28,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "bank_only",
+                "note": "LDR bank only (AR footnote 2 'Bank only'; regulatory LDR). Consolidated LDR (incl. consumer financing receivables) is printed in the FY deck / MD&A key ratio table."
+            },
+            "car": {
+                "v": 27.1,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "CAR (total, incl. credit, market and operational risk), consolidated. Restated value. As originally reported in the FY2021 deck (p. 14): 26.91%."
+            },
+            "cir": {
+                "v": 59.62,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio as reported, consolidated. Restated value. As originally reported in the FY2021 deck (p. 14): 59.92%."
+            },
+            "bopo": {
+                "v": 82.69,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated. Restated value. As originally reported in the FY2021 deck (p. 14): 82.90%."
+            },
+            "casa": {
+                "v": 47.23,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Presentasi-Perusahaan/Maybank-Indonesia-Financial-Result-FY-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "p. 14, Financial Ratios, Consolidated column, 'CASA' Dec-21",
+                "basis": "consolidated",
+                "note": "CASA ratio (current + savings accounts / deposits from customers), consolidated. Bank only 47.42%."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 1471.07,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2022_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 21 (FS p. 7), Consolidated statement of profit or loss, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 19.3,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2022_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 21 (FS p. 7), 'LABA PER SAHAM DASAR (nilai penuh)' / basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31"
+            },
+            "payout_ratio": {
+                "v": 40,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/RUPS/2023/Notification-to-Shareholders-Cash-Dividend-2023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-03-31",
+                "loc": "p. 1, Notification to the Shareholders (AGMS 31 Mar 2023): 'approximately 40% of the 2022 Company's Net Profit'",
+                "basis": "consolidated",
+                "note": "AR2025 PDF p. 219-220 confirms 40% of Rp1,471,070,391,742."
+            },
+            "total_assets": {
+                "v": 160813.918,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2022_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16 (FS p. 2), Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 107815.087,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 28 (printed p. 26), Financial Highlights, Consolidated statement of financial position, 'Loans 1)' (2022 column)",
+                "basis": "consolidated",
+                "note": "AR 'Loans' total, footnote 1 'Include consumer financing receivables' (WOM Finance, Maybank Indonesia Finance); before allowance for impairment. FS2022: loans and sharia receivables/financing (gross) 99,938,643 + consumer financing receivables net of unearned income 7,876,444 = 107,815,087 (Rp juta)."
+            },
+            "deposits": {
+                "v": 105706.302,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2022_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (FS p. 3), Consolidated statement of financial position, 'Simpanan nasabah' total (deposits from customers)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 29052.993,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2022_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (FS p. 5), Consolidated statement of financial position, 'Jumlah ekuitas teratribusi kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 29533.95,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2022_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (FS p. 5), Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 76215195821,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_Bilingual_31_Des_2022_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 257 (Note 27 share capital: Series A 388,146,231 + Series B 8,891,200,000 + Series D 66,935,849,590 = 76,215,195,821); PDF p. 270 (Note 43 EPS, weighted-average shares outstanding 76,215,195,821)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "No treasury shares and no change in issued shares since Rights Issue (PUT) VIII in June 2018."
+            },
+            "year_end_price": {
+                "v": 228,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 33 (printed p. 31), Share Price Performance, 2022 Quarter IV closing 228; 'Closing Price (in Rupiah)' 228",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 5.44,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "Return on equity as reported (OJK ratio table; the analyst decks label it 'Return On Equity (Tier 1)', i.e. profit on average Tier 1 capital). Consolidated: this AR table matches the 'KONSOLIDASIAN' column of the OJK published report and the 'Consolidated' column of the FY analyst deck (the AR footnote marks only LDR/GWM/PLM/NOP as bank only)."
+            },
+            "roa": {
+                "v": 1.25,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "ROA as reported in the OJK-format ratio table (OJK defines ROA on pre-tax profit / average total assets), consolidated."
+            },
+            "nim": {
+                "v": 4.89,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NIM as reported (OJK published-statement classification), consolidated. AR2023-AR2025 and the FY2023 deck print 4.89%; the FY2022 deck (p. 14) printed 5.05% (later reclassified). Latest value stored."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed as a ratio: checked AR2022 and AR2025 financial highlights / key financial ratio tables and MD&A, and the FY2022 analyst deck (Financial Ratios and income statement pages); only the provision amount is given."
+            },
+            "npl_gross": {
+                "v": 3.46,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NPL gross, consolidated (AR footnote 1: includes consumer financing receivables)."
+            },
+            "npl_net": {
+                "v": 2.34,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NPL net, consolidated (includes consumer financing receivables)."
+            },
+            "lar": {
+                "v": 12.72,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 202 (printed p. 200), MD&A loan quality: Bank Only's Loan at Risk (LAR) ratio 12.72% in December 2022",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (consolidated LaR not disclosed)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: checked AR2022/AR2025 financial highlights and key ratio tables, MD&A asset-quality sections and the FY2022 analyst deck. The tables give CKPN to earning assets and 'fulfilment of required allowance' only."
+            },
+            "ldr": {
+                "v": 86.92,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "bank_only",
+                "note": "LDR bank only (AR footnote 2 'Bank only'; regulatory LDR). Consolidated LDR (incl. consumer financing receivables) is printed in the FY deck / MD&A key ratio table."
+            },
+            "car": {
+                "v": 26.65,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "CAR (total, incl. credit, market and operational risk), consolidated."
+            },
+            "cir": {
+                "v": 63.25,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio as reported, consolidated. AR2023-AR2025 and the FY2023 deck print 63.25%; the FY2022 deck (p. 14) printed 64.18% (later reclassified). Latest value stored."
+            },
+            "bopo": {
+                "v": 83.1,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated."
+            },
+            "casa": {
+                "v": 51.41,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Presentasi-Perusahaan/Maybank-Indonesia-Financial-Result-FY-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 14, Financial Ratios, Consolidated column, 'CASA' Dec-22",
+                "basis": "consolidated",
+                "note": "CASA ratio (current + savings accounts / deposits from customers), consolidated. Bank only 51.51%."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 1743.406,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_bilingual_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21 (FS p. 7), Consolidated statement of profit or loss, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 22.87,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_bilingual_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21 (FS p. 7), 'LABA PER SAHAM DASAR (nilai penuh)' / basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31"
+            },
+            "payout_ratio": {
+                "v": 45,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/RUPS/2024/Notification-to-Shareholders-Cash-Dividend-2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-04-01",
+                "loc": "p. 1, Notification to the Shareholders (AGMS 1 Apr 2024): 'approximately 45% of the 2023 Company's Net Profit'",
+                "basis": "consolidated",
+                "note": "AGMS resolution in AR2024 PDF p. 429 (printed p. 427): 45% of Rp1,743,406,226,869."
+            },
+            "total_assets": {
+                "v": 171803.07,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_bilingual_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16 (FS p. 2), Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 116002.006,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, Consolidated statement of financial position, 'Loans 1)' (2023 column)",
+                "basis": "consolidated",
+                "note": "AR 'Loans' total, footnote 1 'Include consumer financing receivables' (WOM Finance, Maybank Indonesia Finance); before allowance for impairment. FS2023: loans and sharia receivables/financing (gross) 108,056,277 + consumer financing receivables net of unearned income 7,945,729 = 116,002,006 (Rp juta)."
+            },
+            "deposits": {
+                "v": 115502.508,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_bilingual_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (FS p. 3), Consolidated statement of financial position, 'Simpanan nasabah' total (deposits from customers)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 30258.32,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_bilingual_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (FS p. 5), Consolidated statement of financial position, 'Jumlah ekuitas teratribusi kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 30796.034,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_bilingual_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (FS p. 5), Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 76215195821,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Basel-III-Capital-Disclosure/Bank-Maybank-Indonesia_bilingual_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 266 (Note 27 share capital: Series A 388,146,231 + Series B 8,891,200,000 + Series D 66,935,849,590 = 76,215,195,821); PDF p. 281 (Note 43 EPS, weighted-average shares outstanding 76,215,195,821)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "No treasury shares and no change in issued shares since Rights Issue (PUT) VIII in June 2018."
+            },
+            "year_end_price": {
+                "v": 242,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 35 (printed p. 33), Share Price Performance, 2023 Quarter IV closing 242; 'Closing Price (in Rupiah)' 242",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 6.2,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "Return on equity as reported (OJK ratio table; the analyst decks label it 'Return On Equity (Tier 1)', i.e. profit on average Tier 1 capital). Consolidated: this AR table matches the 'KONSOLIDASIAN' column of the OJK published report and the 'Consolidated' column of the FY analyst deck (the AR footnote marks only LDR/GWM/PLM/NOP as bank only)."
+            },
+            "roa": {
+                "v": 1.41,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "ROA as reported in the OJK-format ratio table (OJK defines ROA on pre-tax profit / average total assets), consolidated."
+            },
+            "nim": {
+                "v": 4.96,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NIM as reported (OJK published-statement classification), consolidated."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed as a ratio: checked AR2023 and AR2025 financial highlights / key financial ratio tables and MD&A, and the FY2023 analyst deck (Financial Ratios and income statement pages); only the provision amount is given."
+            },
+            "npl_gross": {
+                "v": 2.92,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NPL gross, consolidated (AR footnote 1: includes consumer financing receivables)."
+            },
+            "npl_net": {
+                "v": 1.88,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NPL net, consolidated (includes consumer financing receivables)."
+            },
+            "lar": {
+                "v": 8.94,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 197 (printed p. 195), MD&A: 'Loan at Risk (LAR) ratio (bank only) improved to 8.94% in December 2023'",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (consolidated LaR not disclosed)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: checked AR2023/AR2025 financial highlights and key ratio tables, MD&A asset-quality sections and the FY2023 analyst deck. The tables give CKPN to earning assets and 'fulfilment of required allowance' only."
+            },
+            "ldr": {
+                "v": 84.25,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "bank_only",
+                "note": "LDR bank only (AR footnote 2 'Bank only'; regulatory LDR). Consolidated LDR (incl. consumer financing receivables) is printed in the FY deck / MD&A key ratio table."
+            },
+            "car": {
+                "v": 27.74,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "CAR (total, incl. credit, market and operational risk), consolidated."
+            },
+            "cir": {
+                "v": 63.84,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio as reported, consolidated."
+            },
+            "bopo": {
+                "v": 83.13,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated."
+            },
+            "casa": {
+                "v": 51.08,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Presentasi-Perusahaan/Maybank-Indonesia-Financial-Result-FY-2023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "p. 17, Financial Ratios, Consolidated column, 'CASA' Dec-23",
+                "basis": "consolidated",
+                "note": "CASA ratio (current + savings accounts / deposits from customers), consolidated. Bank only 51.24%."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 1115.963,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_31_dec_2024_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20 (FS p. 6), Consolidated statement of profit or loss, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 14.64,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_31_dec_2024_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20 (FS p. 6), 'LABA PER SAHAM DASAR (nilai penuh)' / basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31"
+            },
+            "payout_ratio": {
+                "v": 40,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-04-11",
+                "loc": "PDF p. 220 (printed p. 218), dividend history table, FY2024 row (AGMS 11 Apr 2025, 40%); PDF p. 448 (printed p. 446), AGMS resolution",
+                "basis": "consolidated",
+                "note": "40% of FY2024 net profit Rp1,115,963,322,571 = Rp446,385,329,029."
+            },
+            "total_assets": {
+                "v": 197179.822,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_31_dec_2024_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16 (FS p. 2), Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 127581.015,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 28 (printed p. 26), Financial Highlights, Consolidated statement of financial position, 'Loans 1)' (2024 column)",
+                "basis": "consolidated",
+                "note": "AR 'Loans' total, footnote 1 'Include consumer financing receivables' (WOM Finance, Maybank Indonesia Finance); before allowance for impairment. FS2024: loans and sharia receivables/financing (gross) 120,388,581 + consumer financing receivables net of unearned income 7,192,434 = 127,581,015 (Rp juta)."
+            },
+            "deposits": {
+                "v": 119003.891,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_31_dec_2024_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (FS p. 3), Consolidated statement of financial position, 'Simpanan nasabah' total (deposits from customers)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 30606.865,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_31_dec_2024_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (FS p. 4), Consolidated statement of financial position, 'Jumlah ekuitas teratribusi kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 31208.391,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_31_dec_2024_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (FS p. 4), Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 76215195821,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_31_dec_2024_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 220 (Note 27 share capital: Series A 388,146,231 + Series B 8,891,200,000 + Series D 66,935,849,590 = 76,215,195,821); PDF p. 234 (Note 43 EPS, weighted-average shares outstanding 76,215,195,821)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "No treasury shares and no change in issued shares since Rights Issue (PUT) VIII in June 2018."
+            },
+            "year_end_price": {
+                "v": 208,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 33 (printed p. 31), Share Price Performance, 2024 Quarter IV closing 208; 'Closing Price (in Rupiah)' 208",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 3.93,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "Return on equity as reported (OJK ratio table; the analyst decks label it 'Return On Equity (Tier 1)', i.e. profit on average Tier 1 capital). Consolidated: this AR table matches the 'KONSOLIDASIAN' column of the OJK published report and the 'Consolidated' column of the FY analyst deck (the AR footnote marks only LDR/GWM/PLM/NOP as bank only)."
+            },
+            "roa": {
+                "v": 0.85,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "ROA as reported in the OJK-format ratio table (OJK defines ROA on pre-tax profit / average total assets), consolidated."
+            },
+            "nim": {
+                "v": 4.37,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NIM as reported (OJK published-statement classification), consolidated."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed as a ratio: checked AR2024 and AR2025 financial highlights / key financial ratio tables and MD&A, and the FY2024 analyst deck (Financial Ratios and income statement pages); only the provision amount is given."
+            },
+            "npl_gross": {
+                "v": 2.68,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NPL gross, consolidated (AR footnote 1: includes consumer financing receivables)."
+            },
+            "npl_net": {
+                "v": 1.42,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NPL net, consolidated (includes consumer financing receivables)."
+            },
+            "lar": {
+                "v": 8.22,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 203 (printed p. 201), MD&A asset quality: 'the Loan at Risk (LaR) improved to 8.22% as of December 31, 2024'",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (consolidated LaR not disclosed). AR2024 does not repeat 'bank only' in this sentence; the series is bank-only in AR2022/AR2023 and the decks."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: checked AR2024/AR2025 financial highlights and key ratio tables, MD&A asset-quality sections and the FY2024 analyst deck. The tables give CKPN to earning assets and 'fulfilment of required allowance' only."
+            },
+            "ldr": {
+                "v": 89.84,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "bank_only",
+                "note": "LDR bank only (AR footnote 2 'Bank only'; regulatory LDR). Consolidated LDR (incl. consumer financing receivables) is printed in the FY deck / MD&A key ratio table."
+            },
+            "car": {
+                "v": 25.55,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "CAR (total, incl. credit, market and operational risk), consolidated."
+            },
+            "cir": {
+                "v": 69.02,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio as reported, consolidated."
+            },
+            "bopo": {
+                "v": 89.56,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated."
+            },
+            "casa": {
+                "v": 52.86,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Presentasi-Perusahaan/Maybank-Indonesia-Financial-Result-FY-2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 17, Financial Ratios, Consolidated column, 'CASA' Dec-24",
+                "basis": "consolidated",
+                "note": "CASA ratio (current + savings accounts / deposits from customers), consolidated. Bank only 53.02%."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 1657.366,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia-bilingual_31Des25_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20 (FS p. 6), Consolidated statement of profit or loss, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 21.75,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia-bilingual_31Des25_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20 (FS p. 6), 'LABA PER SAHAM DASAR (nilai penuh)' / basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31"
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/RUPS/2026/Pemberitahuan-Dividen-RUPST-17-April-2026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-04-17",
+                "loc": "p. 1, Pemberitahuan jadwal dan tata cara pembayaran dividen tunai (RUPST 17 Apr 2026): 'kurang lebih 35% dari Laba Bersih Perseroan Tahun Buku 2025'",
+                "basis": "consolidated",
+                "note": "Ringkasan Risalah RUPST 17 Apr 2026, second agenda: 35% or max Rp580,078,199,763 of FY2025 net profit as cash dividend."
+            },
+            "total_assets": {
+                "v": 193717.633,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia-bilingual_31Des25_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16 (FS p. 2), Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "As originally reported in the FY2025 audited FS. The 9M2026 interim FS restates 31 Dec 2025 to 199,199.038 after the 2026 common-control acquisitions of PT Maybank Asset Management, PT Maybank Sekuritas Indonesia and PT Asuransi Etiqa Internasional Indonesia (pooling of interests, PSAK 338; Note 59)."
+            },
+            "loans_gross": {
+                "v": 123637.221,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 28 (printed p. 26), Financial Highlights, Consolidated statement of financial position, 'Loans 1)' (2025 column)",
+                "basis": "consolidated",
+                "note": "AR 'Loans' total, footnote 1 'Include consumer financing receivables' (WOM Finance, Maybank Indonesia Finance); before allowance for impairment. FS2025: loans and sharia receivables/financing (gross) 116,330,305 + consumer financing receivables net of unearned income 7,306,916 = 123,637,221 (Rp juta). 9M2026 FS restates 31 Dec 2025 loans and sharia receivables/financing (gross) to 116,053.864 (consumer financing receivables unchanged at 7,306.916) after the 2026 common-control acquisitions."
+            },
+            "deposits": {
+                "v": 116194.096,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia-bilingual_31Des25_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17 (FS p. 3), Consolidated statement of financial position, 'Simpanan nasabah' total (deposits from customers)",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated in the 9M2026 FS (common-control acquisitions, pooling of interests): 116,021.249."
+            },
+            "equity_attr": {
+                "v": 32453.307,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia-bilingual_31Des25_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (FS p. 4), Consolidated statement of financial position, 'Jumlah ekuitas teratribusi kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated in the 9M2026 FS (common-control acquisitions, pooling of interests): 32,458.339."
+            },
+            "total_equity": {
+                "v": 33083.483,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia-bilingual_31Des25_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (FS p. 4), Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated in the 9M2026 FS (common-control acquisitions, pooling of interests): 33,959.807."
+            },
+            "shares_out": {
+                "v": 76215195821,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia-bilingual_31Des25_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 224 (Note 27 share capital: Series A 388,146,231 + Series B 8,891,200,000 + Series D 66,935,849,590 = 76,215,195,821); PDF p. 239 (Note 43 EPS, weighted-average shares outstanding 76,215,195,821)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "No treasury shares and no change in issued shares since Rights Issue (PUT) VIII in June 2018."
+            },
+            "year_end_price": {
+                "v": 206,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 33 (printed p. 31), Share Price Performance, 2025 Quarter IV closing 206; 'Closing Price (in Rupiah)' 206",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 5.54,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "Return on equity as reported (OJK ratio table; the analyst decks label it 'Return On Equity (Tier 1)', i.e. profit on average Tier 1 capital). Consolidated: this AR table matches the 'KONSOLIDASIAN' column of the OJK published report and the 'Consolidated' column of the FY analyst deck (the AR footnote marks only LDR/GWM/PLM/NOP as bank only)."
+            },
+            "roa": {
+                "v": 1.16,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "ROA as reported in the OJK-format ratio table (OJK defines ROA on pre-tax profit / average total assets), consolidated."
+            },
+            "nim": {
+                "v": 4.31,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NIM as reported (OJK published-statement classification), consolidated."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed as a ratio: checked AR2025 and AR2025 financial highlights / key financial ratio tables and MD&A, and the FY2025 analyst deck (Financial Ratios and income statement pages); only the provision amount is given."
+            },
+            "npl_gross": {
+                "v": 2.17,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NPL gross, consolidated (AR footnote 1: includes consumer financing receivables)."
+            },
+            "npl_net": {
+                "v": 1.31,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "NPL net, consolidated (includes consumer financing receivables)."
+            },
+            "lar": {
+                "v": 6.67,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 215 (printed p. 213), MD&A asset quality: 'the Bank's Loan at Risk (LaR) continued to improve to 6.67% as of 31 December 2025'",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (consolidated LaR not disclosed). Basis taken as bank only, as for the earlier years of this series."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: checked AR2025/AR2025 financial highlights and key ratio tables, MD&A asset-quality sections and the FY2025 analyst deck. The tables give CKPN to earning assets and 'fulfilment of required allowance' only."
+            },
+            "ldr": {
+                "v": 90.31,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "bank_only",
+                "note": "LDR bank only (AR footnote 2 'Bank only'; regulatory LDR). Consolidated LDR (incl. consumer financing receivables) is printed in the FY deck / MD&A key ratio table."
+            },
+            "car": {
+                "v": 27.31,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "CAR (total, incl. credit, market and operational risk), consolidated."
+            },
+            "cir": {
+                "v": 68.52,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio as reported, consolidated."
+            },
+            "bopo": {
+                "v": 86.33,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30 (printed p. 28), Financial Highlights, 'FINANCIAL RATIOS' table",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated."
+            },
+            "casa": {
+                "v": 57.55,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Presentasi-Perusahaan/Maybank-Indonesia-Financial-Result-FY-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 22, Financial Ratios, Consolidated column, 'CASA' Dec-25",
+                "basis": "consolidated",
+                "note": "CASA ratio (current + savings accounts / deposits from customers), consolidated. Bank only 57.74%."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 3.32308,
+            "total": 253.269524491,
+            "cum_date": "2021-04-06",
+            "ex_date": "2021-04-07",
+            "record_date": "2021-04-08",
+            "pay_date": "2021-04-29",
+            "share_basis": "2021-03-30",
+            "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Tahunan/Annual-Report-Maybank-Indonesia-2021.pdf",
+            "source_type": "filing",
+            "as_of_date": "2021-03-30",
+            "loc": "PDF p. 220 (printed p. 218), Dividend Distribution Chronology (AGMS 26 Mar 2021; schedule a-e); PDF p. 590 (printed p. 588), Dividends for Financial Year 2020",
+            "note": "Rp3.32308/share, total Rp253,269,524,491 = 20% of FY2020 net profit attributable Rp1,266,347,622,457. Dates: announcement 30 Mar 2021; cum regular & negotiated market 6 Apr 2021 (cash market 8 Apr); ex regular & negotiated 7 Apr 2021 (cash market 9 Apr); recording 8 Apr 2021; payment 29 Apr 2021. The bank's own 2021 notice could not be found on maybank.co.id, so the AR is the source."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 6.47496,
+            "total": 493.490875385,
+            "cum_date": "2022-04-04",
+            "ex_date": "2022-04-05",
+            "record_date": "2022-04-06",
+            "pay_date": "2022-04-28",
+            "share_basis": "2022-03-29",
+            "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/RUPS/2022/Notification-to-Shareholders-Cash-Dividend-2022.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-03-29",
+            "loc": "p. 1, Notification to the Shareholders on the schedule and procedures for cash dividend payments, section A (AGMS 25 Mar 2022; announced 29 Mar 2022)",
+            "note": "Rp6.47496/share, max Rp493,490,875,385 = ~30% of FY2021 net profit (as originally reported). Cash market: cum 6 Apr, ex 7 Apr 2022."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 7.72061,
+            "total": 588.428156697,
+            "cum_date": "2023-04-11",
+            "ex_date": "2023-04-12",
+            "record_date": "2023-04-13",
+            "pay_date": "2023-04-28",
+            "share_basis": "2023-04-03",
+            "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/RUPS/2023/Notification-to-Shareholders-Cash-Dividend-2023.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-04-03",
+            "loc": "p. 1, Notification to the Shareholders on the schedule and procedures for cash dividend payments, section A (AGMS 31 Mar 2023; announced 3 Apr 2023)",
+            "note": "Rp7.72061/share, max Rp588,428,156,697 = ~40% of FY2022 net profit. Cash market: cum 13 Apr, ex 14 Apr 2023. The AR2025 dividend table (PDF p. 220) misprints this year's total as '1.471.1' (that is the FY2022 net profit); its own text on PDF p. 219 gives Rp588,428,156,697."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 10.29365,
+            "total": 784.532802091,
+            "cum_date": "2024-04-17",
+            "ex_date": "2024-04-18",
+            "record_date": "2024-04-19",
+            "pay_date": "2024-04-30",
+            "share_basis": "2024-04-02",
+            "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/RUPS/2024/Notification-to-Shareholders-Cash-Dividend-2024.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-04-02",
+            "loc": "p. 1, Notification to the Shareholders on the schedule and procedures for cash dividend payments, section A (AGMS 1 Apr 2024; announced 2 Apr 2024)",
+            "note": "Rp10.29365/share, max Rp784,532,802,091 = ~45% of FY2023 net profit. Cash market: cum 19 Apr, ex 22 Apr 2024."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 5.85691,
+            "total": 446.385329029,
+            "cum_date": "2025-04-22",
+            "ex_date": "2025-04-23",
+            "record_date": "2025-04-24",
+            "pay_date": "2025-05-09",
+            "share_basis": "2025-04-14",
+            "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/RUPS/2025/Notification-to-Shareholders-Cash-Dividend-2025.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-04-14",
+            "loc": "p. 1, Notification to the Shareholders on the schedule and procedures for cash dividend payments, section A (AGMS 11 Apr 2025; announced 14 Apr 2025); DPS from AR2025 PDF p. 448 (printed p. 446), AGMS 2025 second-agenda resolution",
+            "note": "DPS Rp5.85691 as resolved by the AGMS (AR2025 PDF p. 448: '40% or maximum Rp446,385,329,029 ... or amounted Rp5,85691 per share'; also AR2025 PDF p. 219-220 and p. 616). The notice (English and Indonesian versions) prints Rp5.84691, which does not match its own total: Rp446,385,329,029 / 76,215,195,821 shares = Rp5.85691. Treated as a typo in the notice. Cash market: cum 24 Apr, ex 25 Apr 2025."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 7.61106,
+            "total": 580.078199763,
+            "cum_date": "2026-04-27",
+            "ex_date": "2026-04-28",
+            "record_date": "2026-04-29",
+            "pay_date": "2026-05-13",
+            "share_basis": "2026-04-20",
+            "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/RUPS/2026/Pemberitahuan-Dividen-RUPST-17-April-2026.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-20",
+            "loc": "p. 1, Pemberitahuan kepada para pemegang saham atas jadwal dan tata cara pembayaran dividen tunai, section A (RUPST 17 Apr 2026; dated 20 Apr 2026)",
+            "note": "Rp7,61106/share, max Rp580.078.199.763 = ~35% of FY2025 net profit. Cash market: cum 29 Apr, ex 30 Apr 2026. Paid: 9M2026 interim FS statement of changes in equity shows 'Pembagian dividen tunai' (580,079) Rp juta, the only dividend in 2026."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 956.855,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_30Sep26_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10 (FS p. 6), Interim consolidated statement of profit or loss, 'Laba periode berjalan yang dapat diatribusikan kepada: Pemilik entitas induk' (9M 2026)",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2026, unaudited. From Aug 2026 the group includes PT Maybank Asset Management, PT Maybank Sekuritas Indonesia and PT Asuransi Etiqa Internasional Indonesia (51% each, common-control acquisitions, pooling of interests); comparatives restated (Note 59). Basic EPS 12.55."
+            },
+            "profit_ytd_prior": {
+                "v": 989.387,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_30Sep26_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 10 (FS p. 6), same line, 9M 2025 comparative column (restated, Note 59)",
+                "basis": "consolidated",
+                "note": "Restated comparative; identical to the 989,387 originally reported in the 30 Sep 2025 interim FS (restatement changed NCI and total profit, not profit attributable). EPS 12.98."
+            },
+            "equity_attr": {
+                "v": 31835.848,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_30Sep26_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8 (FS p. 4), Interim consolidated statement of financial position, 'Jumlah ekuitas teratribusi kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Same figure in the OJK published report (LKP Sep 2026 p. 1, KONSOLIDASIAN). The FS statement of changes in equity (PDF p. 11) closes at 31,830,816 Rp juta because its closing row is rolled forward from the UNrestated 31 Dec 2025 opening (it omits the 5,032 acquisition effect on OCI); the balance-sheet figure, which rolls forward from the restated opening, is stored."
+            },
+            "shares_out": {
+                "v": 76215195821,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_30Sep26_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 253 (FS p. 249), Note 28 share capital (76,215,195,821 shares); PDF p. 268 (FS p. 264), EPS note weighted-average shares 76,215,195,821",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "No treasury shares (LKP Sep 2026 p. 1: 'Saham yang dibeli kembali (treasury stock)' = -)."
+            },
+            "total_assets": {
+                "v": 219809.851,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_30Sep26_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6 (FS p. 2), Interim consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Includes the newly acquired asset-management, securities and insurance subsidiaries."
+            },
+            "loans_gross": {
+                "v": 128390,
+                "source_url": "https://www.maybank.co.id/id/NewsAndAnnouncement/NewsAndAnnouncements/2026/10/30/08/13/Maybank-Indonesia-Catat-Laba-Sebelum-Pajak-pada-Sembilan-Bulan-2026",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "Press release 30 Oct 2026 'Maybank Indonesia Catat Laba Sebelum Pajak Sebesar Rp1,43 Triliun pada Sembilan Bulan 2026': 'Total kredit tumbuh 6,8% menjadi Rp128,39 triliun'",
+                "basis": "consolidated",
+                "note": "Same definition as fy.*.loans_gross (incl. consumer financing receivables), precision as printed (Rp128.39tn). Reconciles to the 9M2026 FS (PDF p. 6): loans and sharia receivables/financing gross 120,914,941 + consumer financing receivables net of unearned income 7,473,642 = 128,388,583 Rp juta."
+            },
+            "loans_gross_prior": {
+                "v": 120416,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Presentasi-Perusahaan/Maybank-Indonesia-Financial-Result-9M-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "p. 10, Loan & Deposit Growth, 'Loan Rp billion' Sep-25 = 120,416",
+                "basis": "consolidated",
+                "note": "As originally reported (scope before the 2026 common-control acquisitions). Reconciles to the 30 Sep 2025 interim FS (PDF p. 6): 114,049,145 + 6,367,172 = 120,416,317 Rp juta. The 9M2026 press release's +6.8% YoY implies a restated Sep-25 base of about Rp120.2tn (restated comparative not published)."
+            },
+            "deposits": {
+                "v": 124591.104,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia_bilingual_30Sep26_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7 (FS p. 3), Interim consolidated statement of financial position, 'Simpanan nasabah' total",
+                "basis": "consolidated"
+            },
+            "deposits_prior": {
+                "v": 131213.435,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Bank-Maybank-Indonesia-bilingual-30Sep25-Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 7 (FS p. 3), Interim consolidated statement of financial position 30 Sep 2025, 'Simpanan nasabah' total",
+                "basis": "consolidated",
+                "note": "As originally reported (pre-acquisition scope). The 9M2026 press release (deposits -4.9% YoY to Rp124.59tn) implies a restated Sep-25 base of about Rp131.0tn; at 31 Dec 2025 the restatement lowered deposits by 172.8bn (116,194.096 -> 116,021.249)."
+            },
+            "roe": {
+                "v": 4.26,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Laporan-Publikasi-Triwulan/LKP-Maybank-Indonesia-Sep-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan 30 Sep 2026, KONSOLIDASIAN column",
+                "basis": "consolidated",
+                "note": "Annualised, OJK definition, same basis as fy.*.roe. 30 Sep 2025 (restated): 4.48%."
+            },
+            "roa": {
+                "v": 0.89,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Laporan-Publikasi-Triwulan/LKP-Maybank-Indonesia-Sep-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan 30 Sep 2026, KONSOLIDASIAN column",
+                "basis": "consolidated",
+                "note": "Annualised. 30 Sep 2025 (restated): 0.91%."
+            },
+            "nim": {
+                "v": 4.41,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Laporan-Publikasi-Triwulan/LKP-Maybank-Indonesia-Sep-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan 30 Sep 2026, KONSOLIDASIAN column",
+                "basis": "consolidated",
+                "note": "30 Sep 2025 (restated): 4.27%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the 9M2026 FS, the OJK published report or the 30 Oct 2026 press release (which gives the provision amount only, Rp749bn); no 9M2026 analyst deck had been posted on maybank.co.id as of 2026-11-03."
+            },
+            "npl_gross": {
+                "v": 2.14,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Laporan-Publikasi-Triwulan/LKP-Maybank-Indonesia-Sep-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan 30 Sep 2026, KONSOLIDASIAN column",
+                "basis": "consolidated",
+                "note": "30 Sep 2025 (restated): 2.43%. Net NPL 1.27%."
+            },
+            "lar": {
+                "v": 6.27,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Laporan-Publikasi-Triwulan/LKP-Maybank-Indonesia-Sep-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan 30 Sep 2026, INDIVIDUAL column, row 7 'Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "OJK 'Kredit Kualitas Rendah' (low-quality loans), a new row in the Sep 2026 report; taken as the loan-at-risk measure, bank only like fy.*.lar. Consolidated KKR 6.59%. Not verified to be identical to the bank's own LaR definition used for FY figures (Dec 2025 LaR 6.67%). 30 Sep 2025: 7.81% (bank only)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 FS, OJK published report or press release."
+            },
+            "ldr": {
+                "v": 88.35,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Laporan-Publikasi-Triwulan/LKP-Maybank-Indonesia-Sep-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan 30 Sep 2026, INDIVIDUAL column",
+                "basis": "bank_only",
+                "note": "Bank only, same basis as fy.*.ldr. Consolidated LDR 101.10%. 30 Sep 2025 bank only: 77.51%."
+            },
+            "car": {
+                "v": 23.98,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Laporan-Publikasi-Triwulan/LKP-Maybank-Indonesia-Sep-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan 30 Sep 2026, KONSOLIDASIAN column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "consolidated",
+                "note": "Bank only 21.74%. 30 Sep 2025 (restated) consolidated: 26.57%; 31 Dec 2025: 27.31%."
+            },
+            "cir": {
+                "v": 72.18,
+                "source_url": "https://www.maybank.co.id/-/media/Downloaded-Content/Laporan-Keuangan/Laporan-Publikasi-Triwulan/LKP-Maybank-Indonesia-Sep-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan 30 Sep 2026, KONSOLIDASIAN column",
+                "basis": "consolidated",
+                "note": "30 Sep 2025 (restated): 70.41%. BOPO 88.75%."
+            },
+            "casa": {
+                "v": 64.1,
+                "source_url": "https://www.maybank.co.id/id/NewsAndAnnouncement/NewsAndAnnouncements/2026/10/30/08/13/Maybank-Indonesia-Catat-Laba-Sebelum-Pajak-pada-Sembilan-Bulan-2026",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "Press release 30 Oct 2026: 'Rasio CASA meningkat menjadi 64,1% dari 52,2%'",
+                "basis": "consolidated",
+                "note": "Group CASA Rp79.81tn / deposits Rp124.59tn. Precision as printed (one decimal)."
+            }
+        }
+    },
+    "research_notes": [
+        "SOURCE ACCESS: www.maybank.co.id is not bot-protected; every document was downloaded directly with curl from the URL stored in source_url (2026-11-03). Report lists come from the IR pages' AJAX endpoint /api/sitecore/Reports/FinancialReportsListPaging (quarterly published reports and consolidated FS). The FY2020 deck and the 2022-2025 dividend notices are not linked on the current pages but are live at the URLs given. No Internet Archive copies were needed.",
+        "GROUP SCOPE: consolidated figures include PT Wahana Ottomitra Multiartha Tbk (WOM Finance) and PT Maybank Indonesia Finance (Maybank Finance). On 4 Aug 2026 the bank acquired 51% of PT Maybank Asset Management, 51% (direct + indirect via Maybank Finance) of PT Maybank Sekuritas Indonesia and 51% of PT Asuransi Etiqa Internasional Indonesia from Maybank Group entities, for cash, to become the operating financial holding company (PIKK) of the Maybank financial conglomerate (EGMS 29 Jun 2026; 9M2026 FS Note 1b). These are common-control combinations (pooling of interests, PSAK 338), so the 9M2026 FS restates the comparatives (Note 59): 31 Dec 2025 TA 199,199.038 (orig. 193,717.633), loans & sharia financing 116,053.864 (116,330.305), deposits 116,021.249 (116,194.096), equity attributable 32,458.339 (32,453.307), total equity 33,959.807 (33,083.483). 9M2025 profit attributable is unchanged (989.387). fy.* keeps the figures as originally reported; interim.* uses the 9M2026 scope.",
+        "LOANS DEFINITION: loans_gross = the AR's 'Loans' line (footnote: includes consumer financing receivables of the multifinance subsidiaries), gross of allowances; it equals FS 'Kredit yang diberikan dan piutang/pembiayaan Syariah' (gross) + 'Piutang pembiayaan konsumen' net of unearned income in every year (components in each note). The bare FS loan line is about 7-11 tn lower. Analyst decks use the same 'Total loans' definition (e.g. FY2025 Rp123.6tn).",
+        "RESTATEMENTS: (1) FY2022 FS restated FY2021 and the 1 Jan 2021 balance for the DSAK-IAI press release on attribution of benefits to periods of service (PSAK 24): FY2021 profit attributable 1,644.970 -> 1,666.316, EPS 21.58 -> 21.86, TA 168,758.476 -> 168,712.977, equity attributable 28,301.139 -> 28,458.762; FY2020 TA 173,224.412 -> 173,190.035, equity attributable 26,837.593 -> 26,956.128. (2) 9M2026 FS restated 2025 (see GROUP SCOPE). fy.* stores the figures as originally reported in each year's audited FS, with the restated values in the notes. The FY2021 dividend was based on the original 1,644.970.",
+        "RATIO BASIS: FY2021-FY2025 ratios come from the AR2025 'Financial Ratios' highlight table and FY2020 from AR2024's. These are CONSOLIDATED: they equal the KONSOLIDASIAN column of the OJK published report (checked Dec 2025) and the 'Consolidated' column of each FY deck. The AR footnote marks only LDR (and GWM/PLM/NOP) as bank only, so ldr is stored bank_only (regulatory LDR). Consolidated LDR is much higher because it includes consumer financing receivables: 89.10/86.18/98.31/96.32/101.85/103.62% for 2020-2025. ROE is the OJK Tier-1-based ROE (decks: 'Return On Equity (Tier 1)'). CIR 2020 (59.66%) comes from the AR2023 MD&A table, because AR2024's highlight table has no CIR row. CASA (consolidated) comes from each FY deck. LAR is bank only (AR MD&A / decks); no consolidated LAR is disclosed. CoC and NPL coverage are not disclosed as ratios in any AR or deck checked, so they are null.",
+        "RATIO VINTAGES: the AR2025 table prints FY2021 ratios after the PSAK 24 restatement (originally ROA 1.32, ROE 6.29, CAR 26.91, BOPO 82.90, CIR 59.92) and FY2022 NIM/CIR after a later reclassification (originally 5.05% / 64.18% in the FY2022 deck). The latest values are stored and the originals are given in the notes. As a result, FY2021 ratios are on the restated basis while FY2021 levels are as originally reported (difference about 1%).",
+        "AR MISPRINTS NOTED (not used): AR2025 MD&A key-ratio table (PDF p. 209) has shifted labels: its 'NPL gross' row 1.97% is CKPN/earning assets, 'NPL net' 2.17% is gross NPL, etc. The highlight table on PDF p. 30 is consistent and was used. AR2020 MD&A (PDF p. 207) has the 'Consolidated'/'Individual' column headers swapped. AR2025 dividend table prints the FY2022 total as 1.471.1 (= net profit; correct 588.4). The FY2024 dividend notice prints DPS Rp5.84691 (correct Rp5.85691 per the AGMS resolution and total/shares).",
+        "DIVIDENDS: exactly one cash dividend (final) out of each FY2020-FY2025 profit; no interim or special dividends. Each statement of changes in equity shows one payment per year: 253.2 (2021), 493.5 (2022), 588.4 (2023), 784.5 (2024), 446.4 (2025), 580.1 (9M2026). No FY2026 interim dividend as of the 9M2026 FS. The OJK published report for Sep 2026 shows 'Dividen yang dibayarkan' (1,026,464) because that format re-adds the prior-year 446,385 to 'tahun-tahun lalu'; the actual 2026 payment is 580,079 (9M2026 FS PDF p. 365/368). Payouts: 20/30/40/45/40/35%. All dividend dates come from the bank's own notices, except FY2020 (AR2021 chronology).",
+        "CORPORATE ACTIONS 2019-01-01 to 2026-11-03: none. Issued shares have been 76,215,195,821 since Rights Issue (PUT) VIII in June 2018 (8,468,355,091 Series D shares at Rp236), with no treasury shares, splits, reverse splits, bonus issues or rights issues since then. Sources: AR2025 PDF pp. 132-133 share-listing chronology ('In 2025 Maybank Indonesia did not hold any corporate actions which caused changes in its outstanding shares'); the share count in every FY FS from 2019 to 2025; the 9M2026 FS Note 28. The 2026 subsidiary acquisitions were paid in cash and no BNII shares were issued. The last reverse split was 10:1 on 19 Jun 2002. corporate_actions is therefore an empty list.",
+        "INTERIM: 9M2026 (30 Sep 2026), from the unaudited 9M2026 consolidated FS, the OJK quarterly published report (ratios, both columns) and the 30 Oct 2026 press release (loans total, CASA). No 9M2026 analyst deck was posted yet (the latest is 1H2026). Interim ratios use the same bases as fy.* (consolidated; LDR and LAR bank only). Interim LAR is OJK's new 'Kredit Kualitas Rendah' row (see note). The prior-period balances (loans/deposits 30 Sep 2025) are as originally reported, i.e. before the 2026 scope change; the effect is about 0.2% (see notes). Profit 9M2026 956.855 vs 989.387 (-3.3% YoY).",
+        "SELF-CHECK: eps x 76,215,195,821 vs net_profit_attr: 2020 +0.028%, 2021 -0.015%, 2022 -0.008%, 2023 -0.021%, 2024 -0.015%, 2025 +0.019%. DPS x shares vs total: all within 0.01%. profit x payout vs total: all within 0.01% (FY2021 uses the original profit). No validation_ack needed.",
+        "KBMI 3 per AR2025 (POJK 12/POJK.03/2021). Sharia: Maybank Indonesia is a conventional bank with a sharia business unit (UUS; sharia financing = 29.2% of bank-only financing at Sep 2026 per the 9M2026 press release). Group loans/financing include the UUS, so sharia=false and there are no label_overrides."
+    ],
+    "validation_ack": [
+        {
+            "check": "price_year_end:2020",
+            "reason": "Maybank Indonesia AR2020 (PDF p. 36, Share Highlights) prints Q4-2020 high 340 / low 202 / close 318 and a market cap of 318 x 76,215,195,821 shares; that close equals the 23 Dec 2020 session in the price source, which then shows sessions on 28-30 Dec 2020 trading up to Rp416 (above the AR Q4 high) and closing the year at Rp346. The AR table appears to stop at 23 Dec 2020. Neither source is edited: fundamentals keep the AR figure, prices/BNII.json keeps the price source bars."
+        }
+    ]
+}
