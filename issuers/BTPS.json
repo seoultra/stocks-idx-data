@@ -1,0 +1,1599 @@
+{
+    "schema": 1,
+    "code": "BTPS",
+    "name": "PT Bank BTPN Syariah Tbk",
+    "name_short": "BTPN Syariah",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": true,
+    "website": "https://www.btpnsyariah.com",
+    "ir_url": "https://www.btpnsyariah.com/info-investor",
+    "kbmi": {
+        "v": 2,
+        "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 680, Kepatuhan section ('Dengan modal inti lebih dari Rp 9 triliun, BTPN Syariah tergolong dalam Kelompok Bank Modal Inti 2 (KBMI 2), sesuai dengan POJK Nomor 12/POJK.03/2021'); also PDF p. 190 (MD&A)",
+        "note": "KBMI 2 = core capital Rp6tn-Rp14tn. Classified KBMI 2 since Oct 2021 (3Q2026 deck p. 2)."
+    },
+    "label_overrides": {
+        "npl_gross": "NPF gross",
+        "npl_net": "NPF net",
+        "ldr": "FDR",
+        "nim": "NI (Net Imbalan)",
+        "loans_gross": "Gross financing (pembiayaan)",
+        "deposits": "Third-party funds (DPK: wadiah deposits + temporary syirkah funds)",
+        "coc": "Net financing loss / cost of financing",
+        "npl_coverage": "CKPN/NPF",
+        "lar": "PKR (Pembiayaan Kualitas Rendah)"
+    },
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 15383.038,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 4, consolidated statement of financial position, 'Jumlah aset' (2019 comparative)",
+                "basis": "consolidated",
+                "note": "BTPS stand-alone (no subsidiary until PT BTPN Syariah Ventura in 2021)."
+            },
+            "loans_gross": {
+                "v": 8999.574,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 4, statement of financial position (2019 comparative): 'Piutang murabahah - pihak ketiga' + 'Pinjaman qardh' + 'Pembiayaan musyarakah'",
+                "basis": "consolidated",
+                "note": "Sum of the gross financing lines on the FS face (before allowance): murabahah 8,969,565 + qardh 880 + musyarakah 29,129 (Rp juta). The FS2020 fair-value note (PDF p. 86, 2019 table) prints the same total (8,999,574) and the FY2020 deck p. 5 shows Dec-19 'Financing (gross)' 9,000 bn."
+            },
+            "deposits": {
+                "v": 9446.549,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/1737355345001-449330659-(2020).pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 99 (2019 comparative), Analisis dan Pembahasan Manajemen, financial-position table, 'Simpanan Nasabah dan Dana Syirkah Temporer'",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) as BTPS defines them: wadiah customer deposits 1,895,885 + temporary syirkah funds (mudharabah savings and time deposits, all non-bank) 7,550,664 (Rp juta, FS face). FDR is computed on this total."
+            },
+            "equity_attr": {
+                "v": 5393.32,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, 'Jumlah ekuitas' (2019 comparative)",
+                "basis": "consolidated",
+                "note": "No subsidiary and no non-controlling interest, so equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 5393.32,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, consolidated statement of financial position, 'Jumlah ekuitas' (2019 comparative)",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 854.614,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, consolidated statement of profit or loss, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated",
+                "note": "No subsidiary in 2020; all profit attributable to owners."
+            },
+            "eps": {
+                "v": 111,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Laba bersih per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic = diluted. No split/bonus/rights since the May 2018 IPO; weighted shares differ from 7,703,700,000 only by treasury shares."
+            },
+            "payout_ratio": {
+                "v": 30,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 149, Profil Perusahaan - Pembagian Dividen di BTPN Syariah",
+                "basis": "consolidated",
+                "note": "AR2025 states the FY2020 payout as 'maksimal 30%' (maximum 30%); the AGMS of 21 Apr 2021 approved Rp254,152,892,400 = Rp33/share of FY2020 net profit Rp854,614,061,894."
+            },
+            "total_assets": {
+                "v": 16435.005,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4, consolidated statement of financial position, 'Jumlah aset'",
+                "basis": "consolidated",
+                "note": "BTPS stand-alone (no subsidiary until PT BTPN Syariah Ventura in 2021)."
+            },
+            "loans_gross": {
+                "v": 9522.866,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4, statement of financial position: 'Piutang murabahah - pihak ketiga' + 'Pinjaman qardh' + 'Pembiayaan musyarakah'",
+                "basis": "consolidated",
+                "note": "Sum of the gross financing lines on the FS face (before allowance): murabahah 9,514,196 + qardh 355 + musyarakah 8,315 (Rp juta). The FS2020 fair-value note (PDF p. 86, Level 3 column) prints the same total (9,522,866) and the FY2020 deck p. 5 shows 'Financing (gross)' 9,523 bn."
+            },
+            "deposits": {
+                "v": 9780.481,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/1737355345001-449330659-(2020).pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 99, Analisis dan Pembahasan Manajemen, financial-position table, 'Simpanan Nasabah dan Dana Syirkah Temporer'",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) as BTPS defines them: wadiah customer deposits 1,857,115 + temporary syirkah funds (mudharabah savings and time deposits, all non-bank) 7,923,366 (Rp juta, FS face). FDR is computed on this total."
+            },
+            "equity_attr": {
+                "v": 5878.749,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, 'Jumlah ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiary and no non-controlling interest, so equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 5878.749,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, consolidated statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 7701200000,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67934459b842de8f66acae42/view?ownerType=page&ownerId=672b483d55dfa257f697b7ef&itemId=672b483d55dfa257f697b7f2",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 70, Note 'Modal saham' (shareholder composition)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid 7,703,700,000 less 2,500,000 treasury shares (2019 buyback, distributed to directors as variable remuneration in yearly tranches from Jan 2021)."
+            },
+            "year_end_price": {
+                "v": 3750,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/1737355345001-449330659-(2020).pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14, Ikhtisar Saham, monthly share-price table, Desember 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "December closing price as printed (last IDX session of the year); the AR does not print the session date. No split since IPO."
+            },
+            "roe": {
+                "v": 16.08,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370dc166d3afeaebac4023/view?ownerType=financial-report&ownerId=67370dc4df0b4a7dcda9edb6",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page published report (31 Dec 2020), 'Laporan Rasio Keuangan' table, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average core capital), bank only. The AR's consolidated ratio table (AR2024 pp. 21-22) prints 16.08%."
+            },
+            "roa": {
+                "v": 7.16,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370dc166d3afeaebac4023/view?ownerType=financial-report&ownerId=67370dc4df0b4a7dcda9edb6",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page published report (31 Dec 2020), 'Laporan Rasio Keuangan' table, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), bank only. AR consolidated: 7.16%."
+            },
+            "nim": {
+                "v": 24.76,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370dc166d3afeaebac4023/view?ownerType=financial-report&ownerId=67370dc4df0b4a7dcda9edb6",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page published report (31 Dec 2020), 'Laporan Rasio Keuangan' table, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Sharia NIM equivalent: Net Imbalan = net revenue from fund distribution after third-party profit-sharing / average earning assets (OJK). Real value above the validator's 15% bound - BTPS lends to ultra-micro women groups at high margins. The same report also prints Net Operating Margin (NOM) 7.68% (after operating expenses and provisions; NOT a NIM). Neither ratio is in the AR."
+            },
+            "coc": {
+                "v": 9.4,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/BTPNS_CORPRES_Analyst%2BBriefing%2BFY%2B2020_web_.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, 'FY 2020 Key Ratios', 'Cost of Financing' FY'20",
+                "basis": "bank_only",
+                "note": "Labelled 'Cost of Financing'; COVID-19 year (2Q20 13.0%, 3Q20 17.0%). BTPS had no subsidiary in 2020, so bank = group."
+            },
+            "npl_gross": {
+                "v": 1.91,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370dc166d3afeaebac4023/view?ownerType=financial-report&ownerId=67370dc4df0b4a7dcda9edb6",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page published report (31 Dec 2020), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) gross'",
+                "basis": "bank_only",
+                "note": "NPF gross (sharia NPL). Same value in the AR's consolidated table."
+            },
+            "npl_net": {
+                "v": 0.02,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370dc166d3afeaebac4023/view?ownerType=financial-report&ownerId=67370dc4df0b4a7dcda9edb6",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page published report (31 Dec 2020), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in AR2020-AR2025 (ratio tables and MD&A), the FY analyst decks or the Q4 published reports. The OJK 'Pembiayaan Kualitas Rendah (PKR)' ratio first appears in the 2026 published-report template (used for the interim)."
+            },
+            "npl_coverage": {
+                "v": 466.53,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67fcfe5f743568ccc846d6d4/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 21, Ikhtisar Keuangan - Rasio Keuangan, 'CKPN/NPF'",
+                "basis": "consolidated",
+                "note": "Allowance for impairment on financing / NPF. The AR ratio table is consolidated (its KPMM equals the decks' consolidated CAR); the financing book is entirely the bank's."
+            },
+            "ldr": {
+                "v": 97.37,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370dc166d3afeaebac4023/view?ownerType=financial-report&ownerId=67370dc4df0b4a7dcda9edb6",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page published report (31 Dec 2020), 'Laporan Rasio Keuangan' table, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR (sharia LDR), bank only. AR consolidated: 97.37%."
+            },
+            "car": {
+                "v": 49.44,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370dc166d3afeaebac4023/view?ownerType=financial-report&ownerId=67370dc4df0b4a7dcda9edb6",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page published report (31 Dec 2020), 'Laporan Rasio Keuangan' table, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM incl. credit, market and operational risk, bank only. AR consolidated: 49.44%."
+            },
+            "cir": {
+                "v": 44.68,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370dc166d3afeaebac4023/view?ownerType=financial-report&ownerId=67370dc4df0b4a7dcda9edb6",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page published report (31 Dec 2020), 'Laporan Rasio Keuangan' table, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 44.68%."
+            },
+            "bopo": {
+                "v": 72.42,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370dc166d3afeaebac4023/view?ownerType=financial-report&ownerId=67370dc4df0b4a7dcda9edb6",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page published report (31 Dec 2020), 'Laporan Rasio Keuangan' table, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 74.42%. AR2024 prints 74.42% for 2020, while the FY2020 Q4 report, AR2020-era decks (72.4%) and the FY2021 report comparative all show 72.42% - the AR2024 figure looks like a typo."
+            },
+            "casa": {
+                "v": 20.7,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/1737355345001-449330659-(2020).pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 99, MD&A ('Struktur pendanaan ... per 31 Desember 2020 terdiri dari Deposito sebesar 79,3%, serta Giro dan Tabungan (CASA) sebesar 20,7%')",
+                "basis": "consolidated",
+                "note": "CASA = wadiah current accounts + wadiah and mudharabah savings, as a share of third-party funds (DPK)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 1465.005,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/12.%2BMateri%2BRapat%2B-%2BLaporan%2BKeuangan%2BKonsolidasi%2BTahun%2B2021%2B%2528Audited%2529.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, consolidated statement of profit or loss, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated",
+                "note": "FY2021 statement prints no NCI share of profit; the FY2022 FS comparative shows owners of the parent 1,465,005."
+            },
+            "eps": {
+                "v": 190,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/12.%2BMateri%2BRapat%2B-%2BLaporan%2BKeuangan%2BKonsolidasi%2BTahun%2B2021%2B%2528Audited%2529.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, 'Laba bersih per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic = diluted. No split/bonus/rights since the May 2018 IPO; weighted shares differ from 7,703,700,000 only by treasury shares."
+            },
+            "payout_ratio": {
+                "v": 32.5,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 149, Profil Perusahaan - Pembagian Dividen di BTPN Syariah",
+                "basis": "consolidated",
+                "note": "AGMS 21 Apr 2022: Rp475,625,176,000 = Rp61.75/share of FY2021 net profit Rp1,465,003,529,173."
+            },
+            "total_assets": {
+                "v": 18543.856,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/12.%2BMateri%2BRapat%2B-%2BLaporan%2BKeuangan%2BKonsolidasi%2BTahun%2B2021%2B%2528Audited%2529.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 4, consolidated statement of financial position, 'Jumlah aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 10443.469,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/12.%2BMateri%2BRapat%2B-%2BLaporan%2BKeuangan%2BKonsolidasi%2BTahun%2B2021%2B%2528Audited%2529.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 4, statement of financial position: 'Piutang murabahah - pihak ketiga' + 'Pinjaman qardh' + 'Pembiayaan musyarakah'",
+                "basis": "consolidated",
+                "note": "Sum of the gross financing lines on the FS face (before allowance): murabahah 10,433,091 + qardh 106 + musyarakah 10,272 (Rp juta). AR2025 p. 20 prints 'Total Pembiayaan' 2021 as 10.433.469, which does not add up to these components (looks like a typo: 10,443,469 is the sum, and the FY2021 deck p. 5 shows 'Financing (gross)' 10,443 bn)."
+            },
+            "deposits": {
+                "v": 10973.46,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/678dd9f5a1bdfade5c547d13/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 66, Analisis dan Pembahasan Manajemen, financial-position table, 'Simpanan Nasabah dan Dana Syirkah Temporer'",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) as BTPS defines them: wadiah customer deposits 2,067,557 + temporary syirkah funds (mudharabah savings and time deposits, all non-bank) 8,905,903 (Rp juta, FS face). FDR is computed on this total."
+            },
+            "equity_attr": {
+                "v": 7094.7,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370b1f66d3afeaebac3ff7/view?ownerType=financial-report&ownerId=67370b27df0b4a7dcda9ed80",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page published report, Laporan Posisi Keuangan, KONSOLIDASI column, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "Audited FS total equity 7,094,900 less non-controlling interest 200 (Rp juta); the FS itself prints no attributable subtotal."
+            },
+            "total_equity": {
+                "v": 7094.9,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/12.%2BMateri%2BRapat%2B-%2BLaporan%2BKeuangan%2BKonsolidasi%2BTahun%2B2021%2B%2528Audited%2529.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, consolidated statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interest 200 (Rp juta)."
+            },
+            "shares_out": {
+                "v": 7701602800,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/12.%2BMateri%2BRapat%2B-%2BLaporan%2BKeuangan%2BKonsolidasi%2BTahun%2B2021%2B%2528Audited%2529.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 69, Note 'Modal saham' (shareholder composition)",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid 7,703,700,000 less 2,097,200 treasury shares (2019 buyback, distributed to directors as variable remuneration in yearly tranches from Jan 2021)."
+            },
+            "year_end_price": {
+                "v": 3580,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/678dd9f5a1bdfade5c547d13/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Ikhtisar Saham, monthly share-price table, Desember 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "December closing price as printed (last IDX session of the year); the AR does not print the session date. No split since IPO."
+            },
+            "roe": {
+                "v": 23.67,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370b1f66d3afeaebac3ff7/view?ownerType=financial-report&ownerId=67370b27df0b4a7dcda9ed80",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page published report (31 Dec 2021), 'Laporan Rasio Keuangan' table, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average core capital), bank only. The AR's consolidated ratio table (AR2025 pp. 20-21) prints 23.67%."
+            },
+            "roa": {
+                "v": 10.72,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370b1f66d3afeaebac3ff7/view?ownerType=financial-report&ownerId=67370b27df0b4a7dcda9ed80",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page published report (31 Dec 2021), 'Laporan Rasio Keuangan' table, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), bank only. AR consolidated: 10.72%."
+            },
+            "nim": {
+                "v": 26.57,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370b1f66d3afeaebac3ff7/view?ownerType=financial-report&ownerId=67370b27df0b4a7dcda9ed80",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page published report (31 Dec 2021), 'Laporan Rasio Keuangan' table, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Sharia NIM equivalent: Net Imbalan = net revenue from fund distribution after third-party profit-sharing / average earning assets (OJK). Real value above the validator's 15% bound - BTPS lends to ultra-micro women groups at high margins. The same report also prints Net Operating Margin (NOM) 11.54% (after operating expenses and provisions; NOT a NIM). Neither ratio is in the AR."
+            },
+            "coc": {
+                "v": 7.3,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/BTPNS_CORPRES_Analyst%2BBriefing%2BFY%2B2021_webrf.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'FY 2021 Ratios - Bank Only', 'Cost of Financing' FY'21",
+                "basis": "bank_only",
+                "note": "Labelled 'Cost of Financing' in the FY2021 deck; the FY2022 deck restates FY'21 as 'Net-Financing Loss' 7.2%."
+            },
+            "npl_gross": {
+                "v": 2.37,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370b1f66d3afeaebac3ff7/view?ownerType=financial-report&ownerId=67370b27df0b4a7dcda9ed80",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page published report (31 Dec 2021), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) gross'",
+                "basis": "bank_only",
+                "note": "NPF gross (sharia NPL). Same value in the AR's consolidated table."
+            },
+            "npl_net": {
+                "v": 0.18,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370b1f66d3afeaebac3ff7/view?ownerType=financial-report&ownerId=67370b27df0b4a7dcda9ed80",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page published report (31 Dec 2021), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in AR2020-AR2025 (ratio tables and MD&A), the FY analyst decks or the Q4 published reports. The OJK 'Pembiayaan Kualitas Rendah (PKR)' ratio first appears in the 2026 published-report template (used for the interim)."
+            },
+            "npl_coverage": {
+                "v": 282.8,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Ikhtisar Keuangan - Rasio Keuangan, 'CKPN/NPF'",
+                "basis": "consolidated",
+                "note": "Allowance for impairment on financing / NPF. The AR ratio table is consolidated (its KPMM equals the decks' consolidated CAR); the financing book is entirely the bank's."
+            },
+            "ldr": {
+                "v": 95,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370b1f66d3afeaebac3ff7/view?ownerType=financial-report&ownerId=67370b27df0b4a7dcda9ed80",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page published report (31 Dec 2021), 'Laporan Rasio Keuangan' table, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR (sharia LDR), bank only. AR consolidated: 95.17%."
+            },
+            "car": {
+                "v": 58.1,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370b1f66d3afeaebac3ff7/view?ownerType=financial-report&ownerId=67370b27df0b4a7dcda9ed80",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page published report (31 Dec 2021), 'Laporan Rasio Keuangan' table, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM incl. credit, market and operational risk, bank only. AR consolidated: 58.27%."
+            },
+            "cir": {
+                "v": 39.35,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370b1f66d3afeaebac3ff7/view?ownerType=financial-report&ownerId=67370b27df0b4a7dcda9ed80",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page published report (31 Dec 2021), 'Laporan Rasio Keuangan' table, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 39.35%."
+            },
+            "bopo": {
+                "v": 59.97,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370b1f66d3afeaebac3ff7/view?ownerType=financial-report&ownerId=67370b27df0b4a7dcda9ed80",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page published report (31 Dec 2021), 'Laporan Rasio Keuangan' table, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 59.97%."
+            },
+            "casa": {
+                "v": null,
+                "note": "not printed as a ratio in AR2021 or AR2022 (checked MD&A funding sections) or in the FY2021 deck; the FY2021 deck p. 5 prints only amounts (CASA 2,805 bn of third-party funds 10,994 bn, bank only)."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 1779.543,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/LKFS%2B2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 8, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 231,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/LKFS%2B2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 8, 'Laba bersih per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic = diluted. No split/bonus/rights since the May 2018 IPO; weighted shares differ from 7,703,700,000 only by treasury shares."
+            },
+            "payout_ratio": {
+                "v": 40,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 150, Profil Perusahaan - Pembagian Dividen di BTPN Syariah",
+                "basis": "consolidated",
+                "note": "AGMS 12 Apr 2023: Rp712,535,260,750 = Rp92.5/share of FY2022 net profit Rp1,779,542,863,537."
+            },
+            "total_assets": {
+                "v": 21161.976,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/LKFS%2B2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 4, consolidated statement of financial position, 'Jumlah aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 11527.463,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Ikhtisar Keuangan, 'Total Pembiayaan'",
+                "basis": "consolidated",
+                "note": "Gross financing before allowance. Equals the 2022 FS-face components: murabahah receivables net of deferred margin 11,463,672 + qardh 3,516 + mudharabah 0 + musyarakah 60,275 (Rp juta)."
+            },
+            "deposits": {
+                "v": 12048.529,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/678dd9a7a1bdfade5c547d0c/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 135, Analisis dan Pembahasan Manajemen, financial-position table, 'Simpanan Nasabah dan Dana Syirkah Temporer'",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) as BTPS defines them: wadiah customer deposits 2,205,268 + temporary syirkah funds (mudharabah savings and time deposits, all non-bank) 9,843,261 (Rp juta, FS face). FDR is computed on this total."
+            },
+            "equity_attr": {
+                "v": 8404.955,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370a4b66d3afeaebac3fe3/view?ownerType=financial-report&ownerId=67370a6666d3afeaebac3fe4",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report, Laporan Posisi Keuangan, KONSOLIDASI column, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "Audited FS total equity 8,407,995 less non-controlling interest 3,040 (Rp juta); the FS itself prints no attributable subtotal."
+            },
+            "total_equity": {
+                "v": 8407.995,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/LKFS%2B2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 6, consolidated statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interest 3,040 (Rp juta)."
+            },
+            "shares_out": {
+                "v": 7702432000,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/LKFS%2B2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 70, Note 'Modal saham' (shareholder composition)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid 7,703,700,000 less 1,268,000 treasury shares (2019 buyback, distributed to directors as variable remuneration in yearly tranches from Jan 2021)."
+            },
+            "year_end_price": {
+                "v": 2790,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/678dd9a7a1bdfade5c547d0c/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30, Ikhtisar Saham, monthly share-price table, Desember 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "December closing price as printed (last IDX session of the year); the AR does not print the session date. No split since IPO."
+            },
+            "roe": {
+                "v": 24.68,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370a4b66d3afeaebac3fe3/view?ownerType=financial-report&ownerId=67370a6666d3afeaebac3fe4",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report (31 Dec 2022), 'Laporan Rasio Keuangan' table, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average core capital), bank only. The AR's consolidated ratio table (AR2025 pp. 20-21) prints 24.21%."
+            },
+            "roa": {
+                "v": 11.36,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370a4b66d3afeaebac3fe3/view?ownerType=financial-report&ownerId=67370a6666d3afeaebac3fe4",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report (31 Dec 2022), 'Laporan Rasio Keuangan' table, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), bank only. AR consolidated: 11.43%."
+            },
+            "nim": {
+                "v": 27.32,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370a4b66d3afeaebac3fe3/view?ownerType=financial-report&ownerId=67370a6666d3afeaebac3fe4",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report (31 Dec 2022), 'Laporan Rasio Keuangan' table, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Sharia NIM equivalent: Net Imbalan = net revenue from fund distribution after third-party profit-sharing / average earning assets (OJK). Real value above the validator's 15% bound - BTPS lends to ultra-micro women groups at high margins. The same report also prints Net Operating Margin (NOM) 12.03% (after operating expenses and provisions; NOT a NIM). Neither ratio is in the AR."
+            },
+            "coc": {
+                "v": 8,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/BTPNS_CORPRES_Analyst%2BBriefing%2BFY%2B2022_webrv.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, 'FY 2022 Ratios', 'Net-Financing Loss' FY'22",
+                "basis": "consolidated",
+                "note": "Table carries '*Note: CAR FY'22 (Bank Only) 52%', so the table is consolidated."
+            },
+            "npl_gross": {
+                "v": 2.65,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370a4b66d3afeaebac3fe3/view?ownerType=financial-report&ownerId=67370a6666d3afeaebac3fe4",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report (31 Dec 2022), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) gross'",
+                "basis": "bank_only",
+                "note": "NPF gross (sharia NPL). Same value in the AR's consolidated table."
+            },
+            "npl_net": {
+                "v": 0.34,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370a4b66d3afeaebac3fe3/view?ownerType=financial-report&ownerId=67370a6666d3afeaebac3fe4",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report (31 Dec 2022), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in AR2020-AR2025 (ratio tables and MD&A), the FY analyst decks or the Q4 published reports. The OJK 'Pembiayaan Kualitas Rendah (PKR)' ratio first appears in the 2026 published-report template (used for the interim)."
+            },
+            "npl_coverage": {
+                "v": 251.84,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Ikhtisar Keuangan - Rasio Keuangan, 'CKPN/NPF'",
+                "basis": "consolidated",
+                "note": "Allowance for impairment on financing / NPF. The AR ratio table is consolidated (its KPMM equals the decks' consolidated CAR); the financing book is entirely the bank's."
+            },
+            "ldr": {
+                "v": 95.67,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370a4b66d3afeaebac3fe3/view?ownerType=financial-report&ownerId=67370a6666d3afeaebac3fe4",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report (31 Dec 2022), 'Laporan Rasio Keuangan' table, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR (sharia LDR), bank only. AR consolidated: 95.68%."
+            },
+            "car": {
+                "v": 52.05,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370a4b66d3afeaebac3fe3/view?ownerType=financial-report&ownerId=67370a6666d3afeaebac3fe4",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report (31 Dec 2022), 'Laporan Rasio Keuangan' table, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM incl. credit, market and operational risk, bank only. AR consolidated: 53.66%."
+            },
+            "cir": {
+                "v": 36.71,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370a4b66d3afeaebac3fe3/view?ownerType=financial-report&ownerId=67370a6666d3afeaebac3fe4",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report (31 Dec 2022), 'Laporan Rasio Keuangan' table, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 36.71%."
+            },
+            "bopo": {
+                "v": 58.13,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67370a4b66d3afeaebac3fe3/view?ownerType=financial-report&ownerId=67370a6666d3afeaebac3fe4",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report (31 Dec 2022), 'Laporan Rasio Keuangan' table, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 58.12%."
+            },
+            "casa": {
+                "v": null,
+                "note": "not printed as a ratio in AR2022 or AR2023 (checked MD&A funding sections) or in the FY2022 deck; the FY2022 deck p. 5 prints only amounts (CASA 2,969 bn of third-party funds 12,049 bn, bank only)."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 1080.499,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/673d69ee31750a48ab2956da/view?ownerType=financial-report&ownerId=673d6a1c5f14b5c9bd860f77",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 8, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 140,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/673d69ee31750a48ab2956da/view?ownerType=financial-report&ownerId=673d6a1c5f14b5c9bd860f77",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 8, 'Laba bersih per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic = diluted. No split/bonus/rights since the May 2018 IPO; weighted shares differ from 7,703,700,000 only by treasury shares."
+            },
+            "payout_ratio": {
+                "v": 50,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 150, Profil Perusahaan - Pembagian Dividen di BTPN Syariah",
+                "basis": "consolidated",
+                "note": "AGMS 20 Mar 2024: Rp540,397,350,713 = Rp70.15/share of FY2023 net profit Rp1,080,498,892,729."
+            },
+            "total_assets": {
+                "v": 21435.366,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/673d69ee31750a48ab2956da/view?ownerType=financial-report&ownerId=673d6a1c5f14b5c9bd860f77",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 4, consolidated statement of financial position, 'Jumlah aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 11387.861,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Ikhtisar Keuangan, 'Total Pembiayaan'",
+                "basis": "consolidated",
+                "note": "Gross financing before allowance. Equals the 2023 FS-face components: murabahah receivables net of deferred margin 11,367,662 + qardh 530 + mudharabah 0 + musyarakah 19,669 (Rp juta)."
+            },
+            "deposits": {
+                "v": 12142.817,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/678dd955a1bdfade5c547d01/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 122, Analisis dan Pembahasan Manajemen, financial-position table, 'Simpanan Nasabah dan Dana Syirkah Temporer'",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) as BTPS defines them: wadiah customer deposits 2,221,997 + temporary syirkah funds (mudharabah savings and time deposits, all non-bank) 9,920,820 (Rp juta, FS face). FDR is computed on this total."
+            },
+            "equity_attr": {
+                "v": 8774.004,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6736b57e5acdbf327329e27f/view?ownerType=financial-report&ownerId=6736b58282825a71acd861d6",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report, Laporan Posisi Keuangan, KONSOLIDASI column, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "Audited FS total equity 8,777,133 less non-controlling interest 3,129 (Rp juta); the FS itself prints no attributable subtotal."
+            },
+            "total_equity": {
+                "v": 8777.133,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/673d69ee31750a48ab2956da/view?ownerType=financial-report&ownerId=673d6a1c5f14b5c9bd860f77",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 6, consolidated statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interest 3,129 (Rp juta)."
+            },
+            "shares_out": {
+                "v": 7703083900,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/673d69ee31750a48ab2956da/view?ownerType=financial-report&ownerId=673d6a1c5f14b5c9bd860f77",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 70, Note 'Modal saham' (shareholder composition)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid 7,703,700,000 less 616,100 treasury shares (2019 buyback, distributed to directors as variable remuneration in yearly tranches from Jan 2021)."
+            },
+            "year_end_price": {
+                "v": 1690,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/678dd955a1bdfade5c547d01/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 32, Ikhtisar Saham, monthly share-price table, Desember 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "December closing price as printed (last IDX session of the year); the AR does not print the session date. No split since IPO."
+            },
+            "roe": {
+                "v": 13.63,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6736b57e5acdbf327329e27f/view?ownerType=financial-report&ownerId=6736b58282825a71acd861d6",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report (31 Dec 2023), 'Laporan Rasio Keuangan' table, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average core capital), bank only. The AR's consolidated ratio table (AR2025 pp. 20-21) prints 13.22%."
+            },
+            "roa": {
+                "v": 6.3,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6736b57e5acdbf327329e27f/view?ownerType=financial-report&ownerId=6736b58282825a71acd861d6",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report (31 Dec 2023), 'Laporan Rasio Keuangan' table, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), bank only. AR consolidated: 6.34%."
+            },
+            "nim": {
+                "v": 26,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6736b57e5acdbf327329e27f/view?ownerType=financial-report&ownerId=6736b58282825a71acd861d6",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report (31 Dec 2023), 'Laporan Rasio Keuangan' table, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Sharia NIM equivalent: Net Imbalan = net revenue from fund distribution after third-party profit-sharing / average earning assets (OJK). Real value above the validator's 15% bound - BTPS lends to ultra-micro women groups at high margins. The same report also prints Net Operating Margin (NOM) 6.49% (after operating expenses and provisions; NOT a NIM). Neither ratio is in the AR."
+            },
+            "coc": {
+                "v": 15.5,
+                "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/BTPNS_CORPRES_Analyst%2BBriefing%2BFY%2B2023_web.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 6, 'FY 2023 Ratios', 'Net-Financing Loss' FY'23 (image slide)",
+                "basis": "consolidated",
+                "note": "Real value, above the validator's 10% plausibility bound: 2023 credit-quality stress in BTPS's ultra-micro book (quarterly 7.7% / 13.6% / 16.9% / 24.1%). Same 15.5% shown as FY'23 comparative in the FY2024 deck."
+            },
+            "npl_gross": {
+                "v": 2.94,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6736b57e5acdbf327329e27f/view?ownerType=financial-report&ownerId=6736b58282825a71acd861d6",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report (31 Dec 2023), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) gross'",
+                "basis": "bank_only",
+                "note": "NPF gross (sharia NPL). Same value in the AR's consolidated table."
+            },
+            "npl_net": {
+                "v": 0.29,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6736b57e5acdbf327329e27f/view?ownerType=financial-report&ownerId=6736b58282825a71acd861d6",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report (31 Dec 2023), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in AR2020-AR2025 (ratio tables and MD&A), the FY analyst decks or the Q4 published reports. The OJK 'Pembiayaan Kualitas Rendah (PKR)' ratio first appears in the 2026 published-report template (used for the interim)."
+            },
+            "npl_coverage": {
+                "v": 362.89,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Ikhtisar Keuangan - Rasio Keuangan, 'CKPN/NPF'",
+                "basis": "consolidated",
+                "note": "Allowance for impairment on financing / NPF. The AR ratio table is consolidated (its KPMM equals the decks' consolidated CAR); the financing book is entirely the bank's."
+            },
+            "ldr": {
+                "v": 93.78,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6736b57e5acdbf327329e27f/view?ownerType=financial-report&ownerId=6736b58282825a71acd861d6",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report (31 Dec 2023), 'Laporan Rasio Keuangan' table, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR (sharia LDR), bank only. AR consolidated: 93.78%."
+            },
+            "car": {
+                "v": 50.04,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6736b57e5acdbf327329e27f/view?ownerType=financial-report&ownerId=6736b58282825a71acd861d6",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report (31 Dec 2023), 'Laporan Rasio Keuangan' table, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM incl. credit, market and operational risk, bank only. AR consolidated: 51.6%."
+            },
+            "cir": {
+                "v": 38.43,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6736b57e5acdbf327329e27f/view?ownerType=financial-report&ownerId=6736b58282825a71acd861d6",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report (31 Dec 2023), 'Laporan Rasio Keuangan' table, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 38.38%."
+            },
+            "bopo": {
+                "v": 76.35,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6736b57e5acdbf327329e27f/view?ownerType=financial-report&ownerId=6736b58282825a71acd861d6",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report (31 Dec 2023), 'Laporan Rasio Keuangan' table, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 76.24%."
+            },
+            "casa": {
+                "v": 25.6,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/678dd955a1bdfade5c547d01/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 53, ('CASA Ratio yang terjaga pada level 25,6%')",
+                "basis": "consolidated",
+                "note": "CASA = wadiah current accounts + wadiah and mudharabah savings, as a share of third-party funds (DPK)."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 1061.276,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67dd48aa4ec130c12f6860e7/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 8, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 138,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67dd48aa4ec130c12f6860e7/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 8, 'Laba bersih per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic = diluted. No split/bonus/rights since the May 2018 IPO; weighted shares differ from 7,703,700,000 only by treasury shares."
+            },
+            "payout_ratio": {
+                "v": 25,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 151 (also p. 32, 'Pay Out Ratio atas Pembagian Dividen Tunai di tahun 2025 ... adalah 25%'), Profil Perusahaan - Pembagian Dividen di BTPN Syariah",
+                "basis": "consolidated",
+                "note": "AGMS 17 Apr 2025: Rp265,777,650,000 = Rp34.5/share of FY2024 net profit Rp1,061,275,721,202."
+            },
+            "total_assets": {
+                "v": 21747.58,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67dd48aa4ec130c12f6860e7/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 4, consolidated statement of financial position, 'Jumlah aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 10171.759,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Ikhtisar Keuangan, 'Total Pembiayaan'",
+                "basis": "consolidated",
+                "note": "Gross financing before allowance. Equals the 2024 FS-face components: murabahah receivables net of deferred margin 9,641,128 + qardh 64 + mudharabah 0 + musyarakah 530,567 (Rp juta)."
+            },
+            "deposits": {
+                "v": 11724.433,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67fcfe5f743568ccc846d6d4/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 148, Analisis dan Pembahasan Manajemen, financial-position table, 'Simpanan Nasabah dan Dana Syirkah Temporer'",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) as BTPS defines them: wadiah customer deposits 2,125,081 + temporary syirkah funds (mudharabah savings and time deposits, all non-bank) 9,599,352 (Rp juta, FS face). FDR is computed on this total."
+            },
+            "equity_attr": {
+                "v": 9313.581,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b0b5c7c59d95e071ea5d09/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published report, Laporan Posisi Keuangan, KONSOLIDASI column, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "Audited FS total equity 9,316,594 less non-controlling interest 3,013 (Rp juta); the FS itself prints no attributable subtotal."
+            },
+            "total_equity": {
+                "v": 9316.594,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67dd48aa4ec130c12f6860e7/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 6, consolidated statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interest 3,013 (Rp juta)."
+            },
+            "shares_out": {
+                "v": 7703457000,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67dd48aa4ec130c12f6860e7/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 67, Note 'Modal saham' (shareholder composition)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid 7,703,700,000 less 243,000 treasury shares (2019 buyback, distributed to directors as variable remuneration in yearly tranches from Jan 2021)."
+            },
+            "year_end_price": {
+                "v": 925,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67fcfe5f743568ccc846d6d4/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 24, Ikhtisar Saham, monthly share-price table, Desember 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "December closing price as printed (last IDX session of the year); the AR does not print the session date. No split since IPO."
+            },
+            "roe": {
+                "v": 13.28,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b0b5c7c59d95e071ea5d09/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published report (31 Dec 2024), 'Laporan Rasio Keuangan' table, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average core capital), bank only. The AR's consolidated ratio table (AR2025 pp. 20-21) prints 12.63%."
+            },
+            "roa": {
+                "v": 6.42,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b0b5c7c59d95e071ea5d09/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published report (31 Dec 2024), 'Laporan Rasio Keuangan' table, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), bank only. AR consolidated: 6.33%."
+            },
+            "nim": {
+                "v": 24.3,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b0b5c7c59d95e071ea5d09/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published report (31 Dec 2024), 'Laporan Rasio Keuangan' table, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Sharia NIM equivalent: Net Imbalan = net revenue from fund distribution after third-party profit-sharing / average earning assets (OJK). Real value above the validator's 15% bound - BTPS lends to ultra-micro women groups at high margins. The same report also prints Net Operating Margin (NOM) 6.46% (after operating expenses and provisions; NOT a NIM). Neither ratio is in the AR."
+            },
+            "coc": {
+                "v": 12.2,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b45995ba1437a0d5b53abf/view?ownerType=page&ownerId=672b3d5a3b2595b8d602b18b&itemId=672b3d5a3b2595b8d602b18c",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 6, 'FY 2024 Ratios', 'Net-Financing Loss' FY'24 (image slide)",
+                "basis": "consolidated",
+                "note": "Real value, above the validator's 10% plausibility bound: ultra-micro financing to women groups with high margins and high write-offs (NPF peaked at 3.75%). Same 12.2% shown as FY'24 comparative in the FY2025 deck."
+            },
+            "npl_gross": {
+                "v": 3.75,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b0b5c7c59d95e071ea5d09/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published report (31 Dec 2024), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) gross'",
+                "basis": "bank_only",
+                "note": "NPF gross (sharia NPL). Same value in the AR's consolidated table."
+            },
+            "npl_net": {
+                "v": 0.03,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b0b5c7c59d95e071ea5d09/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published report (31 Dec 2024), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in AR2020-AR2025 (ratio tables and MD&A), the FY analyst decks or the Q4 published reports. The OJK 'Pembiayaan Kualitas Rendah (PKR)' ratio first appears in the 2026 published-report template (used for the interim)."
+            },
+            "npl_coverage": {
+                "v": 242.31,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Ikhtisar Keuangan - Rasio Keuangan, 'CKPN/NPF'",
+                "basis": "consolidated",
+                "note": "Allowance for impairment on financing / NPF. The AR ratio table is consolidated (its KPMM equals the decks' consolidated CAR); the financing book is entirely the bank's."
+            },
+            "ldr": {
+                "v": 86.75,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b0b5c7c59d95e071ea5d09/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published report (31 Dec 2024), 'Laporan Rasio Keuangan' table, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR (sharia LDR), bank only. AR consolidated: 86.76%."
+            },
+            "car": {
+                "v": 51.71,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b0b5c7c59d95e071ea5d09/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published report (31 Dec 2024), 'Laporan Rasio Keuangan' table, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM incl. credit, market and operational risk, bank only. AR consolidated: 53.16%."
+            },
+            "cir": {
+                "v": 44.92,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b0b5c7c59d95e071ea5d09/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published report (31 Dec 2024), 'Laporan Rasio Keuangan' table, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 45.48%."
+            },
+            "bopo": {
+                "v": 74.93,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67b0b5c7c59d95e071ea5d09/view?ownerType=financial-report&ownerId=67248095b6db1438bd8af37d",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published report (31 Dec 2024), 'Laporan Rasio Keuangan' table, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 75.37%."
+            },
+            "casa": {
+                "v": 26.5,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/67fcfe5f743568ccc846d6d4/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 142, ('proporsi produk CASA ... terhadap total produk pendanaan mencapai 26,5%, meningkat dari tahun sebelumnya sebesar 25,6%')",
+                "basis": "consolidated",
+                "note": "CASA = wadiah current accounts + wadiah and mudharabah savings, as a share of third-party funds (DPK)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 1201.231,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bc47e950c467bc2fcae9b/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 8, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 156,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bc47e950c467bc2fcae9b/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 8, 'Laba bersih per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic = diluted. No split/bonus/rights since the May 2018 IPO; weighted shares differ from 7,703,700,000 only by treasury shares."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "BTPS did not state a FY2025 payout percentage (checked: AR2025 dividend section pp. 32-34 and 148-151 - it gives only the 32% interim ratio on 9M2025 profit; Ringkasan Risalah RUPST 16 Apr 2026; public-expose and 3Q2026 materials). The AGMS of 16 Apr 2026 approved total FY2025 cash dividends of Rp660,207,090,000 (Rp85.70/share, incl. the Rp39.50 interim) out of net profit Rp1,200,730,335,339 - the ratio is not stored because it is not printed; news reports '~55%' as its own calculation (emitennews.com 2026-04-17)."
+            },
+            "total_assets": {
+                "v": 22751.076,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bc47e950c467bc2fcae9b/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 4, consolidated statement of financial position, 'Jumlah aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 10352.755,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Ikhtisar Keuangan, 'Total Pembiayaan'",
+                "basis": "consolidated",
+                "note": "Gross financing before allowance. Equals the 2025 FS-face components: murabahah receivables net of deferred margin 9,189,373 + qardh 97 + mudharabah 200,000 + musyarakah 963,285 (Rp juta)."
+            },
+            "deposits": {
+                "v": 12209.337,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 184, Analisis dan Pembahasan Manajemen, financial-position table, 'Simpanan Nasabah dan Dana Syirkah Temporer'",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) as BTPS defines them: wadiah customer deposits 2,279,586 + temporary syirkah funds (mudharabah savings and time deposits, all non-bank) 9,929,751 (Rp juta, FS face). FDR is computed on this total."
+            },
+            "equity_attr": {
+                "v": 9959,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bf9c516435cae549ecc46/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published report, Laporan Posisi Keuangan, KONSOLIDASI column, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "Audited FS total equity 9,961,512 less non-controlling interest 2,512 (Rp juta); the FS itself prints no attributable subtotal."
+            },
+            "total_equity": {
+                "v": 9961.512,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bc47e950c467bc2fcae9b/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, consolidated statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interest 2,512 (Rp juta)."
+            },
+            "shares_out": {
+                "v": 7703700000,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bc47e950c467bc2fcae9b/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 68, Note 'Modal saham' (shareholder composition)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid 7,703,700,000; no treasury shares at 31 Dec 2025 (the last 57,000 were distributed in Jan 2025)."
+            },
+            "year_end_price": {
+                "v": 1205,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23, Ikhtisar Saham, monthly share-price table, Desember 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "December closing price as printed (last IDX session of the year); the AR does not print the session date. No split since IPO."
+            },
+            "roe": {
+                "v": 13.92,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bf9c516435cae549ecc46/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published report (31 Dec 2025), 'Laporan Rasio Keuangan' table, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average core capital), bank only. The AR's consolidated ratio table (AR2025 pp. 20-21) prints 12.96%."
+            },
+            "roa": {
+                "v": 7.34,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bf9c516435cae549ecc46/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published report (31 Dec 2025), 'Laporan Rasio Keuangan' table, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), bank only. AR consolidated: 7.15%."
+            },
+            "nim": {
+                "v": 22.71,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bf9c516435cae549ecc46/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published report (31 Dec 2025), 'Laporan Rasio Keuangan' table, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Sharia NIM equivalent: Net Imbalan = net revenue from fund distribution after third-party profit-sharing / average earning assets (OJK). Real value above the validator's 15% bound - BTPS lends to ultra-micro women groups at high margins. The same report also prints Net Operating Margin (NOM) 7.55% (after operating expenses and provisions; NOT a NIM). Neither ratio is in the AR."
+            },
+            "coc": {
+                "v": 8.3,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698c322dff279e7e5930aeb8/view?ownerType=page&ownerId=672b3d5a3b2595b8d602b18b&itemId=672b3d5a3b2595b8d602b18c",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, 'FY 2025 Ratios', 'Net-Financing Loss' FY'25 (slide is an image; read from the rendered page)",
+                "basis": "consolidated",
+                "note": "Net financing loss (provision net of recoveries) / financing. The ratio table is the consolidated one (its CAR 57.7% carries the footnote 'CAR FY'25 - Bank Only 56.2%'). The 3Q2026 deck (bank-only table) shows FY'25 at 7.8%."
+            },
+            "npl_gross": {
+                "v": 2.59,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bf9c516435cae549ecc46/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published report (31 Dec 2025), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) gross'",
+                "basis": "bank_only",
+                "note": "NPF gross (sharia NPL). Same value in the AR's consolidated table."
+            },
+            "npl_net": {
+                "v": 0.02,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bf9c516435cae549ecc46/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published report (31 Dec 2025), 'Laporan Rasio Keuangan' table, 'Non Performing Financing (NPF) net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed: no Loan-at-Risk ratio in AR2020-AR2025 (ratio tables and MD&A), the FY analyst decks or the Q4 published reports. The OJK 'Pembiayaan Kualitas Rendah (PKR)' ratio first appears in the 2026 published-report template (used for the interim)."
+            },
+            "npl_coverage": {
+                "v": 328.51,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Ikhtisar Keuangan - Rasio Keuangan, 'CKPN/NPF'",
+                "basis": "consolidated",
+                "note": "Allowance for impairment on financing / NPF. The AR ratio table is consolidated (its KPMM equals the decks' consolidated CAR); the financing book is entirely the bank's."
+            },
+            "ldr": {
+                "v": 84.79,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bf9c516435cae549ecc46/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published report (31 Dec 2025), 'Laporan Rasio Keuangan' table, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR (sharia LDR), bank only. AR consolidated: 84.79%."
+            },
+            "car": {
+                "v": 56.2,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bf9c516435cae549ecc46/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published report (31 Dec 2025), 'Laporan Rasio Keuangan' table, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM incl. credit, market and operational risk, bank only. AR consolidated: 57.74%."
+            },
+            "cir": {
+                "v": 48.81,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bf9c516435cae549ecc46/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published report (31 Dec 2025), 'Laporan Rasio Keuangan' table, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 48.82%."
+            },
+            "bopo": {
+                "v": 69.34,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/698bf9c516435cae549ecc46/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published report (31 Dec 2025), 'Laporan Rasio Keuangan' table, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR consolidated: 70.26%."
+            },
+            "casa": {
+                "v": 25.9,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e5ea12fdac4f65bf069943/view?ownerType=page&ownerId=672b3ec69ddaa62a781b0647&itemId=672b3ec69ddaa62a781b0648",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 175, MD&A funding ('komposisi CASA mencapai 25,9%')",
+                "basis": "consolidated",
+                "note": "CASA = wadiah current accounts + wadiah and mudharabah savings, as a share of third-party funds (DPK)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 33,
+            "total": 254.1528924,
+            "cum_date": "2021-04-29",
+            "ex_date": "2021-04-30",
+            "record_date": "2021-05-03",
+            "pay_date": "2021-05-20",
+            "share_basis": "2021-04-23",
+            "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/Jadwal%2Bdan%2BTata%2BCara%2BPembagian%2BDividen%2BTunai.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-04-23",
+            "loc": "p. 1-2, Ringkasan Risalah RUPST 21 Apr 2021, Mata Acara Kedua (penggunaan laba) and 'Jadwal dan Tata Cara Pembagian Dividen Tunai'",
+            "note": "Rp254,152,892,400 = Rp33/share of FY2020 net profit Rp854,614,061,894 (shares eligible 7,701,602,800 after the Jan 2021 treasury distribution). Same document is linked on /rapat-umum-pemegang-saham as 'Ringkasan Risalah' 2021."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 61.75,
+            "total": 475.625176,
+            "cum_date": "2022-05-09",
+            "ex_date": "2022-05-10",
+            "record_date": "2022-05-11",
+            "pay_date": "2022-05-20",
+            "share_basis": "2022-04-25",
+            "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/Ringkasan%2BRisalah%2BRapat%2BRUPST.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-04-25",
+            "loc": "p. 1, Ringkasan Risalah RUPST 21 Apr 2022, Mata Acara Kedua and dividend schedule",
+            "note": "Rp475,625,176,000 = Rp61.75/share; payout 32.5% (AR2025 p. 149)."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 92.5,
+            "total": 712.53526075,
+            "cum_date": "2023-04-27",
+            "ex_date": "2023-04-28",
+            "record_date": "2023-05-02",
+            "pay_date": "2023-05-12",
+            "share_basis": "2023-04-14",
+            "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/Revisi%2BRingkasan%2BRisalah%2BRapat%2BRUPST.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-04-14",
+            "loc": "pp. 1-2, Ringkasan Risalah RUPST 12 Apr 2023 (revised), Mata Acara Kedua and dividend schedule",
+            "note": "Rp712,535,260,750 = Rp92.5/share; payout 40% (AR2025 p. 150)."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 70.15,
+            "total": 540.397350713,
+            "cum_date": "2024-03-28",
+            "ex_date": "2024-04-01",
+            "record_date": "2024-04-02",
+            "pay_date": "2024-04-19",
+            "share_basis": "2024-03-22",
+            "source_url": "https://cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com/assets/Jadwal%2Bdan%2BTata%2BCara%2BDividen%2B2023.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-03-22",
+            "loc": "pp. 1-2, Ringkasan Risalah RUPST 20 Mar 2024, Mata Acara Kedua and 'Jadwal dan Tata Cara Pembagian Dividen Tunai'",
+            "note": "Rp540,397,350,713 = Rp70.15/share; payout 50% (AR2025 p. 150). Same document is linked on /rapat-umum-pemegang-saham as Ringkasan Risalah RUPST 2024."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 34.5,
+            "total": 265.77765,
+            "cum_date": "2025-04-28",
+            "ex_date": "2025-04-29",
+            "record_date": "2025-04-30",
+            "pay_date": "2025-05-16",
+            "share_basis": "2025-04-21",
+            "source_url": "https://www.btpnsyariah.com/api/media/pdf/6806646560b35b086ac72abc/view?ownerType=page&ownerId=672c6bfe2080e55879a9240b&itemId=672c6bfe2080e55879a9240e",
+            "source_type": "company_release",
+            "as_of_date": "2025-04-21",
+            "loc": "pp. 1-3, Ringkasan Risalah RUPST 17 Apr 2025, Mata Acara Kedua and 'Jadwal dan Tata Cara Pembagian Dividen Tunai Tahun 2025'",
+            "note": "Rp265,777,650,000 = Rp34.5/share; payout 25% (AR2025 p. 151)."
+        },
+        {
+            "fy": 2025,
+            "type": "interim",
+            "dps": 39.5,
+            "total": 304.29615,
+            "cum_date": "2025-11-27",
+            "ex_date": "2025-11-28",
+            "record_date": "2025-12-01",
+            "pay_date": "2025-12-18",
+            "share_basis": "2025-11-19",
+            "source_url": "https://www.btpnsyariah.com/api/media/pdf/691dd0ac6421b41db17aa86d/view?ownerType=page&ownerId=672c6bfe2080e55879a9240b&itemId=672c6bfe2080e55879a9240e",
+            "source_type": "company_release",
+            "as_of_date": "2025-11-19",
+            "loc": "pp. 1-2, Pengumuman Jadwal dan Tata Cara Pembagian Dividen Interim Tahun Buku 2025 (Board of Directors circular resolution 10 Nov 2025, BoC approval 17 Nov 2025)",
+            "note": "First-ever interim dividend, based on the 30 Sep 2025 interim FS; payout 32% of 9M2025 profit (AR2025 p. 34). Total Rp304,296,150,000 from the RUPST 2026 summary."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 46.2,
+            "total": 355.91094,
+            "cum_date": "2026-04-24",
+            "ex_date": "2026-04-27",
+            "record_date": "2026-04-28",
+            "pay_date": "2026-05-19",
+            "share_basis": "2026-04-20",
+            "source_url": "https://www.btpnsyariah.com/api/media/pdf/69e6135c13eaffbd28587674/view?ownerType=page&ownerId=672c6bfe2080e55879a9240b&itemId=672c6bfe2080e55879a9240e",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-20",
+            "loc": "pp. 1-3, Ringkasan Risalah RUPST 16 Apr 2026, Mata Acara Kedua and 'Jadwal dan Tata Cara Pembagian Dividen Tunai Tahun 2026'",
+            "note": "Remaining FY2025 dividend Rp355,910,940,000 = Rp46.20/share; total FY2025 Rp660,207,090,000 = Rp85.70/share incl. the interim."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 1011.801,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adab640a9829623da9ce06c/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, interim consolidated statement of profit or loss, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "profit_ytd_prior": {
+                "v": 945.666,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adab640a9829623da9ce06c/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 8, 30 September 2025 comparative, owners of the parent",
+                "basis": "consolidated",
+                "note": "Same figure in the 9M2025 interim FS (PDF p. 8)."
+            },
+            "equity_attr": {
+                "v": 10614.736,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adf2615744bd872508ec747/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Published report, Laporan Posisi Keuangan, KONSOLIDASI column, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "Interim FS total equity 10,617,325 less non-controlling interest 2,589 (Rp juta), PDF p. 6."
+            },
+            "shares_out": {
+                "v": 7703700000,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adab640a9829623da9ce06c/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 68, Note 26 'Modal saham' (shareholder composition, no treasury line)",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "No treasury shares at 30 Sep 2026 (also the share registrar's 30 Sep 2026 report). The EGM of 13 Oct 2026 approved a buyback of up to Rp1tn after period end."
+            },
+            "total_assets": {
+                "v": 23990.752,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adab640a9829623da9ce06c/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, interim consolidated statement of financial position, 'Jumlah aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 11028.797,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adab640a9829623da9ce06c/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4: murabahah + qardh + mudharabah + musyarakah (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "Murabahah 9,617,190 + qardh 64 + mudharabah 200,000 + musyarakah 1,211,543 (Rp juta). 3Q2026 deck p. 4 'Financing' Sep'26: 11,029 bn."
+            },
+            "loans_gross_prior": {
+                "v": 9802.914,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69006b20950c467bc2d4b442/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4 of the 9M2025 interim FS: murabahah + qardh + musyarakah (gross)",
+                "basis": "consolidated",
+                "note": "Murabahah 9,383,718 + qardh 65 + musyarakah 419,131 (no mudharabah financing yet). 3Q2026 deck p. 4 'Financing' Sep'25: 9,803 bn."
+            },
+            "deposits": {
+                "v": 12362.667,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adab640a9829623da9ce06c/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5: 'Simpanan nasabah' + 'Jumlah dana syirkah temporer'",
+                "basis": "consolidated",
+                "note": "Wadiah deposits 2,399,296 + temporary syirkah funds 9,963,371 (Rp juta) = DPK. 3Q2026 deck p. 4 'Total Third-Party Funds' Sep'26: 12,363 bn."
+            },
+            "deposits_prior": {
+                "v": 11640.302,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/69006b20950c467bc2d4b442/view?ownerType=financial-report&ownerId=680b13634ec130c12f837f67",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 5 of the 9M2025 interim FS: 'Simpanan nasabah' + 'Jumlah dana syirkah temporer'",
+                "basis": "consolidated",
+                "note": "2,197,402 + 9,442,900 (Rp juta). 3Q2026 deck p. 4 Sep'25: 11,640 bn."
+            },
+            "roe": {
+                "v": 14.01,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adf2615744bd872508ec747/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page published report 30 Sep 2026 (unaudited), 'Laporan Rasio Keuangan Triwulanan', 30 September 2026 column, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Annualised, OJK definition. 9M2025: 14.52%. The 3Q2026 deck (bank-only ratios) shows 14.0%."
+            },
+            "roa": {
+                "v": 7.29,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adf2615744bd872508ec747/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page published report 30 Sep 2026 (unaudited), 'Laporan Rasio Keuangan Triwulanan', 30 September 2026 column, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "Annualised. 9M2025: 7.59%."
+            },
+            "nim": {
+                "v": 21.34,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adf2615744bd872508ec747/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page published report 30 Sep 2026 (unaudited), 'Laporan Rasio Keuangan Triwulanan', 30 September 2026 column, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Sharia NIM equivalent (see fy notes). 9M2025: 23.05%. NOM (net operating margin) 7.63% (9M2025 7.80%)."
+            },
+            "coc": {
+                "v": 4.6,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adb3363f88f41ca2329c5b8/view?ownerType=page&ownerId=672b3d5a3b2595b8d602b18b&itemId=672b3d5a3b2595b8d602b18c",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, '9M 2026 Ratios', 'Net-Financing Loss' 9M'26 (image slide)",
+                "basis": "bank_only",
+                "note": "The 3Q2026 deck switched to bank-only ratios ('CAR 9M'26 - console 60.4%' footnote); it shows 9M'25 7.6% and FY'25 7.8% on that basis."
+            },
+            "npl_gross": {
+                "v": 2.17,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adf2615744bd872508ec747/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page published report 30 Sep 2026 (unaudited), 'Laporan Rasio Keuangan Triwulanan', 30 September 2026 column, 'Non Performing Financing (NPF) gross'",
+                "basis": "bank_only",
+                "note": "9M2025: 2.93%."
+            },
+            "lar": {
+                "v": 4.13,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adf2615744bd872508ec747/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page published report 30 Sep 2026 (unaudited), 'Laporan Rasio Keuangan Triwulanan', 30 September 2026 column, 'Pembiayaan Kualitas Rendah (PKR)'",
+                "basis": "bank_only",
+                "note": "OJK low-quality financing ratio (special-mention + restructured current + NPF, over total financing) introduced in the 2026 report template - BTPS's only LaR-type disclosure. 9M2025: 5.02%. Not available for FY2020-FY2025."
+            },
+            "npl_coverage": {
+                "v": 342,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adb3363f88f41ca2329c5b8/view?ownerType=page&ownerId=672b3d5a3b2595b8d602b18b&itemId=672b3d5a3b2595b8d602b18c",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, '9M 2026 Ratios', 'Loan Provision Coverage (NPF)' 9M'26 (image slide)",
+                "basis": "bank_only",
+                "note": "Coverage incl. restructured financing ('NPF + Restru'): 252%."
+            },
+            "ldr": {
+                "v": 89.21,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adf2615744bd872508ec747/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page published report 30 Sep 2026 (unaudited), 'Laporan Rasio Keuangan Triwulanan', 30 September 2026 column, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "9M2025: 84.22%."
+            },
+            "car": {
+                "v": 59.01,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adf2615744bd872508ec747/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page published report 30 Sep 2026 (unaudited), 'Laporan Rasio Keuangan Triwulanan', 30 September 2026 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Consolidated CAR 60.4% (3Q2026 deck p. 6 footnote)."
+            },
+            "cir": {
+                "v": 52.99,
+                "source_url": "https://www.btpnsyariah.com/api/media/pdf/6adf2615744bd872508ec747/view?ownerType=financial-report&ownerId=69ede88ebce2f452ba58e60c",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page published report 30 Sep 2026 (unaudited), 'Laporan Rasio Keuangan Triwulanan', 30 September 2026 column, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "9M2025: 48.56%."
+            },
+            "casa": {
+                "v": null,
+                "note": "not printed as a ratio for 30 Sep 2026 (checked: published report, interim FS, 3Q2026 deck); the deck p. 4 shows CASA 3,768 bn of third-party funds 12,363 bn."
+            }
+        }
+    },
+    "validation_ack": [],
+    "research_notes": [
+        "SOURCE ACCESS: every document comes from BTPN Syariah's own site. btpnsyariah.com (Nuxt site, relaunched 2024/25; the old Liferay /documents/20182/... URLs now 404) lists its files through its public GraphQL API (portalFinancialReportGroupings, portalPageByPageUrl) and serves them from https://www.btpnsyariah.com/api/media/pdf/<id>/view?... or from the bank's CMS bucket cdn-btpns-cms-prod.s3.ap-southeast-3.amazonaws.com. Both refuse requests without a Referer from btpnsyariah.com ('MEDIA_REFERER_FORBIDDEN' / S3 AccessDenied) - plain hot-link protection, no bot challenge. Files were fetched with curl sending the Referer of the IR page that links them (what a browser does on a click); no cookies, no JS, no challenge. source_url is the link exactly as it appears on the IR page; opened directly in a new tab it returns 403. Internet Archive has no copies of these media URLs.",
+        "NO CORPORATE ACTIONS 2019-2026: no split, reverse split, rights issue or bonus issue since the IPO (8 May 2018, 770,370,000 new shares at Rp975, nominal Rp100). Issued shares have been 7,703,700,000 throughout: AR2025 p. 139 (Kronologi Pencatatan Saham lists only the IPO), every audited FS 2020-2025 and the 9M2026 FS ('Modal ditempatkan dan disetor penuh - 7.703.700.000 saham'), and the monthly share-price tables (Rp4,250 end-2019 -> Rp1,205 end-2025 with no break; market cap = price x 7,703,700,000 every month in AR2025 p. 23). The 'stock split around 2021-2022' hint was checked and is not supported by any BTPS document; the fall from ~Rp4,000 to ~Rp1,000 is price, not a split. AR2025 p. 152: no other securities listed.",
+        "TREASURY SHARES / BUYBACKS (not corporate actions in schema terms): (1) EGM 2 Sep 2019 approved a buyback for directors' variable remuneration; 2,500,000 shares bought by 23 Oct 2019 at avg Rp3,905.20 (Rp9,763m). Distributed in tranches: 402,800 (25 Jan 2021), 829,200 (25 Jan 2022), 651,900 (25 Jan 2023), 373,100 (25 Jan 2024), 186,000 (24 Jan 2025) and the last 57,000 (30 Jan 2025) - AR2025 pp. 140-148. FY-end treasury: 2,500,000 (2019-2020), 2,097,200 (2021), 1,268,000 (2022), 616,100 (2023), 243,000 (2024), 0 (2025). (2) 10 Jun 2025: disclosure of a buyback plan 'dalam kondisi pasar yang berfluktuasi' (no-GMS buyback); per news (bisnis.com 2025-09-10 'BTPS Batal Buyback') it was not executed - consistent with zero treasury shares in the 9M2025, FY2025 and 9M2026 FS. (3) EGM 13 Oct 2026 approved a buyback of up to 10% of issued capital / up to Rp1tn within 12 months from 14 Oct 2026 (Ringkasan Risalah RUPSLB 2026, KI 4 Sep 2026); any shares bought will reduce shares_out after the 9M2026 interim.",
+        "SHARIA DEFINITIONS: loans_gross = gross financing (murabahah receivables net of deferred margin, before allowance, + qardh + mudharabah + musyarakah), matching AR2025's 'Total Pembiayaan' and the decks' 'Financing (gross)'; ~99% murabahah until 2023, musyarakah/mudharabah to NBFIs grew from 2024. deposits = DPK = 'Simpanan Nasabah dan Dana Syirkah Temporer' (wadiah giro/tabungan + mudharabah tabungan/deposito, all non-bank), the base for FDR; temporary syirkah funds are NOT part of liabilities or equity on the FS face. nim = Net Imbalan (NI) from the OJK published report (the sharia NIM analogue); NOM is quoted in each note. npl_* = NPF. coc = deck 'Net-Financing Loss' (FY2022+) / 'Cost of Financing' (FY2020-FY2021 decks). lar = OJK 'Pembiayaan Kualitas Rendah' (only in the 2026 report template).",
+        "RATIO BASIS: roe, roa, nim, npl_gross, npl_net, ldr, car, cir and bopo are taken from each year's Q4 OJK published report (bank only, 2 decimals) so that FY values use the same basis and definitions as the 9M2026 interim (also bank only; BTPS's 3Q2026 deck switched to bank-only too). The AR 'Ikhtisar Keuangan' ratio table is consolidated (its KPMM 57.74% FY2025 = deck CAR 57.7% whose footnote gives bank-only 56.2%); its values are quoted in each note. Differences are small except CAR (consolidated +1.4 to +1.6pp since 2022) and ROE (consolidated 0.4-1.0pp lower since 2022). Consolidated = bank-only in 2020 (no subsidiary). The only subsidiary is PT BTPN Syariah Ventura (sharia venture capital, established 2021, BTPS 99%; total assets Rp262bn at end-2025, FS2025 p. 20), which explains the NCI of Rp2.5-3.1bn.",
+        "REAL VALUES OUTSIDE VALIDATOR RANGES: nim (Net Imbalan) 21-27% every year (bound 15%) and coc FY2023 15.5% / FY2024 12.2% (bound 10%) are genuine - BTPS is an ultra-micro lender to pre-prosperous women (community-based murabahah; 53% of outstanding tickets <= Rp5mn per the 3Q2026 deck p. 2) with very high yields and high credit costs. ROA 6-11% is likewise real. Do not 'fix' these.",
+        "RESTATEMENTS / DISCREPANCIES: no restatement of FY2019-FY2025 figures found (each FS comparative equals the prior year's audited number; AR2024/AR2025 highlight tables match the FS). Typos noted, not used: AR2025 p. 20 prints 2021 'Total Pembiayaan' 10.433.469 (components sum to 10,443,469; FY2021 deck 10,443 bn); AR2024 p. 22 prints 2020 BOPO 74,42% (Q4 2020 report and FY2020 deck: 72.42% / 72.4%). The FY2021 deck shows FY'21 cost of financing 7.3% (bank only) while the FY2022 deck shows FY'21 net-financing loss 7.2%; FY2025 deck 8.3% (consolidated) vs 3Q2026 deck FY'25 7.8% (bank only).",
+        "DIVIDENDS: one final cash dividend per year out of FY2020-FY2024 profit, and for FY2025 BTPS's first interim (Rp39.50, paid 18 Dec 2025) plus a final (Rp46.20, paid 19 May 2026) = Rp85.70. No special dividends. All dates and amounts from BTPS's own AGMS summaries / interim notice; the dividend history in AR2025 pp. 148-151 gives the same dates. FY2019's dividend (paid May 2020, payout max 25%) is outside the FY2020-FY2025 scope. FY2025 payout_ratio is null because BTPS never printed it (Rp660.2bn of Rp1,200.7bn net profit; news '~55%' is a journalist calculation). FY2026 interim: none announced as of 3 Nov 2026 (not in the IR disclosure list).",
+        "SHARES / EPS: shares_out = issued 7,703,700,000 less treasury shares at FY end (FS share-capital note). EPS is the audited basic EPS on weighted shares net of treasury; eps x shares_out reproduces net_profit_attr within 0.2% every year. share_basis = period end everywhere (no split ever, so no adjustment is needed). Year-end prices are the AR December closes: 3,750 / 3,580 / 2,790 / 1,690 / 925 / 1,205 (2020-2025); end-2019 4,250 (AR2020 p. 14).",
+        "OWNERSHIP / NAME: PT Bank SMBC Indonesia Tbk (formerly PT Bank BTPN Tbk) owns 5,392,590,000 shares (70.00%); public 30.00% (FS2025 p. 68; registrar report 30 Sep 2026). Legal name PT Bank BTPN Syariah Tbk since 4 Jun 2020 (formerly PT Bank Tabungan Pensiunan Nasional Syariah Tbk); unchanged despite the parent's 2024 rename. KBMI 2; BUKU 3 from 7 Jul 2020 (old classification).",
+        "INTERIM: 9M2026 interim FS (unaudited, published Oct 2026), OJK published report 30 Sep 2026 and the 3Q2026 analyst deck (23 Oct 2026). Interim balance-sheet levels are consolidated (FS); ratios bank only. CASA ratio null (amounts only). Consolidated 9M2026 profit attributable Rp1,011.8bn (+7.0% YoY); bank-only Rp1,004bn.",
+        "SELF-CHECK (no split, so no adjustment): eps x shares_out vs net_profit_attr: 2020 +0.03%, 2021 -0.12%, 2022 -0.02%, 2023 -0.19%, 2024 +0.17%, 2025 +0.05% (EPS is rounded to whole rupiah). Sum of DPS x FY-end shares_out vs dividend totals: all within 0.011% (record-date share counts differ from FY-end only by the January treasury distributions). net_profit_attr x payout vs dividend total: FY2020 +0.88% (AR states 'maksimal 30%'; actual 29.74%), FY2021 +0.11%, FY2022 -0.10%, FY2023 -0.03%, FY2024 -0.17%. Validator: 0 errors, 0 mismatches."
+    ]
+}
