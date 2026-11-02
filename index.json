@@ -753,6 +753,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/maya/"
+        },
+        {
+            "code": "BMAS",
+            "name": "PT Bank Kasikorn Indonesia Tbk",
+            "name_short": "KBank Indonesia",
+            "sector": "banking",
+            "group": "private_mid",
+            "kbmi": 2,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "H1 2026",
+            "interim_period_end": "2026-06-30",
+            "data_through": "2026-06-30",
+            "dividend_records": 1,
+            "file": "issuers/BMAS.json",
+            "prices": {
+                "file": "prices/BMAS.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1738,
+                "last_close": 414,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/bmas/"
         }
     ]
 }

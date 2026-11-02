@@ -1,0 +1,1401 @@
+{
+    "schema": 1,
+    "code": "BMAS",
+    "name": "PT Bank Kasikorn Indonesia Tbk",
+    "name_short": "KBank Indonesia",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.kasikornbank.co.id",
+    "ir_url": "https://www.kasikornbank.co.id/investor-relations",
+    "kbmi": {
+        "v": 2,
+        "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF p. 131, Komponen Modal: Tier 1 Rp6,182,308 juta (31 Dec 2025); PDF pp. 20-21, awards in the 'KBMI 2' category; AR2024 PDF p. 49 ('Bank masuk kedalam kategori KBMI 2 dengan modal inti lebih dari Rp6 Triliun')",
+        "note": "KBMI 2 (core capital Rp6tn-Rp14tn, POJK 12/POJK.03/2021) since the Nov 2023 rights issue; KBMI 1 before. End-2025 Tier 1 is only ~3% above the Rp6tn boundary."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 7569.580138,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan, 'JUMLAH ASET' (FS2020 comparative column (31 Dec 2019))",
+                "basis": "consolidated",
+                "note": "No subsidiaries: the bank-only audited statements are the whole reporting entity (tagged 'consolidated' per SCHEMA rule 3)."
+            },
+            "loans_gross": {
+                "v": 5466.906639,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, 'Jumlah kredit yang diberikan' before 'Cadangan kerugian penurunan nilai' (FS2020 comparative column (31 Dec 2019))",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 5807.722699,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, 'Jumlah simpanan dari nasabah' (FS2020 comparative column (31 Dec 2019))",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 1228.931584,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, 'JUMLAH EKUITAS' (FS2020 comparative column (31 Dec 2019))",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 1228.931584,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, 'JUMLAH EKUITAS' (FS2020 comparative column (31 Dec 2019))",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 66.986471,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2020 PDF p. 8, Laporan Laba Rugi, 'LABA (RUGI) TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No subsidiaries: the bank-only audited statements are the whole reporting entity (tagged 'consolidated' per SCHEMA rule 3)."
+            },
+            "eps": {
+                "v": 15.08,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2020 PDF p. 8, 'LABA (RUGI) PER SAHAM DASAR (dalam Rupiah penuh)'; FS2020 PDF p. 97 (Note 29)",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31"
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "No payout percentage printed. AGMS 31 Aug 2021 (AR2021 PDF p. 137): of FY2020 net profit Rp66,986,470,550, Rp33,325,961,535 (Rp7.5/share) paid as cash dividend and Rp33,660,509,015 retained - the AR, the AGMS resolution and AR2022 (PDF p. 121) state amounts only, never a %. See the dividend record."
+            },
+            "total_assets": {
+                "v": 10110.519691,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2020 PDF p. 6, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 6907.691712,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2020 PDF p. 6, 'Jumlah kredit yang diberikan' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 8205.394897,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2020 PDF p. 7, 'Jumlah simpanan dari nasabah' (current + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 1284.262093,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2020 PDF p. 7, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 1284.262093,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2020 PDF p. 7, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 4443461538,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/be3adae3fd/pt-bank-maspion-indonesia-31-des-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2020 PDF p. 7, 'Modal ditempatkan dan disetor penuh - 4.443.461.538 saham'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid shares; no treasury shares. 1% of the shares is not listed on IDX (PP 29/1999, held by an Indonesian legal entity), so the AR 'listed shares' figure is 99% of this count."
+            },
+            "year_end_price": {
+                "v": 430,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/3eb807b0a0/annual-report-bank-maspion-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 16, Ikhtisar Saham, 2020 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-06-28",
+                "note": "Q4 close as printed (AR2021 p. 16 repeats 430; market cap 1,891,581,576,460 = 430 x 4,399,026,922). share_basis = AR publication date (2021-06-28, PDF date); no split, reverse split or bonus issue ever."
+            },
+            "roe": {
+                "v": 5.52,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/3eb807b0a0/annual-report-bank-maspion-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 15 (printed p. 13), Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital): FY2025 31.8bn / Tier 1 ~6.2tn = 0.51%, i.e. not on book equity; the AR prints no formula."
+            },
+            "roa": {
+                "v": 1.09,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/3eb807b0a0/annual-report-bank-maspion-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 15 (printed p. 13), Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (pre-tax profit / average total assets)."
+            },
+            "nim": {
+                "v": 3.5,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/3eb807b0a0/annual-report-bank-maspion-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 15 (printed p. 13), Rasio Keuangan, 'Marjin Bunga Bersih (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2020 (checked: Ikhtisar Keuangan ratio table, MD&A, risk-management section) or in later ARs' three-year tables. Not derived from the provision line."
+            },
+            "npl_gross": {
+                "v": 1.93,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/3eb807b0a0/annual-report-bank-maspion-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 15 (printed p. 13), Rasio Keuangan, 'Rasio Kredit Bermasalah - Bruto'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "npl_net": {
+                "v": 1.68,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/3eb807b0a0/annual-report-bank-maspion-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 15 (printed p. 13), Rasio Keuangan, 'Rasio Kredit Bermasalah - Bersih'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk ratio in AR2020 (checked: ratio table, MD&A, credit-risk section)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2020 (the ratio table prints only 'CKPN atas aset keuangan terhadap aset produktif'); not derived."
+            },
+            "ldr": {
+                "v": 84.18,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/3eb807b0a0/annual-report-bank-maspion-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 15 (printed p. 13), Rasio Keuangan, 'Rasio Kredit terhadap Pendanaan (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "car": {
+                "v": 16.53,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/3eb807b0a0/annual-report-bank-maspion-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 15 (printed p. 13), Rasio Keuangan, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "cir": {
+                "v": null,
+                "note": "Not disclosed for FY2020: AR2020, AR2021 and AR2022 ratio tables have no cost-to-income row (only BOPO); AR2023's three-year table starts at FY2021. The Dec-2020 published quarterly report is not on the bank's current website."
+            },
+            "bopo": {
+                "v": 87.58,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/3eb807b0a0/annual-report-bank-maspion-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 15 (printed p. 13), Rasio Keuangan, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2020: AR2020 and later ARs print the current/savings/time deposit amounts but no CASA percentage (checked: highlights, MD&A third-party funds). Not computed."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 80.162068,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS 2021 reproduced in the AR) PDF p. 420 (scanned page, read from the page image), Laporan Laba Rugi, 'LABA (RUGI) TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No subsidiaries: the bank-only audited statements are the whole reporting entity (tagged 'consolidated' per SCHEMA rule 3). The stand-alone FS2021 file linked on the IR page (cdn/f/294061772251140/1806494/2a47801c92/pt-bank-maspion-indonesia-tbk-31-des-2021.pdf) redirects to an unrelated KBank Thailand page, so the audited FS2021 inside AR2021 is cited. Identical figures in the FS2022 comparative column (FS2022 PDF pp. 4-6)."
+            },
+            "eps": {
+                "v": 18.04,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS 2021 reproduced in the AR) PDF p. 420 (scanned page, read from the page image), 'LABA (RUGI) PER SAHAM DASAR (dalam Rupiah penuh)'; AR2021 (audited FS 2021 reproduced in the AR) PDF p. 505 (EPS note)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5c3316a20b/ir-bank-maspion-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-07-18",
+                "loc": "AR2022 PDF p. 120, Kebijakan Dividen ('Berdasarkan keputusan RUPST pada tanggal 18 Juli 2022 ... tidak adanya pembagian dividen tunai'); AGMS resolution also in AR2023 PDF p. 137",
+                "basis": "n/a",
+                "note": "AGMS 18 Jul 2022: the whole FY2021 profit Rp80,162,067,987 retained; no dividend."
+            },
+            "total_assets": {
+                "v": 14234.358584,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS 2021 reproduced in the AR) PDF p. 418, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 8232.23893,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS 2021 reproduced in the AR) PDF p. 418, 'Jumlah kredit yang diberikan' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 12004.244727,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS 2021 reproduced in the AR) PDF p. 419 (scanned page, read from the page image), 'Jumlah simpanan dari nasabah' (current + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 1331.210939,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS 2021 reproduced in the AR) PDF p. 419 (scanned page, read from the page image), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 1331.210939,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS 2021 reproduced in the AR) PDF p. 419 (scanned page, read from the page image), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 4443461538,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS 2021 reproduced in the AR) PDF p. 419 (scanned page, read from the page image), 'Modal ditempatkan dan disetor penuh - 4.443.461.538 saham'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid shares; no treasury shares. 1% of the shares is not listed on IDX (PP 29/1999, held by an Indonesian legal entity), so the AR 'listed shares' figure is 99% of this count."
+            },
+            "year_end_price": {
+                "v": 1730,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 16 (printed p. 15), Ikhtisar Saham, 2021 4th Quarter row (mislabelled 'Triwulan III') 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-05-30",
+                "note": "Q4 close as printed (AR2022 p. 14 repeats 1,730). The AR2021 table labels both the Q3 and Q4 rows 'Triwulan III'; the second row (market cap 7,610,316,575,060 = 1,730 x 4,399,026,922) is Q4. share_basis = AR publication date (2022-05-30, PDF date); no split, reverse split or bonus issue ever."
+            },
+            "roe": {
+                "v": 6.45,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 15 (printed p. 14), Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital): FY2025 31.8bn / Tier 1 ~6.2tn = 0.51%, i.e. not on book equity; the AR prints no formula."
+            },
+            "roa": {
+                "v": 0.79,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 15 (printed p. 14), Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (pre-tax profit / average total assets)."
+            },
+            "nim": {
+                "v": 2.83,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 15 (printed p. 14), Rasio Keuangan, 'Marjin Bunga Bersih (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2021 (checked: Ikhtisar Keuangan ratio table, MD&A, risk-management section) or in later ARs' three-year tables. Not derived from the provision line."
+            },
+            "npl_gross": {
+                "v": 1.67,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 15 (printed p. 14), Rasio Keuangan, 'Rasio Kredit Bermasalah - Bruto'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "npl_net": {
+                "v": 1.4,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 15 (printed p. 14), Rasio Keuangan, 'Rasio Kredit Bermasalah - Bersih'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk ratio in AR2021 (checked: ratio table, MD&A, credit-risk section)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2021 (the ratio table prints only 'CKPN atas aset keuangan terhadap aset produktif'); not derived."
+            },
+            "ldr": {
+                "v": 68.58,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 15 (printed p. 14), Rasio Keuangan, 'Rasio Kredit terhadap Pendanaan (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "car": {
+                "v": 13.69,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 15 (printed p. 14), Rasio Keuangan, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "cir": {
+                "v": 69.24,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2023 PDF p. 15, Rasio Keuangan, 'Rasio Biaya terhadap Pendapatan / Cost to Income Ratio' (2021 column)",
+                "basis": "bank_only",
+                "note": "AR2021 has no CIR row; the ratio is first printed in AR2023's three-year table."
+            },
+            "bopo": {
+                "v": 89.48,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 15 (printed p. 14), Rasio Keuangan, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2021: AR2021 and later ARs print the current/savings/time deposit amounts but no CASA percentage (checked: highlights, MD&A third-party funds). Not computed."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 114.940964,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/fbabda44bd/audited-report-bmas.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 6 (scanned page, read from the page image), Laporan Laba Rugi, 'LABA (RUGI) TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No subsidiaries: the bank-only audited statements are the whole reporting entity (tagged 'consolidated' per SCHEMA rule 3). Same figures in the FS2023 comparative column."
+            },
+            "eps": {
+                "v": 23.99,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/fbabda44bd/audited-report-bmas.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 6 (scanned page, read from the page image), 'LABA (RUGI) PER SAHAM DASAR (dalam Rupiah penuh)'; FS2022 PDF p. 85 (Note 31)",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic EPS on weighted-average shares 4,791,533 thousand (PUT II shares issued Nov-Dec 2022), not on year-end shares; see validation_ack eps_shares:2022."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-06-15",
+                "loc": "AR2024 PDF p. 170, AGMS 15 Jun 2023 resolutions, Agenda 2 (repeated in AR2025 PDF p. 192)",
+                "basis": "n/a",
+                "note": "AGMS 15 Jun 2023: the whole FY2022 profit Rp114,940,963,515 to the general reserve and retained earnings 'untuk menambah modal Perseroan'; no dividend."
+            },
+            "total_assets": {
+                "v": 14956.302274,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/fbabda44bd/audited-report-bmas.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 4, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 8782.551805,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/fbabda44bd/audited-report-bmas.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 4, 'Jumlah kredit yang diberikan' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 10917.997685,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/fbabda44bd/audited-report-bmas.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 5 (scanned page, read from the page image), 'Jumlah simpanan dari nasabah' (current + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3152.614148,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/fbabda44bd/audited-report-bmas.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 5 (scanned page, read from the page image), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 3152.614148,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/fbabda44bd/audited-report-bmas.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 5 (scanned page, read from the page image), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 8620315383,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/fbabda44bd/audited-report-bmas.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 5 (scanned page, read from the page image), 'Modal ditempatkan dan disetor penuh - 8.620.315.383 saham'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid shares; no treasury shares. 1% of the shares is not listed on IDX (PP 29/1999, held by an Indonesian legal entity), so the AR 'listed shares' figure is 99% of this count."
+            },
+            "year_end_price": {
+                "v": 1090,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5c3316a20b/ir-bank-maspion-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 14 (printed p. 12), Ikhtisar Saham, 2022 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-04-28",
+                "note": "Q4 close as printed (AR2023 p. 16 repeats 1,090). After the PUT II rights issue (ex 21 Nov 2022, Rp410); Q3 close was 1,285. share_basis = AR publication date (2023-04-28, PDF date); no split, reverse split or bonus issue ever."
+            },
+            "roe": {
+                "v": 7.15,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5c3316a20b/ir-bank-maspion-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13 (printed p. 11), Ikhtisar 2022 - Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital): FY2025 31.8bn / Tier 1 ~6.2tn = 0.51%, i.e. not on book equity; the AR prints no formula."
+            },
+            "roa": {
+                "v": 1.06,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5c3316a20b/ir-bank-maspion-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13 (printed p. 11), Ikhtisar 2022 - Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (pre-tax profit / average total assets)."
+            },
+            "nim": {
+                "v": 3.88,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5c3316a20b/ir-bank-maspion-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13 (printed p. 11), Ikhtisar 2022 - Rasio Keuangan, 'Marjin Bunga Bersih (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2022 (checked: Ikhtisar Keuangan ratio table, MD&A, risk-management section) or in later ARs' three-year tables. Not derived from the provision line."
+            },
+            "npl_gross": {
+                "v": 1.21,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5c3316a20b/ir-bank-maspion-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13 (printed p. 11), Ikhtisar 2022 - Rasio Keuangan, 'Rasio Kredit Bermasalah - Bruto'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "npl_net": {
+                "v": 0.97,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5c3316a20b/ir-bank-maspion-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13 (printed p. 11), Ikhtisar 2022 - Rasio Keuangan, 'Rasio Kredit Bermasalah - Bersih'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk ratio in AR2022 (checked: ratio table, MD&A, credit-risk section)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2022 (the ratio table prints only 'CKPN atas aset keuangan terhadap aset produktif'); not derived."
+            },
+            "ldr": {
+                "v": 80.44,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5c3316a20b/ir-bank-maspion-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13 (printed p. 11), Ikhtisar 2022 - Rasio Keuangan, 'Rasio Kredit terhadap Pendanaan (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "car": {
+                "v": 31.55,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5c3316a20b/ir-bank-maspion-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13 (printed p. 11), Ikhtisar 2022 - Rasio Keuangan, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Raised by the PUT II rights issue (Rp1,712.5bn, Nov-Dec 2022)."
+            },
+            "cir": {
+                "v": 66.57,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2023 PDF p. 15, Rasio Keuangan, 'Rasio Biaya terhadap Pendapatan / Cost to Income Ratio' (2022 column)",
+                "basis": "bank_only",
+                "note": "AR2022 has no CIR row; the ratio is first printed in AR2023's three-year table."
+            },
+            "bopo": {
+                "v": 84.99,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5c3316a20b/ir-bank-maspion-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13 (printed p. 11), Ikhtisar 2022 - Rasio Keuangan, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2022: AR2022 and later ARs print the current/savings/time deposit amounts but no CASA percentage (checked: highlights, MD&A third-party funds). Not computed."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 63.25341,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/67dc66995e/audited-report-bmas-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 6 (scanned page, read from the page image), Laporan Laba Rugi, 'LABA (RUGI) TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No subsidiaries: the bank-only audited statements are the whole reporting entity (tagged 'consolidated' per SCHEMA rule 3). Same figures in the FS2024 comparative column."
+            },
+            "eps": {
+                "v": 6.72,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/67dc66995e/audited-report-bmas-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 6 (scanned page, read from the page image), 'LABA (RUGI) PER SAHAM DASAR (dalam Rupiah penuh)'; FS2023 PDF p. 87 (Note 32)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic EPS on weighted-average shares 9,410,510,960 (PMHMETD III shares issued Nov 2023; FS2024 Note 32), not on year-end shares; see validation_ack eps_shares:2023."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-05-14",
+                "loc": "AR2024 PDF p. 167, AGMS 14 May 2024 resolutions, Agenda 2 (repeated in AR2025 PDF p. 189)",
+                "basis": "n/a",
+                "note": "AGMS 14 May 2024: 4.74% of FY2023 profit (~Rp3bn) to the reserve fund, the remaining Rp60,253,409,804 retained; no dividend."
+            },
+            "total_assets": {
+                "v": 19665.962966,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/67dc66995e/audited-report-bmas-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 4, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 13246.439175,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/67dc66995e/audited-report-bmas-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 4, 'Jumlah kredit yang diberikan' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 11031.118217,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/67dc66995e/audited-report-bmas-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 5 (scanned page, read from the page image), 'Jumlah simpanan dari nasabah' (current + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 6722.657517,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/67dc66995e/audited-report-bmas-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 5 (scanned page, read from the page image), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 6722.657517,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/67dc66995e/audited-report-bmas-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 5 (scanned page, read from the page image), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18102662304,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/67dc66995e/audited-report-bmas-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 5 (scanned page, read from the page image), 'Modal ditempatkan dan disetor penuh - 18.102.662.304 saham'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid shares; no treasury shares. 1% of the shares is not listed on IDX (PP 29/1999, held by an Indonesian legal entity), so the AR 'listed shares' figure is 99% of this count."
+            },
+            "year_end_price": {
+                "v": 580,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 16, Ikhtisar Saham, 2023 TW IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-05-06",
+                "note": "Q4 close as printed (AR2024 p. 16 repeats 580). First full quarter after the PMHMETD III rights issue (ex 3 Nov 2023, Rp370); Q3 close was 1,265. share_basis = AR publication date (2024-05-06, PDF date); no split, reverse split or bonus issue ever."
+            },
+            "roe": {
+                "v": 1.74,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15, Ikhtisar 2023 - Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital): FY2025 31.8bn / Tier 1 ~6.2tn = 0.51%, i.e. not on book equity; the AR prints no formula."
+            },
+            "roa": {
+                "v": 0.46,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15, Ikhtisar 2023 - Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (pre-tax profit / average total assets)."
+            },
+            "nim": {
+                "v": 3.62,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15, Ikhtisar 2023 - Rasio Keuangan, 'Marjin Bunga Bersih (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2023 (checked: Ikhtisar Keuangan ratio table, MD&A, risk-management section) or in later ARs' three-year tables. Not derived from the provision line."
+            },
+            "npl_gross": {
+                "v": 2.59,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15, Ikhtisar 2023 - Rasio Keuangan, 'Rasio Kredit Bermasalah - Bruto'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "npl_net": {
+                "v": 2.12,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15, Ikhtisar 2023 - Rasio Keuangan, 'Rasio Kredit Bermasalah - Bersih'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk ratio in AR2023 (checked: ratio table, MD&A, credit-risk section)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2023 (the ratio table prints only 'CKPN atas aset keuangan terhadap aset produktif'); not derived."
+            },
+            "ldr": {
+                "v": 120.08,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15, Ikhtisar 2023 - Rasio Keuangan, 'Rasio Kredit terhadap Pendanaan (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "car": {
+                "v": 50.12,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15, Ikhtisar 2023 - Rasio Keuangan, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Raised by the PMHMETD III rights issue (Rp3,508.5bn, Nov 2023)."
+            },
+            "cir": {
+                "v": 70.3,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15, Ikhtisar 2023 - Rasio Keuangan, 'Rasio Biaya terhadap Pendapatan / Cost to Income Ratio'",
+                "basis": "bank_only",
+                "note": "AR definition not printed; distinct from BOPO."
+            },
+            "bopo": {
+                "v": 93.29,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/0b91be8009/annual-report-2023-new.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15, Ikhtisar 2023 - Rasio Keuangan, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "casa": {
+                "v": 18.1,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 117 (MD&A): '... dari tahun 2023 sebesar 18,10%'",
+                "basis": "bank_only",
+                "note": "CASA (current + savings accounts) / customer deposits, as stated by the bank."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": -247.21157,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5bfa7743f6/audited-report-bmas-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 6 (scanned page, read from the page image), Laporan Laba Rugi, 'LABA (RUGI) TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No subsidiaries: the bank-only audited statements are the whole reporting entity (tagged 'consolidated' per SCHEMA rule 3). Loss year. Same figures in the FS2025 comparative column (PDF pp. 4-6, text layer)."
+            },
+            "eps": {
+                "v": -13.66,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5bfa7743f6/audited-report-bmas-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 6 (scanned page, read from the page image), 'LABA (RUGI) PER SAHAM DASAR (dalam Rupiah penuh)'; FS2024 PDF p. 87 (Note 32)",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Loss per share."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-05-27",
+                "loc": "AR2025 PDF p. 177, AGMS 27 May 2025 resolutions, Agenda 2; PDF p. 131 Dividend Policy ('Pada tahun 2025 dan 2024 Perseroan tidak membagikan dividen')",
+                "basis": "n/a",
+                "note": "Loss year. AGMS 27 May 2025: 'no determination of profit usage or dividend distribution for the 2024 fiscal year'."
+            },
+            "total_assets": {
+                "v": 22305.050012,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5bfa7743f6/audited-report-bmas-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 4, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 16438.254291,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5bfa7743f6/audited-report-bmas-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 4, 'Jumlah kredit yang diberikan' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 13250.06151,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5bfa7743f6/audited-report-bmas-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 5 (scanned page, read from the page image), 'Jumlah simpanan dari nasabah' (current + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 6463.586853,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5bfa7743f6/audited-report-bmas-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 5 (scanned page, read from the page image), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 6463.586853,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5bfa7743f6/audited-report-bmas-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 5 (scanned page, read from the page image), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18102662304,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5bfa7743f6/audited-report-bmas-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 5 (scanned page, read from the page image), 'Modal ditempatkan dan disetor penuh - 18.102.662.304 saham'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid shares; no treasury shares. 1% of the shares is not listed on IDX (PP 29/1999, held by an Indonesian legal entity), so the AR 'listed shares' figure is 99% of this count."
+            },
+            "year_end_price": {
+                "v": 585,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 16, Ikhtisar Saham, 2024 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-04-29",
+                "note": "Q4 close as printed (AR2025 p. 16 repeats 585). Trading was extremely thin in H1 2024 (Q1 volume 68 shares, Q2 0; public float 0.11% at end-2024); see research_notes. share_basis = AR publication date (2025-04-29, PDF date); no split, reverse split or bonus issue ever."
+            },
+            "roe": {
+                "v": -3.79,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 15, Ikhtisar 2024 - Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital): FY2025 31.8bn / Tier 1 ~6.2tn = 0.51%, i.e. not on book equity; the AR prints no formula. Negative: loss year."
+            },
+            "roa": {
+                "v": -1.43,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 15, Ikhtisar 2024 - Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (pre-tax profit / average total assets). Negative: loss year."
+            },
+            "nim": {
+                "v": 3.76,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 15, Ikhtisar 2024 - Rasio Keuangan, 'Marjin Bunga Bersih (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2024 (checked: Ikhtisar Keuangan ratio table, MD&A, risk-management section) or in later ARs' three-year tables. Not derived from the provision line."
+            },
+            "npl_gross": {
+                "v": 3.26,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 15, Ikhtisar 2024 - Rasio Keuangan, 'Rasio Kredit Bermasalah - Bruto'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "npl_net": {
+                "v": 2.07,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 15, Ikhtisar 2024 - Rasio Keuangan, 'Rasio Kredit Bermasalah - Bersih'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk ratio in AR2024 (checked: ratio table, MD&A, credit-risk section)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2024 (the ratio table prints only 'CKPN atas aset keuangan terhadap aset produktif'); not derived."
+            },
+            "ldr": {
+                "v": 124.06,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 15, Ikhtisar 2024 - Rasio Keuangan, 'Rasio Kredit terhadap Pendanaan (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "car": {
+                "v": 43.52,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 15, Ikhtisar 2024 - Rasio Keuangan, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "cir": {
+                "v": 92.13,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 15, Ikhtisar 2024 - Rasio Keuangan, 'Rasio Biaya terhadap Pendapatan / Cost to Income Ratio'",
+                "basis": "bank_only",
+                "note": "AR definition not printed; distinct from BOPO."
+            },
+            "bopo": {
+                "v": 120.13,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 15, Ikhtisar 2024 - Rasio Keuangan, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "Above 100%: loss year (provision for impairment Rp380.4bn, FS2024 PDF p. 6)."
+            },
+            "casa": {
+                "v": 22.58,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/228c5b61bd/annual-report-2024-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 117 (MD&A): 'CASA Rasio Bank pada akhir tahun 2024 terealisasi sebesar 22,58% meningkat 4,48% dari tahun 2023 sebesar 18,10%'",
+                "basis": "bank_only",
+                "note": "CASA (current + savings accounts) / customer deposits, as stated by the bank."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 31.818493,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/e4d65e53ef/audited-report-bmas-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 6, Laporan Laba Rugi, 'LABA (RUGI) TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No subsidiaries: the bank-only audited statements are the whole reporting entity (tagged 'consolidated' per SCHEMA rule 3)."
+            },
+            "eps": {
+                "v": 1.76,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/e4d65e53ef/audited-report-bmas-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 6, 'LABA (RUGI) PER SAHAM DASAR (dalam Rupiah penuh)'; FS2025 PDF p. 93 (Note 35)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/60508df193/resume-rupst-pt-bank-maspion-tbk-20-mei-2026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-05-20",
+                "loc": "Notary resume of the AGMS of 20 May 2026 (Mala Mukti, No. 190/Srt/V/2026), PDF p. 4, Agenda 2",
+                "basis": "n/a",
+                "note": "AGMS 20 May 2026: FY2025 net profit Rp31,818,492,892 -> Rp3,000,000,000 to the general reserve, Rp29,818,492,892 retained; 'Tidak ada pembagian dividen untuk tahun buku 2025'. (The resume's first page misprints the meeting date as 'Rabu, 20 Mei 2025'; the deed and letter are dated 20 May 2026.)"
+            },
+            "total_assets": {
+                "v": 22416.231615,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/e4d65e53ef/audited-report-bmas-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 4, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 17343.33186,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/e4d65e53ef/audited-report-bmas-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 4, 'Jumlah kredit yang diberikan' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 11849.989304,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/e4d65e53ef/audited-report-bmas-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 5, 'Jumlah simpanan dari nasabah' (current + savings + time deposits)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 6501.96124,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/e4d65e53ef/audited-report-bmas-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 5, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 6501.96124,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/e4d65e53ef/audited-report-bmas-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 5, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18102662304,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/e4d65e53ef/audited-report-bmas-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 5, 'Modal ditempatkan dan disetor penuh - 18.102.662.304 saham'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid shares; no treasury shares. 1% of the shares is not listed on IDX (PP 29/1999, held by an Indonesian legal entity), so the AR 'listed shares' figure is 99% of this count."
+            },
+            "year_end_price": {
+                "v": 650,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 16, Ikhtisar Saham, 2025 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2026-03-31",
+                "note": "Q4 close as printed; market cap 11,649,063,192,000 / 650 = 17,921,635,680 listed shares (99% of issued; 1% unlisted under PP 29/1999). AR2025 prints no session date. share_basis = AR publication date (2026-03-31, PDF date); no split, reverse split or bonus issue ever."
+            },
+            "roe": {
+                "v": 0.51,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 15, Ikhtisar 2025 - Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital): FY2025 31.8bn / Tier 1 ~6.2tn = 0.51%, i.e. not on book equity; the AR prints no formula."
+            },
+            "roa": {
+                "v": 0.21,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 15, Ikhtisar 2025 - Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (pre-tax profit / average total assets)."
+            },
+            "nim": {
+                "v": 3.45,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 15, Ikhtisar 2025 - Rasio Keuangan, 'Marjin Bunga Bersih (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: AR2025 names 'biaya kredit (cost of credit)' only as the indicator used to monitor CKPN (risk-management section) and prints no value; no CoC in the ratio table (PDF p. 15) or MD&A. Not derived from the provision line."
+            },
+            "npl_gross": {
+                "v": 2.26,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 15, Ikhtisar 2025 - Rasio Keuangan, 'Rasio Kredit Bermasalah - Bruto'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "npl_net": {
+                "v": 1.37,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 15, Ikhtisar 2025 - Rasio Keuangan, 'Rasio Kredit Bermasalah - Bersih'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk ratio in AR2025 (checked: ratio table, MD&A, credit-risk section)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2025 (the ratio table prints only 'CKPN atas aset keuangan terhadap aset produktif'); not derived."
+            },
+            "ldr": {
+                "v": 146.36,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 15, Ikhtisar 2025 - Rasio Keuangan, 'Rasio Kredit terhadap Pendanaan (LDR)'",
+                "basis": "bank_only",
+                "note": "Real value above 140%: since 2025 loans are funded partly by borrowings from KASIKORNBANK (Rp1,334bn at end-2025, AR2025 PDF p. 14) and interbank deposits, while customer deposits fell 10.57% (AR2025 PDF p. 115; LDR comment PDF p. 128)."
+            },
+            "car": {
+                "v": 45.76,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 15, Ikhtisar 2025 - Rasio Keuangan, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "cir": {
+                "v": 78.4,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 15, Ikhtisar 2025 - Rasio Keuangan, 'Rasio Biaya terhadap Pendapatan / Cost to Income Ratio'",
+                "basis": "bank_only",
+                "note": "AR definition not printed; distinct from BOPO."
+            },
+            "bopo": {
+                "v": 97.15,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 15, Ikhtisar 2025 - Rasio Keuangan, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "casa": {
+                "v": 27.16,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a40deacfd3/annual-report-bank-maspion-tahun-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 115 (MD&A, deposits) and PDF p. 128 (MD&A): 'rasio CASA Bank pada akhir Desember 2025 tercapai sebesar 27,16% ... dari tahun 2024 sebesar 22,58%'",
+                "basis": "bank_only",
+                "note": "CASA (current + savings accounts) / customer deposits, as stated by the bank."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 7.5,
+            "total": 33.325961535,
+            "cum_date": "2021-09-08",
+            "ex_date": "2021-09-09",
+            "record_date": "2021-09-10",
+            "pay_date": "2021-10-01",
+            "share_basis": "2021-09-02",
+            "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/a7d5a6bf40/annual-report-2021.pdf",
+            "source_type": "filing",
+            "as_of_date": "2021-09-02",
+            "loc": "AR2021 PDF p. 137 (AGMS 31 Aug 2021, Agenda 2: Rp33,325,961,535 = Rp7.5/share) and PDF p. 138 'Jadwal Pembagian Dividen Tunai' (cum regular/negotiated 8 Sep 2021, ex 9 Sep 2021; cash-market cum 10 / ex 13 Sep; recording 10 Sep; payment 1 Oct 2021); PDF p. 136 (resolution announced 2 Sep 2021)",
+            "note": "The only cash dividend out of FY2020-FY2025 profit. 7.5 x 4,443,461,538 shares = Rp33,325,961,535. Same schedule in AR2022 PDF p. 159. share_basis = announcement of the AGMS result (2 Sep 2021); no split ever, so the basis is immaterial."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 6.388812,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/6e83a955cb/audited-report-bmas-june-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 6, Laporan Laba Rugi, 'LABA (RUGI) TAHUN BERJALAN', 30 Jun 2026 column",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Jun 2026, audited (the six-month statements were audited for the PMHMETD IV prospectus). Interim period is H1 2026: the 30 Sep 2026 statements were not yet on the IR page on 2026-11-03 (latest quarterly item: June 2026; Sep 2026 items are LCR/NSFR/key-metrics only). No subsidiaries: the bank-only audited statements are the whole reporting entity (tagged 'consolidated' per SCHEMA rule 3)."
+            },
+            "profit_ytd_prior": {
+                "v": 25.03286,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/6e83a955cb/audited-report-bmas-june-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 6, 'LABA (RUGI) TAHUN BERJALAN', 30 Jun 2025 column (unaudited)",
+                "basis": "consolidated",
+                "note": "Same figure in the 30 Jun 2025 interim FS (PDF p. 6, 'LABA PERIODE BERJALAN' 25,032,860). H1 2026 profit is 74% lower; see research_notes."
+            },
+            "equity_attr": {
+                "v": 6500.825594,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/6e83a955cb/audited-report-bmas-june-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 5, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest."
+            },
+            "shares_out": {
+                "v": 18102662304,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/6e83a955cb/audited-report-bmas-june-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 5, 'Modal ditempatkan dan disetor penuh - 18.102.662.304 saham'",
+                "basis": "n/a",
+                "share_basis": "2026-06-30",
+                "note": "Unchanged since Nov 2023. The PMHMETD IV rights issue (655:104 at Rp350, ex-date scheduled 24 Nov 2026) has not happened yet."
+            },
+            "total_assets": {
+                "v": 26597.869276,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/6e83a955cb/audited-report-bmas-june-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 4, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 19249.601808,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/6e83a955cb/audited-report-bmas-june-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 4, 'Jumlah kredit yang diberikan' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 14488.103266,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/54e5850b73/bmas-30-juni-2025-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "30 Jun 2025 interim FS, PDF p. 4, 'Jumlah kredit yang diberikan'",
+                "basis": "consolidated",
+                "note": "The H1 2026 statements compare the balance sheet with 31 Dec 2025, so the 30 Jun 2025 level is taken from the bank's own H1 2025 interim FS."
+            },
+            "deposits": {
+                "v": 11020.324655,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/6e83a955cb/audited-report-bmas-june-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 5, 'Jumlah simpanan dari nasabah'",
+                "basis": "consolidated"
+            },
+            "deposits_prior": {
+                "v": 14685.425664,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/54e5850b73/bmas-30-juni-2025-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "30 Jun 2025 interim FS, PDF p. 5, 'Jumlah simpanan dari nasabah'",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 0.21,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/f166eb1aad/laporan-keuangan-bmas-juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 1, 'Laporan Rasio Keuangan Triwulanan', 30-Jun-26 column, '8. Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Annualised, OJK definition (same as fy.*.roe). 30 Jun 2025: 0.80."
+            },
+            "roa": {
+                "v": 0.09,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/f166eb1aad/laporan-keuangan-bmas-juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 1, 'Laporan Rasio Keuangan Triwulanan', 30-Jun-26 column, '7. Return On Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "Annualised, OJK definition. 30 Jun 2025: 0.26."
+            },
+            "nim": {
+                "v": 3.21,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/f166eb1aad/laporan-keuangan-bmas-juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 1, 'Laporan Rasio Keuangan Triwulanan', 30-Jun-26 column, '9. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "30 Jun 2025: 3.43."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not in the OJK published report or the H1 2026 FS; no analyst presentation is published."
+            },
+            "npl_gross": {
+                "v": 2.31,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/f166eb1aad/laporan-keuangan-bmas-juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 1, 'Laporan Rasio Keuangan Triwulanan', 30-Jun-26 column, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "30 Jun 2025: 2.73. NPL net 1.38 (30 Jun 2025: 1.42)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed in the H1 2026 published report or FS."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the H1 2026 published report or FS; not derived."
+            },
+            "ldr": {
+                "v": 174.67,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/f166eb1aad/laporan-keuangan-bmas-juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 1, 'Laporan Rasio Keuangan Triwulanan', 30-Jun-26 column, '12. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "REAL value above the validator's 160% plausibility bound: customer deposits fell to Rp11.0tn while loans rose to Rp19.2tn, funded by borrowings from KASIKORNBANK (Rp5,811bn 'Pinjaman yang diterima - pihak berelasi', FS PDF p. 5) and repos. 30 Jun 2025: 98.66."
+            },
+            "car": {
+                "v": 48.22,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/f166eb1aad/laporan-keuangan-bmas-juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 1, 'Laporan Rasio Keuangan Triwulanan', 30-Jun-26 column, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "30 Jun 2025: 45.93. CET1 = Tier 1 = 47.07%."
+            },
+            "cir": {
+                "v": 95.25,
+                "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/f166eb1aad/laporan-keuangan-bmas-juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 1, 'Laporan Rasio Keuangan Triwulanan', 30-Jun-26 column, '11. Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "30 Jun 2025: 80.23. BOPO 98.90 (30 Jun 2025: 96.33)."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the H1 2026 published report or FS (deposit types are printed as amounts only); not computed."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2022",
+            "reason": "Real weighted-average effect of the PUT II rights issue: 4,176,853,845 new shares were issued in late Nov/Dec 2022, so FY2022 basic EPS Rp23.99 is computed on weighted-average shares of 4,791,533 thousand (FS2022 Note 31, PDF p. 85: 114,940,964 / 4,791,533 = 23.99), while shares_out is the year-end 8,620,315,383. Source: https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/fbabda44bd/audited-report-bmas.pdf"
+        },
+        {
+            "check": "eps_shares:2023",
+            "reason": "Real weighted-average effect of the PMHMETD III rights issue: 9,482,346,921 new shares were issued in Nov 2023, so FY2023 basic EPS Rp6.72 is computed on weighted-average shares of 9,410,510,960 (FS2024 Note 32, PDF p. 87; FS2023 Note 32, PDF p. 87: 9,410,512 thousand): 63,253,410 / 9,410,510,960 = 6.72, while shares_out is the year-end 18,102,662,304. Source: https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/5bfa7743f6/audited-report-bmas-1224.pdf"
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: www.bankmaspion.co.id now redirects to https://www.kasikornbank.co.id (the bank's new official site, a Next.js app with no bot protection). Every document was downloaded directly from the bank's own CDN (https://www.kasikornbank.co.id/cdn/f/...) on 2026-11-03 with curl and a browser User-Agent; document lists were read from the IR pages' embedded data (financial-reports?topic=annual|audited-financial|interim|quarterly, information-disclosure, general-meeting-of-shareholders). No Internet Archive copy and no news source was needed for any number. The FY2021 audited-FS link on the IR page is broken (redirects to a KBank Thailand page), so the audited FS2021 reproduced inside AR2021 (PDF pp. 418-420) was used and cross-checked against the FS2022 comparative column. Scanned statement pages (FS2022-FS2024 PDF pp. 5-6, AR2021 PDF pp. 419-420, the GMS notary resumes) were read from rendered page images; each value was cross-checked against the next year's text-layer comparative or the AR highlight table (all agree).",
+        "ENTITY / NAME: PT Bank Kasikorn Indonesia Tbk ('KBank Indonesia'), formerly PT Bank Maspion Indonesia Tbk (Surabaya, IPO 11 Jul 2013 as BMAS; ticker unchanged). The name change and the move of the registered seat from Surabaya to Jakarta Selatan (Pacific Century Place, SCBD) were approved by the AGMS of 20 May 2026 (notary resume PDF pp. 9-10, Agenda 9); the H1 2026 FS and published report are already headed 'PT Bank Kasikorn Indonesia Tbk (dahulu PT Bank Maspion Indonesia Tbk)'. Controlling shareholder: KASIKORN VISION FINANCIAL COMPANY PTE. LTD. (KVF, 100% KASIKORNBANK PCL, Thailand) 86.03%, KASIKORNBANK 2.45%, PT Kasikorn Vision Financial Indonesia 1.00%, public 10.52% (30 Sep 2026, IR shareholder page). KASIKORNBANK already held 443,901,808 shares (9.99%) before PUT II (PUT II summary prospectus PDF p. 1); KVF took control through the 2022 PUT II (62.35%, completed 7 Dec 2022) and raised its stake via the 2023 PMHMETD III. The founding Maspion-group holder PT Alim Investindo still held 13.89% at end-2024 (AR2024 PDF p. 565, FS Note 23) but is no longer listed among shareholders by Sep 2025. The bank has no subsidiaries, associates or JVs (AR2025 PDF p. 97), so the bank-only statements are the whole entity: money fields carry basis 'consolidated' (SCHEMA rule 3; same approach as BBHI/BBYB), ratios 'bank_only' as reported to OJK. Conventional bank (sharia=false). Auditors: Hendrawinata Hanny Erwin & Suwargo (FY2020), Tanubrata Sutanto Fahmi Bambang & Rekan / BDO (FY2025, H1 2026).",
+        "UNITS: all audited/interim statements are in Rp ribu (thousands) -> divided by 1e6, full precision kept. AR highlight tables are in Rp juta. The AR2024 highlight table rounds the FY2024 loss to (247,213) juta, but the audited statement prints (247,211,570) thousand (FS2024 PDF p. 6, FS2025 PDF p. 6): the audited figure is stored.",
+        "CORPORATE ACTIONS 2019-now: two rights issues, both recorded: PUT II (100:94 at Rp410, ex 21 Nov 2022) and PMHMETD III (100:110 at Rp370, ex 3 Nov 2023). No stock split, reverse split, bonus issue or stock dividend: the share count reconciles exactly (4,443,461,538 + 4,176,853,845 = 8,620,315,383; + 9,482,346,921 = 18,102,662,304, unchanged through 30 Jun 2026; AR2025 PDF p. 97 listing chronology), so per-share history needs no adjustment factor. Pre-2019 (out of scope): IPO 2013 at Rp320 (770,000,000 shares), PUT I Oct 2016 at Rp340 (592,461,538 shares). No rights or bonus ex-date falls before 2020-12-31, so fy.2019.year_end_price is not stored (for reference only: AR2020 PDF p. 16 prints the Q4-2019 close as Rp358). The 12 Sep 2025 row 'Ketentuan Free Float' in the AR2025 listing chronology (983,732,793 shares at Rp500, total shares unchanged) is a free-float transaction in existing shares (public portion raised to 10.52%) - not a split/rights/bonus, so not a corporate_actions record.",
+        "UPCOMING RIGHTS ISSUE (NOT RECORDED, ex-date in the future): PMHMETD IV approved by the EGMS of 27 Aug 2026 (notary resume No. 292/Srt/VIII/2026). Summary prospectus of 8 Sep 2026 (https://www.kasikornbank.co.id/cdn/f/293514417727424/x/cc4001c7a9/prospektus-ringkas-pmhmetd-iv-bmas-2026-final-version.pdf, PDF pp. 1-2): 655 old shares -> 104 rights, exercise Rp350, up to 2,874,315,845 new shares (13.70% dilution), proceeds up to Rp1,006,010,545,750; standby buyer KVF. INDICATIVE schedule: OJK effective 13 Nov 2026, cum regular/negotiated 23 Nov 2026, EX 24 NOV 2026 (cash market 26 Nov), recording date 25 Nov 2026, rights trading 27 Nov - 3 Dec 2026. Add it to corporate_actions (type rights, ratio_old 655, ratio_new 104, price 350, ex_date 2026-11-24) once OJK declares it effective and the final schedule is published; shares_out would then rise to up to 20,976,978,149.",
+        "FREE FLOAT / THIN TRADING: at end-2024 the shareholder register (AR2024 PDF p. 565, FS Note 23) was KVF 81.10%, PT Alim Investindo 13.89%, KASIKORNBANK 2.45%, PT Guna Investindo 1.44%, PT Kasikorn Vision Financial Indonesia 1.00%, directors 0.00% and the public only 0.11%. AR2024 PDF p. 16 shows Q1 2024 volume of 68 shares and Q2 2024 of 0 (quarterly closes 535 and 500 barely moved). The free-float requirement was met on 12 Sep 2025 with a public portion of 10.52% (AR2025 PDF pp. 97-98; the listing-chronology row 'Ketentuan Free Float' shows 983,732,793 shares at Rp500, total shares unchanged). Daily prices for 2024 to mid-2025 are therefore stale/illiquid; the year-end closes stored are the AR's printed figures. Also note the 2021 rally (Q1 2021 low Rp332 -> high Rp2,760 in Q4 2021, AR2021 PDF p. 16) during the KBank/digital-bank speculation, with no corporate action behind it.",
+        "PROFITABILITY / LOSS YEAR: FY2024 is a loss year (net loss Rp247.2bn after Rp380.4bn impairment provisions; BOPO 120.13%, ROE -3.79%). FY2025 profit Rp31.8bn; H1 2026 profit Rp6.4bn vs Rp25.0bn in H1 2025 (general & administrative expenses Rp395.4bn vs Rp146.5bn, partly offset by Rp294.0bn 'Lain-lain' other operating income; FS PDF p. 6). The AGMS of 20 May 2026 also approved an updated Recovery Plan (Agenda 8, POJK 5/2024). Growth from FY2021 to FY2023 is dominated by the two KBank-funded rights issues (equity 1.33tn -> 6.72tn), not organic growth.",
+        "DIVIDENDS: the only cash dividend out of FY2020-FY2025 profit is the FY2020 final dividend of Rp7.5/share (Rp33,325,961,535; AGMS 31 Aug 2021; ex 9 Sep 2021; paid 1 Oct 2021; AR2021 PDF pp. 137-138). No dividend for FY2021 (AGMS 18 Jul 2022), FY2022 (AGMS 15 Jun 2023), FY2023 (AGMS 14 May 2024), FY2024 (loss; AGMS 27 May 2025) or FY2025 (AGMS 20 May 2026): payout_ratio v 0 with the AGMS source. The FY2020 payout ratio is null because no percentage is printed anywhere (amounts only; Rp33.3bn of Rp67.0bn). The validator will warn 'no dividend records' for FY2021-FY2023 and FY2025 - expected, there were none. Dividend policy: maximum 50% of net profit (AR2021 PDF p. 103).",
+        "RATIOS: all FY ratios are the OJK ratios printed in each year's own AR 'Rasio Keuangan' table (bank = whole entity); later ARs reprint the same values (checked AR2021-AR2025 three-year tables: no restatement found). ROE is consistent with the OJK definition (profit after tax / average Tier 1 capital): FY2025 31.8bn / ~6.2tn Tier 1 = 0.51%. CIR appears only from AR2023 ('Rasio Biaya terhadap Pendapatan'; FY2021 and FY2022 taken from AR2023's three-year table, FY2020 not disclosed). CASA % is stated only for FY2023-FY2025 (MD&A). CoC, LAR and NPL coverage are not disclosed in any AR, FS or published report; no analyst presentations exist. LDR: FY2025 146.36% and H1 2026 174.67% are real (loans funded by KBank borrowings and interbank funds while customer deposits fell); the H1 2026 value is above the validator's 160% plausibility bound and will show as a range warning.",
+        "KBMI: KBMI 2 since the Nov 2023 PMHMETD III lifted core capital above Rp6tn (AR2024 PDF p. 49: 'Bank masuk kedalam kategori KBMI 2 dengan modal inti lebih dari Rp6 Triliun'). Tier 1 at 31 Dec 2025 Rp6,182,308 juta (AR2025 PDF p. 131), only ~3% above the Rp6tn KBMI 2 threshold (POJK 12/POJK.03/2021). Before Nov 2023 the bank was KBMI 1 (AR2024 PDF p. 48).",
+        "INTERIM: H1 2026 (30 Jun 2026) is the latest published period; the 30 Jun 2026 statements are AUDITED (BDO TSFB, report dated Aug 2026, for the PMHMETD IV prospectus). Balance-sheet prior-year comparatives (30 Jun 2025 loans and deposits) come from the bank's own H1 2025 interim FS, because the H1 2026 statements compare with 31 Dec 2025. Ratios come from the OJK published quarterly report for 30 Jun 2026 (one-page PDF, 'Laporan Rasio Keuangan Triwulanan'); the PMHMETD IV summary prospectus (PDF p. 12, 'Analisis Rasio Keuangan') reprints identical H1 2026 ratios."
+    ]
+}

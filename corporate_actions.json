@@ -308,6 +308,34 @@
             "note": "PMHMETD I (rights issue): every 1,153 existing shares received 80 rights; 1 right = 1 new Series B share (nominal Rp250) at Rp1,355. Cum regular/negotiated market 2 Mar 2022, ex 4 Mar 2022 (3 Mar 2022 was a market holiday); cash market cum 7 / ex 8 Mar; recording date 7 Mar 2022; rights trading 9-16 Mar 2022; allotment 21 Mar 2022. Company filing confirms the outcome: AR2022 FS Note 1e (PDF p. 1081, https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf): OJK effective statement S-25/D.04/2022 of 21 Feb 2022, 682,656,525 Series B shares at Rp1,355, rights trading 9-16 Mar 2022, proceeds Rp924,999,591,375; AR2022 PDF p. 39: shares 9,838,787,161 -> 10,521,443,686. The bank's prospectus (bankbjb.co.id/files/2022/02/bjb-prospektus-feb22-rev1.pdf) and the IDX announcement could not be retrieved, so ratio and ex-date rest on news. Rights issues do not change the split factor."
         },
         {
+            "code": "BMAS",
+            "type": "rights",
+            "ratio_old": 100,
+            "ratio_new": 94,
+            "ex_date": "2022-11-21",
+            "price": 410,
+            "exercise_price": 410,
+            "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/0x0/ca99cd2720/prospektus-ringkas-put-ii-bmas-final-version.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-11-14",
+            "loc": "Perubahan dan/atau Tambahan Informasi / Prospektus Ringkas PMHMETD II (14 Nov 2022), PDF p. 1 ('Setiap pemegang 100 Saham Lama ... pada tanggal 22 November 2022 ... berhak atas 94 HMETD ... Harga Pelaksanaan sebesar Rp410') and PDF p. 2 'JADWAL SEMENTARA' ('Tanggal Mulai Perdagangan Saham Tanpa HMETD (Ex-Right) - Pasar Reguler dan Pasar Negosiasi: 21 November 2022')",
+            "note": "PUT II / PMHMETD II of PT Bank Maspion Indonesia Tbk: 100 old shares -> 94 rights, 1 right = 1 new share (nominal Rp100) at Rp410. EGMS 18 Jul 2022; OJK effective 10 Nov 2022; cum regular/negotiated 18 Nov 2022, ex 21 Nov 2022 (cash market cum 22 / ex 23 Nov); recording date 22 Nov 2022; rights traded/exercised 24-30 Nov 2022; standby buyer PT Alim Investindo. The final indicative schedule on the bank's site (https://www.kasikornbank.co.id/cdn/f/293514417727424/x/48801b25ee/final-indikasi-jadwal-put-ii-bmas.pdf, item 17) gives the same ex-date (Senin 21-Nov-22). 4,176,853,845 new shares, proceeds Rp1,712,510,076,450; shares 4,443,461,538 -> 8,620,315,383 (AR2025 PDF p. 97 listing chronology). Through it KASIKORN VISION FINANCIAL COMPANY PTE. LTD. took control (62.35%, acquisition completed 7 Dec 2022). Not a split: no per-share adjustment factor."
+        },
+        {
+            "code": "BMAS",
+            "type": "rights",
+            "ratio_old": 100,
+            "ratio_new": 110,
+            "ex_date": "2023-11-03",
+            "price": 370,
+            "exercise_price": 370,
+            "source_url": "https://www.kasikornbank.co.id/cdn/f/293514417727424/x/0704889d9b/prospektus-ringkas-pmhmetd-iii-bmas-2023-final-ver.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-10-26",
+            "loc": "Perubahan dan/atau Tambahan Informasi / Prospektus Ringkas PMHMETD III (26 Oct 2023), PDF p. 1 ('Setiap pemegang 100 Saham Lama ... pada tanggal 6 November 2023 ... berhak atas 110 HMETD ... Harga Pelaksanaan sebesar Rp370') and PDF p. 2 'INDIKASI JADWAL' ('Tanggal Mulai Perdagangan Saham Tanpa HMETD (Ex-Right) - Pasar Reguler dan Pasar Negosiasi: 3 November 2023')",
+            "note": "PUT III / PMHMETD III: 100 old shares -> 110 rights, 1 right = 1 new share (nominal Rp100) at Rp370. EGMS 15 Jun 2023; OJK effective 25 Oct 2023; cum regular/negotiated 2 Nov 2023, ex 3 Nov 2023 (cash market cum 6 / ex 7 Nov); recording date 6 Nov 2023; rights traded/exercised 8-14 Nov 2023; standby buyer KASIKORN VISION FINANCIAL COMPANY PTE. LTD. 9,482,346,921 new shares, proceeds Rp3,508,468,360,770; shares 8,620,315,383 -> 18,102,662,304 (AR2025 PDF p. 97; FS2023 Note 32). Not a split: no per-share adjustment factor."
+        },
+        {
             "code": "BMRI",
             "type": "split",
             "ratio_old": 1,
