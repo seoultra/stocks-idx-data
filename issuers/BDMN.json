@@ -1,0 +1,1616 @@
+{
+    "schema": 1,
+    "code": "BDMN",
+    "name": "PT Bank Danamon Indonesia Tbk",
+    "name_short": "Bank Danamon",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.danamon.co.id",
+    "ir_url": "https://www.danamon.co.id/en/tentang-danamon/Informasi-Investor",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 256 (printed p. 254) (also PDF p. 257 (printed p. 255)), Risk management - liquidity (LCR) disclosure: 'In accordance with POJK No. 42/POJK.03/2015, Danamon is obliged to perform Individual and Consolidated quarterly reports for KBMI 3 Banks'",
+        "basis": "n/a",
+        "note": "KBMI 3 = core capital Rp14tn-Rp70tn (POJK 12/POJK.03/2021). Consistent with bank-only core capital (Tier 1) of Rp36,692bn at 31 Dec 2025 (AR2025 PDF p. 135) and with the KBMI 3 award categories listed in AR2025 (PDF pp. 96, 417)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 193533.97,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 541 (printed p. 539), AR2020 audited consolidated FS (comparative column 2019), Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated",
+                "note": "Comparative column of the audited FY2020 FS (balance sheet not restated). Includes Bank Nusantara Parahyangan (merged 1 May 2019)."
+            },
+            "loans_gross": {
+                "v": 141460,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 13 (printed p. 11), AR2020 Financial Highlights, Consolidated statement of financial position (in Rp billion), 'Loans - Gross a)'",
+                "basis": "consolidated",
+                "note": "AR highlights 'Loans - Gross', footnote a): including loans, receivables from consumer financing and lease receivable from Adira Finance (gross). Rp bn as printed; not summed by us."
+            },
+            "deposits": {
+                "v": 109791.91,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 661 (printed p. 659), AR2020 audited consolidated FS (comparative column 2019), Note 21 'Deposits from customers' a. by type and currency, total (Rupiah + foreign currency)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (current accounts, savings, time deposits incl. sharia unit). Excludes deposits from other banks (the AR highlight line 'Deposits from customers & other banks' is NOT used)."
+            },
+            "equity_attr": {
+                "v": 44937.166,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 543 (printed p. 541), AR2020 audited consolidated FS (comparative column 2019), Consolidated statement of financial position, subtotal 'Equity attributable to equity holders of the parent entity'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 45417.027,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 543 (printed p. 541), AR2020 audited consolidated FS (comparative column 2019), Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 1007.614,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 546 (printed p. 544), AR2020 audited consolidated FS, Consolidated statement of profit or loss, 'Net income attributable to: Equity holders of the parent entity'",
+                "basis": "consolidated",
+                "note": "From continuing operations; no discontinued operations in 2020. AR2022 highlights show a restated 1,006."
+            },
+            "eps": {
+                "v": 103.1,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 546 (printed p. 544), AR2020 audited consolidated FS, 'BASIC EARNINGS PER SHARE ATTRIBUTABLE TO EQUITY HOLDERS OF THE PARENT ENTITY (FULL AMOUNT)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "From continuing operations (= total)."
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 652 (printed p. 650), Note 32 Appropriation of net income (AGMS 30 Apr 2021: 35% of 2020 net profit)",
+                "basis": "consolidated",
+                "note": "35% of FY2020 net profit attributable to equity holders of the parent (as originally reported), one final cash dividend; no interim or special dividend."
+            },
+            "total_assets": {
+                "v": 200890.068,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 541 (printed p. 539), AR2020 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated",
+                "note": "As originally reported (AR2020). AR2022 restated 31 Dec 2020/1 Jan 2021 (PSAK 24 attribution guidance): 200,855.576."
+            },
+            "loans_gross": {
+                "v": 134161,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13 (printed p. 11), AR2020 Financial Highlights, Consolidated statement of financial position (in Rp billion), 'Loans - Gross a)'",
+                "basis": "consolidated",
+                "note": "AR highlights 'Loans - Gross', footnote a): including loans, receivables from consumer financing and lease receivable from Adira Finance (gross). Rp bn as printed; not summed by us."
+            },
+            "deposits": {
+                "v": 123733.204,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 661 (printed p. 659), AR2020 audited consolidated FS, Note 21 'Deposits from customers' a. by type and currency, total (Rupiah + foreign currency)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (current accounts, savings, time deposits incl. sharia unit). Excludes deposits from other banks (the AR highlight line 'Deposits from customers & other banks' is NOT used)."
+            },
+            "equity_attr": {
+                "v": 43107.813,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 543 (printed p. 541), AR2020 audited consolidated FS, Consolidated statement of financial position, subtotal 'Equity attributable to equity holders of the parent entity'",
+                "basis": "consolidated",
+                "note": "As originally reported. AR2022 restated 1 Jan 2021: 43,233.638."
+            },
+            "total_equity": {
+                "v": 43575.499,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 543 (printed p. 541), AR2020 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated",
+                "note": "As originally reported. AR2022 restated 1 Jan 2021: 43,708.077."
+            },
+            "shares_out": {
+                "v": 9773552870,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 543 (printed p. 541) (share capital line: 22,400,000 A series + 9,751,152,870 B series shares issued and fully paid) and PDF p. 13 (printed p. 11) Financial Highlights 'Number of Shares Issued and Fully Paid'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "No treasury shares at parent level (the balance sheet has no treasury-share line; the only treasury shares in the group are Adira Finance's own shares). Unchanged since the 2019 Bank Nusantara Parahyangan merger."
+            },
+            "year_end_price": {
+                "v": 3200,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Shares Highlights, share price table, 2020 Fourth Quarter closing; market cap IDR31,275,369 million",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Closing x 9,773,552,870 shares = the printed market cap."
+            },
+            "roe": {
+                "v": 2.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 137 (printed p. 135), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROE-Consolidated'",
+                "basis": "consolidated",
+                "note": "ROE-Consolidated 2.7 in the AR2020 MD&A table; the AR2020 highlights and the FY20/FY21 decks print ROAE 2.6."
+            },
+            "roa": {
+                "v": 0.5,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 137 (printed p. 135), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROA-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average assets AFTER tax, consolidated (= highlights 'ROAA After Tax'). Same table, ROAA before tax: 1.0."
+            },
+            "nim": {
+                "v": 7.4,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 137 (printed p. 135), Management Discussion & Analysis, 'Key Financial Ratios' table, 'NIM-Consolidated'",
+                "basis": "consolidated"
+            },
+            "coc": {
+                "v": 4.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2020/Q4/Analyst-Briefing-FY-2020-Final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY20 analyst briefing deck PDF p. 9, '2020 Key Financial Ratios' table, FY20 column, 'CoC'",
+                "basis": "consolidated",
+                "note": "Cost of credit = provision expense / average loans (YTD), consolidated (bank + Adira Finance; deck splits 'BDI' and 'ADMF'). The FY21 deck prints FY20 as 4.8."
+            },
+            "npl_gross": {
+                "v": 2.8,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 137 (printed p. 135), Management Discussion & Analysis, 'Key Financial Ratios' table, 'NPL-Consolidated'",
+                "basis": "consolidated"
+            },
+            "npl_net": {
+                "v": 0.9,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Key Financial Ratios (%)' table, 'Non-Performing Loans (NPL) to Total Loans - Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated: in the AR2025 version of this table only CIR, BOPO, LDR and CASA carry footnote g) 'Bank only'."
+            },
+            "lar": {
+                "v": 24.1,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2021/Q4/Analyst-Briefing-FY21_FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY21 analyst briefing deck PDF p. 16, 'Loan at Risk (% of Total Loans)' chart, 4Q20 bar label",
+                "basis": "consolidated",
+                "note": "Loan at risk = NPL + special mention + restructured collectibility-1 loans incl. COVID restructured loans under forbearance, % of total loans (deck definition), consolidated. Printed in the FY21 deck (the FY20 deck shows only LAR coverage). Consistent with the FY21 deck p. 5 text 'improved 810bps YoY to 16.0%'."
+            },
+            "npl_coverage": {
+                "v": 199.9,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Key Financial Ratios (%)' table, 'Loan Loss Coverage'",
+                "basis": "consolidated",
+                "note": "AR2022 shows 2020 restated 208.7; FY21 deck also 208.7."
+            },
+            "ldr": {
+                "v": 84,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 137 (printed p. 135), Management Discussion & Analysis, 'Key Financial Ratios' table, 'LDR-Bank'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 25,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 137 (printed p. 135), Management Discussion & Analysis, 'Key Financial Ratios' table, 'CAR-Consolidated Ratio'",
+                "basis": "consolidated"
+            },
+            "cir": {
+                "v": 46.5,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 137 (printed p. 135), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Cost to income-Bank'",
+                "basis": "bank_only",
+                "note": "'Cost to income-Bank' 46.5 per AR2020 MD&A (AR2021 MD&A also 46.5); the AR2020 highlights table prints 46.3."
+            },
+            "bopo": {
+                "v": 88.9,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Key Financial Ratios (%)' table, 'Operating Expense to Operating Income (BOPO)'",
+                "basis": "bank_only",
+                "note": "Bank only: not labelled in this AR; AR2025 labels the same series bank only (its 2023 value 75.7 equals the value printed in AR2023 and AR2024)."
+            },
+            "casa": {
+                "v": 52.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2020/EN/v1/AR-DANAMON_ENG-2020_FULL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Financial Highlights, 'Key Financial Ratios (%)' table, 'CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Bank only per the AR2025 footnote convention (the subsidiaries take no deposits, so bank-only and consolidated CASA are practically the same)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 1573.113,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 519 (printed p. 517), AR2021 audited consolidated FS, Consolidated statement of profit or loss, 'Net income attributable to: Equity holders of the parent entity'",
+                "basis": "consolidated",
+                "note": "As originally reported. AR2022 restated (PSAK 24 attribution guidance): 1,571.471."
+            },
+            "eps": {
+                "v": 160.96,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 519 (printed p. 517), AR2021 audited consolidated FS, 'BASIC EARNINGS PER SHARE ATTRIBUTABLE TO EQUITY HOLDERS OF THE PARENT ENTITY (FULL AMOUNT)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "As originally reported. AR2022 restated: 160.79."
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 686 (printed p. 684), Note 32 Appropriation of net income (AGMS 25 Mar 2022: 35% of 2021 net profit)",
+                "basis": "consolidated",
+                "note": "35% of FY2021 net profit attributable to equity holders of the parent (as originally reported), one final cash dividend; no interim or special dividend."
+            },
+            "total_assets": {
+                "v": 192239.698,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 515 (printed p. 513), AR2021 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated",
+                "note": "As originally reported (AR2021). AR2022 restated FY2021 (DSAK-IAI PSAK 24 employee-benefit attribution guidance, Note 60a): 192,207.461."
+            },
+            "loans_gross": {
+                "v": 127708,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12 (printed p. 10), AR2021 Financial Highlights, Consolidated statement of financial position (in Rp billion), 'Loans - Gross a)'",
+                "basis": "consolidated",
+                "note": "AR highlights 'Loans - Gross', footnote a): including loans, receivables from consumer financing and lease receivable from Adira Finance (gross). Rp bn as printed; not summed by us."
+            },
+            "deposits": {
+                "v": 121069.317,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 623 (printed p. 621), AR2021 audited consolidated FS, Note 21 'Deposits from customers' a. by type and currency, total (Rupiah + foreign currency)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (current accounts, savings, time deposits incl. sharia unit). Excludes deposits from other banks (the AR highlight line 'Deposits from customers & other banks' is NOT used)."
+            },
+            "equity_attr": {
+                "v": 44539.107,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 517 (printed p. 515), AR2021 audited consolidated FS, Consolidated statement of financial position, subtotal 'Equity attributable to equity holders of the parent entity'",
+                "basis": "consolidated",
+                "note": "As originally reported. AR2022 restated: 44,648.695."
+            },
+            "total_equity": {
+                "v": 45083.058,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 517 (printed p. 515), AR2021 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated",
+                "note": "As originally reported. AR2022 restated: 45,197.354."
+            },
+            "shares_out": {
+                "v": 9773552870,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 517 (printed p. 515) (share capital line: 22,400,000 A series + 9,751,152,870 B series shares issued and fully paid) and PDF p. 12 (printed p. 10) Financial Highlights 'Number of Shares Issued and Fully Paid'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "No treasury shares at parent level (the balance sheet has no treasury-share line; the only treasury shares in the group are Adira Finance's own shares). Unchanged since the 2019 Bank Nusantara Parahyangan merger."
+            },
+            "year_end_price": {
+                "v": 2350,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Shares Highlights, share price table, 2021 Quarter IV closing; market cap Rp22,967.85 billion",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Closing x 9,773,552,870 shares = the printed market cap."
+            },
+            "roe": {
+                "v": 4.1,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 133 (printed p. 131), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROE-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average equity, consolidated, as printed (highlights 'ROAE' is the same value). The analyst decks state that since July 2020 ROAE is calculated on Tier-1 capital (FY20 deck p. 9 footnote 3)."
+            },
+            "roa": {
+                "v": 0.8,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 133 (printed p. 131), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROA-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average assets AFTER tax, consolidated (= highlights 'ROAA After Tax'). Same table, ROAA before tax: 1.2."
+            },
+            "nim": {
+                "v": 7.5,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 133 (printed p. 131), Management Discussion & Analysis, 'Key Financial Ratios' table, 'NIM-Consolidated'",
+                "basis": "consolidated"
+            },
+            "coc": {
+                "v": 4.4,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2021/Q4/Analyst-Briefing-FY21_FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY21 analyst briefing deck PDF p. 8, 'FY-2021 Key Financial Ratios' table, FY21 column, 'CoC'",
+                "basis": "consolidated",
+                "note": "Cost of credit = provision expense / average loans (YTD), consolidated (bank + Adira Finance; deck splits 'BDI' and 'ADMF')."
+            },
+            "npl_gross": {
+                "v": 2.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 133 (printed p. 131), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Gross NPL-Consolidated'",
+                "basis": "consolidated"
+            },
+            "npl_net": {
+                "v": 0.4,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13 (printed p. 11), Financial Highlights, 'Key Financial Ratios (%)' table, 'Non-Performing Loans (NPL) to Total Loans - Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated: in the AR2025 version of this table only CIR, BOPO, LDR and CASA carry footnote g) 'Bank only'."
+            },
+            "lar": {
+                "v": 16,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2021/Q4/Analyst-Briefing-FY21_FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY21 analyst briefing deck PDF p. 5 ('LAR% (include COVID restructure still under forbearance) improved 810bps YoY to 16.0%') and p. 16 chart, 4Q21",
+                "basis": "consolidated",
+                "note": "Loan at risk = NPL + special mention + restructured collectibility-1 loans incl. COVID restructured loans under forbearance, % of total loans (deck definition), consolidated."
+            },
+            "npl_coverage": {
+                "v": 225.6,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13 (printed p. 11), Financial Highlights, 'Key Financial Ratios (%)' table, 'Loan Loss Coverage'",
+                "basis": "consolidated",
+                "note": "Loan loss coverage = allowance for impairment losses on loans / NPL, consolidated (same convention as npl_net)."
+            },
+            "ldr": {
+                "v": 84.6,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 133 (printed p. 131), Management Discussion & Analysis, 'Key Financial Ratios' table, 'LDR-Bank Only'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 26.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 133 (printed p. 131), Management Discussion & Analysis, 'Key Financial Ratios' table, 'CAR-Consolidated'",
+                "basis": "consolidated"
+            },
+            "cir": {
+                "v": 47.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 133 (printed p. 131), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Cost to Income-Bank Only'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 86.6,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13 (printed p. 11), Financial Highlights, 'Key Financial Ratios (%)' table, 'Operating Expense to Operating Income (BOPO)'",
+                "basis": "bank_only",
+                "note": "Bank only: not labelled in this AR; AR2025 labels the same series bank only (its 2023 value 75.7 equals the value printed in AR2023 and AR2024)."
+            },
+            "casa": {
+                "v": 59.1,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2021/EN-Ver/ANNUAL-REPORT-DANAMON-2021-English_Rev.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13 (printed p. 11), Financial Highlights, 'Key Financial Ratios (%)' table, 'CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Bank only per the AR2025 footnote convention (the subsidiaries take no deposits, so bank-only and consolidated CASA are practically the same)."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 3302.314,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 556 (printed p. 554), AR2022 audited consolidated FS, Consolidated statement of profit or loss, 'Net income attributable to: Equity holders of the parent entity'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 337.88,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 556 (printed p. 554), AR2022 audited consolidated FS, 'BASIC EARNINGS PER SHARE ATTRIBUTABLE TO EQUITY HOLDERS OF THE PARENT ENTITY (FULL AMOUNT)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31"
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2023 PDF p. 697 (printed p. 695), Note 32 Appropriation of net income (AGMS 31 Mar 2023: 35% of 2022 net profit)",
+                "basis": "consolidated",
+                "note": "35% of FY2022 net profit attributable to equity holders of the parent (as originally reported), one final cash dividend; no interim or special dividend."
+            },
+            "total_assets": {
+                "v": 197729.688,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 552 (printed p. 550), AR2022 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 144900,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 10 (printed p. 8), AR2022 Financial Highlights, Consolidated statement of financial position (in Rp billion), 'Loans - Gross a)'",
+                "basis": "consolidated",
+                "note": "AR highlights 'Loans - Gross', footnote a): including loans, receivables from consumer financing and lease receivable from Adira Finance (gross). Rp bn as printed; not summed by us."
+            },
+            "deposits": {
+                "v": 124960.232,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 655 (printed p. 653), AR2022 audited consolidated FS, Note 21 'Deposits from customers' a. by type and currency, total (Rupiah + foreign currency)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (current accounts, savings, time deposits incl. sharia unit). Excludes deposits from other banks (the AR highlight line 'Deposits from customers & other banks' is NOT used)."
+            },
+            "equity_attr": {
+                "v": 46843.703,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 554 (printed p. 552), AR2022 audited consolidated FS, Consolidated statement of financial position, subtotal 'Equity attributable to equity holders of the parent entity'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 47478.482,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 554 (printed p. 552), AR2022 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 9773552870,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 554 (printed p. 552) (share capital line: 22,400,000 A series + 9,751,152,870 B series shares issued and fully paid) and PDF p. 10 (printed p. 8) Financial Highlights 'Number of Shares Issued and Fully Paid'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "No treasury shares at parent level (the balance sheet has no treasury-share line; the only treasury shares in the group are Adira Finance's own shares). Unchanged since the 2019 Bank Nusantara Parahyangan merger."
+            },
+            "year_end_price": {
+                "v": 2730,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Shares Highlights, share price table, 2022 Fourth Quarter closing; market cap Rp26,681,799 million",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Closing x 9,773,552,870 shares = the printed market cap."
+            },
+            "roe": {
+                "v": 8.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 156 (printed p. 154), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROE-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average equity, consolidated, as printed (highlights 'ROAE' is the same value). The analyst decks state that since July 2020 ROAE is calculated on Tier-1 capital (FY20 deck p. 9 footnote 3)."
+            },
+            "roa": {
+                "v": 1.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 156 (printed p. 154), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROA-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average assets AFTER tax, consolidated (= highlights 'ROAA After Tax'). Same table, ROAA before tax: 2.3."
+            },
+            "nim": {
+                "v": 7.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 156 (printed p. 154), Management Discussion & Analysis, 'Key Financial Ratios' table, 'NIM-Consolidated'",
+                "basis": "consolidated"
+            },
+            "coc": {
+                "v": 2.4,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2022/Q4/eng-Analyst-Briefing-FY22---FINAL--Rev.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY22 analyst briefing deck PDF p. 10, 'FY2022 Key Financial Ratios' table, Dec-22 column, 'CoC'",
+                "basis": "consolidated",
+                "note": "Cost of credit = provision expense / average loans (YTD), consolidated (bank + Adira Finance; deck splits 'BDI' and 'ADMF')."
+            },
+            "npl_gross": {
+                "v": 2.6,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 156 (printed p. 154), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Gross NPL-Consolidated'",
+                "basis": "consolidated"
+            },
+            "npl_net": {
+                "v": 0.2,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11 (printed p. 9), Financial Highlights, 'Key Financial Ratios (%)' table, 'Non-Performing Loans (NPL) to Total Loans - Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated: in the AR2025 version of this table only CIR, BOPO, LDR and CASA carry footnote g) 'Bank only'."
+            },
+            "lar": {
+                "v": 12.6,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2022/Q4/eng-Analyst-Briefing-FY22---FINAL--Rev.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY22 analyst briefing deck PDF p. 7 ('LAR% ... was managed down by 340bps YoY to 12.6%') and p. 18 chart, Dec-22",
+                "basis": "consolidated",
+                "note": "Loan at risk = NPL + special mention + restructured collectibility-1 loans incl. COVID restructured loans under forbearance, % of total loans (deck definition), consolidated."
+            },
+            "npl_coverage": {
+                "v": 230.8,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11 (printed p. 9), Financial Highlights, 'Key Financial Ratios (%)' table, 'Loan Loss Coverage'",
+                "basis": "consolidated",
+                "note": "Loan loss coverage = allowance for impairment losses on loans / NPL, consolidated (same convention as npl_net)."
+            },
+            "ldr": {
+                "v": 91,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 156 (printed p. 154), Management Discussion & Analysis, 'Key Financial Ratios' table, 'LDR-Bank Only'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 26.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 156 (printed p. 154), Management Discussion & Analysis, 'Key Financial Ratios' table, 'CAR-Consolidated'",
+                "basis": "consolidated"
+            },
+            "cir": {
+                "v": 50,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 156 (printed p. 154), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Cost to Income-Bank Only'",
+                "basis": "bank_only",
+                "note": "'Cost to Income-Bank Only' 50.0 per AR2022/AR2023 MD&A; the AR2022 highlights table prints 50.1."
+            },
+            "bopo": {
+                "v": 72.9,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11 (printed p. 9), Financial Highlights, 'Key Financial Ratios (%)' table, 'Operating Expense to Operating Income (BOPO)'",
+                "basis": "bank_only",
+                "note": "Bank only: not labelled in this AR; AR2025 labels the same series bank only (its 2023 value 75.7 equals the value printed in AR2023 and AR2024)."
+            },
+            "casa": {
+                "v": 63.9,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2022/pdf/AR-Bank-Danamon-2022-ENG-full-version_9mb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11 (printed p. 9), Financial Highlights, 'Key Financial Ratios (%)' table, 'CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Bank only per the AR2025 footnote convention (the subsidiaries take no deposits, so bank-only and consolidated CASA are practically the same)."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 3503.882,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 565 (printed p. 563), AR2023 audited consolidated FS, Consolidated statement of profit or loss, 'Net income attributable to: Equity holders of the parent entity'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 358.51,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 565 (printed p. 563), AR2023 audited consolidated FS, 'BASIC EARNINGS PER SHARE ATTRIBUTABLE TO EQUITY HOLDERS OF THE PARENT ENTITY (FULL AMOUNT)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31"
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 694 (printed p. 692), Note 32 Appropriation of net income (AGMS 22 Mar 2024: 35% of 2023 net profit)",
+                "basis": "consolidated",
+                "note": "35% of FY2023 net profit attributable to equity holders of the parent (as originally reported), one final cash dividend; no interim or special dividend."
+            },
+            "total_assets": {
+                "v": 221304.532,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 561 (printed p. 559), AR2023 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 172919,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12 (printed p. 10), AR2023 Financial Highlights, Consolidated statement of financial position (in Rp billion), 'Loans - Gross a)'",
+                "basis": "consolidated",
+                "note": "AR highlights 'Loans - Gross', footnote a): including loans, receivables from consumer financing and lease receivable from Adira Finance (gross). Rp bn as printed; not summed by us."
+            },
+            "deposits": {
+                "v": 138411.812,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 665 (printed p. 663), AR2023 audited consolidated FS, Note 21 'Deposits from customers' a. by type and currency, total (Rupiah + foreign currency)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (current accounts, savings, time deposits incl. sharia unit). Excludes deposits from other banks (the AR highlight line 'Deposits from customers & other banks' is NOT used)."
+            },
+            "equity_attr": {
+                "v": 49236.617,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 563 (printed p. 561), AR2023 audited consolidated FS, Consolidated statement of financial position, subtotal 'Equity attributable to equity holders of the parent entity'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 49959.368,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 563 (printed p. 561), AR2023 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 9773552870,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 563 (printed p. 561) (share capital line: 22,400,000 A series + 9,751,152,870 B series shares issued and fully paid) and PDF p. 12 (printed p. 10) Financial Highlights 'Number of Shares Issued and Fully Paid'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "No treasury shares at parent level (the balance sheet has no treasury-share line; the only treasury shares in the group are Adira Finance's own shares). Unchanged since the 2019 Bank Nusantara Parahyangan merger."
+            },
+            "year_end_price": {
+                "v": 2780,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Shares Highlights, share price table, 2023 Fourth Quarter closing; market cap Rp27,170,476 million",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Closing x 9,773,552,870 shares = the printed market cap."
+            },
+            "roe": {
+                "v": 8.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 154 (printed p. 152), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROE-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average equity, consolidated, as printed (highlights 'ROAE' is the same value). The analyst decks state that since July 2020 ROAE is calculated on Tier-1 capital (FY20 deck p. 9 footnote 3)."
+            },
+            "roa": {
+                "v": 1.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 154 (printed p. 152), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROA-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average assets AFTER tax, consolidated (= highlights 'ROAA After Tax'). Same table, ROAA before tax: 2.3."
+            },
+            "nim": {
+                "v": 7.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 154 (printed p. 152), Management Discussion & Analysis, 'Key Financial Ratios' table, 'NIM-Consolidated'",
+                "basis": "consolidated"
+            },
+            "coc": {
+                "v": 2.4,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2023/Q4/Analyst-Briefing-FY23-_-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY23 analyst briefing deck PDF p. 12, 'Key Financial Ratio' table, FY23 column, 'CoC'",
+                "basis": "consolidated",
+                "note": "Cost of credit = provision expense / average loans (YTD), consolidated (bank + Adira Finance; deck splits 'BDI' and 'ADMF')."
+            },
+            "npl_gross": {
+                "v": 2.2,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 154 (printed p. 152), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Gross NPL-Consolidated'",
+                "basis": "consolidated"
+            },
+            "npl_net": {
+                "v": 0.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13 (printed p. 11), Financial Highlights, 'Key Financial Ratios (%)' table, 'Non-Performing Loans (NPL) to Total Loans - Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated: in the AR2025 version of this table only CIR, BOPO, LDR and CASA carry footnote g) 'Bank only'."
+            },
+            "lar": {
+                "v": 11.6,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2023/Q4/Analyst-Briefing-FY23-_-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY23 analyst briefing deck PDF p. 9 ('LAR% ... improved by 100bps YoY, managed down to 11.6%') and p. 20 chart, Dec-23",
+                "basis": "consolidated",
+                "note": "Loan at risk = NPL + special mention + restructured collectibility-1 loans incl. COVID restructured loans under forbearance, % of total loans (deck definition), consolidated."
+            },
+            "npl_coverage": {
+                "v": 265.9,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13 (printed p. 11), Financial Highlights, 'Key Financial Ratios (%)' table, 'Loan Loss Coverage'",
+                "basis": "consolidated",
+                "note": "Loan loss coverage = allowance for impairment losses on loans / NPL, consolidated (same convention as npl_net)."
+            },
+            "ldr": {
+                "v": 96.5,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 154 (printed p. 152), Management Discussion & Analysis, 'Key Financial Ratios' table, 'LDR-Bank Only'",
+                "basis": "bank_only",
+                "note": "'LDR-Bank Only' 96.5 per the AR2023 MD&A table; the highlights table prints 96.6."
+            },
+            "car": {
+                "v": 27.5,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 154 (printed p. 152), Management Discussion & Analysis, 'Key Financial Ratios' table, 'CAR-Consolidated'",
+                "basis": "consolidated"
+            },
+            "cir": {
+                "v": 51.6,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 154 (printed p. 152), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Cost to Income-Bank Only'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 75.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13 (printed p. 11), Financial Highlights, 'Key Financial Ratios (%)' table, 'Operating Expense to Operating Income (BOPO)'",
+                "basis": "bank_only",
+                "note": "Bank only: not labelled in this AR; AR2025 labels the same series bank only (its 2023 value 75.7 equals the value printed in AR2023 and AR2024)."
+            },
+            "casa": {
+                "v": 52.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2023/pdf/en/v2/1-AR-Bank-Danamon-2023-ENG-20-Mar-WEB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13 (printed p. 11), Financial Highlights, 'Key Financial Ratios (%)' table, 'CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Bank only per the AR2025 footnote convention (the subsidiaries take no deposits, so bank-only and consolidated CASA are practically the same)."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 3179.335,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 565 (printed p. 563), AR2024 audited consolidated FS, Consolidated statement of profit or loss, 'Net income attributable to: Equity holders of the parent entity'",
+                "basis": "consolidated",
+                "note": "As originally reported (excl. Mandala Finance). AR2025 restated (MFIN BCUCC): 3,482.828. The FY2024 dividend (35%) was computed on the original 3,179.335."
+            },
+            "eps": {
+                "v": 325.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 565 (printed p. 563), AR2024 audited consolidated FS, 'BASIC EARNINGS PER SHARE ATTRIBUTABLE TO EQUITY HOLDERS OF THE PARENT ENTITY (FULL AMOUNT)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "As originally reported. AR2025 restated: 356.35."
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 727 (printed p. 725), Note 32 Appropriation of net income (AGMS 21 Mar 2025: 35% of 2024 net profit); also AR2025 PDF p. 137 (printed p. 135) dividend table",
+                "basis": "consolidated",
+                "note": "35% of FY2024 net profit attributable to equity holders of the parent (as originally reported), one final cash dividend; no interim or special dividend."
+            },
+            "total_assets": {
+                "v": 242334.54,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 561 (printed p. 559), AR2024 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated",
+                "note": "As originally reported (AR2024 audited FS, excl. Mandala Finance). AR2025 restates FY2024 for the Mandala Finance (MFIN) merger into Adira (BCUCC, PSAK 338) to 247,967.392; the 1H2026 FS restates the 1 Jan 2025 balance again (HCI) to 253,745.191."
+            },
+            "loans_gross": {
+                "v": 185786,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10 (printed p. 8), AR2024 Financial Highlights, Consolidated statement of financial position (in Rp billion), 'Loans - Gross a)'",
+                "basis": "consolidated",
+                "note": "AR highlights 'Loans - Gross' (loans + Adira consumer financing + finance lease receivables), as originally reported. AR2025 restated (incl. MFIN): 192,032."
+            },
+            "deposits": {
+                "v": 150569.469,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 661 (printed p. 659), AR2024 audited consolidated FS, Note 21 'Deposits from customers' a. by type and currency, total (Rupiah + foreign currency)",
+                "basis": "consolidated",
+                "note": "Note 21 total deposits from customers, as originally reported. AR2025 restated: 150,467.727."
+            },
+            "equity_attr": {
+                "v": 51067.632,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 563 (printed p. 561), AR2024 audited consolidated FS, Consolidated statement of financial position, subtotal 'Equity attributable to equity holders of the parent entity'",
+                "basis": "consolidated",
+                "note": "As originally reported. AR2025 restated (MFIN BCUCC, incl. 'merging entity equity' 2,247.958): 53,315.590; 1H2026 FS restated (HCI): 53,271.958."
+            },
+            "total_equity": {
+                "v": 51825.557,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 563 (printed p. 561), AR2024 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated",
+                "note": "As originally reported. AR2025 restated: 54,818.844; 1H2026 FS restated (HCI): 57,946.760."
+            },
+            "shares_out": {
+                "v": 9773552870,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 563 (printed p. 561) (share capital line: 22,400,000 A series + 9,751,152,870 B series shares issued and fully paid) and PDF p. 10 (printed p. 8) Financial Highlights 'Number of Shares Issued and Fully Paid'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "No treasury shares at parent level (the balance sheet has no treasury-share line; the only treasury shares in the group are Adira Finance's own shares). Unchanged since the 2019 Bank Nusantara Parahyangan merger."
+            },
+            "year_end_price": {
+                "v": 2540,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Shares Highlights, share price table, 2024 Fourth Quarter closing; market cap Rp24,824,824 million",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Closing x 9,773,552,870 shares = the printed market cap."
+            },
+            "roe": {
+                "v": 7.1,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 129 (printed p. 127), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROE-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average equity, consolidated, as printed (highlights 'ROAE' is the same value). The analyst decks state that since July 2020 ROAE is calculated on Tier-1 capital (FY20 deck p. 9 footnote 3)."
+            },
+            "roa": {
+                "v": 1.4,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 129 (printed p. 127), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROA-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average assets AFTER tax, consolidated (= highlights 'ROAA After Tax'). Same table, ROAA before tax: 1.8."
+            },
+            "nim": {
+                "v": 7.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 129 (printed p. 127), Management Discussion & Analysis, 'Key Financial Ratios' table, 'NIM-Consolidated'",
+                "basis": "consolidated",
+                "note": "NIM-Consolidated per the AR2024 MD&A table. CONFLICT: the AR2024 Financial Highlights table prints 7.0; AR2025 shows 2024 restated (MFIN) 7.7; the FY24 deck prints 7.3."
+            },
+            "coc": {
+                "v": 2.5,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2024/Q4/IAB-Deck-FY24-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY24 analyst briefing deck PDF p. 12, 'Key Financial Ratio' table, FY24 column, 'CoC'",
+                "basis": "consolidated",
+                "note": "Cost of credit = provision expense / average loans (YTD), consolidated (bank + Adira Finance; deck splits 'BDI' and 'ADMF'). As originally reported; the FY25 deck prints FY24 restated (MFIN) 2.6."
+            },
+            "npl_gross": {
+                "v": 1.9,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 129 (printed p. 127), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Gross NPL-Consolidated'",
+                "basis": "consolidated"
+            },
+            "npl_net": {
+                "v": 0.2,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 11-12 (printed pp. 9-10), Financial Highlights, 'Key Financial Ratios (%)' table, 'Non-Performing Loans (NPL) to Total Loans - Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated: in the AR2025 version of this table only CIR, BOPO, LDR and CASA carry footnote g) 'Bank only'."
+            },
+            "lar": {
+                "v": 10.6,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2024/Q4/IAB-Deck-FY24-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY24 analyst briefing deck PDF p. 9 'Loan at Risk (%)' and p. 17 chart, Dec-24",
+                "basis": "consolidated",
+                "note": "Loan at risk = NPL + special mention + restructured collectibility-1 loans incl. COVID restructured loans under forbearance, % of total loans (deck definition), consolidated. The FY25 deck shows Dec-24 restated also at 10.6."
+            },
+            "npl_coverage": {
+                "v": 287.2,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 11-12 (printed pp. 9-10), Financial Highlights, 'Key Financial Ratios (%)' table, 'Loan Loss Coverage'",
+                "basis": "consolidated",
+                "note": "Loan loss coverage = allowance for impairment losses on loans / NPL, consolidated (same convention as npl_net)."
+            },
+            "ldr": {
+                "v": 96.5,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 129 (printed p. 127), Management Discussion & Analysis, 'Key Financial Ratios' table, 'LDR-Bank Only'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 26.2,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 129 (printed p. 127), Management Discussion & Analysis, 'Key Financial Ratios' table, 'CAR-Consolidated'",
+                "basis": "consolidated",
+                "note": "CAR-Consolidated as originally reported (26.23% in AR2024 risk section). AR2025 restated 2024: 27.1 (MD&A) / 27.2 (highlights)."
+            },
+            "cir": {
+                "v": 54.1,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 129 (printed p. 127), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Cost to Income-Bank Only'",
+                "basis": "bank_only",
+                "note": "'Cost to Income-Bank Only' per AR2024 (highlights also 54.1). AR2025 prints 2024 as 55.8 (highlights) and 54.9 restated (MD&A); FY24 deck 55.9."
+            },
+            "bopo": {
+                "v": 79.9,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 11-12 (printed pp. 9-10), Financial Highlights, 'Key Financial Ratios (%)' table, 'Operating Expense to Operating Income (BOPO)'",
+                "basis": "bank_only",
+                "note": "Bank only (not labelled in AR2024; AR2025 labels the series bank only). CONFLICT: AR2025 prints 2024 BOPO as 81.6 vs the 79.9 printed here."
+            },
+            "casa": {
+                "v": 41.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2024/id/v2/AR-Bank-Danamon-2024-ENG-26-Feb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 11-12 (printed pp. 9-10), Financial Highlights, 'Key Financial Ratios (%)' table, 'CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Bank only per the AR2025 footnote convention (the subsidiaries take no deposits, so bank-only and consolidated CASA are practically the same)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 3970.711,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 583 (printed p. 581), AR2025 audited consolidated FS, Consolidated statement of profit or loss, 'Net income attributable to: Equity holders of the parent entity'",
+                "basis": "consolidated",
+                "note": "As originally reported (audited FY2025 FS). The 1H2026 FS restates the 31 Dec 2025 balance sheet and the 1H25 P&L for HCI (BCUCC); no restated FY2025 profit figure was found."
+            },
+            "eps": {
+                "v": 406.27,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 583 (printed p. 581), AR2025 audited consolidated FS, 'BASIC EARNINGS PER SHARE ATTRIBUTABLE TO EQUITY HOLDERS OF THE PARENT ENTITY (FULL AMOUNT)'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic = diluted (Note 45). Printed '406,27'."
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.danamon.co.id/-/media/ALL%20CONTENT%20ABOUT%20DANAMON/LAPORAN%20KEUANGAN/LAPORAN%20TRIWULANAN/2026/Triwulanan%20II/Bapepam%20Report%20-%20PT%20Bank%20Danamon%20Indonesia%20Tbk%20%2030%20Juni%202026",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "1H2026 interim consolidated FS PDF p. 150, Note 32 Appropriation of net income (AGMS 31 Mar 2026: 35% of 2025 net profit)",
+                "basis": "consolidated",
+                "note": "35% of FY2025 net profit attributable to equity holders of the parent (as originally reported), one final cash dividend; no interim or special dividend."
+            },
+            "total_assets": {
+                "v": 275714.367,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 579 (printed p. 577), AR2025 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated",
+                "note": "As originally reported (audited FY2025 FS). The 1H2026 interim FS restates 31 Dec 2025 to 281,738.999 for the Home Credit Indonesia (HCI) business combination under common control (PSAK 338, control from 24 Jun 2026)."
+            },
+            "loans_gross": {
+                "v": 210889,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10 (printed p. 8), AR2025 Financial Highlights, Consolidated statement of financial position (in Rp billion), 'Loans - Gross a)'",
+                "basis": "consolidated",
+                "note": "AR highlights 'Loans - Gross', footnote a): loans + consumer financing receivables + finance lease receivables (Adira Finance), gross, Rp bn as printed. Includes Mandala Finance (merged into Adira 1 Oct 2025)."
+            },
+            "deposits": {
+                "v": 174177.029,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 687 (printed p. 685), AR2025 audited consolidated FS, Note 21 'Deposits from customers' a. by type and currency, total (Rupiah + foreign currency)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (current accounts, savings, time deposits incl. sharia unit). Excludes deposits from other banks (the AR highlight line 'Deposits from customers & other banks' is NOT used)."
+            },
+            "equity_attr": {
+                "v": 54269.49,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 581 (printed p. 579), AR2025 audited consolidated FS, Consolidated statement of financial position, subtotal 'Equity attributable to equity holders of the parent entity'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated in the 1H2026 FS (HCI BCUCC): 54,214.369."
+            },
+            "total_equity": {
+                "v": 58012.069,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 581 (printed p. 579), AR2025 audited consolidated FS, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated in the 1H2026 FS (HCI BCUCC): 61,173.202 (adds HCI non-controlling interests)."
+            },
+            "shares_out": {
+                "v": 9773552870,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 581 (printed p. 579) (share capital line: 22,400,000 A series + 9,751,152,870 B series shares issued and fully paid) and PDF p. 10 (printed p. 8) Financial Highlights 'Number of Shares Issued and Fully Paid'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "No treasury shares at parent level (the balance sheet has no treasury-share line; the only treasury shares in the group are Adira Finance's own shares). Unchanged since the 2019 Bank Nusantara Parahyangan merger."
+            },
+            "year_end_price": {
+                "v": 2470,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (printed p. 13), Shares Highlights, share price table, 2025 Fourth Quarter closing; market cap Rp24,140,675 million",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Closing x 9,773,552,870 shares = the printed market cap."
+            },
+            "roe": {
+                "v": 8.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 134 (printed p. 132), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROE-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average equity, consolidated, as printed (highlights 'ROAE' is the same value). The analyst decks state that since July 2020 ROAE is calculated on Tier-1 capital (FY20 deck p. 9 footnote 3)."
+            },
+            "roa": {
+                "v": 1.6,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 134 (printed p. 132), Management Discussion & Analysis, 'Key Financial Ratios' table, 'ROA-Consolidated'",
+                "basis": "consolidated",
+                "note": "Return on average assets AFTER tax, consolidated (= highlights 'ROAA After Tax'). Same table, ROAA before tax: 2.1."
+            },
+            "nim": {
+                "v": 7.4,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 134 (printed p. 132), Management Discussion & Analysis, 'Key Financial Ratios' table, 'NIM-Consolidated'",
+                "basis": "consolidated",
+                "note": "NIM-Consolidated per the MD&A table (also 7.4 in the highlights). The MD&A text on the same page says 'NIM ratio was recorded at 7.8% in 2025' and the FY25 analyst deck prints 7.7 (different definition) - table value stored."
+            },
+            "coc": {
+                "v": 2.2,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2025/Q4/IAB-Deck-FY25_new_FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY25 analyst briefing deck PDF p. 14, 'Key Financial Ratio' table, FY25 column, 'CoC'",
+                "basis": "consolidated",
+                "note": "Cost of credit = provision expense / average loans (YTD), consolidated (bank + Adira Finance; deck splits 'BDI' and 'ADMF')."
+            },
+            "npl_gross": {
+                "v": 1.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 134 (printed p. 132), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Gross NPL-Consolidated'",
+                "basis": "consolidated"
+            },
+            "npl_net": {
+                "v": 0.2,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 11-12 (printed pp. 9-10), Financial Highlights, 'Key Financial Ratios (%)' table, 'Non-Performing Loans (NPL) to Total Loans - Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated: in the AR2025 version of this table only CIR, BOPO, LDR and CASA carry footnote g) 'Bank only'."
+            },
+            "lar": {
+                "v": 8.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2025/Q4/IAB-Deck-FY25_new_FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY25 analyst briefing deck PDF p. 11 'Loan at Risk (%)' and p. 19 chart 'LAR as % of Total Loan', Dec-25",
+                "basis": "consolidated",
+                "note": "Loan at risk = NPL + special mention + restructured collectibility-1 loans incl. COVID restructured loans under forbearance, % of total loans (deck definition), consolidated."
+            },
+            "npl_coverage": {
+                "v": 280.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 11-12 (printed pp. 9-10), Financial Highlights, 'Key Financial Ratios (%)' table, 'Loan Loss Coverage'",
+                "basis": "consolidated",
+                "note": "Loan loss coverage = allowance for impairment losses on loans / NPL, consolidated (same convention as npl_net)."
+            },
+            "ldr": {
+                "v": 95.5,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 134 (printed p. 132), Management Discussion & Analysis, 'Key Financial Ratios' table, 'LDR-Bank Only'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 25.4,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 134 (printed p. 132), Management Discussion & Analysis, 'Key Financial Ratios' table, 'CAR-Consolidated'",
+                "basis": "consolidated"
+            },
+            "cir": {
+                "v": 55.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 134 (printed p. 132), Management Discussion & Analysis, 'Key Financial Ratios' table, 'Cost to Income-Bank Only'",
+                "basis": "bank_only",
+                "note": "Labelled 'Cost to Income-Bank Only' (MD&A) / footnote g) bank only (highlights). DOUBT: the same 55.3 is printed in the FY25 analyst deck, whose consolidated income statement gives opex 11,931 / operating income 21,578 = 55.3%; the label may not be accurate."
+            },
+            "bopo": {
+                "v": 79.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 11-12 (printed pp. 9-10), Financial Highlights, 'Key Financial Ratios (%)' table, 'Operating Expense to Operating Income (BOPO)'",
+                "basis": "bank_only",
+                "note": "Footnote g) Bank only."
+            },
+            "casa": {
+                "v": 42.5,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/LAPORAN-KEUANGAN/LAPORAN-TAHUNAN/2026/Annual-Report-PT-Bank-Danamon-Indonesia-Tbk-2025---Hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 11-12 (printed pp. 9-10), Financial Highlights, 'Key Financial Ratios (%)' table, 'CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Footnote g) Bank only."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 36.08,
+            "total": 352.63,
+            "cum_date": "2021-05-10",
+            "ex_date": "2021-05-11",
+            "record_date": "2021-05-17",
+            "pay_date": "2021-06-03",
+            "share_basis": "2021-05-04",
+            "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/RUPS/2021/30-April/Iklan-Dividen-Final_eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-05-04",
+            "loc": "p. 1, 'The announcement of cash dividend payment for (fiscal) year 2020', item a. schedule (rows 2-8) and opening paragraph (DPS, payout)",
+            "note": "Final cash dividend, 35% of FY2020 net profit, AGMS 30 Apr 2021. Total = actual amount distributed per AR2021 PDF p. 652 (printed p. 650) Note 32 (the notice says approximately IDR352,664,900,000). Ex date = regular and negotiation market; cash-market ex date is one session after the recording date. The PDF is a scan with an OCR layer that misreads digits (e.g. '2O2O', 'L7 Mav'); dates and amounts read from the page image."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 56.33,
+            "total": 550.544,
+            "cum_date": "2022-04-04",
+            "ex_date": "2022-04-05",
+            "record_date": "2022-04-06",
+            "pay_date": "2022-04-28",
+            "share_basis": "2022-03-29",
+            "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/RUPS/2022/Maret/Iklan-Dividen-Final_eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-03-29",
+            "loc": "p. 1, 'The announcement of cash dividend payment for (fiscal) year 2021', item a. schedule (rows 2-8) and opening paragraph (DPS, payout)",
+            "note": "Final cash dividend, 35% of FY2021 net profit, AGMS 25 Mar 2022. Total = actual amount distributed per AR2022 PDF p. 686 (printed p. 684) Note 32 (the notice says approximately IDR550,589,550,000). Ex date = regular and negotiation market; cash-market ex date is one session after the recording date."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 118.26,
+            "total": 1155.82,
+            "cum_date": "2023-04-11",
+            "ex_date": "2023-04-12",
+            "record_date": "2023-04-13",
+            "pay_date": "2023-05-04",
+            "share_basis": "2023-04-04",
+            "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/RUPS/2023/Iklan-Dividen-Final_eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-04-04",
+            "loc": "p. 1, 'The announcement of cash dividend payment for (fiscal) year 2022', item a. schedule (rows 2-8) and opening paragraph (DPS, payout)",
+            "note": "Final cash dividend, 35% of FY2022 net profit, AGMS 31 Mar 2023. Total = actual amount distributed per AR2023 PDF p. 697 (printed p. 695) Note 32 (the notice says approximately IDR1,155,809,900,000). Ex date = regular and negotiation market; cash-market ex date is one session after the recording date. AR2025 MD&A dividend table (PDF p. 137) gives the AGMS date as 29-Mar-23; the notice and FS Note 32 both say 31 Mar 2023."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 125.48,
+            "total": 1226.385,
+            "cum_date": "2024-04-02",
+            "ex_date": "2024-04-03",
+            "record_date": "2024-04-04",
+            "pay_date": "2024-04-25",
+            "share_basis": "2024-03-26",
+            "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/RUPS/2024/EN/v3/Iklan-Dividen-Final_eng-DCW.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-03-26",
+            "loc": "p. 1, 'The announcement of cash dividend payment for (fiscal) year 2023', item a. schedule (rows 2-8) and opening paragraph (DPS, payout)",
+            "note": "Final cash dividend, 35% of FY2023 net profit, AGMS 22 Mar 2024. Total = actual amount distributed per AR2025 PDF p. 727 (printed p. 725) Note 32 (the notice says approximately IDR1,226,358,700,000). Ex date = regular and negotiation market; cash-market ex date is one session after the recording date. AR2025 MD&A dividend table (PDF p. 137) gives the AGMS date as 26-Mar-24 (that is the announcement date); the notice and FS Note 32 both say 22 Mar 2024."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 113.85,
+            "total": 1112.719,
+            "cum_date": "2025-04-09",
+            "ex_date": "2025-04-10",
+            "record_date": "2025-04-11",
+            "pay_date": "2025-04-24",
+            "share_basis": "2025-03-25",
+            "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/RUPS/2025/Pengumuman-Dividen---Eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-03-25",
+            "loc": "p. 1, 'The announcement of cash dividend payment for (fiscal) year 2024', item a. schedule (rows 2-8) and opening paragraph (DPS, payout)",
+            "note": "Final cash dividend, 35% of FY2024 net profit, AGMS 21 Mar 2025. Total = actual amount distributed per AR2025 PDF p. 727 (printed p. 725) Note 32 (the notice says approximately IDR1,112,767,250,000). Ex date = regular and negotiation market; cash-market ex date is one session after the recording date."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 142.19,
+            "total": 1389.702,
+            "cum_date": "2026-04-09",
+            "ex_date": "2026-04-10",
+            "record_date": "2026-04-13",
+            "pay_date": "2026-04-30",
+            "share_basis": "2026-04-02",
+            "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/RUPS/2026/Iklan-Dividen-Final_eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-02",
+            "loc": "p. 1, 'The announcement of cash dividend payment for (fiscal) year 2025', item a. schedule (rows 2-8) and opening paragraph (DPS, payout)",
+            "note": "Final cash dividend, 35% of FY2025 net profit, AGMS 31 Mar 2026. Total = actual amount distributed per 1H2026 interim FS PDF p. 150 Note 32 (the notice says approximately IDR1,389,748,850,000). Ex date = regular and negotiation market; cash-market ex date is one session after the recording date. The notice PDF is a scan without a text layer; read from the page image."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 3495,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 15, 'Balance Sheet & Income Statement (Consolidated)', Sep-26 / 9M26 column, 'NPAT'",
+                "basis": "consolidated",
+                "note": "NPAT attributable to equity holders of the parent, Rp bn as printed. The 9M26 FS could not be found (see research_notes); definition checked on 1H26: the 1H26 deck NPAT 2,387 = 1H26 FS 'equity holders of the parent' 2,386.771 (net income incl. NCI was 2,670.123)."
+            },
+            "profit_ytd_prior": {
+                "v": 2946,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 15, 'Balance Sheet & Income Statement (Consolidated)', 9M25* column, 'NPAT'",
+                "basis": "consolidated",
+                "note": "9M25 comparative restated by the bank (PSAK 338 BCUCC: Mandala Finance merger into Adira 1 Oct 2025 and Home Credit Indonesia control from 24 Jun 2026), deck cover note. Before the HCI restatement the FY25 deck (PDF p. 13) printed quarterly NPAT 1Q25 757, 2Q25 877, 3Q25 1,198."
+            },
+            "equity_attr": {
+                "v": 55511,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 15, 'Balance Sheet & Income Statement (Consolidated)', Sep-26 column, 'Equity'",
+                "basis": "consolidated",
+                "note": "Deck 'Equity'. Read as equity attributable to the parent: in the 1H26 deck the same line (54,319) equals the 1H26 FS equity attributable (54,319.474), while total equity incl. NCI was 61,406.765. (Caution: in the FY25 deck the 'Equity' line, 58,012 at Dec-25, was TOTAL equity, so the deck line is not defined the same way in every deck.)"
+            },
+            "shares_out": {
+                "v": 9773552870,
+                "source_url": "https://www.danamon.co.id/-/media/ALL%20CONTENT%20ABOUT%20DANAMON/LAPORAN%20KEUANGAN/LAPORAN%20TRIWULANAN/2026/Triwulanan%20II/Bapepam%20Report%20-%20PT%20Bank%20Danamon%20Indonesia%20Tbk%20%2030%20Juni%202026",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "1H2026 interim consolidated FS PDF p. 7, Consolidated statement of financial position, share capital line (22,400,000 A + 9,751,152,870 B series), and PDF p. 148, Note 30 Share capital, 30 June 2026 total 9,773,552,870 (100%)",
+                "basis": "n/a",
+                "share_basis": "2026-06-30",
+                "note": "Latest printed share count (30 Jun 2026); the 9M26 deck prints no share count. No share issue, split or buyback by the parent is mentioned in any 2026 document found."
+            },
+            "total_assets": {
+                "v": 302452,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 15, 'Balance Sheet & Income Statement (Consolidated)', Sep-26 column, 'Total Assets'",
+                "basis": "consolidated",
+                "note": "Check on 1H26: deck 301,304 = FS 301,303.963. Sep-25* comparative (restated) 270,516."
+            },
+            "loans_gross": {
+                "v": 232596,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 15, 'Balance Sheet & Income Statement (Consolidated)', Sep-26 column, 'Total Lending 1)'",
+                "basis": "consolidated",
+                "note": "Deck definition, footnote 1: 'Loan Portfolio and Trade Finance including marketable securities and ijarah assets' - WIDER than fy.*.loans_gross (AR 'Loans - Gross'). At Dec-25 the deck printed 212,697 vs AR 210,889. Used because only the deck gives Sep-26 with a like-for-like Sep-25 comparative."
+            },
+            "loans_gross_prior": {
+                "v": 205877,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 15, 'Balance Sheet & Income Statement (Consolidated)', Sep-25* column, 'Total Lending 1)'",
+                "basis": "consolidated",
+                "note": "Same deck definition as loans_gross. 9M25 comparative restated by the bank (PSAK 338 BCUCC: Mandala Finance merger into Adira 1 Oct 2025 and Home Credit Indonesia control from 24 Jun 2026), deck cover note."
+            },
+            "deposits": {
+                "v": 190500,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck PDF p. 8, Executive Summary, 'Funding 1) (Rp tn)' Sep-26 = 190.5 (footnote 1: Total CASA and Time Deposits)",
+                "basis": "consolidated",
+                "note": "Printed in Rp tn to one decimal (p. 15 prints CASA 73,874 and Time Deposits 116,667 separately). Management funding definition: at Dec-25 the FY25 deck (PDF p. 11) printed Funding 176.9 (Rp tn) vs FS deposits from customers 174,177.029 (fy.*.deposits), i.e. ~1.5% wider."
+            },
+            "deposits_prior": {
+                "v": 170100,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "9M26 analyst briefing deck PDF p. 8, 'Funding 1) (Rp tn)' Sep-25* = 170.1",
+                "basis": "consolidated",
+                "note": "Same definition as deposits (p. 15: CASA 68,782 + TD 101,269). 9M25 comparative restated by the bank (PSAK 338 BCUCC: Mandala Finance merger into Adira 1 Oct 2025 and Home Credit Indonesia control from 24 Jun 2026), deck cover note."
+            },
+            "roe": {
+                "v": 9.8,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 16, 'Key Financial Ratio' table, 9M26 column, 'ROAE'",
+                "basis": "consolidated",
+                "note": "Annualised return on average equity (deck states ROAE on Tier-1 capital since Jul 2020). 9M25* restated: 8.8. Same series as fy.*.roe (FY25 deck ROAE 8.3 = AR2025 ROE-Consolidated 8.3)."
+            },
+            "roa": {
+                "v": 1.6,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 16, 'Key Financial Ratio' table, 9M26 column, 'ROAA'",
+                "basis": "consolidated",
+                "note": "Annualised ROAA (after tax; FY25 deck ROAA 1.6 = AR2025 ROA-Consolidated after tax). 9M25*: 1.5."
+            },
+            "nim": {
+                "v": 8,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 16, 'Key Financial Ratio' table, 9M26 column, 'NIM'",
+                "basis": "consolidated",
+                "note": "Deck NIM definition - NOT the same as the AR 'NIM-Consolidated' in fy.*.nim (FY25: deck 7.7 vs AR 7.4). 9M25*: 8.4."
+            },
+            "coc": {
+                "v": 2.3,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 16, 'Key Financial Ratio' table, 9M26 column, 'CoC'",
+                "basis": "consolidated",
+                "note": "Cost of credit, % of average loans, YTD annualised, consolidated (same series as fy.*.coc). 9M25*: 2.7."
+            },
+            "npl_gross": {
+                "v": 1.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 16, 'Key Financial Ratio' table, 9M26 column, 'NPL Gross'",
+                "basis": "consolidated",
+                "note": "9M25*: 1.9."
+            },
+            "lar": {
+                "v": 7.7,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck PDF p. 8 'Loan at Risk (%)' (Sep-26 7.7) and p. 13 chart 'LAR as % of Total Loan' (Sep-25* 9.6, Jun-26 7.8, Sep-26 7.7)",
+                "basis": "consolidated",
+                "note": "NPL + SM + restructured coll. 1, % of total loans (same series as fy.*.lar)."
+            },
+            "npl_coverage": {
+                "v": 282,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 16, 'Key Financial Ratio' table, 9M26 column, 'Loan Loss Coverage (LLC)'",
+                "basis": "consolidated",
+                "note": "9M25*: 271.3. Deck LAR coverage: 61.8."
+            },
+            "ldr": {
+                "v": 97.4,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck PDF p. 11, 'LCR, NSFR & LDR (%)' chart, LDR data label Sep-26",
+                "basis": "bank_only",
+                "note": "Read from the chart data label (Sep-25 93.0, Jun-26 100.4, Sep-26 97.4). Bank only: the same chart in the FY25 deck shows Dec-25 95.5 = AR2025 'LDR-Bank Only'. The p. 16 table prints RIM 98.6 (not LDR)."
+            },
+            "car": {
+                "v": 22.4,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 16, 'Key Financial Ratio' table, 9M26 column, 'CAR' (also p. 11 'Capital Adequacy Ratio (%)' chart, consolidated Sep-26 22.4)",
+                "basis": "consolidated",
+                "note": "Consolidated. Bank-only CAR Sep-26: 21.7 (p. 11). 9M25* consolidated: 24.6 in the p. 16 table but 24.4 in the p. 11 chart."
+            },
+            "cir": {
+                "v": 53.9,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 16, 'Key Financial Ratio' table, 9M26 column, 'Cost to Income'",
+                "basis": "consolidated",
+                "note": "Equals the p. 15 consolidated income statement (opex 10,226 / operating income 18,976). fy.*.cir is labelled bank-only in the ARs. 9M25*: 56.1."
+            },
+            "casa": {
+                "v": 38.8,
+                "source_url": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/MATERI-INVESTOR/ANALYST-BRIEFING/2026/Q3/IAB-Deck-9M26-FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 analyst briefing deck (29 Oct 2026) PDF p. 16, 'Key Financial Ratio' table, 9M26 column, 'CASA Ratio'",
+                "basis": "consolidated",
+                "note": "CASA / (CASA + time deposits) on the deck funding definition (p. 15: CASA 73,874, time deposits 116,667). 9M25*: 40.4."
+            }
+        }
+    },
+    "research_notes": [
+        "SOURCE ACCESS: www.danamon.co.id HTML pages answer this server with an F5 'Request Rejected' page, but the PDF files under /-/media/ download directly (HTTP 200, application/pdf); no challenge was bypassed. The IR listing pages (Financial Information, Annual Reports, RUPS, Corporate Presentation) were read from Internet Archive snapshots to find the document URLs (timestamps in sources.md). The 1Q26/1H26/9M26 analyst decks are not linked in any archived page; their URLs were found by following the site's own naming pattern (ANALYST-BRIEFING/2026/Q1|Q2|Q3/...).",
+        "CONSOLIDATION SCOPE (read before comparing years): consolidated = the Bank + PT Adira Dinamika Multi Finance (Adira/ADMF; 92.07% until 30 Sep 2025, 74.50% after Mandala Multifinance (MFIN) was merged into Adira on 1 Oct 2025) + from 24 Jun 2026 PT Home Credit Indonesia (HCI; 9.82% direct stake bought from Adira for Rp400bn plus control under a shareholders' agreement with Krungsri, so HCI is consolidated with large non-controlling interests). MFIN and HCI were under MUFG common control, so both were accounted for as business combinations under common control (PSAK 338): AR2025 restated FY2024 as if MFIN had always been in the group, and the 1H2026 FS / 1H26 and 9M26 decks restate FY2025, 1H25 and 9M25 again for HCI. Bank-only figures are never used for money values.",
+        "AS ORIGINALLY REPORTED: every fy.* level, profit and EPS is taken from that year's own audited FS (inside that year's annual report). Restated values are given in the datum notes: FY2020 and FY2021 (AR2022, PSAK 24 employee-benefit attribution guidance - small), FY2024 (AR2025, MFIN: total assets 247,967.392; equity attributable 53,315.590; total equity 54,818.844; profit 3,482.828; EPS 356.35; loans gross 192,032; deposits 150,467.727) and FY2025 (1H2026 FS, HCI: total assets 281,738.999; equity attributable 54,214.369; total equity 61,173.202). Growth FY2024->FY2025 computed from these levels mixes the pre-MFIN FY2024 with the post-MFIN FY2025 (AR2025 reports loans +9.8% on the restated base; from the stored levels it is +13.5%).",
+        "LOANS: fy.*.loans_gross is the AR Financial Highlights line 'Loans - Gross' (footnote a: loans + consumer financing receivables + finance lease receivables of Adira Finance), printed in Rp bn - the group 'total loans' the bank reports, not summed by us. The FS line 'Loans' alone (Note 11, gross, excl. consumer financing and lease receivables) is smaller: Rp173.8tn at end-2025 (AR2025 MD&A PDF p. 129). The interim uses the deck's wider 'Total Lending' (incl. marketable securities, trade finance and ijarah assets).",
+        "DEPOSITS: fy.*.deposits = FS Note 21 'Deposits from customers' total. The AR highlight line 'Deposits from customers & other banks' and the deck 'Funding' (CASA + TD, management basis: 176.9tn vs Note 21 174.2tn at Dec-25) are not the same thing; the interim uses the deck 'Funding' because no 9M26 statement was found.",
+        "RATIO BASIS: taken from each year's own AR. MD&A 'Key Financial Ratios' table labels: CAR, gross NPL, ROA (after tax), ROE, NIM = consolidated; LDR and Cost to Income = bank only. From the Financial Highlights ratio table: npl_net and Loan Loss Coverage (consolidated - AR2025 footnote g marks only CIR, BOPO, LDR and CASA as bank only), BOPO and CASA (bank only; labelled only in AR2025). CoC and LAR come from each year's FY analyst deck (consolidated; LAR = NPL + SM + restructured coll. 1 incl. COVID restructured loans under forbearance).",
+        "RATIO CONFLICTS a reviewer may want to see: AR2024 prints NIM 2024 as 7.0 (highlights) and 7.3 (MD&A, stored); AR2025's MD&A text says NIM 7.8% while its tables say 7.4 (stored); the decks use another NIM definition (FY25 7.7, FY23 8.2 vs AR 7.4 and 7.7). AR2025 prints 2024 CIR as 55.8 and 54.9 vs 54.1 in AR2024, and its 'bank-only' FY2025 CIR (55.3) equals the deck's consolidated CIR - the bank-only label may be wrong. AR2025 prints 2024 BOPO 81.6 vs 79.9 in AR2024. Small highlight/MD&A differences: CIR 2020 46.3/46.5, CIR 2022 50.1/50.0, LDR 2023 96.6/96.5, ROE 2020 2.6/2.7. All are noted on the datums; no value was changed.",
+        "LOW-PROFIT YEARS: FY2020 (profit 1,007.6, ROE 2.7%) and FY2021 (1,573.1, ROE 4.1%) were hit by COVID provisioning (CoC 4.7% and 4.4%); no loss year. FY2020 LDR 84.0% and RIM 85.0% are real (loan book shrank).",
+        "DIVIDENDS: exactly one final cash dividend per fiscal year, 35% of net profit attributable, FY2020-FY2025; no interim or special dividends (each statement of changes in equity shows one distribution a year). The FY2019 dividend (45%, Rp187.55/share, paid 24 Apr 2020) is outside the FY2020-FY2025 scope. dividend.total = amount actually distributed per FS Note 32 (the notices print an approximate amount). No FY2026 interim dividend was found in any document (1H2026 FS, 9M26 deck) as of 2026-11-03. Danamon has two share series (A and B) that receive the same DPS.",
+        "CORPORATE ACTIONS: none of type split / reverse split / rights / bonus since 2019-01-01 (AR2025 PDF pp. 90-91 share listing chronology; the last rights issue was 2011, the last reverse split 2003). The only change in share count: 188,909,505 B-series shares issued for the merger with PT Bank Nusantara Parahyangan Tbk, effective 1 May 2019 (AR2025 PDF p. 593, Note 1) (9,584,643,365 -> 9,773,552,870 shares) - a merger issue, not a rights or bonus issue, so it is not recorded in corporate_actions. No treasury shares at the parent level in any year.",
+        "INTERIM = 9M 2026 from the 9M26 analyst briefing deck (company_release, dated 29 Oct 2026). The 9M26 financial statements / published report were not linked in the latest archived Financial Information page (snapshot 2026-10-19, before release) and guessed URLs failed, so every 9M26 value comes from the deck; each definition was checked against the reviewed 1H2026 FS where the deck repeats a 1H26 figure (NPAT = profit attributable, Equity = equity attributable, Total Assets). Prior-period values are the bank's restated 9M25 (MFIN + HCI). shares_out is the 30 Jun 2026 count from the 1H2026 FS. Re-run when the 9M26 FS (PT Bank Danamon Indonesia Tbk 30 September 2026) is reachable: it gives FS-definition loans and deposits.",
+        "1H2026 cross-check (filing, reviewed interim FS PDF pp. 4-9): profit attributable 2,386.771 (1H25 restated 1,794.218), net income incl. NCI 2,670.123, total assets 301,303.963, equity attributable 54,319.474, total equity 61,406.765, deposits from customers 586.091 + 178,602.043 (related + third parties). News items quoting 'laba bersih konsolidasi Rp2.67tn' for 1H26 use net income incl. NCI, not profit attributable.",
+        "YEAR-END PRICES: Q4 closing prices from each AR's share table; each times 9,773,552,870 shares equals the printed market capitalisation. FY2019 levels come from the comparative column of the audited FY2020 FS (the 2019 balance sheet was not restated; only the 2019 P&L was re-presented for the 2019 divestment of Adira Insurance, which is not used here).",
+        "NAME / OWNERSHIP: legal name PT Bank Danamon Indonesia Tbk (unchanged); MUFG Bank is the controlling shareholder and the logo carries the 'A member of MUFG' group identity required by OJK letter S-22/PB.32/2021 (AR2025 PDF p. 51). KBMI 3 per AR2025."
+    ],
+    "validation_ack": [
+        {
+            "check": "price_year_end:2020",
+            "reason": "Danamon AR2020 (PDF p. 18, Shares Highlights) prints the Q4-2020 closing price as Rp3,200, consistent with its printed market capitalisation (3,200 x 9,773,552,870 shares = Rp31,275,369 million). Yahoo Finance's bar for the last 2020 session (30 Dec 2020) closes at Rp3,140; its next sessions close at Rp3,200. The cause of the gap is not established, so neither source is edited: fundamentals keep the AR figure, prices/BDMN.json keeps the price source's bar."
+        }
+    ]
+}

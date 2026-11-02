@@ -178,6 +178,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/nisp/"
+        },
+        {
+            "code": "BDMN",
+            "name": "PT Bank Danamon Indonesia Tbk",
+            "name_short": "Bank Danamon",
+            "sector": "banking",
+            "group": "private_large",
+            "kbmi": 3,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 6,
+            "file": "issuers/BDMN.json",
+            "prices": {
+                "file": "prices/BDMN.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-10-30",
+                "sessions": 1886,
+                "last_close": 4870,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/bdmn/"
         }
     ]
 }
