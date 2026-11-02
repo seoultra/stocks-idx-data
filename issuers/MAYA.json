@@ -1,0 +1,1450 @@
+{
+    "schema": 1,
+    "code": "MAYA",
+    "name": "PT Bank Mayapada Internasional Tbk",
+    "name_short": "Bank Mayapada",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bankmayapada.com",
+    "ir_url": "https://www.bankmayapada.com/id/tentang-kami/hubungan-investor/laporan-keuangan",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/laporan-ukuran-utama-key-matrics---september-2026-update.pdf",
+        "source_type": "filing",
+        "as_of_date": "2026-09-30",
+        "loc": "PDF p. 1, Ukuran Utama (Key Metrics) - Bank secara Individual, row 2 'Modal Inti (Tier 1)' 15,913,970 (Rp juta) at 30-Sep-26",
+        "note": "KBMI 3 = core capital above Rp14tn up to Rp70tn (POJK 12/POJK.03/2021); derived from the Tier 1 figure, no Mayapada document states its KBMI class. Tier 1 crossed Rp14tn in Q1 2026 (31-Mar-26 15,334,534; 31-Dec-25 13,290,624 = KBMI 2 band, also AR2025 PDF p. 105 'Modal Inti (Tier I) 13,291' Rp bn) after OJK approved a Rp2.0tn shareholder capital deposit as paid-in capital in March 2026 (LKTT Jun-2026 Note 27). Reviewer: check whether OJK has re-classified the bank; at FY2025 it was in the KBMI 2 band."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 93408.831,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan, 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries (stand-alone statements are the only statements; the IR page's \"Laporan Keuangan Entitas Induk\" files are the same entity), so this bank figure is stored as the consolidated value."
+            },
+            "loans_gross": {
+                "v": 71882.087,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 10, Ikhtisar Data Keuangan Penting, 'Kredit - Gross' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance. Reconciles to the audited FS (https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202019.pdf, PDF p. 6): 'Pinjaman yang diberikan - neto' 69,067,509 + allowance Rp 2.814.578 juta (caption). Conventional loans only (no sharia financing)."
+            },
+            "deposits": {
+                "v": 77009.109,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'Simpanan nasabah' Sub-total (related + third parties, Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka); no certificates of deposit."
+            },
+            "equity_attr": {
+                "v": 12341.969,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 12341.969,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 9100,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 14, Ikhtisar Saham table, 2019 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2019-12-31",
+                "note": "Stored because the PUT XII rights issue went ex on 2 Dec 2019 (brief rule: a rights issue ex before 2020-12-31). Last-trading-day close as printed; the AR does not print the session date. Same in AR2020 PDF p. 13 and AR2021 PDF p. 13 (two-year tables). AR share tables print Opening = Closing in every quarter; only the closing column is used."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 64.164,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI). Same as AR2020 PDF p. 10."
+            },
+            "eps": {
+                "v": 9.39,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 145, Note 38 'Laba per lembar saham'; face PDF p. 9 'LABA PER SAHAM DASAR'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic EPS on a weighted average of 6,832,410,700 shares (full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankmayapada.com/images/PressRelease/2021/20210723_Hasil_RUPST_21_Juli_2021_Ind.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "Pengumuman Ringkasan Risalah RUPS Tahunan 2021-07-21, agenda II 'penetapan penggunaan laba bersih untuk tahun buku 2020': Rp1,000-1,500 juta to the statutory reserve, the rest retained 'untuk memperkuat struktur permodalan'",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2020 profit (AGMS of 2021-07-21, announced 2021-07-23)."
+            },
+            "total_assets": {
+                "v": 92518.025,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries (stand-alone statements are the only statements; the IR page's \"Laporan Keuangan Entitas Induk\" files are the same entity), so this bank figure is stored as the consolidated value."
+            },
+            "loans_gross": {
+                "v": 56294.265,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Ikhtisar Data Keuangan Penting, 'Kredit - Gross' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance. Reconciles to the audited FS (https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202020.pdf, PDF p. 7): 'Pinjaman yang diberikan - neto' 53,905,027 + allowance Rp 2.389.238 juta (caption). Conventional loans only (no sharia financing)."
+            },
+            "deposits": {
+                "v": 72357.421,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'Simpanan nasabah' Sub-total (related + third parties, Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka); no certificates of deposit."
+            },
+            "equity_attr": {
+                "v": 12914.476,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 12914.476,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 6832410700,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 139, Note 'Modal saham' shareholder register total; PDF p. 19 listing chronology total",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid Series A (388,256,500, nominal Rp500) + Series B (nominal Rp100) shares; no treasury shares. 1% of the issued shares (held by PT Mayapada Karunia under PP 29/1999) is not listed on IDX, so the AR share tables print 99% of this count as 'Jumlah Saham Beredar'."
+            },
+            "year_end_price": {
+                "v": 7650,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13, Ikhtisar Saham table, 2020 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-06-28",
+                "note": "Last-trading-day close as printed; the AR does not print the session date. Same in AR2021 and AR2022 PDF p. 13. AR share tables print Opening = Closing in every quarter (a table quirk); only the closing column is used. Trading is very thin (quarterly volume often 0-2 thousand shares)."
+            },
+            "roe": {
+                "v": 0.58,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2020/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2020 column, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported. AR2020 PDF pp. 10-11 highlights print the same value."
+            },
+            "roa": {
+                "v": 0.12,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2020/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2020 column, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported. AR2020 PDF pp. 10-11 highlights print the same value."
+            },
+            "nim": {
+                "v": 0.47,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2020/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2020 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK definition (net interest income / average earning assets), as reported. AR2020 PDF pp. 10-11 highlights print the same value."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no cost-of-credit / credit-cost ratio in the AR2020 ratio table (Ikhtisar Data Keuangan), the AR2025 five-year table, the MD&A or the OJK published report ratio table. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 4.09,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2020/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2020 column, 'NPL gross'",
+                "basis": "bank_only",
+                "note": "AR2020 PDF pp. 10-11 highlights print the same value."
+            },
+            "npl_net": {
+                "v": 1.6,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2020/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2020 column, 'NPL net'",
+                "basis": "bank_only",
+                "note": "AR2020 PDF pp. 10-11 highlights print the same value."
+            },
+            "lar": {
+                "v": 60.85,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 26, Laporan Dewan Komisaris: 'total Loan at Risk (LAR) tercatat 60,85%'",
+                "basis": "bank_only",
+                "note": "As printed (REAL; just above the validator's 60% plausibility bound). Same paragraph: NPL gross 4.09%, COVID restructured loans Rp902.10bn (1.60% of loans). Definition not stated (LaR usually = special mention + restructured current + NPL)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2020: the AR and published report print only 'CKPN aset keuangan terhadap aset produktif' (allowance / earning assets), no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 77.8,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2020/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2020 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "AR2020 PDF pp. 10-11 highlights print the same value."
+            },
+            "car": {
+                "v": 15.45,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2020/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2020 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Total capital / RWA (credit, market and operational risk), as reported. AR2020 PDF pp. 10-11 highlights print the same value."
+            },
+            "cir": {
+                "v": null,
+                "note": "Not disclosed for FY2020: the Dec-2020 and Dec-2021 published reports (OJK format before the 2022 revision) have no CIR row; AR2020 ratio table (PDF pp. 10-11) and MD&A print none. Not computed."
+            },
+            "bopo": {
+                "v": 98.41,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2020/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2020 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR2020 PDF pp. 10-11 highlights print the same value."
+            },
+            "casa": {
+                "v": 22.22,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 111, 'Perbandingan Target dan Realisasi' table, 'Komposisi Dana Murah' realisation 2020 (target 35.00%)",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total third-party funds, as reported ('Komposisi dana murah'). Agrees with the AR deposit breakdown."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 44.127,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI). Same as AR2025 PDF p. 7."
+            },
+            "eps": {
+                "v": 3.99,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 118, Note 'Laba per saham dasar'; face PDF p. 8 'LABA PER SAHAM DASAR'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic EPS on a weighted average of 11,065,251,983 shares (full Rupiah). The PMHMETD XIII shares (4,999,958,150) were issued in March 2021, so the weighted average is below the year-end count 11,832,368,850 (see validation_ack)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankmayapada.com/images/PressRelease/2022/20220701_Hasil_RUPSTLB_29_Juni_2022_Ind.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "Pengumuman Ringkasan Risalah RUPS Tahunan 2022-06-29, agenda II 'penetapan penggunaan laba bersih untuk tahun buku 2021': Rp1,000-1,500 juta to the statutory reserve, the rest retained 'untuk memperkuat struktur permodalan'",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2021 profit (AGMS of 2022-06-29, announced 2022-07-01)."
+            },
+            "total_assets": {
+                "v": 119104.185,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan, 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries (stand-alone statements are the only statements; the IR page's \"Laporan Keuangan Entitas Induk\" files are the same entity), so this bank figure is stored as the consolidated value."
+            },
+            "loans_gross": {
+                "v": 70912.355,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Ikhtisar Data Keuangan Penting, 'Kredit - Gross' (Rp juta, 5-year table)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance. Reconciles to the audited FS (https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202021.pdf, PDF p. 6): 'Pinjaman yang diberikan - neto' 69,529,675 + allowance Rp 1.382.680 juta (caption). Conventional loans only (no sharia financing)."
+            },
+            "deposits": {
+                "v": 98720.992,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'Simpanan nasabah' Sub-total (related + third parties, Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka); no certificates of deposit."
+            },
+            "equity_attr": {
+                "v": 13978.28,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 13978.28,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11832368850,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 113, Note 'Modal saham' shareholder register total; PDF p. 18 listing chronology total",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid Series A (388,256,500, nominal Rp500) + Series B (nominal Rp100) shares; no treasury shares. 1% of the issued shares (held by PT Mayapada Karunia under PP 29/1999) is not listed on IDX, so the AR share tables print 99% of this count as 'Jumlah Saham Beredar'."
+            },
+            "year_end_price": {
+                "v": 660,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13, Ikhtisar Saham table, 2021 TW 4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-05-23",
+                "note": "Last-trading-day close as printed; the AR does not print the session date. Same in AR2022 PDF p. 13 and AR2023 PDF p. 12. The 2020->2021 drop spans the PMHMETD XIII rights issue (ex 9 Mar 2021, 5,000:3,659 at Rp400). AR share tables print Opening = Closing in every quarter (a table quirk); only the closing column is used. Trading is very thin (quarterly volume often 0-2 thousand shares)."
+            },
+            "roe": {
+                "v": 0.35,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2021/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2021 column, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "roa": {
+                "v": 0.07,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2021/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2021 column, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "nim": {
+                "v": 0.69,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2021/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2021 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK definition (net interest income / average earning assets), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no cost-of-credit / credit-cost ratio in the AR2021 ratio table (Ikhtisar Data Keuangan), the AR2025 five-year table, the MD&A or the OJK published report ratio table. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 3.93,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2021/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2021 column, 'NPL gross'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "npl_net": {
+                "v": 2.17,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2021/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2021 column, 'NPL net'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "lar": {
+                "v": 59.54,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 24, Laporan Dewan Komisaris: 'Loan at Risk (LAR) tercatat sebesar 59,54%'",
+                "basis": "bank_only",
+                "note": "As printed. The PMHMETD XIV prospectus (PDF p. 385) shows special-mention loans at 25.82% of loans on 31 Dec 2021, NPL 3.93%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2021: the AR and published report print only 'CKPN aset keuangan terhadap aset produktif' (allowance / earning assets), no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 71.65,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2021/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2021 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "car": {
+                "v": 14.37,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2021/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2021 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Total capital / RWA (credit, market and operational risk), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "cir": {
+                "v": 235.5,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2022/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31-Des-21 comparative column, row 11 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "OJK definition (operating expenses excluding interest and impairment / operating income), as reported. REAL, above the validator's 150% plausibility bound: 2021 net interest income was only Rp405.8bn (NIM 0.69%) against non-interest operating costs of about Rp1.37tn; operating income was propped up by a Rp991bn impairment reversal that the CIR excludes. The Dec-2021 report format had no CIR row."
+            },
+            "bopo": {
+                "v": 98.83,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2021/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2021 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "casa": {
+                "v": 21.54,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 98, target vs realisation table, 'Komposisi dana murah / Low-Cost Fund Composition' realisation 2021 (target 40.00%)",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total third-party funds, as reported ('Komposisi dana murah'). Agrees with the AR deposit breakdown. The AR2021 Board of Commissioners report (PDF p. 24) prints a garbled '61.27%' CASA composition; not used."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 25.997,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI). Same as AR2025 PDF p. 7."
+            },
+            "eps": {
+                "v": 2.2,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 127, Note 'Laba per saham dasar'; face PDF p. 12 'LABA PER SAHAM DASAR'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic EPS on a weighted average of 11,832,368,850 shares (full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankmayapada.com/images/PressRelease/2023/20230525_Pengumuman_Hasil_RUPST_24_Mei_2023_Ind.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "Pengumuman Ringkasan Risalah RUPS Tahunan 2023-05-24, agenda II 'penetapan penggunaan laba bersih untuk tahun buku 2022': Rp1,000-1,500 juta to the statutory reserve, the rest retained 'untuk memperkuat struktur permodalan'",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2022 profit (AGMS of 2023-05-24, announced 2023-05-25)."
+            },
+            "total_assets": {
+                "v": 135382.812,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 10, Laporan Posisi Keuangan, 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries (stand-alone statements are the only statements; the IR page's \"Laporan Keuangan Entitas Induk\" files are the same entity), so this bank figure is stored as the consolidated value."
+            },
+            "loans_gross": {
+                "v": 94524.455,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Ikhtisar Data Keuangan Penting, 'Kredit - Gross' (Rp juta, 5-year table)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance. Reconciles to the audited FS (https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202022.pdf, PDF p. 10): 'Pinjaman yang diberikan - neto' 92,773,973 + allowance Rp 1.750.482 juta (caption). Conventional loans only (no sharia financing)."
+            },
+            "deposits": {
+                "v": 114870.348,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Laporan Posisi Keuangan, 'Simpanan nasabah' Sub-total (related + third parties, Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka); no certificates of deposit."
+            },
+            "equity_attr": {
+                "v": 13856.66,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 13856.66,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11832368850,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 121, Note 'Modal saham' shareholder register total; PDF p. 22 listing chronology total",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid Series A (388,256,500, nominal Rp500) + Series B (nominal Rp100) shares; no treasury shares. 1% of the issued shares (held by PT Mayapada Karunia under PP 29/1999) is not listed on IDX, so the AR share tables print 99% of this count as 'Jumlah Saham Beredar'."
+            },
+            "year_end_price": {
+                "v": 520,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Ikhtisar Saham table, 2022 TW 4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-04-27",
+                "note": "Last-trading-day close as printed; the AR does not print the session date. Same in AR2023 PDF p. 12 and AR2024 PDF p. 13. AR share tables print Opening = Closing in every quarter (a table quirk); only the closing column is used. Trading is very thin (quarterly volume often 0-2 thousand shares)."
+            },
+            "roe": {
+                "v": 0.22,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2022/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2022 column, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "roa": {
+                "v": 0.04,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2022/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2022 column, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "nim": {
+                "v": 1.92,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2022/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2022 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK definition (net interest income / average earning assets), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no cost-of-credit / credit-cost ratio in the AR2022 ratio table (Ikhtisar Data Keuangan), the AR2025 five-year table, the MD&A or the OJK published report ratio table. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 4.7,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2022/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2022 column, 'NPL gross'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "npl_net": {
+                "v": 3.36,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2022/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2022 column, 'NPL net'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: AR2022 prints no bank Loan-at-Risk ratio (the LAR figures in its MD&A are OJK industry figures); the OJK 'Kredit Kualitas Rendah (KKR)' row appears only from the 2026 published reports (30 Sep 2025 comparative 41.31%, see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2022: the AR and published report print only 'CKPN aset keuangan terhadap aset produktif' (allowance / earning assets), no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 82.13,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2022/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2022 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "As printed in the OJK published reports (Dec-2022 report row 12, and Dec-2023 report 2022 comparative). CONFLICT: AR2022 (PDF p. 9) and AR2023, AR2024 and AR2025 (PDF p. 8) print LDR 2022 = 79.65% (AR2025 also LFR), the value the published report gives for CIR; gross loans / deposits = 82.3%, which supports 82.13%."
+            },
+            "car": {
+                "v": 11.13,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2022/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2022 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Total capital / RWA (credit, market and operational risk), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "cir": {
+                "v": 79.65,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2022/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2022 column, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "OJK definition (operating expenses excluding interest and impairment / operating income), as reported. Printed in the Dec-2022 published report (row 11). Doubt: the same figure, 79.65%, is printed as the 2022 LDR in AR2022 (PDF p. 9) and AR2023-AR2025 (PDF p. 8); the published report prints LDR 82.13%. The 2023-format report has no CIR row."
+            },
+            "bopo": {
+                "v": 99.32,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2022/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2022 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "casa": {
+                "v": 12.23,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 91, target vs realisation table, 'Komposisi dana murah' realisation 2022 (target 15.60%); also AR2023 PDF p. 105 ('tahun 2022 ... kontribusi CASA sebesar 12,23%')",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total third-party funds, as reported ('Komposisi dana murah'). Agrees with the AR deposit breakdown."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 22.103,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI). Same as AR2025 PDF p. 7."
+            },
+            "eps": {
+                "v": 1.87,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 108, Note 39 'Laba per saham dasar'; face PDF p. 12 'LABA PER SAHAM DASAR'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic EPS on a weighted average of 11,832,368,850 shares (full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankmayapada.com/images/PressRelease/2024/20240701_Hasil_RUPSTLB_28_Juni_2024_Ind.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "Pengumuman Ringkasan Risalah RUPS Tahunan 2024-06-28, agenda II 'penetapan penggunaan laba bersih untuk tahun buku 2023': Rp1,000-1,500 juta to the statutory reserve, the rest retained 'untuk memperkuat struktur permodalan'",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2023 profit (AGMS of 2024-06-28, announced 2024-07-01)."
+            },
+            "total_assets": {
+                "v": 141488.996,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, Laporan Posisi Keuangan, 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries (stand-alone statements are the only statements; the IR page's \"Laporan Keuangan Entitas Induk\" files are the same entity), so this bank figure is stored as the consolidated value."
+            },
+            "loans_gross": {
+                "v": 103530.278,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Ikhtisar Data Keuangan Penting, 'Kredit - Gross' (Rp juta, 5-year table)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance. Reconciles to the audited FS (https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202023.pdf, PDF p. 10): 'Pinjaman yang diberikan - neto' 102,212,189 + allowance Rp 1.318.089 juta (caption). Conventional loans only (no sharia financing)."
+            },
+            "deposits": {
+                "v": 116597.264,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan (2023 comparative column), 'Simpanan nasabah' Sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka); no certificates of deposit. FS2023 (PDF p. 11) prints related 2,988,258 + third parties 113,609,006 without a sub-total; AR2025 PDF p. 7 'Dana Pihak Ketiga' 116,597,264."
+            },
+            "equity_attr": {
+                "v": 15867.617,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity. Includes 'Uang muka setoran modal' Rp2,000,000 juta (shareholder advances later used to exercise PMHMETD XIV rights)."
+            },
+            "total_equity": {
+                "v": 15867.617,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11832368850,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 104, Note 'Modal saham' shareholder register total; PDF p. 22 listing chronology total",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid Series A (388,256,500, nominal Rp500) + Series B (nominal Rp100) shares; no treasury shares. 1% of the issued shares (held by PT Mayapada Karunia under PP 29/1999) is not listed on IDX, so the AR share tables print 99% of this count as 'Jumlah Saham Beredar'. PMHMETD XIV (14,335,488,880 new shares) was effective on 29 Dec 2023 but the shares were issued on 24 Jan 2024 (FS2023 Note 50 'Peristiwa setelah tanggal pelaporan', PDF pp. 145-147)."
+            },
+            "year_end_price": {
+                "v": 454,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Ikhtisar Saham table, 2023 TW 4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-04-29",
+                "note": "Last-trading-day close as printed; the AR does not print the session date. Same in AR2024 PDF p. 13 and AR2025 PDF p. 12. AR share tables print Opening = Closing in every quarter (a table quirk); only the closing column is used. Trading is very thin (quarterly volume often 0-2 thousand shares)."
+            },
+            "roe": {
+                "v": 0.18,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2023/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2023 column, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "roa": {
+                "v": 0.04,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2023/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2023 column, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "nim": {
+                "v": 1.8,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2023/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2023 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK definition (net interest income / average earning assets), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no cost-of-credit / credit-cost ratio in the AR2023 ratio table (Ikhtisar Data Keuangan), the AR2025 five-year table, the MD&A or the OJK published report ratio table. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 3.77,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2023/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2023 column, 'NPL gross'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "npl_net": {
+                "v": 2.94,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2023/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2023 column, 'NPL net'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: AR2023 prints no bank Loan-at-Risk ratio (the LAR figures in its MD&A are OJK industry figures); the OJK 'Kredit Kualitas Rendah (KKR)' row appears only from the 2026 published reports (30 Sep 2025 comparative 41.31%, see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2023: the AR and published report print only 'CKPN aset keuangan terhadap aset produktif' (allowance / earning assets), no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 88.59,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2023/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2023 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "car": {
+                "v": 10.78,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2023/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2023 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Total capital / RWA (credit, market and operational risk), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "cir": {
+                "v": 94.21,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2024/laporan-keuangan-publikasi-bank-mayapada-desember-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31-Dec-23 comparative column, row 11 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "OJK definition (operating expenses excluding interest and impairment / operating income), as reported. The Dec-2023 report format has no CIR row; this is the comparative printed in the Dec-2024 report."
+            },
+            "bopo": {
+                "v": 99.4,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2023/Laporan%20Keuangan%20Triwulanan%20Bank%20Mayapada%20per%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2023 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "casa": {
+                "v": 14.12,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 93, target vs realisation table, 'Komposisi dana murah / CASA composition' realisation 2023; PDF p. 105 'CASA berkontribusi 14,12% dari total keseluruhan DPK'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total third-party funds, as reported ('Komposisi dana murah'). Agrees with the AR deposit breakdown."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 25.573,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI). Same as AR2025 PDF p. 7."
+            },
+            "eps": {
+                "v": 0.98,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lkt-bank-mayapada-per-31-des-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 98, Note 39 'Laba per saham dasar', 2024 comparative column (weighted average 26,167,857,730 shares); also AR2025 PDF p. 7",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "As re-presented in the FY2025 audited FS. The FY2024 FS as first issued (PDF p. 95) and AR2024 (PDF p. 8) printed 2.16, on 11,832,368,850 weighted shares, because the PMHMETD XIV proceeds were still booked as an advance for paid-up capital pending OJK administrative approval although the 14,335,488,880 new shares were issued on 24 Jan 2024. 0.98 is stored because it matches the share count used here."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankmayapada.com/images/PressRelease/2025/20250701_Hasil_RUPSTLB_30_Juni_2025_Ind.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "Pengumuman Ringkasan Risalah RUPS Tahunan 2025-06-30, agenda II 'penetapan penggunaan laba bersih untuk tahun buku 2024': Rp1,000-1,500 juta to the statutory reserve, the rest retained 'untuk memperkuat struktur permodalan'",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2024 profit (AGMS of 2025-06-30, announced 2025-07-01). AR2025 PDF p. 109: 'Melalui RUPS Tahunan tahun 2025, Bank Mayapada memutuskan untuk tidak membagikan dividen'."
+            },
+            "total_assets": {
+                "v": 150184.175,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Laporan Posisi Keuangan, 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries (stand-alone statements are the only statements; the IR page's \"Laporan Keuangan Entitas Induk\" files are the same entity), so this bank figure is stored as the consolidated value."
+            },
+            "loans_gross": {
+                "v": 106532.459,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Ikhtisar Data Keuangan Penting, 'Kredit - Gross' (Rp juta, 5-year table)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance. Reconciles to the audited FS (https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202024.pdf, PDF p. 12): 'Pinjaman yang diberikan - neto' 105,134,249 + allowance Rp 1.398.210 juta (caption). Conventional loans only (no sharia financing)."
+            },
+            "deposits": {
+                "v": 126372.786,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan, 'Simpanan nasabah' Sub-total (related + third parties, Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka); no certificates of deposit."
+            },
+            "equity_attr": {
+                "v": 16939.27,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity. Includes 'Uang muka setoran modal' (advance for paid-up capital) of the PMHMETD XIV proceeds, net Rp2,144,516 juta, still pending OJK administrative approval at the balance-sheet date (FS2025 Note 29)."
+            },
+            "total_equity": {
+                "v": 16939.27,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 26167857730,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 92, Note 29 'Uang Muka Setoran Modal': 'Total keseluruhan saham yang telah diterbitkan dalam PMHMETD XIV adalah sebanyak 14.335.488.880 saham sehingga jumlah saham yang diterbitkan ... menjadi 26.167.857.730 saham'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid Series A (388,256,500, nominal Rp500) + Series B (nominal Rp100) shares; no treasury shares. 1% of the issued shares (held by PT Mayapada Karunia under PP 29/1999) is not listed on IDX, so the AR share tables print 99% of this count as 'Jumlah Saham Beredar'. The face of the balance sheet and the shareholder register in Note 29 still show 11,832,368,850 shares / Rp1,338,539 juta, because the PMHMETD XIV advance (net Rp2,144,516 juta) awaited OJK administrative approval; the 14,335,488,880 new shares were issued on 24 Jan 2024 and are listed, and the FY2025 FS uses 26,167,857,730 shares for EPS. The register shows 26,167,857,730 shares by 30 Jun 2026 (LKTT Jun-2026 Note 28)."
+            },
+            "year_end_price": {
+                "v": 206,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Ikhtisar Saham table, 2024 TW 4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-04-28",
+                "note": "Last-trading-day close as printed; the AR does not print the session date. Same in AR2025 PDF p. 12. The 2023->2024 drop spans the PMHMETD XIV rights issue (ex 10 Jan 2024, 100:226 at Rp150). AR share tables print Opening = Closing in every quarter (a table quirk); only the closing column is used. Trading is very thin (quarterly volume often 0-2 thousand shares)."
+            },
+            "roe": {
+                "v": 0.19,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2024/laporan-keuangan-publikasi-bank-mayapada-desember-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2024 column, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "roa": {
+                "v": 0.04,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2024/laporan-keuangan-publikasi-bank-mayapada-desember-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2024 column, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "nim": {
+                "v": 2.1,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2024/laporan-keuangan-publikasi-bank-mayapada-desember-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2024 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK definition (net interest income / average earning assets), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no cost-of-credit / credit-cost ratio in the AR2024 ratio table (Ikhtisar Data Keuangan), the AR2025 five-year table, the MD&A or the OJK published report ratio table. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 3.47,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2024/laporan-keuangan-publikasi-bank-mayapada-desember-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2024 column, 'NPL gross'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "npl_net": {
+                "v": 2.63,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2024/laporan-keuangan-publikasi-bank-mayapada-desember-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2024 column, 'NPL net'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: AR2024 prints no bank Loan-at-Risk ratio (the LAR figures in its MD&A are OJK industry figures); the OJK 'Kredit Kualitas Rendah (KKR)' row appears only from the 2026 published reports (30 Sep 2025 comparative 41.31%, see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2024: the AR and published report print only 'CKPN aset keuangan terhadap aset produktif' (allowance / earning assets), no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 84.01,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2024/laporan-keuangan-publikasi-bank-mayapada-desember-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2024 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "car": {
+                "v": 10.5,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2024/laporan-keuangan-publikasi-bank-mayapada-desember-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2024 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Total capital / RWA (credit, market and operational risk), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "cir": {
+                "v": 91.53,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2024/laporan-keuangan-publikasi-bank-mayapada-desember-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2024 column, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "OJK definition (operating expenses excluding interest and impairment / operating income), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "bopo": {
+                "v": 99.51,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2024/laporan-keuangan-publikasi-bank-mayapada-desember-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2024 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "casa": {
+                "v": 11.93,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 86, target vs realisation table, 'Komposisi dana murah / CASA composition' realisation 2024; PDF p. 97 'CASA berkontribusi 11,93% terhadap total DPK'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total third-party funds, as reported ('Komposisi dana murah'). Agrees with the AR deposit breakdown."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 29.975,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lkt-bank-mayapada-per-31-des-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI). Same as AR2025 PDF p. 7."
+            },
+            "eps": {
+                "v": 1.15,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lkt-bank-mayapada-per-31-des-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 98, Note 39 'Laba per saham dasar'; face PDF p. 14 'LABA PER SAHAM DASAR'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic EPS on a weighted average of 26,167,857,730 shares (full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankmayapada.com/images/PressRelease/2026/20260630_Hasil_RUPSTLB_30_Juni_2026_Ind.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "Pengumuman Ringkasan Risalah RUPS Tahunan 2026-06-30, agenda II 'penetapan penggunaan laba bersih untuk tahun buku 2025': Rp1,000-1,500 juta to the statutory reserve, the rest retained 'untuk memperkuat struktur permodalan'",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2025 profit (AGMS of 2026-06-30, announced 2026-06-30)."
+            },
+            "total_assets": {
+                "v": 163825.38,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lkt-bank-mayapada-per-31-des-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Laporan Posisi Keuangan, 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries (stand-alone statements are the only statements; the IR page's \"Laporan Keuangan Entitas Induk\" files are the same entity), so this bank figure is stored as the consolidated value."
+            },
+            "loans_gross": {
+                "v": 108151.752,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Ikhtisar Data Keuangan Penting, 'Kredit - Gross' (Rp juta, 5-year table)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance. Reconciles to the audited FS (https://www.bankmayapada.com/media/attachments/2026/03/31/lkt-bank-mayapada-per-31-des-2025.pdf, PDF p. 12): 'Pinjaman yang diberikan - neto' 106,836,670 + allowance Rp 1.315.082 juta (caption). Conventional loans only (no sharia financing)."
+            },
+            "deposits": {
+                "v": 138776.188,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lkt-bank-mayapada-per-31-des-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan, 'Simpanan nasabah' Sub-total (related + third parties, Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka); no certificates of deposit."
+            },
+            "equity_attr": {
+                "v": 17065.119,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lkt-bank-mayapada-per-31-des-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity. Includes 'Uang muka setoran modal' (advance for paid-up capital) of the PMHMETD XIV proceeds, net Rp2,144,516 juta, still pending OJK administrative approval at the balance-sheet date (FS2025 Note 29)."
+            },
+            "total_equity": {
+                "v": 17065.119,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lkt-bank-mayapada-per-31-des-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 26167857730,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lkt-bank-mayapada-per-31-des-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 22, Note 1b listing chronology 'Total 26.167.857.730'; PDF p. 98 Note 39 weighted average 26,167,857,730",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid Series A (388,256,500, nominal Rp500) + Series B (nominal Rp100) shares; no treasury shares. 1% of the issued shares (held by PT Mayapada Karunia under PP 29/1999) is not listed on IDX, so the AR share tables print 99% of this count as 'Jumlah Saham Beredar'. The face of the balance sheet and the shareholder register in Note 29 still show 11,832,368,850 shares / Rp1,338,539 juta, because the PMHMETD XIV advance (net Rp2,144,516 juta) awaited OJK administrative approval; the 14,335,488,880 new shares were issued on 24 Jan 2024 and are listed, and the FY2025 FS uses 26,167,857,730 shares for EPS. The register shows 26,167,857,730 shares by 30 Jun 2026 (LKTT Jun-2026 Note 28)."
+            },
+            "year_end_price": {
+                "v": 232,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Ikhtisar Saham table, 2025 TW 4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2026-04-29",
+                "note": "Last-trading-day close as printed; the AR does not print the session date.  AR share tables print Opening = Closing in every quarter (a table quirk); only the closing column is used. Trading is very thin (quarterly volume often 0-2 thousand shares)."
+            },
+            "roe": {
+                "v": 0.23,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lapkeu-publikasi-bank-mayapada-per-31-desember-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2025 column, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "roa": {
+                "v": 0.03,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lapkeu-publikasi-bank-mayapada-per-31-desember-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2025 column, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "nim": {
+                "v": 2.81,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lapkeu-publikasi-bank-mayapada-per-31-desember-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2025 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK definition (net interest income / average earning assets), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no cost-of-credit / credit-cost ratio in the AR2025 ratio table (Ikhtisar Data Keuangan), the AR2025 five-year table, the MD&A or the OJK published report ratio table. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 3.67,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lapkeu-publikasi-bank-mayapada-per-31-desember-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2025 column, 'NPL gross'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "npl_net": {
+                "v": 2.89,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lapkeu-publikasi-bank-mayapada-per-31-desember-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2025 column, 'NPL net'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: AR2025 prints no bank Loan-at-Risk ratio (the LAR figures in its MD&A are OJK industry figures); the OJK 'Kredit Kualitas Rendah (KKR)' row appears only from the 2026 published reports (30 Sep 2025 comparative 41.31%, see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2025: the AR and published report print only 'CKPN aset keuangan terhadap aset produktif' (allowance / earning assets), no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 77.65,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lapkeu-publikasi-bank-mayapada-per-31-desember-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2025 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "car": {
+                "v": 10.1,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lapkeu-publikasi-bank-mayapada-per-31-desember-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2025 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Total capital / RWA (credit, market and operational risk), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "cir": {
+                "v": 86.81,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lapkeu-publikasi-bank-mayapada-per-31-desember-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2025 column, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "OJK definition (operating expenses excluding interest and impairment / operating income), as reported. AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "bopo": {
+                "v": 99.59,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/03/31/lapkeu-publikasi-bank-mayapada-per-31-desember-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan, 31 Dec 2025 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "AR2025 PDF pp. 7-8 five-year table prints the same value."
+            },
+            "casa": {
+                "v": 12.12,
+                "source_url": "https://www.bankmayapada.com/images/TentangKami/HubInvestor/LapTahunan/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 90, target vs realisation table, 'Komposisi dana murah / CASA composition' realisation 2025; PDF p. 102 'dana murah (CASA) berkontribusi sebesar 12,12%'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total third-party funds, as reported ('Komposisi dana murah'). Agrees with the AR deposit breakdown."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 86.956,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Laba Rugi 30-Sep-26 column, 'LABA (RUGI) BERSIH TAHUN BERJALAN' 86,956 (Rp juta)",
+                "basis": "consolidated",
+                "note": "9M 2026, unaudited published report. No subsidiaries (stand-alone statements are the only statements; the IR page's \"Laporan Keuangan Entitas Induk\" files are the same entity), so this bank figure is stored as the consolidated value. Basic EPS 3.32."
+            },
+            "profit_ytd_prior": {
+                "v": 41.647,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 1, Laporan Laba Rugi 30-Sep-25 comparative column, 'LABA (RUGI) BERSIH TAHUN BERJALAN' 41,647 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Matches the Sep-2025 published report (PDF p. 1, equity line 'Laba/rugi tahun berjalan' 41,647 at 30-Sep-25). The 9M 2026 profit is +108.8% YoY: real, both figures as printed (pre-tax 108,760 vs 50,128; 2026 includes a Rp146.9bn FX translation gain)."
+            },
+            "equity_attr": {
+                "v": 19078.73,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan 30-Sep-26 column, 'TOTAL EKUITAS' 19,078,730 (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries/NCI. Includes 'Dana setoran modal' Rp2,000,286 juta (shareholder capital deposit received Dec 2025, approved by OJK in Mar 2026 to count as paid-in capital; LKTT Jun-2026 Note 27, PDF p. 79)."
+            },
+            "shares_out": {
+                "v": 26167857730,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/07/31/lktt-bank-mayapada-per-30-juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 79 (printed p. 76), Note 28 'Modal Saham' shareholder register at 30 Jun 2026, Total 26,167,857,730",
+                "basis": "n/a",
+                "share_basis": "2026-06-30",
+                "note": "Latest share register (30 Jun 2026); the 30 Sep 2026 published report shows paid-in capital Rp2,772,088 juta (= 388,256,500 x Rp500 + 25,779,601,230 x Rp100) and EPS 3.32 (= 86,956 / 26.17bn), so the count is unchanged at 30 Sep 2026. 1% (261,678,577 shares) is not listed on IDX (PP 29/1999)."
+            },
+            "total_assets": {
+                "v": 171867.025,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan 30-Sep-26 column, 'TOTAL ASET' 171,867,025 (Rp juta)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 114500.867,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan 30-Sep-26, Aset 9 'Kredit yang diberikan' 114,500,867 (Rp juta; allowance shown separately in line 13b)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 105514.201,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2025/lapkeu-publikasi-bank-mayapada-per-30-september-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan 30-Sep-25 column, Aset 9 'Kredit yang diberikan' 105,514,201 (Rp juta)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 147417.601,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan 30-Sep-26, Liabilitas 1-3: Giro 6,938,224 + Tabungan 10,661,387 + Deposito 129,817,990 (Rp juta)",
+                "basis": "consolidated",
+                "note": "The OJK report format has no DPK sub-total; sum of the three printed deposit lines (the same three lines give the audited FY2025 DPK 138,776,188 in the Dec-25 column)."
+            },
+            "deposits_prior": {
+                "v": 131100.601,
+                "source_url": "https://www.bankmayapada.com/images/Files/LapKeuanganTriwulan/2025/lapkeu-publikasi-bank-mayapada-per-30-september-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan 30-Sep-25, Liabilitas 1-3: Giro 4,752,974 + Tabungan 10,552,201 + Deposito 115,795,426 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Sum of the three printed deposit lines (no DPK sub-total in the OJK format)."
+            },
+            "roe": {
+                "v": 0.76,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan per 30 September 2026 dan 2025, 30-Sep-26 column, row 9 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported. Annualised. 30 Sep 2025: 0.43%."
+            },
+            "roa": {
+                "v": 0.09,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan per 30 September 2026 dan 2025, 30-Sep-26 column, row 8 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported. Annualised. 30 Sep 2025: 0.04%."
+            },
+            "nim": {
+                "v": 2.22,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan per 30 September 2026 dan 2025, 30-Sep-26 column, row 10 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK definition (net interest income / average earning assets), as reported. 30 Sep 2025: 2.64%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the 9M 2026 published report and key-metrics report print no cost-of-credit ratio; Mayapada publishes no interim analyst presentation. Not computed."
+            },
+            "npl_gross": {
+                "v": 3.36,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan per 30 September 2026 dan 2025, 30-Sep-26 column, row 5 'NPL gross'",
+                "basis": "bank_only",
+                "note": "NPL net 2.67%. 30 Sep 2025: 3.27% gross."
+            },
+            "lar": {
+                "v": 44.14,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan per 30 September 2026 dan 2025, 30-Sep-26 column, row 7 'Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "OJK 'Kredit Kualitas Rendah' (low-quality loans: special mention + restructured current + NPL), the regulator's LaR-type measure, new in the 2026 report format. 30 Sep 2025 comparative: 41.31%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: the published report prints only 'CKPN aset keuangan terhadap aset produktif' (0.98%), no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 77.45,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan per 30 September 2026 dan 2025, 30-Sep-26 column, row 13 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 80.17%."
+            },
+            "car": {
+                "v": 11.09,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan per 30 September 2026 dan 2025, 30-Sep-26 column, row 1 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Tier 1 = CET1 10.62% (Key Metrics report Sep-2026, PDF p. 1). 30 Sep 2025: 10.09%."
+            },
+            "cir": {
+                "v": 89.28,
+                "source_url": "https://www.bankmayapada.com/media/attachments/2026/10/30/lapkeu-publikasi-bank-mayapada-per-30-september-2026-3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Rasio Keuangan per 30 September 2026 dan 2025, 30-Sep-26 column, row 12 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "OJK definition (operating expenses excluding interest and impairment / operating income), as reported. BOPO 99.07%. 30 Sep 2025: CIR 92.39%."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for 30 Sep 2026 (the published report prints only the giro, tabungan and deposito balances). Not computed."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "Real: reported FY2021 basic EPS 3.99 uses the weighted average of 11,065,251,983 shares (FS2021 PDF p. 118) because the 4,999,958,150 PUT XIII rights shares were issued in March 2021 (ex-date 9 Mar 2021); 3.99 x 11,065,251,983 = Rp44.15bn = net profit Rp44.127bn. Year-end shares 11,832,368,850 give the 7% gap. Source: https://www.bankmayapada.com/images/Files/LapBerkalaSemester/LKT%20Bank%20Mayapada%20per%2031%20Des%202021.pdf"
+        }
+    ],
+    "research_notes": [
+        "No subsidiaries: Mayapada files stand-alone statements only (the IR page also posts \"Laporan Keuangan Entitas Induk\" copies of the same entity). Money figures carry basis \"consolidated\" per the schema; ratios come from the OJK published report (\"Bank secara Individual\") and carry basis \"bank_only\". Bank-only and group figures are identical.",
+        "No cash dividend was paid out of FY2020-FY2025 profit: every AGMS (21 Jul 2021, 29 Jun 2022, 24 May 2023, 28 Jun 2024, 30 Jun 2025, 30 Jun 2026) put Rp1.0-1.5bn into the statutory reserve and retained the rest. Hence no dividend records; payout_ratio v 0 with the AGMS result as source. The IR page \"Dividen\" tab is empty.",
+        "PMHMETD XIV accounting: the 14,335,488,880 rights shares were issued on 24 Jan 2024 and listed, but the FY2024 and FY2025 balance sheets keep issued capital at 11,832,368,850 shares (Rp1,338,539 juta) and carry the proceeds (net Rp2,144,516 juta) as \"Uang muka setoran modal\" pending OJK administrative approval (FS2025 Note 29, PDF pp. 93-94). The FS2024 EPS (2.16, AR2024 likewise) used 11.83bn shares; the FS2025 re-presents FY2024 EPS as 0.98 on 26,167,857,730 shares. shares_out FY2024/FY2025 = 26,167,857,730 and FY2024 eps = 0.98 (re-presented). By 30 Jun 2026 the register and paid-in capital show 26,167,857,730 shares / Rp2,772,088 juta.",
+        "1% of the issued shares (261,678,577 at 2026; 118,323,688 before 2024) are held unlisted by PT Mayapada Karunia under PP 29/1999 (FS Note 1b). The AR share tables print only the listed 99% as \"Jumlah Saham Beredar\" (11,714,045,161; 25,906,179,152; 6,764,086,593); shares_out uses the full issued count, which is also the EPS denominator.",
+        "Year-end prices: the AR share tables print Opening equal to Closing in every quarter (a presentation quirk) and very thin volume (several quarters 0 thousand shares, e.g. 2020 Q4). The closing column is used as printed. With so little trading the AR close may differ from the price source; check the price_year_end cross-checks once prices/MAYA.json exists.",
+        "Rights issues 2019-2024 (all PMHMETD/PUT, no splits, reverse splits or bonus issues; AR2025 PDF p. 60 confirms no share-count action in 2025, and the 2026 AGMS/EGMS agendas contain none): PUT XII ex 2 Dec 2019 (14:1 at Rp2,200), PUT XIII ex 9 Mar 2021 (5,000:3,659 at Rp400), PMHMETD XIV ex 10 Jan 2024 (100:226 at Rp150, 53.6% taken up). fy.2019.year_end_price (Rp9,100) is stored for the price fetcher; there is no AR close before the 2 Dec 2019 ex-date in this file, so the price series can only be verified from that date.",
+        "LDR 2022 conflict: the OJK published reports print 82.13% (Dec-2022 report and Dec-2023 comparative); AR2022-AR2025 print LDR 2022 = 79.65%, which is the CIR value in the published report. Stored 82.13%. Gross loans / deposits = 82.3% supports it. CIR 2022 (79.65%) is stored as printed and marked doubtful.",
+        "Ratios outside the validator's plausibility bounds that are REAL: CIR FY2021 235.50% (NIM 0.69%; operating income propped up by a Rp991bn impairment reversal) and LAR FY2020 60.85% (Board of Commissioners report). Mayapada has a very weak loan book: special-mention loans were 25.8%-36% of loans in 2021-2023 (prospectus XIV PDF p. 385), and the OJK \"Kredit Kualitas Rendah\" ratio is 44.14% at 30 Sep 2026. ROA has been 0.03-0.12% and BOPO 98-99.6% since 2020.",
+        "Not disclosed (null, not computed): cost of credit (all years and interim), NPL coverage (all years and interim), LAR FY2022-FY2025, CIR FY2020, CASA for 9M 2026. Mayapada publishes no analyst presentations; the AR ratio tables print only CKPN/earning assets.",
+        "Interim = 9M 2026 from the 30 Sep 2026 OJK published report (published 30 Oct 2026; image-only PDF, read from rendered page images). Mayapada posts long-form FS only for June and December (LKTT/LKT), so the 9M figures are unaudited published-report figures; deposits are the sum of the giro, tabungan and deposito lines. The published report's comprehensive-income attribution lines are internally inconsistent (owners 47,521 vs total 13,325) but are not used.",
+        "KBMI stored as 3 from the 30 Sep 2026 Tier 1 capital (Rp15.91tn, above the Rp14tn threshold since Q1 2026, after a Rp2.0tn shareholder capital deposit was approved by OJK). At FY2025 Tier 1 was Rp13.29tn (KBMI 2 band), and the 2023 prospectus positions the bank against KBMI 2 and KBMI 3 peers. No bank document states the class.",
+        "Large non-earning assets: foreclosed assets jumped to Rp18.0tn in FY2020 (FS2020 PDF p. 7) and \"Aset lain-lain\" was Rp21.9tn at FY2025 (FS2025 PDF p. 12). This explains the low earning-asset ratio and NIM; context only, not stored."
+    ]
+}
