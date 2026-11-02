@@ -1,0 +1,1459 @@
+{
+    "schema": 1,
+    "code": "BBKP",
+    "name": "PT Bank KB Indonesia Tbk",
+    "name_short": "KB Bank",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.kbbank.co.id",
+    "ir_url": "https://www.kbbank.co.id/investor",
+    "kbmi": {
+        "v": 2,
+        "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 280, Leverage Ratio (bank only) qualitative analysis: 'Total Modal Inti sebesar Rp6,35 triliun' (Q4 2025); PDF p. 199, capital table (Tier 1 ratio 13.95% x RWA Rp45,550bn, bank only)",
+        "note": "INFERRED, not stated: AR2025 contains no sentence giving the bank's KBMI class. Bank-only core capital (Tier 1) of Rp6.35tn at 31 Dec 2025 is inside the KBMI 2 band (Rp6tn to <Rp14tn, POJK 12/POJK.03/2021). It only crossed Rp6tn because of the Rp3tn perpetual subordinated loan from KB Kookmin (AT1, June 2025); at 31 Dec 2024 bank Tier 1 was ~Rp3.4tn (KBMI 1 band) and AR2022 p. 123 says the bank was KBMI 1 in 2022. 30 Sep 2026 bank Tier 1 is Rp6,017.8bn (9M2026 published report p. 6), barely above the threshold. Reviewer: confirm with OJK if possible."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 100264.248,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202019/Triwulan%20IV/Bank_Bukopin_31_Desember_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Same figure as the comparative in the next year's audited FS (no restatement)."
+            },
+            "loans_gross": {
+                "v": 69545.545,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202019/Triwulan%20IV/Bank_Bukopin_31_Desember_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, 'Kredit yang diberikan dan pembiayaan/piutang syariah' gross (before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans + sharia financing/receivables of PT Bank KB Bukopin Syariah, gross of CKPN: single line 'Kredit yang diberikan dan pembiayaan/piutang Syariah' 69,545,545 (Rp juta)."
+            },
+            "deposits": {
+                "v": 80813.46,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202019/Triwulan%20IV/Bank_Bukopin_31_Desember_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, 'Simpanan nasabah' (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers incl. the sharia subsidiary's deposits (no separate temporary syirkah line on the face); excludes deposits from other banks. single line 'Simpanan nasabah' 80,813,460 (= giro 49,489+12,927,165; tabungan 19,768+19,112,653; deposito 53,434+48,650,951 in the FY2020 FS comparative)."
+            },
+            "equity_attr": {
+                "v": 8883.021,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202019/Triwulan%20IV/Bank_Bukopin_31_Desember_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, equity attributable to owners of the parent (subtotal before 'Kepentingan non-pengendali')",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 8905.485,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202019/Triwulan%20IV/Bank_Bukopin_31_Desember_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 224,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2019/AR_Bukopin_2019_030420pagi.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 21 (printed p. 19), Ikhtisar Saham 'Transaksi Saham Bank Bukopin 2018 - 2019', 2019 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2019-12-31",
+                "note": "Q4 2019 closing price as printed (last IDX session of 2019; the AR does not print the session date, so as_of_date is the period end). As traded, before all three rights issues (PUT V ex 2020-07-09, PUT VI ex 2021-11-17, PUT VII ex 2023-05-16); 11,651,908,748 shares outstanding. Same value in AR2020 PDF p. 21 (2019 Triwulan IV 'Penutupan' 224). Stored as the pre-rights anchor for the price fetcher."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": -3255.895,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202020/Triwulan%20IV/PT_Bank_KB_BUKOPIN_31_Dec_2020_Final_Released2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Laporan Laba Rugi, 'Laba (rugi) tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Net LOSS (2020 liquidity run and KB Kookmin takeover year; FY2019 profit was 216.324)."
+            },
+            "eps": {
+                "v": -100,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202020/Triwulan%20IV/PT_Bank_KB_BUKOPIN_31_Dec_2020_Final_Released2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11 + Note 48 PDF p. 310, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic/diluted loss per share; Note 48 denominator 32,673,251,194 shares (year-end count, although PUT V and the private placement were issued in Jul/Sep 2020)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 173, Pembagian dan Pembayaran Dividen 3 Tahun Terakhir, 'Tahun Buku 2020' column all '-'",
+                "basis": "consolidated",
+                "note": "Net loss year; no dividend. The KB Bank IR dividend history (https://www.kbbank.co.id/dividen) lists FY2014 as the last dividend."
+            },
+            "total_assets": {
+                "v": 79938.578,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202020/Triwulan%20IV/PT_Bank_KB_BUKOPIN_31_Dec_2020_Final_Released2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Same figure as the comparative in the next year's audited FS (no restatement)."
+            },
+            "loans_gross": {
+                "v": 60968.574,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202020/Triwulan%20IV/PT_Bank_KB_BUKOPIN_31_Dec_2020_Final_Released2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, 'Kredit yang diberikan dan pembiayaan/piutang syariah' gross (before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans + sharia financing/receivables of PT Bank KB Bukopin Syariah, gross of CKPN: 427,563 related + 60,541,011 third parties (Rp juta)."
+            },
+            "deposits": {
+                "v": 44042.838,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202020/Triwulan%20IV/PT_Bank_KB_BUKOPIN_31_Dec_2020_Final_Released2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 8-9, 'Simpanan nasabah' (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers incl. the sharia subsidiary's deposits (no separate temporary syirkah line on the face); excludes deposits from other banks. giro 57,253+6,935,171; tabungan 8,441+7,051,506; deposito 49,094+29,941,373."
+            },
+            "equity_attr": {
+                "v": 8446.192,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202020/Triwulan%20IV/PT_Bank_KB_BUKOPIN_31_Dec_2020_Final_Released2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 8-9, equity attributable to owners of the parent (subtotal before 'Kepentingan non-pengendali')",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 8466.442,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202020/Triwulan%20IV/PT_Bank_KB_BUKOPIN_31_Dec_2020_Final_Released2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 8-9, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 32673251194,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202020/Triwulan%20IV/PT_Bank_KB_BUKOPIN_31_Dec_2020_Final_Released2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (face) + Note 26a PDF p. 219",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "21,337,978 Class A + 32,651,913,216 Class B, after PUT V (4,660,763,499 shares, Jul 2020) and the private placement to KB Kookmin (16,360,578,947 shares, 2 Sep 2020). The FS share-history table in later years prints the placement as 16,360,578,974 and the Class B total as 32,651,913,243 (a 27-share typo); the face of the balance sheet, Note 26a and the AR share table all give 32,673,251,194 total."
+            },
+            "year_end_price": {
+                "v": 575,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2020/KB_BUKOPIN_ANNUAL_REPORT_2020_(IDN).pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 21, Ikhtisar Saham 'Transaksi Saham Bank KB Bukopin 2019-2020', 2020 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Same value in AR2021 PDF p. 17."
+            },
+            "roe": {
+                "v": -48.67,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2022/AR%20KB%20Bukopin%20Tahun%20Buku%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2022/2021/2020 columns), 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE per OJK (net profit / average Tier 1 capital), bank only. Same value in AR2020 p. 18 and AR2021 p. 14."
+            },
+            "roa": {
+                "v": -4.61,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2022/AR%20KB%20Bukopin%20Tahun%20Buku%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2022/2021/2020 columns), 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only."
+            },
+            "nim": {
+                "v": 0.61,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2022/AR%20KB%20Bukopin%20Tahun%20Buku%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2022/2021/2020 columns), 'NIM'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the AR ratio tables (AR2022 p. 15, AR2023 p. 18, AR2024 pp. 16-17, AR2025 pp. 30-31), the published quarterly reports and the FY2024/FY2025 analyst decks print no cost-of-credit / credit-cost ratio (the 1H23 deck defines 'CCR' in its glossary but prints no value). Not computed."
+            },
+            "npl_gross": {
+                "v": 10.16,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2022/AR%20KB%20Bukopin%20Tahun%20Buku%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2022/2021/2020 columns), 'NPL Gross' / 'Rasio Kredit Bermasalah ... Kotor'",
+                "basis": "bank_only",
+                "note": "Gross NPL per OJK, bank only."
+            },
+            "npl_net": {
+                "v": 4.95,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2022/AR%20KB%20Bukopin%20Tahun%20Buku%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2022/2021/2020 columns), 'NPL Nett' / 'Rasio Kredit Bermasalah ... Neto'",
+                "basis": "bank_only",
+                "note": "Net NPL per OJK, bank only."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: AR2020 and the Dec-2020 published report give no loan-at-risk ratio (AR2020 p. 42 mentions LAR only qualitatively); the first LAR figure is FY2021 (65.12%)."
+            },
+            "npl_coverage": {
+                "v": 70.04,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2020/KB_BUKOPIN_ANNUAL_REPORT_2020_(IDN).pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 117, Analisis Industri Perbankan: 'Total CKPN coverage (NPL) pada Q4 tahun 2020 sebesar 70,04%'",
+                "basis": "n/a",
+                "note": "Basis not stated (narrative; context is the bank's own asset quality)."
+            },
+            "ldr": {
+                "v": 135.46,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2022/AR%20KB%20Bukopin%20Tahun%20Buku%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2022/2021/2020 columns), 'LDR'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 12.08,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2022/AR%20KB%20Bukopin%20Tahun%20Buku%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2022/2021/2020 columns), 'KPMM ... Risiko Kredit, Risiko Pasar, dan Risiko Operasional'",
+                "basis": "bank_only",
+                "note": "KPMM/CAR with credit, market and operational risk, bank only. Same value in AR2021 p. 14 and the audited Dec-2020 published report."
+            },
+            "cir": {
+                "v": 203.18,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202020/Triwulan%20IV/INA_FINAL_Layout_Publikasi_LK_BKP_Per_Desember_20207.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 1, Laporan Publikasi 31 Desember 2020 (audited), RASIO '11. Cost to Income Ratio (CIR)' (printed '203,18.%')",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as printed, bank only. Bank only. AR2020-AR2022 ratio tables carry no CIR row; taken from the audited Dec-2020 published quarterly report. REAL value above 150%."
+            },
+            "bopo": {
+                "v": 168.1,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2022/AR%20KB%20Bukopin%20Tahun%20Buku%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2022/2021/2020 columns), 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income per OJK, bank only."
+            },
+            "casa": {
+                "v": 32.23,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2020/KB_BUKOPIN_ANNUAL_REPORT_2020_(IDN).pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 118, 'Pertumbuhan Kinerja dan Rasio Bank KB Bukopin Dibandingkan dengan Industri Perbankan dan BUKU III', row 'CASA' 2020 (source: OJK Statistik Perbankan Indonesia Dec 2020)",
+                "basis": "bank_only",
+                "note": "Bank-only value from the OJK statistics table. The same AR (p. 125) also says CASA fell 'dari 39,73% di tahun 2019 menjadi 31,91% di tahun 2020' - those match the CONSOLIDATED deposit mix; 32.23% is kept for consistency with the bank-only 2021-2025 series."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": -2282.245,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202021/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Des_2021_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Laporan Laba Rugi, 'Laba (rugi) tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Net LOSS."
+            },
+            "eps": {
+                "v": -34,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202021/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Des_2021_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11 + Note 48 PDF p. 254, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic/diluted loss per share; Note 48 denominator 67,887,540,178 shares (the year-end count, not a weighted average, even though PUT VI shares were issued in Nov-Dec 2021)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2021/ANNUAL_REPORT_KBBKP_2021_(1).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 153, Kebijakan dan Pembagian Dividen: 'Berdasarkan RUPST Tahun Buku 2021, Pemegang Saham setuju dengan keputusan Perseroan tidak membagikan Dividen'",
+                "basis": "consolidated",
+                "note": "Net loss year; no dividend. Also AR2023 PDF p. 173 (FY2021 column '-')."
+            },
+            "total_assets": {
+                "v": 89215.674,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202021/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Des_2021_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Same figure as the comparative in the next year's audited FS (no restatement)."
+            },
+            "loans_gross": {
+                "v": 58512.087,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202021/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Des_2021_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, 'Kredit yang diberikan dan pembiayaan/piutang syariah' gross (before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans + sharia financing/receivables of PT Bank KB Bukopin Syariah, gross of CKPN: 339,713 related + 58,172,374 third parties (Rp juta)."
+            },
+            "deposits": {
+                "v": 55822.776,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202021/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Des_2021_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, 'Simpanan nasabah' (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers incl. the sharia subsidiary's deposits (no separate temporary syirkah line on the face); excludes deposits from other banks. giro 65,446+3,249,306; tabungan 20,025+8,776,892; deposito 11,956+43,699,151."
+            },
+            "equity_attr": {
+                "v": 13205.688,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202021/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Des_2021_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, equity attributable to owners of the parent (subtotal before 'Kepentingan non-pengendali')",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 13205.904,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202021/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Des_2021_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 67887540178,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202021/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Des_2021_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8 (face) + Note 27a PDF p. 182",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "21,337,978 Class A + 67,866,202,200 Class B, after PUT VI added 35,214,288,984 Class B shares (Dec 2021). No treasury shares."
+            },
+            "year_end_price": {
+                "v": 270,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2021/ANNUAL_REPORT_KBBKP_2021_(1).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17, Ikhtisar Saham 'Transaksi Saham Bank KB Bukopin 2020-2021', 2021 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Same value in AR2022 PDF p. 18."
+            },
+            "roe": {
+                "v": -36.01,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2023/2022/2021 columns), 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE per OJK (net profit / average Tier 1 capital), bank only. Same value in AR2021/AR2022."
+            },
+            "roa": {
+                "v": -4.93,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2023/2022/2021 columns), 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only. The 1H23 investor deck p. 29 prints -3.61% for Dec-21; the AR value is used."
+            },
+            "nim": {
+                "v": 1,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2023/2022/2021 columns), 'NIM'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the AR ratio tables (AR2022 p. 15, AR2023 p. 18, AR2024 pp. 16-17, AR2025 pp. 30-31), the published quarterly reports and the FY2024/FY2025 analyst decks print no cost-of-credit / credit-cost ratio (the 1H23 deck defines 'CCR' in its glossary but prints no value). Not computed."
+            },
+            "npl_gross": {
+                "v": 10.66,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2023/2022/2021 columns), 'NPL Gross' / 'Rasio Kredit Bermasalah ... Kotor'",
+                "basis": "bank_only",
+                "note": "Gross NPL per OJK, bank only. The FY2024 deck prints 10.78%; AR2021-AR2023 print 10.66%."
+            },
+            "npl_net": {
+                "v": 4.91,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2023/2022/2021 columns), 'NPL Nett' / 'Rasio Kredit Bermasalah ... Neto'",
+                "basis": "bank_only",
+                "note": "Net NPL per OJK, bank only."
+            },
+            "lar": {
+                "v": 65.12,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 54, Laporan Dewan Komisaris: 'menurunkan LAR secara signifikan dari 65,12% (2021)'",
+                "basis": "bank_only",
+                "note": "Bank only. Same 65.12% in the FY2024 deck p. 12 and the 1H23 deck p. 29 (LAR incl. SML & NPL Rp35,125bn); FY2025 deck restates to 64.38%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no NPL coverage (CKPN/NPL) ratio in the AR ratio tables, MD&A or the analyst decks (checked AR2021-AR2025, FY2024/FY2025 decks, 1H23 deck). Not computed."
+            },
+            "ldr": {
+                "v": 106.46,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2023/2022/2021 columns), 'LDR'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 20.26,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2023/2022/2021 columns), 'KPMM ... Risiko Kredit, Risiko Pasar, dan Risiko Operasional'",
+                "basis": "bank_only",
+                "note": "KPMM/CAR with credit, market and operational risk, bank only. Same value in AR2022 p. 15."
+            },
+            "cir": {
+                "v": 339.88,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Materi%20Investor/Prospektus/Prospektus%20PUT%20VII%20BBKP.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Ringkasan Data Keuangan Penting - RASIO-RASIO KEUANGAN, 'Biaya Overhead terhadap Pendapatan Operasional (CIR)' 2021 column",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as printed, bank only. AR2021-AR2023 ratio tables carry no CIR row; taken from the PUT VII prospectus (OJK registration document). The 1H23 investor deck p. 29 prints 339.89%. REAL value above 150%."
+            },
+            "bopo": {
+                "v": 171.2,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2023/2022/2021 columns), 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income per OJK, bank only."
+            },
+            "casa": {
+                "v": 22.36,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Materi%20Investor/Temu%20Analis/250314_Corporate%20Presentation%20-%20Earnings%20Call%20FY%202024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "p. 14, 'Maintaining Healthy Liquidity Levels' table (bn IDR, Bank Only - Audited), 'CASA Ratio' 2021 column",
+                "basis": "bank_only",
+                "note": "Same value in the 1H23 investor deck p. 29 (Dec-21) and the FY2025 deck p. 6."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": -5027.46,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202022/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Dec_31_22_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Laporan Laba Rugi, 'Laba (rugi) tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Net LOSS."
+            },
+            "eps": {
+                "v": -74,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202022/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Dec_31_22_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 + Note 48 PDF p. 254, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic/diluted loss per share; Note 48 denominator 67,887,540,178 shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 215, Kebijakan dan Pembagian Dividen, table 'Tahun Buku 2022 ... Nihil'",
+                "basis": "consolidated",
+                "note": "Net loss year; no dividend. Also AR2023 PDF p. 173 (FY2022 column '-')."
+            },
+            "total_assets": {
+                "v": 89995.352,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202022/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Dec_31_22_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Same figure as the comparative in the next year's audited FS (no restatement)."
+            },
+            "loans_gross": {
+                "v": 50583.434,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202022/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Dec_31_22_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, 'Kredit yang diberikan dan pembiayaan/piutang syariah' gross (before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans + sharia financing/receivables of PT Bank KB Bukopin Syariah, gross of CKPN: 761,333 related + 49,822,101 third parties (Rp juta)."
+            },
+            "deposits": {
+                "v": 51962.37,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202022/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Dec_31_22_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, 'Simpanan nasabah' (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers incl. the sharia subsidiary's deposits (no separate temporary syirkah line on the face); excludes deposits from other banks. giro 260,318+3,317,609; tabungan 9,870+6,945,914; deposito 55,847+41,372,812."
+            },
+            "equity_attr": {
+                "v": 11221.433,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202022/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Dec_31_22_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, equity attributable to owners of the parent (subtotal before 'Kepentingan non-pengendali')",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 11216.605,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202022/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Dec_31_22_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "Non-controlling interest is negative (-4.828 IDR bn), so total equity is below equity attributable."
+            },
+            "shares_out": {
+                "v": 67887540178,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202022/Triwulan%20IV/PT_Bank_KB_Bukopin_Tbk_31_Dec_31_22_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12 (face) + Note 27a PDF p. 177",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "21,337,978 Class A + 67,866,202,200 Class B. No treasury shares."
+            },
+            "year_end_price": {
+                "v": 102,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2022/AR%20KB%20Bukopin%20Tahun%20Buku%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, Ikhtisar Saham 'Transaksi Saham Bank KB Bukopin 2021-2022', 2022 Triwulan IV 'PENUTUPAN'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Same value in AR2023 PDF p. 21."
+            },
+            "roe": {
+                "v": -82.58,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 16-17, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2024/2023/2022 columns), 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE per OJK (net profit / average Tier 1 capital), bank only. Same value in AR2022 p. 15, AR2023 p. 18 and the PUT VII prospectus p. 18."
+            },
+            "roa": {
+                "v": -6.27,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 16-17, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2024/2023/2022 columns), 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only."
+            },
+            "nim": {
+                "v": 1.17,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 16-17, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2024/2023/2022 columns), 'NIM'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the AR ratio tables (AR2022 p. 15, AR2023 p. 18, AR2024 pp. 16-17, AR2025 pp. 30-31), the published quarterly reports and the FY2024/FY2025 analyst decks print no cost-of-credit / credit-cost ratio (the 1H23 deck defines 'CCR' in its glossary but prints no value). Not computed."
+            },
+            "npl_gross": {
+                "v": 6.56,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 16-17, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2024/2023/2022 columns), 'NPL Gross' / 'Rasio Kredit Bermasalah ... Kotor'",
+                "basis": "bank_only",
+                "note": "Gross NPL per OJK, bank only. The decks print 6.65%."
+            },
+            "npl_net": {
+                "v": 4.84,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 16-17, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2024/2023/2022 columns), 'NPL Nett' / 'Rasio Kredit Bermasalah ... Neto'",
+                "basis": "bank_only",
+                "note": "Net NPL per OJK, bank only."
+            },
+            "lar": {
+                "v": 49.9,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 41, Laporan Direksi: 'menurunnya LAR dari 49,9% di tahun 2022 ...'",
+                "basis": "bank_only",
+                "note": "Bank only. FY2024 deck p. 12 and 1H23 deck p. 29 print 49.90%; FY2025 deck restates to 49.23%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no NPL coverage (CKPN/NPL) ratio in the AR ratio tables, MD&A or the analyst decks (checked AR2021-AR2025, FY2024/FY2025 decks, 1H23 deck). Not computed."
+            },
+            "ldr": {
+                "v": 98.48,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 16-17, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2024/2023/2022 columns), 'LDR'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 19.08,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 16-17, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2024/2023/2022 columns), 'KPMM ... Risiko Kredit, Risiko Pasar, dan Risiko Operasional'",
+                "basis": "bank_only",
+                "note": "KPMM/CAR with credit, market and operational risk, bank only, as RESTATED in AR2023 p. 18 and AR2024 p. 16 (19.08%). Originally reported 19.24% in AR2022 p. 15, the PUT VII prospectus p. 18 and the decks; the 0.16-pt difference sits in the operational-risk lines only (credit-risk-only CAR 20.13% unchanged)."
+            },
+            "cir": {
+                "v": 193.05,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Rasio-Rasio Keuangan, 'Cost to Income Ratio (CIR)' 2022 column",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as printed, bank only. Same value in the PUT VII prospectus p. 18 ('Biaya Overhead terhadap Pendapatan Operasional (CIR)'). REAL value above 150%."
+            },
+            "bopo": {
+                "v": 226.22,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 16-17, Rasio-Rasio Keuangan dan Rasio Penting Lainnya (2024/2023/2022 columns), 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income per OJK, bank only. REAL value above 200%."
+            },
+            "casa": {
+                "v": 20.74,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Materi%20Investor/Temu%20Analis/250314_Corporate%20Presentation%20-%20Earnings%20Call%20FY%202024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 14, 'Maintaining Healthy Liquidity Levels' table (bn IDR, Bank Only - Audited), 'CASA Ratio' 2022 column",
+                "basis": "bank_only",
+                "note": "Same value in the 1H23 investor deck p. 29 (Dec-22) and the FY2025 deck p. 6. The ARs print no CASA ratio for 2022."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": -6034.077,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202023/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31%20Dec-23_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Laporan Laba Rugi, 'Laba (rugi) tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Net LOSS (impairment charges Rp5.54tn)."
+            },
+            "eps": {
+                "v": -61,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202023/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31%20Dec-23_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 + Note 48 PDF p. 230, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic/diluted loss per share. Note 48 uses a WEIGHTED AVERAGE of 98,277,584,070 shares because PUT VII added 119,999,999,692 shares in May-June 2023 (see validation_ack)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 215, Kebijakan dan Pembagian Dividen, table 'Tahun Buku 2023 ... Nihil'",
+                "basis": "consolidated",
+                "note": "Net loss year; no dividend (AGMS of 28 Jun 2024 had no profit-appropriation agenda item)."
+            },
+            "total_assets": {
+                "v": 84307.3,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202023/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31%20Dec-23_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Same figure as the comparative in the next year's audited FS (no restatement)."
+            },
+            "loans_gross": {
+                "v": 49418.616,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202023/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31%20Dec-23_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, 'Kredit yang diberikan dan pembiayaan/piutang syariah' gross (before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans + sharia financing/receivables of PT Bank KB Bukopin Syariah, gross of CKPN: 640,646 related + 48,777,970 third parties (Rp juta); the FY2024 FS comparative splits the same 49,418,616 as 641,005 + 48,777,611."
+            },
+            "deposits": {
+                "v": 44789.143,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202023/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31%20Dec-23_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, 'Simpanan nasabah' (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers incl. the sharia subsidiary's deposits (no separate temporary syirkah line on the face); excludes deposits from other banks. giro 9,094+3,168,554; tabungan 18,491+6,854,693; deposito 40,311+34,698,000."
+            },
+            "equity_attr": {
+                "v": 14136.309,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202023/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31%20Dec-23_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, equity attributable to owners of the parent (subtotal before 'Kepentingan non-pengendali')",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 14110.163,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202023/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31%20Dec-23_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "Non-controlling interest is negative (-26.146 IDR bn), so total equity is below equity attributable."
+            },
+            "shares_out": {
+                "v": 187887539870,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202023/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31%20Dec-23_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12 (face) + Note 27a PDF p. 160",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "21,337,978 Class A + 187,866,201,892 Class B, after PUT VII added 119,999,999,692 Class B shares (registered 9 Jun 2023). No treasury shares."
+            },
+            "year_end_price": {
+                "v": 80,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Ikhtisar Saham 'Transaksi Saham KB Bank 2022-2023', 2023 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Same value in AR2024 PDF p. 20."
+            },
+            "roe": {
+                "v": -61.38,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE per OJK (net profit / average Tier 1 capital), bank only. Same value in AR2023 p. 18 and AR2024 p. 17."
+            },
+            "roa": {
+                "v": -7.71,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only."
+            },
+            "nim": {
+                "v": 0.78,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'NIM'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the AR ratio tables (AR2022 p. 15, AR2023 p. 18, AR2024 pp. 16-17, AR2025 pp. 30-31), the published quarterly reports and the FY2024/FY2025 analyst decks print no cost-of-credit / credit-cost ratio (the 1H23 deck defines 'CCR' in its glossary but prints no value). Not computed."
+            },
+            "npl_gross": {
+                "v": 9.56,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'NPL Gross' / 'Rasio Kredit Bermasalah ... Kotor'",
+                "basis": "bank_only",
+                "note": "Gross NPL per OJK, bank only. The decks print 9.70%."
+            },
+            "npl_net": {
+                "v": 4.87,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'NPL Nett' / 'Rasio Kredit Bermasalah ... Neto'",
+                "basis": "bank_only",
+                "note": "Net NPL per OJK, bank only."
+            },
+            "lar": {
+                "v": 39.77,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 41, Laporan Direksi: 'menurunnya LAR dari 49,9% di tahun 2022 menjadi 39,77% ditahun 2023'",
+                "basis": "bank_only",
+                "note": "Bank only. Same 39.77% in the FY2024 deck p. 12; FY2025 deck restates to 39.22%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no NPL coverage (CKPN/NPL) ratio in the AR ratio tables, MD&A or the analyst decks (checked AR2021-AR2025, FY2024/FY2025 decks, 1H23 deck). Not computed."
+            },
+            "ldr": {
+                "v": 113.18,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'LDR'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 27.05,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'KPMM ... Risiko Kredit, Risiko Pasar, dan Risiko Operasional'",
+                "basis": "bank_only",
+                "note": "KPMM/CAR with credit, market and operational risk, bank only. Up from 19.08% after the PUT VII rights issue (Rp12.0tn, May 2023)."
+            },
+            "cir": {
+                "v": 170.2,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 30, Rasio-Rasio Keuangan dan Kepatuhan, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as printed, bank only. Same value in AR2024 p. 17. REAL value above 150%: operating costs exceeded operating income."
+            },
+            "bopo": {
+                "v": 223.24,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income per OJK, bank only. REAL value above 200%."
+            },
+            "casa": {
+                "v": 23.39,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2023/AR%202023%20INDO%20MEDIUM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 120, Posisi KB Bukopin di Industri Perbankan, Rasio Keuangan 'CASA'",
+                "basis": "bank_only",
+                "note": "Bank-only value; same 23.39% in the FY2024 deck p. 14 table and FY2025 deck p. 6."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": -6329.138,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202024/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31Des24_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Laporan Laba Rugi, 'Laba (rugi) tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Net LOSS, after Rp3.45tn impairment provisions on financial assets and Rp1.42tn deferred tax expense. FY2025 FS comparative unchanged at -6,329.138."
+            },
+            "eps": {
+                "v": -34,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202024/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31Des24_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13 + Note 48 PDF p. 214, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic/diluted loss per share (full Rupiah) as printed in the FY2024 FS (Note 48: loss 6,328,359 / 187,887,539,870 shares). The FY2025 FS re-presents FY2024 as continuing (33.75) and discontinued +0.07 after classifying PT KB Bukopin Finance as a discontinued operation."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 215, Kebijakan dan Pembagian Dividen, table 'Tahun Buku 2024 ... Nihil'",
+                "basis": "consolidated",
+                "note": "Net loss year; the AR states no dividend was distributed in 2025 for FY2024 (the AGMS of 28 May 2025 had no profit-appropriation agenda item)."
+            },
+            "total_assets": {
+                "v": 83075.298,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202024/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31Des24_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Same figure as the comparative in the next year's audited FS (no restatement)."
+            },
+            "loans_gross": {
+                "v": 47527.486,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202024/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31Des24_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, 'Kredit yang diberikan dan pembiayaan/piutang syariah' gross (before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans + sharia financing/receivables of PT Bank KB Bukopin Syariah, gross of CKPN: 339,983 related + 47,187,503 third parties (Rp juta)."
+            },
+            "deposits": {
+                "v": 46593.158,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202024/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31Des24_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, 'Simpanan nasabah' (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers incl. the sharia subsidiary's deposits (no separate temporary syirkah line on the face); excludes deposits from other banks. giro 3,203+6,286,045; tabungan 45,260+6,870,242; deposito 42,412+33,345,996."
+            },
+            "equity_attr": {
+                "v": 7987.401,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202024/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31Des24_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, equity attributable to owners of the parent (subtotal before 'Kepentingan non-pengendali')",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 7961.786,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202024/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31Des24_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "Non-controlling interest is negative (-25.615 IDR bn), so total equity is below equity attributable."
+            },
+            "shares_out": {
+                "v": 187887539870,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202024/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31Des24_Final_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11 (face) + Note 27a PDF p. 150",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "21,337,978 Class A + 187,866,201,892 Class B. No treasury shares line in equity."
+            },
+            "year_end_price": {
+                "v": 54,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Ikhtisar Saham, 2024 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Same value in AR2025 PDF p. 34."
+            },
+            "roe": {
+                "v": -154.6,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE per OJK (net profit / average Tier 1 capital), bank only. REAL outlier: bank-only net loss Rp7.38tn (FY2024 deck p. 13) against a Tier 1 capital that fell to ~Rp3.4tn by year-end (AR2025 p. 199: Tier 1 ratio 8.19% x RWA Rp41,638bn). Same value in AR2024 p. 17 and the Q4 2025 published report comparative."
+            },
+            "roa": {
+                "v": -7.55,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only."
+            },
+            "nim": {
+                "v": 1.31,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'NIM'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the AR ratio tables (AR2022 p. 15, AR2023 p. 18, AR2024 pp. 16-17, AR2025 pp. 30-31), the published quarterly reports and the FY2024/FY2025 analyst decks print no cost-of-credit / credit-cost ratio (the 1H23 deck defines 'CCR' in its glossary but prints no value). Not computed."
+            },
+            "npl_gross": {
+                "v": 9.06,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'NPL Gross' / 'Rasio Kredit Bermasalah ... Kotor'",
+                "basis": "bank_only",
+                "note": "Gross NPL per OJK, bank only. The FY2024/FY2025 decks print 8.73% (management definition); the AR value is used."
+            },
+            "npl_net": {
+                "v": 4.38,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'NPL Nett' / 'Rasio Kredit Bermasalah ... Neto'",
+                "basis": "bank_only",
+                "note": "Net NPL per OJK, bank only."
+            },
+            "lar": {
+                "v": 23.1,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Materi%20Investor/Temu%20Analis/250314_Corporate%20Presentation%20-%20Earnings%20Call%20FY%202024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 12, 'Optimizing Asset Quality' table (Bank Only - Audited), 'LAR Ratio' 2024 column",
+                "basis": "bank_only",
+                "note": "LAR = loans at risk incl. special mention and NPL (Rp9,434bn / total loans Rp41,456bn, bank only). FY2025 deck restates FY24 to 22.76%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no NPL coverage (CKPN/NPL) ratio in the AR ratio tables, MD&A or the analyst decks (checked AR2021-AR2025, FY2024/FY2025 decks, 1H23 deck). Not computed."
+            },
+            "ldr": {
+                "v": 103.26,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'LDR'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 16.38,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'KPMM ... Risiko Kredit, Risiko Pasar, dan Risiko Operasional'",
+                "basis": "bank_only",
+                "note": "KPMM/CAR with credit, market and operational risk, bank only. The FY2025 deck chart prints 16.87% for FY24 (credit+market-risk CAR is 17.11%); the AR value is used."
+            },
+            "cir": {
+                "v": 146.31,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 30, Rasio-Rasio Keuangan dan Kepatuhan, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as printed, bank only. Same value in AR2024 p. 17."
+            },
+            "bopo": {
+                "v": 192.58,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income per OJK, bank only."
+            },
+            "casa": {
+                "v": 29.54,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2024/AR%20KB%20BANK%202024%20INDO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 124, Posisi KB Bank di Industri Perbankan, Rasio Keuangan 'CASA'",
+                "basis": "bank_only",
+                "note": "Bank-only value (the consolidated deposit mix gives 28.3%); same 29.54% in the FY2024 deck p. 14 table and FY2025 deck p. 6."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 65.921,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202025/Triwulan%20IV/FS%20BBKP_31Des25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Laporan Laba Rugi, 'Laba (rugi) tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Profit 65.921 = continuing operations 124.907 + discontinued operation (PT KB Bukopin Finance, being sold: 85% to JB Woori Capital, 14.24% to other parties; FS Note 55) -58.986. First profit since FY2019."
+            },
+            "eps": {
+                "v": null,
+                "note": "Not printed as a single figure. The FY2025 audited FS (PDF p. 14; Note 48 p. 233) prints basic/diluted EPS only split into continuing operations Rp0.66 and discontinued operations Rp(0.31), both on 187,887,539,870 shares; the Q4 2025 published report prints consolidated 'LABA BERSIH PER SAHAM 0' (rounded to whole Rupiah). The components sum to Rp0.35 (= 65.921bn / 187.89bn shares) but no total is printed, so none is stored."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/RUPS/2026/Draft%20IND%20Risalah%20RUPST%20TB%202025_25062026-1.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-25",
+                "loc": "pp. 5-6, Ringkasan Risalah RUPST Tahun Buku 2025 (25 Jun 2026), Mata Acara Kedua 'Persetujuan Penggunaan Laba Bersih'",
+                "basis": "consolidated",
+                "note": "No dividend from FY2025 profit (consolidated Rp66.6bn). The AGMS summary only says 'Menyetujui penggunaan laba bersih tahun buku ... 2025'; news coverage of the same AGMS (industry.co.id, 29 Jun 2026: 'penggunaan seluruh laba bersih tahun 2025 sebagai laba ditahan') confirms all profit was retained. No dividend schedule was announced."
+            },
+            "total_assets": {
+                "v": 89794.861,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202025/Triwulan%20IV/FS%20BBKP_31Des25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 49874.647,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202025/Triwulan%20IV/FS%20BBKP_31Des25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, 'Kredit yang diberikan dan pembiayaan/piutang syariah' gross (before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans + sharia financing/receivables of PT Bank KB Bukopin Syariah, gross of CKPN: 833,784 related + 49,040,863 third parties (Rp juta). Excludes PT KB Bukopin Finance (classified as held for sale / discontinued operation in FY2025)."
+            },
+            "deposits": {
+                "v": 54639.102,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202025/Triwulan%20IV/FS%20BBKP_31Des25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, 'Simpanan nasabah' (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers incl. the sharia subsidiary's deposits (no separate temporary syirkah line on the face); excludes deposits from other banks. giro 781+8,789,631; tabungan 40,018+7,878,976; deposito 102,893+37,826,803 (related+third, Rp juta)."
+            },
+            "equity_attr": {
+                "v": 8065.258,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202025/Triwulan%20IV/FS%20BBKP_31Des25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, equity attributable to owners of the parent (subtotal before 'Kepentingan non-pengendali')",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 8040.307,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202025/Triwulan%20IV/FS%20BBKP_31Des25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "Non-controlling interest is negative (-24.951 IDR bn), so total equity is below equity attributable."
+            },
+            "shares_out": {
+                "v": 187887539870,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202025/Triwulan%20IV/FS%20BBKP_31Des25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11 (face) + Note 27a PDF p. 165",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "21,337,978 Class A (Rp10,000 par) + 187,866,201,892 Class B (Rp100 par). No treasury shares line in equity."
+            },
+            "year_end_price": {
+                "v": 77,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 34, Ikhtisar Saham / Share Highlights, 2025 Triwulan IV 'Penutupan' (closing)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 0.24,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE per OJK (net profit / average Tier 1 capital), bank only."
+            },
+            "roa": {
+                "v": 0.03,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'Imbal Hasil Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only."
+            },
+            "nim": {
+                "v": 1.43,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'NIM'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the AR ratio tables (AR2022 p. 15, AR2023 p. 18, AR2024 pp. 16-17, AR2025 pp. 30-31), the published quarterly reports and the FY2024/FY2025 analyst decks print no cost-of-credit / credit-cost ratio (the 1H23 deck defines 'CCR' in its glossary but prints no value). Not computed."
+            },
+            "npl_gross": {
+                "v": 9.97,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'NPL Gross' / 'Rasio Kredit Bermasalah ... Kotor'",
+                "basis": "bank_only",
+                "note": "Gross NPL per OJK, bank only."
+            },
+            "npl_net": {
+                "v": 6.33,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'NPL Nett' / 'Rasio Kredit Bermasalah ... Neto'",
+                "basis": "bank_only",
+                "note": "Net NPL per OJK, bank only."
+            },
+            "lar": {
+                "v": 20.97,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 56, Laporan Direksi: 'penurunan LaR menjadi 20,97%'",
+                "basis": "bank_only",
+                "note": "Bank only. The FY2025 earnings deck p. 5 chart prints 20.31% and a restated series (FY21 64.38, FY22 49.23, FY23 39.22, FY24 22.76) - apparently a re-based definition; the earlier series is kept here for consistency."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no NPL coverage (CKPN/NPL) ratio in the AR ratio tables, MD&A or the analyst decks (checked AR2021-AR2025, FY2024/FY2025 decks, 1H23 deck). Not computed."
+            },
+            "ldr": {
+                "v": 91.07,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'LDR'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 16.24,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'KPMM ... Risiko Kredit, Risiko Pasar, dan Risiko Operasional'",
+                "basis": "bank_only",
+                "note": "KPMM/CAR with credit, market and operational risk, bank only. The FY2025 earnings deck (p. 6) and the Q4 2025 published report print 16.25%."
+            },
+            "cir": {
+                "v": 148.93,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30, Rasio-Rasio Keuangan dan Kepatuhan, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as printed, bank only."
+            },
+            "bopo": {
+                "v": 119.55,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Tahunan/Tahunan/2025/KB%20Bank%20-%20AR%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 30-31, Rasio-Rasio Keuangan dan Kepatuhan (2025/2024/2023 columns), 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income per OJK, bank only."
+            },
+            "casa": {
+                "v": 32.08,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Materi%20Investor/Temu%20Analis/(FINAL)%20Corporate%20Presentation%20-%20Earnings%20Call%20FY2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 6, 'CASA Ratio & COF' chart, FY25 label",
+                "basis": "bank_only",
+                "note": "Bank only (deck title 'Bank Only - FY2025 Audited'). AR2025 gives CASA growth but not the ratio."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": -184.168,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/PT%20Bank%20KB%20Indonesia%20Tbk_30%20September%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Laba Rugi Konsolidasian, 'Laba (rugi) tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk' 30 Sep 2026",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2026 net LOSS: continuing operations -189.500, discontinued operation (KB Bukopin Finance) +5.332."
+            },
+            "profit_ytd_prior": {
+                "v": 288.146,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202025/Triwulan%20III/PT%20Bank%20KB%20Bukopin%20Tbk_30%20September%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 7, Laporan Laba Rugi Konsolidasian, 'Pemilik entitas induk' 30 Sep 2025",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2025 as reported in the 9M2025 FS; the 9M2026 FS comparative (PDF p. 7) prints the same 288,146. The YoY swing to a loss is real (FY2025 full-year profit was only 65.921 after a Q4 2025 loss)."
+            },
+            "equity_attr": {
+                "v": 8088.061,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/PT%20Bank%20KB%20Indonesia%20Tbk_30%20September%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan Konsolidasian, equity attributable to owners of the parent (subtotal before non-controlling interest)",
+                "basis": "consolidated",
+                "note": "Total equity incl. NCI (-24.544) is 8,063.517."
+            },
+            "shares_out": {
+                "v": 187887539870,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/PT%20Bank%20KB%20Indonesia%20Tbk_30%20September%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 165, Note 27a share capital, shareholder table at 30 Sep 2026 'Total saham biasa'",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "21,337,978 Class A + 187,866,201,892 Class B; unchanged since June 2023. (The face of the 9M2026 balance sheet, PDF p. 5, prints garbled share counts '213.380' / '18.786.620' - these are the Rp juta capital amounts; Note 27a is used.)"
+            },
+            "total_assets": {
+                "v": 90441.512,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/PT%20Bank%20KB%20Indonesia%20Tbk_30%20September%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 51254.772,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/PT%20Bank%20KB%20Indonesia%20Tbk_30%20September%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, 'Kredit yang diberikan dan pembiayaan/piutang syariah' related 526,956 + third parties 50,727,816 (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 50733.014,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202025/Triwulan%20III/PT%20Bank%20KB%20Bukopin%20Tbk_30%20September%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4, 'Kredit yang diberikan dan pembiayaan/piutang syariah' related 531,857 + third parties 50,201,157 (gross)",
+                "basis": "consolidated",
+                "note": "30 Sep 2025 as reported in the 9M2025 FS (before the FY2025 reclassification of KB Bukopin Finance to held for sale; FY2025 year-end loans 49,874.647)."
+            },
+            "deposits": {
+                "v": 50271.352,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/PT%20Bank%20KB%20Indonesia%20Tbk_30%20September%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, 'Simpanan nasabah': giro 3,613+8,635,891; tabungan 19,968+6,358,854; deposito 11,319+35,241,707",
+                "basis": "consolidated"
+            },
+            "deposits_prior": {
+                "v": 53874.89,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202025/Triwulan%20III/PT%20Bank%20KB%20Bukopin%20Tbk_30%20September%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 5, 'Simpanan nasabah': giro 2,420+10,060,356; tabungan 12,750+5,736,228; deposito 32,824+38,030,312",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": -4.26,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/Publikasi%20Triwulan%20III%202026%20KB%20Bank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 9, Laporan Publikasi Triwulan III 2026, 'RASIO' (Rasio Kinerja, 30 September 2026 column, unaudited), '9. Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ROE, bank only, annualised; 30 Sep 2025: 7.10%."
+            },
+            "roa": {
+                "v": -0.4,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/Publikasi%20Triwulan%20III%202026%20KB%20Bank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 9, Laporan Publikasi Triwulan III 2026, 'RASIO' (Rasio Kinerja, 30 September 2026 column, unaudited), '8. Return On Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ROA, bank only, annualised; 30 Sep 2025: 0.60%."
+            },
+            "nim": {
+                "v": 1.71,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/Publikasi%20Triwulan%20III%202026%20KB%20Bank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 9, Laporan Publikasi Triwulan III 2026, 'RASIO' (Rasio Kinerja, 30 September 2026 column, unaudited), '10. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 1.37%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 published report or FS; no 9M2026 (or 1H2026) analyst presentation is listed on the KB Bank IR site as of 2026-11-03 (latest deck: FY2025, 8 Apr 2026)."
+            },
+            "npl_gross": {
+                "v": 10.26,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/Publikasi%20Triwulan%20III%202026%20KB%20Bank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 9, Laporan Publikasi Triwulan III 2026, 'RASIO' (Rasio Kinerja, 30 September 2026 column, unaudited), '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 10.84%."
+            },
+            "lar": {
+                "v": null,
+                "note": "Bank-defined LAR not disclosed for 9M2026 (no deck). The 9M2026 published report prints the new OJK ratio '7. Kredit Kualitas Rendah (KKR)' = 21.62% (30 Sep 2025: 23.70%), but KKR is not the same series as the bank's LAR (AR2025 p. 54 gives LAR ~21.94% at Q3 2025 vs KKR 23.70%), so it is not stored as lar."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 published report or FS ratio tables; not computed."
+            },
+            "ldr": {
+                "v": 99.26,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/Publikasi%20Triwulan%20III%202026%20KB%20Bank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 9, Laporan Publikasi Triwulan III 2026, 'RASIO' (Rasio Kinerja, 30 September 2026 column, unaudited), '13. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 91.63%."
+            },
+            "car": {
+                "v": 14.81,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/Publikasi%20Triwulan%20III%202026%20KB%20Bank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 9, Laporan Publikasi Triwulan III 2026, 'RASIO' (Rasio Kinerja, 30 September 2026 column, unaudited), '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Bank only (consolidated KPMM 16.04%, PDF p. 6). 30 Sep 2025: 16.32%."
+            },
+            "cir": {
+                "v": 122.59,
+                "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202026/Triwulan%20III/Publikasi%20Triwulan%20III%202026%20KB%20Bank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 9, Laporan Publikasi Triwulan III 2026, 'RASIO' (Rasio Kinerja, 30 September 2026 column, unaudited), '12. Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 118.28%."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the 9M2026 published report or FS; no 9M2026 deck. Not computed from the deposit split."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2023",
+            "reason": "Reported FY2023 basic loss per share (-61) uses the WEIGHTED-AVERAGE share count of 98,277,584,070 (FY2023 audited FS Note 48, PDF p. 230), because the PUT VII rights issue added 119,999,999,692 shares in May-June 2023 (ex-rights 16 May 2023). Year-end shares are 187,887,539,870, so EPS x year-end shares overstates the loss (-11,461bn vs -6,034bn). -6,034.077bn / 98.2776bn shares = -61.4. Source: https://api.kbbank.co.id//Hubungan%20Investor/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/Triwulan%202023/Triwulan%20IV/PT%20Bank%20KB%20Bukopin%20Tbk_31%20Dec-23_Final_Released.pdf"
+        }
+    ],
+    "research_notes": [
+        "IDENTITY: legal name PT Bank KB Indonesia Tbk since 11 Aug 2025 (AGMS 28 May 2025 approved the change; OJK approval; AR2025 PDF pp. 73, 410). Formerly PT Bank Bukopin Tbk (until Feb 2021) and PT Bank KB Bukopin Tbk (2021-Aug 2025). Brand 'KB Bank' since 3 Mar 2024 (AR2025 PDF p. 20). Controlling shareholder KB Kookmin Bank Co., Ltd. (66.88% at 30 Sep 2026; STIC Eugene Star Holdings 16.98%), FY2025 FS Note 27a / 9M2026 FS PDF p. 165. Ticker unchanged: BBKP.",
+        "SOURCE ACCESS: www.kbbank.co.id is a React app whose documents are served by its own API host api.kbbank.co.id (listing endpoint https://api.kbbank.co.id/backend/api/v1/reports?cat=...). Every PDF was downloaded directly from api.kbbank.co.id with curl (no bot protection, no Internet Archive needed). URLs contain spaces, stored %20-encoded; the double slash after the host is part of the URLs the site itself serves.",
+        "SCOPE: consolidated figures include PT Bank KB Bukopin Syariah (95.92%, the sharia subsidiary; KB Bank itself is conventional, so sharia=false and no label overrides) and PT KB Bukopin Finance (99.24%). In FY2025 KB Bukopin Finance was classified as a discontinued operation / held for sale (sale agreements of 30 Jun / 1 Jul 2025: 85% to JB Woori Capital and 14.24% to other third parties; its assets sit in 'Aset yang dimiliki untuk dijual' within other assets; FY2025 FS Notes 1c and 55, PDF pp. 24, 238), so the FY2025 P&L shows continuing vs discontinued results and FY2024 was re-presented the same way (profit attributable unchanged).",
+        "LOSS YEARS ARE REAL: net profit attributable FY2020 -3,255.9bn, FY2021 -2,282.2bn, FY2022 -5,027.5bn, FY2023 -6,034.1bn, FY2024 -6,329.1bn; FY2025 +65.9bn (first profit since FY2019); 9M2026 -184.2bn. Negative EPS, ROA and ROE are as printed. Ratios outside the validator's plausible ranges that are REAL (validator warnings, not errors): ROE FY2022 -82.58%, FY2023 -61.38%, FY2024 -154.60% (bank-only loss Rp7.38tn while Tier 1 fell to ~Rp3.4tn); CIR FY2020 203.18%, FY2021 339.88%, FY2022 193.05%, FY2023 170.20%; BOPO FY2022 226.22%, FY2023 223.24%; LAR FY2021 65.12%. Each is printed in at least two company documents (see the note on each datum). The interim 'YTD profit YoY' warning is also real (9M2025 profit +288.1bn, 9M2026 loss -184.2bn).",
+        "RATIO BASIS: all FY ratios are bank only (OJK 'Rasio Keuangan' tables), taken from the most recent AR that prints the year: AR2025 for FY2023-FY2025, AR2024 for FY2022, AR2023 for FY2021, AR2022 for FY2020; values were cross-checked against each year's own AR and agree except FY2022 CAR (19.24% originally, restated to 19.08% in AR2023/AR2024 - the restated value is stored). CIR is missing from the AR2020-AR2023 tables and was taken from the PUT VII prospectus (FY2021) and the audited Dec-2020 published report (FY2020). CASA: OJK/AR tables for FY2020, FY2023, FY2024; FY2024 earnings deck table for FY2021-FY2022; FY2025 deck chart for FY2025 (all bank only). LAR: AR text for FY2021-FY2023 and FY2025, FY2024 deck table for FY2024; the FY2025 deck shows a restated (~0.5-0.7pt lower) series, not used. Cost of credit is not disclosed in any document (null, never computed); NPL coverage only for FY2020 (70.04%, AR2020 text).",
+        "DECK CHART VALUES: the FY2025 earnings-deck values (CASA 32.08%, LAR series) were read from chart labels and verified by rendering the page (pdftoppm). The deck's own CAR chart (FY24 16.87%, FY25 16.25%) differs from the AR (16.38%, 16.24%); AR values are used. NOTE: the IR listing entry 'Materi Perusahaan - 5M2024' (BBKP Corporate Presentation - 5M2024_1.pdf) now serves a byte-identical copy of the FY2025 deck, so the 5M2024 deck itself is unavailable.",
+        "EPS / SHARES: no stock split, reverse split or bonus issue since 2019 (AR2025 PDF p. 35 states no split/reverse split/bonus/par change in 2025; the share-history table in every FS Note 1d lists only rights issues and one private placement; par values Rp10,000 Class A / Rp100 Class B unchanged). Share count path: 11,651,908,748 (FY2019) -> +4,660,763,499 PUT V (Jul 2020) -> +16,360,578,947 private placement to KB Kookmin (2 Sep 2020) = 32,673,251,194 (FY2020) -> +35,214,288,984 PUT VI (Dec 2021) = 67,887,540,178 (FY2021, FY2022) -> +119,999,999,692 PUT VII (Jun 2023) = 187,887,539,870 (FY2023 onward, still at 30 Sep 2026). FY2020 and FY2021 EPS were computed by the bank on YEAR-END shares (not weighted average) so EPS x shares matches profit; FY2023 EPS uses the weighted average 98,277,584,070 (validation_ack). FY2025 EPS is null: the FS prints only continuing (0.66) and discontinued (-0.31) EPS. share_basis = period end for all FY per-share values (no split ever happened, so no adjustment applies).",
+        "CORPORATE ACTIONS (for corporate_actions.json): 3 rights issues - PUT V ex 2020-07-09 (5:2 @Rp180), PUT VI ex 2021-11-17 (200,000,000:215,554,239 @Rp200), PUT VII ex 2023-05-16 (100,000,000:176,762,922 @Rp100). The 2 Sep 2020 non-pre-emptive private placement (PMTHMETD) of 16,360,578,947 Class B shares to KB Kookmin Bank (EGMS 25 Aug 2020, RUPSLB summary at https://api.kbbank.co.id//Hubungan%20Investor/RUPS/2020/Publikasi%20Ringkasan%20Risalah%2020200825%20RUPS%20LB.pdf; FY2025 FS Note 1d) is not a rights/bonus issue and is not in the table. None of these changes the split factor. PRICE CHECK HINT: Yahoo may have scaled its history for the three rights issues (PUT VI and PUT VII were priced well below the market); the AR year-end closes are 2020: 575, 2021: 270, 2022: 102, 2023: 80, 2024: 54, 2025: 77.",
+        "DIVIDENDS: none paid out of FY2020-FY2025 profit (dividends: []). FY2020-FY2024 were loss years (AGMS agendas had no profit-appropriation item; AR2021 p. 153, AR2023 p. 173, AR2025 p. 215 say no dividend). FY2025: AGMS 25 Jun 2026 approved the use of net profit with no dividend; news (industry.co.id 29 Jun 2026) reports all profit retained. The KB Bank IR dividend history (api.kbbank.co.id/backend/api/v1/dividen, shown at kbbank.co.id/dividen) lists FY2014 as the last cash dividend. payout_ratio is stored as 0 for FY2020-FY2025; the validator's 'FY2025: no dividend records' warning is therefore expected.",
+        "NO RESTATEMENTS of the stored levels: each FY's total assets, loans, deposits, equity and profit equal the comparative printed in the following year's audited FS (FY2019-FY2024 checked). Minor reclassifications between related-party and third-party loan/interbank lines do not change totals.",
+        "INTERIM: 9M2026 (30 Sep 2026) consolidated FS ('Long Report') and the OJK published report were both on the IR site (listing dated 30-09-2026). The 9M2026 FS has sloppy text (balance-sheet share-count wording copied from 2023, EPS comparative column copied from FY2025), but the money figures tie to the published report and Note 27a; the stored values come from the primary statements and Note 27a. Prior-year comparatives (loans, deposits, profit) are from the 9M2025 FS as originally reported.",
+        "KBMI: stored as 2 by inference (bank-only Tier 1 Rp6.35tn at end-2025, Rp6.02tn at 30 Sep 2026, vs the Rp6tn KBMI 2 floor); the AR does not state the class and AR2022 said KBMI 1 for 2022. Doubtful - see the kbmi note."
+    ]
+}

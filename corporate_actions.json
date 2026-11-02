@@ -40,6 +40,45 @@
             "note": "1 old share -> 5 new shares; nominal Rp62.50 -> Rp12.50; approved by EGM 2021-09-23. Last regular-market day at old nominal 2021-10-12; recording date 2021-10-14; KSEI distribution and cash-market start 2021-10-15 (the date the annual reports cite as 'stock split on October 15, 2021'). Shares 24,655,010,000 -> 123,275,050,000."
         },
         {
+            "code": "BBKP",
+            "type": "rights",
+            "ratio_old": 5,
+            "ratio_new": 2,
+            "ex_date": "2020-07-09",
+            "exercise_price": 180,
+            "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Materi%20Investor/Prospektus/SOFTCOPY%20BUKU%20PROSPEKTUS%20PUT%20V%20BANK%20BUKOPIN.pdf",
+            "source_type": "filing",
+            "as_of_date": "2020-06-30",
+            "loc": "p. 1 (cover), Prospektus PUT V PT Bank Bukopin Tbk: 'INDIKASI JADWAL' and offer terms",
+            "note": "PUT V (PMHMETD V). Each holder of 5 shares on the 10 Jul 2020 register received 2 rights; 1 right = 1 new Class B share (nominal Rp100) at Rp180. Cum (regular & negotiation) 8 Jul 2020, ex 9 Jul 2020 (cash market cum 10 / ex 13 Jul); rights trading 14-27 Jul 2020; allotment 30 Jul 2020. OJK effective 30 Jun 2020; EGMS approval 24 Oct 2019. 4,660,763,499 new shares (11,651,908,748 -> 16,312,672,247 incl. 21,337,978 Class A), proceeds up to Rp838.9bn; KB Kookmin Bank was standby buyer. Same schedule in 'Informasi Tambahan PMHMETD V' (https://api.kbbank.co.id//Hubungan%20Investor/Materi%20Investor/Prospektus/Informasi%20Tambahan%20PMHMETD%20V%20Bank%20Bukopin.pdf) p. 2. Not a split: no per-share adjustment factor. (A non-pre-emptive private placement of 16,360,578,947 Class B shares to KB Kookmin Bank followed on 2 Sep 2020 - not a rights/bonus issue, so not recorded as a corporate action; see research_notes.)"
+        },
+        {
+            "code": "BBKP",
+            "type": "rights",
+            "ratio_old": 200000000,
+            "ratio_new": 215554239,
+            "ex_date": "2021-11-17",
+            "exercise_price": 200,
+            "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Materi%20Investor/Prospektus/Prospektus%20PUT%20VI%20BBKP%202021_1.pdf",
+            "source_type": "filing",
+            "as_of_date": "2021-11-08",
+            "loc": "p. 1 (cover), Prospektus PUT VI PT Bank KB Bukopin Tbk 2021: 'INDIKASI JADWAL' and offer terms",
+            "note": "PUT VI (PMHMETD VI). Each holder of 200,000,000 shares on the 18 Nov 2021 register received 215,554,239 rights; 1 right = 1 new Class B share (nominal Rp100) at Rp200. Cum (regular & negotiation) 16 Nov 2021, ex 17 Nov 2021 (cash market cum 18 / ex 19 Nov); rights trading/exercise 22-26 Nov 2021; allotment 1 Dec 2021. OJK effective 8 Nov 2021; EGMS approval 17 Jun 2021. 35,214,288,984 new shares (32,673,251,194 -> 67,887,540,178), proceeds Rp7,042.9bn (AR2025 PDF p. 217). Not a split: no per-share adjustment factor."
+        },
+        {
+            "code": "BBKP",
+            "type": "rights",
+            "ratio_old": 100000000,
+            "ratio_new": 176762922,
+            "ex_date": "2023-05-16",
+            "exercise_price": 100,
+            "source_url": "https://api.kbbank.co.id//Hubungan%20Investor/Materi%20Investor/Prospektus/Prospektus%20PUT%20VII%20BBKP.pdf",
+            "source_type": "filing",
+            "as_of_date": "2023-05-05",
+            "loc": "p. 1 (cover), Prospektus PUT VII PT Bank KB Bukopin Tbk 2023: 'INDIKASI JADWAL' and offer terms",
+            "note": "PUT VII (PMHMETD VII). Each holder of 100,000,000 shares on the 17 May 2023 register received 176,762,922 rights; 1 right = 1 new Class B share (nominal Rp100) at Rp100 (= par). Cum (regular & negotiation) 15 May 2023, ex 16 May 2023 (cash market cum 17 / ex 19 May); rights trading/exercise 22-26 May 2023; allotment 31 May 2023. OJK effective 5 May 2023; EGMS approval 30 Nov 2022. 119,999,999,692 new shares (67,887,540,178 -> 187,887,539,870), proceeds Rp11,999.99bn, of which Rp3tn had been paid in as a capital deposit on 19 Dec 2022 (AR2025 PDF p. 217; FY2023 FS Note 27a). Not a split: no per-share adjustment factor."
+        },
+        {
             "code": "BBNI",
             "type": "split",
             "ratio_old": 1,
