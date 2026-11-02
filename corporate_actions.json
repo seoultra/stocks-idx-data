@@ -2,6 +2,32 @@
     "schema": 1,
     "actions": [
         {
+            "code": "AGRO",
+            "type": "rights",
+            "ratio_old": 620000,
+            "ratio_new": 30141,
+            "ex_date": "2021-11-29",
+            "exercise_price": 1100,
+            "source_url": "https://bankraya.co.id/uploads/reports/cR3AsUmbc70OlWb8CdIfIskSgRV4yR7rH9fbnuVy.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-11-19",
+            "loc": "Prospektus PMHMETD IX (Nov 2021), PDF p. 20 (prospectus p. 4) 'Pihak Yang Berhak Menerima Sertifikat Bukti HMETD': holders on the DPS of 30 Nov 2021 16:00 WIB, 620,000 old shares -> 30,141 HMETD, 1 HMETD = 1 new share at Rp1,100; HMETD trading 2-8 Dec 2021; PDF p. 6 offer summary",
+            "note": "PMHMETD IX (PUT IX). Ex-date (regular & negotiated market) 29 Nov 2021, cum 26 Nov 2021 (cash market cum 30 Nov), from the IDX schedule as reported by Bisnis.com 20 Nov 2021 (https://finansial.bisnis.com/read/20211120/90/1468265/agro-siap-rights-issue-rp11-triliun-catat-jadwalnya, read via web.archive.org snapshot 20211120051846); the retrieved final prospectus has no schedule page, and the ex-date is consistent with T+2 (one exchange day before the 30 Nov recording date). The Sep-2021 summary prospectus had a provisional schedule (recording 11 Nov 2021), superseded. OJK effective 18 Nov 2021 (FS2025 Note 1c). 1,054,545,185 new shares (nominal Rp100) issued and fully taken up (AR2021 PDF p. 8: oversubscribed), proceeds Rp1,159,999,703,500 (AR2021 PDF p. 59); listed 2 Dec 2021 (AR2021 PDF p. 120). Shares 21,691,981,527 -> 22,746,526,712. BRI held 85.72% after the issue (AR2021 PDF p. 121)."
+        },
+        {
+            "code": "AGRO",
+            "type": "rights",
+            "ratio_old": 11373452991,
+            "ratio_new": 1160000000,
+            "ex_date": "2022-12-09",
+            "exercise_price": 500,
+            "source_url": "https://bankraya.co.id/uploads/reports/CZTaPzdmvPGY1DzzRWdGVSUK0B55NugTpW7G4GwY.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-12-01",
+            "loc": "Keterbukaan Informasi PMHMETD X (1 Dec 2022), PDF p. 2 'JADWAL SEMENTARA' (cum regular/negotiated 8 Dec 2022, ex regular/negotiated 9 Dec 2022, cash market cum 12 / ex 13 Dec, recording date 12 Dec 2022, HMETD trading 14-20 Dec, allotment 23 Dec 2022) and PDF pp. 1-2 (11,373,452,991 old shares -> 1,160,000,000 HMETD; 1 HMETD = 1 new share at Rp500)",
+            "note": "PMHMETD X (PUT X). Up to 2,320,000,000 new shares (nominal Rp100) offered, i.e. 22,746,905,982 : 2,320,000,000; EGMS approval 29 Sep 2022; OJK effective 30 Nov 2022. 1,993,201,832 shares were taken up (FS2025 Note 1c; AR2022 PDF p. 97), proceeds Rp996.6bn (AR2022 PDF p. 62); listed 26 Dec 2022 (AR2022 PDF p. 130). Shares 22,746,905,982 -> 24,740,107,814 (plus later MESOP shares). Same terms in the Prospektus PMHMETD X (https://bankraya.co.id/uploads/reports/a98YieEwksjMKmPuvKfQWcyaI9diKT4J4Dp3u1rt.pdf, PDF p. 12)."
+        },
+        {
             "code": "ARTO",
             "type": "rights",
             "ratio_old": 1,

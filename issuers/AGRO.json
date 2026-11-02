@@ -1,0 +1,1421 @@
+{
+    "schema": 1,
+    "code": "AGRO",
+    "name": "PT Bank Raya Indonesia Tbk",
+    "name_short": "Bank Raya Indonesia",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://bankraya.co.id",
+    "ir_url": "https://bankraya.co.id/corporate/investor-relations",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://bankraya.co.id/uploads/reports/25KZ0moFftuzkR6byJq0y2Vdu4FNmNc8ZcryCXsA.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 17, Key Achievements 2025 (Bank Raya benchmarked against 'Bank KBMI 1'); PDF p. 231 capital table, Modal Inti Rp2,918,683 mn (31 Dec 2025)",
+        "note": "AR2025 does not state the class in a sentence; it compares Bank Raya with its 'Bank KBMI 1' peer group, and AR2024 PDF p. 17 says its CAR was 'better than KBMI 1 category'. Core capital of Rp2.92tn is below the Rp6tn ceiling of KBMI 1 (POJK 12/POJK.03/2021)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 27067.922912,
+                "source_url": "https://bankraya.co.id/uploads/reports/ZttNA1mDw9fs60jhp8kGrOeSpzXImSxkt1NlaUYi.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan / Statement of Financial Position, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 19366.245488,
+                "source_url": "https://bankraya.co.id/uploads/reports/ZttNA1mDw9fs60jhp8kGrOeSpzXImSxkt1NlaUYi.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Statement of Financial Position, 'Kredit yang diberikan' (gross, before allowance for impairment losses)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 21144.601334,
+                "source_url": "https://bankraya.co.id/uploads/reports/73ZsF0WaejmsJEyVNz18WNZ4RQ6gJ5off0Lkn4rr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Statement of Financial Position, comparative column 31 Dec 2019, 'Simpanan nasabah' subtotal",
+                "basis": "consolidated",
+                "note": "FS2019 (PDF p. 7) prints the same three components without a subtotal: Giro 1,929,003,153 + Tabungan 1,096,299,883 + Deposito berjangka 18,119,298,298 Rp ribu. Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 4481.704219,
+                "source_url": "https://bankraya.co.id/uploads/reports/ZttNA1mDw9fs60jhp8kGrOeSpzXImSxkt1NlaUYi.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 4481.704219,
+                "source_url": "https://bankraya.co.id/uploads/reports/ZttNA1mDw9fs60jhp8kGrOeSpzXImSxkt1NlaUYi.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 31.260682,
+                "source_url": "https://bankraya.co.id/uploads/reports/73ZsF0WaejmsJEyVNz18WNZ4RQ6gJ5off0Lkn4rr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Laporan Laba Rugi / Statement of Profit or Loss, '(RUGI)/LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Bank Raya has no subsidiaries; its stand-alone audited statements are the whole reporting entity, stored as 'consolidated'."
+            },
+            "eps": {
+                "v": 1.46,
+                "source_url": "https://bankraya.co.id/uploads/reports/73ZsF0WaejmsJEyVNz18WNZ4RQ6gJ5off0Lkn4rr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Statement of Profit or Loss, 'Dasar (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic EPS as printed; weighted average 21,343,290,230 shares (PDF p. 169); diluted EPS used 21,379,816,357 shares (MESOP)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankraya.co.id/uploads/reports/PP3cXxqhvleF2onZRWQ6HJm19QOjl6tYggzfPyfL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-04-09",
+                "loc": "PDF p. 267, AGMS 9 Apr 2021 resolutions, Second Agenda (use of FY2020 net profit Rp31,260,681,809: 'Menyetujui untuk tidak dilakukan pembagian dividen atas laba usaha Perseroan tahun buku 2020'); also PDF p. 196 'Kronologis Pembagian Dividen'",
+                "basis": "n/a",
+                "note": "No dividend out of FY2020 profit (AGMS 9 Apr 2021); profit appropriated to the mandatory reserve (5%) and retained earnings."
+            },
+            "total_assets": {
+                "v": 28015.492262,
+                "source_url": "https://bankraya.co.id/uploads/reports/73ZsF0WaejmsJEyVNz18WNZ4RQ6gJ5off0Lkn4rr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan / Statement of Financial Position, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 19491.933792,
+                "source_url": "https://bankraya.co.id/uploads/reports/73ZsF0WaejmsJEyVNz18WNZ4RQ6gJ5off0Lkn4rr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Statement of Financial Position, 'Kredit yang diberikan' (gross, before allowance for impairment losses)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 22995.278746,
+                "source_url": "https://bankraya.co.id/uploads/reports/73ZsF0WaejmsJEyVNz18WNZ4RQ6gJ5off0Lkn4rr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Statement of Financial Position, 'Simpanan nasabah' subtotal (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 4287.690211,
+                "source_url": "https://bankraya.co.id/uploads/reports/73ZsF0WaejmsJEyVNz18WNZ4RQ6gJ5off0Lkn4rr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity. Equity fell vs FY2019 despite a profit because PSAK 71 adoption on 1 Jan 2020 reduced retained earnings by Rp318.3bn (FS2020 PDF p. 11, statement of changes in equity)."
+            },
+            "total_equity": {
+                "v": 4287.690211,
+                "source_url": "https://bankraya.co.id/uploads/reports/73ZsF0WaejmsJEyVNz18WNZ4RQ6gJ5off0Lkn4rr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 21343290230,
+                "source_url": "https://bankraya.co.id/uploads/reports/73ZsF0WaejmsJEyVNz18WNZ4RQ6gJ5off0Lkn4rr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (face: 'Modal ditempatkan dan disetor penuh') and PDF p. 161 (share-capital note)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid 21,343,290,230; no treasury shares at FY end (Note share capital, PDF p. 161)."
+            },
+            "year_end_price": {
+                "v": 1035,
+                "source_url": "https://bankraya.co.id/uploads/reports/THEo1WavRziQVHNCFWUSyknmgGa2dj9EzYA7KOoB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 22, Kinerja Perdagangan Saham 2020, Triwulan IV closing 1,035 (text on the same page: 'Rp1.035/lembar saham'; same value in AR2021 PDF p. 34)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. AGRO has never split its shares."
+            },
+            "roe": {
+                "v": 0.75,
+                "source_url": "https://bankraya.co.id/uploads/reports/78Tsf8q33MSCWMP5w6kCBCdKTXSDJbmRtjGNaCyI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2020, table 'RASIO' / Rasio Kinerja, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ROE: profit after tax / average core capital (Tier 1)."
+            },
+            "roa": {
+                "v": 0.24,
+                "source_url": "https://bankraya.co.id/uploads/reports/78Tsf8q33MSCWMP5w6kCBCdKTXSDJbmRtjGNaCyI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2020, table 'RASIO' / Rasio Kinerja, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ROA: profit before tax / average total assets."
+            },
+            "nim": {
+                "v": 2.4,
+                "source_url": "https://bankraya.co.id/uploads/reports/78Tsf8q33MSCWMP5w6kCBCdKTXSDJbmRtjGNaCyI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2020, table 'RASIO' / Rasio Kinerja, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no credit-cost / cost-of-credit ratio in the FY2020 published report, the AR ratio tables and MD&A (AR2020-AR2025), or the FY23/FY24/FY25 analyst decks (checked)."
+            },
+            "npl_gross": {
+                "v": 4.97,
+                "source_url": "https://bankraya.co.id/uploads/reports/78Tsf8q33MSCWMP5w6kCBCdKTXSDJbmRtjGNaCyI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2020, table 'RASIO' / Rasio Kinerja, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 2.73,
+                "source_url": "https://bankraya.co.id/uploads/reports/78Tsf8q33MSCWMP5w6kCBCdKTXSDJbmRtjGNaCyI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2020, table 'RASIO' / Rasio Kinerja, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no Loan-at-Risk ratio in the AR ratio tables/MD&A or decks; the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": 103.96,
+                "source_url": "https://bankraya.co.id/uploads/reports/THEo1WavRziQVHNCFWUSyknmgGa2dj9EzYA7KOoB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 35, Board of Commissioners report ('NPL Coverage from 56.24% in 2019 to 103.96% in December 2020')",
+                "basis": "bank_only",
+                "note": "NPL coverage = loan-loss allowance (CKPN) / NPL."
+            },
+            "ldr": {
+                "v": 84.76,
+                "source_url": "https://bankraya.co.id/uploads/reports/78Tsf8q33MSCWMP5w6kCBCdKTXSDJbmRtjGNaCyI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2020, table 'RASIO' / Rasio Kinerja, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 24.33,
+                "source_url": "https://bankraya.co.id/uploads/reports/78Tsf8q33MSCWMP5w6kCBCdKTXSDJbmRtjGNaCyI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2020, table 'RASIO' / Rasio Kinerja, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 45.38,
+                "source_url": "https://bankraya.co.id/uploads/reports/78Tsf8q33MSCWMP5w6kCBCdKTXSDJbmRtjGNaCyI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2020, table 'RASIO' / Rasio Kinerja, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "CIR line first printed in the FY2020 report (FY2019 column '-')."
+            },
+            "bopo": {
+                "v": 97.12,
+                "source_url": "https://bankraya.co.id/uploads/reports/78Tsf8q33MSCWMP5w6kCBCdKTXSDJbmRtjGNaCyI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2020, table 'RASIO' / Rasio Kinerja, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 23.85,
+                "source_url": "https://bankraya.co.id/uploads/reports/PP3cXxqhvleF2onZRWQ6HJm19QOjl6tYggzfPyfL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Ikhtisar Utama key figures: 'Rasio CASA/CASA Ratio 2020 : 23.85%'",
+                "basis": "bank_only",
+                "note": "Same value in the FY23 deck appendix (Ratios, 2020 column). = (giro 3,752.1 + tabungan 1,733.3) / 22,995.3 IDR bn."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": -3045.701407,
+                "source_url": "https://bankraya.co.id/uploads/reports/9K71FURuaF6OdA3xj8285YAudBaPzVroqQX4F1OG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Laporan Laba Rugi / Statement of Profit or Loss, '(RUGI)/LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Bank Raya has no subsidiaries; its stand-alone audited statements are the whole reporting entity, stored as 'consolidated'. Net loss: provisions of Rp3,885bn while the bank exited legacy middle-segment loans (AR2021 PDF p. 59)."
+            },
+            "eps": {
+                "v": -141.52,
+                "source_url": "https://bankraya.co.id/uploads/reports/9K71FURuaF6OdA3xj8285YAudBaPzVroqQX4F1OG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Statement of Profit or Loss, 'Dasar (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic EPS (Rp, full) as printed; weighted average shares 21,521,298,397 (EPS note, PDF p. 174). No dilutive shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankraya.co.id/uploads/reports/mojtRPKR97TioKIbay85oVZn7eCBMUiMKQGEGf77.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-03-31",
+                "loc": "PDF p. 205, 'Kronologis Pembagian Dividen' (AGMS 31 Mar 2022: no cash dividend because FY2021 net loss Rp3,045.70bn)",
+                "basis": "n/a",
+                "note": "Loss year. The AGMS of 31 Mar 2022 had no profit-appropriation agenda item (summary of minutes: https://bankraya.co.id/uploads/reports/vRunL0BfFWS54nWv0jmhBOfLqD2SsEnzECimqMce.pdf)."
+            },
+            "total_assets": {
+                "v": 16866.522655,
+                "source_url": "https://bankraya.co.id/uploads/reports/9K71FURuaF6OdA3xj8285YAudBaPzVroqQX4F1OG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan / Statement of Financial Position, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 11608.327398,
+                "source_url": "https://bankraya.co.id/uploads/reports/9K71FURuaF6OdA3xj8285YAudBaPzVroqQX4F1OG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Statement of Financial Position, 'Kredit yang diberikan' (gross, before allowance for impairment losses)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 13496.291728,
+                "source_url": "https://bankraya.co.id/uploads/reports/9K71FURuaF6OdA3xj8285YAudBaPzVroqQX4F1OG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Statement of Financial Position, 'Simpanan nasabah' subtotal (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 2457.663179,
+                "source_url": "https://bankraya.co.id/uploads/reports/9K71FURuaF6OdA3xj8285YAudBaPzVroqQX4F1OG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 2457.663179,
+                "source_url": "https://bankraya.co.id/uploads/reports/9K71FURuaF6OdA3xj8285YAudBaPzVroqQX4F1OG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22746526712,
+                "source_url": "https://bankraya.co.id/uploads/reports/9K71FURuaF6OdA3xj8285YAudBaPzVroqQX4F1OG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8 (face: 'Modal ditempatkan dan disetor penuh') and PDF p. 166 (share-capital note)",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid 22,746,526,712; no treasury shares at FY end (Note share capital, PDF p. 166)."
+            },
+            "year_end_price": {
+                "v": 1810,
+                "source_url": "https://bankraya.co.id/uploads/reports/PP3cXxqhvleF2onZRWQ6HJm19QOjl6tYggzfPyfL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 34, Tabel Harga, Volume dan Kapitalisasi Saham, 2021 Triwulan IV 'Penutupan' (same value in AR2022 PDF p. 36)",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. AGRO has never split its shares."
+            },
+            "roe": {
+                "v": -95.44,
+                "source_url": "https://bankraya.co.id/uploads/reports/KftWPYIf7urjgqcpjrzZzTsfssFI6YUUZM78OUrc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2021, table 'RASIO' / Rasio Kinerja, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ROE: profit after tax / average core capital (Tier 1). Loss year. AR2025 PDF p. 37 reprints FY2021 as 'ROE before tax (95.44%)' and 'ROE after tax (103.51%)' - labels evidently swapped (the after-tax loss is smaller than the pre-tax loss); the FY2021 and FY2022 published reports both print ROE -95.44%."
+            },
+            "roa": {
+                "v": -14.75,
+                "source_url": "https://bankraya.co.id/uploads/reports/KftWPYIf7urjgqcpjrzZzTsfssFI6YUUZM78OUrc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2021, table 'RASIO' / Rasio Kinerja, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ROA: profit before tax / average total assets. Loss year. AR2025 PDF p. 37 also prints FY2021 'ROA after tax (113.60%)', an evident misprint; not used."
+            },
+            "nim": {
+                "v": 3.87,
+                "source_url": "https://bankraya.co.id/uploads/reports/KftWPYIf7urjgqcpjrzZzTsfssFI6YUUZM78OUrc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2021, table 'RASIO' / Rasio Kinerja, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no credit-cost / cost-of-credit ratio in the FY2021 published report, the AR ratio tables and MD&A (AR2020-AR2025), or the FY23/FY24/FY25 analyst decks (checked)."
+            },
+            "npl_gross": {
+                "v": 3.98,
+                "source_url": "https://bankraya.co.id/uploads/reports/KftWPYIf7urjgqcpjrzZzTsfssFI6YUUZM78OUrc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2021, table 'RASIO' / Rasio Kinerja, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.04,
+                "source_url": "https://bankraya.co.id/uploads/reports/KftWPYIf7urjgqcpjrzZzTsfssFI6YUUZM78OUrc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2021, table 'RASIO' / Rasio Kinerja, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no Loan-at-Risk ratio in the AR ratio tables/MD&A or decks; the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": 406.28,
+                "source_url": "https://bankraya.co.id/uploads/reports/PP3cXxqhvleF2onZRWQ6HJm19QOjl6tYggzfPyfL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 46, Board of Commissioners report ('increasing the Company's NPL Coverage from 103.96% in 2020 to 406.28% in 2021')",
+                "basis": "bank_only",
+                "note": "NPL coverage = loan-loss allowance (CKPN) / NPL."
+            },
+            "ldr": {
+                "v": 86.01,
+                "source_url": "https://bankraya.co.id/uploads/reports/KftWPYIf7urjgqcpjrzZzTsfssFI6YUUZM78OUrc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2021, table 'RASIO' / Rasio Kinerja, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 20.24,
+                "source_url": "https://bankraya.co.id/uploads/reports/KftWPYIf7urjgqcpjrzZzTsfssFI6YUUZM78OUrc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2021, table 'RASIO' / Rasio Kinerja, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 42.93,
+                "source_url": "https://bankraya.co.id/uploads/reports/KftWPYIf7urjgqcpjrzZzTsfssFI6YUUZM78OUrc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2021, table 'RASIO' / Rasio Kinerja, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 287.86,
+                "source_url": "https://bankraya.co.id/uploads/reports/KftWPYIf7urjgqcpjrzZzTsfssFI6YUUZM78OUrc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2021, table 'RASIO' / Rasio Kinerja, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 37.59,
+                "source_url": "https://bankraya.co.id/uploads/reports/25KZ0moFftuzkR6byJq0y2Vdu4FNmNc8ZcryCXsA.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 37, Rasio Keuangan / Financial Ratios, Likuiditas: 'Komposisi Dana Murah' (Low-Cost Funds Composition)",
+                "basis": "bank_only",
+                "note": "CASA = (giro + tabungan) / simpanan nasabah; equals the audited FS components to 2 dp."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 11.460505,
+                "source_url": "https://bankraya.co.id/uploads/reports/sycfRbRUfvTcM6uPJGS6FFpEz1CJP4io8N7gyGQM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Laporan Laba Rugi / Statement of Profit or Loss, '(RUGI)/LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Bank Raya has no subsidiaries; its stand-alone audited statements are the whole reporting entity, stored as 'consolidated'."
+            },
+            "eps": {
+                "v": 0.5,
+                "source_url": "https://bankraya.co.id/uploads/reports/sycfRbRUfvTcM6uPJGS6FFpEz1CJP4io8N7gyGQM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Statement of Profit or Loss, 'Dasar (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic EPS (Rp, full) as printed; weighted average shares 22,749,981,294 (EPS note, PDF p. 176). No dilutive shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankraya.co.id/uploads/reports/GQLIIoRcM1iL59BLLCz2A37yvzcV55MV1WHzfYIu.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-05-10",
+                "loc": "p. 1, Ringkasan Risalah RUPST 10 May 2023, Mata Acara Kedua item 2 ('Tidak dilakukan pembagian Dividen atas Laba Bersih Setelah Pajak Perseroan Tahun Buku 2022')",
+                "basis": "n/a",
+                "note": "FY2022 net profit Rp11,460,504,591 wholly retained (offsets accumulated deficit); no dividend."
+            },
+            "total_assets": {
+                "v": 13898.775065,
+                "source_url": "https://bankraya.co.id/uploads/reports/sycfRbRUfvTcM6uPJGS6FFpEz1CJP4io8N7gyGQM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan / Statement of Financial Position, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 7766.644001,
+                "source_url": "https://bankraya.co.id/uploads/reports/sycfRbRUfvTcM6uPJGS6FFpEz1CJP4io8N7gyGQM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Statement of Financial Position, 'Kredit yang diberikan' (gross, before allowance for impairment losses)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 9814.901019,
+                "source_url": "https://bankraya.co.id/uploads/reports/sycfRbRUfvTcM6uPJGS6FFpEz1CJP4io8N7gyGQM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Statement of Financial Position, 'Simpanan nasabah' subtotal (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3389.087282,
+                "source_url": "https://bankraya.co.id/uploads/reports/sycfRbRUfvTcM6uPJGS6FFpEz1CJP4io8N7gyGQM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3389.087282,
+                "source_url": "https://bankraya.co.id/uploads/reports/sycfRbRUfvTcM6uPJGS6FFpEz1CJP4io8N7gyGQM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24740107814,
+                "source_url": "https://bankraya.co.id/uploads/reports/sycfRbRUfvTcM6uPJGS6FFpEz1CJP4io8N7gyGQM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (face: 'Modal ditempatkan dan disetor penuh') and PDF p. 167 (share-capital note)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid 24,740,107,814; no treasury shares at FY end (Note share capital, PDF p. 167)."
+            },
+            "year_end_price": {
+                "v": 404,
+                "source_url": "https://bankraya.co.id/uploads/reports/mojtRPKR97TioKIbay85oVZn7eCBMUiMKQGEGf77.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 36, Tabel Harga, Volume dan Kapitalisasi Saham, 2022 Triwulan IV 'Penutupan' (same value in AR2023 PDF p. 28)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. AGRO has never split its shares."
+            },
+            "roe": {
+                "v": 0.53,
+                "source_url": "https://bankraya.co.id/uploads/reports/rvfKfl6hxeLl2prSgO63L2JqHzap65pB9CFQDoks.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2022, table 'RASIO' / Rasio Kinerja, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ROE: profit after tax / average core capital (Tier 1)."
+            },
+            "roa": {
+                "v": 0.85,
+                "source_url": "https://bankraya.co.id/uploads/reports/rvfKfl6hxeLl2prSgO63L2JqHzap65pB9CFQDoks.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2022, table 'RASIO' / Rasio Kinerja, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ROA: profit before tax / average total assets."
+            },
+            "nim": {
+                "v": 4.56,
+                "source_url": "https://bankraya.co.id/uploads/reports/rvfKfl6hxeLl2prSgO63L2JqHzap65pB9CFQDoks.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2022, table 'RASIO' / Rasio Kinerja, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no credit-cost / cost-of-credit ratio in the FY2022 published report, the AR ratio tables and MD&A (AR2020-AR2025), or the FY23/FY24/FY25 analyst decks (checked)."
+            },
+            "npl_gross": {
+                "v": 2.9,
+                "source_url": "https://bankraya.co.id/uploads/reports/rvfKfl6hxeLl2prSgO63L2JqHzap65pB9CFQDoks.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2022, table 'RASIO' / Rasio Kinerja, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.54,
+                "source_url": "https://bankraya.co.id/uploads/reports/rvfKfl6hxeLl2prSgO63L2JqHzap65pB9CFQDoks.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2022, table 'RASIO' / Rasio Kinerja, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no Loan-at-Risk ratio in the AR ratio tables/MD&A or decks; the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": 585.95,
+                "source_url": "https://bankraya.co.id/uploads/reports/XEya8WKdbLx7I7P3RxtTZTSwMV2aPDLcCtCiWv5J.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 34, Appendix (4/4) Ratios, 'NPL Coverage' FY22 column (also p. 31 Financial Highlights)",
+                "basis": "bank_only",
+                "note": "Not printed in AR2022 (checked ratio table p. 33 and MD&A). The FY24 deck is the earliest retrieved company document with the FY2022 value. The slide is an image (no text layer) and was read visually."
+            },
+            "ldr": {
+                "v": 79.13,
+                "source_url": "https://bankraya.co.id/uploads/reports/rvfKfl6hxeLl2prSgO63L2JqHzap65pB9CFQDoks.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2022, table 'RASIO' / Rasio Kinerja, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 43.74,
+                "source_url": "https://bankraya.co.id/uploads/reports/rvfKfl6hxeLl2prSgO63L2JqHzap65pB9CFQDoks.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2022, table 'RASIO' / Rasio Kinerja, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 45.85,
+                "source_url": "https://bankraya.co.id/uploads/reports/rvfKfl6hxeLl2prSgO63L2JqHzap65pB9CFQDoks.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2022, table 'RASIO' / Rasio Kinerja, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 93.34,
+                "source_url": "https://bankraya.co.id/uploads/reports/rvfKfl6hxeLl2prSgO63L2JqHzap65pB9CFQDoks.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2022, table 'RASIO' / Rasio Kinerja, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 31.63,
+                "source_url": "https://bankraya.co.id/uploads/reports/25KZ0moFftuzkR6byJq0y2Vdu4FNmNc8ZcryCXsA.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 37, Rasio Keuangan / Financial Ratios, Likuiditas: 'Komposisi Dana Murah' (Low-Cost Funds Composition)",
+                "basis": "bank_only",
+                "note": "CASA = (giro + tabungan) / simpanan nasabah; equals the audited FS components to 2 dp."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 24.351039,
+                "source_url": "https://bankraya.co.id/uploads/reports/zechMFnaLgQkHpAf7CN0gvBG6wH4m7CWshNfXMXN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Laporan Laba Rugi / Statement of Profit or Loss, '(RUGI)/LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Bank Raya has no subsidiaries; its stand-alone audited statements are the whole reporting entity, stored as 'consolidated'."
+            },
+            "eps": {
+                "v": 0.98,
+                "source_url": "https://bankraya.co.id/uploads/reports/zechMFnaLgQkHpAf7CN0gvBG6wH4m7CWshNfXMXN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Statement of Profit or Loss, 'Dasar (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic EPS (Rp, full) as printed; weighted average shares 24,740,380,997 (EPS note, PDF p. 172). No dilutive shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankraya.co.id/uploads/reports/5tP8Ml0n5sjVB26bW8dA7VhtYrYm3PkPigycg02s.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-04-30",
+                "loc": "p. 1, Ringkasan Risalah RUPST 30 Apr 2024, Mata Acara Kedua item 2 ('Tidak dilakukan pembagian Dividen ... Tahun Buku 2023')",
+                "basis": "n/a",
+                "note": "FY2023 net profit Rp24,351,038,528 100% to retained earnings; no dividend."
+            },
+            "total_assets": {
+                "v": 12440.642239,
+                "source_url": "https://bankraya.co.id/uploads/reports/zechMFnaLgQkHpAf7CN0gvBG6wH4m7CWshNfXMXN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan / Statement of Financial Position, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 6893.331383,
+                "source_url": "https://bankraya.co.id/uploads/reports/zechMFnaLgQkHpAf7CN0gvBG6wH4m7CWshNfXMXN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Statement of Financial Position, 'Kredit yang diberikan' (gross, before allowance for impairment losses)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 8185.975584,
+                "source_url": "https://bankraya.co.id/uploads/reports/zechMFnaLgQkHpAf7CN0gvBG6wH4m7CWshNfXMXN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Statement of Financial Position, 'Simpanan nasabah' subtotal (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3420.249975,
+                "source_url": "https://bankraya.co.id/uploads/reports/zechMFnaLgQkHpAf7CN0gvBG6wH4m7CWshNfXMXN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3420.249975,
+                "source_url": "https://bankraya.co.id/uploads/reports/zechMFnaLgQkHpAf7CN0gvBG6wH4m7CWshNfXMXN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24740494294,
+                "source_url": "https://bankraya.co.id/uploads/reports/zechMFnaLgQkHpAf7CN0gvBG6wH4m7CWshNfXMXN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (face: 'Modal ditempatkan dan disetor penuh') and PDF p. 164 (share-capital note)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid 24,740,494,294; no treasury shares at FY end (Note share capital, PDF p. 164)."
+            },
+            "year_end_price": {
+                "v": 310,
+                "source_url": "https://bankraya.co.id/uploads/reports/QSSozrOzklpL0OORRHnS7UFKe9O65VL4noKFU6ez.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 28, Ikhtisar Saham, 2023 table, Triwulan IV 'Penutupan' (same value in AR2024 PDF p. 47)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. AGRO has never split its shares."
+            },
+            "roe": {
+                "v": 0.77,
+                "source_url": "https://bankraya.co.id/uploads/reports/WEChmnKM7d2ZmwOzxL4Oo5JYbt8BEoA93f5zaXVB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2023, table 'RASIO' / Rasio Kinerja, '8 Return on Equity (ROE) - ROE setelah pajak'",
+                "basis": "bank_only",
+                "note": "OJK ROE: profit after tax / average core capital (Tier 1). From FY2023 the report also prints ROE before tax (4.03% for 2023); the after-tax line is stored for continuity with FY2020-FY2022, which print one ROE line."
+            },
+            "roa": {
+                "v": 1.05,
+                "source_url": "https://bankraya.co.id/uploads/reports/WEChmnKM7d2ZmwOzxL4Oo5JYbt8BEoA93f5zaXVB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2023, table 'RASIO' / Rasio Kinerja, '7 Return on Asset (ROA) - ROA sebelum pajak'",
+                "basis": "bank_only",
+                "note": "OJK ROA: profit before tax / average total assets. Same table: ROA after tax 0.2%."
+            },
+            "nim": {
+                "v": 3.91,
+                "source_url": "https://bankraya.co.id/uploads/reports/WEChmnKM7d2ZmwOzxL4Oo5JYbt8BEoA93f5zaXVB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2023, table 'RASIO' / Rasio Kinerja, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no credit-cost / cost-of-credit ratio in the FY2023 published report, the AR ratio tables and MD&A (AR2020-AR2025), or the FY23/FY24/FY25 analyst decks (checked)."
+            },
+            "npl_gross": {
+                "v": 4.4,
+                "source_url": "https://bankraya.co.id/uploads/reports/WEChmnKM7d2ZmwOzxL4Oo5JYbt8BEoA93f5zaXVB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2023, table 'RASIO' / Rasio Kinerja, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 1.51,
+                "source_url": "https://bankraya.co.id/uploads/reports/WEChmnKM7d2ZmwOzxL4Oo5JYbt8BEoA93f5zaXVB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2023, table 'RASIO' / Rasio Kinerja, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no Loan-at-Risk ratio in the AR ratio tables/MD&A or decks; the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": 296.14,
+                "source_url": "https://bankraya.co.id/uploads/reports/QSSozrOzklpL0OORRHnS7UFKe9O65VL4noKFU6ez.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 40, Board of Directors report ('NPL gross dapat dipertahankan sebesar 4,40% dengan NPL Coverage ... sebesar 296,14%')",
+                "basis": "bank_only",
+                "note": "The English column on the same page prints 296.41% (transposition); the Indonesian text and the FY24 deck (p. 34) give 296.14%."
+            },
+            "ldr": {
+                "v": 84.21,
+                "source_url": "https://bankraya.co.id/uploads/reports/WEChmnKM7d2ZmwOzxL4Oo5JYbt8BEoA93f5zaXVB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2023, table 'RASIO' / Rasio Kinerja, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 43.84,
+                "source_url": "https://bankraya.co.id/uploads/reports/WEChmnKM7d2ZmwOzxL4Oo5JYbt8BEoA93f5zaXVB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2023, table 'RASIO' / Rasio Kinerja, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 68.97,
+                "source_url": "https://bankraya.co.id/uploads/reports/WEChmnKM7d2ZmwOzxL4Oo5JYbt8BEoA93f5zaXVB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2023, table 'RASIO' / Rasio Kinerja, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 90.51,
+                "source_url": "https://bankraya.co.id/uploads/reports/WEChmnKM7d2ZmwOzxL4Oo5JYbt8BEoA93f5zaXVB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2023, table 'RASIO' / Rasio Kinerja, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 27.32,
+                "source_url": "https://bankraya.co.id/uploads/reports/25KZ0moFftuzkR6byJq0y2Vdu4FNmNc8ZcryCXsA.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 37, Rasio Keuangan / Financial Ratios, Likuiditas: 'Komposisi Dana Murah' (Low-Cost Funds Composition)",
+                "basis": "bank_only",
+                "note": "CASA = (giro + tabungan) / simpanan nasabah; equals the audited FS components to 2 dp."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 50.89177,
+                "source_url": "https://bankraya.co.id/uploads/reports/X3dbM8pjtWf5hgVO4mVL5quNaC4jXbN0NQnD1A4K.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Laporan Laba Rugi / Statement of Profit or Loss, '(RUGI)/LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Bank Raya has no subsidiaries; its stand-alone audited statements are the whole reporting entity, stored as 'consolidated'."
+            },
+            "eps": {
+                "v": 2.06,
+                "source_url": "https://bankraya.co.id/uploads/reports/X3dbM8pjtWf5hgVO4mVL5quNaC4jXbN0NQnD1A4K.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Statement of Profit or Loss, 'Dasar (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic EPS (Rp, full) as printed; weighted average shares 24,740,494,294 (EPS note, PDF p. 158). No dilutive shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankraya.co.id/uploads/reports/LtesqdFuz1A1lYpOQirC6HPsjQLqiHMZ7A5rAwQJ.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-25",
+                "loc": "p. 1, Ringkasan Risalah RUPST 25 Jun 2025, Mata Acara Kedua item b ('Tidak dilakukan pembagian Dividen ... Tahun Buku 2024'); repeated in AR2025 PDF p. 235",
+                "basis": "n/a",
+                "note": "FY2024 net profit Rp50,891,770,225 100% to retained earnings; no dividend."
+            },
+            "total_assets": {
+                "v": 13128.920167,
+                "source_url": "https://bankraya.co.id/uploads/reports/X3dbM8pjtWf5hgVO4mVL5quNaC4jXbN0NQnD1A4K.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan / Statement of Financial Position, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 7125.950688,
+                "source_url": "https://bankraya.co.id/uploads/reports/X3dbM8pjtWf5hgVO4mVL5quNaC4jXbN0NQnD1A4K.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Statement of Financial Position, 'Kredit yang diberikan' (gross, before allowance for impairment losses)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 8133.051999,
+                "source_url": "https://bankraya.co.id/uploads/reports/X3dbM8pjtWf5hgVO4mVL5quNaC4jXbN0NQnD1A4K.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Statement of Financial Position, 'Simpanan nasabah' subtotal (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3453.364527,
+                "source_url": "https://bankraya.co.id/uploads/reports/X3dbM8pjtWf5hgVO4mVL5quNaC4jXbN0NQnD1A4K.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3453.364527,
+                "source_url": "https://bankraya.co.id/uploads/reports/X3dbM8pjtWf5hgVO4mVL5quNaC4jXbN0NQnD1A4K.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24717676694,
+                "source_url": "https://bankraya.co.id/uploads/reports/X3dbM8pjtWf5hgVO4mVL5quNaC4jXbN0NQnD1A4K.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (face: 'Modal ditempatkan dan disetor penuh') and PDF p. 151 (share-capital note)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid 24,740,494,294 less 22,817,600 treasury shares (Note 25 shareholder table, PDF p. 151)."
+            },
+            "year_end_price": {
+                "v": 232,
+                "source_url": "https://bankraya.co.id/uploads/reports/BPztzMtUyCwQV2rJLkkXr78r0ZccoeUvOrS76LbQ.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 47, Ikhtisar Saham, 2024 table, Triwulan IV 'Penutupan' (same value in AR2025 PDF p. 41)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. AGRO has never split its shares."
+            },
+            "roe": {
+                "v": 1.59,
+                "source_url": "https://bankraya.co.id/uploads/reports/CiL7d3pSau8lsynZ5dk3gd242uPB0yCOUfxk3Tl5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2024, table 'RASIO' / Rasio Kinerja, '8 Return on Equity (ROE) - ROE setelah pajak'",
+                "basis": "bank_only",
+                "note": "OJK ROE: profit after tax / average core capital (Tier 1). From FY2023 the report also prints ROE before tax (1.73% for 2024); the after-tax line is stored for continuity with FY2020-FY2022, which print one ROE line."
+            },
+            "roa": {
+                "v": 0.44,
+                "source_url": "https://bankraya.co.id/uploads/reports/CiL7d3pSau8lsynZ5dk3gd242uPB0yCOUfxk3Tl5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2024, table 'RASIO' / Rasio Kinerja, '7 Return on Asset (ROA) - ROA sebelum pajak'",
+                "basis": "bank_only",
+                "note": "OJK ROA: profit before tax / average total assets. Same table: ROA after tax 0.4%."
+            },
+            "nim": {
+                "v": 4.44,
+                "source_url": "https://bankraya.co.id/uploads/reports/CiL7d3pSau8lsynZ5dk3gd242uPB0yCOUfxk3Tl5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2024, table 'RASIO' / Rasio Kinerja, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no credit-cost / cost-of-credit ratio in the FY2024 published report, the AR ratio tables and MD&A (AR2020-AR2025), or the FY23/FY24/FY25 analyst decks (checked)."
+            },
+            "npl_gross": {
+                "v": 3.22,
+                "source_url": "https://bankraya.co.id/uploads/reports/CiL7d3pSau8lsynZ5dk3gd242uPB0yCOUfxk3Tl5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2024, table 'RASIO' / Rasio Kinerja, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 1.2,
+                "source_url": "https://bankraya.co.id/uploads/reports/CiL7d3pSau8lsynZ5dk3gd242uPB0yCOUfxk3Tl5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2024, table 'RASIO' / Rasio Kinerja, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no Loan-at-Risk ratio in the AR ratio tables/MD&A or decks; the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": 455.46,
+                "source_url": "https://bankraya.co.id/uploads/reports/XEya8WKdbLx7I7P3RxtTZTSwMV2aPDLcCtCiWv5J.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 34, Appendix (4/4) Ratios, 'NPL Coverage' FY24 column (also p. 31)",
+                "basis": "bank_only",
+                "note": "Not printed in AR2024 (checked). Slide image read visually (no text layer). Consistent with audited FS2024: allowance on loans 1,046.2 / NPL 229.7 IDR bn."
+            },
+            "ldr": {
+                "v": 87.62,
+                "source_url": "https://bankraya.co.id/uploads/reports/CiL7d3pSau8lsynZ5dk3gd242uPB0yCOUfxk3Tl5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2024, table 'RASIO' / Rasio Kinerja, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 44.29,
+                "source_url": "https://bankraya.co.id/uploads/reports/CiL7d3pSau8lsynZ5dk3gd242uPB0yCOUfxk3Tl5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2024, table 'RASIO' / Rasio Kinerja, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 58.02,
+                "source_url": "https://bankraya.co.id/uploads/reports/CiL7d3pSau8lsynZ5dk3gd242uPB0yCOUfxk3Tl5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2024, table 'RASIO' / Rasio Kinerja, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 96.68,
+                "source_url": "https://bankraya.co.id/uploads/reports/CiL7d3pSau8lsynZ5dk3gd242uPB0yCOUfxk3Tl5.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2024, table 'RASIO' / Rasio Kinerja, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 27.5,
+                "source_url": "https://bankraya.co.id/uploads/reports/25KZ0moFftuzkR6byJq0y2Vdu4FNmNc8ZcryCXsA.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 37, Rasio Keuangan / Financial Ratios, Likuiditas: 'Komposisi Dana Murah' (Low-Cost Funds Composition)",
+                "basis": "bank_only",
+                "note": "CASA = (giro + tabungan) / simpanan nasabah; equals the audited FS components to 2 dp."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": -498.612948,
+                "source_url": "https://bankraya.co.id/uploads/reports/ENAWfMoH4fZryKsPvMbgKe7VZNigOkf1R5mJqm0o.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Laporan Laba Rugi / Statement of Profit or Loss, '(RUGI)/LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Bank Raya has no subsidiaries; its stand-alone audited statements are the whole reporting entity, stored as 'consolidated'. Net loss: impairment provisions Rp553.6bn, recoveries of written-off assets down to Rp125.1bn (FY2024 Rp494.0bn), and tax expense Rp176.9bn on a pre-tax loss of Rp321.7bn (the Rp179.9bn deferred tax asset at end-2024 is nil at end-2025)."
+            },
+            "eps": {
+                "v": -20.2,
+                "source_url": "https://bankraya.co.id/uploads/reports/ENAWfMoH4fZryKsPvMbgKe7VZNigOkf1R5mJqm0o.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Statement of Profit or Loss, 'Dasar (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic EPS (Rp, full) as printed; weighted average shares 24,683,114,947 (EPS note, PDF p. 146). No dilutive shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankraya.co.id/uploads/reports/Wn0Qhb1r5tVnG00bw2pVpwTYQnzvD3IMDNHmBdfC.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-05-20",
+                "loc": "p. 1, Ringkasan Risalah RUPST 20 May 2026, agenda items 1-6 (no profit-appropriation / dividend item)",
+                "basis": "n/a",
+                "note": "Loss year (FY2025 net loss Rp498.6bn; unappropriated retained earnings -Rp3,255.6bn at 31 Dec 2025). The AGMS of 20 May 2026 had no profit-appropriation item, so no dividend."
+            },
+            "total_assets": {
+                "v": 13087.107913,
+                "source_url": "https://bankraya.co.id/uploads/reports/ENAWfMoH4fZryKsPvMbgKe7VZNigOkf1R5mJqm0o.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan / Statement of Financial Position, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 7715.323443,
+                "source_url": "https://bankraya.co.id/uploads/reports/ENAWfMoH4fZryKsPvMbgKe7VZNigOkf1R5mJqm0o.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Statement of Financial Position, 'Kredit yang diberikan' (gross, before allowance for impairment losses)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 9544.985974,
+                "source_url": "https://bankraya.co.id/uploads/reports/ENAWfMoH4fZryKsPvMbgKe7VZNigOkf1R5mJqm0o.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Statement of Financial Position, 'Simpanan nasabah' subtotal (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3011.335974,
+                "source_url": "https://bankraya.co.id/uploads/reports/ENAWfMoH4fZryKsPvMbgKe7VZNigOkf1R5mJqm0o.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3011.335974,
+                "source_url": "https://bankraya.co.id/uploads/reports/ENAWfMoH4fZryKsPvMbgKe7VZNigOkf1R5mJqm0o.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Statement of Financial Position, 'Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24674824694,
+                "source_url": "https://bankraya.co.id/uploads/reports/ENAWfMoH4fZryKsPvMbgKe7VZNigOkf1R5mJqm0o.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (face: 'Modal ditempatkan dan disetor penuh') and PDF p. 141 (share-capital note)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid 24,740,494,294 less 65,669,600 treasury shares (Note 25 shareholder table, PDF p. 141)."
+            },
+            "year_end_price": {
+                "v": 230,
+                "source_url": "https://bankraya.co.id/uploads/reports/25KZ0moFftuzkR6byJq0y2Vdu4FNmNc8ZcryCXsA.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 41, Ikhtisar Saham, 2025 table, Triwulan IV 'Penutupan' (market cap Rp5,690,314 mn = 230 x 24,740,494,294)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. AGRO has never split its shares."
+            },
+            "roe": {
+                "v": -15.4,
+                "source_url": "https://bankraya.co.id/uploads/reports/h96qyyw6BxaxlsAC9RPT1hVygq6Y82mkujgrjC43.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2025, table 'RASIO' / Rasio Kinerja, '8 Return on Equity (ROE) - ROE setelah pajak'",
+                "basis": "bank_only",
+                "note": "OJK ROE: profit after tax / average core capital (Tier 1). From FY2023 the report also prints ROE before tax (-9.94% for 2025); the after-tax line is stored for continuity with FY2020-FY2022, which print one ROE line. Loss year."
+            },
+            "roa": {
+                "v": -2.42,
+                "source_url": "https://bankraya.co.id/uploads/reports/h96qyyw6BxaxlsAC9RPT1hVygq6Y82mkujgrjC43.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2025, table 'RASIO' / Rasio Kinerja, '7 Return on Asset (ROA) - ROA sebelum pajak'",
+                "basis": "bank_only",
+                "note": "OJK ROA: profit before tax / average total assets. Same table: ROA after tax -3.75%."
+            },
+            "nim": {
+                "v": 5.08,
+                "source_url": "https://bankraya.co.id/uploads/reports/h96qyyw6BxaxlsAC9RPT1hVygq6Y82mkujgrjC43.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2025, table 'RASIO' / Rasio Kinerja, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no credit-cost / cost-of-credit ratio in the FY2025 published report, the AR ratio tables and MD&A (AR2020-AR2025), or the FY23/FY24/FY25 analyst decks (checked)."
+            },
+            "npl_gross": {
+                "v": 14.02,
+                "source_url": "https://bankraya.co.id/uploads/reports/h96qyyw6BxaxlsAC9RPT1hVygq6Y82mkujgrjC43.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2025, table 'RASIO' / Rasio Kinerja, 'NPL Gross'",
+                "basis": "bank_only",
+                "note": "Gross NPL. FY2025 NPL Rp1,081.33bn of Rp7,715.3bn loans (AR2025 PDF p. 229); largely written off in 2026 (9M2026 NPL 2.53%)."
+            },
+            "npl_net": {
+                "v": 1.22,
+                "source_url": "https://bankraya.co.id/uploads/reports/h96qyyw6BxaxlsAC9RPT1hVygq6Y82mkujgrjC43.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2025, table 'RASIO' / Rasio Kinerja, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no Loan-at-Risk ratio in the AR ratio tables/MD&A or decks; the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2025: not in AR2025 (ratio table PDF p. 37, MD&A asset-quality PDF p. 229), the FY25 deck (p. 10) or the Dec-2025 published report. Audited allowance on loans Rp1,442.2bn vs NPL Rp1,081.33bn (AR2025 p. 229) would imply ~133%, not stored because the bank does not print it."
+            },
+            "ldr": {
+                "v": 80.83,
+                "source_url": "https://bankraya.co.id/uploads/reports/h96qyyw6BxaxlsAC9RPT1hVygq6Y82mkujgrjC43.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2025, table 'RASIO' / Rasio Kinerja, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 40.25,
+                "source_url": "https://bankraya.co.id/uploads/reports/h96qyyw6BxaxlsAC9RPT1hVygq6Y82mkujgrjC43.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2025, table 'RASIO' / Rasio Kinerja, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 73.97,
+                "source_url": "https://bankraya.co.id/uploads/reports/h96qyyw6BxaxlsAC9RPT1hVygq6Y82mkujgrjC43.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2025, table 'RASIO' / Rasio Kinerja, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 124.22,
+                "source_url": "https://bankraya.co.id/uploads/reports/h96qyyw6BxaxlsAC9RPT1hVygq6Y82mkujgrjC43.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page Laporan Publikasi (published report) 31 Dec 2025, table 'RASIO' / Rasio Kinerja, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 33.62,
+                "source_url": "https://bankraya.co.id/uploads/reports/25KZ0moFftuzkR6byJq0y2Vdu4FNmNc8ZcryCXsA.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 37, Rasio Keuangan / Financial Ratios, Likuiditas: 'Komposisi Dana Murah' (Low-Cost Funds Composition)",
+                "basis": "bank_only",
+                "note": "CASA = (giro + tabungan) / simpanan nasabah; equals the audited FS components to 2 dp."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 21.011177,
+                "source_url": "https://bankraya.co.id/uploads/reports/RndBISqWJrsdMlMHA29nYvhrHgtE3DfPPLRXCXqf.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Laba Rugi Interim, 'LABA PERIODE BERJALAN' (nine months to 30 Sep 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited interim FS (no auditor's report attached), published 29 Oct 2026. No tax expense in 9M2026. Bank Raya has no subsidiaries; its stand-alone audited statements are the whole reporting entity, stored as 'consolidated'."
+            },
+            "profit_ytd_prior": {
+                "v": 41.978658,
+                "source_url": "https://bankraya.co.id/uploads/reports/RndBISqWJrsdMlMHA29nYvhrHgtE3DfPPLRXCXqf.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 7, same statement, comparative nine months to 30 Sep 2025",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 2937.271168,
+                "source_url": "https://bankraya.co.id/uploads/reports/RndBISqWJrsdMlMHA29nYvhrHgtE3DfPPLRXCXqf.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan Interim, 'Total Ekuitas' (30 Sep 2026)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable = total equity."
+            },
+            "shares_out": {
+                "v": 24665514894,
+                "source_url": "https://bankraya.co.id/uploads/reports/RndBISqWJrsdMlMHA29nYvhrHgtE3DfPPLRXCXqf.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 80, Note 24 Ekuitas shareholder table (issued 24,740,494,294; Saham Treasuri 74,979,400)",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Issued minus treasury shares (buyback programmes 2024-2026, Note 1e PDF p. 17)."
+            },
+            "total_assets": {
+                "v": 12567.550608,
+                "source_url": "https://bankraya.co.id/uploads/reports/RndBISqWJrsdMlMHA29nYvhrHgtE3DfPPLRXCXqf.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Laporan Posisi Keuangan Interim, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 6468.77539,
+                "source_url": "https://bankraya.co.id/uploads/reports/RndBISqWJrsdMlMHA29nYvhrHgtE3DfPPLRXCXqf.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, 'Kredit yang diberikan' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "Down from 7,715.3 at 31 Dec 2025 after strategic write-offs (3Q26 deck p. 14); allowance fell from 1,442.2 to 634.8."
+            },
+            "loans_gross_prior": {
+                "v": 7268.984736,
+                "source_url": "https://bankraya.co.id/uploads/reports/LiXPSRNAgi6o6nWnlilW5EEAj3tYCRdIRE27tuQB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4, Laporan Posisi Keuangan Interim 30 Sep 2025, 'Kredit yang diberikan' (gross)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 8225.1472,
+                "source_url": "https://bankraya.co.id/uploads/reports/RndBISqWJrsdMlMHA29nYvhrHgtE3DfPPLRXCXqf.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, 'Simpanan nasabah' subtotal (giro + tabungan + deposito berjangka)",
+                "basis": "consolidated"
+            },
+            "deposits_prior": {
+                "v": 9154.739612,
+                "source_url": "https://bankraya.co.id/uploads/reports/LiXPSRNAgi6o6nWnlilW5EEAj3tYCRdIRE27tuQB.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan Interim 30 Sep 2025, 'Simpanan nasabah' subtotal",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 0.97,
+                "source_url": "https://bankraya.co.id/uploads/reports/hy2TjtFkRpLAEvs4VwMkcVGHnQjk3DLILPoUNxsD.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page Laporan Publikasi 30 Sep 2026, table 'RASIO' / Rasio Kinerja, column 30 Sept 2026, '9 Return on Equity (ROE) - ROE setelah pajak'",
+                "basis": "bank_only",
+                "note": "Annualised YTD, OJK definition (after tax / average Tier 1); before-tax ROE identical (0.97) as there was no tax expense."
+            },
+            "roa": {
+                "v": 0.22,
+                "source_url": "https://bankraya.co.id/uploads/reports/hy2TjtFkRpLAEvs4VwMkcVGHnQjk3DLILPoUNxsD.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page Laporan Publikasi 30 Sep 2026, table 'RASIO' / Rasio Kinerja, column 30 Sept 2026, '8 Return on Asset (ROA) - ROA sebelum pajak'",
+                "basis": "bank_only",
+                "note": "Annualised YTD, pre-tax (OJK)."
+            },
+            "nim": {
+                "v": 5.83,
+                "source_url": "https://bankraya.co.id/uploads/reports/hy2TjtFkRpLAEvs4VwMkcVGHnQjk3DLILPoUNxsD.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page Laporan Publikasi 30 Sep 2026, table 'RASIO' / Rasio Kinerja, column 30 Sept 2026, '10 Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "Annualised YTD; 3Q26 deck p. 16 shows the same 5.83%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 published report, interim FS or 3Q26 deck (checked)."
+            },
+            "npl_gross": {
+                "v": 2.53,
+                "source_url": "https://bankraya.co.id/uploads/reports/hy2TjtFkRpLAEvs4VwMkcVGHnQjk3DLILPoUNxsD.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page Laporan Publikasi 30 Sep 2026, table 'RASIO' / Rasio Kinerja, column 30 Sept 2026, '5 NPL Gross'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 19.34,
+                "source_url": "https://bankraya.co.id/uploads/reports/hy2TjtFkRpLAEvs4VwMkcVGHnQjk3DLILPoUNxsD.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page Laporan Publikasi 30 Sep 2026, table 'RASIO' / Rasio Kinerja, column 30 Sept 2026, '7 Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "OJK 'Kredit Kualitas Rendah' (low-quality loans: special mention + restructured current + NPL), the regulator's LaR-type measure; first printed in 2026 reports (30 Sep 2025 comparative 30.85%)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 published report, interim FS or 3Q26 deck (checked)."
+            },
+            "ldr": {
+                "v": 78.65,
+                "source_url": "https://bankraya.co.id/uploads/reports/hy2TjtFkRpLAEvs4VwMkcVGHnQjk3DLILPoUNxsD.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page Laporan Publikasi 30 Sep 2026, table 'RASIO' / Rasio Kinerja, column 30 Sept 2026, '13 Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 42.35,
+                "source_url": "https://bankraya.co.id/uploads/reports/hy2TjtFkRpLAEvs4VwMkcVGHnQjk3DLILPoUNxsD.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page Laporan Publikasi 30 Sep 2026, table 'RASIO' / Rasio Kinerja, column 30 Sept 2026, '1 Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 64.21,
+                "source_url": "https://bankraya.co.id/uploads/reports/hy2TjtFkRpLAEvs4VwMkcVGHnQjk3DLILPoUNxsD.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page Laporan Publikasi 30 Sep 2026, table 'RASIO' / Rasio Kinerja, column 30 Sept 2026, '12 Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 36,
+                "source_url": "https://bankraya.co.id/uploads/reports/6KbxfXIBxkUFPPqLmI47y3QMBFBDN4slJMCelf89.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 14, Balance Sheet - Overview: 'CASA ratio increasing to 36%, equivalent to IDR2.9 Tn' (3Q26 bar)",
+                "basis": "bank_only",
+                "note": "Printed as a whole percent. Interim FS components: (giro 457.5 + tabungan 2,489.8) / 8,225.1 IDR bn = 35.8%."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "FY2021 basic EPS (Rp-141.52) uses weighted-average shares of 21,521,298,397 (audited FS2021 PDF p. 174, Note 'Laba per saham'), while shares_out is the year-end 22,746,526,712: MESOP exercises added 249,376,451 shares (listed 27 May 2021) and 99,314,846 (14 Sep 2021), and the PMHMETD IX rights issue added 1,054,545,185 shares listed 2 Dec 2021 (AR2021 PDF p. 120). Loss Rp3,045,701,407 thousand / 21,521,298,397 = -141.52: the gap is real."
+        },
+        {
+            "check": "eps_shares:2022",
+            "reason": "FY2022 basic EPS (Rp0.50) uses weighted-average shares of 22,749,981,294 (audited FS2022 PDF p. 176) because the PMHMETD X rights issue added 1,993,201,832 shares only in late Dec 2022 (listed 26 Dec 2022, AR2022 PDF p. 130); year-end shares_out is 24,740,107,814. Profit Rp11,460,505 thousand / 22,749,981,294 = 0.504, printed 0.50 (two decimals): the gap is real."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: every Bank Raya document was downloaded directly from bankraya.co.id (no bot protection) on 2026-11-03. The IR pages list files through the JSON endpoint https://bankraya.co.id/reports-data/<category>; each file is served at https://bankraya.co.id/uploads/reports/<file> (the URLs in source_url) and, identically, via /report-download/<id>. idx.co.id was not needed. One news article (Bisnis.com, via web.archive.org) supplies the PMHMETD IX ex-date.",
+        "ENTITY / BASIS: Bank Raya has no subsidiaries (only minority stakes in two BPRs and Lintasarta, 'Penyertaan saham' Rp77.5mn), so its stand-alone audited FS are the whole reporting entity: money figures are stored as 'consolidated' and equity_attr = total_equity (no NCI). Ratios are the bank's OJK individual ratios ('bank_only'). FS money values are printed in Rp ribu (thousands) and were divided by 1,000,000; published reports are in Rp juta.",
+        "NAME / CONTROL: legal name PT Bank Raya Indonesia Tbk since the EGMS of 27 Sep 2021 (AHU-0052731.AH.01.02.Tahun 2021; OJK KEP-65/PB.1/2021 of 1 Nov 2021); formerly PT Bank Rakyat Indonesia Agroniaga Tbk (BRI Agro), ticker AGRO unchanged. BRI held 86.85% at 31 Dec 2025 (FS2025 Note 25). Since 2025-2026 the decks carry the Danantara Indonesia mark (BRI's state holding), the Bank Raya logo is unchanged.",
+        "LOSS YEARS (real data): FY2021 net loss Rp3,045.7bn (provisions Rp3,885bn while exiting legacy middle-segment loans; loans -40%, assets -40%), FY2025 net loss Rp498.6bn (NPL gross 14.02%, provisions Rp553.6bn, recoveries down, Rp176.9bn tax expense as the deferred tax asset went to nil). FY2021 ROE -95.44%, ROA -14.75% and BOPO 287.86% are outside the validator's plausible ranges; they are the bank's printed values, not unit slips. EPS is negative in FY2021 and FY2025.",
+        "RATIO SOURCES / DEFINITIONS: FY ratios come from each year's own December published report (Laporan Publikasi, OJK format, audited): ROA = pre-tax ROA (OJK); ROE = after-tax ROE on average Tier 1 (OJK). From FY2023 the reports print both before- and after-tax ROA/ROE (both quoted in notes). Values agree with the AR2021/AR2022/AR2023/AR2025 five-year tables except AR2025's FY2021 column, which swaps the ROE labels and misprints ROA after tax as (113.60%). CASA = AR 'Komposisi Dana Murah' (matches FS components). NPL coverage from the BoC/BoD reports (FY2020, FY2021, FY2023) and the FY24 deck (FY2022, FY2024).",
+        "NOT DISCLOSED (null): CoC every year (no credit-cost ratio in any AR, published report or deck); LaR for FY2020-FY2025 (the OJK report adds 'Kredit Kualitas Rendah' only in 2026, stored for the interim); NPL coverage FY2025 and 9M2026. The FY2025 and 3Q26 decks are mostly images and were read visually (pages 10 and 14/16).",
+        "RESTATEMENTS: none. Each audited FS's prior-year comparative equals the prior year's own figures (TA, loans, deposits, equity, profit) for FY2019-FY2024. Note AR2025's five-year balance-sheet table (PDF p. 35) misprints FY2023 deposits as 8,133,053 (the FY2024 value; FS2023: 8,185,976) and FY2021 deposits as 22,995,279 (the FY2020 value; FS2021: 13,496,292); the FS values are stored. FY2020 equity fell despite a profit because of the PSAK 71 opening adjustment (-Rp318.3bn retained earnings, 1 Jan 2020).",
+        "DIVIDENDS: no cash dividend out of FY2020-FY2025 profit (AGMS 9 Apr 2021, 31 Mar 2022, 10 May 2023, 30 Apr 2024, 25 Jun 2025, 20 May 2026), so there are no dividend records and payout_ratio = 0 each year. The last dividend was approved by the AGMS of 28 Mar 2019 (FY2018 profit; AR2025 PDF p. 235). Unappropriated retained earnings were -Rp3,255.6bn at 31 Dec 2025.",
+        "CORPORATE ACTIONS 2019-2026: two rights issues - PMHMETD IX (ex 29 Nov 2021, 620,000:30,141 at Rp1,100, 1,054,545,185 shares) and PMHMETD X (ex 9 Dec 2022, 11,373,452,991:1,160,000,000 at Rp500, 1,993,201,832 shares). No split, reverse split or bonus issue ever (par value Rp100 since the 2003 IPO; FS2025 Note 1c chronology). No rights issue in 2019 or 2020: issued shares stayed 21,343,290,230 from PUT VIII (Sep 2018) to 31 Dec 2020 (FS2019/FS2020). Not recorded as corporate actions (no schema type): MESOP exercises (348,691,297 shares in 2021, 379,270 in 2022, 386,480 in 2023; programme expired 26 Jun 2023) and share buybacks (22,817,600 treasury shares at end-2024, 65,669,600 at end-2025, 74,979,400 at 30 Sep 2026). The EGMS of 9 Oct 2026 only amended the articles and the board (no capital action).",
+        "SHARE_BASIS: AGRO has never split its shares, so share_basis is the period-end date for EPS, shares_out and prices. shares_out is net of treasury shares (FY2024, FY2025, 9M2026).",
+        "INTERIM: 9M 2026 (30 Sep 2026) from the unaudited interim FS and the OJK published report (both released 29 Oct 2026) and the 3Q26 corporate presentation. Prior-year loans/deposits come from the 30 Sep 2025 interim FS. 9M2026 profit Rp21.0bn vs Rp42.0bn; loans fell to Rp6,468.8bn after strategic write-offs, NPL gross 2.53% (from 14.02% at Dec 2025).",
+        "SELF-CHECK: eps x shares_out vs net_profit_attr: 2020 -0.3%, 2021 +5.7% (rights + MESOP; acknowledged), 2022 +7.9% (rights; acknowledged), 2023 -0.4%, 2024 +0.05%, 2025 -0.04%. Year-end price x issued shares equals the AR market capitalisation (e.g. 2025: 230 x 24,740,494,294 = Rp5,690.3bn). LDR = loans/deposits from the FS to 2 dp every year."
+    ]
+}
