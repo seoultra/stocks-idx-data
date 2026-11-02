@@ -1,0 +1,1493 @@
+{
+    "schema": 1,
+    "code": "ARTO",
+    "name": "PT Bank Jago Tbk",
+    "name_short": "Bank Jago",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.jago.com",
+    "ir_url": "https://www.jago.com/id/transparency/hubungan-investor",
+    "kbmi": {
+        "v": 2,
+        "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF p. 502 (printed p. 500), Tabel Pengungkapan Risiko - Key Metrics: 'Modal Inti (Tier 1)' Rp6,389,985 juta at 31 Dec 2025",
+        "note": "Derived from the regulation, not stated by the bank: no AR sentence states Bank Jago's KBMI tier. Tier 1 capital of Rp6.39tn is within the KBMI 2 band (Rp6tn to below Rp14tn, POJK 12/POJK.03/2021). AR2022 (PDF p. 44) and AR2023 (PDF p. 80) benchmark Bank Jago against 'KBMI 2' banks. Tier 1 was Rp6.70tn at end-2024 and Rp6,392,773 juta at 30 Sep 2026 (published report), i.e. only ~6.5% above the KBMI 1/2 boundary."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 1321.057,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 16 (printed p. 14), Ikhtisar Keuangan - Posisi Keuangan, 2019 column, 'Total Aset'",
+                "basis": "consolidated",
+                "note": "Same value in AR2019 PDF p. 6 (as originally reported, 'Bank Artos')."
+            },
+            "loans_gross": {
+                "v": 284.795,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 16 (printed p. 14), Ikhtisar Keuangan - Posisi Keuangan, 2019 column, 'Kredit yang diberikan - bruto'",
+                "basis": "consolidated",
+                "note": "Gross (AR2020 labels it 'bruto'; net 251,671). Same value in AR2019 PDF p. 6."
+            },
+            "deposits": {
+                "v": 599.084,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 16 (printed p. 14), Ikhtisar Keuangan - Posisi Keuangan, 2019 column, 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "'Dana Pihak Ketiga' = current accounts + savings + time deposits (no sharia unit yet). Deposits from other banks excluded."
+            },
+            "equity_attr": {
+                "v": 681.179,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 16 (printed p. 14), Ikhtisar Keuangan - Posisi Keuangan, 2019 column, 'Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No NCI. Includes the capital deposits paid in by the new controlling shareholders MEI and WTT in Dec 2019 ahead of rights issue I (Prospektus PUT I p. 1: 'Bukti Setoran Dana tanggal 27/30 Desember 2019'); equity rose from 115,560 (2018) to 681,179. Same in AR2019 PDF p. 6 (as originally reported)."
+            },
+            "total_equity": {
+                "v": 681.179,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 16 (printed p. 14), Ikhtisar Keuangan - Posisi Keuangan, 2019 column, 'Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 3100,
+                "source_url": "https://assets.jago.com/web-assets/public/annual_report_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 (PT Bank Artos Indonesia Tbk) PDF p. 10 (printed p. 8), Ikhtisar Saham - 'Harga Saham dan Volume Transaksi', 2019 Desember 'PENUTUPAN' Rp3.100, closing date 30-12-19",
+                "basis": "n/a",
+                "share_basis": "2019-12-31",
+                "note": "Closing price as traded on 30 Dec 2019 (last IDX session of 2019; the AR prints the date), i.e. BEFORE rights issue I (ex-date 2020-03-30). share_basis = document date: AR2019 prints no publication date; 2020-04-16 is the PDF creation date (audited FS inside authorised 20 Mar 2020). No split ever, so share_basis changes no adjustment factor. AR2020 PDF p. 20 (printed p. 18) prints the same 2019 Q4 close 3,100 (shares 1,206,250,000). share_basis = period end: the close is as traded on 30 Dec 2019 (before the 2020-03-30 rights issue); AR2019 itself was published 2020-04-16."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": -189.567,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Laba/(Rugi) Komprehensif, 'Jumlah Laba/Rugi yang Dapat Diatribusikan kepada Pemilik'",
+                "basis": "consolidated",
+                "note": "LOSS year (start-up of the digital bank). Same figure in FS2021 comparative (PDF p. 8)."
+            },
+            "eps": {
+                "v": -22.49,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Laba/(Rugi) Komprehensif, 'Laba/Rugi Per Saham (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic loss per share on weighted average 8,430,566,940 shares (FS2021 Note 28, PDF p. 77): rights issue I added 9.65bn shares, listed 2 Apr 2020."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 134 (printed p. 126), Kebijakan Dividen - 'Distribusi Dividen Tahun 2021'",
+                "basis": "n/a",
+                "note": "No dividend: FY2020 was a loss year (accumulated deficit). AR2021: per the Rights Issue II prospectus dividend policy, the Bank 'won't distribute dividends for the years 2020 to 2023'."
+            },
+            "total_assets": {
+                "v": 2179.873,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 16 (printed p. 14), Ikhtisar Keuangan - Posisi Keuangan, 'Total Aset'",
+                "basis": "consolidated",
+                "note": "Same figure as the 2020 comparative in the audited FY2021 FS (FS2021 PDF p. 5)."
+            },
+            "loans_gross": {
+                "v": 907.956,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 16 (printed p. 14), Ikhtisar Keuangan - Posisi Keuangan, 'Kredit yang diberikan - bruto'",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 803.946,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 16 (printed p. 14), Ikhtisar Keuangan - Posisi Keuangan, 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "'Dana Pihak Ketiga' = current accounts + savings + time deposits (no sharia unit yet). Deposits from other banks excluded."
+            },
+            "equity_attr": {
+                "v": 1232.333,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 16 (printed p. 14), Ikhtisar Keuangan - Posisi Keuangan, 'Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 1232.333,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 16 (printed p. 14), Ikhtisar Keuangan - Posisi Keuangan, 'Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10856250000,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 20 (printed p. 18), Ikhtisar Saham, Q4 2020 'Jumlah Saham Beredar'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Also FS2021 PDF p. 7 ('2020: 10.856.250.000 lembar saham'). 1,206,250,000 + 9,650,000,000 rights issue I shares."
+            },
+            "year_end_price": {
+                "v": 4300,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 20 (printed p. 18), Ikhtisar Saham, 2020 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing as printed; AR2021 PDF p. 16 prints the same 4,300. As in AR2021, the high/low columns appear to be last-session values."
+            },
+            "roe": {
+                "v": -18.03,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2023 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 2020 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "Loss year (negative ROE is real). Same values in AR2020/AR2021/AR2022."
+            },
+            "roa": {
+                "v": -11.27,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2023 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 2020 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "Loss year: -11.27% is REAL (pre-tax loss Rp189.6bn while total assets grew from Rp1.3tn to Rp2.2tn), below the validator's plausibility range by nature. Same values in AR2020/AR2021/AR2022."
+            },
+            "nim": {
+                "v": 4.74,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2023 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 2020 column, 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": 10.1,
+                "source_url": "https://assets.jago.com/web-assets/public/3Q_2021_Update_Oct_2021_final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "3Q 2021 Update (Oct 2021) slides PDF p. 8, Ratios, FY'20 'Cost of Credit/Avg. Loan'",
+                "basis": "bank_only",
+                "note": "10.1% is REAL (provision 38,132 on a tiny, fast-growing loan book; denominator = average loans as defined by the bank). Slightly above the validator's plausibility range, not a unit slip."
+            },
+            "npl_gross": {
+                "v": 0,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2023 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 2020 column, 'NPL Gross'",
+                "basis": "bank_only",
+                "note": "NPL was zero at end-2020. Same values in AR2020/AR2021/AR2022."
+            },
+            "npl_net": {
+                "v": 0,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2023 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 2020 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: AR2020/AR2021 ratio tables have no LAR line and the earliest deck with a LAR row (FY2022 Results Update) starts at FY'21; the 3Q21 deck has no LAR row."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "AR2020-AR2023 print 'N/A' for 'CKPN terhadap NPL' in 2020 because NPL was 0.00% (AR2023 PDF p. 14)."
+            },
+            "ldr": {
+                "v": 111.07,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2023 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 2020 column, 'LDR'",
+                "basis": "bank_only",
+                "note": "LDR above 100%: loans funded partly by equity (rights issue proceeds)."
+            },
+            "car": {
+                "v": 91.38,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2023 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 2020 column, 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "91.38% is REAL (after rights issue I, Rp1.33tn, Apr 2020, on a tiny balance sheet); above the validator's plausibility range by nature. Same values in AR2020/AR2021/AR2022."
+            },
+            "cir": {
+                "v": 357.4,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2023 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 2020 column, 'Beban terhadap Pendapatan / Cost-to-Income (CIR)'",
+                "basis": "bank_only",
+                "note": "357.4% is REAL (operating expenses 237,369 vs operating income 89,770 in the start-up year); outside the validator's plausibility range by nature, not a unit slip. Same values in AR2020/AR2021/AR2022."
+            },
+            "bopo": {
+                "v": 261.1,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2023 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 2020 column, 'BOPO'",
+                "basis": "bank_only",
+                "note": "261.1% is REAL (operating expenses far above operating income in the start-up loss year); above the validator's plausibility range by nature."
+            },
+            "casa": {
+                "v": 27.2,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2023 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 2020 column, 'CASA'",
+                "basis": "bank_only"
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 86.024,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS-Bank-Jago-1221-FINAL-COMBINE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 8, 'LABA/(RUGI) BERSIH TAHUN BERJALAN' (all attributable to owners)",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 6.48,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS-Bank-Jago-1221-FINAL-COMBINE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 9, 'Laba/(rugi) per saham dasar dan dilusian (nilai penuh)'; Note 28 (PDF p. 77): weighted average 13,277,410,898 shares (rights issue II listed 10 Mar 2021)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2022-New.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 67 (spread, printed pp. 126-127), Kebijakan Dividen - 'Distribusi Dividen Tahun 2022'",
+                "basis": "n/a",
+                "note": "No dividend out of FY2021 profit (AGMS 11 May 2022); policy: no dividends 2020-2023; accumulated deficit (254,545 at end-2021, FS2021 PDF p. 7)."
+            },
+            "total_assets": {
+                "v": 12312.422,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS-Bank-Jago-1221-FINAL-COMBINE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 5, Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 5368.954,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12 (printed p. 4), Ikhtisar Keuangan 2021 - Posisi Keuangan, 'Kredit Yang Diberikan - Bruto'",
+                "basis": "consolidated",
+                "note": "Loans 3,321,101 + sharia financing 2,047,853 (Rp juta), gross, per FS2021 PDF p. 5; the FS face prints no gross total line, the AR highlight does (label 'Kredit Yang Diberikan - Bruto', includes sharia financing)."
+            },
+            "deposits": {
+                "v": 3677.572,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12 (printed p. 4), Ikhtisar Keuangan 2021 - Posisi Keuangan, 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "'Dana Pihak Ketiga' = current accounts + savings + time deposits incl. temporary syirkah funds (Jago Syariah mudharabah deposits), as printed in the AR highlights; the FS face prints the components only (no DPK total line)."
+            },
+            "equity_attr": {
+                "v": 8249.455,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS-Bank-Jago-1221-FINAL-COMBINE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 7, 'Jumlah ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 8249.455,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS-Bank-Jago-1221-FINAL-COMBINE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 7, 'Jumlah ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 13856250000,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS-Bank-Jago-1221-FINAL-COMBINE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 7, 'Modal ditempatkan dan disetor penuh 13.856.250.000 lembar saham pada 31 Desember 2021'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "No treasury shares (no buyback). Nominal Rp100 since IPO; no split ever."
+            },
+            "year_end_price": {
+                "v": 16000,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 16 (printed p. 8), Ikhtisar Saham 2021, 2021 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing as printed; AR2022 PDF p. 11 prints the same 16,000. The AR2021/AR2022 'high/low' columns look like last-session values, not quarter ranges (AR2023 prints different Q-ranges for 2022); the closing column is consistent across ARs."
+            },
+            "roe": {
+                "v": 1.28,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed (formula not printed in the AR); equals the 'ROE' in the bank's published quarterly report and analyst deck."
+            },
+            "roa": {
+                "v": 0.1,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed (pre-tax ROA per OJK; formula not printed in the AR)."
+            },
+            "nim": {
+                "v": 7.42,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": 3.6,
+                "source_url": "https://assets.jago.com/web-assets/public/Bank-Jago-Updates-FY2022-Results.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 Results Update slides PDF p. 10, Ratios, FY'21 'Cost of Credit/Avg. Loan'",
+                "basis": "bank_only",
+                "note": "Same value in the 1Q22 and 3Q22 decks. No FY2021 deck was found."
+            },
+            "npl_gross": {
+                "v": 0.58,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.04,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 6.4,
+                "source_url": "https://assets.jago.com/web-assets/public/Bank-Jago-Updates-FY2022-Results.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 Results Update slides PDF p. 10, Ratios, FY'21 'LAR'",
+                "basis": "bank_only",
+                "note": "Loan at risk as defined by the bank (deck; the AR ratio table has no LAR line)."
+            },
+            "npl_coverage": {
+                "v": 415.84,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'CKPN terhadap NPL / Loan Loss Coverage'",
+                "basis": "bank_only",
+                "note": "AR2025 restates this series; earlier ARs printed 409.83 (AR2021-AR2024). Stored the AR2025 value (one consistent series); definition change not explained."
+            },
+            "ldr": {
+                "v": 145.86,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'LDR'",
+                "basis": "bank_only",
+                "note": "LDR above 100%: loans funded partly by equity (rights issue proceeds)."
+            },
+            "car": {
+                "v": 169.92,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "169.92% is REAL (after rights issue II, Rp7.03tn, Mar 2021); above the validator's plausibility range by nature."
+            },
+            "cir": {
+                "v": 89.05,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'Beban terhadap Pendapatan / Cost-to-Income (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 98.52,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 45.61,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'CASA'",
+                "basis": "bank_only",
+                "note": "CASA over DPK incl. temporary syirkah funds."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 15.913,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2022-New.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 9 (spread, printed pp. 10-11), Ikhtisar Keuangan - Laba/Rugi, 'Jumlah Laba/Rugi yang Dapat Diatribusikan kepada Pemilik'",
+                "basis": "consolidated",
+                "note": "Same as FS2023 comparative (PDF p. 14)."
+            },
+            "eps": {
+                "v": 1.15,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2022-New.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 9 (spread, printed pp. 10-11), Ikhtisar Keuangan - Laba/Rugi, 'Laba/Rugi Per Saham (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "FS2023 Note 29 (PDF p. 92): weighted average 13,856,250,000 shares, EPS 1.15."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2023 PDF p. 117 (printed p. 115), Kebijakan Dividen - 'Distribusi Dividen Tahun 2023'",
+                "basis": "n/a",
+                "note": "No dividend out of FY2022 profit; policy: no dividends 2020-2023; accumulated deficit 238,575 at end-2022."
+            },
+            "total_assets": {
+                "v": 16965.295,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2022-New.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 9 (spread, printed pp. 10-11), Ikhtisar Keuangan - Posisi Keuangan, 'Total Aset'",
+                "basis": "consolidated",
+                "note": "Audited FY2022 FS not retrieved; same figure as the 2022 comparative in the audited FY2023 FS (FS2023 PDF p. 11)."
+            },
+            "loans_gross": {
+                "v": 9427.987,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2022-New.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 9 (spread, printed pp. 10-11), Ikhtisar Keuangan - Posisi Keuangan, 'Kredit yang diberikan dan pembiayaan syariah - bruto'",
+                "basis": "consolidated",
+                "note": "Same as FS2023 comparative 'Jumlah kredit yang diberikan dan pembiayaan syariah' 9,427,987 (FS2023 PDF p. 11). Sharia financing was a large share in 2022 (sharia income 537,797 vs 242,271 in 2023) and ran down in 2023."
+            },
+            "deposits": {
+                "v": 8274.385,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2022-New.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 9 (spread, printed pp. 10-11), Ikhtisar Keuangan - Posisi Keuangan, 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "'Dana Pihak Ketiga' = current accounts + savings + time deposits incl. temporary syirkah funds (Jago Syariah mudharabah deposits), as printed in the AR highlights; the FS face prints the components only (no DPK total line)."
+            },
+            "equity_attr": {
+                "v": 8263.757,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2022-New.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 9 (spread, printed pp. 10-11), Ikhtisar Keuangan - Posisi Keuangan, 'Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 8263.757,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2022-New.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 9 (spread, printed pp. 10-11), Ikhtisar Keuangan - Posisi Keuangan, 'Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 13856250000,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2022-New.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 11 (spread, printed pp. 14-15), Ikhtisar Saham, Q4 2022 'Jumlah Saham Beredar'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Same count in FS2023 PDF p. 13 (2022 comparative). AR2022 states no corporate actions in 2022."
+            },
+            "year_end_price": {
+                "v": 3720,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2022-New.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 11 (spread, printed pp. 14-15), Ikhtisar Saham, 2022 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing as printed; AR2023 PDF p. 16 prints the same 3,720."
+            },
+            "roe": {
+                "v": 0.21,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed (formula not printed in the AR); equals the 'ROE' in the bank's published quarterly report and analyst deck."
+            },
+            "roa": {
+                "v": 0.14,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed (pre-tax ROA per OJK; formula not printed in the AR)."
+            },
+            "nim": {
+                "v": 10.45,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": 5.3,
+                "source_url": "https://assets.jago.com/web-assets/public/Bank-Jago-Updates-FY2022-Results.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 Results Update slides PDF p. 10, Ratios, FY'22 'Cost of Credit/Avg. Loan'",
+                "basis": "bank_only",
+                "note": "Same value in the FY2023 deck."
+            },
+            "npl_gross": {
+                "v": 1.82,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.55,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 7.7,
+                "source_url": "https://assets.jago.com/web-assets/public/Bank-Jago-Updates-FY2022-Results.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 Results Update slides PDF p. 10, Ratios, FY'22 'LAR'",
+                "basis": "bank_only",
+                "note": "Loan at risk as defined by the bank (deck; the AR ratio table has no LAR line). Same value in the FY2023 deck."
+            },
+            "npl_coverage": {
+                "v": 161.01,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'CKPN terhadap NPL / Loan Loss Coverage'",
+                "basis": "bank_only",
+                "note": "AR2025 restates this series; earlier ARs printed 157.91 (AR2022-AR2024). Stored the AR2025 value (one consistent series); definition change not explained."
+            },
+            "ldr": {
+                "v": 113.76,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'LDR'",
+                "basis": "bank_only",
+                "note": "LDR above 100%: loans funded partly by equity (rights issue proceeds)."
+            },
+            "car": {
+                "v": 82.75,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "82.75% is REAL (excess capital from the 2021 rights issue being deployed); slightly above the validator's plausibility range."
+            },
+            "cir": {
+                "v": 71.67,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'Beban terhadap Pendapatan / Cost-to-Income (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 99.19,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 68.56,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'CASA'",
+                "basis": "bank_only",
+                "note": "CASA over DPK incl. temporary syirkah funds."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 72.362,
+                "source_url": "https://assets.jago.com/web-assets/public/jago-dec23-final-audited-financial-statement.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 14, 'LABA BERSIH TAHUN BERJALAN' (all attributable to owners)",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 5.22,
+                "source_url": "https://assets.jago.com/web-assets/public/jago-dec23-final-audited-financial-statement.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 15, 'LABA PER SAHAM - dasar dan dilusian'; Note 29 (PDF p. 92): weighted average 13,856,250,000 shares; basic = diluted",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://assets.jago.com/web-assets/public/Jago_24IR_24-5_Website.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 109 (printed p. 107), Kebijakan Dividen - 'Distribusi Dividen Tahun 2024'",
+                "basis": "n/a",
+                "note": "AGMS (AR2024 says 25 May 2024; AR2024 PDF p. 178 lists the AGMS on 22 May 2024) allocated FY2023 net profit Rp72.36bn to finance business activities; no dividend and no statutory reserve because retained earnings were still negative (deficit Rp36bn at end-2024)."
+            },
+            "total_assets": {
+                "v": 21295.84,
+                "source_url": "https://assets.jago.com/web-assets/public/jago-dec23-final-audited-financial-statement.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 11, Laporan posisi keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 13020.051,
+                "source_url": "https://assets.jago.com/web-assets/public/jago-dec23-final-audited-financial-statement.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 11, Laporan posisi keuangan, 'Jumlah kredit yang diberikan dan pembiayaan syariah' (before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 12067.195,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Posisi Keuangan, 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "'Dana Pihak Ketiga' = current accounts + savings + time deposits incl. temporary syirkah funds (Jago Syariah mudharabah deposits), as printed in the AR highlights; the FS face prints the components only (no DPK total line)."
+            },
+            "equity_attr": {
+                "v": 8356.792,
+                "source_url": "https://assets.jago.com/web-assets/public/jago-dec23-final-audited-financial-statement.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 13, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 8356.792,
+                "source_url": "https://assets.jago.com/web-assets/public/jago-dec23-final-audited-financial-statement.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 13, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 13856250000,
+                "source_url": "https://assets.jago.com/web-assets/public/jago-dec23-final-audited-financial-statement.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 13, 'Modal ditempatkan dan disetor penuh 13.856.250.000 lembar saham'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "No treasury shares (no buyback). Nominal Rp100 since IPO; no split ever."
+            },
+            "year_end_price": {
+                "v": 2900,
+                "source_url": "https://assets.jago.com/web-assets/public/Annual_Report_Bank_Jago_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 16 (printed p. 14), Ikhtisar Saham, 2023 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing as printed; AR2024 PDF p. 16 prints the same 2,900."
+            },
+            "roe": {
+                "v": 1.02,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed (formula not printed in the AR); equals the 'ROE' in the bank's published quarterly report and analyst deck."
+            },
+            "roa": {
+                "v": 0.49,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed (pre-tax ROA per OJK; formula not printed in the AR)."
+            },
+            "nim": {
+                "v": 9.45,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": 3.6,
+                "source_url": "https://assets.jago.com/web-assets/public/fy2023-bank-jago-analyst-meeting-slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2023 Analyst Meeting slides PDF p. 8, Ratios, FY'23 'Cost of Credit/Avg. Loan'",
+                "basis": "bank_only",
+                "note": "Same value in the FY24 deck."
+            },
+            "npl_gross": {
+                "v": 0.84,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.05,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 5.5,
+                "source_url": "https://assets.jago.com/web-assets/public/fy2023-bank-jago-analyst-meeting-slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2023 Analyst Meeting slides PDF p. 8, Ratios, FY'23 'LAR'",
+                "basis": "bank_only",
+                "note": "Loan at risk as defined by the bank (deck; the AR ratio table has no LAR line)."
+            },
+            "npl_coverage": {
+                "v": 223.45,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'CKPN terhadap NPL / Loan Loss Coverage'",
+                "basis": "bank_only",
+                "note": "AR2025 restates this series; earlier ARs printed 221.37 (AR2023/AR2024). Stored the AR2025 value (one consistent series); definition change not explained."
+            },
+            "ldr": {
+                "v": 107.77,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'LDR'",
+                "basis": "bank_only",
+                "note": "LDR above 100%: loans funded partly by equity (rights issue proceeds)."
+            },
+            "car": {
+                "v": 61.77,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 72.31,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'Beban terhadap Pendapatan / Cost-to-Income (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 95.83,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 65.3,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'CASA'",
+                "basis": "bank_only",
+                "note": "CASA over DPK incl. temporary syirkah funds."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 128.518,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2024_final_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 13, 'LABA BERSIH TAHUN BERJALAN' (all attributable to owners)",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 9.27,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2024_final_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 14, 'LABA PER SAHAM - Dasar (nilai penuh)'; Note 29 (PDF p. 88): weighted average 13,856,757,713 shares; diluted 9.19",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 131 (printed p. 129), Kebijakan Dividen - 'Distribusi Dividen Tahun 2025'",
+                "basis": "n/a",
+                "note": "AGMS 14 May 2025 allocated FY2024 net profit Rp128bn to finance business activities; no dividend, no statutory reserve (retained earnings still in deficit)."
+            },
+            "total_assets": {
+                "v": 28542.712,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2024_final_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 10, Laporan posisi keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 17701.486,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2024_final_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 10, Laporan posisi keuangan, 'Jumlah kredit yang diberikan dan pembiayaan syariah' (before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 18805.83,
+                "source_url": "https://assets.jago.com/web-assets/public/Jago_24IR_24-5_Website.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Posisi Keuangan, 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "'Dana Pihak Ketiga' = current accounts + savings + time deposits incl. temporary syirkah funds (Jago Syariah mudharabah deposits), as printed in the AR highlights; the FS face prints the components only (no DPK total line)."
+            },
+            "equity_attr": {
+                "v": 8518.924,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2024_final_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 12, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 8518.924,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2024_final_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 12, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 13858797100,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2024_final_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 12, 'Modal ditempatkan dan disetor penuh 13.858.797.100 lembar saham'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "No treasury shares (no buyback). Nominal Rp100 since IPO; no split ever."
+            },
+            "year_end_price": {
+                "v": 2430,
+                "source_url": "https://assets.jago.com/web-assets/public/Jago_24IR_24-5_Website.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 16 (printed p. 14), Ikhtisar Saham, 2024 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing as printed; AR2025 PDF p. 16 prints the same 2,430."
+            },
+            "roe": {
+                "v": 1.95,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed (formula not printed in the AR); equals the 'ROE' in the bank's published quarterly report and analyst deck."
+            },
+            "roa": {
+                "v": 0.73,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed (pre-tax ROA per OJK; formula not printed in the AR)."
+            },
+            "nim": {
+                "v": 7.34,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": 1.9,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL%20FY2024%20Analyst%20Meeting%20Slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 Analyst Meeting slides PDF p. 8, Ratios, FY'24 'Cost of Credit/Avg. Loan'",
+                "basis": "bank_only",
+                "note": "Same value in the FY25 deck."
+            },
+            "npl_gross": {
+                "v": 0.16,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 3.8,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL%20FY2024%20Analyst%20Meeting%20Slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 Analyst Meeting slides PDF p. 8, Ratios, FY'24 'LAR'",
+                "basis": "bank_only",
+                "note": "Loan at risk as defined by the bank (deck; the AR ratio table has no LAR line). Same value in the FY25 deck."
+            },
+            "npl_coverage": {
+                "v": 1023.71,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'CKPN terhadap NPL / Loan Loss Coverage'",
+                "basis": "bank_only",
+                "note": "AR2025 restates this series; earlier ARs printed 996.82 (AR2024). Stored the AR2025 value (one consistent series); definition change not explained."
+            },
+            "ldr": {
+                "v": 94.08,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'LDR'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 44.4,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 73.73,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'Beban terhadap Pendapatan / Cost-to-Income (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 92.35,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 52.95,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'CASA'",
+                "basis": "bank_only",
+                "note": "CASA over DPK incl. temporary syirkah funds."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 276.234,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2025_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 14, 'LABA BERSIH TAHUN BERJALAN' (all attributable to owners)",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 19.93,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2025_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 15, 'LABA PER SAHAM - Dasar (nilai penuh)'; Note 30 (PDF p. 94): weighted average 13,861,250,601 shares",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL_LKFS_PT%20Bank%20Jago%20Tbk_30%20Sept%202026_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS 9M2026 PDF p. 8, Laporan perubahan ekuitas 1 Jan-30 Sep 2026 (no dividend line; statutory reserve unchanged at 9,000)",
+                "basis": "n/a",
+                "note": "No cash dividend out of FY2025 profit: the AGMS of 7 May 2026 (FS 9M2026 PDF p. 14) had no dividend agenda/approved no cash dividend (news cross-check: https://www.fortuneidn.com/finance/rupst-bank-jago-tak-bagikan-dividen-angkat-direktur-baru-00-ccw2k-4qnfz3); the 9M2026 statement of changes in equity shows no dividend, and the published 30 Sep 2026 report prints 'Dividen yang dibayarkan -' (PUB 9M2026). First year with positive retained earnings (240,044 at 1 Jan 2026)."
+            },
+            "total_assets": {
+                "v": 36507.347,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2025_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 11, Laporan posisi keuangan, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Bank Jago has no subsidiaries (AR2024/AR2025 'the sole entity covered ... no subsidiaries'); its financial statements are entity-level and stored as 'consolidated' (= whole group)."
+            },
+            "loans_gross": {
+                "v": 24346.604,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2025_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 11, Laporan posisi keuangan, 'Jumlah kredit yang diberikan dan pembiayaan syariah' (before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 25898.491,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Posisi Keuangan, 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "'Dana Pihak Ketiga' = current accounts + savings + time deposits incl. temporary syirkah funds (Jago Syariah mudharabah deposits), as printed in the AR highlights; the FS face prints the components only (no DPK total line)."
+            },
+            "equity_attr": {
+                "v": 8825.93,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2025_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 13, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 8825.93,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2025_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 13, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 13861330900,
+                "source_url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2025_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 13, 'Modal ditempatkan dan disetor penuh 13.861.330.900 lembar saham'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "No treasury shares (no buyback). Nominal Rp100 since IPO; no split ever."
+            },
+            "year_end_price": {
+                "v": 1975,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 16 (printed p. 14), Ikhtisar Saham, 2025 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 4.33,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed (formula not printed in the AR); equals the 'ROE' in the bank's published quarterly report and analyst deck."
+            },
+            "roa": {
+                "v": 1.05,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed (pre-tax ROA per OJK; formula not printed in the AR)."
+            },
+            "nim": {
+                "v": 8.37,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": 4,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL%20FY25%20Analyst%20Meeting%20Slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY25 Analyst Meeting slides PDF p. 8, Ratios, FY'25 'Cost of Credit/Avg. Loan'",
+                "basis": "bank_only",
+                "note": "Provision cost (Rp870bn) to average loans. FY25 deck; the 9M26 deck repeats 4.0."
+            },
+            "npl_gross": {
+                "v": 0.61,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.12,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": 6.6,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL%20FY25%20Analyst%20Meeting%20Slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY25 Analyst Meeting slides PDF p. 8, Ratios, FY'25 'LAR'",
+                "basis": "bank_only",
+                "note": "Loan at risk as defined by the bank (deck; the AR ratio table has no LAR line)."
+            },
+            "npl_coverage": {
+                "v": 380.43,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'CKPN terhadap NPL / Loan Loss Coverage'",
+                "basis": "bank_only",
+                "note": "AR2025 value."
+            },
+            "ldr": {
+                "v": 94.01,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'LDR'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 31.63,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 58.19,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'Beban terhadap Pendapatan / Cost-to-Income (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 90.94,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 49.61,
+                "source_url": "https://assets.jago.com/web-assets/public/ARJAGO2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 14-15 (printed pp. 12-13), Ikhtisar Keuangan - Rasio Keuangan (%), 'CASA'",
+                "basis": "bank_only",
+                "note": "CASA over DPK incl. temporary syirkah funds."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 298.078,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL_LKFS_PT%20Bank%20Jago%20Tbk_30%20Sept%202026_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "FS 9M2026 PDF p. 6, Laporan laba rugi, 'LABA BERSIH PERIODE BERJALAN' (1 Jan-30 Sep 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited interim FS, authorised 28 Oct 2026 (PDF p. 16). No NCI. Basic EPS 9M 21.50 (diluted 21.02)."
+            },
+            "profit_ytd_prior": {
+                "v": 199.133,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL_LKFS_PT%20Bank%20Jago%20Tbk_30%20Sept%202026_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "FS 9M2026 PDF p. 6, comparative column 30 September 2025",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 9138.794,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL_LKFS_PT%20Bank%20Jago%20Tbk_30%20Sept%202026_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "FS 9M2026 PDF p. 5, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No NCI; the published 30 Sep 2026 report prints the same 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK' 9,138,794."
+            },
+            "shares_out": {
+                "v": 13861330900,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL_LKFS_PT%20Bank%20Jago%20Tbk_30%20Sept%202026_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "FS 9M2026 PDF p. 5, 'Modal ditempatkan dan disetor penuh 13.861.330.900 lembar saham'",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "No treasury shares (published report: 'Saham yang dibeli kembali (treasury stock) -')."
+            },
+            "total_assets": {
+                "v": 42102.096,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL_LKFS_PT%20Bank%20Jago%20Tbk_30%20Sept%202026_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "FS 9M2026 PDF p. 3, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "The 31 Dec 2025 comparative here is 36,507,294 vs 36,507,347 in the audited FY2025 FS (a Rp53m presentation reclassification); fy.2025 keeps the audited figure."
+            },
+            "loans_gross": {
+                "v": 27875.616,
+                "source_url": "https://assets.jago.com/web-assets/public/FINAL_LKFS_PT%20Bank%20Jago%20Tbk_30%20Sept%202026_combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "FS 9M2026 PDF p. 3, 'Jumlah kredit yang diberikan dan pembiayaan syariah' (before allowance)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 23465,
+                "source_url": "https://assets.jago.com/web-assets/public/Final%209M26%20Analyst%20Meeting%20Slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "9M 2026 Analyst Meeting slides PDF p. 6, Balance Sheet, Sep '25 'Loans & Syariah Financing' (IDR bn)",
+                "basis": "consolidated",
+                "note": "30 Sep 2025 balance sheet is not in the 9M2026 FS (comparative is 31 Dec 2025) and the 9M2025 FS was not found. Cross-check: OJK published report 30 Sep 2025 (https://assets.jago.com/web-assets/public/LK%20Bank%20Jago%20Sep2025_ID.pdf) prints loans 23,369,917 + sharia financing 95,535 (Rp juta)."
+            },
+            "deposits": {
+                "v": 28856,
+                "source_url": "https://assets.jago.com/web-assets/public/Final%209M26%20Analyst%20Meeting%20Slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M 2026 Analyst Meeting slides PDF p. 6, Balance Sheet, Sep '26 'Customer Deposits' (IDR bn)",
+                "basis": "consolidated",
+                "note": "Neither the FS nor the published report prints a DPK total line. FS 9M2026 PDF p. 4 components (Rp juta): current accounts 5,225,498, savings 10,171,524, time deposits 13,021,434, mudharabah time deposits (temporary syirkah) 437,155 - consistent with the slide total. Same definition as fy.*.deposits."
+            },
+            "deposits_prior": {
+                "v": 23893,
+                "source_url": "https://assets.jago.com/web-assets/public/Final%209M26%20Analyst%20Meeting%20Slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "9M 2026 Analyst Meeting slides PDF p. 6, Balance Sheet, Sep '25 'Customer Deposits' (IDR bn)",
+                "basis": "consolidated",
+                "note": "Cross-check: published report 30 Sep 2025 (https://assets.jago.com/web-assets/public/LK%20Bank%20Jago%20Sep2025_ID.pdf) giro 4,819,046 + tabungan 6,699,554 + simpanan berjangka 12,374,455 (Rp juta)."
+            },
+            "roe": {
+                "v": 6.27,
+                "source_url": "https://assets.jago.com/web-assets/public/LK%20Bank%20Jago%20Q3%20-%20Sep%202026_ID_Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PUB 9M2026 'Perhitungan Rasio Keuangan, Tanggal 30 September 2026 dan 2025', Rasio Kinerja (Bank), 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, annualised; same basis as fy.*.roe. 30 Sep 2025: 4.16."
+            },
+            "roa": {
+                "v": 1.26,
+                "source_url": "https://assets.jago.com/web-assets/public/LK%20Bank%20Jago%20Q3%20-%20Sep%202026_ID_Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PUB 9M2026 'Perhitungan Rasio Keuangan, Tanggal 30 September 2026 dan 2025', Rasio Kinerja (Bank), 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 1.05."
+            },
+            "nim": {
+                "v": 8.6,
+                "source_url": "https://assets.jago.com/web-assets/public/LK%20Bank%20Jago%20Q3%20-%20Sep%202026_ID_Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PUB 9M2026 'Perhitungan Rasio Keuangan, Tanggal 30 September 2026 dan 2025', Rasio Kinerja (Bank), 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 8.31."
+            },
+            "coc": {
+                "v": 4.5,
+                "source_url": "https://assets.jago.com/web-assets/public/Final%209M26%20Analyst%20Meeting%20Slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M 2026 Analyst Meeting slides PDF p. 8, Ratios, 9M'26 'Cost of Credit/Avg. Loan'",
+                "basis": "bank_only",
+                "note": "Annualised 9M figure (provision 883,097 for 9M). 9M'25: 3.9; 3Q'26 quarter: 4.8."
+            },
+            "npl_gross": {
+                "v": 0.87,
+                "source_url": "https://assets.jago.com/web-assets/public/LK%20Bank%20Jago%20Q3%20-%20Sep%202026_ID_Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PUB 9M2026 'Perhitungan Rasio Keuangan, Tanggal 30 September 2026 dan 2025', Rasio Kinerja (Bank), 'NPL gross'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 0.38. NPL net 0.34 (0.04)."
+            },
+            "lar": {
+                "v": 8.65,
+                "source_url": "https://assets.jago.com/web-assets/public/LK%20Bank%20Jago%20Q3%20-%20Sep%202026_ID_Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PUB 9M2026 'Perhitungan Rasio Keuangan, Tanggal 30 September 2026 dan 2025', Rasio Kinerja (Bank), 'Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "KKR (low-quality loans) is the OJK published-report equivalent of loan-at-risk, newly reported under SEOJK 29/SEOJK.03/2025; the 9M26 deck prints LAR 8.7 (PDF p. 8). 30 Sep 2025: 5.93."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for 30 Sep 2026: neither the published report's ratio table nor the 9M26 deck prints NPL coverage (not derived here)."
+            },
+            "ldr": {
+                "v": 96.6,
+                "source_url": "https://assets.jago.com/web-assets/public/LK%20Bank%20Jago%20Q3%20-%20Sep%202026_ID_Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PUB 9M2026 'Perhitungan Rasio Keuangan, Tanggal 30 September 2026 dan 2025', Rasio Kinerja (Bank), 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 98.21."
+            },
+            "car": {
+                "v": 27.54,
+                "source_url": "https://assets.jago.com/web-assets/public/LK%20Bank%20Jago%20Q3%20-%20Sep%202026_ID_Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PUB 9M2026 'Perhitungan Rasio Keuangan, Tanggal 30 September 2026 dan 2025', Rasio Kinerja (Bank), 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 32.86. Tier 1 (CET1) Rp6,392,773 juta."
+            },
+            "cir": {
+                "v": 55.21,
+                "source_url": "https://assets.jago.com/web-assets/public/LK%20Bank%20Jago%20Q3%20-%20Sep%202026_ID_Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PUB 9M2026 'Perhitungan Rasio Keuangan, Tanggal 30 September 2026 dan 2025', Rasio Kinerja (Bank), 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 58.16. BOPO 89.53 (90.86)."
+            },
+            "casa": {
+                "v": 53,
+                "source_url": "https://assets.jago.com/web-assets/public/Final%209M26%20Analyst%20Meeting%20Slides.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M 2026 Analyst Meeting slides PDF p. 4, 'Customer Deposits, IDR tn' chart, Sep '26 CASA label 53%",
+                "basis": "bank_only",
+                "note": "CASA / customer deposits (incl. temporary syirkah); Sep '25: 48%. Slide balance sheet (PDF p. 6): CASA 15,397 of 28,856."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "Rights issue II (3,000,000,000 new shares, ex-date 5 Mar 2021, listed 10 Mar 2021) means FY2021 basic EPS Rp6.48 is computed on weighted-average shares of 13,277,410,898 (audited FS2021 Note 28, PDF p. 77: 86,024 / 13,277,410,898 = 6.48), while shares_out is the year-end 13,856,250,000. The ~4.4% gap is real, not a data error."
+        },
+        {
+            "check": "eps_shares:2020",
+            "reason": "Rights issue I (1 old : 8 new, 9,650,000,000 new shares listed 2 Apr 2020) means the FY2020 basic loss per share of Rp(22.49) is computed on weighted-average shares of 8,430,566,940 (audited FS2021 Note 28 comparative, PDF p. 77: (189,567) / 8,430,566,940 = (22.49)), while shares_out is the year-end 10,856,250,000. The ~29% gap is real (loss year)."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: www.jago.com (and its IR pages under /id/transparency/hubungan-investor) is behind a Cloudflare block for this server; no challenge was bypassed. All PDFs were downloaded DIRECTLY from the bank's own asset host https://assets.jago.com/web-assets/public/ (a public file host that is not blocked). File names for 2025/2026 documents were found via web search and the Internet Archive CDX index of assets.jago.com, plus a few HEAD requests for the bank's established naming pattern. Only HTML pages and logo files from www.jago.com were read through Internet Archive snapshots (see sources.md).",
+        "ENTITY / BASIS: PT Bank Jago Tbk (formerly PT Bank Artos Indonesia Tbk, renamed in 2020; ticker ARTO since the 12 Jan 2016 IPO). Bank Jago has NO subsidiaries, so its (entity) financial statements are the whole group: money figures are stored with basis 'consolidated' as SCHEMA rule 3 requires, ratios with basis 'bank_only' as reported to OJK. Jago Syariah is a sharia business unit (UUS) inside the bank, not a subsidiary; sharia=false (conventional bank).",
+        "DEPOSITS: fy.*.deposits = 'Dana Pihak Ketiga' printed in each AR's Ikhtisar Keuangan, which includes temporary syirkah funds (Jago Syariah mudharabah deposits; AR2021 footnote '* Termasuk Dana Syirkah Temporer'). The audited FS present syirkah funds outside liabilities and print no DPK total. Checks: FY2024 5,095,861 + 4,862,006 + 8,640,542 + 207,421 = 18,805,830; FY2025 4,875,714 + 7,971,747 + 12,749,872 + 301,158 = 25,898,491. LDR and CASA in the AR use the same DPK. loans_gross includes sharia financing (FY2021 sharia financing was 2,047,853 of 5,368,954).",
+        "LOSS YEARS: FY2019 (loss 121,966, Bank Artos) and FY2020 (loss 189,567) are real losses; FY2020 EPS, ROA (-11.27), ROE (-18.03), BOPO (261.1) and CIR (357.4) are negative/extreme by nature. Seven values sit outside the validator's plausibility ranges and are REAL, not unit slips (validator not changed): FY2020 ROA -11.27 (range [-10,10]), CoC 10.1 ([-2,10]), CIR 357.4 ([0,150]), BOPO 261.1 ([0,200]), CAR 91.38 ([5,80]); FY2021 CAR 169.92 and FY2022 CAR 82.75 (excess capital from the rights issues). Profits since 2021 are small (ROE 0.2-4.3%) because equity is large after the rights issues (CAR 169.9% in 2021).",
+        "CORPORATE ACTIONS 2019-01-01 to 2026-11-03: two rights issues only - PMHMETD I (1:8 at Rp139, ex 30 Mar 2020) and PMHMETD II (579:160 at Rp2,350, ex 5 Mar 2021). NO stock split, reverse split or bonus issue: nominal value has been Rp100 since the IPO (AR2025 PDF p. 93 listing chronology; FS 9M2026 PDF p. 5), so no per-share adjustment applies to any figure. Other share changes are NOT rights/bonus issues and are not in corporate_actions: MESOP option exercises (761,200 shares in Jun-Jul 2024 and 4,319,700 in Dec 2024-Jan 2025 at Rp2,150; AR2025 PDF p. 93) took shares from 13,856,250,000 to 13,861,330,900; a new MESOP 2025-2030 programme (capital increase without pre-emptive rights) was approved in 2025 (AR2025 PDF p. 214). Gojek (PT Dompet Karya Anak Bangsa) became a shareholder in Dec 2020 by buying existing shares, not through a placement. AR2022 states no corporate actions in 2022; AR2025 states no buyback in 2025.",
+        "SHARE COUNTS / EPS: year-end shares from the FS share-capital line (FY2021, 2023-2025) or the AR share table (FY2020, FY2022); no treasury shares in any year. EPS x shares matches profit within 0.1% for FY2022-FY2025; FY2020 and FY2021 differ because of the rights issues (weighted-average shares 8,430,566,940 and 13,277,410,898; see validation_ack). share_basis = period end everywhere (no split ever, so the adjuster factor is 1).",
+        "DIVIDENDS: none. Bank Jago has never paid a dividend out of FY2020-FY2025 profit; dividends: [] and payout_ratio v=0 each year with the AR/AGMS source. Reason: accumulated deficit until end-2024 (Rp36.19bn) plus the Rights Issue II prospectus policy of no dividends for 2020-2023. FY2025 is the first year with positive retained earnings (240,044 at 1 Jan 2026), but the AGMS of 7 May 2026 approved no cash dividend (9M2026 statement of changes in equity shows none; news cross-check in the FY2025 payout note).",
+        "RATIO SOURCES: FY2021-FY2025 ratios come from the AR2025 'Rasio Keuangan (%)' table (latest AR, one consistent series; identical to the OJK published December reports for FY2024/FY2025). FY2020 ratios come from AR2023 (latest AR that prints FY2020; identical to AR2020-AR2022). The only series that changed between ARs is NPL coverage ('CKPN terhadap NPL'): AR2025 prints 415.84/161.01/223.45/1,023.71 for 2021-2024, AR2024 printed 409.83/157.91/221.37/996.82 - AR2025 values stored, old values in each note; reason not explained. CoC ('Cost of Credit/Avg. Loan') and LAR are not in the AR tables; they come from the analyst decks (FY25, FY24, FY23, FY22 and 3Q21 decks), rounded to 1 decimal. FY2020 LAR is not disclosed (null).",
+        "YEAR-END PRICES: Q4 'Penutupan' from each AR's share table: 3,100 (2019, AR2019, close dated 30 Dec 2019 = pre-rights-issue-I anchor; share_basis 2020-04-16 = AR2019 PDF date), 4,300 (2020), 16,000 (2021), 3,720 (2022), 2,900 (2023), 2,430 (2024), 1,975 (2025); each confirmed by the next AR. AR2020-AR2022 tables show 'high/low' values that look like last-session values rather than quarterly ranges - only the closing column is used. These should be checked against prices/ARTO.json when it is generated (no price file existed at research time).",
+        "INTERIM = 9M 2026 (30 Sep 2026): unaudited FS authorised 28 Oct 2026 (profit, equity, assets, loans, shares), the OJK-format published report of the same date (ROE, ROA, NIM, NPL, KKR/LAR, LDR, CAR, CIR) and the 9M 2026 analyst deck (deposits, prior-year loans/deposits, CoC, CASA). Deposits/prior balances use the deck because no filing prints the totals (FS components match). NPL coverage for 9M2026 is not disclosed (null). 9M2026 profit Rp298.1bn (+49.7% YoY).",
+        "RESTATEMENTS / MINOR: the 9M2026 FS shows the 31 Dec 2025 total assets as 36,507,294 vs 36,507,347 in the audited FY2025 FS and AR2025 (Rp53m reclassification between assets and liabilities); fy.2025 keeps the audited figure. FY2019 EPS was printed (97.19) in AR2019 and (101.11) in AR2020 (reclassified, AR2020 Note 45); FY2019 needs no EPS here. AR2021 printed FY2021 other operating income 44,129; later ARs print 55,691 (reclassification; not stored). AR2024 gives two AGMS dates for 2024 (25 May on PDF p. 109, 22 May on PDF p. 178).",
+        "REBRAND: Bank Jago and Jago Syariah adopted a simplified new logo effective 11 Jun 2026 (news of the bank's disclosure; website logo files 'logo-jago-re.svg' / 'logo-jago-syariah-re.svg' first archived Jun-Aug 2026; the 30 Sep 2026 published report and 9M26 deck use the new logo, AR2025 and the Dec 2025 report the old one). No change of legal name or ticker. See logo/SOURCE.md.",
+        "SHAREHOLDERS (AR2025 PDF p. 92, Dec 2025): PT Metamorfosis Ekosistem Indonesia 29.79%, PT Dompet Karya Anak Bangsa (GoTo) 21.40%, Wealth Track Technology 11.68%, GIC 9.02%, public 28.11%."
+    ]
+}

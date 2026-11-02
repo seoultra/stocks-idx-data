@@ -353,6 +353,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbtn/"
+        },
+        {
+            "code": "ARTO",
+            "name": "PT Bank Jago Tbk",
+            "name_short": "Bank Jago",
+            "sector": "banking",
+            "group": "digital",
+            "kbmi": 2,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 0,
+            "file": "issuers/ARTO.json",
+            "prices": {
+                "file": "prices/ARTO.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1829,
+                "last_close": 520,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/arto/"
         }
     ]
 }

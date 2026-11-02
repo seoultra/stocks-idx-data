@@ -30,6 +30,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | MEGA | PT Bank Mega Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/MEGA.json](issuers/MEGA.json) | [prices/MEGA.json](prices/MEGA.json) 2019-01-10 → 2026-10-30 |
 | BTPS | PT Bank BTPN Syariah Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BTPS.json](issuers/BTPS.json) | [prices/BTPS.json](prices/BTPS.json) 2019-01-02 → 2026-10-30 |
 | BBTN | PT Bank Tabungan Negara (Persero) Tbk | 3 | FY2020–FY2025 | H1 2026 | [issuers/BBTN.json](issuers/BBTN.json) | [prices/BBTN.json](prices/BBTN.json) 2019-01-02 → 2026-11-02 |
+| ARTO | PT Bank Jago Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/ARTO.json](issuers/ARTO.json) | [prices/ARTO.json](prices/ARTO.json) 2019-01-02 → 2026-11-02 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->
@@ -88,9 +89,12 @@ const index = await (await fetch(base + 'index.json')).json();
 const bbca = await (await fetch(base + index.issuers.find(i => i.code === 'BBCA').file)).json();
 console.log(bbca.fy['2025'].net_profit_attr.v); // IDR billion
 
-// Daily closes on today's share basis (prices are stored as traded; undo splits like this)
+// Daily closes on today's share basis (prices are stored as traded; undo splits, bonus and
+// rights issues like this)
 const px = await (await fetch(base + 'prices/BBCA.json')).json();
-const factor = d => px.splits.filter(s => s.ex_date > d).reduce((f, s) => f * s.factor, 1);
+const rights = (px.source.reversed || []).filter(r => r.type === 'rights');
+const factor = d => px.splits.filter(s => s.ex_date > d).reduce((f, s) => f * s.factor, 1)
+                  / rights.filter(r => r.ex_date > d).reduce((k, r) => k * r.yahoo_factor, 1);
 const closes = px.rows.map(([d, o, h, l, c]) => [d, c / factor(d)]);
 ```
 

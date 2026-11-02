@@ -242,7 +242,11 @@ day (Monday to Friday, WIB): around 09:20 the session's opening price is publish
   series, divide open/high/low/close by `factor` (and multiply volume by it) for every
   split in `splits` whose `ex_date` is after the row's date: 36,600 ÷ 5 = 7,320.
   `splits` always equals the splits for that code in `corporate_actions.json`.
-- Dividends are not adjusted for. Rights issues do not change the factor (rule 4 above).
+- Dividends are not adjusted for. Rights issues are not in `splits` (per-share fundamentals are not
+  rights-adjusted), but a deep-discount rights issue moves the traded price (ARTO 2020-03-30: −81%).
+  For a continuous PRICE series, also multiply open/high/low/close (and divide volume) by each
+  `source.reversed` entry of type `rights` (`yahoo_factor`, measured and checked against the
+  annual-report closes) for rows dated before its `ex_date`. The website does both.
 - `volume` is in shares (not lots) for the regular-market session.
 - `today` exists only while a session is in progress: the opening price, provisional, as
   traded. It is never part of `rows`; use `rows` for anything historical. If the evening

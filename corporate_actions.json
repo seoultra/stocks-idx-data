@@ -2,6 +2,32 @@
     "schema": 1,
     "actions": [
         {
+            "code": "ARTO",
+            "type": "rights",
+            "ratio_old": 1,
+            "ratio_new": 8,
+            "ex_date": "2020-03-30",
+            "exercise_price": 139,
+            "source_url": "https://assets.jago.com/web-assets/public/Prospektus-PUT-I-Bank-Jago-2020-(1).pdf",
+            "source_type": "company_release",
+            "as_of_date": "2020-03-19",
+            "loc": "PDF p. 2, 'JADWAL' ('Tanggal Mulai Perdagangan Saham Tanpa HMETD (Ex-Right) - Pasar Reguler dan Pasar Negosiasi: 30 Maret 2020') and 'PMHMETD I' ratio paragraph",
+            "note": "PMHMETD I (Penawaran Umum Terbatas I) of PT Bank Artos Indonesia Tbk (renamed Bank Jago in 2020): every holder of 1 share on the 31 Mar 2020 register received 8 rights; 1 right = 1 new share (nominal Rp100) at Rp139. EGM 30 Sep 2019; OJK effective 18 Mar 2020; cum (regular & negotiated) 27 Mar 2020, ex 30 Mar 2020; cash-market ex 1 Apr 2020; rights trading/exercise 2-8 Apr 2020; standby buyer PT Trimegah Sekuritas Indonesia Tbk. 9,650,000,000 new shares (1,206,250,000 -> 10,856,250,000; AR2020 PDF p. 21 corporate-action table, AR2025 PDF p. 93 listing chronology); gross Rp1,341.35bn, net proceeds Rp1,326.9bn (AR2025 PDF p. 131). Not a split: no per-share adjustment factor."
+        },
+        {
+            "code": "ARTO",
+            "type": "rights",
+            "ratio_old": 579,
+            "ratio_new": 160,
+            "ex_date": "2021-03-05",
+            "exercise_price": 2350,
+            "source_url": "https://assets.jago.com/web-assets/public/Prospektus-PMHMETD-II-Bank-Jago.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-03-09",
+            "loc": "PDF p. 1 (cover), schedule ('Tanggal Mulai Perdagangan Saham Tanpa HMETD (Ex-Right) - Pasar Reguler dan Negosiasi: 5 Maret 2021') and PMHMETD II ratio paragraph; also PDF p. 12 'Rasio Perbandingan HMETD'",
+            "note": "PMHMETD II (Penawaran Umum Terbatas II): every holder of 579 shares on the 8 Mar 2021 register received 160 rights; 1 right = 1 new share (nominal Rp100) at Rp2,350. EGM 5 Oct 2020; OJK effective 24 Feb 2021; cum (regular & negotiated) 4 Mar 2021, ex 5 Mar 2021; cash-market ex 9 Mar 2021; rights listed/traded/exercised 10-17 Mar 2021; allotment 22 Mar 2021. Shareholder commitments by MEI, PT Dompet Karya Anak Bangsa (Gojek) and WTT; GIC took up rights transferred from MEI/DKAB. 3,000,000,000 new shares (10,856,250,000 -> 13,856,250,000; AR2021 PDF p. 17, AR2025 PDF p. 93); gross Rp7,050bn, net Rp7,033bn (AR2025 PDF p. 131). Short prospectus of 26 Feb 2021 (https://assets.jago.com/web-assets/public/Prospektus-PUT-II-Bank-Jago-2021-(1).pdf) prints the same schedule. Not a split: no per-share adjustment factor."
+        },
+        {
             "code": "BBCA",
             "type": "split",
             "ratio_old": 1,
