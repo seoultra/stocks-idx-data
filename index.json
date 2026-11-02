@@ -653,6 +653,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bjtm/"
+        },
+        {
+            "code": "NOBU",
+            "name": "PT Bank Nationalnobu Tbk",
+            "name_short": "Nobu Bank",
+            "sector": "banking",
+            "group": "private_mid",
+            "kbmi": 1,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 0,
+            "file": "issuers/NOBU.json",
+            "prices": {
+                "file": "prices/NOBU.json",
+                "first_date": "2019-01-03",
+                "last_date": "2026-11-02",
+                "sessions": 1671,
+                "last_close": 394,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/nobu/"
         }
     ]
 }

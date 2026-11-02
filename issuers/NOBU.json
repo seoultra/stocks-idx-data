@@ -1,0 +1,1406 @@
+{
+    "schema": 1,
+    "code": "NOBU",
+    "name": "PT Bank Nationalnobu Tbk",
+    "name_short": "Nobu Bank",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.nobubank.com",
+    "ir_url": "https://www.nobubank.com/id/tentang-nobu-bank/tentang-perseroan/informasi-bagi-investor/",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://www.nobubank.com/documents/1086/Laporan_Tahunan_NOBU_2025_290426_optimize.zip",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 (PDF inside the zip) PDF p. 8: 'memperkuat posisi Perseroan pada Kelompok Bank Berdasarkan Modal Inti (KBMI) I' (also AR2024 PDF p. 60); core capital: Laporan Publikasi 31 Dec 2025 (https://www.nobubank.com/documents/1056/NobuBank_-_Lapkeu_-_Des_2025-final.pdf), 'Laporan Perhitungan KPMM', 'Modal Inti (Tier 1)' 3.906.315 Rp juta",
+        "note": "KBMI 1 = core capital below Rp6tn (POJK 12/POJK.03/2021); Tier 1 at 31 Dec 2025 was Rp3.91tn (visible value; the PDF text layer also holds a superseded 3.918.334). The AR sentence refers to the position reached after the 2023 rights issues; nothing in AR2025 indicates a change of class."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 13147.503,
+                "source_url": "https://www.nobubank.com/documents/14/ANNUAL_REPORT_NOBUBANK_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019, audited FS section, PDF p. 246, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements. Same figure as the 2019 comparative in AR2020's FS (PDF p. 256); no restatement."
+            },
+            "loans_gross": {
+                "v": 7140.003,
+                "source_url": "https://www.nobubank.com/documents/14/ANNUAL_REPORT_NOBUBANK_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019, audited FS section, PDF p. 246, 'Kredit yang diberikan' before allowance: third parties 7,140,003 (only line) (Rp juta)",
+                "basis": "consolidated",
+                "note": "Only a third-party loans line is presented for 2019."
+            },
+            "deposits": {
+                "v": 9026.742,
+                "source_url": "https://www.nobubank.com/documents/14/ANNUAL_REPORT_NOBUBANK_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019, audited FS section, PDF p. 247, 'Simpanan nasabah': related parties 2,562,256 + third parties 6,464,486 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 1464.417,
+                "source_url": "https://www.nobubank.com/documents/14/ANNUAL_REPORT_NOBUBANK_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019, audited FS section, PDF p. 247, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1464.417,
+                "source_url": "https://www.nobubank.com/documents/14/ANNUAL_REPORT_NOBUBANK_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019, audited FS section, PDF p. 247, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "total_assets": {
+                "v": 13737.934,
+                "source_url": "https://www.nobubank.com/documents/15/ANNUAL_REPORT_NOBUBANK_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020, audited FS section, PDF p. 256, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements."
+            },
+            "loans_gross": {
+                "v": 7428.576,
+                "source_url": "https://www.nobubank.com/documents/15/ANNUAL_REPORT_NOBUBANK_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020, audited FS section, PDF p. 256, 'Kredit yang diberikan' before allowance: third parties 7,428,576 (only line) (Rp juta)",
+                "basis": "consolidated",
+                "note": "Only a third-party loans line is presented for 2020 (no related-party line)."
+            },
+            "deposits": {
+                "v": 9734.959,
+                "source_url": "https://www.nobubank.com/documents/15/ANNUAL_REPORT_NOBUBANK_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020, audited FS section, PDF p. 257, 'Simpanan nasabah': related parties 1,983,061 + third parties 7,751,898 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 1519.854,
+                "source_url": "https://www.nobubank.com/documents/15/ANNUAL_REPORT_NOBUBANK_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020, audited FS section, PDF p. 257, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1519.854,
+                "source_url": "https://www.nobubank.com/documents/15/ANNUAL_REPORT_NOBUBANK_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020, audited FS section, PDF p. 257, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 53.607,
+                "source_url": "https://www.nobubank.com/documents/15/ANNUAL_REPORT_NOBUBANK_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020, audited FS section, PDF p. 258, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: the whole net income is attributable to owners."
+            },
+            "eps": {
+                "v": 12.08,
+                "source_url": "https://www.nobubank.com/documents/15/ANNUAL_REPORT_NOBUBANK_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020, audited FS section, PDF p. 259, 'LABA BERSIH PER SAHAM DASAR (dalam rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Weighted average 4,437,912,300 shares."
+            },
+            "shares_out": {
+                "v": 4437912300,
+                "source_url": "https://www.nobubank.com/documents/15/ANNUAL_REPORT_NOBUBANK_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 257 (FS equity: 4.437.912.300 shares issued and fully paid) and PDF p. 354 (Note 22 reconciliation)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not disclosed as a last-session close. Every NOBU annual report (AR2019-AR2025) prints only quarterly figures and footnotes them: 'Harga saham di atas (tertinggi, terendah, penutupan) adalah rata-rata harga selama periode triwulan yang bersangkutan' (high, low and closing are AVERAGES over the quarter). AR2020 PDF p. 15 prints Q4 2020 'Harga Penutupan' 826 with market cap 3,666,943,067,457 (= 826.27 x shares). AR2021 PDF p. 18 adds a second, inconsistent 'Triwulan 4 /2020' row (875/825/825, cap = 825 x shares). No bank document with the actual 31-Dec close was found (prospectuses give monthly high/low only; FS, published reports, registry reports and public-expose decks print no price). Not stored rather than storing an average as a close."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.nobubank.com/documents/558/31_Agustus_2021_RINGKASAN_RISALAH_RUPST.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "Ringkasan Risalah RUPST of 2021-08-27, PDF p. 2, Agenda 2: 'Menyetujui bahwa Perseroan tidak membagikan dividen'",
+                "basis": "consolidated",
+                "note": "No dividend out of FY2020 profit: the AGMS of 2021-08-27 retained the whole net income (a Rp3.5bn general reserve, the rest retained earnings)."
+            },
+            "car": {
+                "v": 22.02,
+                "source_url": "https://www.nobubank.com/documents/133/laporan_keuangan_31_desember_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2020 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '1. Kewajiban Penyediaan Modal Minimum (KPMM)', 31 DES 2020 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "KPMM/CAR incl. credit, market and operational risk. Bank = whole entity (no subsidiaries)."
+            },
+            "npl_gross": {
+                "v": 0.21,
+                "source_url": "https://www.nobubank.com/documents/133/laporan_keuangan_31_desember_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2020 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '5. NPL gross', 31 DES 2020 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Gross NPL. Bank = whole entity (no subsidiaries)."
+            },
+            "npl_net": {
+                "v": 0.17,
+                "source_url": "https://www.nobubank.com/documents/133/laporan_keuangan_31_desember_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2020 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '6. NPL net', 31 DES 2020 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Net NPL. Bank = whole entity (no subsidiaries). AR2021 PDF p. 15 prints 0,18% for 2020; the FY2020 report value is stored."
+            },
+            "roa": {
+                "v": 0.57,
+                "source_url": "https://www.nobubank.com/documents/133/laporan_keuangan_31_desember_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2020 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '7. Return on Asset (ROA)', 31 DES 2020 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROA (profit before tax / average total assets). Bank = whole entity (no subsidiaries)."
+            },
+            "roe": {
+                "v": 3.94,
+                "source_url": "https://www.nobubank.com/documents/133/laporan_keuangan_31_desember_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2020 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '8. Return on Equity (ROE)', 31 DES 2020 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROE (profit after tax / average core capital); the report prints no formula. Bank = whole entity (no subsidiaries)."
+            },
+            "nim": {
+                "v": 3.62,
+                "source_url": "https://www.nobubank.com/documents/133/laporan_keuangan_31_desember_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2020 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '9. Net Interest Margin (NIM)', 31 DES 2020 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK NIM. Bank = whole entity (no subsidiaries)."
+            },
+            "bopo": {
+                "v": 92.16,
+                "source_url": "https://www.nobubank.com/documents/133/laporan_keuangan_31_desember_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2020 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 DES 2020 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income). Bank = whole entity (no subsidiaries)."
+            },
+            "cir": {
+                "v": 87.63,
+                "source_url": "https://www.nobubank.com/documents/133/laporan_keuangan_31_desember_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2020 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '11. Cost to Income Ratio (CIR)', 31 DES 2020 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "CIR as printed, separate line from BOPO. Bank = whole entity (no subsidiaries). CIR is not in the AR ratio tables; the published report is its only source. The Dec-2021 report prints 87,62% as the 2020 comparative."
+            },
+            "ldr": {
+                "v": 76.31,
+                "source_url": "https://www.nobubank.com/documents/133/laporan_keuangan_31_desember_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2020 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '12. Loan to Deposit Ratio (LDR)', 31 DES 2020 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "LDR. Bank = whole entity (no subsidiaries)."
+            },
+            "casa": {
+                "v": 46.56,
+                "source_url": "https://www.nobubank.com/documents/910/ARTWORK_-_29_APRIL_-_FINAL_AR_NOBU_2024_11_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 14, Ikhtisar Keuangan - Rasio Keuangan (2020-2024), 'Current Account Saving Account (CASA)', 2020 column",
+                "basis": "bank_only",
+                "note": "Same 46,56% in AR2021 PDF p. 15 (2021 = 46,01%, 2019 = 54,92%)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2020 / AR2025 ratio tables or MD&A, the 31 Dec 2020 published report, or the public-expose decks (Dec 2023, Dec 2024, Mar 2025). Not computed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no Loan-at-Risk ratio for the bank in the AR ratio tables/MD&A (the LaR figures in AR2023 p. 29 and AR2025 p. 34 are national-industry figures) or the 31 Dec 2020 published report; the OJK 'Kredit Kualitas Rendah (KKR)' line first appears in the 2026 report template (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2020: the AR and the 31 Dec 2020 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL; the public-expose decks give no coverage ratio. Not computed."
+            }
+        },
+        "2021": {
+            "total_assets": {
+                "v": 20742.643,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 audited FS, 2021 comparative column, PDF p. 11, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements. Same figure in the Dec-2021 audited published report (doc 766) and AR2025 PDF p. 16 (no restatement)."
+            },
+            "loans_gross": {
+                "v": 9812.089,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 audited FS, 2021 comparative column, PDF p. 11, 'Kredit yang diberikan' before allowance: related parties 138,132 + third parties 9,673,957 (Rp juta)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 16012.192,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 audited FS, 2021 comparative column, PDF p. 12, 'Simpanan nasabah': related parties 3,948,909 + third parties 12,063,283 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 1764.683,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 audited FS, 2021 comparative column, PDF p. 12, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1764.683,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 audited FS, 2021 comparative column, PDF p. 12, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 64.186,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 audited FS, 2021 comparative column, PDF p. 13, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: the whole net income is attributable to owners (AR2025 PDF p. 16 'Jumlah Laba yang Dapat Didistribusikan Kepada Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 14.46,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 audited FS, 2021 comparative column, PDF p. 14, 'LABA BERSIH PER SAHAM DASAR (dalam rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic EPS on 4,437,912,300 shares (FS2022 Note 34, PDF p. 109): the PMHMETD I shares distributed on 24 Dec 2021 were still booked as 'Dana setoran modal' (advance capital) at 31 Dec 2021. The Dec-2021 published report also prints 14,46. AR2025 PDF p. 17 prints 14,42 for 2021 (not used)."
+            },
+            "shares_out": {
+                "v": 4602279422,
+                "source_url": "https://www.nobubank.com/documents/216/AR_NOBU_BANK_2021_FINAL_LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 18 (printed p. 16), share price table, 'Triwulan 4 /2021' Saham Beredar 4.602.279.422",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Shares outstanding/listed at FY end per the AR: the 164,367,122 PMHMETD I shares were distributed and listed on IDX on 24 Dec 2021. The audited FS still show 4,437,912,300 issued shares at 31 Dec 2021 because the PMHMETD I proceeds (Rp193,167 juta) were booked as 'Dana setoran modal' until the capital increase was registered in 2022 (FS2022 PDF p. 12, p. 15 and Note 23 footnote PDF p. 100). EPS uses 4,437,912,300 (see validation_ack eps_shares:2021)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not disclosed as a last-session close. Every NOBU annual report (AR2019-AR2025) prints only quarterly figures and footnotes them: 'Harga saham di atas (tertinggi, terendah, penutupan) adalah rata-rata harga selama periode triwulan yang bersangkutan' (high, low and closing are AVERAGES over the quarter). AR2021 PDF p. 18 (and AR2022 PDF p. 18, AR2024 PDF p. 16) print Q4 2021 'Penutupan' 710 (market cap = 710 x 4,602,279,422 exactly), under the same 'average price' footnote. No bank document with the actual 31-Dec close was found (prospectuses give monthly high/low only; FS, published reports, registry reports and public-expose decks print no price). Not stored rather than storing an average as a close."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.nobubank.com/documents/539/18_Juli_2022_RINGKASAN_RISALAH_RUPST_2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "Ringkasan Risalah RUPST of 2022-07-14, PDF p. 2, Agenda 2: 'Menyetujui bahwa Perseroan tidak membagikan dividen'",
+                "basis": "consolidated",
+                "note": "No dividend out of FY2021 profit: the AGMS of 2022-07-14 retained the whole net income (a Rp5bn general reserve, the rest retained earnings)."
+            },
+            "car": {
+                "v": 20.91,
+                "source_url": "https://www.nobubank.com/documents/766/LAPORAN_KEUANGAN_NOBU_BANK_31_DES_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2021 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '1. Kewajiban Penyediaan Modal Minimum (KPMM)', 31 DES 2021 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "KPMM/CAR incl. credit, market and operational risk. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "npl_gross": {
+                "v": 0.58,
+                "source_url": "https://www.nobubank.com/documents/766/LAPORAN_KEUANGAN_NOBU_BANK_31_DES_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2021 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '5. NPL gross', 31 DES 2021 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Gross NPL. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "npl_net": {
+                "v": 0.38,
+                "source_url": "https://www.nobubank.com/documents/766/LAPORAN_KEUANGAN_NOBU_BANK_31_DES_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2021 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '6. NPL net', 31 DES 2021 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Net NPL. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "roa": {
+                "v": 0.54,
+                "source_url": "https://www.nobubank.com/documents/766/LAPORAN_KEUANGAN_NOBU_BANK_31_DES_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2021 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '7. Return on Asset (ROA)', 31 DES 2021 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROA (profit before tax / average total assets). Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "roe": {
+                "v": 4.48,
+                "source_url": "https://www.nobubank.com/documents/766/LAPORAN_KEUANGAN_NOBU_BANK_31_DES_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2021 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '8. Return on Equity (ROE)', 31 DES 2021 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROE (profit after tax / average core capital); the report prints no formula. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "nim": {
+                "v": 3.46,
+                "source_url": "https://www.nobubank.com/documents/766/LAPORAN_KEUANGAN_NOBU_BANK_31_DES_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2021 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '9. Net Interest Margin (NIM)', 31 DES 2021 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK NIM. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "bopo": {
+                "v": 91.33,
+                "source_url": "https://www.nobubank.com/documents/766/LAPORAN_KEUANGAN_NOBU_BANK_31_DES_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2021 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 DES 2021 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income). Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "cir": {
+                "v": 78.89,
+                "source_url": "https://www.nobubank.com/documents/766/LAPORAN_KEUANGAN_NOBU_BANK_31_DES_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2021 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '11. Cost to Income Ratio (CIR)', 31 DES 2021 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "CIR as printed, separate line from BOPO. Bank = whole entity (no subsidiaries). CIR is not in the AR ratio tables; the published report is its only source."
+            },
+            "ldr": {
+                "v": 61.28,
+                "source_url": "https://www.nobubank.com/documents/766/LAPORAN_KEUANGAN_NOBU_BANK_31_DES_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2021 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '12. Loan to Deposit Ratio (LDR)', 31 DES 2021 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "LDR. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "casa": {
+                "v": 46.01,
+                "source_url": "https://www.nobubank.com/documents/1086/Laporan_Tahunan_NOBU_2025_290426_optimize.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 (PDF inside the zip: 'Laporan Tahunan NOBU 2025_290426_optimize.pdf') PDF p. 18, Ikhtisar Keuangan - Rasio Keuangan, 'Current Account Saving Account (CASA)'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / dana pihak ketiga, as printed."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2021 / AR2025 ratio tables or MD&A, the 31 Dec 2021 published report, or the public-expose decks (Dec 2023, Dec 2024, Mar 2025). Not computed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no Loan-at-Risk ratio for the bank in the AR ratio tables/MD&A (the LaR figures in AR2023 p. 29 and AR2025 p. 34 are national-industry figures) or the 31 Dec 2021 published report; the OJK 'Kredit Kualitas Rendah (KKR)' line first appears in the 2026 report template (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2021: the AR and the 31 Dec 2021 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL; the public-expose decks give no coverage ratio. Not computed."
+            }
+        },
+        "2022": {
+            "total_assets": {
+                "v": 22116.366,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 audited FS, PDF p. 11, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements."
+            },
+            "loans_gross": {
+                "v": 12409.218,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 audited FS, PDF p. 11, 'Kredit yang diberikan' before allowance: related parties 133,227 + third parties 12,275,991 (Rp juta)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 15075.98,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 audited FS, PDF p. 12, 'Simpanan nasabah': related parties 2,902,142 + third parties 12,173,838 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 1872.6,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 audited FS, PDF p. 12, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1872.6,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 audited FS, PDF p. 12, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 103.845,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 audited FS, PDF p. 13, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: the whole net income is attributable to owners (AR2025 PDF p. 16 'Jumlah Laba yang Dapat Didistribusikan Kepada Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 22.56,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 audited FS, PDF p. 14, 'LABA BERSIH PER SAHAM DASAR (dalam rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Weighted average 4,602,279,422 shares (FS2022 Note 34, PDF p. 109)."
+            },
+            "shares_out": {
+                "v": 4602279422,
+                "source_url": "https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 audited FS PDF p. 12 (equity, issued and fully paid 4,602,279,422 shares) and PDF p. 100 (Note 23 reconciliation of outstanding shares)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid after the PMHMETD I shares were registered in 2022; no treasury shares."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not disclosed as a last-session close. Every NOBU annual report (AR2019-AR2025) prints only quarterly figures and footnotes them: 'Harga saham di atas (tertinggi, terendah, penutupan) adalah rata-rata harga selama periode triwulan yang bersangkutan' (high, low and closing are AVERAGES over the quarter). AR2022 PDF p. 18 / AR2025 PDF p. 20 print Q4 2022 'Penutupan' 568; market cap 2,615,510,797,672 = 568.31 x shares, i.e. an average. No bank document with the actual 31-Dec close was found (prospectuses give monthly high/low only; FS, published reports, registry reports and public-expose decks print no price). Not stored rather than storing an average as a close."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.nobubank.com/documents/563/19_Juni_2023_RINGKASAN_RISALAH_RUPS_NOBU_BANK.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "Ringkasan Risalah RUPST of 2023-06-15, PDF p. 2, Agenda 2: 'Menyetujui bahwa Perseroan tidak membagikan dividen'",
+                "basis": "consolidated",
+                "note": "No dividend out of FY2022 profit: the AGMS of 2023-06-15 retained the whole net income (a Rp5bn general reserve, the rest retained earnings)."
+            },
+            "car": {
+                "v": 18.54,
+                "source_url": "https://www.nobubank.com/documents/366/NobuBank_Lapkeu_Des_2022_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2022 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '1. Kewajiban Penyediaan Modal Minimum (KPMM)', 31 DES 2022 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "KPMM/CAR incl. credit, market and operational risk. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "npl_gross": {
+                "v": 0.41,
+                "source_url": "https://www.nobubank.com/documents/366/NobuBank_Lapkeu_Des_2022_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2022 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '5. NPL gross', 31 DES 2022 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Gross NPL. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "npl_net": {
+                "v": 0.33,
+                "source_url": "https://www.nobubank.com/documents/366/NobuBank_Lapkeu_Des_2022_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2022 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '6. NPL net', 31 DES 2022 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Net NPL. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "roa": {
+                "v": 0.64,
+                "source_url": "https://www.nobubank.com/documents/366/NobuBank_Lapkeu_Des_2022_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2022 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '7. Return on Asset (ROA)', 31 DES 2022 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROA (profit before tax / average total assets). Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "roe": {
+                "v": 6.39,
+                "source_url": "https://www.nobubank.com/documents/366/NobuBank_Lapkeu_Des_2022_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2022 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '8. Return on Equity (ROE)', 31 DES 2022 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROE (profit after tax / average core capital); the report prints no formula. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "nim": {
+                "v": 3.35,
+                "source_url": "https://www.nobubank.com/documents/366/NobuBank_Lapkeu_Des_2022_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2022 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '9. Net Interest Margin (NIM)', 31 DES 2022 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK NIM. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "bopo": {
+                "v": 89.27,
+                "source_url": "https://www.nobubank.com/documents/366/NobuBank_Lapkeu_Des_2022_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2022 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 DES 2022 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income). Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "cir": {
+                "v": 78.14,
+                "source_url": "https://www.nobubank.com/documents/366/NobuBank_Lapkeu_Des_2022_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2022 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '11. Cost to Income Ratio (CIR)', 31 DES 2022 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "CIR as printed, separate line from BOPO. Bank = whole entity (no subsidiaries). CIR is not in the AR ratio tables; the published report is its only source."
+            },
+            "ldr": {
+                "v": 82.52,
+                "source_url": "https://www.nobubank.com/documents/366/NobuBank_Lapkeu_Des_2022_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2022 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '12. Loan to Deposit Ratio (LDR)', 31 DES 2022 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "LDR. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "casa": {
+                "v": 44.9,
+                "source_url": "https://www.nobubank.com/documents/1086/Laporan_Tahunan_NOBU_2025_290426_optimize.zip",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 (PDF inside the zip: 'Laporan Tahunan NOBU 2025_290426_optimize.pdf') PDF p. 18, Ikhtisar Keuangan - Rasio Keuangan, 'Current Account Saving Account (CASA)'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / dana pihak ketiga, as printed."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2022 / AR2025 ratio tables or MD&A, the 31 Dec 2022 published report, or the public-expose decks (Dec 2023, Dec 2024, Mar 2025). Not computed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no Loan-at-Risk ratio for the bank in the AR ratio tables/MD&A (the LaR figures in AR2023 p. 29 and AR2025 p. 34 are national-industry figures) or the 31 Dec 2022 published report; the OJK 'Kredit Kualitas Rendah (KKR)' line first appears in the 2026 report template (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2022: the AR and the 31 Dec 2022 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL; the public-expose decks give no coverage ratio. Not computed."
+            }
+        },
+        "2023": {
+            "total_assets": {
+                "v": 26622.352,
+                "source_url": "https://www.nobubank.com/documents/713/Bank_Nationalnobu_GA_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2023 audited FS, PDF p. 11, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements."
+            },
+            "loans_gross": {
+                "v": 15237.176,
+                "source_url": "https://www.nobubank.com/documents/713/Bank_Nationalnobu_GA_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2023 audited FS, PDF p. 11, 'Kredit yang diberikan' before allowance: related parties 297,241 + third parties 14,939,935 (Rp juta)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 17875.533,
+                "source_url": "https://www.nobubank.com/documents/713/Bank_Nationalnobu_GA_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2023 audited FS, PDF p. 12, 'Simpanan nasabah': related parties 2,589,391 + third parties 15,286,142 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito); excludes deposits from other banks. AR2025 highlight table (PDF p. 16) prints 'Dana Masyarakat' 17.854.872 for 2023; the audited FS total (17,875,533) is stored. AR2025 chart PDF p. 15 shows 17.876."
+            },
+            "equity_attr": {
+                "v": 3335.015,
+                "source_url": "https://www.nobubank.com/documents/713/Bank_Nationalnobu_GA_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2023 audited FS, PDF p. 12, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3335.015,
+                "source_url": "https://www.nobubank.com/documents/713/Bank_Nationalnobu_GA_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2023 audited FS, PDF p. 12, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 141.536,
+                "source_url": "https://www.nobubank.com/documents/713/Bank_Nationalnobu_GA_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2023 audited FS, PDF p. 13, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: the whole net income is attributable to owners (AR2025 PDF p. 16 'Jumlah Laba yang Dapat Didistribusikan Kepada Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 23.05,
+                "source_url": "https://www.nobubank.com/documents/713/Bank_Nationalnobu_GA_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2023 audited FS, PDF p. 13, 'LABA BERSIH PER SAHAM DASAR (dalam rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic EPS on a weighted average of 6,141,180,964 shares (FS2023 Note 33, PDF p. 118): PMHMETD II (+680,999,353 shares, Feb 2023) and PMHMETD III (+2,195,165,124, Aug 2023) were issued during the year; FY-end shares 7,478,443,899."
+            },
+            "shares_out": {
+                "v": 7478443899,
+                "source_url": "https://www.nobubank.com/documents/713/Bank_Nationalnobu_GA_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2023 audited FS PDF p. 12 (equity, issued and fully paid 7,478,443,899 shares) and PDF p. 108 (Note 22)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid after PMHMETD II and III; no treasury shares."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not disclosed as a last-session close. Every NOBU annual report (AR2019-AR2025) prints only quarterly figures and footnotes them: 'Harga saham di atas (tertinggi, terendah, penutupan) adalah rata-rata harga selama periode triwulan yang bersangkutan' (high, low and closing are AVERAGES over the quarter). AR2024 PDF p. 16 / AR2025 PDF p. 20 print Q4 2023 'Penutupan' 762; market cap 5,701,423,182,047 = 762.38 x shares, i.e. an average. No bank document with the actual 31-Dec close was found (prospectuses give monthly high/low only; FS, published reports, registry reports and public-expose decks print no price). Not stored rather than storing an average as a close."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.nobubank.com/documents/894/LAPORAN_KEUANGAN_AUDITAN_NOBU_BANK_31_DEC_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2024 audited FS PDF p. 105, Note 24 'Penggunaan Laba Bersih Tahun 2023' (same text in FY2025 FS PDF p. 99)",
+                "basis": "consolidated",
+                "note": "No dividend out of FY2023 profit: the AGMS of 14 Jun 2024 retained the whole FY2023 net income (Rp141,536 juta; Rp5,000 juta to general reserve). The AGMS summary (doc 755) is an image-only scan, so the FS note is cited."
+            },
+            "car": {
+                "v": 23.48,
+                "source_url": "https://www.nobubank.com/documents/712/NobuBank_LKP_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2023 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '1. Kewajiban Penyediaan Modal Minimum (KPMM)', 31 DES 2023 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "KPMM/CAR incl. credit, market and operational risk. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "npl_gross": {
+                "v": 0.59,
+                "source_url": "https://www.nobubank.com/documents/712/NobuBank_LKP_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2023 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '5. NPL gross', 31 DES 2023 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Gross NPL. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "npl_net": {
+                "v": 0.44,
+                "source_url": "https://www.nobubank.com/documents/712/NobuBank_LKP_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2023 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '6. NPL net', 31 DES 2023 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Net NPL. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "roa": {
+                "v": 0.79,
+                "source_url": "https://www.nobubank.com/documents/712/NobuBank_LKP_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2023 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '7. Return on Asset (ROA)', 31 DES 2023 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROA (profit before tax / average total assets). Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "roe": {
+                "v": 4.88,
+                "source_url": "https://www.nobubank.com/documents/712/NobuBank_LKP_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2023 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '8. Return on Equity (ROE)', 31 DES 2023 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROE (profit after tax / average core capital); the report prints no formula. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "nim": {
+                "v": 3.38,
+                "source_url": "https://www.nobubank.com/documents/712/NobuBank_LKP_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2023 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '9. Net Interest Margin (NIM)', 31 DES 2023 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK NIM. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "bopo": {
+                "v": 89.26,
+                "source_url": "https://www.nobubank.com/documents/712/NobuBank_LKP_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2023 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 DES 2023 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income). Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "cir": {
+                "v": 75.21,
+                "source_url": "https://www.nobubank.com/documents/712/NobuBank_LKP_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2023 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '11. Cost to Income Ratio (CIR)', 31 DES 2023 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "CIR as printed, separate line from BOPO. Bank = whole entity (no subsidiaries). CIR is not in the AR ratio tables; the published report is its only source."
+            },
+            "ldr": {
+                "v": 85.34,
+                "source_url": "https://www.nobubank.com/documents/712/NobuBank_LKP_31_Des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2023 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '12. Loan to Deposit Ratio (LDR)', 31 DES 2023 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "LDR. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "casa": {
+                "v": 40.69,
+                "source_url": "https://www.nobubank.com/documents/1086/Laporan_Tahunan_NOBU_2025_290426_optimize.zip",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 (PDF inside the zip: 'Laporan Tahunan NOBU 2025_290426_optimize.pdf') PDF p. 18, Ikhtisar Keuangan - Rasio Keuangan, 'Current Account Saving Account (CASA)'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / dana pihak ketiga, as printed."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2023 / AR2025 ratio tables or MD&A, the 31 Dec 2023 published report, or the public-expose decks (Dec 2023, Dec 2024, Mar 2025). Not computed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no Loan-at-Risk ratio for the bank in the AR ratio tables/MD&A (the LaR figures in AR2023 p. 29 and AR2025 p. 34 are national-industry figures) or the 31 Dec 2023 published report; the OJK 'Kredit Kualitas Rendah (KKR)' line first appears in the 2026 report template (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2023: the AR and the 31 Dec 2023 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL; the public-expose decks give no coverage ratio. Not computed."
+            }
+        },
+        "2024": {
+            "total_assets": {
+                "v": 33325.801,
+                "source_url": "https://www.nobubank.com/documents/894/LAPORAN_KEUANGAN_AUDITAN_NOBU_BANK_31_DEC_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 audited FS, PDF p. 11, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements."
+            },
+            "loans_gross": {
+                "v": 20184.881,
+                "source_url": "https://www.nobubank.com/documents/894/LAPORAN_KEUANGAN_AUDITAN_NOBU_BANK_31_DEC_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 audited FS, PDF p. 11, 'Kredit yang diberikan' before allowance: related parties 309,783 + third parties 19,875,098 (Rp juta)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 24393.285,
+                "source_url": "https://www.nobubank.com/documents/894/LAPORAN_KEUANGAN_AUDITAN_NOBU_BANK_31_DEC_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 audited FS, PDF p. 12, 'Simpanan nasabah': related parties 3,644,477 + third parties 20,748,808 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3648.833,
+                "source_url": "https://www.nobubank.com/documents/894/LAPORAN_KEUANGAN_AUDITAN_NOBU_BANK_31_DEC_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 audited FS, PDF p. 12, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3648.833,
+                "source_url": "https://www.nobubank.com/documents/894/LAPORAN_KEUANGAN_AUDITAN_NOBU_BANK_31_DEC_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 audited FS, PDF p. 12, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 329,
+                "source_url": "https://www.nobubank.com/documents/894/LAPORAN_KEUANGAN_AUDITAN_NOBU_BANK_31_DEC_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 audited FS, PDF p. 13, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: the whole net income is attributable to owners (AR2025 PDF p. 16 'Jumlah Laba yang Dapat Didistribusikan Kepada Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 43.99,
+                "source_url": "https://www.nobubank.com/documents/894/LAPORAN_KEUANGAN_AUDITAN_NOBU_BANK_31_DEC_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 audited FS, PDF p. 13, 'LABA BERSIH PER SAHAM DASAR (dalam rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Weighted average = 7,478,443,899 shares."
+            },
+            "shares_out": {
+                "v": 7478443899,
+                "source_url": "https://www.nobubank.com/documents/894/LAPORAN_KEUANGAN_AUDITAN_NOBU_BANK_31_DEC_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2024 audited FS PDF p. 12 (equity, issued and fully paid 7,478,443,899 shares) and PDF p. 99 (Note 22)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not disclosed as a last-session close. Every NOBU annual report (AR2019-AR2025) prints only quarterly figures and footnotes them: 'Harga saham di atas (tertinggi, terendah, penutupan) adalah rata-rata harga selama periode triwulan yang bersangkutan' (high, low and closing are AVERAGES over the quarter). AR2024 PDF p. 16 / AR2025 PDF p. 20 print Q4 2024 'Penutupan' 662; market cap 4,950,247,380,886 = 661.94 x shares, i.e. an average. No bank document with the actual 31-Dec close was found (prospectuses give monthly high/low only; FS, published reports, registry reports and public-expose decks print no price). Not stored rather than storing an average as a close."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.nobubank.com/documents/941/RINGKASAN_RISALAH_RUPST__LB_NOBU_BANK_20JUN2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "Ringkasan Risalah RUPST of 2025-06-20, PDF p. 3, Agenda 2: 'Menyetujui bahwa Perseroan tidak membagikan dividen'",
+                "basis": "consolidated",
+                "note": "No dividend out of FY2024 profit: the AGMS of 2025-06-20 retained the whole net income (a Rp5bn general reserve, the rest retained earnings)."
+            },
+            "car": {
+                "v": 23.79,
+                "source_url": "https://www.nobubank.com/documents/893/LAPORAN_KEUANGAN_TRIWULANAN_31_DES_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2024 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '1. Kewajiban Penyediaan Modal Minimum (KPMM)', 31 DES 2024 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "KPMM/CAR incl. credit, market and operational risk. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "npl_gross": {
+                "v": 0.47,
+                "source_url": "https://www.nobubank.com/documents/893/LAPORAN_KEUANGAN_TRIWULANAN_31_DES_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2024 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '5. NPL gross', 31 DES 2024 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Gross NPL. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "npl_net": {
+                "v": 0.35,
+                "source_url": "https://www.nobubank.com/documents/893/LAPORAN_KEUANGAN_TRIWULANAN_31_DES_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2024 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '6. NPL net', 31 DES 2024 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Net NPL. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "roa": {
+                "v": 1.38,
+                "source_url": "https://www.nobubank.com/documents/893/LAPORAN_KEUANGAN_TRIWULANAN_31_DES_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2024 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '7. Return on Asset (ROA)', 31 DES 2024 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROA (profit before tax / average total assets). Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "roe": {
+                "v": 10.16,
+                "source_url": "https://www.nobubank.com/documents/893/LAPORAN_KEUANGAN_TRIWULANAN_31_DES_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2024 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '8. Return on Equity (ROE)', 31 DES 2024 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROE (profit after tax / average core capital); the report prints no formula. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "nim": {
+                "v": 3.74,
+                "source_url": "https://www.nobubank.com/documents/893/LAPORAN_KEUANGAN_TRIWULANAN_31_DES_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2024 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '9. Net Interest Margin (NIM)', 31 DES 2024 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK NIM. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "bopo": {
+                "v": 82.8,
+                "source_url": "https://www.nobubank.com/documents/893/LAPORAN_KEUANGAN_TRIWULANAN_31_DES_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2024 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 DES 2024 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income). Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "cir": {
+                "v": 58.12,
+                "source_url": "https://www.nobubank.com/documents/893/LAPORAN_KEUANGAN_TRIWULANAN_31_DES_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2024 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '11. Cost to Income Ratio (CIR)', 31 DES 2024 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "CIR as printed, separate line from BOPO. Bank = whole entity (no subsidiaries). CIR is not in the AR ratio tables; the published report is its only source."
+            },
+            "ldr": {
+                "v": 82.88,
+                "source_url": "https://www.nobubank.com/documents/893/LAPORAN_KEUANGAN_TRIWULANAN_31_DES_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2024 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '12. Loan to Deposit Ratio (LDR)', 31 DES 2024 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "LDR. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "casa": {
+                "v": 32.34,
+                "source_url": "https://www.nobubank.com/documents/1086/Laporan_Tahunan_NOBU_2025_290426_optimize.zip",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 (PDF inside the zip: 'Laporan Tahunan NOBU 2025_290426_optimize.pdf') PDF p. 18, Ikhtisar Keuangan - Rasio Keuangan, 'Current Account Saving Account (CASA)'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / dana pihak ketiga, as printed."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2024 / AR2025 ratio tables or MD&A, the 31 Dec 2024 published report, or the public-expose decks (Dec 2023, Dec 2024, Mar 2025). Not computed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no Loan-at-Risk ratio for the bank in the AR ratio tables/MD&A (the LaR figures in AR2023 p. 29 and AR2025 p. 34 are national-industry figures) or the 31 Dec 2024 published report; the OJK 'Kredit Kualitas Rendah (KKR)' line first appears in the 2026 report template (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2024: the AR and the 31 Dec 2024 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL; the public-expose decks give no coverage ratio. Not computed."
+            }
+        },
+        "2025": {
+            "total_assets": {
+                "v": 41215.454,
+                "source_url": "https://www.nobubank.com/documents/1054/LAPORAN_KEUANGAN_TAHUNAN_31_DESEMBER_2025_update_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 audited FS, PDF p. 11, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements."
+            },
+            "loans_gross": {
+                "v": 24236.518,
+                "source_url": "https://www.nobubank.com/documents/1054/LAPORAN_KEUANGAN_TAHUNAN_31_DESEMBER_2025_update_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 audited FS, PDF p. 11, 'Kredit yang diberikan' before allowance: related parties 292,567 + third parties 23,943,951 (Rp juta)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 28969.633,
+                "source_url": "https://www.nobubank.com/documents/1054/LAPORAN_KEUANGAN_TAHUNAN_31_DESEMBER_2025_update_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 audited FS, PDF p. 12, 'Simpanan nasabah': related parties 2,535,147 + third parties 26,434,486 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito); excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 4168.262,
+                "source_url": "https://www.nobubank.com/documents/1054/LAPORAN_KEUANGAN_TAHUNAN_31_DESEMBER_2025_update_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 audited FS, PDF p. 12, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity. AR2025 highlight table (PDF p. 16) prints total equity 4.182.876 for 2025, which does not add up (liabilities 37,047,192 + 4,182,876 = 41,230,068 = not total assets 41,215,454); the audited FS figure is stored. AR2025 chart (PDF p. 15) shows 4.168."
+            },
+            "total_equity": {
+                "v": 4168.262,
+                "source_url": "https://www.nobubank.com/documents/1054/LAPORAN_KEUANGAN_TAHUNAN_31_DESEMBER_2025_update_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 audited FS, PDF p. 12, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 481.32,
+                "source_url": "https://www.nobubank.com/documents/1054/LAPORAN_KEUANGAN_TAHUNAN_31_DESEMBER_2025_update_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 audited FS, PDF p. 13, Laporan Laba Rugi, 'LABA NETO TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: the whole net income is attributable to owners (AR2025 PDF p. 16 'Jumlah Laba yang Dapat Didistribusikan Kepada Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 64.36,
+                "source_url": "https://www.nobubank.com/documents/1054/LAPORAN_KEUANGAN_TAHUNAN_31_DESEMBER_2025_update_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 audited FS, PDF p. 13, 'LABA BERSIH PER SAHAM DASAR (dalam rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Weighted average = 7,478,443,899 shares (no share issue, no treasury shares in 2025)."
+            },
+            "shares_out": {
+                "v": 7478443899,
+                "source_url": "https://www.nobubank.com/documents/1054/LAPORAN_KEUANGAN_TAHUNAN_31_DESEMBER_2025_update_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 audited FS PDF p. 12 (equity: 'Modal ditempatkan dan disetor penuh - 7.478.443.899 saham') and PDF p. 97 (Note 22 shareholder table)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid; no treasury shares at 31 Dec 2025 (no buyback in 2025: AR2025 PDF p. 153). Includes 74,784,439 shares (1%) held by PT Putera Mulia Indonesia that are not listed on IDX (PMHMETD III prospectus PDF p. 28)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not disclosed as a last-session close. Every NOBU annual report (AR2019-AR2025) prints only quarterly figures and footnotes them: 'Harga saham di atas (tertinggi, terendah, penutupan) adalah rata-rata harga selama periode triwulan yang bersangkutan' (high, low and closing are AVERAGES over the quarter). AR2025 PDF p. 20 prints Q4 2025 'Penutupan' 511; market cap 3,818,873,312,297 = 510.65 x shares, i.e. an average. No bank document with the actual 31-Dec close was found (prospectuses give monthly high/low only; FS, published reports, registry reports and public-expose decks print no price). Not stored rather than storing an average as a close."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.nobubank.com/documents/1123/NOBU_RINGKASAN_RISALAH_RUPST_2026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "Ringkasan Risalah RUPST of 2026-06-12, PDF p. 4, Agenda 2: 'Menyetujui bahwa Perseroan tidak membagikan dividen'",
+                "basis": "consolidated",
+                "note": "No dividend out of FY2025 profit: the AGMS of 2026-06-12 retained the whole net income (a Rp5bn general reserve, the rest retained earnings)."
+            },
+            "car": {
+                "v": 22.29,
+                "source_url": "https://www.nobubank.com/documents/1056/NobuBank_-_Lapkeu_-_Des_2025-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2025 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '1. Kewajiban Penyediaan Modal Minimum (KPMM)', 31 DES 2025 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "KPMM/CAR incl. credit, market and operational risk. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table). The PDF's text layer also carries superseded figures (22,57% / 22,49%) under the visible 22,29%; the visible value is stored (same in AR2025 PDF p. 18)."
+            },
+            "npl_gross": {
+                "v": 0.44,
+                "source_url": "https://www.nobubank.com/documents/1056/NobuBank_-_Lapkeu_-_Des_2025-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2025 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '5. NPL gross', 31 DES 2025 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Gross NPL. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "npl_net": {
+                "v": 0.32,
+                "source_url": "https://www.nobubank.com/documents/1056/NobuBank_-_Lapkeu_-_Des_2025-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2025 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '6. NPL net', 31 DES 2025 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "Net NPL. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "roa": {
+                "v": 1.67,
+                "source_url": "https://www.nobubank.com/documents/1056/NobuBank_-_Lapkeu_-_Des_2025-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2025 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '7. Return on Asset (ROA)', 31 DES 2025 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROA (profit before tax / average total assets). Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "roe": {
+                "v": 13.07,
+                "source_url": "https://www.nobubank.com/documents/1056/NobuBank_-_Lapkeu_-_Des_2025-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2025 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '8. Return on Equity (ROE)', 31 DES 2025 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK ROE (profit after tax / average core capital); the report prints no formula. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table). The PDF's text layer also carries a superseded 13,17% under the visible 13,07%; the visible value is stored (AR2025 PDF p. 18 and MD&A p. 34 also say 13.07%)."
+            },
+            "nim": {
+                "v": 3.59,
+                "source_url": "https://www.nobubank.com/documents/1056/NobuBank_-_Lapkeu_-_Des_2025-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2025 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '9. Net Interest Margin (NIM)', 31 DES 2025 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "OJK NIM. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "bopo": {
+                "v": 79.93,
+                "source_url": "https://www.nobubank.com/documents/1056/NobuBank_-_Lapkeu_-_Des_2025-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2025 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 DES 2025 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income). Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "cir": {
+                "v": 54.04,
+                "source_url": "https://www.nobubank.com/documents/1056/NobuBank_-_Lapkeu_-_Des_2025-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2025 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '11. Cost to Income Ratio (CIR)', 31 DES 2025 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "CIR as printed, separate line from BOPO. Bank = whole entity (no subsidiaries). CIR is not in the AR ratio tables; the published report is its only source."
+            },
+            "ldr": {
+                "v": 83.68,
+                "source_url": "https://www.nobubank.com/documents/1056/NobuBank_-_Lapkeu_-_Des_2025-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Laporan Publikasi 31 Dec 2025 (single page, PDF p. 1), 'Laporan Rasio Keuangan', '12. Loan to Deposit Ratio (LDR)', 31 DES 2025 column (read from the rendered page)",
+                "basis": "bank_only",
+                "note": "LDR. Bank = whole entity (no subsidiaries). Same value in AR2025 PDF p. 18 (5-year ratio table)."
+            },
+            "casa": {
+                "v": 35.95,
+                "source_url": "https://www.nobubank.com/documents/1086/Laporan_Tahunan_NOBU_2025_290426_optimize.zip",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 (PDF inside the zip: 'Laporan Tahunan NOBU 2025_290426_optimize.pdf') PDF p. 18, Ikhtisar Keuangan - Rasio Keuangan, 'Current Account Saving Account (CASA)'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / dana pihak ketiga, as printed. Consistent with FY2025 FS Note 16 (PDF p. 85): (8,679,063 + 1,741,552) / 28,969,633."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2025 / AR2025 ratio tables or MD&A, the 31 Dec 2025 published report, or the public-expose decks (Dec 2023, Dec 2024, Mar 2025). Not computed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no Loan-at-Risk ratio for the bank in the AR ratio tables/MD&A (the LaR figures in AR2023 p. 29 and AR2025 p. 34 are national-industry figures) or the 31 Dec 2025 published report; the OJK 'Kredit Kualitas Rendah (KKR)' line first appears in the 2026 report template (see interim)."
+            },
+            "npl_coverage": {
+                "v": 222,
+                "source_url": "https://www.nobubank.com/documents/1064/SIARAN_PERS_-_KINERJA_KEUANGAN_2025_FINAL_BAHASA.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "Siaran Pers 'Nobu Bank Bukukan Kinerja Impresif di Tahun 2025' (1 Apr 2026), PDF p. 1: 'Rasio CKPN terhadap NPL sebesar 222%'",
+                "basis": "bank_only",
+                "note": "Allowance (CKPN) / NPL, printed as a whole percent in the FY2025 results press release; not in the AR ratio table."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 550.175,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), Laporan Laba Rugi, 'LABA (RUGI) BERSIH TAHUN BERJALAN', 30 Sep 2026 column (Rp juta 550.175)",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2026. No NCI ('Pemilik' 550.175). 9M2026 EPS printed 73,60. The bank publishes interim FS only for June; 9M figures come from the OJK published report."
+            },
+            "profit_ytd_prior": {
+                "v": 359.878,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), Laporan Laba Rugi comparative column 30 Sep 2025 (Rp juta 359.878)",
+                "basis": "consolidated",
+                "note": "Same 359.878 in the 30 Sep 2025 published report (balance sheet 'Tahun berjalan')."
+            },
+            "equity_attr": {
+                "v": 4686.74,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), Laporan Posisi Keuangan, 'TOTAL EKUITAS' (Rp juta 4.686.740)",
+                "basis": "consolidated",
+                "note": "No NCI. Includes treasury stock of Rp3,015 juta deducted under 'Modal disetor'."
+            },
+            "shares_out": {
+                "v": 7472811499,
+                "source_url": "https://www.nobubank.com/documents/1222/0041_CSIR_-_LAPORAN_REGISTRASI_EFEK_30_SEP_26.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Bulanan Registrasi Pemegang Efek per 30 Sep 2026 (Ref 0041/CSIR/X/2026), PDF p. 2, 'Komposisi Pemegang Saham per 30 September 2026': total 7.478.443.899, of which 'Saham Treasuri' 5.632.400",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Issued 7,478,443,899 less 5,632,400 treasury shares bought back in 2026 (H1-2026 interim FS Note 22, PDF p. 100: 5,632,400 shares, cost Rp3,015 juta). Scanned (image-only) registry report, read visually."
+            },
+            "total_assets": {
+                "v": 44970.655,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 24779.935,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), Laporan Posisi Keuangan, '9. Kredit yang diberikan' (gross; allowance shown separately 279.430)",
+                "basis": "consolidated",
+                "note": "At 31 Dec 2025 the same line equals the audited gross loans (24,236,518 Rp juta)."
+            },
+            "loans_gross_prior": {
+                "v": 21602.849,
+                "source_url": "https://www.nobubank.com/documents/1004/NobuBank_-_Lapkeu_Sep_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2025 (single page, PDF p. 1, unaudited), Laporan Posisi Keuangan, '9. Kredit yang diberikan', 30 SEP 2025 column",
+                "basis": "consolidated",
+                "note": "The Sep-2026 report compares its balance sheet with 31 Dec 2025, so the 30 Sep 2025 level is taken from the Sep-2025 report."
+            },
+            "deposits": {
+                "v": 30918.621,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), Liabilitas: Giro 9.648.157 + Tabungan 1.907.823 + Deposito 19.362.641 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Sum of the three printed components (the OJK format prints no customer-deposit subtotal; 'Uang Elektronik' 1.341 excluded). In this format 31 Dec 2025 sums to 28,959.174 vs 28,969.633 in the audited FS (-0.04%, giro classification)."
+            },
+            "deposits_prior": {
+                "v": 27266.236,
+                "source_url": "https://www.nobubank.com/documents/1004/NobuBank_-_Lapkeu_Sep_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2025 (single page, PDF p. 1, unaudited), Liabilitas: Giro 7.855.849 + Tabungan 1.550.227 + Deposito 17.860.160 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Sum of the three printed components, same method as 'deposits'."
+            },
+            "roe": {
+                "v": 17.81,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), 'Laporan Rasio Keuangan', '9. Return on Equity (ROE)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "Annualised OJK ratio. Bank = whole entity. 30 Sep 2025 column: 13.26%. BOPO 75,32% (Sep 2025: 79,71%)."
+            },
+            "roa": {
+                "v": 2.19,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), 'Laporan Rasio Keuangan', '8. Return on Asset (ROA)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "Annualised OJK ratio. Bank = whole entity. 30 Sep 2025 column: 1.71%."
+            },
+            "nim": {
+                "v": 3.57,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), 'Laporan Rasio Keuangan', '10. Net Interest Margin (NIM)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "Annualised OJK ratio. Bank = whole entity. 30 Sep 2025 column: 3.71%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the 30 Sep 2026 published report prints no cost-of-credit ratio; no 9M2026 presentation or interim FS on nobubank.com (checked 2026-11-03). Not computed."
+            },
+            "npl_gross": {
+                "v": 0.56,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), 'Laporan Rasio Keuangan', '5. NPL gross', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "Bank = whole entity. 30 Sep 2025 column: 0.6%."
+            },
+            "lar": {
+                "v": 8.91,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), 'Laporan Rasio Keuangan', '7. Kredit Kualitas Rendah (KKR)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "OJK 'Kredit Kualitas Rendah' (low-quality loans: special mention + restructured current + NPL over total loans), new in the 2026 report template; taken as the loan-at-risk measure. No formula printed. Not available for FY2020-FY2025. Bank = whole entity. 30 Sep 2025 column: 8.94%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: the 30 Sep 2026 published report prints only 'CKPN aset keuangan terhadap aset produktif' 0,74%, not allowance/NPL. Not computed."
+            },
+            "ldr": {
+                "v": 80.15,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), 'Laporan Rasio Keuangan', '13. Loan to Deposit Ratio (LDR)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "Bank = whole entity. 30 Sep 2025 column: 79.22%."
+            },
+            "car": {
+                "v": 24.73,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), 'Laporan Rasio Keuangan', '1. Kewajiban Penyediaan Modal Minimum (KPMM)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "Bank = whole entity. 30 Sep 2025 column: 24.18%."
+            },
+            "cir": {
+                "v": 51.37,
+                "source_url": "https://www.nobubank.com/documents/1234/NobuBank_-_Laporan_keuangan_Triwulan_-_Sep_26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026 (single page, PDF p. 1, unaudited; values read from the rendered page), 'Laporan Rasio Keuangan', '12. Cost to Income Ratio (CIR)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "Bank = whole entity. 30 Sep 2025 column: 52.89%."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not printed as a ratio in the 30 Sep 2026 published report (components: giro 9.648.157, tabungan 1.907.823, deposito 19.362.641 Rp juta). Not computed."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "The 164,367,122 PMHMETD I shares were distributed and listed on 24 Dec 2021 (so shares_out stores the 4,602,279,422 listed shares, AR2021 PDF p. 18), but the audited FS booked the proceeds as 'Dana setoran modal' and computed basic EPS Rp14.46 on 4,437,912,300 shares (FS2022 Note 34, PDF p. 109 of https://www.nobubank.com/documents/383/1_Bank_Nationalnobu_GA_31_Des_2022.pdf): 14.46 x 4,437,912,300 = Rp64.2bn = reported profit. Real share-count timing difference, not a data error."
+        },
+        {
+            "check": "eps_shares:2023",
+            "reason": "PMHMETD II (+680,999,353 shares, Feb 2023) and PMHMETD III (+2,195,165,124 shares, Aug 2023): FY2023 basic EPS Rp23.05 uses a weighted average of 6,141,180,964 shares (FS2023 Note 33, PDF p. 118 of https://www.nobubank.com/documents/713/Bank_Nationalnobu_GA_31_Des_2023.pdf): 23.05 x 6,141,180,964 = Rp141.6bn = reported profit; FY-end shares are 7,478,443,899."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: every document was downloaded directly from www.nobubank.com (no bot protection). URLs of the form https://www.nobubank.com/documents/<id>/<file> 302-redirect to https://storage.googleapis.com/web-nobu-prod/documents/<file> (the bank's own storage bucket). AR2023 and AR2025 are published only as .zip files containing one PDF; their source_url is the zip and loc names the PDF inside. sources.md lists every file.",
+        "ENTITY / BASIS: Nobu has no subsidiaries, so its audited financial statements are stand-alone ('Laporan Keuangan', not 'konsolidasian'). Money figures carry basis 'consolidated' because they are the entity's only, complete FS (equity attributable = total equity; no NCI). Ratios are OJK ratios from the 31-Dec published reports (bank = whole entity) and carry basis 'bank_only'.",
+        "PUBLISHED-REPORT TEXT LAYERS: the one-page OJK published reports contain overlapping hidden text (e.g. Dec-2025: KPMM 22,57%/22,49%, ROE 13,17%, Modal Inti 3.918.334 under the visible 22,29%, 13,07%, 3.906.315). Every value taken from a published report was read from the page rendered with pdftoppm, not from pdftotext alone; visible values agree with AR2025's 5-year ratio table.",
+        "CORPORATE ACTIONS 2019-2026: three rights issues (PMHMETD I ex 2021-12-08 27:1 at Rp1,205; PMHMETD II ex 2023-02-10 81:12 at Rp592; PMHMETD III ex 2023-08-08 142:59 at Rp410). No stock split, reverse split or bonus issue (AR2025 PDF pp. 21-23 and p. 85 chronology). Earlier private placements (PMTHMETD I 4 Sep 2014, PMTHMETD II 2 Feb 2016, Rp790) are before 2019. None of the rights ex-dates is before 2020-12-31, so fy.2019.year_end_price is not required.",
+        "NOT CORPORATE ACTIONS (for the record): (1) Hanwha Life Insurance Co., Ltd bought 2,991,377,559 existing shares (40%) from PT Prima Cakrawala Sentosa, PT Putera Mulia Indonesia, PT Multipolar, PT Star Pacific, PT Inti Anugerah Pratama, PT Ciptadana Capital and PT Lenox Pasifik Investama (deed 30 Jun 2025; FS2025 Note 22 PDF pp. 97-98) and became controlling shareholder - no new shares. (2) The planned merger with PT Bank MNC Internasional Tbk (BABP; PT MNC Land held 9.99% of NOBU at end-2024) was called off: OJK said on 22 Nov 2025 that it was halted (news: https://finansial.bisnis.com/read/20251122/90/1930838/fix-ojk-ungkap-merger-nobu-mnc-bank-babp-resmi-batal); FS2025 Note 43 (PDF p. 168) only says the bank is 'exploring' a business combination under the bank-consolidation POJK; no merger shares were issued. (3) Share buyback in 2026: 5,632,400 treasury shares (Rp3,015 juta) by 30 Jun 2026, unchanged at 30 Sep 2026 (registry report); none in 2020-2025 (AR2025 p. 153). (4) Dematerialisation notice of 28 Oct 2026 concerns the 74,784,439 scrip shares (1.00%) held by PT Putera Mulia Indonesia that are not listed on IDX.",
+        "YEAR-END PRICES ARE NULL FOR EVERY FY: all NOBU annual reports print quarterly high/low/'penutupan' with the footnote that these are AVERAGES over the quarter; market caps in the same tables are mostly average-price x shares (non-integer per share). Printed Q4 'penutupan': 2020 826 (AR2020; AR2021 also has a second, inconsistent Q4-2020 row with 825), 2021 710, 2022 568, 2023 762, 2024 662, 2025 511. No bank document gives the actual last-session close. A price reviewer must not use these as 31-Dec closes; rights-factor checks for the 2021 and 2023 rights issues need another documented close.",
+        "FY2021 SHARE COUNT: PMHMETD I shares were distributed/listed on 24 Dec 2021, but the audited FS show 4,437,912,300 issued shares at 31 Dec 2021 (proceeds in 'Dana setoran modal' Rp193,167 juta until registration in 2022). shares_out stores the 4,602,279,422 listed shares (AR2021 share table), EPS stays as reported (validation_ack eps_shares:2021).",
+        "DIVIDENDS: NOBU has paid no cash dividend out of any FY2019-FY2025 profit; each AGMS retained the full net income (FY2019: AGMS 24 Jul 2020; FY2020: 27 Aug 2021; FY2021: 14 Jul 2022; FY2022: 15 Jun 2023; FY2023: 14 Jun 2024 per FS2024 Note 24; FY2024: 20 Jun 2025; FY2025: 12 Jun 2026). No interim dividend in 2026 (9M2026 report 'Dividen -'). Hence no dividend records and payout_ratio 0 for FY2020-FY2025.",
+        "AR HIGHLIGHT INCONSISTENCIES (audited FS used instead): AR2025 PDF p. 16 total equity 2025 4.182.876 (FS 4,168,262; the AR figure does not balance); 'Dana Masyarakat' 2023 17.854.872 (FS 17,875,533); AR2025 p. 17 EPS 2021 14,42 (FS 14.46). New-share listing dates differ between AR2025 p. 22-23 (28 Feb / 22 Aug 2023) and p. 85 (23 Feb / 24 Aug 2023). The FS sections inside AR2019 and AR2020 carry a 'Final Draft/March 27, 2019' footer; their FY2019/FY2020 figures equal the audited published reports of 31 Dec 2019/2020.",
+        "RATIOS: FY2020-FY2025 KPMM, NPL gross/net, ROA, ROE, NIM, BOPO, CIR, LDR from each year's 31-Dec published report (as originally printed; for FY2021-FY2025 every one except CIR also appears, identical, in AR2025's 5-year table). CASA from the AR ratio tables. NPL coverage only for FY2025 (222%, results press release 1 Apr 2026). LaR and cost of credit are not disclosed for any FY. The 9M2026 report's new 'Kredit Kualitas Rendah (KKR)' line is stored as interim lar.",
+        "INTERIM 9M2026: from the OJK published report of 30 Sep 2026 (the bank publishes full interim FS only at June). It compares the balance sheet with 31 Dec 2025, so 30 Sep 2025 loans/deposits come from the 30 Sep 2025 report. Deposits = giro + tabungan + deposito as printed (format has no subtotal). shares_out from the BAE registry report of 30 Sep 2026 (net of 5,632,400 treasury shares).",
+        "LOGO: rebrand effective 15 Jun 2026 (red lion 'NOBU NATIONAL BANK' -> green 'nobu' wordmark; announcement page and press release of 23 Jun 2026). AR2025 still shows the old logo. See logo/SOURCE.md.",
+        "SELF-CHECK eps x shares_out vs net_profit_attr: 2020 +0.01%, 2021 +3.68% (acked), 2022 -0.02%, 2023 +21.79% (acked), 2024 -0.01%, 2025 -0.00%. FY2021-FY2025 loans and deposits equal AR2025's 5-year table (PDF p. 16) except the 2023 deposit figure noted above."
+    ]
+}

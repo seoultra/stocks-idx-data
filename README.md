@@ -42,6 +42,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | BSIM | PT Bank Sinarmas Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BSIM.json](issuers/BSIM.json) | [prices/BSIM.json](prices/BSIM.json) 2019-01-03 → 2026-11-02 |
 | AMAR | PT Bank Amar Indonesia Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/AMAR.json](issuers/AMAR.json) | [prices/AMAR.json](prices/AMAR.json) 2020-01-09 → 2026-11-02 |
 | BJTM | PT Bank Pembangunan Daerah Jawa Timur Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BJTM.json](issuers/BJTM.json) | [prices/BJTM.json](prices/BJTM.json) 2019-01-02 → 2026-11-02 |
+| NOBU | PT Bank Nationalnobu Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/NOBU.json](issuers/NOBU.json) | [prices/NOBU.json](prices/NOBU.json) 2019-01-03 → 2026-11-02 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->
