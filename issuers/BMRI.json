@@ -1,0 +1,1647 @@
+{
+    "schema": 1,
+    "code": "BMRI",
+    "name": "PT Bank Mandiri (Persero) Tbk",
+    "name_short": "Bank Mandiri",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bankmandiri.co.id",
+    "ir_url": "https://www.bankmandiri.co.id/web/ir",
+    "kbmi": {
+        "v": 4,
+        "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF p.396 (printed p.394): 'Bank Mandiri is the first KBMI 4 bank in Indonesia to obtain ISO 22301 certification'; also PDF p.14 (printed p.12) 'Champion of Growth Bank, KBMI 4' and PDF p.66 'Bank Group Based on Core Capital 4 category'"
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 1411244.042,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2021 (audited, authorised 27 Jan 2022) PDF p.6-12 (printed p.2-8), Consolidated Statements of Financial Position, column '31 December 2019*) Restated (see Note 69)', Total Assets",
+                "basis": "consolidated",
+                "note": "Restated (FS2021 Note 69) to include BRIS and BNIS after the Feb-2021 BSI merger (common-control pooling). Originally reported FY2019 total assets: Rp1,318,246,335 million (FS2020 PDF p.8)."
+            },
+            "loans_gross": {
+                "v": 944040.016,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2021 (audited, authorised 27 Jan 2022) PDF p.6-12 (printed p.2-8), Consolidated Statements of Financial Position, column '31 December 2019*) Restated (see Note 69)', Loans and sharia receivables/financing (subtotal before allowance)",
+                "basis": "consolidated",
+                "note": "FS line 'Loans and sharia receivables/financing' before allowance (incl. BSI sharia financing; excl. consumer-financing receivables and finance-lease receivables of multifinance subsidiaries, which the analyst decks add into their 'Loans' total). Restated for BSI merger."
+            },
+            "deposits": {
+                "v": null,
+                "note": "Not stored: no consolidated third-party-funds total on the restated (post-BSI-merger) basis is printed for 31 Dec 2019 in any document found (FS2021 prints only the two components separately; the FY2020 deck's Dec-19 TPF of Rp933,125bn is on the ORIGINAL pre-merger basis and is not comparable with FY2020+ restated figures). Summing components would be a derived value."
+            },
+            "equity_attr": {
+                "v": 205065.082,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2021 (audited, authorised 27 Jan 2022) PDF p.6-12 (printed p.2-8), Consolidated Statements of Financial Position, column '31 December 2019*) Restated (see Note 69)', subtotal of equity attributable to the Parent Entity (before non-controlling interests)",
+                "basis": "consolidated",
+                "note": "Restated for BSI merger (includes 'merging entities equity' Rp5,004,875 million)."
+            },
+            "total_equity": {
+                "v": 218852.069,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2021 (audited, authorised 27 Jan 2022) PDF p.6-12 (printed p.2-8), Consolidated Statements of Financial Position, column '31 December 2019*) Restated (see Note 69)', TOTAL EQUITY",
+                "basis": "consolidated",
+                "note": "Restated for BSI merger. Originally reported FY2019 total equity: Rp209,034,525 million (FS2020 PDF p.13)."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 16799.515,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2021 PDF p.15 (printed p.11), Consolidated Statement of Profit or Loss, 'Net income for the year attributable to: Parent Entity', column 2020*) Restated",
+                "basis": "consolidated",
+                "note": "Restated (BSI merger). Originally reported FY2020 PATMI Rp17,119,253 million (FS2020 PDF p.16); the FY2020 dividend (60% payout) was based on the original figure."
+            },
+            "eps": {
+                "v": 360.18,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2021 PDF p.15 (printed p.11), Earnings per share - Basic, column 2020*) Restated",
+                "basis": "consolidated",
+                "share_basis": "2022-01-27",
+                "note": "Pre-split basis (FS2021 authorised 27 Jan 2022, before the Apr-2023 1:2 split). Weighted average shares 46,641,736,666 (FS2021 Note 2aj). Originally reported FY2020 EPS: 367.04."
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2025 PDF p.366 (printed p.364), Dividend Announcement and Payment for Financial Year 2021-2025 (columns = payment year), column 2021 (Audited financial statements 2020)",
+                "basis": "consolidated",
+                "note": "Dividend payout ratio for this FY's profit, as printed; 60% of ORIGINAL FY2020 PATMI Rp17,119.25bn (same table)."
+            },
+            "total_assets": {
+                "v": 1541964.567,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2021 (audited, authorised 27 Jan 2022) PDF p.6-12 (printed p.2-8), Consolidated Statements of Financial Position, column '31 December 2020*) Restated (see Note 69)', Total Assets",
+                "basis": "consolidated",
+                "note": "Restated for BSI merger. Originally reported: Rp1,429,334,484 million (FS2020 PDF p.8)."
+            },
+            "loans_gross": {
+                "v": 942067.687,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2021 (audited, authorised 27 Jan 2022) PDF p.6-12 (printed p.2-8), Consolidated Statements of Financial Position, column '31 December 2020*) Restated (see Note 69)', Loans and sharia receivables/financing (subtotal before allowance)",
+                "basis": "consolidated",
+                "note": "FS line 'Loans and sharia receivables/financing' before allowance (incl. BSI sharia financing; excl. consumer-financing receivables and finance-lease receivables of multifinance subsidiaries, which the analyst decks add into their 'Loans' total). Restated for BSI merger."
+            },
+            "deposits": {
+                "v": 1144640,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2021+Q4+Presentation+%286%29.pdf/c4b81c73-91f4-050f-129d-7c5d73e94c2f?t=1667379695923",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2021 analyst presentation PDF p.22, Balance Sheet Summary (Rp Bn), Third Party Funds, column Dec-20*",
+                "basis": "consolidated",
+                "note": "Consolidated Third Party Funds as printed in the analyst deck balance sheet (= conventional 'deposits from customers' + BSI mudharabah 'temporary syirkah funds - deposits from customers'). Dec-20* = 'Restatement by consolidating BSI into our financials in 2020'. Original pre-merger Dec-20 TPF was Rp1,047,318bn (FY2020 deck p.17)."
+            },
+            "equity_attr": {
+                "v": 189378.464,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2021 (audited, authorised 27 Jan 2022) PDF p.6-12 (printed p.2-8), Consolidated Statements of Financial Position, column '31 December 2020*) Restated (see Note 69)', subtotal of equity attributable to the Parent Entity",
+                "basis": "consolidated",
+                "note": "Restated for BSI merger."
+            },
+            "total_equity": {
+                "v": 204699.668,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2021 (audited, authorised 27 Jan 2022) PDF p.6-12 (printed p.2-8), Consolidated Statements of Financial Position, column '31 December 2020*) Restated (see Note 69)', TOTAL EQUITY",
+                "basis": "consolidated",
+                "note": "Restated for BSI merger. Originally reported: Rp193,796,083 million (FS2020 PDF p.13)."
+            },
+            "shares_out": {
+                "v": 46631266666,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/LF+English+December+%281%29.pdf/3427a91f-667a-b9e0-14a4-38711e0345b7?t=1643361695509",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS2020 PDF p.234 (printed p.229), Note 40a share capital table 'December 31, 2020', subtotal excluding treasury shares (99.92%)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Net of 35,400,000 treasury shares (bought back Mar-Jun 2020). Issued: 46,666,666,666. Pre-split count."
+            },
+            "year_end_price": {
+                "v": 6325,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2025 PDF p.43 (printed p.41), Share Information - Bank Mandiri Shares Price, Volume and Capitalization 2015-2025, Quarter IV 'Closing', 2020",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4-2020 closing price as printed (pre-split, as traded). as_of is FY end; the source does not print the exact last trading date."
+            },
+            "roe": {
+                "v": 9.41,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'RoE - after tax'",
+                "basis": "consolidated",
+                "note": "RoE - after tax; ROE = PATMI / YTD average monthly equity excluding minority interest (deck note a). FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            },
+            "roa": {
+                "v": 1.17,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'RoA - after tax'",
+                "basis": "consolidated",
+                "note": "RoA - after tax (consolidated). FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            },
+            "nim": {
+                "v": 5.11,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'NIM'",
+                "basis": "consolidated",
+                "note": "Consolidated NIM (average monthly balance approach per 3Q26 deck p.28 note). FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            },
+            "coc": {
+                "v": 2.47,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'Cost of Credit'",
+                "basis": "consolidated",
+                "note": "Cost of Credit (consolidated). FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            },
+            "npl_gross": {
+                "v": 3.1,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'NPL Ratio'",
+                "basis": "consolidated",
+                "note": "NPL Ratio (consolidated). FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            },
+            "npl_net": {
+                "v": 0.43,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2105%5D+ANNUAL+REPORT+BMRI+2024+-+SINGLE.pdf/2a9dc368-7465-5d3f-dab1-ca4c1001db57?t=1747897821395",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p.34-35 (printed p.32-33), Financial Ratios (Bank Only), 2020 column, Net NPL",
+                "basis": "bank_only",
+                "note": "Bank-only (regulatory) net NPL; no consolidated net NPL is published in the decks."
+            },
+            "lar": {
+                "v": 21.3,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'Loan at Risk Ratio'",
+                "basis": "consolidated",
+                "note": "Loan at Risk Ratio incl. Covid-restructured loans (consolidated). FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            },
+            "npl_coverage": {
+                "v": 221,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'NPL Coverage'",
+                "basis": "consolidated",
+                "note": "NPL Coverage (consolidated). FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            },
+            "ldr": {
+                "v": 81,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'Loan to Deposit Ratio (LDR) - Bank Entity'",
+                "basis": "consolidated",
+                "note": "'Loan to Deposit Ratio (LDR) - Bank Entity': excludes loans of multi-finance subsidiaries and loans to banks (deck note b); shown in the deck's consolidated table. FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            },
+            "car": {
+                "v": 19.6,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'CAR'",
+                "basis": "consolidated",
+                "note": "CAR (consolidated, as shown in the deck's consolidated table). FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            },
+            "cir": {
+                "v": 47.6,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'Cost to Income Ratio'",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio (consolidated). FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            },
+            "bopo": {
+                "v": 80.03,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2105%5D+ANNUAL+REPORT+BMRI+2024+-+SINGLE.pdf/2a9dc368-7465-5d3f-dab1-ca4c1001db57?t=1747897821395",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p.34-35 (printed p.32-33), Financial Ratios (Bank Only), 2020 column, Operating Expense to Operating Income (BOPO)",
+                "basis": "bank_only",
+                "note": "Bank-only regulatory BOPO."
+            },
+            "casa": {
+                "v": 65.6,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "FY2023 analyst presentation (BMRI 2023 Q4 Presentation) PDF p.29, 'Consistent Improvement in Profitability - Key Ratios (%), Consolidated', column FY20, row 'CASA Ratio'",
+                "basis": "consolidated",
+                "note": "CASA Ratio (consolidated). FY20 column of a 2024 deck = restated incl. BSI; definitions consistent with FY21-FY25 values."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 28028.155,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p.38 (printed p.36), Financial Highlights - Consolidated Statements of Profit or Loss (Rp million), 'Net income for the year attributable to: Parent Entity', 2021",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 601.06,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p.15 (printed p.11), Earnings per share - Basic, 2021",
+                "basis": "consolidated",
+                "share_basis": "2022-01-27",
+                "note": "Pre-split basis. (AR2025 p.38 also prints 601.06 for 2021 unadjusted, next to post-split figures for 2022+; AR2024 p.33 misprints it as '60.06'.)"
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p.366 (printed p.364), Dividend Announcement and Payment for Financial Year 2021-2025 (columns = payment year), column 2022 (Audited financial statements 2021)",
+                "basis": "consolidated",
+                "note": "Dividend payout ratio for this FY's profit, as printed."
+            },
+            "total_assets": {
+                "v": 1725611.128,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), Total Assets, 2021",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1026224.827,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), Loans and Sharia Receivables/Financing (gross, before allowance), 2021",
+                "basis": "consolidated",
+                "note": "FS line 'Loans and sharia receivables/financing' before allowance (incl. BSI sharia financing; excl. consumer-financing receivables and finance-lease receivables of multifinance subsidiaries, which the analyst decks add into their 'Loans' total)."
+            },
+            "deposits": {
+                "v": 1291176,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/4Q22+-+Analyst+Meeting+Long+Form+%286%29.pdf/a4db8323-0de7-e5b5-ec2b-16d97b1435cd?t=1681879443243",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 analyst presentation (4Q22 Analyst Meeting) PDF p.24, Balance Sheet Summary (Rp Bn), Third Party Funds, column Dec-21",
+                "basis": "consolidated",
+                "note": "Consolidated Third Party Funds as printed in the analyst deck balance sheet (= conventional 'deposits from customers' + BSI mudharabah 'temporary syirkah funds - deposits from customers')."
+            },
+            "equity_attr": {
+                "v": 204686.612,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p.12 (printed p.8), Consolidated Statement of Financial Position, subtotal of equity attributable to the Parent Entity, 31 December 2021",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 222111.282,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), TOTAL EQUITY, 2021",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 46631266666,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+1221+-+Audited+Financial+Statements+31+December+2021++%283%29.pdf/1aa9c01c-3332-0a84-139c-89bfc7bf4fd0?t=1675226435994",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p.239 (printed p.235), Note 40a share capital table 31 December 2021, subtotal excluding treasury shares (99.92%)",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Net of 35,400,000 treasury shares. Issued: 46,666,666,666. Pre-split count."
+            },
+            "year_end_price": {
+                "v": 7025,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p.43 (printed p.41), Share Information - Bank Mandiri Shares Price, Volume and Capitalization 2015-2025, Quarter IV 'Closing', 2021",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4-2021 closing price as printed. as_of is FY end; the source does not print the exact last trading date. Pre-split price (as traded)."
+            },
+            "roe": {
+                "v": 14.6,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'RoE - after tax'",
+                "basis": "consolidated",
+                "note": "RoE - after tax; ROE = PATMI / YTD average monthly equity excluding minority interest (deck note a)"
+            },
+            "roa": {
+                "v": 1.72,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'RoA - after tax'",
+                "basis": "consolidated",
+                "note": "RoA - after tax (consolidated)"
+            },
+            "nim": {
+                "v": 5.09,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'NIM'",
+                "basis": "consolidated",
+                "note": "Consolidated NIM (average monthly balance approach per 3Q26 deck p.28 note)"
+            },
+            "coc": {
+                "v": 2.05,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'Cost of Credit'",
+                "basis": "consolidated",
+                "note": "Cost of Credit (consolidated)"
+            },
+            "npl_gross": {
+                "v": 2.72,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'NPL Ratio'",
+                "basis": "consolidated",
+                "note": "NPL Ratio (consolidated)"
+            },
+            "npl_net": {
+                "v": 0.41,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p.39-40 (printed p.37-38), Financial Ratios (Bank Only), Net NPL",
+                "basis": "bank_only",
+                "note": "Bank-only (regulatory) net NPL; no consolidated net NPL is published in the decks."
+            },
+            "lar": {
+                "v": 17.3,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'Loan at Risk Ratio'",
+                "basis": "consolidated",
+                "note": "Loan at Risk Ratio incl. Covid-restructured loans (consolidated)"
+            },
+            "npl_coverage": {
+                "v": 243,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'NPL Coverage'",
+                "basis": "consolidated",
+                "note": "NPL Coverage (consolidated)"
+            },
+            "ldr": {
+                "v": 79,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'Loan to Deposit Ratio (LDR) - Bank Entity'",
+                "basis": "consolidated",
+                "note": "'Loan to Deposit Ratio (LDR) - Bank Entity': excludes loans of multi-finance subsidiaries and loans to banks (deck note b); shown in the deck's consolidated table"
+            },
+            "car": {
+                "v": 19.6,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'CAR'",
+                "basis": "consolidated",
+                "note": "CAR (consolidated, as shown in the deck's consolidated table)"
+            },
+            "cir": {
+                "v": 45.9,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'Cost to Income Ratio'",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio (consolidated)"
+            },
+            "bopo": {
+                "v": 67.26,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p.39-40 (printed p.37-38), Financial Ratios (Bank Only), Operating Expense to Operating Income (BOPO)",
+                "basis": "bank_only",
+                "note": "Bank-only regulatory BOPO."
+            },
+            "casa": {
+                "v": 69.7,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2024 corporate presentation (2024 12 Quarterly - FY24) PDF p.26, 'Key Profitability Ratios, Consolidated', column FY21, row 'CASA Ratio'",
+                "basis": "consolidated",
+                "note": "CASA Ratio (consolidated)"
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 41170.637,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p.38 (printed p.36), Financial Highlights - Consolidated Statements of Profit or Loss (Rp million), 'Net income for the year attributable to: Parent Entity', 2022",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 441.26,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p.38 (printed p.36), Financial Highlights - Consolidated Statements of Profit or Loss (Rp million), 'Basic and Diluted Earnings Per Share Attributable to Equity Holders of The Parent Entity', 2022",
+                "basis": "consolidated",
+                "share_basis": "2026-04-29",
+                "note": "Post-split basis as restated in AR2025 (FS2022 originally reported 882.52 on the pre-split basis)."
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p.366 (printed p.364), Dividend Announcement and Payment for Financial Year 2021-2025 (columns = payment year), column 2023 (Audited financial statements 2022)",
+                "basis": "consolidated",
+                "note": "Dividend payout ratio for this FY's profit, as printed."
+            },
+            "total_assets": {
+                "v": 1992544.687,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), Total Assets, 2022",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1172599.882,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), Loans and Sharia Receivables/Financing (gross, before allowance), 2022",
+                "basis": "consolidated",
+                "note": "FS line 'Loans and sharia receivables/financing' before allowance (incl. BSI sharia financing; excl. consumer-financing receivables and finance-lease receivables of multifinance subsidiaries, which the analyst decks add into their 'Loans' total)."
+            },
+            "deposits": {
+                "v": 1490845,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/BMRI+2023+Q4+Presentation+%2834%29.pdf/62b6af65-6ade-b233-47fe-fb8ad333448b?t=1713353127836",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2023 analyst presentation PDF p.26, Balance Sheet (Rp Bn), Third Party Funds, column Dec-22",
+                "basis": "consolidated",
+                "note": "Consolidated Third Party Funds as printed in the analyst deck balance sheet (= conventional 'deposits from customers' + BSI mudharabah 'temporary syirkah funds - deposits from customers')."
+            },
+            "equity_attr": {
+                "v": 229678.786,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Laporan+Keuangan+PT+Bank+Mandiri+%28Persero%29+Tbk+31+December+2023-Audited+%283%29.pdf/16ad129e-8b51-1802-eeae-62a0423c382e?t=1706868034972",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2023 PDF p.22 (printed p.8), Consolidated Statement of Financial Position, subtotal of equity attributable to owners of the parent, 31 December 2022 comparative",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 252245.455,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), TOTAL EQUITY, 2022",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 46666666666,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFinal%5D+BMRI+1222+-+Audited+Financial+Statements+31+Desember+2022+-+English+Version_signed+%282%29.pdf/46ae53fa-e8ad-24ba-7b04-50ce777bde12?t=1676350164918",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p.243 (printed p.232), Note 40a share capital table 31 December 2022, total (100.00%)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "No treasury shares at 31 Dec 2022 (released in 2022). Pre-split count (split ex-date 2023-04-04)."
+            },
+            "year_end_price": {
+                "v": 9925,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p.43 (printed p.41), Share Information - Bank Mandiri Shares Price, Volume and Capitalization 2015-2025, Quarter IV 'Closing', 2022",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4-2022 closing price as printed. as_of is FY end; the source does not print the exact last trading date. Pre-split price (as traded)."
+            },
+            "roe": {
+                "v": 19.7,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'RoE - after tax'",
+                "basis": "consolidated",
+                "note": "RoE - after tax; ROE = PATMI / YTD average monthly equity excluding minority interest (deck note a)"
+            },
+            "roa": {
+                "v": 2.21,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'RoA - after tax'",
+                "basis": "consolidated",
+                "note": "RoA - after tax (consolidated)"
+            },
+            "nim": {
+                "v": 5.47,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'NIM'",
+                "basis": "consolidated",
+                "note": "Consolidated NIM (average monthly balance approach per 3Q26 deck p.28 note)"
+            },
+            "coc": {
+                "v": 1.44,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'Cost of Credit'",
+                "basis": "consolidated",
+                "note": "Cost of Credit (consolidated)"
+            },
+            "npl_gross": {
+                "v": 1.92,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'NPL Ratio'",
+                "basis": "consolidated",
+                "note": "NPL Ratio (consolidated)"
+            },
+            "npl_net": {
+                "v": 0.26,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p.39-40 (printed p.37-38), Financial Ratios (Bank Only), Net NPL",
+                "basis": "bank_only",
+                "note": "Bank-only (regulatory) net NPL; no consolidated net NPL is published in the decks."
+            },
+            "lar": {
+                "v": 11.9,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'Loan at Risk Ratio'",
+                "basis": "consolidated",
+                "note": "Loan at Risk Ratio incl. Covid-restructured loans (consolidated)"
+            },
+            "npl_coverage": {
+                "v": 285,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'NPL Coverage'",
+                "basis": "consolidated",
+                "note": "NPL Coverage (consolidated)"
+            },
+            "ldr": {
+                "v": 78.3,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'Loan to Deposit Ratio (LDR) - Bank Entity'",
+                "basis": "consolidated",
+                "note": "'Loan to Deposit Ratio (LDR) - Bank Entity': excludes loans of multi-finance subsidiaries and loans to banks (deck note b); shown in the deck's consolidated table"
+            },
+            "car": {
+                "v": 19.7,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'CAR'",
+                "basis": "consolidated",
+                "note": "CAR (consolidated, as shown in the deck's consolidated table)"
+            },
+            "cir": {
+                "v": 42.4,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'Cost to Income Ratio'",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio (consolidated)"
+            },
+            "bopo": {
+                "v": 57.35,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p.39-40 (printed p.37-38), Financial Ratios (Bank Only), Operating Expense to Operating Income (BOPO)",
+                "basis": "bank_only",
+                "note": "Bank-only regulatory BOPO."
+            },
+            "casa": {
+                "v": 73.4,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY22, row 'CASA Ratio'",
+                "basis": "consolidated",
+                "note": "CASA Ratio (consolidated)"
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 55060.057,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p.38 (printed p.36), Financial Highlights - Consolidated Statements of Profit or Loss (Rp million), 'Net income for the year attributable to: Parent Entity', 2023",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 589.93,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p.38 (printed p.36), Financial Highlights - Consolidated Statements of Profit or Loss (Rp million), 'Basic and Diluted Earnings Per Share Attributable to Equity Holders of The Parent Entity', 2023",
+                "basis": "consolidated",
+                "share_basis": "2026-04-29"
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p.366 (printed p.364), Dividend Announcement and Payment for Financial Year 2021-2025 (columns = payment year), column 2024 (Audited financial statements 2023)",
+                "basis": "consolidated",
+                "note": "Dividend payout ratio for this FY's profit, as printed."
+            },
+            "total_assets": {
+                "v": 2174219.449,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), Total Assets, 2023",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1359832.195,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), Loans and Sharia Receivables/Financing (gross, before allowance), 2023",
+                "basis": "consolidated",
+                "note": "FS line 'Loans and sharia receivables/financing' before allowance (incl. BSI sharia financing; excl. consumer-financing receivables and finance-lease receivables of multifinance subsidiaries, which the analyst decks add into their 'Loans' total)."
+            },
+            "deposits": {
+                "v": 1576950,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2024+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY24%29+%284%29.pdf/58fc4a49-5035-4902-53f9-df3ddfd52461?t=1792123421366",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2024 corporate presentation PDF p.23, Balance Sheet (Rp Bn), Third Party Funds, column Dec-23",
+                "basis": "consolidated",
+                "note": "Consolidated Third Party Funds as printed in the analyst deck balance sheet (= conventional 'deposits from customers' + BSI mudharabah 'temporary syirkah funds - deposits from customers')."
+            },
+            "equity_attr": {
+                "v": 260852.784,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Laporan+Keuangan+PT+Bank+Mandiri+%28Persero%29+Tbk+31+December+2023-Audited+%283%29.pdf/16ad129e-8b51-1802-eeae-62a0423c382e?t=1706868034972",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p.22 (printed p.8), Consolidated Statement of Financial Position, subtotal of equity attributable to owners of the parent, 31 December 2023",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 287494.962,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), TOTAL EQUITY, 2023",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 93333333332,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Laporan+Keuangan+PT+Bank+Mandiri+%28Persero%29+Tbk+31+December+2023-Audited+%283%29.pdf/16ad129e-8b51-1802-eeae-62a0423c382e?t=1706868034972",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p.322 (printed p.308), Note 40a share capital table 31 Desember 2023, total (100,00%)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "No treasury shares. Post-split count."
+            },
+            "year_end_price": {
+                "v": 6050,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p.43 (printed p.41), Share Information - Bank Mandiri Shares Price, Volume and Capitalization 2015-2025, Quarter IV 'Closing', 2023",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4-2023 closing price as printed. as_of is FY end; the source does not print the exact last trading date."
+            },
+            "roe": {
+                "v": 23.2,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'RoE - after tax'",
+                "basis": "consolidated",
+                "note": "RoE - after tax; ROE = PATMI / YTD average monthly equity excluding minority interest (deck note a)"
+            },
+            "roa": {
+                "v": 2.64,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'RoA - after tax'",
+                "basis": "consolidated",
+                "note": "RoA - after tax (consolidated)"
+            },
+            "nim": {
+                "v": 5.48,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'NIM'",
+                "basis": "consolidated",
+                "note": "Consolidated NIM (average monthly balance approach per 3Q26 deck p.28 note)"
+            },
+            "coc": {
+                "v": 0.85,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'Cost of Credit'",
+                "basis": "consolidated",
+                "note": "Cost of Credit (consolidated)"
+            },
+            "npl_gross": {
+                "v": 1.19,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'NPL Ratio'",
+                "basis": "consolidated",
+                "note": "NPL Ratio (consolidated)"
+            },
+            "npl_net": {
+                "v": 0.29,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p.39-40 (printed p.37-38), Financial Ratios (Bank Only), Net NPL",
+                "basis": "bank_only",
+                "note": "Bank-only (regulatory) net NPL; no consolidated net NPL is published in the decks."
+            },
+            "lar": {
+                "v": 8.62,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'Loan at Risk Ratio'",
+                "basis": "consolidated",
+                "note": "Loan at Risk Ratio incl. Covid-restructured loans (consolidated)"
+            },
+            "npl_coverage": {
+                "v": 326,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'NPL Coverage'",
+                "basis": "consolidated",
+                "note": "NPL Coverage (consolidated)"
+            },
+            "ldr": {
+                "v": 85.8,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'Loan to Deposit Ratio (LDR) - Bank Entity'",
+                "basis": "consolidated",
+                "note": "'Loan to Deposit Ratio (LDR) - Bank Entity': excludes loans of multi-finance subsidiaries and loans to banks (deck note b); shown in the deck's consolidated table"
+            },
+            "car": {
+                "v": 22,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'CAR'",
+                "basis": "consolidated",
+                "note": "CAR (consolidated, as shown in the deck's consolidated table)"
+            },
+            "cir": {
+                "v": 38.8,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'Cost to Income Ratio'",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio (consolidated)"
+            },
+            "bopo": {
+                "v": 51.88,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p.39-40 (printed p.37-38), Financial Ratios (Bank Only), Operating Expense to Operating Income (BOPO)",
+                "basis": "bank_only",
+                "note": "Bank-only regulatory BOPO."
+            },
+            "casa": {
+                "v": 74.3,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY23, row 'CASA Ratio'",
+                "basis": "consolidated",
+                "note": "CASA Ratio (consolidated)"
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 55782.742,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p.38 (printed p.36), Financial Highlights - Consolidated Statements of Profit or Loss (Rp million), 'Net income for the year attributable to: Parent Entity', 2024",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 597.67,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p.38 (printed p.36), Financial Highlights - Consolidated Statements of Profit or Loss (Rp million), 'Basic and Diluted Earnings Per Share Attributable to Equity Holders of The Parent Entity', 2024",
+                "basis": "consolidated",
+                "share_basis": "2026-04-29"
+            },
+            "payout_ratio": {
+                "v": 78,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p.366 (printed p.364), Dividend Announcement and Payment for Financial Year 2021-2025 (columns = payment year), column 2025 (Audited financial statements 2024)",
+                "basis": "consolidated",
+                "note": "Dividend payout ratio for this FY's profit, as printed."
+            },
+            "total_assets": {
+                "v": 2427223.262,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), Total Assets, 2024",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1623216.612,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), Loans and Sharia Receivables/Financing (gross, before allowance), 2024",
+                "basis": "consolidated",
+                "note": "FS line 'Loans and sharia receivables/financing' before allowance (incl. BSI sharia financing; excl. consumer-financing receivables and finance-lease receivables of multifinance subsidiaries, which the analyst decks add into their 'Loans' total)."
+            },
+            "deposits": {
+                "v": 1698897,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation PDF p.19, Consolidated balance sheet summary (Rp Bn), Third Party Funds, column Dec-24",
+                "basis": "consolidated",
+                "note": "Consolidated Third Party Funds as printed in the analyst deck balance sheet (= conventional 'deposits from customers' + BSI mudharabah 'temporary syirkah funds - deposits from customers')."
+            },
+            "equity_attr": {
+                "v": 283796.429,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Bank+Mandiri+%28Persero%29_billingual_Tbk+31+Dec+2025_released+-+unlock+%283%29.pdf/9e5d31d4-8122-e7b1-83a3-bd5c0a0ea2da?t=1770371054847",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2025 PDF p.29 (printed p.8), Consolidated Statement of Financial Position, subtotal of equity attributable to owners of the parent, 31 December 2024 comparative",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 313474.681,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), TOTAL EQUITY, 2024",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 93333333332,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Laporan+Keuangan+Konsolidasian+Bank+Mandiri+-+Audit+31+Desember+2024+%283%29.pdf/c78befa6-b57d-680b-af06-0e043918e8a8?t=1738833775414",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p.317 (printed p.302), Note 40a share capital table 31 Desember 2024, total (100,00%)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 5700,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p.43 (printed p.41), Share Information - Bank Mandiri Shares Price, Volume and Capitalization 2015-2025, Quarter IV 'Closing', 2024",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4-2024 closing price as printed. as_of is FY end; the source does not print the exact last trading date."
+            },
+            "roe": {
+                "v": 21.2,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'RoE - after tax'",
+                "basis": "consolidated",
+                "note": "RoE - after tax; ROE = PATMI / YTD average monthly equity excluding minority interest (deck note a)"
+            },
+            "roa": {
+                "v": 2.42,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'RoA - after tax'",
+                "basis": "consolidated",
+                "note": "RoA - after tax (consolidated)"
+            },
+            "nim": {
+                "v": 5.15,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'NIM'",
+                "basis": "consolidated",
+                "note": "Consolidated NIM (average monthly balance approach per 3Q26 deck p.28 note)"
+            },
+            "coc": {
+                "v": 0.79,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'Cost of Credit'",
+                "basis": "consolidated",
+                "note": "Cost of Credit (consolidated)"
+            },
+            "npl_gross": {
+                "v": 1.12,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'NPL Ratio'",
+                "basis": "consolidated",
+                "note": "NPL Ratio (consolidated)"
+            },
+            "npl_net": {
+                "v": 0.33,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p.39-40 (printed p.37-38), Financial Ratios (Bank Only), Net NPL",
+                "basis": "bank_only",
+                "note": "Bank-only (regulatory) net NPL; no consolidated net NPL is published in the decks."
+            },
+            "lar": {
+                "v": 6.76,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'Loan at Risk Ratio'",
+                "basis": "consolidated",
+                "note": "Loan at Risk Ratio incl. Covid-restructured loans (consolidated)"
+            },
+            "npl_coverage": {
+                "v": 271,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'NPL Coverage'",
+                "basis": "consolidated",
+                "note": "NPL Coverage (consolidated)"
+            },
+            "ldr": {
+                "v": 95.1,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'Loan to Deposit Ratio (LDR) - Bank Entity'",
+                "basis": "consolidated",
+                "note": "'Loan to Deposit Ratio (LDR) - Bank Entity': excludes loans of multi-finance subsidiaries and loans to banks (deck note b); shown in the deck's consolidated table"
+            },
+            "car": {
+                "v": 20.8,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'CAR'",
+                "basis": "consolidated",
+                "note": "CAR (consolidated, as shown in the deck's consolidated table)"
+            },
+            "cir": {
+                "v": 40,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'Cost to Income Ratio'",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio (consolidated)"
+            },
+            "bopo": {
+                "v": 56.46,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p.39-40 (printed p.37-38), Financial Ratios (Bank Only), Operating Expense to Operating Income (BOPO)",
+                "basis": "bank_only",
+                "note": "Bank-only regulatory BOPO."
+            },
+            "casa": {
+                "v": 74.8,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY24, row 'CASA Ratio'",
+                "basis": "consolidated",
+                "note": "CASA Ratio (consolidated)"
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 56293.95,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p.38 (printed p.36), Financial Highlights - Consolidated Statements of Profit or Loss (Rp million), 'Net income for the year attributable to: Parent Entity', 2025",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 603.23,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p.38 (printed p.36), Financial Highlights - Consolidated Statements of Profit or Loss (Rp million), 'Basic and Diluted Earnings Per Share Attributable to Equity Holders of The Parent Entity', 2025",
+                "basis": "consolidated",
+                "share_basis": "2026-04-29"
+            },
+            "payout_ratio": {
+                "v": 79,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "3Q26 analyst meeting PDF p.36, 'Capital Structure, Dividend Payout and Returns (Bank-Only)' chart, Dividend Payout Ratio row, column 2025",
+                "basis": "consolidated",
+                "note": "Dividend payout ratio for this FY's profit, as printed (interim Rp100 + final Rp376.956938949 per share; total Rp44,472,220 million of PATMI Rp56,293,950 million per FS 9M26 Note 40c). Same 60/60/60/60/78/79% series appears in the FY2025 deck p.36."
+            },
+            "total_assets": {
+                "v": 2829948.026,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), Total Assets, 2025",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1849967.956,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), Loans and Sharia Receivables/Financing (gross, before allowance), 2025",
+                "basis": "consolidated",
+                "note": "FS line 'Loans and sharia receivables/financing' before allowance (incl. BSI sharia financing; excl. consumer-financing receivables and finance-lease receivables of multifinance subsidiaries, which the analyst decks add into their 'Loans' total)."
+            },
+            "deposits": {
+                "v": 2105764,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation PDF p.19, Consolidated balance sheet summary (Rp Bn), Third Party Funds, column Dec-25",
+                "basis": "consolidated",
+                "note": "Consolidated Third Party Funds as printed in the analyst deck balance sheet (= conventional 'deposits from customers' + BSI mudharabah 'temporary syirkah funds - deposits from customers')."
+            },
+            "equity_attr": {
+                "v": 293750.669,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Bank+Mandiri+%28Persero%29_billingual_Tbk+31+Dec+2025_released+-+unlock+%283%29.pdf/9e5d31d4-8122-e7b1-83a3-bd5c0a0ea2da?t=1770371054847",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p.29 (printed p.8), Consolidated Statement of Financial Position, subtotal of equity attributable to owners of the parent, 31 December 2025",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 327401.998,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p.36-37 (printed p.34-35), Financial Highlights - Consolidated Statements of Financial Position (Rp million), TOTAL EQUITY, 2025",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 93249083332,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Bank+Mandiri+%28Persero%29_billingual_Tbk+31+Dec+2025_released+-+unlock+%283%29.pdf/9e5d31d4-8122-e7b1-83a3-bd5c0a0ea2da?t=1770371054847",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p.373 (printed p.352), Note 40a share capital table 31 Desember 2025, subtotal excluding 'Saham Treasuri' (99,91%)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Net of 84,250,000 treasury shares (2025 buyback). Issued: 93,333,333,332. NOTE: the AR2025 share table labels 93,333,333,332 'Total Shares Outstanding' - that is the issued count."
+            },
+            "year_end_price": {
+                "v": 5100,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p.43 (printed p.41), Share Information - Bank Mandiri Shares Price, Volume and Capitalization 2015-2025, Quarter IV 'Closing', 2025",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4-2025 closing price as printed. as_of is FY end; the source does not print the exact last trading date."
+            },
+            "roe": {
+                "v": 20.3,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'RoE - after tax'",
+                "basis": "consolidated",
+                "note": "RoE - after tax; ROE = PATMI / YTD average monthly equity excluding minority interest (deck note a)"
+            },
+            "roa": {
+                "v": 2.14,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'RoA - after tax'",
+                "basis": "consolidated",
+                "note": "RoA - after tax (consolidated)"
+            },
+            "nim": {
+                "v": 4.89,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'NIM'",
+                "basis": "consolidated",
+                "note": "Consolidated NIM (average monthly balance approach per 3Q26 deck p.28 note)"
+            },
+            "coc": {
+                "v": 0.58,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'Cost of Credit'",
+                "basis": "consolidated",
+                "note": "Cost of Credit (consolidated)"
+            },
+            "npl_gross": {
+                "v": 1.13,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'NPL Ratio'",
+                "basis": "consolidated",
+                "note": "NPL Ratio (consolidated)"
+            },
+            "npl_net": {
+                "v": 0.4,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p.39-40 (printed p.37-38), Financial Ratios (Bank Only), Net NPL",
+                "basis": "bank_only",
+                "note": "Bank-only (regulatory) net NPL; no consolidated net NPL is published in the decks."
+            },
+            "lar": {
+                "v": 6.51,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'Loan at Risk Ratio'",
+                "basis": "consolidated",
+                "note": "Loan at Risk Ratio incl. Covid-restructured loans (consolidated)"
+            },
+            "npl_coverage": {
+                "v": 231,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'NPL Coverage'",
+                "basis": "consolidated",
+                "note": "NPL Coverage (consolidated)"
+            },
+            "ldr": {
+                "v": 87.6,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'Loan to Deposit Ratio (LDR) - Bank Entity'",
+                "basis": "consolidated",
+                "note": "'Loan to Deposit Ratio (LDR) - Bank Entity': excludes loans of multi-finance subsidiaries and loans to banks (deck note b); shown in the deck's consolidated table"
+            },
+            "car": {
+                "v": 20.4,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'CAR'",
+                "basis": "consolidated",
+                "note": "CAR (consolidated, as shown in the deck's consolidated table)"
+            },
+            "cir": {
+                "v": 43.5,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'Cost to Income Ratio'",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio (consolidated)"
+            },
+            "bopo": {
+                "v": 60.23,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025.pdf/95d6a9e9-7e0d-ab4f-444e-83ca893c70b5?t=1777514258574",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p.39-40 (printed p.37-38), Financial Ratios (Bank Only), Operating Expense to Operating Income (BOPO)",
+                "basis": "bank_only",
+                "note": "Bank-only regulatory BOPO."
+            },
+            "casa": {
+                "v": 68,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/2025+12+Quarterly+-+BMRI+Corporate+Presentation+%28FY25%29.pdf/0bbfd1ea-629f-5c3f-f700-511adf1f1988?t=1792123609248",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 corporate presentation (2025 12 Quarterly - FY25) PDF p.22, 'Key profitability ratios, Consolidated', column FY25, row 'CASA Ratio'",
+                "basis": "consolidated",
+                "note": "CASA Ratio (consolidated)"
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 220.27176825,
+            "total": 10271.55,
+            "cum_date": "2021-03-23",
+            "ex_date": "2021-03-24",
+            "record_date": "2021-03-25",
+            "pay_date": "2021-04-12",
+            "share_basis": "2021-03-15",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BMRI_DIV_20210325_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-03-15",
+            "loc": "KSEI notice KSEI-4374/JKU/0321 dated 17 Mar 2021, 'Jadwal Pelaksanaan Pembagian Deviden Tunai', items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at AGM 15 Mar 2021. Total Rp10,271.55bn (60% of originally reported FY2020 PATMI) from AR2025 PDF p.366 dividend table (which rounds DPS to 220). Pre-split DPS. Dates/DPS = KSEI official schedule relaying the issuer's notification (idx.co.id not reachable: Cloudflare 403)."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 360.63556387,
+            "total": 16816.89,
+            "cum_date": "2022-03-18",
+            "ex_date": "2022-03-21",
+            "record_date": "2022-03-22",
+            "pay_date": "2022-04-06",
+            "share_basis": "2022-03-10",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BMRI_DIV_20220322_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-03-10",
+            "loc": "KSEI notice KSEI-4259/JKU/0322 dated 15 Mar 2022, 'Jadwal Pelaksanaan Pembagian Deviden Tunai', items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at AGM 10 Mar 2022. Total Rp16,816.89bn from AR2025 PDF p.366 (DPS rounded there to 360.64). Pre-split DPS."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 529.33676,
+            "total": 24702.38,
+            "cum_date": "2023-03-24",
+            "ex_date": "2023-03-27",
+            "record_date": "2023-03-28",
+            "pay_date": "2023-04-12",
+            "share_basis": "2023-03-14",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BMRI_DIV_20230328_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-03-14",
+            "loc": "KSEI notice KSEI-5179/JKU/0323 dated 17 Mar 2023, 'Jadwal Pelaksanaan Pembagian Deviden Tunai', items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at AGM 14 Mar 2023 (same AGM that approved the 1:2 split). Recorded 28 Mar 2023, i.e. BEFORE the split ex-date 2023-04-04, so the DPS is per PRE-split share even though it was paid on 12 Apr 2023. Total Rp24,702.38bn from AR2025 PDF p.366 (AR2023 p.414: Rp24,702,382,310,010.60)."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 353.957511267,
+            "total": 33036.03,
+            "cum_date": "2024-03-19",
+            "ex_date": "2024-03-20",
+            "record_date": "2024-03-21",
+            "pay_date": "2024-03-28",
+            "share_basis": "2024-03-07",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BMRI_DIV_20240321_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-03-07",
+            "loc": "KSEI notice KSEI-5071/JKU/0324 dated 14 Mar 2024, 'Jadwal Pelaksanaan Pembagian Deviden Tunai', items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at AGM 7 Mar 2024. Total Rp33,036.03bn from AR2025 PDF p.366 (AR2024 p.442: Rp33,036,034,384,460.40; DPS Rp353.957511267). Post-split DPS."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 466.184343305,
+            "total": 43510.54,
+            "cum_date": "2025-04-11",
+            "ex_date": "2025-04-14",
+            "record_date": "2025-04-15",
+            "pay_date": "2025-04-23",
+            "share_basis": "2025-03-25",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BMRI_DIV_20250415_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-03-25",
+            "loc": "KSEI notice KSEI-7432/JKU/0425 dated 8 Apr 2025, 'Jadwal Pelaksanaan Pembagian Deviden Tunai', items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at AGM 25 Mar 2025 (78% payout). Total Rp43,510.54bn from AR2025 PDF p.366-367 (Rp43,510,538,707,938.10; Rp466.184343305 per share)."
+        },
+        {
+            "fy": 2025,
+            "type": "interim",
+            "dps": 100,
+            "total": 9324.158,
+            "cum_date": "2026-01-05",
+            "ex_date": "2026-01-06",
+            "record_date": "2026-01-07",
+            "pay_date": "2026-01-14",
+            "share_basis": "2025-12-19",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BMRI_DIV_20260107_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-12-19",
+            "loc": "KSEI notice KSEI-30599/JKU/1225 dated 22 Dec 2025, 'Jadwal Pelaksanaan Pembagian Deviden Interim', items 1-6 and Keterangan (Rp per share)",
+            "note": "Bank Mandiri's first interim dividend since 2010. BoD decision approved by BoC 18 Dec 2025; disclosed to OJK/IDX/KSEI 19 Dec 2025 (AR2025 PDF p.688). Total paid Rp9,324,158 million per FS2025 PDF p.382 (printed p.361) Note 40c (shares eligible exclude treasury shares)."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 376.956938949,
+            "total": 35148.062,
+            "cum_date": "2026-05-08",
+            "ex_date": "2026-05-11",
+            "record_date": "2026-05-12",
+            "pay_date": "2026-05-25",
+            "share_basis": "2026-04-29",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BMRI_DIV_20260512_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-29",
+            "loc": "KSEI notice KSEI-9756/JKU/0526 dated 4 May 2026, 'Jadwal Pelaksanaan Pembagian Deviden Tunai', items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at AGM 29 Apr 2026. FY2025 total dividend Rp44,472,220 million = Rp476.96/share incl. the Rp100 interim, 79% of PATMI (FS 9M26 PDF p.397, printed p.394, Note 40c). Final amount paid Rp35,148,062 million on 25 May 2026 (same note)."
+        },
+        {
+            "fy": 2026,
+            "type": "interim",
+            "dps": 66,
+            "total": 6160,
+            "cum_date": "2026-09-15",
+            "ex_date": "2026-09-16",
+            "record_date": "2026-09-17",
+            "pay_date": "2026-10-02",
+            "share_basis": "2026-09-03",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BMRI_DIV_20260917_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-09-03",
+            "loc": "KSEI notice KSEI-22701/JKU/0926 dated 8 Sep 2026, 'Jadwal Pelaksanaan Pembagian Deviden Interim', items 1-6 and Keterangan (Rp per share)",
+            "note": "Interim dividend out of FY2026 profit. BoD resolution approved by BoC 3 Sep 2026 (as_of = that decision date; public disclosure date not in a primary document I could reach). Total Rp6,160,000 million paid 2 Oct 2026 per FS 9M26 PDF p.540 (printed p.537) Note 67a (subsequent event)."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 45534.001,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Report+Bank+mandiri+consol+interim+30+September+2026+FINAL+%2B+DS.pdf/9aebd8d9-ee6f-d0f7-58f6-6860f05d3991?t=1792770081500",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "FS 9M26 (interim, released Oct 2026) PDF p.14 (printed p.11), Interim Consolidated Statement of Profit or Loss, 'Net income for the period attributable to: Parent Entity', 9M 2026",
+                "basis": "consolidated",
+                "note": "Matches the deck's 9M26 PATMI Rp45,534bn (3Q26 deck p.20)."
+            },
+            "profit_ytd_prior": {
+                "v": 37730.142,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Report+Bank+mandiri+consol+interim+30+September+2026+FINAL+%2B+DS.pdf/9aebd8d9-ee6f-d0f7-58f6-6860f05d3991?t=1792770081500",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "FS 9M26 PDF p.14 (printed p.11), same line, comparative nine months to 30 Sep 2025",
+                "basis": "consolidated",
+                "note": "As reported (BSI then consolidated); identical to the deck's pro-forma excl.-BSI 9M25 PATMI Rp37,730bn (3Q26 deck p.20), so YoY is like-for-like."
+            },
+            "equity_attr": {
+                "v": 294041.482,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Report+Bank+mandiri+consol+interim+30+September+2026+FINAL+%2B+DS.pdf/9aebd8d9-ee6f-d0f7-58f6-6860f05d3991?t=1792770081500",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "FS 9M26 PDF p.11 (printed p.8), Interim Consolidated Statement of Financial Position, subtotal of equity attributable to owners of the parent, 30 September 2026",
+                "basis": "consolidated",
+                "note": "Excludes BSI (deconsolidated). Not comparable with FY2025 level without noting the deconsolidation."
+            },
+            "shares_out": {
+                "v": 93333333332,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Report+Bank+mandiri+consol+interim+30+September+2026+FINAL+%2B+DS.pdf/9aebd8d9-ee6f-d0f7-58f6-6860f05d3991?t=1792770081500",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "FS 9M26 PDF p.387 (printed p.384) Note 40a share capital table 30 September 2026, total; PDF p.397 (printed p.394) Note 40d: treasury shares 'Nil' at 30 Sep 2026",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Treasury shares were nil at 30 Sep 2026 (treasury shares granted to employees 24-29 Jun 2026), so issued = outstanding."
+            },
+            "total_assets": {
+                "v": 2588298.318,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/Report+Bank+mandiri+consol+interim+30+September+2026+FINAL+%2B+DS.pdf/9aebd8d9-ee6f-d0f7-58f6-6860f05d3991?t=1792770081500",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "FS 9M26 PDF p.6 (printed p.3), Interim Consolidated Statement of Financial Position, TOTAL ASSETS, 30 September 2026",
+                "basis": "consolidated",
+                "note": "Excludes BSI (deconsolidated 1 Feb 2026); Dec-25 comparative Rp2,829,948,026 million included BSI."
+            },
+            "loans_gross": {
+                "v": 1693632,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.19, 'Balance sheet highlights', column Sep-26 (Consolidated excl. BSI), row Loans",
+                "basis": "consolidated",
+                "note": "Deck 'Loans' total (incl. consumer-financing and finance-lease receivables of multifinance subsidiaries) - a WIDER definition than the FY loans_gross FS line; used here because only the deck gives a like-for-like (pro-forma excl. BSI) Sep-25 comparative. Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI."
+            },
+            "loans_gross_prior": {
+                "v": 1467403,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.19, 'Balance sheet highlights', column Pro Forma Sep-25, row Loans",
+                "basis": "consolidated",
+                "note": "Deck 'Loans' total (incl. consumer-financing and finance-lease receivables of multifinance subsidiaries) - a WIDER definition than the FY loans_gross FS line; used here because only the deck gives a like-for-like (pro-forma excl. BSI) Sep-25 comparative. Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI."
+            },
+            "deposits": {
+                "v": 1804610,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.19, 'Balance sheet highlights', column Sep-26 (Consolidated excl. BSI), row Third Party Funds",
+                "basis": "consolidated",
+                "note": "Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI."
+            },
+            "deposits_prior": {
+                "v": 1536280,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.19, 'Balance sheet highlights', column Pro Forma Sep-25, row Third Party Funds",
+                "basis": "consolidated",
+                "note": "Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI."
+            },
+            "roe": {
+                "v": 20.8,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'RoE - after tax (excl. MI)'",
+                "basis": "consolidated",
+                "note": "RoE - after tax; ROE = PATMI / YTD average monthly equity excluding minority interest (3Q26 deck p.22 note a). 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table). YTD figure (annualised where applicable, as presented)."
+            },
+            "roa": {
+                "v": 2.24,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'RoA - after tax'",
+                "basis": "consolidated",
+                "note": "RoA - after tax (consolidated). 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table). YTD figure (annualised where applicable, as presented)."
+            },
+            "nim": {
+                "v": 4.43,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'NIM'",
+                "basis": "consolidated",
+                "note": "Consolidated NIM (average monthly balance approach per 3Q26 deck p.28 note). 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table)."
+            },
+            "coc": {
+                "v": 0.63,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'Cost of Credit'",
+                "basis": "consolidated",
+                "note": "Cost of Credit (consolidated). 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table). YTD figure (annualised where applicable, as presented)."
+            },
+            "npl_gross": {
+                "v": 1.02,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'NPL Ratio'",
+                "basis": "consolidated",
+                "note": "NPL Ratio (consolidated). 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table)."
+            },
+            "lar": {
+                "v": 6.76,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'Loan at Risk (incl. Covid Restructured) Ratio'",
+                "basis": "consolidated",
+                "note": "Loan at Risk Ratio incl. Covid-restructured loans (consolidated). 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table)."
+            },
+            "npl_coverage": {
+                "v": 235,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'NPL Coverage'",
+                "basis": "consolidated",
+                "note": "NPL Coverage (consolidated). 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table)."
+            },
+            "ldr": {
+                "v": 90.8,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'Loan to Deposit Ratio (LDR) - Bank Entity'",
+                "basis": "consolidated",
+                "note": "'Loan to Deposit Ratio (LDR) - Bank Entity': excludes loans of multi-finance subsidiaries and loans to banks (3Q26 deck p.22 note b); shown in the deck's consolidated table. 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table)."
+            },
+            "car": {
+                "v": 18.7,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'CAR'",
+                "basis": "consolidated",
+                "note": "CAR (consolidated, as shown in the deck's consolidated table). 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table)."
+            },
+            "cir": {
+                "v": 38,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'Cost to Income Ratio'",
+                "basis": "consolidated",
+                "note": "Cost to Income Ratio (consolidated). 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table). YTD figure (annualised where applicable, as presented)."
+            },
+            "casa": {
+                "v": 70.6,
+                "source_url": "https://www.bankmandiri.co.id/documents/38265486/0/3Q26+Analyst+Meeting+-+Long+Form+%2811%29.pdf/f49c0191-00d0-81cd-ce60-29373a0af1f9?t=1793175245796",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "3Q26 analyst meeting (long form) PDF p.22, 'Key profitability ratios', column 9M26 (Consolidated excl. BSI), row 'CASA Ratio'",
+                "basis": "consolidated",
+                "note": "CASA Ratio (consolidated). 9M26 YTD, Consolidated excl. BSI (BSI deconsolidated 1 Feb 2026); Sep-25 comparative is the company's pro-forma excl. BSI (9M25 pro-forma in the same table)."
+            }
+        }
+    },
+    "research_notes": [
+        "SOURCES: all figures from Bank Mandiri IR documents (bankmandiri.co.id/web/ir: annual reports, audited FS, interim FS, analyst/corporate presentations) plus KSEI official corporate-action notices for dividend/split schedules. idx.co.id returned Cloudflare 403 and was not used; old ksei.co.id/Announcement paths 404 but the same files are served from web.ksei.co.id. No news source is used for any stored value.",
+        "BSI MERGER RESTATEMENT (Feb 2021): BRIS and BNIS were merged into BSM (now BSI) under common control; FS2021 restated FY2020 (and the 31 Dec 2019 balance sheet). fy.2019 and fy.2020 use these RESTATED figures so the series is comparable with 2021+. Originally reported: FY2020 PATMI 17,119,253 / EPS 367.04 / total assets 1,429,334,484 / total equity 193,796,083; FY2019 total assets 1,318,246,335 / total equity 209,034,525 (Rp million, FS2020).",
+        "FY2020 PAYOUT CHECK: the 60% payout (dividend Rp10,271.55bn) was applied to the ORIGINAL FY2020 PATMI Rp17,119.25bn. Against the stored restated PATMI 16,799.5bn, 60% gives 10,079.7bn (-1.9% vs dividend). Numbers left as sourced.",
+        "FY2019 DEPOSITS = null: no restated (post-merger) consolidated TPF total for Dec-2019 is printed anywhere I found; the FY2020 deck's Dec-19 TPF (933,125bn) is on the pre-merger basis and would overstate FY2020 deposit growth (~23% vs ~13% like-for-like). Deposit growth for 2020 will therefore show n/a.",
+        "LOANS DEFINITION (FY): loans_gross = FS line 'Loans and sharia receivables/financing' before allowance (filing; printed for every year incl. restated 2019). The analyst decks' consolidated 'Loans' additionally include consumer-financing and finance-lease receivables of multifinance subsidiaries (e.g. Dec-25: deck 1,894,985bn vs FS line 1,849,968bn; Dec-21: 1,050,157 vs 1,026,225). The INTERIM loans use the deck definition (see interim note) - do not compute FY->interim loan growth.",
+        "DEPOSITS DEFINITION: deposits = consolidated Third Party Funds from the analyst decks (= conventional 'deposits from customers' + BSI's mudharabah 'temporary syirkah funds - deposits from customers'). WARNING: AR2025 MD&A calls Rp1,816.90tn 'Total TPF' for Dec-2025, but that is only the conventional line (excludes ~Rp288.9tn syirkah deposits); not used.",
+        "RATIOS: roe/roa/nim/coc/npl_gross/lar/npl_coverage/ldr/car/cir/casa are CONSOLIDATED as reported in the analyst decks, each year taken from the latest deck that shows it (FY2022-25: FY2025 deck p.22; FY2021: FY2024 deck p.26; FY2020: FY2023 deck p.29). Decks restate history: e.g. FY21 LDR 78.4 (FY23 deck) vs 79.0 (FY24 deck); FY22 LDR 78.0 vs 78.3; FY22 Tier-1 18.0 vs 18.6. The FY2020/FY2021 decks used different definitions (Adj. RoAE on a 2-point average: FY20 9.16% original / 8.12% restated; CIR FY20 47.4%/48.07%, FY21 47.31%) - not used. LAR = incl. Covid-restructured loans throughout (FY20-21 'BAU' LAR excl. Covid restructuring was ~10%). ldr is the deck's 'LDR - Bank Entity' (excl. multifinance loans and loans to banks); car is the consolidated CAR (AR bank-only CAR differs, e.g. FY25 19.36% vs 20.4%).",
+        "BANK-ONLY fields: npl_net and bopo are bank-only regulatory ratios from the AR 'Financial Ratios (Bank Only)' tables (AR2025 for 2021-25, AR2024 for 2020); basis set to bank_only. The AR bank-only ROE/ROA/NIM/coverage/CIR (e.g. FY25 ROE 23.15%, NIM 4.59%) differ materially from the consolidated deck figures stored here.",
+        "EPS / SHARE BASIS around the 1:2 split (regular-market ex-date 2023-04-04): FY2020 and FY2021 EPS taken from FS2021 (authorised 2022-01-27, pre-split) -> share_basis 2022-01-27. FY2022-FY2025 EPS from AR2025 (published 2026-04-29), which restates FY2022 to the post-split basis (441.26 vs 882.52 originally) -> share_basis 2026-04-29. CAUTION: AR2025's 5-year table itself mixes bases (prints FY2021 EPS 601.06 unadjusted next to post-split 2022+), and AR2024 misprints FY2021 EPS as '60.06'. Share counts and year-end prices carry share_basis = their own year-end date (pre-split for 2020-2022). Dividends carry share_basis = announcement date; FY2020-FY2022 DPS are per pre-split share (FY2022 final was recorded 28 Mar 2023, before the split, though paid 12 Apr 2023).",
+        "SHARES OUTSTANDING: taken from the FS Note 40a shareholder tables, which print a subtotal excluding treasury shares (Dec-20/Dec-21: 46,631,266,666 = 46,666,666,666 issued less 35,400,000 treasury; Dec-25: 93,249,083,332 = 93,333,333,332 less 84,250,000 treasury). The AR share-information table labels the ISSUED count 'Total Shares Outstanding' - do not use it as net.",
+        "DIVIDENDS: DPS and cum/ex/recording/payment dates from KSEI notices (exact DPS to many decimals); AR dividend tables round DPS (220, 360.64, 529.34, 353.96, 466.18) and are the source of the totals. FY2025 had Bank Mandiri's first interim dividend (Rp100, paid 14 Jan 2026) plus a final of Rp376.956938949 (paid 25 May 2026): total Rp476.96/share, Rp44,472.22bn, 79% payout. A FY2026 interim of Rp66/share (Rp6,160bn) was paid 2 Oct 2026. No special dividends 2020-2026.",
+        "INTERIM 9M2026 / BSI DECONSOLIDATION: Bank Mandiri lost control of BSI on 27 Jan 2026 (BP BUMN revoked the special power of attorney that let the Bank exercise the Series A Dwiwarna rights in BSI and granted those rights to PT Danantara Asset Management) and deconsolidated BSI from 1 Feb 2026, keeping 51.47% with significant influence (FS 9M26 PDF p.42, Note 1g). Net assets derecognised Rp49,419,851m and NCI Rp23,844,295m. Interim balance-sheet levels (FS) and deck figures therefore EXCLUDE BSI, while every fy.* figure 2019-2025 INCLUDES it. PATMI is barely affected (FS 9M25 comparative 37,730.1bn equals the deck's pro-forma). Interim loans/deposits/ratios use the 3Q26 deck's 'Consolidated excl. BSI' columns with company pro-forma Sep-25 comparatives. Do not compare interim levels with fy.2025 levels (e.g. assets 2,588.3tn vs 2,829.9tn) as growth.",
+        "CORPORATE ACTIONS 2020-2026: only the 1:2 stock split (KSEI: new-nominal trading in regular & negotiated market from 4 Apr 2023; recording 5 Apr; distribution/cash market 6 Apr). Bank Mandiri's own AR2023 describes the split as effective/listed on 6 Apr 2023 - that is the distribution date, not the ex-date. No rights issue since Feb 2011 (3Q26 deck p.70 corporate-action timeline; AR2023 share-listing chronology). Share buybacks (2020: 35.4m shares; 2025-26: up to Rp1.17tn, 84.25m treasury shares at Dec-25, re-granted by Sep-26) are not split/rights events.",
+        "OTHER PERIMETER CHANGES (minor): Mandiri Inhealth deconsolidated 26 Jun 2024; PT Mandiri Manajemen Investasi transferred to Danantara Asset Management under a 22 Jul 2026 SPA (FS 9M26 Note 40b).",
+        "KBMI: tier 4 (Kelompok Bank berdasarkan Modal Inti 4) as stated in AR2025."
+    ]
+}

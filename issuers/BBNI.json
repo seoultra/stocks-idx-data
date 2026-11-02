@@ -1,0 +1,1566 @@
+{
+    "schema": 1,
+    "code": "BBNI",
+    "name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "name_short": "Bank Negara Indonesia",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bni.co.id",
+    "ir_url": "https://www.bni.co.id/id-id/perusahaan/hubunganinvestor",
+    "kbmi": {
+        "v": 4,
+        "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 235, Awards list ('The second-ranked bank in the Core Capital Bank Group (KBMI) IV category'); PDF p. 377, Core Capital FY2025 Rp155,838bn",
+        "note": "AR2025 contains no sentence that states the tier directly. It lists awards BNI won in the KBMI IV category, and its FY2025 core capital of Rp155,838bn is above the Rp70tn KBMI 4 threshold (POJK 12/POJK.03/2021)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 845605.208,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2019/Laporan%20Keuangan%20Audited%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position, 'Total aset'",
+                "basis": "consolidated",
+                "note": "Consolidates BNI Syariah. Same figure appears as the 2019 comparative in the FY2020 audited FS (no restatement)."
+            },
+            "loans_gross": {
+                "v": 556770.947,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2019/Laporan%20Keuangan%20Audited%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position, 'Total pinjaman yang diberikan' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 582540.625,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2019/Laporan%20Keuangan%20Audited%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Consolidated statement of financial position, 'Total simpanan nasabah'",
+                "basis": "consolidated",
+                "note": "'Total simpanan nasabah'. Excludes BNI Syariah temporary syirkah deposits of 31,770.347 presented separately."
+            },
+            "equity_attr": {
+                "v": 122515.579,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2019/Laporan%20Keuangan%20Audited%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 125003.948,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2019/Laporan%20Keuangan%20Audited%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'Total ekuitas'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 3280.403,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2020/BNI_Bilingual_31_Desember_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13, Consolidated statement of profit or loss, 'Laba tahun berjalan diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Same figure in the pro-forma ex-BNI Syariah view (AR2024)."
+            },
+            "eps": {
+                "v": 176,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2020/BNI_Bilingual_31_Desember_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14, 'Laba per saham dasar/dilusian diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Pre-split basis."
+            },
+            "payout_ratio": {
+                "v": 25,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 403 (printed p. 401), Dividend and Distribution Policy, dividend history 5 years",
+                "basis": "consolidated",
+                "note": "25% of FY2020 profit attributable to owners of the parent."
+            },
+            "total_assets": {
+                "v": 891337.425,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2020/BNI_Bilingual_31_Desember_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position, 'Total aset'",
+                "basis": "consolidated",
+                "note": "Consolidates BNI Syariah (merged into Bank Syariah Indonesia 1 Feb 2021). AR2024 shows a pro-forma 2020 ex-BNI Syariah figure of 839,910."
+            },
+            "loans_gross": {
+                "v": 586206.787,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2020/BNI_Bilingual_31_Desember_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position, 'Total pinjaman yang diberikan' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "'Total pinjaman yang diberikan' incl. BNI Syariah financing. AR2024 pro-forma 2020 ex-BNI Syariah: 553,106."
+            },
+            "deposits": {
+                "v": 647571.744,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2020/BNI_Bilingual_31_Desember_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Consolidated statement of financial position, 'Total simpanan nasabah'",
+                "basis": "consolidated",
+                "note": "'Total simpanan nasabah' (deposits from customers). Excludes BNI Syariah temporary syirkah deposits of 31,880.701 shown separately; AR2020 cites third-party funds incl. syirkah of ~Rp679.4tn. AR2024 pro-forma 2020 ex-BNI Syariah: 631,551."
+            },
+            "equity_attr": {
+                "v": 110192.52,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2020/BNI_Bilingual_31_Desember_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 112872.199,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2020/BNI_Bilingual_31_Desember_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'Total ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18629076758,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2020/BNI_Bilingual_31_Desember_2020_Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 224 (Note 34 share capital)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Shares outstanding 18,629,076,758 after 19,579,700 treasury shares (issued 18,648,656,458). Pre-split count."
+            },
+            "year_end_price": {
+                "v": 6175,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-TB-2020-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 20, Share Price Information 2018-2020, 2020 Quarter IV closing (pre-split)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the exact session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 2.9,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROE - Tier 1 Capital Based (OJK definition: profit / average Tier 1 capital), bank only. The same table prints ROE - Equity Based (average total equity) = 2.6%. FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "roa": {
+                "v": 0.5,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only. FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "nim": {
+                "v": 4.5,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "coc": {
+                "v": 4.1,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/BBNI-Corporate-Presentation-FY24.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 68, 5 Years Financial Data (2), 'Credit Cost' (all ratios bank only)",
+                "basis": "bank_only",
+                "note": "Credit cost (CKPN/provision cost to average loans), bank only. Same values appear in each year's own FY analyst deck."
+            },
+            "npl_gross": {
+                "v": 4.3,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only. FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "npl_net": {
+                "v": 0.9,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only. FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "lar": {
+                "v": 28.7,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (BNI's LaR; includes restructured loans incl. COVID restructuring in 2020-2022). FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "npl_coverage": {
+                "v": 182.4,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' (CKPN on loans / NPL), bank only. FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "ldr": {
+                "v": 87.3,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "LDR, bank only. FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "car": {
+                "v": 16.8,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk, bank only. FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "cir": {
+                "v": 44.2,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio, bank only. FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "bopo": {
+                "v": 93.3,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only. FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            },
+            "casa": {
+                "v": 68.4,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 26-27 (printed pp. 24-25), Ikhtisar Data Keuangan Penting, Rasio-Rasio Keuangan (Bank Only)",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds), bank only. BNI analyst decks also show a consolidated CASA that differs slightly (e.g. FY2024 69.9 consolidated vs 70.4 bank only). FY2020 taken from AR2024's 5-year table (same values as AR2020 where AR2020 prints them; AR2020 does not print LaR/CASA in this table)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 10898.518,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2021/Laporan-Keuangan-Audited-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, Consolidated statement of profit or loss, 'Laba tahun berjalan diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 585,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2021/Laporan-Keuangan-Audited-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13, 'Laba per saham dasar/dilusian diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Pre-split basis."
+            },
+            "payout_ratio": {
+                "v": 25,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 403 (printed p. 401), Dividend and Distribution Policy, dividend history 5 years",
+                "basis": "consolidated",
+                "note": "25% of FY2021 profit attributable; also stated in the FY2021 dividend notice."
+            },
+            "total_assets": {
+                "v": 964837.692,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2021/Laporan-Keuangan-Audited-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Total aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 582436.23,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2021/Laporan-Keuangan-Audited-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Total pinjaman yang diberikan' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 729168.611,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2021/Laporan-Keuangan-Audited-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position, 'Total simpanan nasabah'",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 123738.372,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2021/Laporan-Keuangan-Audited-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Consolidated statement of financial position, 'Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 126519.977,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2021/Laporan-Keuangan-Audited-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Consolidated statement of financial position, 'Total ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18623973858,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2021/Laporan-Keuangan-Audited-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 188 (Note 35 share capital)",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Shares outstanding 18,623,973,858 after 24,682,600 treasury shares (issued 18,648,656,458). Pre-split count."
+            },
+            "year_end_price": {
+                "v": 6750,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-TB-2021-ENG-v2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 34, Share Highlights, BBNI share price table, 2021 Quarter IV closing (pre-split)",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the exact session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 10.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROE - Tier 1 Capital Based (OJK definition: profit / average Tier 1 capital), bank only. The same table prints ROE - Equity Based (average total equity) = 9.4%."
+            },
+            "roa": {
+                "v": 1.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only."
+            },
+            "nim": {
+                "v": 4.7,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": 3.3,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/BBNI-Corporate-Presentation-FY24.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "p. 68, 5 Years Financial Data (2), 'Credit Cost' (all ratios bank only)",
+                "basis": "bank_only",
+                "note": "Credit cost (CKPN/provision cost to average loans), bank only. Same values appear in each year's own FY analyst deck."
+            },
+            "npl_gross": {
+                "v": 3.7,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only."
+            },
+            "npl_net": {
+                "v": 0.7,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only. The FY2024 analyst deck 5-year table (p. 68) prints 0.9 for 2021; the AR value is stored."
+            },
+            "lar": {
+                "v": 23.3,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (BNI's LaR; includes restructured loans incl. COVID restructuring in 2020-2022)."
+            },
+            "npl_coverage": {
+                "v": 233.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' (CKPN on loans / NPL), bank only."
+            },
+            "ldr": {
+                "v": 79.7,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 19.7,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk, bank only."
+            },
+            "cir": {
+                "v": 43.3,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio, bank only."
+            },
+            "bopo": {
+                "v": 81.2,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 69.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds), bank only. BNI analyst decks also show a consolidated CASA that differs slightly (e.g. FY2024 69.9 consolidated vs 70.4 bank only)."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 18312.054,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2022/Laporan-Keuangan-Audited-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, Consolidated statement of profit or loss, 'Laba tahun berjalan diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 983,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2022/Laporan-Keuangan-Audited-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, 'Laba per saham dasar/dilusian diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Pre-split basis (published before the 2023-10-06 split). The FY2023 FS and AR2024/AR2025 highlight tables still print 983 unadjusted."
+            },
+            "payout_ratio": {
+                "v": 40,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 403 (printed p. 401), Dividend and Distribution Policy, dividend history 5 years",
+                "basis": "consolidated",
+                "note": "40%; also stated in the FY2022 dividend notice."
+            },
+            "total_assets": {
+                "v": 1029836.868,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2022/Laporan-Keuangan-Audited-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, 'Total aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 646188.313,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2022/Laporan-Keuangan-Audited-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, 'Total pinjaman yang diberikan' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 769268.991,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2022/Laporan-Keuangan-Audited-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Consolidated statement of financial position, 'Total simpanan nasabah'",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 135815.715,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2022/Laporan-Keuangan-Audited-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position, 'Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 140197.662,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2022/Laporan-Keuangan-Audited-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position, 'Total ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18648656458,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2022/Laporan-Keuangan-Audited-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 197 (Note 33 share capital)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and outstanding 18,648,656,458 (no treasury shares at 31 Dec 2022). Pre-split count."
+            },
+            "year_end_price": {
+                "v": 9225,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2022-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, Shares Overview, BBNI share price 2020-2022 table, 2022 Quarter IV closing (pre-split)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the exact session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 16.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROE - Tier 1 Capital Based (OJK definition: profit / average Tier 1 capital), bank only. The same table prints ROE - Equity Based (average total equity) = 14.9%."
+            },
+            "roa": {
+                "v": 2.5,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only."
+            },
+            "nim": {
+                "v": 4.8,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": 1.9,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/BBNI-Corporate-Presentation-FY24.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 68, 5 Years Financial Data (2), 'Credit Cost' (all ratios bank only)",
+                "basis": "bank_only",
+                "note": "Credit cost (CKPN/provision cost to average loans), bank only. Same values appear in each year's own FY analyst deck."
+            },
+            "npl_gross": {
+                "v": 2.8,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only."
+            },
+            "npl_net": {
+                "v": 0.5,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": 16,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (BNI's LaR; includes restructured loans incl. COVID restructuring in 2020-2022)."
+            },
+            "npl_coverage": {
+                "v": 278.3,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' (CKPN on loans / NPL), bank only."
+            },
+            "ldr": {
+                "v": 84.2,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 19.3,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk, bank only."
+            },
+            "cir": {
+                "v": 42.6,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio, bank only."
+            },
+            "bopo": {
+                "v": 68.6,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 72.9,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds), bank only. BNI analyst decks also show a consolidated CASA that differs slightly (e.g. FY2024 69.9 consolidated vs 70.4 bank only)."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 20909.476,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2023/LKFS-BNI-Billingual-31-Des-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Consolidated statement of profit or loss, 'Laba tahun berjalan diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 561,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2023/LKFS-BNI-Billingual-31-Des-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19, 'Laba per saham dasar/dilusian diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Post-split basis (split effective 2023-10-06)."
+            },
+            "payout_ratio": {
+                "v": 50,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 403 (printed p. 401), Dividend and Distribution Policy, dividend history 5 years",
+                "basis": "consolidated",
+                "note": "50% of FY2023 profit attributable (AGMS 4 Mar 2024)."
+            },
+            "total_assets": {
+                "v": 1086663.986,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2023/LKFS-BNI-Billingual-31-Des-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, 'Total aset'",
+                "basis": "consolidated",
+                "note": "As originally reported. AR2025 shows a restated 1 Jan 2024 balance of 1,086,920.782 (PSAK 117)."
+            },
+            "loans_gross": {
+                "v": 695084.769,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2023/LKFS-BNI-Billingual-31-Des-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, 'Total pinjaman yang diberikan' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 810730.343,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2023/LKFS-BNI-Billingual-31-Des-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Consolidated statement of financial position, 'Total simpanan nasabah'",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 150131.014,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2023/LKFS-BNI-Billingual-31-Des-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position, 'Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated 1 Jan 2024 balance in AR2025: 149,666.236."
+            },
+            "total_equity": {
+                "v": 154732.52,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2023/LKFS-BNI-Billingual-31-Des-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position, 'Total ekuitas'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated 1 Jan 2024 balance in AR2025: 153,963.246."
+            },
+            "shares_out": {
+                "v": 37256798316,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2023/LKFS-BNI-Billingual-31-Des-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 204 (Note 33 share capital)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Shares outstanding 37,256,798,316 after 40,514,600 treasury shares (issued 37,297,312,916). Post-split count."
+            },
+            "year_end_price": {
+                "v": 5375,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2023-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 27, Shares Overview, BBNI share price table, 2023 Quarter IV closing (post-split)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the exact session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 16.8,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROE - Tier 1 Capital Based (OJK definition: profit / average Tier 1 capital), bank only. The same table prints ROE - Equity Based (average total equity) = 15.2%."
+            },
+            "roa": {
+                "v": 2.6,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only."
+            },
+            "nim": {
+                "v": 4.6,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": 1.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/BBNI-Corporate-Presentation-FY24.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "p. 68, 5 Years Financial Data (2), 'Credit Cost' (all ratios bank only)",
+                "basis": "bank_only",
+                "note": "Credit cost (CKPN/provision cost to average loans), bank only. Same values appear in each year's own FY analyst deck."
+            },
+            "npl_gross": {
+                "v": 2.1,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only."
+            },
+            "npl_net": {
+                "v": 0.6,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": 12.9,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (BNI's LaR; includes restructured loans incl. COVID restructuring in 2020-2022)."
+            },
+            "npl_coverage": {
+                "v": 319,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' (CKPN on loans / NPL), bank only."
+            },
+            "ldr": {
+                "v": 85.8,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 22,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk, bank only."
+            },
+            "cir": {
+                "v": 42.9,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio, bank only."
+            },
+            "bopo": {
+                "v": 68.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 71.6,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds), bank only. BNI analyst decks also show a consolidated CASA that differs slightly (e.g. FY2024 69.9 consolidated vs 70.4 bank only)."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 21463.599,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/LKFS-BNI-Billingual-31-Dec-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Consolidated statement of profit or loss, 'Laba tahun berjalan diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 576,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/LKFS-BNI-Billingual-31-Dec-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, 'Laba per saham dasar/dilusian diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Post-split basis."
+            },
+            "payout_ratio": {
+                "v": 65,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 403 (printed p. 401), Dividend and Distribution Policy, dividend history 5 years",
+                "basis": "consolidated",
+                "note": "65% of FY2024 profit attributable (AGMS 26 Mar 2025)."
+            },
+            "total_assets": {
+                "v": 1129805.637,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/LKFS-BNI-Billingual-31-Dec-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, 'Total aset'",
+                "basis": "consolidated",
+                "note": "As originally reported in the FY2024 audited FS. AR2025 restates FY2024 for PSAK 117 (insurance contracts) to 1,130,128.862."
+            },
+            "loans_gross": {
+                "v": 775871.778,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/LKFS-BNI-Billingual-31-Dec-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, 'Total pinjaman yang diberikan' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 805510.848,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/LKFS-BNI-Billingual-31-Dec-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Consolidated statement of financial position, 'Total simpanan nasabah'",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 162457.581,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/LKFS-BNI-Billingual-31-Dec-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position, 'Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated (PSAK 117) in AR2025: 162,071.240."
+            },
+            "total_equity": {
+                "v": 167186.553,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/LKFS-BNI-Billingual-31-Dec-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position, 'Total ekuitas'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated (PSAK 117) in AR2025: 166,548.007."
+            },
+            "shares_out": {
+                "v": 37297312916,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/LKFS-BNI-Billingual-31-Dec-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 217 (Note 33 share capital)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued 37,297,312,916; no treasury shares listed at 31 Dec 2024 (balance-sheet treasury line '-')."
+            },
+            "year_end_price": {
+                "v": 4350,
+                "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 33, Ikhtisar Saham, BBNI share price table, 2024 Triwulan IV closing",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the exact session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 15.8,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROE - Tier 1 Capital Based (OJK definition: profit / average Tier 1 capital), bank only. The same table prints ROE - Equity Based (average total equity) = 14.2%."
+            },
+            "roa": {
+                "v": 2.5,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only."
+            },
+            "nim": {
+                "v": 4.2,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": 1.1,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2024/BBNI-Corporate-Presentation-FY24.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 68, 5 Years Financial Data (2), 'Credit Cost' (all ratios bank only)",
+                "basis": "bank_only",
+                "note": "Credit cost (CKPN/provision cost to average loans), bank only. Same values appear in each year's own FY analyst deck."
+            },
+            "npl_gross": {
+                "v": 2,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only."
+            },
+            "npl_net": {
+                "v": 0.7,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": 10.3,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (BNI's LaR; includes restructured loans incl. COVID restructuring in 2020-2022)."
+            },
+            "npl_coverage": {
+                "v": 255.8,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' (CKPN on loans / NPL), bank only."
+            },
+            "ldr": {
+                "v": 96.1,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 21.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk, bank only."
+            },
+            "cir": {
+                "v": 44.6,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio, bank only."
+            },
+            "bopo": {
+                "v": 70,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 70.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds), bank only. BNI analyst decks also show a consolidated CASA that differs slightly (e.g. FY2024 69.9 consolidated vs 70.4 bank only)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 20040.703,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1268 (FS p. 6), Consolidated statement of profit or loss, 'Laba tahun berjalan diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 537,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1269 (FS p. 7), 'Laba per saham dasar/dilusian diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Weighted average 37,297,312,916 shares (Note 43). No dilutive shares."
+            },
+            "payout_ratio": {
+                "v": 65,
+                "source_url": "https://keuangan.kontan.co.id/news/siap-siap-bni-tebar-dividen-rp-1303-triliun-investor-terima-rp-34941-per-saham",
+                "source_type": "news",
+                "as_of_date": "2025-12-31",
+                "loc": "Kontan article 16 Mar 2026, paragraph on AGMS of 9 Mar 2026",
+                "basis": "consolidated",
+                "note": "News: 'setara 65% dari laba bersih yang dapat diatribusikan kepada pemilik entitas induk'. No company document retrievable (bni.co.id/idx.co.id bot-protected). Consistent with the Rp13,026.457bn paid in 1H2026 per the 1H2026 published statement (filing)."
+            },
+            "total_assets": {
+                "v": 1362054.731,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1264 (FS p. 2), Consolidated statement of financial position, 'Total aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 899530.691,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1264 (FS p. 2), Consolidated statement of financial position, 'Total pinjaman yang diberikan' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 1040834.424,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1265 (FS p. 3), Consolidated statement of financial position, 'Total simpanan nasabah'",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 171730.144,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1266 (FS p. 4), Consolidated statement of financial position, 'Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 176339.368,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1266 (FS p. 4), Consolidated statement of financial position, 'Total ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 37297312916,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1266 (FS p. 4) face + PDF p. 1475 (Note 34 share capital)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid 37,297,312,916 shares; treasury shares nil at 31 Dec 2025 (balance-sheet line 'Saham treasuri' = '-')."
+            },
+            "year_end_price": {
+                "v": 4370,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 35 (printed p. 33), Shares Overview, BBNI share price table, 2025 Quarter IV closing",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the exact session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 14,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROE - Tier 1 Capital Based (OJK definition: profit / average Tier 1 capital), bank only. The same table prints ROE - Equity Based (average total equity) = 12.7%."
+            },
+            "roa": {
+                "v": 2.1,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only."
+            },
+            "nim": {
+                "v": 3.8,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not found: AR2025 prints no FY2025 credit-cost ratio (only the 2026 target 1.0%-1.2%), and the FY2025 analyst presentation could not be retrieved (bni.co.id bot-protected, not archived)."
+            },
+            "npl_gross": {
+                "v": 1.9,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only."
+            },
+            "npl_net": {
+                "v": 0.7,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": 8.5,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Loan at Risk, bank only (BNI's LaR; includes restructured loans incl. COVID restructuring in 2020-2022)."
+            },
+            "npl_coverage": {
+                "v": 205.5,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' (CKPN on loans / NPL), bank only. MD&A text (AR2025 PDF p. 364) quotes 206.4%; the table value is stored."
+            },
+            "ldr": {
+                "v": 86.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 20.7,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk, bank only."
+            },
+            "cir": {
+                "v": 46.5,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio, bank only."
+            },
+            "bopo": {
+                "v": 72.9,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 70.4,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR2025-English.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 28-29 (printed pp. 26-27), Important Financial Data Overview, Financial Ratios (Bank Only)",
+                "basis": "bank_only",
+                "note": "CASA ratio (current + savings / third-party funds), bank only. BNI analyst decks also show a consolidated CASA that differs slightly (e.g. FY2024 69.9 consolidated vs 70.4 bank only)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 44.022623,
+            "total": 820.100820494,
+            "cum_date": "2021-04-07",
+            "ex_date": "2021-04-08",
+            "record_date": "2021-04-09",
+            "pay_date": "2021-04-30",
+            "share_basis": "2021-03-31",
+            "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/Pemberitahuan-Jadwal-dan-Tata-Cara-Pembagian-Dividen-Tunai-English.PDF",
+            "source_type": "company_release",
+            "as_of_date": "2021-03-31",
+            "loc": "p. 1, Announcement of the schedule and procedures of cash dividend payment (AGMS 29 Mar 2021)",
+            "note": "Rp820,100,820,494.00 = Rp44.022623/share (pre-split). 25% payout. AR2024/AR2025 dividend tables print 44.0 (as originally paid)."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 146.296886956,
+            "total": 2724.629398182,
+            "cum_date": "2022-03-23",
+            "ex_date": "2022-03-24",
+            "record_date": "2022-03-25",
+            "pay_date": "2022-04-14",
+            "share_basis": "2022-03-17",
+            "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/Pemberitahuan-Kepada-Pemegang-Saham-2021-English.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-03-17",
+            "loc": "pp. 1-2, Announcement of the schedule and procedures of cash dividend payment (AGMS 15 Mar 2022)",
+            "note": "Rp2,724,629,398,182 (25% of FY2021 profit) = at least Rp146.296886956/share (pre-split)."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 392.7810504,
+            "total": 7324.821242436,
+            "cum_date": "2023-03-27",
+            "ex_date": "2023-03-28",
+            "record_date": "2023-03-29",
+            "pay_date": "2023-04-14",
+            "share_basis": "2023-03-16",
+            "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/Pemberitahuan-Kepada-Pemegang-Saham-2022-EN.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-03-16",
+            "loc": "pp. 1-2, Announcement of schedule and procedure of cash dividend payment (AGMS 15 Mar 2023)",
+            "note": "Rp7,324,821,242,436 (40%) = at least Rp392.78105040/share, paid BEFORE the 2023-10-06 1:2 split (pre-split DPS). AR2024/AR2025 dividend tables print this as 196.4 (split-adjusted) - not used."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 280.4951698496,
+            "total": 10454.738074671,
+            "cum_date": "2024-03-14",
+            "ex_date": "2024-03-15",
+            "record_date": "2024-03-18",
+            "pay_date": "2024-04-02",
+            "share_basis": "2024-03-05",
+            "source_url": "https://bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2024-IND.pdf",
+            "source_type": "filing",
+            "as_of_date": "2024-03-05",
+            "loc": "PDF pp. 375-377 (printed 373-375), Kebijakan Dividen dan Pembagiannya: AGMS FY2023 resolution + schedule table + 5-year history",
+            "note": "AGMS 4 Mar 2024; announced 5 Mar 2024 (AR2025 history table). Rp10,454,738,074,671 (50%) = Rp280.49516984960/share (post-split). The IR notice PDF for FY2023 is image-only, so the AR is the source."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 374.0574842225,
+            "total": 13951.3390376189,
+            "cum_date": "2025-04-14",
+            "ex_date": "2025-04-15",
+            "record_date": "2025-04-16",
+            "pay_date": "2025-04-25",
+            "share_basis": "2025-03-27",
+            "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/Pemberitahuan-Kepada-Pemegang-Saham-2024-EN.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-03-27",
+            "loc": "pp. 1-2, Notice to shareholders: schedule and procedures for distribution of cash dividends FY2024",
+            "note": "Rp13,951,339,037,618.90 (65%) = at least Rp374.05748422250/share. AGMS 26 Mar 2025. Same schedule in AR2025 PDF p. 402."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 349.4133654,
+            "total": 13026.4570384243,
+            "cum_date": "2026-03-17",
+            "ex_date": "2026-03-25",
+            "record_date": "2026-03-26",
+            "pay_date": "2026-04-07",
+            "share_basis": "2026-03-11",
+            "source_url": "https://mediaasuransinews.co.id/perbankan/bni-bbni-tebar-dividen-rp349-per-saham-cek-jadwal-lengkapnya-di-sini/",
+            "source_type": "news",
+            "as_of_date": "2026-03-11",
+            "loc": "Article of 11 Mar 2026 quoting BNI's IDX disclosure of 11 Mar 2026 (schedule list)",
+            "note": "NEWS SOURCE (company/IDX documents not retrievable: bot protection). AGMS 9 Mar 2026; Rp13,026,457,038,424.30 (65%) = Rp349.4133654/share. Total corroborated by filing: 1H2026 published statement (https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf, PDF p. 3) shows 'Dividen yang dibayarkan' 13,026,457 (Rp juta). Ex-date 25 Mar 2026 follows the Idul Fitri market holiday; dates also in BCA Sekuritas and Fortune IDN; one Bisnis.com article (16 Mar 2026) printed a different schedule (cum 27 Mar / ex 30 Mar) that conflicts with all other sources."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 10755.836,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 5, Laporan Laba Rugi (konsolidasian), 'Laba bersih tahun berjalan yang dapat diatribusikan kepada: PEMILIK'",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Jun 2026, reviewed. Interim period is H1 2026, not 9M2026: the 9M2026 results were released 27 Oct 2026 but the primary documents (bni.co.id, idx.co.id) are bot-protected and not yet archived."
+            },
+            "profit_ytd_prior": {
+                "v": 10094.039,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 5, Laporan Laba Rugi (konsolidasian), 'Laba bersih tahun berjalan yang dapat diatribusikan kepada: PEMILIK' (comparative column)",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Jun 2025 comparative (unreviewed, unaudited)."
+            },
+            "equity_attr": {
+                "v": 161606.556,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 3, Laporan Posisi Keuangan (konsolidasian), 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "OJK published-statement format. NOT the same definition as the audited PSAK figure used in fy.*: this format moves the 'transactions with non-controlling interests' reserve (Rp2,257bn) into minority interest. At 31 Dec 2025 the same format shows 169,473.144 vs 171,730.144 in the audited statements."
+            },
+            "shares_out": {
+                "v": null,
+                "note": "Not disclosed in the H1 2026 published statement: treasury shares were bought in 2026 (Rp277,926 juta at cost, PDF p. 3) but the share count net of treasury is not printed. Issued shares remain 37,297,312,916."
+            },
+            "total_assets": {
+                "v": 1461001.157,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 2, Laporan Posisi Keuangan (konsolidasian), 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 968538.359,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 2, Laporan Posisi Keuangan (konsolidasian), 'Kredit yang diberikan' (gross)",
+                "basis": "consolidated",
+                "note": "At 31 Dec 2025 this line equals the audited 'Total pinjaman yang diberikan' (899,530.691)."
+            },
+            "loans_gross_prior": {
+                "v": null,
+                "note": "30 Jun 2025 consolidated balance sheet not in this document (balance-sheet comparative is 31 Dec 2025) and the H1 2025 statement could not be retrieved."
+            },
+            "deposits": {
+                "v": null,
+                "note": "The OJK-format balance sheet prints current accounts, savings and time deposits separately with no total line; not summed here (no derived values)."
+            },
+            "deposits_prior": {
+                "v": null,
+                "note": "30 Jun 2025 balance sheet not available (see loans_gross_prior)."
+            },
+            "roe": {
+                "v": 14.54,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 6, Laporan Rasio Keuangan (Individual = bank only), 30 Jun 2026 column",
+                "basis": "bank_only",
+                "note": "ROE per OJK (annualised profit / average Tier 1 capital), same definition as fy.*.roe. 30 Jun 2025: 14.24."
+            },
+            "roa": {
+                "v": 1.92,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 6, Laporan Rasio Keuangan (Individual = bank only), 30 Jun 2026 column",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax, annualised). 30 Jun 2025: 2.23."
+            },
+            "nim": {
+                "v": 3.55,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 6, Laporan Rasio Keuangan (Individual = bank only), 30 Jun 2026 column",
+                "basis": "bank_only",
+                "note": "NIM per OJK. 30 Jun 2025: 3.83."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not in the published statement; H1 2026 analyst presentation not retrievable."
+            },
+            "npl_gross": {
+                "v": 1.93,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 6, Laporan Rasio Keuangan (Individual = bank only), 30 Jun 2026 column",
+                "basis": "bank_only",
+                "note": "30 Jun 2025: 1.95."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not in the published statement; H1 2026 analyst presentation not retrievable."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not in the published statement; H1 2026 analyst presentation not retrievable."
+            },
+            "ldr": {
+                "v": 87.73,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 6, Laporan Rasio Keuangan (Individual = bank only), 30 Jun 2026 column",
+                "basis": "bank_only",
+                "note": "30 Jun 2025: 86.18."
+            },
+            "car": {
+                "v": 18.09,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 6, Laporan Rasio Keuangan (Individual = bank only), 30 Jun 2026 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "30 Jun 2025: 21.07."
+            },
+            "cir": {
+                "v": 44.57,
+                "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/2026/BNI-Financial-Statement-1H2026-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 6, Laporan Rasio Keuangan (Individual = bank only), 30 Jun 2026 column",
+                "basis": "bank_only",
+                "note": "30 Jun 2025: 45.18."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not printed as a ratio in the published statement (components only); not derived."
+            }
+        }
+    },
+    "research_notes": [
+        "SOURCE ACCESS: www.bni.co.id (Imperva/Incapsula JS challenge) and www.idx.co.id (Cloudflare challenge) both block automated clients; no challenge was bypassed. Every BNI document was downloaded from Internet Archive (web.archive.org) snapshots of the exact bni.co.id URLs stored in source_url. Snapshot timestamps: AR2025 20260518165642; AR2024 20250711144506; AR2023 20250215195108; AR2022 20230327202127; AR2021 20220303083607; AR2020 20210612160450; FS2024 20250126070651; FS2023 20250127052402; FS2022 20230323013824; FS2021 20220303083714; FS2020 20210512035636; FS2019 20210512035657; FY24 deck 20250515172517; 1H2026 published FS 20261019060134; dividend notices FY2020 20210613111231, FY2021 20221222111733, FY2022 20230803041819, FY2024 20250515092308. URL form: https://web.archive.org/web/<timestamp>id_/<source_url>.",
+        "STOCK SPLIT DATE: the 1:2 split took effect on 2023-10-06 (first regular-market session at the new nominal value), not in 2024. Source: AR2023 p. 29 schedule; AR2025 repeats it.",
+        "SHARE_BASIS: for FY figures from audited FS/AR share tables, share_basis = the period-end/price date. That is a date on which the printed figure and the share count were on the same basis, checked with eps x shares_out = profit. FY2020-FY2022 EPS, shares, prices and DPS are pre-split, so the adjuster divides them by 2. BNI never restated pre-split EPS: the FY2023 FS comparative and the AR2024/AR2025 highlight tables still print FY2022 EPS 983 and FY2021 585. The AR2024/AR2025 dividend-history tables MIX bases: FY2022 DPS is printed split-adjusted (196.4), while FY2021 (146.3) and FY2020 (44.0) are printed as paid. All DPS were therefore taken from the original announcements, with share_basis = announcement date.",
+        "FY2020/FY2019 SCOPE: both years consolidate BNI Syariah, which merged into Bank Syariah Indonesia on 1 Feb 2021 and was deconsolidated in FY2021. FY2020 loans include sharia financing. Temporary syirkah deposits (2020: 31,880.7; 2019: 31,770.3 IDR bn) sit outside 'deposits from customers' and are NOT included in fy.*.deposits. AR2024 shows pro-forma ex-BNI Syariah 2020 figures (TA 839,910; loans 553,106; deposits 631,551). Growth 2020->2021 is therefore distorted by deconsolidation.",
+        "RESTATEMENTS: AR2025 restates FY2024 (and the 1 Jan 2024 opening balance) for PSAK 117 insurance contracts. FY2024 restated: TA 1,130,128.862; equity_attr 162,071.240; total equity 166,548.007. Profit attributable is unchanged at 21,463.599. fy.2024 and fy.2023 store the figures as originally reported in their own audited FS; restated values are given in the notes.",
+        "RATIO BASIS: all FY ratios are bank-only as printed in the AR 'Financial Ratios (Bank Only)' table: AR2025 for FY2021-FY2025, AR2024 for FY2020. These values were cross-checked against AR2020/AR2021/AR2022 and no definition changes were found. ROE stored = 'ROE - Tier 1 Capital Based' (OJK), the same definition as the interim OJK ratio; the equity-based ROE is quoted in each note. CoC FY2020-FY2024 comes from the FY2024 analyst deck (bank-only, consistent with each year's own deck). FY2025 CoC is null.",
+        "INTERIM: 9M2026 results were published on 2026-10-27; news reports net profit of about Rp16.1tn (+6.6% YoY), loans +22.2% YoY and quarterly NIM of about 3.3%. Neither the 9M2026 statement nor the presentation could be retrieved, so `interim` uses the reviewed H1 2026 published statement (filing). Interim equity_attr follows the OJK published format: about Rp2,257bn lower than the PSAK definition used for fy.*. Re-run when the 9M2026 documents become retrievable.",
+        "DIVIDENDS: there were no interim or special dividends out of FY2020-FY2025 profit. Each year's statement of changes in equity shows exactly one payment, equal to the prior-year final: 820.1 / 2,724.6 / 7,324.8 / 10,454.7 / 13,951.3, plus 13,026.5 in H1 2026. FY2026 interim: none announced as of BNI's public expose of 9 Sep 2026 (management said it was still under review; news), and no later announcement was found. Only the FY2025 final relies on news, for DPS and dates; its total is corroborated by the 1H2026 filing.",
+        "TREASURY SHARES / BUYBACKS: treasury shares at FY end were 19,579,700 (2020), 24,682,600 (2021), 0 (2022), 40,514,600 (2023), 0 (2024) and 0 (2025). The AGMS of 9 Mar 2026 approved a buyback of up to Rp905.48bn (news). The H1 2026 statement shows Rp277.9bn of treasury stock, so interim shares_out is null. No rights issues 2020-2026; the last rights issue was in Dec 2010.",
+        "SELF-CHECK (split-adjusted to post-split basis). eps x shares_out vs net_profit_attr: 2020 -0.05%, 2021 -0.03%, 2022 +0.11%, 2023 -0.04%, 2024 +0.09%, 2025 -0.06%. dps x FY-end shares_out vs dividend total: 2020 0.00%, 2021 0.00%, 2022 0.00%, 2023 -0.04%, 2024 0.00%, 2025 +0.04%; the 2023 and 2025 gaps come from treasury shares at the record date. net_profit_attr x payout vs total: all within 0.01%. No mismatch above 3%.",
+        "MODEL IMPACT (for the page code): the interim is newer than FY2025 and its shares_out is null, so stocks/_lib/model.php will compute no current TTM EPS / BVPS / P/E / P/B for BBNI unless it falls back to fy.2025.shares_out (37,297,312,916). Interim coc, lar, npl_coverage and casa are null, as are deposits and the *_prior balances, so the 'current' versions of those metrics and the loan/deposit growth figures will also be n/a. Replacing the interim with 9M2026 company documents, once they can be retrieved, would fill most of these gaps.",
+        "ir_url (https://www.bni.co.id/id-id/perusahaan/hubunganinvestor) follows the path quoted in BNI's own 2018 AGMS material. It could not be opened live because of the bot protection. AR2025: the English file BNI-AR2025-English.pdf was used; a second upload, BNI-AR2025-Inggris.pdf (archived 2026-08-25), exists and was not used.",
+        "MINOR DISCREPANCIES: AR2025 NPL coverage 2025 is 205.5% in the table but 206.4% in the MD&A text (table stored). Net NPL 2021 is 0.7 in the ARs but 0.9 in the FY2024 deck (AR stored). AR2023's quarterly price table prints some pre-split 2023 prices off the IDX tick grid (e.g. 9,226); these are irrelevant to the stored Q4 values."
+    ]
+}

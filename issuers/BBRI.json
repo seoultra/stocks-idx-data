@@ -1,0 +1,1682 @@
+{
+    "schema": 1,
+    "code": "BBRI",
+    "name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "name_short": "Bank Rakyat Indonesia",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://bri.co.id",
+    "ir_url": "https://www.ir-bri.com",
+    "kbmi": {
+        "v": 4,
+        "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p.210, Awards table: 'The Best KBMI 4 Bank' (Infobank, 4 Feb 2025)",
+        "basis": "n/a",
+        "note": "No direct regulatory statement of the KBMI tier was found in the AR/FS; the company's own award listings repeatedly place BRI in KBMI 4 (AR2024 PDF p.174-175: 'KBMI 4 (Modal Inti di atas Rp70 Triliun)'; AR2022 PDF p.192). Consistent with bank-only Tier 1 capital of Rp244,158bn at 31 Dec 2025 (FY2025 deck p.61), above the Rp70tn KBMI 4 threshold."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 1416758.84,
+                "source_url": "https://www.ir-bri.com/misc/QR/2020/FY-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p.7, Consolidated Statement of Financial Position (2019 comparative column): TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 907388.986,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR-2023-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p.28, Table of Financial Highlight: 'Loans, Sharia Receivables, and Financing' (2019 column)",
+                "basis": "consolidated",
+                "note": "Gross of allowance. Equals FY2020 audited FS (PDF p.6-7) loans 877,431,193 + sharia receivables & financing 25,766,197 + finance lease receivables 4,191,596 (Rp mn). Same figure in AR2021 p.32."
+            },
+            "deposits": {
+                "v": 1021196.659,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR-2023-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p.28, Table of Financial Highlight: 'Deposits from Customers**' (2019 column; ** incl. mudharabah and musyarakah)",
+                "basis": "consolidated",
+                "note": "Includes BRISyariah temporary syirkah funds: FY2020 audited FS PDF p.8-9 deposits from customers 996,377,825 + temporary syirkah funds 24,818,834 (Rp mn). AR2021 p.32 prints 987,405,271 for 2019 (excludes wadiah deposits) - not used."
+            },
+            "equity_attr": {
+                "v": 206323.433,
+                "source_url": "https://www.ir-bri.com/misc/QR/2020/FY-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p.9, Consolidated Statement of Financial Position: Total Equity Attributable to Equity Holders of the Parent Entity (2019 column)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 208784.336,
+                "source_url": "https://www.ir-bri.com/misc/QR/2020/FY-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p.9, Consolidated Statement of Financial Position: TOTAL EQUITY (2019 column)",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 18654.753,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.12, Consolidated Statement of Profit or Loss: Income for the year attributable to equity holders of the parent entity (2020*) restated column)",
+                "basis": "consolidated",
+                "note": "Identical in the original FY2020 audited FS (PDF p.11). PSAK 38 restatement left 2020 net income unchanged (acquirees' pre-acquisition income shown as a pro forma line)."
+            },
+            "eps": {
+                "v": 152,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.12, Earnings per share attributable to equity holders of the parent - Basic (2020*) column)",
+                "basis": "consolidated",
+                "share_basis": "2022-02-04",
+                "note": "Weighted average shares 122,564,847,240 (FY2021 FS PDF p.308, Note 49). Same 152 in original FY2020 FS (PDF p.11)."
+            },
+            "payout_ratio": {
+                "v": 65,
+                "source_url": "https://www.ir-bri.com/misc/AR/Final-AR-BRI-2021-English-Version-R.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.389, Announcement and Payment of Dividend: 'IDR12.13 trillion or 65% of the profit for the financial year 2020'",
+                "basis": "consolidated",
+                "note": "Of consolidated profit attributable to owners of the parent. Same 65 in AR2025 p.489 dividend history."
+            },
+            "total_assets": {
+                "v": 1610065.344,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.7, Consolidated Statement of Financial Position: TOTAL ASSETS (December 31, 2020*) restated column)",
+                "basis": "consolidated",
+                "note": "Restated under PSAK 38 to include PT Pegadaian and PT PNM (acquired 13 Sep 2021 under common control) as if combined from the start. Originally reported 1,511,804,628 (FY2020 FS PDF p.7). See research_notes."
+            },
+            "loans_gross": {
+                "v": 1020192.968,
+                "source_url": "https://www.ir-bri.com/misc/AR/Final-AR-BRI-2021-English-Version-R.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.32, Table of Financial Highlight: 'Loans, Sharia Receivables and Financing' (2020** restated column)",
+                "basis": "consolidated",
+                "note": "Gross of allowance. Equals FY2021 audited FS PDF p.6-7 (2020 restated): loans 943,787,634 + sharia receivables & financing 49,065,478 + finance receivables 27,339,856 (Rp mn). Includes Pegadaian/PNM financing (PSAK 38 restatement)."
+            },
+            "deposits": {
+                "v": 1120921.926,
+                "source_url": "https://www.ir-bri.com/misc/AR/Final-AR-BRI-2021-English-Version-R.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.32, Table of Financial Highlight: 'Deposits from Customers***' (2020** restated column; *** includes mudharabah and musyarakah deposits)",
+                "basis": "consolidated",
+                "note": "= FY2021 audited FS PDF p.8 (2020 restated) total deposits from customers 1,087,424,950 + temporary syirkah funds 33,496,976 (Rp mn). Originally reported 1,121,102,149 (intra-group deposits of Pegadaian/PNM eliminated on restatement)."
+            },
+            "equity_attr": {
+                "v": 226916.051,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.9, Consolidated Statement of Financial Position: Total Equity Attributable to Equity Holders of the Parent Entity (2020*) restated column)",
+                "basis": "consolidated",
+                "note": "Includes 'Pro forma capital arising from acquisition transaction with entities under common control' of Rp29,538,484 mn. Originally reported 197,377,567 (FY2020 FS PDF p.9)."
+            },
+            "total_equity": {
+                "v": 229466.882,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.9, Consolidated Statement of Financial Position: TOTAL EQUITY (2020*) restated column)",
+                "basis": "consolidated",
+                "note": "AR2021 p.33 and AR2024 p.23 misprint this as 229,446,882; audited FS value used. Originally reported 199,911,376."
+            },
+            "shares_out": {
+                "v": 122595346500,
+                "source_url": "https://www.ir-bri.com/misc/QR/2020/FY-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.9 (issued and fully paid 123,345,810,000 shares) and PDF p.19, Note 1d Treasury Stock ('the remaining treasury stock is 750,463,500 shares')",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued shares minus treasury shares (both printed in the FY2020 audited FS). Next treasury movement was 5 Feb 2021 (FY2021 FS PDF p.20)."
+            },
+            "year_end_price": {
+                "v": 4170,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2020-BBRI.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.29, BRI Stock Market Prices table: 2020 Quarter 4 closing price",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4-2020 closing price as printed in AR2020 (published before the Sep-2021 rights issue, so unadjusted). as_of_date set to FY end; the exact last trading day is not printed."
+            },
+            "roe": {
+                "v": 10.5,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.14, 'ROE' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROE on balance-sheet equity ('ROE B/S' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "roa": {
+                "v": 1.5,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.14, 'ROA' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROA after tax (labelled 'ROA After Tax' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "nim": {
+                "v": 7,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.14, 'NIM' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated NIM restated by the company under the methodology adopted Jan-2025 (monthly average earning assets excl. investments, derivative and acceptance receivables; FY2025 deck p.57-58 footnote: 'All historical data reflects this change'). Printed to 1 decimal."
+            },
+            "coc": {
+                "v": 3.48,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.33, 'Credit Cost' chart, CoC % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross cost of credit (loan provision expense / loans). Footnote: consolidated ratios computed on monthly data from Jan-2024; 2023-2024 adjusted to monthly."
+            },
+            "npl_gross": {
+                "v": 2.88,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross NPL."
+            },
+            "npl_net": {
+                "v": 0.8,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2024-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.27, Table of Financial Highlight - Financial Ratio (Bank Only), 2020*) restated column",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table."
+            },
+            "lar": {
+                "v": 28.26,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.32, 'LAR & LAR Coverage' chart, LAR % line",
+                "basis": "bank_only",
+                "note": "2020 LAR is bank-only per the page footnote ('Since 2021, LAR and LAR Coverage are presented in consolidated number'). Conflict: the same FY2025 deck labels 2020 LAR as 25.8% on p.14 ('Consolidated Number') and 28.3% on p.7; 28.26% (bank-only) matches the FY2023/FY2024/FY2025 loan-quality slides."
+            },
+            "npl_coverage": {
+                "v": 239.2,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL Coverage line",
+                "basis": "consolidated",
+                "note": "Consolidated loan-loss provision / NPL."
+            },
+            "ldr": {
+                "v": 83.66,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2024-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.27, Table of Financial Highlight - Financial Ratio (Bank Only), 2020*) restated column",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Bank-only chosen because the company's consolidated LDR definition changed (all subsidiaries vs bank entities only)."
+            },
+            "car": {
+                "v": 20.14,
+                "source_url": "https://www.ir-bri.com/misc/PS/2021/FY2021-Financial-Update-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.42, Consolidated Financial Highlights: Total CAR (2020 restated column)",
+                "basis": "consolidated",
+                "note": "Consolidated total CAR, 2020 restated for PSAK 38."
+            },
+            "cir": {
+                "v": 50.92,
+                "source_url": "https://www.ir-bri.com/misc/PS/2021/FY2021-Financial-Update-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.32, Consolidated Performance Highlight, 'CIR' chart, '2020 Restate.' bar",
+                "basis": "consolidated",
+                "note": "Consolidated cost-to-income ratio, 2020 restated for PSAK 38 (originally reported 45.95% in the same chart). Distinct from CER (52.70% on p.42)."
+            },
+            "bopo": {
+                "v": 81.22,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2024-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.28, Table of Financial Highlight - Financial Ratio (Bank Only), 2020*) restated column",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Operating expenses to operating income (BOPO)."
+            },
+            "casa": {
+                "v": 59.66,
+                "source_url": "https://www.ir-bri.com/misc/PS/2021/FY2021-Financial-Update-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p.42, Consolidated Financial Highlights: CASA (2020 restated column)",
+                "basis": "consolidated",
+                "note": "Consolidated (current + savings) / customer deposits."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 31066.592,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.12, Consolidated Statement of Profit or Loss: Income for the year attributable to equity holders of the parent entity (2021)",
+                "basis": "consolidated",
+                "note": "Includes Pegadaian and PNM net profit only from 13 Sep 2021 (pre-acquisition income removed via the PSAK 38 pro forma line)."
+            },
+            "eps": {
+                "v": 238,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.12, Earnings per share - Basic (2021); Note 49 PDF p.308",
+                "basis": "consolidated",
+                "share_basis": "2022-02-04",
+                "note": "Weighted average 130,552,591,419 shares (rights issue added 28.2bn shares in Sep-2021)."
+            },
+            "payout_ratio": {
+                "v": 85,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.488-489, Table of Dividends Announcement and Payment History: 2021 Final, Dividend Payout Ratio (%)",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 1678097.734,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.7, Consolidated Statement of Financial Position: TOTAL ASSETS (2021)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1042867.453,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.26, Table of Financial Highlight: 'Loans, Sharia Receivables, and Financing' (2021)",
+                "basis": "consolidated",
+                "note": "= FY2021 FS PDF p.6-7: loans 994,416,523 + sharia receivable & financing 9,159,501 + finance receivables 39,291,429 (Rp mn)."
+            },
+            "deposits": {
+                "v": 1138743.215,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.8, Consolidated Statement of Financial Position: Total Deposits from Customers (2021)",
+                "basis": "consolidated",
+                "note": "No temporary syirkah funds after BRISyariah merged into BSI (Feb-2021)."
+            },
+            "equity_attr": {
+                "v": 288734.983,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.9, Total Equity Attributable to Equity Holders of the Parent Entity (2021)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 291786.804,
+                "source_url": "https://www.ir-bri.com/misc/QR/2021/FY-2021-Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.9, TOTAL EQUITY (2021)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 151543069704,
+                "source_url": "https://www.ir-bri.com/misc/QR/2022/FY2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.14 (issued 151,559,001,604 shares) and PDF p.27, Note 1d ('For transactions that occurred in 2021, the total treasury stock owned by BRI were 15,931,900 shares')",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued minus treasury. The FY2021 FS itself (PDF p.22) prints 15,931,600 treasury shares; FY2022-FY2025 FS all print 15,931,900 (300-share difference, immaterial)."
+            },
+            "year_end_price": {
+                "v": 4110,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2022-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.39, Table of BRI Stock Information 2021-2022: 2021 Quarter IV closing",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Post-rights-issue actual close (AR footnote: only Q1-Q3 2021 prices were rights-adjusted). as_of_date set to FY end."
+            },
+            "roe": {
+                "v": 12.2,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.14, 'ROE' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROE on balance-sheet equity ('ROE B/S' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "roa": {
+                "v": 1.9,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.14, 'ROA' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROA after tax (labelled 'ROA After Tax' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "nim": {
+                "v": 7.5,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.14, 'NIM' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated NIM restated by the company under the methodology adopted Jan-2025 (monthly average earning assets excl. investments, derivative and acceptance receivables; FY2025 deck p.57-58 footnote: 'All historical data reflects this change'). Printed to 1 decimal."
+            },
+            "coc": {
+                "v": 3.58,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.33, 'Credit Cost' chart, CoC % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross cost of credit (loan provision expense / loans). Footnote: consolidated ratios computed on monthly data from Jan-2024; 2023-2024 adjusted to monthly."
+            },
+            "npl_gross": {
+                "v": 3,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross NPL."
+            },
+            "npl_net": {
+                "v": 0.7,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table."
+            },
+            "lar": {
+                "v": 23.31,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.32, 'LAR & LAR Coverage' chart, LAR % line",
+                "basis": "consolidated",
+                "note": "Consolidated loan at risk (NPL + SML + restructured-current) / loans. Page footnote: 'Since 2021, LAR and LAR Coverage are presented in consolidated number'."
+            },
+            "npl_coverage": {
+                "v": 281.16,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL Coverage line",
+                "basis": "consolidated",
+                "note": "Consolidated loan-loss provision / NPL."
+            },
+            "ldr": {
+                "v": 83.67,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Bank-only chosen because the company's consolidated LDR definition changed (all subsidiaries vs bank entities only)."
+            },
+            "car": {
+                "v": 27.16,
+                "source_url": "https://www.ir-bri.com/misc/PS/2022/FY-2022-Financial-Update-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.21, Performance Highlight: Consolidated vs Bank Only - Consolidated 2021, Total CAR",
+                "basis": "consolidated"
+            },
+            "cir": {
+                "v": 48.56,
+                "source_url": "https://www.ir-bri.com/misc/PS/2022/FY-2022-Financial-Update-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.21, Performance Highlight: Consolidated vs Bank Only - Consolidated 2021, Cost to Income Ratio (CIR)",
+                "basis": "consolidated",
+                "note": "Pre-2023 CIR definition (see research_notes)."
+            },
+            "bopo": {
+                "v": 74.3,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Operating expenses to operating income (BOPO)."
+            },
+            "casa": {
+                "v": 63.08,
+                "source_url": "https://www.ir-bri.com/misc/PS/2022/FY-2022-Financial-Update-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p.21, Performance Highlight: Consolidated vs Bank Only - Consolidated 2021, CASA",
+                "basis": "consolidated"
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 51170.312,
+                "source_url": "https://www.ir-bri.com/misc/QR/2022/FY2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.17, Consolidated Statement of Profit or Loss: Income for the year attributable to equity holders of the parent entity (2022)",
+                "basis": "consolidated",
+                "note": "AR2023 p.30 misprints this as 48,333,349 (that is comprehensive income attributable); audited FS value used."
+            },
+            "eps": {
+                "v": 338,
+                "source_url": "https://www.ir-bri.com/misc/QR/2022/FY2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.17, Earnings per share - Basic (2022)",
+                "basis": "consolidated",
+                "share_basis": "2023-02-08"
+            },
+            "payout_ratio": {
+                "v": 85,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.487, Table of Dividend Announcement and Payment: 2022 Fiscal Year, Dividend Pay Out Ratio '85% of the attributable profit for the year 2022'",
+                "basis": "consolidated",
+                "note": "Total incl. Rp57 interim (AR2025 p.488 footnote **)."
+            },
+            "total_assets": {
+                "v": 1865639.01,
+                "source_url": "https://www.ir-bri.com/misc/QR/2022/FY2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.12, Consolidated Statement of Financial Position: TOTAL ASSETS (2022)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1139077.065,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.26, Table of Financial Highlight: 'Loans, Sharia Receivables, and Financing' (2022)",
+                "basis": "consolidated",
+                "note": "= FY2022 FS PDF p.11-12: loans 1,079,274,819 + sharia loans 10,514,329 + finance receivables 49,287,917 (Rp mn)."
+            },
+            "deposits": {
+                "v": 1307884.013,
+                "source_url": "https://www.ir-bri.com/misc/QR/2022/FY2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.13, Total Deposits from Customers (2022)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 299294.011,
+                "source_url": "https://www.ir-bri.com/misc/QR/2022/FY2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.14, Total Equity Attributable to Equity Holders of the Parent Entity (2022)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 303395.317,
+                "source_url": "https://www.ir-bri.com/misc/QR/2022/FY2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.14, TOTAL EQUITY (2022)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 151070680004,
+                "source_url": "https://www.ir-bri.com/misc/QR/2022/FY2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.14 (issued 151,559,001,604 shares) and PDF p.28, Note 1d ('As of December 31, 2022, total treasury stock owned by BRI were 488,321,600 shares')",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued minus treasury."
+            },
+            "year_end_price": {
+                "v": 4940,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR-2023-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.36, Table of BRI Stock Information 2022-2023: 2022 Quarter IV closing",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "as_of_date set to FY end; exact last trading day not printed."
+            },
+            "roe": {
+                "v": 17.6,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.14, 'ROE' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROE on balance-sheet equity ('ROE B/S' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "roa": {
+                "v": 3,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.14, 'ROA' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROA after tax (labelled 'ROA After Tax' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "nim": {
+                "v": 7.9,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.14, 'NIM' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated NIM restated by the company under the methodology adopted Jan-2025 (monthly average earning assets excl. investments, derivative and acceptance receivables; FY2025 deck p.57-58 footnote: 'All historical data reflects this change'). Printed to 1 decimal."
+            },
+            "coc": {
+                "v": 2.55,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.33, 'Credit Cost' chart, CoC % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross cost of credit (loan provision expense / loans). Footnote: consolidated ratios computed on monthly data from Jan-2024; 2023-2024 adjusted to monthly."
+            },
+            "npl_gross": {
+                "v": 2.67,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross NPL."
+            },
+            "npl_net": {
+                "v": 0.73,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table."
+            },
+            "lar": {
+                "v": 16.54,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.32, 'LAR & LAR Coverage' chart, LAR % line",
+                "basis": "consolidated",
+                "note": "Consolidated LAR. The FY2022 deck (p.25) originally printed 16.46%; FY2023-FY2025 decks print 16.54%."
+            },
+            "npl_coverage": {
+                "v": 305.73,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL Coverage line",
+                "basis": "consolidated",
+                "note": "Consolidated loan-loss provision / NPL."
+            },
+            "ldr": {
+                "v": 79.17,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Bank-only chosen because the company's consolidated LDR definition changed (all subsidiaries vs bank entities only)."
+            },
+            "car": {
+                "v": 25.54,
+                "source_url": "https://www.ir-bri.com/misc/PS/2022/FY-2022-Financial-Update-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.21, Performance Highlight: Consolidated vs Bank Only - Consolidated 2022, Total CAR",
+                "basis": "consolidated",
+                "note": "FY2023 deck p.6 later shows 25.51% for 2022."
+            },
+            "cir": {
+                "v": 47.38,
+                "source_url": "https://www.ir-bri.com/misc/PS/2022/FY-2022-Financial-Update-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.21, Performance Highlight: Consolidated vs Bank Only - Consolidated 2022, Cost to Income Ratio (CIR)",
+                "basis": "consolidated",
+                "note": "Pre-2023 CIR definition; the FY2023 deck (p.6) restates 2022 to 44.87% under the new definition (see research_notes)."
+            },
+            "bopo": {
+                "v": 64.2,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Operating expenses to operating income (BOPO)."
+            },
+            "casa": {
+                "v": 66.7,
+                "source_url": "https://www.ir-bri.com/misc/PS/2022/FY-2022-Financial-Update-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p.21, Performance Highlight: Consolidated vs Bank Only - Consolidated 2022, CASA",
+                "basis": "consolidated"
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 60099.863,
+                "source_url": "https://www.ir-bri.com/misc/QR/2023/FY-2023-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.17, Consolidated Statement of Profit or Loss: Income for the year attributable to equity holders of the parent entity (2023)",
+                "basis": "consolidated",
+                "note": "Not restated (same 60,099,863 in FY2024 FS PDF p.20 and AR2025 p.28)."
+            },
+            "eps": {
+                "v": 398,
+                "source_url": "https://www.ir-bri.com/misc/QR/2023/FY-2023-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.17, Earnings per share - Basic (2023)",
+                "basis": "consolidated",
+                "share_basis": "2024-02-02"
+            },
+            "payout_ratio": {
+                "v": 80.04,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.487, Table of Dividend Announcement and Payment: 2023 Fiscal Year, '80,04% of the attributable profit for the year 2023'",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 1965414.954,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.15, Consolidated Statement of Financial Position: TOTAL ASSETS, column 'January 1, 2024/December 31, 2023*)'",
+                "basis": "consolidated",
+                "note": "Restated for PSAK 117 (insurance contracts, adopted 1 Jan 2025) in the FY2025 audited FS (Note 52). Originally reported 1,965,007,030 (FY2023 FS PDF p.12)."
+            },
+            "loans_gross": {
+                "v": 1266429.247,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.26, Table of Financial Highlight: 'Loans, Sharia Receivables, and Financing' (2023)",
+                "basis": "consolidated",
+                "note": "Same total in original FY2023 FS (loans 1,197,752,706 + sharia loans 13,668,220 + finance receivables 55,008,321) and in the reclassified FY2024/FY2025 FS presentation."
+            },
+            "deposits": {
+                "v": 1358328.761,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.16, Total Deposits from Customers, column 'January 1, 2024/December 31, 2023*)'",
+                "basis": "consolidated",
+                "note": "Unchanged by restatement."
+            },
+            "equity_attr": {
+                "v": 311465.937,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.17, Total equity attributable to equity holders of the parent entity, column 'January 1, 2024/December 31, 2023*)'",
+                "basis": "consolidated",
+                "note": "Restated for PSAK 117 (insurance contracts, adopted 1 Jan 2025) in the FY2025 audited FS (Note 52). Originally reported 311,363,556 (FY2023 FS PDF p.14)."
+            },
+            "total_equity": {
+                "v": 316858.895,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.17, TOTAL EQUITY, column 'January 1, 2024/December 31, 2023*)'",
+                "basis": "consolidated",
+                "note": "Restated for PSAK 117 (insurance contracts, adopted 1 Jan 2025) in the FY2025 audited FS (Note 52). Originally reported 316,472,142."
+            },
+            "shares_out": {
+                "v": 150790856704,
+                "source_url": "https://www.ir-bri.com/misc/QR/2023/FY-2023-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.14 (issued 151,559,001,604 shares) and PDF p.27, Note 1d ('As of December 31, 2023, the total treasury stocks owned by BRI were 768,144,900 shares')",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued minus treasury."
+            },
+            "year_end_price": {
+                "v": 5725,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR-2023-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.36, Table of BRI Stock Information 2022-2023: 2023 Quarter IV closing",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "as_of_date set to FY end; exact last trading day not printed."
+            },
+            "roe": {
+                "v": 19.8,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.14, 'ROE' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROE on balance-sheet equity ('ROE B/S' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "roa": {
+                "v": 3.3,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.14, 'ROA' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROA after tax (labelled 'ROA After Tax' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "nim": {
+                "v": 8,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.14, 'NIM' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated NIM restated by the company under the methodology adopted Jan-2025 (monthly average earning assets excl. investments, derivative and acceptance receivables; FY2025 deck p.57-58 footnote: 'All historical data reflects this change'). Printed to 1 decimal."
+            },
+            "coc": {
+                "v": 2.37,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.33, 'Credit Cost' chart, CoC % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross cost of credit (loan provision expense / loans). Footnote: consolidated ratios computed on monthly data from Jan-2024; 2023-2024 adjusted to monthly."
+            },
+            "npl_gross": {
+                "v": 2.95,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross NPL."
+            },
+            "npl_net": {
+                "v": 0.76,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table."
+            },
+            "lar": {
+                "v": 12.47,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.32, 'LAR & LAR Coverage' chart, LAR % line",
+                "basis": "consolidated",
+                "note": "Consolidated loan at risk (NPL + SML + restructured-current) / loans. Page footnote: 'Since 2021, LAR and LAR Coverage are presented in consolidated number'."
+            },
+            "npl_coverage": {
+                "v": 229.09,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL Coverage line",
+                "basis": "consolidated",
+                "note": "Consolidated loan-loss provision / NPL."
+            },
+            "ldr": {
+                "v": 84.73,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Bank-only chosen because the company's consolidated LDR definition changed (all subsidiaries vs bank entities only)."
+            },
+            "car": {
+                "v": 27.27,
+                "source_url": "https://www.ir-bri.com/misc/PS/2023/FY23-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.6, Key Financial Highlights (Consolidated): Total CAR 2023",
+                "basis": "consolidated"
+            },
+            "cir": {
+                "v": 41.89,
+                "source_url": "https://www.ir-bri.com/misc/PS/2023/FY23-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.6, Key Financial Highlights (Consolidated): Cost to Income Ratio (CIR) 2023",
+                "basis": "consolidated",
+                "note": "New CIR definition from FY2023 deck onward (2022 restated to 44.87% on the same page)."
+            },
+            "bopo": {
+                "v": 64.35,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Operating expenses to operating income (BOPO)."
+            },
+            "casa": {
+                "v": 64.35,
+                "source_url": "https://www.ir-bri.com/misc/PS/2023/FY23-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p.6, Key Financial Highlights (Consolidated): CASA % 2023",
+                "basis": "consolidated"
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 59944.649,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.20, Consolidated Statement of Profit or Loss: income attributable to equity holders of the parent entity (2024*) restated column)",
+                "basis": "consolidated",
+                "note": "Restated for PSAK 117 (insurance contracts, adopted 1 Jan 2025) in the FY2025 audited FS (Note 52). Originally reported 60,154,887 (FY2024 FS PDF p.20); the FY2024 dividend payout (86%) was set on the original figure."
+            },
+            "eps": {
+                "v": 398,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.20, Earnings per share - Basic (2024*) restated column)",
+                "basis": "consolidated",
+                "share_basis": "2026-02-26",
+                "note": "Originally reported 399 (FY2024 FS PDF p.20)."
+            },
+            "payout_ratio": {
+                "v": 86,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.487, Table of Dividend Announcement and Payment: 2024 Fiscal Year, '86% of the attributable profit for the year 2024'",
+                "basis": "consolidated",
+                "note": "Computed by the company on original 2024 PATMI of Rp60,154.89bn."
+            },
+            "total_assets": {
+                "v": 1992186.906,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.15, TOTAL ASSETS (December 31, 2024*) restated column)",
+                "basis": "consolidated",
+                "note": "Restated for PSAK 117 (insurance contracts, adopted 1 Jan 2025) in the FY2025 audited FS (Note 52). Originally reported 1,992,983,447 (FY2024 FS PDF p.15)."
+            },
+            "loans_gross": {
+                "v": 1354640.779,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.26, Table of Financial Highlight: 'Loans, Sharia Receivables, and Financing' (2024*)",
+                "basis": "consolidated",
+                "note": "= FY2025 FS PDF p.14-15: loans 1,298,318,089 + sharia loans 49,889,082 + finance lease receivables 6,433,608 (Rp mn); unchanged by restatement."
+            },
+            "deposits": {
+                "v": 1365450.104,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.16, Total Deposits from Customers (2024*) column)",
+                "basis": "consolidated",
+                "note": "Unchanged by restatement."
+            },
+            "equity_attr": {
+                "v": 317028.351,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.17, Total equity attributable to equity holders of the parent entity (2024*) column)",
+                "basis": "consolidated",
+                "note": "Restated for PSAK 117 (insurance contracts, adopted 1 Jan 2025) in the FY2025 audited FS (Note 52). Originally reported 317,093,838."
+            },
+            "total_equity": {
+                "v": 323315.016,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.17, TOTAL EQUITY (2024*) column)",
+                "basis": "consolidated",
+                "note": "Restated for PSAK 117 (insurance contracts, adopted 1 Jan 2025) in the FY2025 audited FS (Note 52). Originally reported 323,189,047."
+            },
+            "shares_out": {
+                "v": 150649123304,
+                "source_url": "https://www.ir-bri.com/misc/QR/2024/FY-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.17 (issued 151,559,001,604 shares) and PDF p.38, Note 1d ('As of December 31, 2024, the total treasury stocks owned by BRI were 909,878,300 shares')",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued minus treasury."
+            },
+            "year_end_price": {
+                "v": 4080,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.35, BRI Stock Information Table 2024-2025: 2024 Quarter IV closing",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "as_of_date set to FY end; exact last trading day not printed."
+            },
+            "roe": {
+                "v": 18.9,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.14, 'ROE' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROE on balance-sheet equity ('ROE B/S' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "roa": {
+                "v": 3,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.14, 'ROA' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROA after tax (labelled 'ROA After Tax' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "nim": {
+                "v": 7.9,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.14, 'NIM' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated NIM restated by the company under the methodology adopted Jan-2025 (monthly average earning assets excl. investments, derivative and acceptance receivables; FY2025 deck p.57-58 footnote: 'All historical data reflects this change'). Printed to 1 decimal."
+            },
+            "coc": {
+                "v": 3.23,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.33, 'Credit Cost' chart, CoC % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross cost of credit (loan provision expense / loans). Footnote: consolidated ratios computed on monthly data from Jan-2024; 2023-2024 adjusted to monthly."
+            },
+            "npl_gross": {
+                "v": 2.78,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross NPL."
+            },
+            "npl_net": {
+                "v": 0.75,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table."
+            },
+            "lar": {
+                "v": 10.7,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.32, 'LAR & LAR Coverage' chart, LAR % line",
+                "basis": "consolidated",
+                "note": "Consolidated loan at risk (NPL + SML + restructured-current) / loans. Page footnote: 'Since 2021, LAR and LAR Coverage are presented in consolidated number'."
+            },
+            "npl_coverage": {
+                "v": 215.01,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL Coverage line",
+                "basis": "consolidated",
+                "note": "Consolidated loan-loss provision / NPL."
+            },
+            "ldr": {
+                "v": 89.39,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Bank-only chosen because the company's consolidated LDR definition changed (all subsidiaries vs bank entities only)."
+            },
+            "car": {
+                "v": 26.63,
+                "source_url": "https://www.ir-bri.com/misc/PS/2024/FY-2024-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.8, Key Financial Highlights (Consolidated): Total CAR 2024",
+                "basis": "consolidated",
+                "note": "FY2025 deck p.58 shows 26.6% for 2024."
+            },
+            "cir": {
+                "v": 41.59,
+                "source_url": "https://www.ir-bri.com/misc/PS/2024/FY-2024-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.8, Key Financial Highlights (Consolidated): Cost to Income Ratio (CIR) 2024",
+                "basis": "consolidated",
+                "note": "FY2025 deck shows 41.6% (p.58 table) and 41.4% (p.25 chart, after IFRS 17) for 2024."
+            },
+            "bopo": {
+                "v": 67.64,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Operating expenses to operating income (BOPO)."
+            },
+            "casa": {
+                "v": 67.3,
+                "source_url": "https://www.ir-bri.com/misc/PS/2024/FY-2024-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p.8, Key Financial Highlights (Consolidated): CASA % 2024",
+                "basis": "consolidated"
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 56652.384,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.20, Consolidated Statement of Profit or Loss: income attributable to equity holders of the parent entity (2025)",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 376,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.20, Earnings per share - Basic (2025)",
+                "basis": "consolidated",
+                "share_basis": "2026-02-26"
+            },
+            "payout_ratio": {
+                "v": 91.97,
+                "source_url": "https://www.ir-bri.com/dividend.html",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "IR Dividend page, row '2025 Final', column 'Dividend Payout Ratio (%)'",
+                "basis": "consolidated",
+                "note": "Total FY2025 cash dividend Rp52,102.41bn (Rp346/share incl. Rp137 interim) per 2026 AGMS results (10 Apr 2026)."
+            },
+            "total_assets": {
+                "v": 2135371.105,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.15, Consolidated Statement of Financial Position: TOTAL ASSETS (2025)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1521485.857,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.26, Table of Financial Highlight: 'Loans, Sharia Receivables, and Financing' (2025)",
+                "basis": "consolidated",
+                "note": "= FY2025 FS PDF p.14-15: loans 1,460,729,418 + sharia loans 56,350,282 + finance lease receivables 4,406,157 (Rp mn). FY2025 deck p.58 'Total Loan & Financing' 1,521,486."
+            },
+            "deposits": {
+                "v": 1466843.839,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.16, Total Deposits from Customers (2025)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 324033.858,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.17, Total equity attributable to equity holders of the parent entity (2025)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 330941.434,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.17, TOTAL EQUITY (2025)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 150600399404,
+                "source_url": "https://www.ir-bri.com/misc/QR/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.17 (issued 151,559,001,604 shares) and PDF p.39, Note 1d ('As of December 31, 2025, the total treasury stocks owned by BRI were 958,602,200 shares')",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued minus treasury."
+            },
+            "year_end_price": {
+                "v": 3660,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.35, BRI Stock Information Table 2024-2025: 2025 Quarter IV closing",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "as_of_date set to FY end; exact last trading day not printed."
+            },
+            "roe": {
+                "v": 17.4,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.14, 'ROE' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROE on balance-sheet equity ('ROE B/S' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "roa": {
+                "v": 2.7,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.14, 'ROA' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated ROA after tax (labelled 'ROA After Tax' in the same deck's p.58 table). Printed to 1 decimal; restated series."
+            },
+            "nim": {
+                "v": 7.8,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.14, 'NIM' chart (page footer: 'Consolidated Number')",
+                "basis": "consolidated",
+                "note": "Consolidated NIM restated by the company under the methodology adopted Jan-2025 (monthly average earning assets excl. investments, derivative and acceptance receivables; FY2025 deck p.57-58 footnote: 'All historical data reflects this change'). Printed to 1 decimal."
+            },
+            "coc": {
+                "v": 3.35,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.33, 'Credit Cost' chart, CoC % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross cost of credit (loan provision expense / loans). Footnote: consolidated ratios computed on monthly data from Jan-2024; 2023-2024 adjusted to monthly."
+            },
+            "npl_gross": {
+                "v": 3.07,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL % line",
+                "basis": "consolidated",
+                "note": "Consolidated gross NPL."
+            },
+            "npl_net": {
+                "v": 0.96,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table."
+            },
+            "lar": {
+                "v": 9.61,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.32, 'LAR & LAR Coverage' chart, LAR % line",
+                "basis": "consolidated",
+                "note": "Consolidated loan at risk (NPL + SML + restructured-current) / loans. Page footnote: 'Since 2021, LAR and LAR Coverage are presented in consolidated number'."
+            },
+            "npl_coverage": {
+                "v": 178.06,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.32, 'NPL & NPL Coverage' chart, NPL Coverage line",
+                "basis": "consolidated",
+                "note": "Consolidated loan-loss provision / NPL."
+            },
+            "ldr": {
+                "v": 91.96,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Bank-only chosen because the company's consolidated LDR definition changed (all subsidiaries vs bank entities only)."
+            },
+            "car": {
+                "v": 23.5,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.58, Key Financial Highlights (Consolidated): Total CAR 2025",
+                "basis": "consolidated",
+                "note": "Printed to 1 decimal."
+            },
+            "cir": {
+                "v": 42.5,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.58, Key Financial Highlights (Consolidated): Cost to Income Ratio (CIR) 2025",
+                "basis": "consolidated",
+                "note": "Printed to 1 decimal."
+            },
+            "bopo": {
+                "v": 71.5,
+                "source_url": "https://www.ir-bri.com/misc/AR/AR2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.31, Table of Financial Highlight - FINANCIAL RATIOS (BANKS ONLY)",
+                "basis": "bank_only",
+                "note": "OJK bank-only ratio from the annual report 'Financial Ratios (Banks Only)' table. Operating expenses to operating income (BOPO)."
+            },
+            "casa": {
+                "v": 70.6,
+                "source_url": "https://www.ir-bri.com/misc/PS/2025/FY-2025-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p.58, Key Financial Highlights (Consolidated): CASA % 2025",
+                "basis": "consolidated",
+                "note": "Printed to 1 decimal."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 98.90566,
+            "total": 12125.59,
+            "cum_date": "2021-04-05",
+            "ex_date": "2021-04-06",
+            "record_date": "2021-04-07",
+            "pay_date": "2021-04-28",
+            "share_basis": "2021-03-25",
+            "source_url": "https://www.ir-bri.com/newsroom/826089-20210329_BBRI_KeterbukaanInformasiterkaitAksiKorporasi_30866752.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-03-25",
+            "loc": "IDX e-reporting form 'Information Disclosure Concerning Corporate Action - Cash Dividend', English section: dividend per share and distribution schedule (letter B.40-SKP/CSM/CGC/3/2021, 30 Mar 2021)",
+            "note": "AGMS 25 Mar 2021, 65% payout. DPS as announced (AR2021 p.389 prints IDR98.90). The IR dividend page and AR2025 history show 96.49 because they are adjusted for the Sep-2021 rights issue - not used. The form's 'Total Value of Dividend' field shows 18,654.75bn (= FY2020 net profit, mis-entered); total 12,125.59bn taken from AR2025 p.489 dividend history (AR2021 p.389: 12,125.58)."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 174.25147,
+            "total": 26406.603,
+            "cum_date": "2022-03-10",
+            "ex_date": "2022-03-11",
+            "record_date": "2022-03-14",
+            "pay_date": "2022-04-01",
+            "share_basis": "2022-03-01",
+            "source_url": "https://www.ir-bri.com/newsroom/b54dc8062b_418099dc7c.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-03-01",
+            "loc": "IDX e-reporting form 'Information Disclosure Concerning Corporate Action - Cash Dividend', English section: dividend per share and distribution schedule (revised form, letter B.25/CSC/CSM/CGC/03/2022, 14 Mar 2022)",
+            "note": "AGMS 1 Mar 2022, 85% payout. The first form (4 Mar 2022, https://www.ir-bri.com/newsroom/a7e643f6d3_450f49511b.pdf) stated DPS 174.23316; revised to 174.25147. Total = form's 'Total Value of Dividend' IDR26,406,603,318,654.52. No interim dividend was paid for FY2021."
+        },
+        {
+            "fy": 2022,
+            "type": "interim",
+            "dps": 57,
+            "total": 8602.82,
+            "cum_date": "2023-01-09",
+            "ex_date": "2023-01-10",
+            "record_date": "2023-01-11",
+            "pay_date": "2023-01-27",
+            "share_basis": "2022-12-30",
+            "source_url": "https://www.ir-bri.com/newsroom/20221228_BBRI_Jadwal_Aksi_Korporasi_(Khusus_Penyampaian_Dividen_Interim)_31245761_lamp3.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-12-30",
+            "loc": "English announcement 'Schedule and Distribution Procedure of Interim Dividend for the Financial Year 2022', section I schedule",
+            "note": "Based on 30 Sep 2022 financials. Total = amount actually paid per AR2025 p.489 dividend history (IDX form gave a range 8,596.11-8,638.86bn)."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 231.22139,
+            "total": 34891.943,
+            "cum_date": "2023-03-21",
+            "ex_date": "2023-03-24",
+            "record_date": "2023-03-27",
+            "pay_date": "2023-04-12",
+            "share_basis": "2023-03-13",
+            "source_url": "https://www.ir-bri.com/newsroom/5354bb0bf9_d4d5bee9c5.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-03-13",
+            "loc": "IDX e-reporting form 'Information Disclosure Concerning Corporate Action - Cash Dividend', English section: dividend per share and distribution schedule (letter B-77.e-CSC/CSM/CGC/03/2023, 15 Mar 2023)",
+            "note": "AGMS 13 Mar 2023. FY2022 total cash dividend 43,494.77bn (Rp288.23/share incl. Rp57 interim) = 85% payout. Total = form's 'Total Value of Dividend' IDR34,891,942,584,681.02. Ex-date 24 Mar 2023 (22-23 Mar were exchange holidays)."
+        },
+        {
+            "fy": 2023,
+            "type": "interim",
+            "dps": 84,
+            "total": 12666.43,
+            "cum_date": "2023-12-29",
+            "ex_date": "2024-01-02",
+            "record_date": "2024-01-03",
+            "pay_date": "2024-01-18",
+            "share_basis": "2023-12-19",
+            "source_url": "https://www.ir-bri.com/newsroom/20231218_BBRI_Jadwal_Aksi_Korporasi_(Khusus_Penyampaian_Dividen_Interim)_31560396_lamp3.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-12-19",
+            "loc": "English announcement 'Schedule and Distribution Procedure of Interim Dividend for the Financial Year 2023', section I schedule",
+            "note": "Based on 30 Sep 2023 financials. Total = amount paid per AR2025 p.489 (IDX form range 12,651.00-12,730.96bn)."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 235,
+            "total": 35435.851,
+            "cum_date": "2024-03-13",
+            "ex_date": "2024-03-14",
+            "record_date": "2024-03-15",
+            "pay_date": "2024-03-28",
+            "share_basis": "2024-03-01",
+            "source_url": "https://www.ir-bri.com/newsroom/90e2a1036e_eb7080b829.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-03-01",
+            "loc": "IDX e-reporting form 'Information Disclosure Concerning Corporate Action - Cash Dividend', English section: dividend per share and distribution schedule (letter 01-PT-GP/Ket/III/2024, 4 Mar 2024)",
+            "note": "AGMS 1 Mar 2024. FY2023 total Rp319/share = 48,102.28bn (80.04% payout). Total = form's 'Total Value of Dividend' IDR35,435,851,325,440."
+        },
+        {
+            "fy": 2024,
+            "type": "interim",
+            "dps": 135,
+            "total": 20337.63,
+            "cum_date": "2024-12-24",
+            "ex_date": "2024-12-27",
+            "record_date": "2024-12-30",
+            "pay_date": "2025-01-15",
+            "share_basis": "2024-12-16",
+            "source_url": "https://www.ir-bri.com/newsroom/20241213_BBRI_Jadwal_Aksi_Korporasi_(Khusus_Penyampaian_Dividen_Interim)_31818903_lamp2.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-12-16",
+            "loc": "English announcement 'Schedule and Distribution Procedure of Interim Dividend for the Financial Year 2024', section I schedule",
+            "note": "Based on 30 Sep 2024 financials. Total = amount paid per AR2025 p.489 (IDX form range 20,337.63-20,460.47bn)."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 208.4,
+            "total": 31389.14,
+            "cum_date": "2025-04-10",
+            "ex_date": "2025-04-11",
+            "record_date": "2025-04-14",
+            "pay_date": "2025-04-23",
+            "share_basis": "2025-03-24",
+            "source_url": "https://www.ir-bri.com/newsroom/239dfd777e_4741c6de3d.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-03-24",
+            "loc": "IDX e-reporting form 'Information Disclosure Concerning Corporate Action - Cash Dividend', English section: dividend per share and distribution schedule (letter 22.PT-GP/Ket/III/2025, 26 Mar 2025)",
+            "note": "AGMS dated 24 Mar 2025 per this form and AR2025 p.198 (AR2025 p.487 and the IR dividend page say 25 Mar 2025). FY2024 total Rp343.4/share, 86% payout (51,726.77bn paid per AR2025 p.487). Total = amount paid per AR2025 p.489 (form range 31,372.16-31,397.92bn)."
+        },
+        {
+            "fy": 2025,
+            "type": "interim",
+            "dps": 137,
+            "total": 20632.255,
+            "cum_date": "2025-12-29",
+            "ex_date": "2025-12-30",
+            "record_date": "2026-01-02",
+            "pay_date": "2026-01-15",
+            "share_basis": "2025-12-17",
+            "source_url": "https://www.ir-bri.com/newsroom/KI_Jadwal_Dividen_Interim_Tahun_Buku_2025_V.English.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-12-17",
+            "loc": "English announcement 'Schedule and Distribution Procedure of Interim Dividend for the Financial Year 2025', section I schedule",
+            "note": "Based on 30 Sep 2025 financials. Total IDR20,632,254,718,348 as stated in the FY2025 final dividend form/AGMS results (13 Apr 2026). The announcement misprints the cash-market ex-date as 'January 5, 2025'."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 209,
+            "total": 31470.16,
+            "cum_date": "2026-04-20",
+            "ex_date": "2026-04-21",
+            "record_date": "2026-04-22",
+            "pay_date": "2026-05-08",
+            "share_basis": "2026-04-10",
+            "source_url": "https://www.ir-bri.com/newsroom/8476734055_ba6474dfbd.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-10",
+            "loc": "IDX e-reporting form 'Information Disclosure Concerning Corporate Action - Cash Dividend', English section: dividend per share and distribution schedule (letter 06-Ket/Not/IV/2026, 13 Apr 2026)",
+            "note": "AGMS 10 Apr 2026. FY2025 total IDR52,102,414,608,484 = Rp346/share incl. Rp137 interim; payout 91.97% per IR dividend page. Total = form's 'Total Value of Dividend' IDR31,470,159,890,136."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 30865.402,
+                "source_url": "https://www.ir-bri.com/misc/QR/2026/Q2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.20, Interim Consolidated Statement of Profit or Loss: profit attributable to equity holders of the parent entity, six months ended 30 Jun 2026",
+                "basis": "consolidated",
+                "note": "Audited interim FS (auditor report dated Aug-2026)."
+            },
+            "profit_ytd_prior": {
+                "v": 26276.701,
+                "source_url": "https://www.ir-bri.com/misc/QR/2026/Q2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p.20, same statement, comparative six months ended 30 Jun 2025",
+                "basis": "consolidated",
+                "note": "Comparative was neither audited nor reviewed (auditor's 'Other matter' paragraph)."
+            },
+            "equity_attr": {
+                "v": 321923.187,
+                "source_url": "https://www.ir-bri.com/misc/QR/2026/Q2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.17, Total equity attributable to equity holders of the parent entity (30 Jun 2026)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 150684189304,
+                "source_url": "https://www.ir-bri.com/misc/QR/2026/Q2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.16 (issued 151,559,001,604 shares) and PDF p.39, Note 1d ('As of June 30, 2026, the total treasury stocks owned by BRI were 874,812,300 shares')",
+                "basis": "n/a",
+                "share_basis": "2026-06-30",
+                "note": "Issued minus treasury."
+            },
+            "total_assets": {
+                "v": 2352380.589,
+                "source_url": "https://www.ir-bri.com/misc/QR/2026/Q2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.14, TOTAL ASSETS (30 Jun 2026)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1645533,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.19, consolidated balance sheet table: 'Loans & Financing' 1H26 (Rp bn); also p.56 'Total Loan & Financing'",
+                "basis": "consolidated",
+                "note": "= interim FS PDF p.13-14: loans 1,580,422,630 + sharia loans 61,208,742 + finance lease receivables 3,901,426 (Rp mn)."
+            },
+            "loans_gross_prior": {
+                "v": 1416619,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p.19, consolidated balance sheet table: 'Loans & Financing' 1H25 (Rp bn)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 1580681.886,
+                "source_url": "https://www.ir-bri.com/misc/QR/2026/Q2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.15, Total Deposits from Customers (30 Jun 2026)",
+                "basis": "consolidated"
+            },
+            "deposits_prior": {
+                "v": 1482120,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p.19, consolidated balance sheet table: 'Third Party Funds' 1H25 (Rp bn)",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 18.8,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.56, Key Financial Highlights (Consolidated): ROE B/S 1H26",
+                "basis": "consolidated",
+                "note": "Consolidated ROE on balance-sheet equity, annualised YTD; 1 decimal."
+            },
+            "roa": {
+                "v": 2.7,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.56, Key Financial Highlights (Consolidated): ROA After Tax 1H26",
+                "basis": "consolidated",
+                "note": "Annualised YTD; 1 decimal."
+            },
+            "nim": {
+                "v": 7.7,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.56, Key Financial Highlights (Consolidated): NIM 1H26",
+                "basis": "consolidated",
+                "note": "Methodology adopted Jan-2025 (same as FY series); 1 decimal."
+            },
+            "coc": {
+                "v": 3.08,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.32, 'Credit Cost' chart, CoC % 1H26",
+                "basis": "consolidated",
+                "note": "Consolidated gross credit cost (p.56 table: 3.1%)."
+            },
+            "npl_gross": {
+                "v": 2.9,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.31, 'NPL & NPL Coverage' chart, NPL % 1H26",
+                "basis": "consolidated"
+            },
+            "lar": {
+                "v": 9.15,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.31, 'LAR & LAR Coverage' chart, LAR % 1H26",
+                "basis": "consolidated"
+            },
+            "npl_coverage": {
+                "v": 180.25,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.31, 'NPL & NPL Coverage' chart, NPL Coverage 1H26",
+                "basis": "consolidated"
+            },
+            "ldr": {
+                "v": 91.3,
+                "source_url": "https://www.ir-bri.com/misc/QR/2026/BRI-Lapkeu-Q2-2026-Eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.11, Calculation of Financial Ratios (bank only, OJK quarterly publication): 14. Loan to Deposit Ratio (LDR), June 30, 2026",
+                "basis": "bank_only",
+                "note": "Bank-only, same basis as the FY ldr series."
+            },
+            "car": {
+                "v": 21.5,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.56, Key Financial Highlights (Consolidated): Total CAR 1H26",
+                "basis": "consolidated",
+                "note": "1 decimal."
+            },
+            "cir": {
+                "v": 39.2,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.56, Key Financial Highlights (Consolidated): Cost to Income Ratio (CIR) 1H26",
+                "basis": "consolidated",
+                "note": "1 decimal."
+            },
+            "casa": {
+                "v": 67.6,
+                "source_url": "https://www.ir-bri.com/misc/PS/2026/1H-2026-FU-Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p.56, Key Financial Highlights (Consolidated): CASA % 1H26",
+                "basis": "consolidated",
+                "note": "1 decimal."
+            }
+        }
+    },
+    "research_notes": [
+        "LEVEL BASIS: every level is the latest audited (restated where applicable) consolidated figure. FY2024 and the FY2023 balance sheet come from the FY2025 audited FS, restated for PSAK 117 (insurance contracts). The effect is small: 2024 total assets 1,992,186,906 vs 1,992,983,447 originally; 2024 PATMI 59,944,649 vs 60,154,887; EPS 398 vs 399 (Rp mn). The 2023 P&L was not restated.",
+        "PSAK 38 (FY2020): the FY2020 balance sheet is restated to include Pegadaian and PNM (common-control acquisition, 13 Sep 2021), per the FY2021 audited FS and every later multi-year table. FY2019 was never restated. As a result, 2020-vs-2019 growth is NOT like-for-like. Originally reported 2020 figures: total assets 1,511,804,628; total equity 199,911,376; equity attributable 197,377,567 (Rp mn). Restated 2020 equity attributable includes Rp29,538,484mn of pro forma acquiree capital, but 2020 profit (18,654,753, unchanged) excludes their income. Any ROE computed for 2020 (and the 2021 average) is therefore understated. 2021 profit includes Pegadaian/PNM only from 13 Sep 2021.",
+        "loans_gross = Loans + Sharia loans/receivables + Finance (lease) receivables, gross of allowance. This is the AR line 'Loans, Sharia Receivables, and Financing' and the deck's 'Total Loan & Financing'; it was checked against the FS lines for each year. deposits = customer deposits, plus temporary syirkah (mudharabah) funds in 2019-2020, when BRISyariah was consolidated; BRIS merged into BSI on 1 Feb 2021.",
+        "shares_out = issued shares (151,559,001,604 since the Sep-2021 rights issue; 123,345,810,000 before) minus the treasury shares printed in each FS Note 1d. The subtraction was done here, as instructed, because no net figure is printed. 2021 treasury: FY2021 FS says 15,931,600; FY2022-25 FS say 15,931,900 (used).",
+        "SELF-CHECK eps x shares_out vs net_profit_attr: within 0.25% for 2020, 2022-2025. 2021 is +16.1% (238 x 151.54bn = 36.07tn vs 31.07tn) because the rights issue added 28.2bn shares in Sep-2021; FY2021 basic EPS uses 130,552,591,419 weighted shares. This is expected; no data changed.",
+        "SELF-CHECK dividends: sum of dps x shares_out matches the sum of dividend totals within 0.2% for every FY 2020-2025. net_profit_attr x payout_ratio matches the totals within 0.1%, except FY2024 (-0.34%): the 86% payout was set on the original 2024 PATMI (60,154.89bn) and we store the PSAK-117 restated 59,944.65bn.",
+        "DIVIDENDS: DPS are raw figures as announced in the IDX e-reporting forms. The IR dividend page (ir-bri.com/dividend.html) and the AR2025 dividend history adjust pre-Sep-2021 DPS by a rights factor (FY2020 final: 96.49 vs 98.90566 announced) - not used for dps. BRI paid no interim for FY2020 or FY2021; interims resumed with FY2022 (paid Jan-2023; the previous ones were FY2009/FY2010). FY2026 interim: none announced as of 2026-11-02 (regulatory-filings list on ir-bri.com shows no interim-dividend item in 2026; prior interims were announced 16-30 Dec). Totals for interim and FY2024-final payments are the amounts actually paid (AR2025 p.489), because the IDX forms give only min/max ranges.",
+        "INTERIM: 9M2026 is not yet published. ir-bri.com financial reports, presentations and regulatory filings (checked 2026-11-02) end at Q2-2026; the only Q3 item is 'Notification to Engage a Limited Review of the Q3-2026 Quarterly Financial Statement' (23 Sep 2026), and the expected Q3-2026 URLs return 404. bri.co.id serves an Incapsula bot challenge and idx.co.id a Cloudflare 403; neither was bypassed. H1-2026 (audited interim FS) is used instead. Its *_prior values are 30 Jun 2025 figures from the 1H26 deck (the FS compares the balance sheet with 31 Dec 2025).",
+        "RATIO SOURCES: nim, roa, roe (FY2025 deck p.14) and coc (p.33), npl_gross, npl_coverage and lar (p.32) come from the single restated consolidated series in the FY2025 analyst deck, so 2020-2025 share one methodology. The new NIM method (Jan-2025) is applied retroactively, and consolidated ratios are monthly-based from 2024. NIM/ROA/ROE are printed to 1 decimal. As originally reported in each year's deck, consolidated values differ: NIM 2020R 6.90, 2021 7.70, 2022 7.85, 2023 7.95, 2024 7.74; ROE B/S 2020R 10.52, 2021 13.86, 2022 17.63, 2023 19.95, 2024 19.01; ROA AT 2020R 1.46, 2021 2.13, 2022 3.01, 2023 3.24, 2024 3.06; CoC 2021 3.78, 2023 2.38.",
+        "LAR 2020 is bank-only (28.26%); the decks say LAR is consolidated only from 2021. The FY2025 deck contradicts itself on 2020 LAR: 25.8% 'Consolidated Number' on p.14 vs 28.3% on p.7. The 1H2026 deck (p.31) silently shows different 2021-2022 history: NPL 3.09/3.30, NPL coverage 272.20/247.70, LAR 23.09/18.06. Those differ from the FY2021-FY2025 decks, which print 3.00/2.67, 281.16/305.73, 23.31/16.54 (kept). No explanation was found.",
+        "CIR, CAR and CASA are consolidated, as originally reported in each FY deck (2020 = PSAK-38 restated column in the FY2021 deck). CIR has a definition break between 2022 and 2023: the FY2023 deck restated 2022 from 47.38% to 44.87%. The FY2025 deck p.25 chart shows the old-definition series 50.9/48.6/47.4/41.9/41.4/42.5, with 2024 at 41.4% vs 41.59% in the FY2024 deck. CIR is not BOPO and not CER (cost efficiency ratio, e.g. 2021 consolidated CER 50.25%).",
+        "ldr, npl_net and bopo are BANK-ONLY OJK ratios (AR2025 p.31 for 2021-2025; AR2024 p.27-28 for 2020). The company's consolidated LDR changed definition: the FY2021 deck includes all subsidiaries (2021: 91.58%), while from the FY2022 deck it covers bank entities only (2021: 83.53%). Note that AR ratio tables mix bases: AR2024's 'bank only' CASA row is consolidated for 2021-2024, and AR2023 labels bank-only CIR as 'consolidated'. They were not used for those fields.",
+        "AR TYPOS found and avoided (audited FS used instead): AR2023 p.30 shows 2022 PATMI as 48,333,349 (that is comprehensive income); AR2021 p.33 and AR2024 p.23 show 2020 total equity as 229,446,882 (FS: 229,466,882); AR2025 p.488 dates the 2024-final cash-market cum and record dates as 2024 instead of 2025.",
+        "CORPORATE ACTIONS: no stock split or reverse split in 2020-2026 (AR2025 p.200 share chronology lists the last split on 10 Nov 2017; AR2025 p.36 states no share-count corporate actions in 2025; issued shares are unchanged at 151,559,001,604 at 30 Jun 2026, and the 2026 filings list shows no split). The only issuance was the Sep-2021 rights issue. Share buybacks in 2020 and 2022-2026 only move treasury shares. The rights record carries an extra key 'exercise_price' (Rp3,400) because the task requires it.",
+        "YEAR-END PRICES are the Q4 closing prices from the AR share tables. as_of_date/share_basis are set to Dec-31 because the ARs do not print the exact last trading day. The 2020 price comes from AR2020, which predates the rights issue and so is unadjusted; AR2021/AR2022 rights-adjusted only Q1-Q3 2021 prices.",
+        "KBMI 4 rests on company award listings (no regulatory statement found in the AR or FS), plus core capital far above the Rp70tn threshold. Treat it as well-supported but indirect."
+    ],
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "Rights issue (HMETD I) added 28.21bn shares in Sep 2021, so FY2021 basic EPS (Rp238) uses weighted-average shares of 130,552,591,419 (audited FS 2021, EPS note) while shares_out is the year-end 151.54bn. Profit 31,066,592 ÷ 130.55bn = 238 — the gap is real, not a data error."
+        }
+    ]
+}

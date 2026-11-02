@@ -1,0 +1,54 @@
+{
+    "schema": 1,
+    "actions": [
+        {
+            "code": "BBCA",
+            "type": "split",
+            "ratio_old": 1,
+            "ratio_new": 5,
+            "ex_date": "2021-10-13",
+            "source_url": "https://www.bca.co.id/-/media/Feature/Report/File/S8/RUPS/20211007-ina-pengumuman-jadwal-stock-split-original.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-10-07",
+            "loc": "p. 1, Pengumuman Jadwal dan Tata Cara Pemecahan Nilai Nominal Saham (Stock Split) - schedule item 3 'Awal perdagangan saham dengan nilai nominal baru di Pasar Reguler dan Pasar Negosiasi: 13 Oktober 2021'",
+            "note": "1 old share -> 5 new shares; nominal Rp62.50 -> Rp12.50; approved by EGM 2021-09-23. Last regular-market day at old nominal 2021-10-12; recording date 2021-10-14; KSEI distribution and cash-market start 2021-10-15 (the date the annual reports cite as 'stock split on October 15, 2021'). Shares 24,655,010,000 -> 123,275,050,000."
+        },
+        {
+            "code": "BBNI",
+            "type": "split",
+            "ratio_old": 1,
+            "ratio_new": 2,
+            "ex_date": "2023-10-06",
+            "source_url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/AR-BNI-2023-EN.pdf",
+            "source_type": "filing",
+            "as_of_date": "2023-09-29",
+            "loc": "PDF p. 29, Shares Overview, 'The Stock Split implementation schedule' table",
+            "note": "1 old share -> 2 new shares; nominal Series A/B Rp7,500 -> Rp3,750, Series C Rp375 -> Rp187.50; 18,648,656,458 -> 37,297,312,916 shares. EGMS approval 19 Sep 2023; schedule announced on IDX 29 Sep 2023; last regular/negotiated-market trading at old nominal 5 Oct 2023 (close Rp10,375); first regular/negotiated-market trading at new nominal 6 Oct 2023 (Rp5,200); recording date 9 Oct 2023; cash market at new nominal 10 Oct 2023. NOTE: the split was in 2023, not 2024. Confirmed by AR2025 PDF p. 205 ('Implementation of Stock Split' + share listing chronology) and AR2025 PDF p. 35 footnote ('effectively implemented ... October 6, 2023')."
+        },
+        {
+            "code": "BBRI",
+            "type": "rights",
+            "ratio_old": 1000000000,
+            "ratio_new": 230128553,
+            "ex_date": "2021-09-08",
+            "exercise_price": 3400,
+            "source_url": "https://www.ir-bri.com/newsroom/e1733771a4_d7ef9cdc3a.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-09-01",
+            "loc": "IDX e-reporting form 'Information Disclosure Concerning Corporate Action - Rights Issue' (letter B0008-CSC/CSM/CGC/08/2021, 1 Sep 2021), English section: rights issue ratio, exercise price and schedule",
+            "note": "PMHMETD I (HMETD) to form the ultra-micro holding (PT Pegadaian, PT PNM). Each holder of 1,000,000,000 shares on the 9 Sep 2021 register received 230,128,553 rights; 1 right = 1 new Series B share (nominal Rp50) at Rp3,400. Cum (regular & negotiation) 7 Sep 2021, ex 8 Sep 2021; rights trading/exercise 13-22 Sep 2021; allotment 27 Sep 2021. 28,213,191,604 new shares (123,345,810,000 -> 151,559,001,604); proceeds Rp95.92tn, of which Rp54.77tn Government in-kind (Pegadaian/PNM shares) and Rp41.15tn cash; TERP Rp3,810 (AR2025 PDF p.197). AGMS approval 22 Jul 2021. Not a split: no per-share adjustment factor."
+        },
+        {
+            "code": "BMRI",
+            "type": "split",
+            "ratio_old": 1,
+            "ratio_new": 2,
+            "ex_date": "2023-04-04",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BMRI_MCONV_20230405_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-03-14",
+            "loc": "KSEI notice KSEI-5775/JKU/0323 dated 30 Mar 2023, 'Jadwal Pelaksanaan Pemecahan Saham (Stock Split)', items 1-4",
+            "note": "1 old share -> 2 new shares; nominal Rp250 -> Rp125; issued shares 46,666,666,666 -> 93,333,333,332. Approved at AGM 14 Mar 2023 (AR2023 PDF p.558, printed p.556). KSEI schedule: last trade at old nominal in regular & negotiated market 3 Apr 2023; FIRST trade at new nominal in regular & negotiated market 4 Apr 2023 (= regular-market ex-date); recording date 5 Apr 2023; distribution of new shares / cash market at new nominal 6 Apr 2023. Bank Mandiri's own AR2023 (PDF p.40, p.201, p.558) says the split 'became effective'/shares listed 'as of 6 April 2023' - that is the distribution/cash-market date, NOT the regular-market ex-date."
+        }
+    ]
+}

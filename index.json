@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "name": "IDX stock fundamentals",
+    "description": "Source-backed annual and interim fundamentals for companies listed on the Indonesia Stock Exchange. Every number carries its source document, source type, as-of date and page. Not investment advice.",
+    "publisher": {
+        "name": "Jarot AI",
+        "parent_organization": "SEOULTRA",
+        "url": "https://seoultra.id/stocks/idx/"
+    },
+    "repository": "https://github.com/seoultra/stocks-idx-data",
+    "raw_base": "https://raw.githubusercontent.com/seoultra/stocks-idx-data/main/",
+    "data_through": "2026-09-30",
+    "units": {
+        "money": "IDR billion",
+        "per_share": "IDR per share as printed (raw) — apply splits from corporate_actions.json using each value's share_basis",
+        "shares": "whole shares",
+        "ratio": "percent (23.9 = 23.9%)",
+        "date": "YYYY-MM-DD"
+    },
+    "files": {
+        "sectors": "sectors.json",
+        "corporate_actions": "corporate_actions.json",
+        "macro": "macro.json",
+        "validation_report": "validation_report.json",
+        "schema": "SCHEMA.md"
+    },
+    "issuers": [
+        {
+            "code": "BBCA",
+            "name": "PT Bank Central Asia Tbk",
+            "name_short": "Bank Central Asia",
+            "sector": "banking",
+            "kbmi": 4,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 14,
+            "file": "issuers/BBCA.json",
+            "page": "https://seoultra.id/stocks/idx/bbca/"
+        },
+        {
+            "code": "BBRI",
+            "name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+            "name_short": "Bank Rakyat Indonesia",
+            "sector": "banking",
+            "kbmi": 4,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "H1 2026",
+            "interim_period_end": "2026-06-30",
+            "data_through": "2026-06-30",
+            "dividend_records": 10,
+            "file": "issuers/BBRI.json",
+            "page": "https://seoultra.id/stocks/idx/bbri/"
+        },
+        {
+            "code": "BMRI",
+            "name": "PT Bank Mandiri (Persero) Tbk",
+            "name_short": "Bank Mandiri",
+            "sector": "banking",
+            "kbmi": 4,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 8,
+            "file": "issuers/BMRI.json",
+            "page": "https://seoultra.id/stocks/idx/bmri/"
+        },
+        {
+            "code": "BBNI",
+            "name": "PT Bank Negara Indonesia (Persero) Tbk",
+            "name_short": "Bank Negara Indonesia",
+            "sector": "banking",
+            "kbmi": 4,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "H1 2026",
+            "interim_period_end": "2026-06-30",
+            "data_through": "2026-06-30",
+            "dividend_records": 6,
+            "file": "issuers/BBNI.json",
+            "page": "https://seoultra.id/stocks/idx/bbni/"
+        }
+    ]
+}
