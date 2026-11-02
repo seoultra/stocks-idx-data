@@ -1,0 +1,1421 @@
+{
+    "schema": 1,
+    "code": "MCOR",
+    "name": "PT Bank China Construction Bank Indonesia Tbk",
+    "name_short": "CCB Indonesia",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bankccbi.co.id",
+    "ir_url": "https://www.bankccbi.co.id/business-annual",
+    "kbmi": {
+        "v": 2,
+        "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF p. 61, Key Metrics: 'Capital Tier (Tier 1)' Rp6,475,768 juta at 31 Dec 2025",
+        "note": "KBMI 2 = core capital Rp6tn to below Rp14tn (POJK 12/POJK.03/2021). AR2023 PDF p. 7 states that core capital rose above Rp6tn at end-2023 'sehingga CCB Indonesia memenuhi syarat untuk ditingkatkan ke kategori KBMI 2' (early 2024); AR2023 PDF p. 132 still says KBMI 1 for 2023. AR2024/AR2025 award pages (AR2025 PDF p. 34) use 'KBMI 2, Swasta Asing'. Tier 1 was Rp6,690,613 juta at 30 Sep 2026 (published report PDF p. 7), still only ~11% above the KBMI 1/2 boundary."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 18893.684,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Same figure as the 2019 comparative in the FY2020 audited FS (LKT 2020 PDF p. 7). Before the 2020 rights issue."
+            },
+            "loans_gross": {
+                "v": 13858.412,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal (pihak berelasi + pihak ketiga) before 'Dikurangi: cadangan kerugian penurunan nilai'",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 12861.778,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Laporan Posisi Keuangan, 'Simpanan dari nasabah': pihak berelasi 149.113 + pihak ketiga 12.712.665 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka) = DPK; deposits from other banks are a separate line and excluded. Equals 'Simpanan Nasabah/Customer Funds' in the AR2025 highlights (PDF p. 28)."
+            },
+            "equity_attr": {
+                "v": 2794.858,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity. Before PUT V (Rp3.19tn raised in July 2020). Same as the FY2020 FS comparative."
+            },
+            "total_equity": {
+                "v": 2794.858,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 129,
+                "source_url": "https://www.bankccbi.co.id/res/annual/pdf/annual_38.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 23, 'Harga Saham Selama Tahun 2019' - quarterly table Triwulan IV 'Penutupan' and 'Kinerja Saham' 'Harga pada akhir tahun'",
+                "basis": "n/a",
+                "share_basis": "2019-12-31",
+                "note": "Close as traded on the last IDX session of 2019 (30 Dec 2019), i.e. BEFORE the PUT V rights issue (ex-date 2020-06-25); share_basis = period end per the brief's rights rule. AR2019 'Kinerja Saham' prints 'Harga pada akhir tahun 129' and the quarterly table Q4 2019 'Penutupan' 129; AR2020 PDF p. 23 two-year table prints the same 2019 Q4 close 129. CAUTION: the AR2019 monthly table is internally inconsistent (Desember high 140 / low 131 / close 129, i.e. close below the low), and its Q4 2019 market cap Rp2,124,004,111,350 is not 129 x any printed share count."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 49.979,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: net income = net income attributable to owners (AR highlights line 'Laba yang dapat diatribusikan kepada pemilik entitas induk' prints the same figure)."
+            },
+            "eps": {
+                "v": 1.91,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, 'LABA BERSIH PER SAHAM - Dasar dan dilusian (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic and diluted (in full Rupiah). Weighted average 26,112,302,203 shares (Note 32, LKT 2020 PDF p. 128) because the 21,288,269,763 PUT V shares were issued in July 2020; FY-end shares are 37,919,730,514 (see validation_ack eps_shares:2020)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/rups/Ringkasan-Risalah-RUPST-26-Aug-2021-ind-filled.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, Ringkasan Risalah RUPS Tahunan 2021-08-26, 'Mata Acara Kedua' (penggunaan laba tahun buku 2020)",
+                "basis": "n/a",
+                "note": "No dividend for FY2020: the AGMS of 2021-08-26 allocated the FY2020 net profit of Rp 49.979.991.702 to the statutory reserve (Rp500,000,000) and the rest to retained earnings 'untuk memperkuat struktur permodalan Perseroan'. The statements of changes in equity show no dividend distribution."
+            },
+            "total_assets": {
+                "v": 25235.573,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 14729.081,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal (pihak berelasi + pihak ketiga) before 'Dikurangi: cadangan kerugian penurunan nilai'",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 18452.403,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'Simpanan dari nasabah': pihak berelasi 23.461 + pihak ketiga 18.428.942 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka) = DPK; deposits from other banks are a separate line and excluded. Equals 'Simpanan Nasabah/Customer Funds' in the AR2025 highlights (PDF p. 28)."
+            },
+            "equity_attr": {
+                "v": 6016.716,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 6016.716,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 37919730514,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, equity section, 'Modal ditempatkan dan disetor penuh - 37.919.730.514 saham'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 139,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 23, Informasi Saham - quarterly share price table, Q4 closing ('Penutupan'/'Closing') and 'Harga pada akhir tahun'/'Price at the end of the year'",
+                "basis": "n/a",
+                "share_basis": "2022-01-12",
+                "note": "Quarterly table Q4 2020 'Penutupan' 139 and 'Harga pada akhir tahun 139'; Q4 2020 market cap Rp5,218,134,116,051 = 139 x 37,540,533,209 listed shares. Same in AR2021 PDF p. 25. Close is after the PUT V ex-date (2020-06-25), on the post-rights share count. share_basis = creation date of the AR2020 PDF as served (2022-01-12, apparently a later re-save of the 2021 report); the share count was 37,919,730,514 throughout Jul 2020-2026 and no split, reverse split or bonus has ever occurred, so the date changes no factor."
+            },
+            "roe": {
+                "v": 1.27,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 26, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2020 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "As reported in the OJK ratio table (OJK definition: annual profit after tax / average Tier 1 capital)."
+            },
+            "roa": {
+                "v": 0.29,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 26, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2020 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: profit before tax / average total assets)."
+            },
+            "nim": {
+                "v": 2.84,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 26, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2020 column, 'NIM'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: net interest income / average earning assets). AR2020 prints 2.84%; AR2021-AR2025 print 2.82% for 2020 (restated in later ARs). First-published value kept."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no cost-of-credit ratio in the AR2020 ratio table (PDF p. 26) or MD&A, nor in the annual Paparan Publik decks (PE2021-PE2026 checked); the OJK published-report ratio table has no CoC line (format checked Dec 2025, Mar 2026, Sep 2026). Not computed."
+            },
+            "npl_gross": {
+                "v": 2.94,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 26, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2020 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 1.92,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 26, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2020 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no loan-at-risk ratio in the AR2020 ratio table/MD&A or the Public Expose decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from the 30 Sep 2026 report (Dec 2025 and Mar 2026 reports have no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2020: the AR2020 only says the Bank keeps NPL coverage in line with its business plan (risk-management section), no ratio; the ratio table prints 'CKPN aset keuangan terhadap aset produktif' only. Not computed."
+            },
+            "ldr": {
+                "v": 79.82,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 26, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2020 column, 'LDR'",
+                "basis": "bank_only",
+                "note": "As reported (loans / third-party funds, OJK definition)."
+            },
+            "car": {
+                "v": 35.28,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 26, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2020 column, 'CAR Risiko Kredit + Pasar + Operasional'",
+                "basis": "bank_only",
+                "note": "Total CAR (credit + market + operational risk), as reported; the table also prints credit-risk-only and credit+market CAR. AR2020 prints CAR credit risk 38.40% for 2020 but AR2021+ 38.60%; the total CAR 35.28% is the same in every AR."
+            },
+            "cir": {
+                "v": 89.93,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 26, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2020 column, 'Rasio Biaya terhadap Pendapatan'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as reported ('Rasio Biaya terhadap Pendapatan'; English AR2025: 'Cost to Income Ratio'); a separate line from BOPO. Definition not printed. First disclosed in AR2020 (no 2019 value). High because NII (Rp562bn) barely covered opex (Rp514bn) in 2020."
+            },
+            "bopo": {
+                "v": 97.7,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 26, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2020 column, 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income (OJK), as reported."
+            },
+            "casa": {
+                "v": 28.9,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-2020-CCBI-IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 104, MD&A Dana Pihak Ketiga: 'Rasio CASA adalah sebesar 28,9% di akhir Desember 2020'",
+                "basis": "bank_only",
+                "note": "(Current accounts + savings) / third-party funds, as stated in the MD&A text. AR2021 (PDF p. 101) restates the end-2020 ratio as 28.85%."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 79.392,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: net income = net income attributable to owners (AR highlights line 'Laba yang dapat diatribusikan kepada pemilik entitas induk' prints the same figure)."
+            },
+            "eps": {
+                "v": 2.09,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, 'LABA BERSIH PER SAHAM - Dasar dan dilusian (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic and diluted (in full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/rups/Ringkasan-Risalah-RUPST-22-Jul-2022-%28IND%29_FINAL.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 2, Ringkasan Risalah RUPS Tahunan 2022-07-22, 'Mata Acara Kedua' (penggunaan laba tahun buku 2021)",
+                "basis": "n/a",
+                "note": "No dividend for FY2021: the AGMS of 2022-07-22 allocated the FY2021 net profit of Rp.79.392.749.479 to the statutory reserve (Rp500,000,000) and the rest to retained earnings 'untuk memperkuat struktur permodalan Perseroan'. The statements of changes in equity show no dividend distribution."
+            },
+            "total_assets": {
+                "v": 26194.548,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 13772.663,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal (pihak berelasi + pihak ketiga) before 'Dikurangi: cadangan kerugian penurunan nilai'",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 19274.009,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'Simpanan dari nasabah': pihak berelasi 64.163 + pihak ketiga 19.209.846 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka) = DPK; deposits from other banks are a separate line and excluded. Equals 'Simpanan Nasabah/Customer Funds' in the AR2025 highlights (PDF p. 28)."
+            },
+            "equity_attr": {
+                "v": 6081.204,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity. As originally reported. The FY2022 FS comparative (LKT 2022 PDF p. 15) shows 6,081,206 (Rp2 juta reclassification; total liabilities 20,113,342 vs 20,113,344)."
+            },
+            "total_equity": {
+                "v": 6081.204,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "As originally reported; FY2022 FS comparative 6,081,206 (Rp2 juta reclassification)."
+            },
+            "shares_out": {
+                "v": 37919730514,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, equity section, 'Modal ditempatkan dan disetor penuh - 37.919.730.514 saham'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 116,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 25, Informasi Saham - quarterly share price table, Q4 closing ('Penutupan'/'Closing') and 'Harga pada akhir tahun'/'Price at the end of the year'",
+                "basis": "n/a",
+                "share_basis": "2022-05-18",
+                "note": "Q4 2021 'Penutupan' 116 and 'Harga pada akhir tahun 116'; Q4 market cap Rp4,354,701,852,244 = 116 x 37,540,533,209. share_basis = AR2021 PDF creation date. Same in AR2022 PDF p. 25."
+            },
+            "roe": {
+                "v": 1.43,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 29, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2021 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "As reported in the OJK ratio table (OJK definition: annual profit after tax / average Tier 1 capital)."
+            },
+            "roa": {
+                "v": 0.41,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 29, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2021 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: profit before tax / average total assets)."
+            },
+            "nim": {
+                "v": 3.12,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 29, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2021 column, 'NIM'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: net interest income / average earning assets)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no cost-of-credit ratio in the AR2021 ratio table (PDF p. 29) or MD&A, nor in the annual Paparan Publik decks (PE2021-PE2026 checked); the OJK published-report ratio table has no CoC line (format checked Dec 2025, Mar 2026, Sep 2026). Not computed."
+            },
+            "npl_gross": {
+                "v": 4.39,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 29, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2021 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 2.45,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 29, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2021 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no loan-at-risk ratio in the AR2021 ratio table/MD&A or the Public Expose decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from the 30 Sep 2026 report (Dec 2025 and Mar 2026 reports have no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2021: the AR2021 only says the Bank keeps NPL coverage in line with its business plan (risk-management section), no ratio; the ratio table prints 'CKPN aset keuangan terhadap aset produktif' only. Not computed."
+            },
+            "ldr": {
+                "v": 71.46,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 29, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2021 column, 'LDR'",
+                "basis": "bank_only",
+                "note": "As reported (loans / third-party funds, OJK definition)."
+            },
+            "car": {
+                "v": 37.96,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 29, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2021 column, 'CAR Risiko Kredit + Pasar + Operasional'",
+                "basis": "bank_only",
+                "note": "Total CAR (credit + market + operational risk), as reported; the table also prints credit-risk-only and credit+market CAR."
+            },
+            "cir": {
+                "v": 66.87,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 29, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2021 column, 'Rasio Biaya terhadap Pendapatan'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as reported ('Rasio Biaya terhadap Pendapatan'; English AR2025: 'Cost to Income Ratio'); a separate line from BOPO. Definition not printed."
+            },
+            "bopo": {
+                "v": 92.75,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 29, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2021 column, 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income (OJK), as reported."
+            },
+            "casa": {
+                "v": 23.5,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/VERSION_INDO_AR-CCB-2021_LOWRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 101, MD&A Dana Pihak Ketiga: 'Rasio CASA adalah sebesar 23,50% di akhir Desember 2021'",
+                "basis": "bank_only",
+                "note": "(Current accounts + savings) / third-party funds, as stated in the MD&A text."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 135.959,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: net income = net income attributable to owners (AR highlights line 'Laba yang dapat diatribusikan kepada pemilik entitas induk' prints the same figure)."
+            },
+            "eps": {
+                "v": 3.59,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, 'LABA BERSIH PER SAHAM - Dasar dan dilusian (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic and diluted (in full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/rups/Ringkasan-Risalah-RUPST-6-Jun-2023-%28IND%29.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 2, Ringkasan Risalah RUPS Tahunan 2023-06-06, 'Mata Acara Kedua' (penggunaan laba tahun buku 2022)",
+                "basis": "n/a",
+                "note": "No dividend for FY2022: the AGMS of 2023-06-06 allocated the FY2022 net profit of Rp 135.959.414.849 to the statutory reserve (Rp500,000,000) and the rest to retained earnings 'untuk memperkuat struktur permodalan Perseroan'. The statements of changes in equity show no dividend distribution."
+            },
+            "total_assets": {
+                "v": 25022.953,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 16687.285,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal (pihak berelasi + pihak ketiga) before 'Dikurangi: cadangan kerugian penurunan nilai'",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 17946.578,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'Simpanan dari nasabah': pihak berelasi 14.924 + pihak ketiga 17.931.654 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka) = DPK; deposits from other banks are a separate line and excluded. Equals 'Simpanan Nasabah/Customer Funds' in the AR2025 highlights (PDF p. 28)."
+            },
+            "equity_attr": {
+                "v": 6199.237,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 6199.237,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 37919730514,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, equity section, 'Modal ditempatkan dan disetor penuh - 37.919.730.514 saham'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 80,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 25, Informasi Saham - quarterly share price table, Q4 closing ('Penutupan'/'Closing') and 'Harga pada akhir tahun'/'Price at the end of the year'",
+                "basis": "n/a",
+                "share_basis": "2023-05-08",
+                "note": "Q4 2022 'Penutupan' 80 (monthly table Desember close 80); Q4 market cap Rp3,003,242,656,720 = 80 x 37,540,533,209. share_basis = AR2022 PDF creation date. Same in AR2023 PDF p. 25."
+            },
+            "roe": {
+                "v": 2.4,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2022 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "As reported in the OJK ratio table (OJK definition: annual profit after tax / average Tier 1 capital)."
+            },
+            "roa": {
+                "v": 0.69,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2022 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: profit before tax / average total assets)."
+            },
+            "nim": {
+                "v": 3.54,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2022 column, 'NIM'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: net interest income / average earning assets)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no cost-of-credit ratio in the AR2022 ratio table (PDF p. 28) or MD&A, nor in the annual Paparan Publik decks (PE2021-PE2026 checked); the OJK published-report ratio table has no CoC line (format checked Dec 2025, Mar 2026, Sep 2026). Not computed."
+            },
+            "npl_gross": {
+                "v": 3.4,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2022 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.93,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2022 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no loan-at-risk ratio in the AR2022 ratio table/MD&A or the Public Expose decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from the 30 Sep 2026 report (Dec 2025 and Mar 2026 reports have no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2022: the AR2022 only says the Bank keeps NPL coverage in line with its business plan (risk-management section), no ratio; the ratio table prints 'CKPN aset keuangan terhadap aset produktif' only. Not computed."
+            },
+            "ldr": {
+                "v": 92.98,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2022 column, 'LDR'",
+                "basis": "bank_only",
+                "note": "As reported (loans / third-party funds, OJK definition)."
+            },
+            "car": {
+                "v": 32.73,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2022 column, 'CAR Risiko Kredit + Pasar + Operasional'",
+                "basis": "bank_only",
+                "note": "Total CAR (credit + market + operational risk), as reported; the table also prints credit-risk-only and credit+market CAR."
+            },
+            "cir": {
+                "v": 61.59,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2022 column, 'Rasio Biaya terhadap Pendapatan'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as reported ('Rasio Biaya terhadap Pendapatan'; English AR2025: 'Cost to Income Ratio'); a separate line from BOPO. Definition not printed."
+            },
+            "bopo": {
+                "v": 87.76,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2022 column, 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income (OJK), as reported."
+            },
+            "casa": {
+                "v": 22.52,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR-BANK-CCB-INDONESIA-Ver-LK-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 119, MD&A Dana Pihak Ketiga: 'Rasio CASA adalah sebesar 22,52% di akhir Desember 2022'",
+                "basis": "bank_only",
+                "note": "(Current accounts + savings) / third-party funds, as stated in the MD&A text. AR2023 (PDF p. 122) restates the end-2022 ratio as 22.56%."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 241.291,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: net income = net income attributable to owners (AR highlights line 'Laba yang dapat diatribusikan kepada pemilik entitas induk' prints the same figure)."
+            },
+            "eps": {
+                "v": 6.36,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, 'LABA BERSIH PER SAHAM - Dasar dan dilusian (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic and diluted (in full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/rups/Ringkasan%20Risalah%20RUPST%207%20Jun%202024%20%28IND%29%20final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, Ringkasan Risalah RUPS Tahunan 2024-06-07, 'Mata Acara Kedua' (penggunaan laba tahun buku 2023)",
+                "basis": "n/a",
+                "note": "No dividend for FY2023: the AGMS of 2024-06-07 allocated the FY2023 net profit of Rp 241.290.965.341 to the statutory reserve (Rp500,000,000) and the rest to retained earnings 'untuk memperkuat struktur permodalan Perseroan'. The statements of changes in equity show no dividend distribution."
+            },
+            "total_assets": {
+                "v": 27851.946,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 19359.978,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal (pihak berelasi + pihak ketiga) before 'Dikurangi: cadangan kerugian penurunan nilai'",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 19986.812,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'Simpanan dari nasabah': pihak berelasi 16.788 + pihak ketiga 19.970.024 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka) = DPK; deposits from other banks are a separate line and excluded. Equals 'Simpanan Nasabah/Customer Funds' in the AR2025 highlights (PDF p. 28)."
+            },
+            "equity_attr": {
+                "v": 6540.557,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 6540.557,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 37919730514,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, equity section, 'Modal ditempatkan dan disetor penuh - 37.919.730.514 saham'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 78,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 25, Informasi Saham - quarterly share price table, Q4 closing ('Penutupan'/'Closing') and 'Harga pada akhir tahun'/'Price at the end of the year'",
+                "basis": "n/a",
+                "share_basis": "2024-04-29",
+                "note": "Q4 2023 'Penutupan' 78 (Desember close 78); Q4 market cap Rp2,928,161,590,302 = 78 x 37,540,533,209. share_basis = AR2023 PDF creation date. Same in AR2024 PDF p. 25."
+            },
+            "roe": {
+                "v": 4.11,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2023 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "As reported in the OJK ratio table (OJK definition: annual profit after tax / average Tier 1 capital)."
+            },
+            "roa": {
+                "v": 1.22,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2023 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: profit before tax / average total assets)."
+            },
+            "nim": {
+                "v": 4.18,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2023 column, 'NIM'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: net interest income / average earning assets)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no cost-of-credit ratio in the AR2023 ratio table (PDF p. 28) or MD&A, nor in the annual Paparan Publik decks (PE2021-PE2026 checked); the OJK published-report ratio table has no CoC line (format checked Dec 2025, Mar 2026, Sep 2026). Not computed."
+            },
+            "npl_gross": {
+                "v": 2.87,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2023 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.77,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2023 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no loan-at-risk ratio in the AR2023 ratio table/MD&A or the Public Expose decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from the 30 Sep 2026 report (Dec 2025 and Mar 2026 reports have no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2023: the AR2023 only says the Bank keeps NPL coverage in line with its business plan (risk-management section), no ratio; the ratio table prints 'CKPN aset keuangan terhadap aset produktif' only. Not computed."
+            },
+            "ldr": {
+                "v": 96.86,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2023 column, 'LDR'",
+                "basis": "bank_only",
+                "note": "As reported (loans / third-party funds, OJK definition)."
+            },
+            "car": {
+                "v": 37.45,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2023 column, 'CAR Risiko Kredit + Pasar + Operasional'",
+                "basis": "bank_only",
+                "note": "Total CAR (credit + market + operational risk), as reported; the table also prints credit-risk-only and credit+market CAR."
+            },
+            "cir": {
+                "v": 58.33,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2023 column, 'Rasio Biaya terhadap Pendapatan'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as reported ('Rasio Biaya terhadap Pendapatan'; English AR2025: 'Cost to Income Ratio'); a separate line from BOPO. Definition not printed."
+            },
+            "bopo": {
+                "v": 82.76,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2023 column, 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income (OJK), as reported."
+            },
+            "casa": {
+                "v": 21.09,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/Laporan%20Tahunan%202023_CCBI%20%28IND%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 122, MD&A Dana Pihak Ketiga: 'Rasio CASA adalah sebesar 21,09% di akhir Desember 2023'",
+                "basis": "bank_only",
+                "note": "(Current accounts + savings) / third-party funds, as stated in the MD&A text."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 295.402,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: net income = net income attributable to owners (AR highlights line 'Laba yang dapat diatribusikan kepada pemilik entitas induk' prints the same figure)."
+            },
+            "eps": {
+                "v": 7.79,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, 'LABA BERSIH PER SAHAM - Dasar dan dilusian (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic and diluted (in full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/rups/Ringkasan%20Risalah%20RUPST%2023062025%20%28IND%29%20v2.1.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 2, Ringkasan Risalah RUPS Tahunan 2025-06-23, 'Mata Acara Kedua' (penggunaan laba tahun buku 2024)",
+                "basis": "n/a",
+                "note": "No dividend for FY2024: the AGMS of 2025-06-23 allocated the FY2024 net profit of Rp 295.400.314.095 to the statutory reserve (Rp500,000,000) and the rest to retained earnings 'untuk memperkuat struktur permodalan Perseroan'. The statements of changes in equity show no dividend distribution. The minutes' figure differs from the audited Rp295,402 juta by Rp1.7 million (rounding in the minutes)."
+            },
+            "total_assets": {
+                "v": 33545.461,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 23463.801,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal (pihak berelasi + pihak ketiga) before 'Dikurangi: cadangan kerugian penurunan nilai'",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 23357.473,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Laporan Posisi Keuangan, 'Simpanan dari nasabah': pihak berelasi 18.329 + pihak ketiga 23.339.144 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka) = DPK; deposits from other banks are a separate line and excluded. Equals 'Simpanan Nasabah/Customer Funds' in the AR2025 highlights (PDF p. 28)."
+            },
+            "equity_attr": {
+                "v": 6841.796,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 6841.796,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 37919730514,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, equity section, 'Modal ditempatkan dan disetor penuh - 37.919.730.514 saham'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 74,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 25, Informasi Saham - quarterly share price table, Q4 closing ('Penutupan'/'Closing') and 'Harga pada akhir tahun'/'Price at the end of the year'",
+                "basis": "n/a",
+                "share_basis": "2025-04-29",
+                "note": "Q4 2024 'Penutupan' 74 (Desember close 74); Q4 market cap Rp2,777,999,457,466 = 74 x 37,540,533,209. share_basis = AR2024 PDF creation date. Same in AR2025 PDF p. 26."
+            },
+            "roe": {
+                "v": 4.78,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2024 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "As reported in the OJK ratio table (OJK definition: annual profit after tax / average Tier 1 capital)."
+            },
+            "roa": {
+                "v": 1.22,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2024 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: profit before tax / average total assets)."
+            },
+            "nim": {
+                "v": 3.5,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2024 column, 'NIM'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: net interest income / average earning assets)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no cost-of-credit ratio in the AR2024 ratio table (PDF p. 28) or MD&A, nor in the annual Paparan Publik decks (PE2021-PE2026 checked); the OJK published-report ratio table has no CoC line (format checked Dec 2025, Mar 2026, Sep 2026). Not computed."
+            },
+            "npl_gross": {
+                "v": 2.12,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2024 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.82,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2024 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no loan-at-risk ratio in the AR2024 ratio table/MD&A or the Public Expose decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from the 30 Sep 2026 report (Dec 2025 and Mar 2026 reports have no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2024: the AR2024 only says the Bank keeps NPL coverage in line with its business plan (risk-management section), no ratio; the ratio table prints 'CKPN aset keuangan terhadap aset produktif' only. Not computed."
+            },
+            "ldr": {
+                "v": 100.46,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2024 column, 'LDR'",
+                "basis": "bank_only",
+                "note": "As reported (loans / third-party funds, OJK definition)."
+            },
+            "car": {
+                "v": 30.72,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2024 column, 'CAR Risiko Kredit + Pasar + Operasional'",
+                "basis": "bank_only",
+                "note": "Total CAR (credit + market + operational risk), as reported; the table also prints credit-risk-only and credit+market CAR."
+            },
+            "cir": {
+                "v": 53.95,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2024 column, 'Rasio Biaya terhadap Pendapatan'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as reported ('Rasio Biaya terhadap Pendapatan'; English AR2025: 'Cost to Income Ratio'); a separate line from BOPO. Definition not printed."
+            },
+            "bopo": {
+                "v": 83.39,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 28, Ikhtisar Keuangan - 'Rasio Keuangan (%)' table, 2024 column, 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income (OJK), as reported."
+            },
+            "casa": {
+                "v": 22.15,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202024_IND.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 114, MD&A Dana Pihak Ketiga: 'Rasio Current Account Saving Account (CASA) adalah sebesar 22,15% di akhir Desember 2024'",
+                "basis": "bank_only",
+                "note": "(Current accounts + savings) / third-party funds, as stated in the MD&A text. Same 22.15% in AR2025 PDF p. 7 and p. 116."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 301.948,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: net income = net income attributable to owners (AR highlights line 'Laba yang dapat diatribusikan kepada pemilik entitas induk' prints the same figure)."
+            },
+            "eps": {
+                "v": 7.96,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, 'LABA BERSIH PER SAHAM - Dasar dan dilusian (dalam Rupiah penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic and diluted (in full Rupiah)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/rups/Ringkasan%20Risalah%20RUPST%2012062026%20%28IND%29_v3.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 2, Ringkasan Risalah RUPS Tahunan 2026-06-12, 'Mata Acara Kedua' (penggunaan laba tahun buku 2025)",
+                "basis": "n/a",
+                "note": "No dividend for FY2025: the AGMS of 2026-06-12 allocated the FY2025 net profit of Rp 301.947.820.171 to the statutory reserve (Rp500,000,000) and the rest to retained earnings 'untuk memperkuat struktur permodalan Perseroan'. The statements of changes in equity show no dividend distribution."
+            },
+            "total_assets": {
+                "v": 38083.709,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Non-consolidated statements of the whole entity: the Bank has no subsidiaries or associates (AR2025 PDF p. 20), so 'consolidated' = the bank's own statements. FS face prints 38.083.709; the AR2025 highlights table (PDF p. 28) prints 38,083,708 (rounding)."
+            },
+            "loans_gross": {
+                "v": 26407.187,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal (pihak berelasi + pihak ketiga) before 'Dikurangi: cadangan kerugian penurunan nilai'",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 28666.012,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Laporan Posisi Keuangan, 'Simpanan dari nasabah': pihak berelasi 71.233 + pihak ketiga 28.594.779 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito berjangka) = DPK; deposits from other banks are a separate line and excluded. Equals 'Simpanan Nasabah/Customer Funds' in the AR2025 highlights (PDF p. 28)."
+            },
+            "equity_attr": {
+                "v": 7145.518,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 7145.518,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 37919730514,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, equity section, 'Modal ditempatkan dan disetor penuh - 37.919.730.514 saham'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid; no treasury shares (Dec 2025 published report: 'Saham yang dibeli kembali (treasury stock)' nil)."
+            },
+            "year_end_price": {
+                "v": 75,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 26, Informasi Saham - quarterly share price table, Q4 closing ('Penutupan'/'Closing') and 'Harga pada akhir tahun'/'Price at the end of the year'",
+                "basis": "n/a",
+                "share_basis": "2026-04-28",
+                "note": "Fourth Quarter 'Closing' 75 (December close 75); Q4 market cap Rp2,815,539,990,675 = 75 x 37,540,533,209. share_basis = AR2025 PDF creation date."
+            },
+            "roe": {
+                "v": 4.74,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 29, Financial Highlights - 'Financial Ratio (%)' table, 2025 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "As reported in the OJK ratio table (OJK definition: annual profit after tax / average Tier 1 capital)."
+            },
+            "roa": {
+                "v": 1.15,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 29, Financial Highlights - 'Financial Ratio (%)' table, 2025 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: profit before tax / average total assets)."
+            },
+            "nim": {
+                "v": 3.02,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 29, Financial Highlights - 'Financial Ratio (%)' table, 2025 column, 'NIM'",
+                "basis": "bank_only",
+                "note": "As reported (OJK definition: net interest income / average earning assets)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no cost-of-credit ratio in the AR2025 ratio table (PDF p. 29) or MD&A, nor in the annual Paparan Publik decks (PE2021-PE2026 checked); the OJK published-report ratio table has no CoC line (format checked Dec 2025, Mar 2026, Sep 2026). Not computed."
+            },
+            "npl_gross": {
+                "v": 1.53,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 29, Financial Highlights - 'Financial Ratio (%)' table, 2025 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 1.15,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 29, Financial Highlights - 'Financial Ratio (%)' table, 2025 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no loan-at-risk ratio in the AR2025 ratio table/MD&A or the Public Expose decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from the 30 Sep 2026 report (Dec 2025 and Mar 2026 reports have no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2025: the AR2025 only says the Bank keeps NPL coverage in line with its business plan (risk-management section), no ratio; the ratio table prints 'CKPN aset keuangan terhadap aset produktif' only. Not computed."
+            },
+            "ldr": {
+                "v": 92.12,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 29, Financial Highlights - 'Financial Ratio (%)' table, 2025 column, 'LDR'",
+                "basis": "bank_only",
+                "note": "As reported (loans / third-party funds, OJK definition)."
+            },
+            "car": {
+                "v": 29.48,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 29, Financial Highlights - 'Financial Ratio (%)' table, 2025 column, 'CAR Credit Market and Operational Risks'",
+                "basis": "bank_only",
+                "note": "Total CAR (credit + market + operational risk), as reported; the table also prints credit-risk-only and credit+market CAR. Same 29.48% in the Dec 2025 OJK published report (PDF p. 9) and AR2025 key metrics (PDF p. 61, total capital ratio)."
+            },
+            "cir": {
+                "v": 56.39,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 29, Financial Highlights - 'Financial Ratio (%)' table, 2025 column, 'Cost to Income Ratio'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as reported ('Rasio Biaya terhadap Pendapatan'; English AR2025: 'Cost to Income Ratio'); a separate line from BOPO. Definition not printed."
+            },
+            "bopo": {
+                "v": 83.18,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 29, Financial Highlights - 'Financial Ratio (%)' table, 2025 column, 'BOPO'",
+                "basis": "bank_only",
+                "note": "Operating expenses / operating income (OJK), as reported."
+            },
+            "casa": {
+                "v": 24.21,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-annual/AR%20BANK%20CCBI%202025_eng%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 116, MD&A Dana Pihak Ketiga: 'Current Account Saving Account (CASA) ratio was 24.21% at the end of December 2025'",
+                "basis": "bank_only",
+                "note": "(Current accounts + savings) / third-party funds, as stated in the MD&A text. Same in AR2025 PDF p. 7 and Paparan Publik 2026 deck."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 217.436,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/laporan-keuangan-triwulan-interim/Lap%20Keu%20PT%20Bank%20CCBI%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 7, Laporan Laba Rugi, 'LABA BERSIH' (1 Jan-30 Sep 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited interim FS (no review report in the file; PDF dated 28 Oct 2026). No NCI. Basic EPS 9M 5.73 (PDF p. 8). The 30 Sep 2026 published report prints the same 'Tahun berjalan' 217,436 (PDF p. 1)."
+            },
+            "profit_ytd_prior": {
+                "v": 230.876,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/laporan-keuangan-triwulan-interim/Lap%20Keu%20PT%20Bank%20CCBI%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 7, comparative column 30 September 2025",
+                "basis": "consolidated",
+                "note": "Same 230,876 in the 30 Sep 2025 interim FS (PDF p. 7)."
+            },
+            "equity_attr": {
+                "v": 7366.464,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/laporan-keuangan-triwulan-interim/Lap%20Keu%20PT%20Bank%20CCBI%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 6, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No NCI: = total equity. Published report PDF p. 1 'TOTAL EKUITAS' 7,366,464."
+            },
+            "shares_out": {
+                "v": 37919730514,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/laporan-keuangan-triwulan-interim/Lap%20Keu%20PT%20Bank%20CCBI%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 6, equity section, '37,919,730,514 shares'",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Issued and fully paid; no treasury shares (published report: 'Saham yang dibeli kembali (treasury stock)' -). Shareholder composition per BAE 30 Sep 2026 (bankccbi.co.id/saham-beredar): CCB Corporation 22,751,563,707 (60.00%)."
+            },
+            "total_assets": {
+                "v": 39897.759,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/laporan-keuangan-triwulan-interim/Lap%20Keu%20PT%20Bank%20CCBI%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 5, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 27351.876,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/laporan-keuangan-triwulan-interim/Lap%20Keu%20PT%20Bank%20CCBI%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 4, 'Kredit yang diberikan' subtotal before allowance (5,028 related + 27,346,848 third parties)",
+                "basis": "consolidated",
+                "note": "Allowance Rp281,494 juta (published report PDF p. 1)."
+            },
+            "loans_gross_prior": {
+                "v": 23465.606,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/laporan-keuangan-triwulan-interim/Q3%20September%202025%20Laporan%20Keuangan%20Triwulan.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Interim FS 30 Sep 2025 PDF p. 4, 'Kredit yang diberikan' subtotal before allowance (4,576 related + 23,461,030 third parties)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 25150.91,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/laporan-keuangan-triwulan-interim/Lap%20Keu%20PT%20Bank%20CCBI%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 PDF p. 6, 'Simpanan dari nasabah': pihak berelasi 69,807 + pihak ketiga 25,081,103 (Rp juta)",
+                "basis": "consolidated",
+                "note": "= giro 6,372,571 + tabungan 1,955,610 + deposito 16,822,729 in the published report (PDF p. 1). Down 12.3% from Rp28,666bn at Dec 2025 (time deposits -4.9tn) while repo liabilities rose to Rp3.5tn."
+            },
+            "deposits_prior": {
+                "v": 25117.561,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/laporan-keuangan-triwulan-interim/Q3%20September%202025%20Laporan%20Keuangan%20Triwulan.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Interim FS 30 Sep 2025 PDF p. 6, 'Simpanan dari nasabah': pihak berelasi 65,402 + pihak ketiga 25,052,159 (Rp juta)",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 4.39,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial/PUBLIKASI%20Q3%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 9 'LAPORAN RASIO KEUANGAN' (Individual), Sep 2026 column, '9. Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Annualised YTD, OJK definition. 30 Sep 2025: 4.85%."
+            },
+            "roa": {
+                "v": 0.98,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial/PUBLIKASI%20Q3%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 9 'LAPORAN RASIO KEUANGAN' (Individual), Sep 2026 column, '8. Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "Annualised YTD, OJK definition. 30 Sep 2025: 1.19%."
+            },
+            "nim": {
+                "v": 2.82,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial/PUBLIKASI%20Q3%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 9 'LAPORAN RASIO KEUANGAN' (Individual), Sep 2026 column, '10. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 3.12%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for 9M2026: no cost-of-credit ratio in the 30 Sep 2026 published report or interim FS, and the bank publishes no quarterly analyst deck (only the annual Paparan Publik). Not computed."
+            },
+            "npl_gross": {
+                "v": 1.37,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial/PUBLIKASI%20Q3%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 9 'LAPORAN RASIO KEUANGAN' (Individual), Sep 2026 column, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "NPL net 0.95%. 30 Sep 2025: gross 2.48%, net 1.08%."
+            },
+            "lar": {
+                "v": 13.09,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial/PUBLIKASI%20Q3%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 9 'LAPORAN RASIO KEUANGAN' (Individual), Sep 2026 column, '7. Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "OJK 'Kredit Kualitas Rendah' (low-quality loans: special mention + restructured current + NPL), the regulator's loan-at-risk-type measure, newly printed in the 2026 reports; no formula printed. 30 Sep 2025 comparative 17.74%. Not comparable with any FY value (none disclosed)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the 30 Sep 2026 published report (only 'CKPN aset keuangan terhadap aset produktif' 0.73%) or the interim FS. Not computed."
+            },
+            "ldr": {
+                "v": 108.58,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial/PUBLIKASI%20Q3%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 9 'LAPORAN RASIO KEUANGAN' (Individual), Sep 2026 column, '13. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Up from 92.12% at Dec 2025 and 93.42% at 30 Sep 2025: customer deposits fell to Rp25.2tn while loans rose to Rp27.4tn (see deposits)."
+            },
+            "car": {
+                "v": 27.7,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial/PUBLIKASI%20Q3%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 9 'LAPORAN RASIO KEUANGAN' (Individual), Sep 2026 column, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Total CAR; CET1 = Tier 1 26.68% (KPMM report PDF p. 7). 30 Sep 2025: 32.56%."
+            },
+            "cir": {
+                "v": 61.97,
+                "source_url": "https://www.bankccbi.co.id/storage/documents/business-financial/PUBLIKASI%20Q3%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 9 'LAPORAN RASIO KEUANGAN' (Individual), Sep 2026 column, '12. Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "BOPO 84.00%. 30 Sep 2025: CIR 57.87%, BOPO 83.04%."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not printed as a ratio for 30 Sep 2026: the published report (PDF p. 1) lists giro 6,372,571, tabungan 1,955,610 and deposito 16,822,729 (Rp juta) only, and there is no quarterly deck. Not computed."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2020",
+            "reason": "PUT V added 21,288,269,763 shares in July 2020 (rights ex-date 2020-06-25), so the FY2020 audited FS compute basic EPS Rp1.91 on a weighted average of 26,112,302,203 shares (Note 32, PDF p. 128 of https://www.bankccbi.co.id/storage/documents/business-financial-audited/LKT%202020.pdf): 1.91 x 26,112,302,203 = Rp49.9bn = reported profit Rp49,979 juta. FY-end shares are 37,919,730,514. Real weighted-average effect, not a data error."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: every document came straight from the bank's own website https://www.bankccbi.co.id (plain curl with a browser User-Agent on 2026-11-03, no bot challenge). The bank moved its website from idn.ccb.com to bankccbi.co.id effective 12 Sep 2025 (disclosure https://www.bankccbi.co.id/news/151); idn.ccb.com still resolves but now presents the bankccbi.co.id TLS certificate (name mismatch), so it was not used. Older documents (2020 prospectus, AR2019) sit under legacy paths (/fabercms/..., /res/annual/...) on the new domain. idx.co.id was not needed.",
+        "ENTITY / BASIS: PT Bank China Construction Bank Indonesia Tbk (ticker MCOR from its predecessor PT Bank Multicor Tbk; renamed PT Bank Windu Kentjana International Tbk in 2007/2008; renamed PT Bank China Construction Bank Indonesia Tbk by the EGMS of 11 Nov 2016 (effective 30 Nov 2016) after China Construction Bank Corporation entered as the 60% controlling shareholder, and merged with its fully owned subsidiary PT Bank Antardaerah on 30 Nov 2016; AR2025 PDF pp. 11-12, LKT 2025 Note 1, PDF pp. 23-24). It has no subsidiaries or associates (AR2025 PDF p. 20); the audited statements are non-consolidated 'Laporan Keuangan' = the whole entity. Money fields carry basis 'consolidated' (validator rule, same approach as MEGA/BBYB), ratios 'bank_only' as printed in the OJK ratio tables. equity_attr = total_equity (no NCI). Auditor FY2024-FY2025: Ernst & Young member firms (KAP Purwantono, Sungkoro & Surja; KAP Purwanto, Susanti dan Surja).",
+        "UNITS: all audited FS (FY2019-FY2025), the interim FS and the published reports are in Rp juta (divided by 1,000; full precision kept). The FY2019-FY2023 'LKT' files on the bank site are the audited FS sections extracted from the ARs (same PDF creation dates).",
+        "NO DIVIDENDS FY2019-FY2025: every AGMS (31 Aug 2020, 26 Aug 2021, 22 Jul 2022, 6 Jun 2023, 7 Jun 2024, 23 Jun 2025, 12 Jun 2026) put Rp500m into the statutory reserve and the rest of the year's profit into retained earnings 'untuk memperkuat struktur permodalan'. payout_ratio is stored as 0 for FY2020-FY2025 with the AGMS minutes as source; the dividends list is empty on purpose.",
+        "CORPORATE ACTIONS 2019-2026: exactly one - the PUT V rights issue (100 old : 128 rights at Rp150; ex-date regular market 2020-06-25; 21,288,269,763 new shares, fully subscribed: CCB Corporation exercised all its rights (9,978,756,012 -> 22,751,563,707 shares, 60.00%), Johnny Wiraatmadja declared he would not exercise and would transfer his rights (holding unchanged at 3,546,603,605); standby buyer PT Sinar Mas Multiartha Tbk). No split, reverse split or bonus issue ever (AR2025 PDF p. 27 'Chronology of Shares Listing': last earlier events PUT IV July 2016 and Series II warrant conversions to Dec 2016; '2025: no addition of new shares'). Share count 16,631,460,751 (2016-Jun 2020) -> 37,919,730,514 (Jul 2020 to 30 Sep 2026). Because the ex-date is before 2020-12-31, fy.2019.year_end_price (129, share_basis 2019-12-31) is stored. NOTE FOR THE PRICE FETCHER: the Rp150 exercise price was above the market (cum-date closes ~113-142), so the theoretical ex-rights price (100 x P + 128 x 150) / 228 is ABOVE the cum price; any Yahoo 'rights factor' should be ~1 or >1, not the usual <1 - a reviewer should check the measured factor against the 2019 (129) and 2020 (139) AR closes.",
+        "EPS FY2020 uses the weighted-average share count (26.11bn) because of PUT V - acknowledged in validation_ack (eps_shares:2020). FY2021-FY2025 EPS x 37.92bn shares match reported profit within 0.3%.",
+        "RATIO SOURCES: CAR (total), NPL gross/net, ROA, ROE, NIM, BOPO, CIR ('Rasio Biaya terhadap Pendapatan' / 'Cost to Income Ratio') and LDR come from each year's own AR highlights 'Rasio Keuangan' table (AR2020 p. 26, AR2021 p. 29, AR2022 p. 28, AR2023 p. 28, AR2024 p. 28, AR2025 p. 29); FY2025 values are identical in the Dec 2025 OJK published report (PDF p. 9). Later ARs restate two FY2020 values: NIM 2.84% -> 2.82% and CAR credit-risk-only 38.40% -> 38.60% (first-published NIM kept). CASA comes from the MD&A text of each AR (2020 28.9%, restated 28.85% in AR2021; 2022 22.52%, restated 22.56% in AR2023). CoC, LAR (FY) and NPL coverage are not disclosed anywhere the bank publishes (AR2020-AR2025 ratio tables/MD&A, annual Paparan Publik decks 2021-2026; the OJK published-report ratio table, checked for Dec 2025/Mar 2026/Sep 2026, has no CoC or coverage line and adds KKR only from Sep 2026) - null, not computed. The interim LAR is the new OJK 'Kredit Kualitas Rendah (KKR)' line of the 30 Sep 2026 published report.",
+        "9M2026: profit Rp217.4bn (-5.8% YoY); customer deposits fell 12.3% YTD to Rp25.2tn (time deposits Rp21.7tn -> 16.8tn) while loans grew to Rp27.4tn, so LDR jumped to 108.58% and repo liabilities reached Rp3.5tn; CAR 27.70%. The ratios are real as printed (published report PDF p. 9), not unit slips.",
+        "KBMI: KBMI 1 up to 2023 (AR2023 PDF p. 132), KBMI 2 from early 2024 after Tier 1 passed Rp6tn (AR2023 PDF p. 7); Tier 1 Rp6.48tn at Dec 2025 and Rp6.69tn at Sep 2026.",
+        "DATA QUALITY: the AR2019 monthly share-price table is internally inconsistent (e.g. Desember 2019 high 140 / low 131 / close 129); the quarterly table and 'Harga pada akhir tahun' (129) agree with the AR2020 two-year table, so 129 is stored. AR2019 also prints Q4 2019 market cap Rp2,124.0bn, which is not 129 x the 16.63bn issued (Rp2,145.5bn) or 16.37bn listed shares. RUPST 2025 minutes state FY2024 profit as Rp295,400,314,095 vs Rp295,402 juta in the audited FS (Rp1.7m difference; audited figure stored).",
+        "LOGO: official vector logo extracted from the AR2025 cover (paths only) plus the website header JPG and favicon; see logo/SOURCE.md. Current logo (CCB name since Nov 2016; no rebrand since)."
+    ]
+}
