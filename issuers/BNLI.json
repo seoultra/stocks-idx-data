@@ -1,0 +1,1609 @@
+{
+    "schema": 1,
+    "code": "BNLI",
+    "name": "PT Bank Permata Tbk",
+    "name_short": "Permata Bank",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.permatabank.com",
+    "ir_url": "https://www.permatabank.com/id/tentang-kami/hubungan-investor",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+        "source_type": "filing",
+        "as_of_date": "2024-12-31",
+        "loc": "PDF p. 700 (printed p. 698), KPMM calculation report, 'Modal Inti (Tier 1)' 50,989,922 juta (individual) at 31 Dec 2024",
+        "note": "No sentence in AR2024 states the tier. Tier 1 capital of Rp51.0 tn lies in the KBMI 3 band (Rp14-70 tn, POJK 12/POJK.03/2021), and the FY2025 Public Expose deck (p. 44) lists 2025 awards won in the 'KBMI III Bank' category (CET-1 Rp43.3 tn, total capital Rp56.4 tn at Dec-25, deck p. 33)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 161451.259,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%2031%20Des%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan konsolidasian, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Same figure as the 2019 comparative in the reissued FY2020 FS (PDF p. 7): FY2019 was NOT restated for the Dec-2020 Bangkok Bank branch integration (common control only from 20 May 2020)."
+            },
+            "loans_gross": {
+                "v": 109039.1,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%2031%20Des%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 97, Note 12b loans by economic sector, 'Jumlah' (gross, before allowance of 3,956,856 juta)",
+                "basis": "consolidated",
+                "note": "Includes sharia financing. AR2020 PDF p. 12 prints the same 'Kredit yang diberikan - bruto'."
+            },
+            "deposits": {
+                "v": 123184.575,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Annual%20Report%202020%20PT%20Permata%20Bank%20Tbk%20(12July2021).pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 12, Ikhtisar Keuangan (consolidated), 'Simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Giro 32,438,603 + tabungan 29,845,502 + deposito 60,900,470 juta as printed; includes sharia-unit deposits (Permata presents no separate temporary syirkah funds). Same figure in AR2022 PDF p. 12."
+            },
+            "equity_attr": {
+                "v": 24037.341,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%2031%20Des%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Laporan posisi keuangan konsolidasian, equity attributable to owners of the parent (subtotal above 'Kepentingan nonpengendali')",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 24037.351,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%2031%20Des%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Laporan posisi keuangan konsolidasian, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests of Rp10 juta."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 721.587,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/FS%20Reissue%20Bank%20Permata%2031%20December%202020%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Laporan laba rugi konsolidasian, 'Laba bersih yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Includes BBI's net profit of 367,904 juta for 20 May-20 Dec 2020 (pre-integration, common-control presentation per PSAK 38; FS2020 Note 1d, PDF p. 23-24), which was then booked to additional paid-in capital."
+            },
+            "eps": {
+                "v": 26,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/FS%20Reissue%20Bank%20Permata%2031%20December%202020%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, 'Laba bersih per saham dasar dan dilusian yang dapat diatribusikan kepada pemilik entitas induk' (Rupiah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Weighted average 28,042,739,205 shares (FS2021 Note 41)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 294, Kebijakan Dividen, two-year dividend table ('PermataBank did not distribute dividends for the 2020 financial year in 2021')",
+                "basis": "n/a",
+                "note": "AGMS of 27 Apr 2021 kept the FY2020 profit to strengthen capital (AR2022 PDF p. 294)."
+            },
+            "total_assets": {
+                "v": 197726.097,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/FS%20Reissue%20Bank%20Permata%2031%20December%202020%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan posisi keuangan konsolidasian, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Consolidated (Bank + PT SFK). Includes the Bangkok Bank Jakarta/Surabaya/Medan branches (BBI) integrated on 21 Dec 2020 as a common-control combination: BBI transferred total assets of 25,271,097 juta incl. loans 12,541,228 juta gross and deposits 4,535,662 juta (FS2020 Note 1d, PDF p. 23). FY2019 is not restated, so 2019->2020 growth includes BBI."
+            },
+            "loans_gross": {
+                "v": 118801.13,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/FS%20Reissue%20Bank%20Permata%2031%20December%202020%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 127, Note 12b loans by economic sector, 'Jumlah' (gross, before allowance of 7,990,222 juta)",
+                "basis": "consolidated",
+                "note": "Includes sharia financing and the BBI loans transferred on integration (12,541,228 juta gross)."
+            },
+            "deposits": {
+                "v": 145753.072,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Annual%20Report%202020%20PT%20Permata%20Bank%20Tbk%20(12July2021).pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12, Ikhtisar Keuangan (consolidated), 'Simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Giro 40,630,798 + tabungan 33,867,557 + deposito 71,254,717 juta as printed. Same figure in AR2024 PDF p. 14."
+            },
+            "equity_attr": {
+                "v": 35071.443,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/FS%20Reissue%20Bank%20Permata%2031%20December%202020%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Laporan posisi keuangan konsolidasian, equity attributable to owners of the parent (subtotal above 'Kepentingan non-pengendali')",
+                "basis": "consolidated",
+                "note": "Includes 'Dana setoran modal' (advance capital payment by Bangkok Bank) of 10,821,490 juta, converted into shares through Rights Issue IX in July 2021."
+            },
+            "total_equity": {
+                "v": 35071.453,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/FS%20Reissue%20Bank%20Permata%2031%20December%202020%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Laporan posisi keuangan konsolidasian, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests of Rp10 juta."
+            },
+            "shares_out": {
+                "v": 28042739205,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/FS%20Reissue%20Bank%20Permata%2031%20December%202020%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, equity section: issued and fully paid 26,880,234 class A + 28,015,858,971 class B shares; no treasury shares",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Before Rights Issue IX. The AR2020 share table (PDF p. 14) prints 28,042,739,205 issued."
+            },
+            "year_end_price": {
+                "v": 3140,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Annual%20Report%202020%20PT%20Permata%20Bank%20Tbk%20(12July2021).pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14, Ikhtisar Saham, 2020 Q4 'Harga Saham Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. AR2021 PDF p. 14 prints the same 3,140. Q4 2020 range 1,130-3,750 (sharp rally after the Bangkok Bank takeover). The printed Q4 market cap (87,173,659,092,820) does not equal 3,140 x 28,042,739,205; the closing price is stored as printed."
+            },
+            "roe": {
+                "v": 3.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK formula: profit after tax / average core capital), bank only."
+            },
+            "roa": {
+                "v": 0.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only. AR2020 (PDF p. 13, 'Entitas Induk Saja') printed 1.0; the FY2021 deck prints 0.97."
+            },
+            "nim": {
+                "v": 4.6,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. AR2020 (PDF p. 13) printed 4.7; the FY2021 deck prints 4.56."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the retrieved documents (AR2020, FY2020 investor deck Mar-2021, FY2021 deck, AR2022/AR2024 ratio tables checked)."
+            },
+            "npl_gross": {
+                "v": 2.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only."
+            },
+            "npl_net": {
+                "v": 1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": 15.26,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Investor%20Presentation%20BNLI%20FY2021%20(with%20BBL%20updates).pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 55 (key ratios table), 'Loan at Risk (LAR)' Dec-2020",
+                "basis": "bank_only",
+                "note": "LAR / total loans (NPL + special mention + restructured current), published-report basis. The Mar-2021 FY2020 deck prints 15.3."
+            },
+            "npl_coverage": {
+                "v": 238.82,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Investor%20Presentation%20BNLI%20FY2021%20(with%20BBL%20updates).pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 55 (key ratios table), 'NPL Coverage ratio' Dec-2020",
+                "basis": "bank_only",
+                "note": "Loan-loss allowance / NPL, published-report basis. FY2023 deck p. 53 prints 239."
+            },
+            "ldr": {
+                "v": 78.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "LDR as reported (incl. sharia financing/deposits), bank only."
+            },
+            "car": {
+                "v": 35.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "KPMM (total CAR), bank only."
+            },
+            "cir": {
+                "v": 58.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported, bank only."
+            },
+            "bopo": {
+                "v": 88.8,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 49.8,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "'Dana Murah' (current + savings accounts / third-party funds), bank only. The FY2021 deck (PDF p. 55) prints 51.22% for Dec-2020 on the published-report deposit basis."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 1231.127,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%20Des%202021-%20signed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, Laporan laba rugi, 'Laba bersih yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Includes a 114,001 juta gain on the sale of 63.64% of PT SFK (FS2021 Note 1e)."
+            },
+            "eps": {
+                "v": 39,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%20Des%202021-%20signed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11 (face) and PDF p. 174 (Note 41)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Weighted average 31,543,435,722 shares (Note 41): Rights Issue IX added 8,138,620,315 shares in July 2021."
+            },
+            "payout_ratio": {
+                "v": 24.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 294, two-year dividend table, 'Persentase dividen yang dibagikan terhadap laba bersih' (AGMS 20 May 2022)",
+                "basis": "n/a",
+                "note": "Rp307,541,158,647 = Rp8.5/share. 307.5 / 1,231.1 = 24.98%."
+            },
+            "total_assets": {
+                "v": 234379.042,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%20Des%202021-%20signed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Bank stand-alone: PT SFK was a subsidiary until 30 Dec 2021 and an associate afterwards (FS2021 Note 1e, PDF p. 25); the FY2020 comparative column is consolidated. Permata has had no subsidiaries since 30 Dec 2021 (AR2024 PDF p. 184), so its stand-alone statements are the full reporting entity; stored with basis 'consolidated'. No non-controlling interests."
+            },
+            "loans_gross": {
+                "v": 126068.158,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%20Des%202021-%20signed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 119, Note 12b loans by economic sector, 'Jumlah' (gross, before allowance of 9,082,280 juta)",
+                "basis": "consolidated",
+                "note": "Includes sharia financing."
+            },
+            "deposits": {
+                "v": 179992.316,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14, Ikhtisar Keuangan, 'Simpanan dari Nasabah'",
+                "basis": "consolidated",
+                "note": "Sum of the demand, savings and time deposit lines on the FS face (no total line on the face); same figure in AR2022 PDF p. 12 and AR2023 PDF p. 14."
+            },
+            "equity_attr": {
+                "v": 36613.715,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%20Des%202021-%20signed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan posisi keuangan, 'JUMLAH EKUITAS' (no non-controlling interests)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 36613.715,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%20Des%202021-%20signed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan posisi keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 36181312782,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/LK%20Bank%20Permata%20Des%202021-%20signed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 168, share-capital note: 'Jumlah saham beredar 26.880.234 / 36.154.432.548', 'Saham treasuri 46.738'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "26,880,234 class A + 36,154,432,548 class B shares outstanding, after 46,738 class B treasury shares (issued 26,880,234 A + 36,154,479,286 B = 36,181,359,520). The 46,738 treasury shares were bought from shareholders who chose to sell under the integration plan (EGMS 1 Dec 2020), completed 13 Jan 2021 at Rp1,338 (FS2021 PDF p. 170)."
+            },
+            "year_end_price": {
+                "v": 1535,
+                "source_url": "https://permatabank.com/sites/default/files/documents/pdf/AR2021_PB_26042022_hires.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14, Informasi Saham, 2021 Q4 'Harga Saham Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Market cap 55,538,386,863,200 = 1,535 x 36,181,359,520. AR2022 PDF p. 17 prints the same. The 2021 high/low rows of this table are garbled (Q2-Q4 highs below lows) - only the close is used."
+            },
+            "roe": {
+                "v": 2.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK formula: profit after tax / average core capital), bank only."
+            },
+            "roa": {
+                "v": 0.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only."
+            },
+            "nim": {
+                "v": 4,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for Dec-21 in the retrieved documents (FY2021 deck, Q3-2022 deck [Sep-21/Sep-22 only], FY2023 deck [from Dec-22], AR2022/AR2024 ratio tables checked)."
+            },
+            "npl_gross": {
+                "v": 3.2,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only."
+            },
+            "npl_net": {
+                "v": 0.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": 12.94,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Investor%20Presentation%20BNLI%20FY2021%20(with%20BBL%20updates).pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 55 (key ratios table), 'Loan at Risk (LAR)' Dec-2021",
+                "basis": "bank_only",
+                "note": "LAR / total loans, published-report basis."
+            },
+            "npl_coverage": {
+                "v": 227.4,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "p. 48, Financial Ratios, 'NPL Coverage ratio' Dec-21",
+                "basis": "bank_only",
+                "note": "FY2021 deck prints 227.35."
+            },
+            "ldr": {
+                "v": 69,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "LDR as reported (incl. sharia financing/deposits), bank only."
+            },
+            "car": {
+                "v": 34.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "KPMM (total CAR), bank only."
+            },
+            "cir": {
+                "v": 54.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported, bank only."
+            },
+            "bopo": {
+                "v": 90.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 54,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "'Dana Murah' (current + savings accounts / third-party funds), bank only. The FY2021 deck (PDF p. 55) prints 54.02%."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 2013.413,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 702, audited FS 2022, Laporan laba rugi, 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "No non-controlling interests; AR2022 PDF p. 14 prints the same as attributable to owners."
+            },
+            "eps": {
+                "v": 56,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 703, audited FS 2022, 'Laba bersih per saham dasar dan dilusian'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31"
+            },
+            "payout_ratio": {
+                "v": 24.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/bnli_2023%20AR%20hires%20-%2028mar24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 315, two-year dividend table, 'Persentase dividen yang dibagikan terhadap laba bersih' (AGMS 6 Apr 2023)",
+                "basis": "n/a",
+                "note": "AS PRINTED, but inconsistent with the same table: Rp542,719,691,730 / profit 2,013,412,841,780 = 26.96%. AR2024 PDF p. 321 repeats 24.9%. The AGMS resolution (AR2023 PDF p. 516 summary) states no percentage. See validation_ack payout_total:2022."
+            },
+            "total_assets": {
+                "v": 255112.471,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 699, audited FS 2022 (in AR), Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Permata has had no subsidiaries since 30 Dec 2021 (AR2024 PDF p. 184), so its stand-alone statements are the full reporting entity; stored with basis 'consolidated'. No non-controlling interests."
+            },
+            "loans_gross": {
+                "v": 137036.787,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 811, FS Note 12b loans by economic sector, 'Jumlah' (gross, before allowance of 10,211,059 juta)",
+                "basis": "consolidated",
+                "note": "Includes sharia financing."
+            },
+            "deposits": {
+                "v": 195794.787,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Ikhtisar Keuangan, 'Simpanan Nasabah'",
+                "basis": "consolidated",
+                "note": "Same figure in AR2024 PDF p. 14."
+            },
+            "equity_attr": {
+                "v": 37617.289,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 701, audited FS 2022, 'JUMLAH EKUITAS' (no non-controlling interests)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 37617.289,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 701, audited FS 2022, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 36181312782,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 848, FS share-capital note: 'Jumlah saham beredar 26.880.234 / 36.154.432.548', 'Saham treasuri 46.738'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "26,880,234 class A + 36,154,432,548 class B shares outstanding, after 46,738 class B treasury shares (issued 26,880,234 A + 36,154,479,286 B = 36,181,359,520)."
+            },
+            "year_end_price": {
+                "v": 1015,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/HIRES_PERMATABANK_FINAL_AR%202022_21.03.2023_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Informasi Saham, 2022 Q4 'Harga Saham Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. FY2023 deck p. 54 also prints Dec-22 price 1,015."
+            },
+            "roe": {
+                "v": 4.5,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK formula: profit after tax / average core capital), bank only."
+            },
+            "roa": {
+                "v": 1.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only."
+            },
+            "nim": {
+                "v": 4.3,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": 1.8,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 35, 'Non-Performing Loan - NPL Coverage Ratio' chart, 'Cost of Credit*' line, Dec-22",
+                "basis": "bank_only",
+                "note": "'Cost of Credit is provided on net basis, which includes LI Recovery Impact'; bank only (published report)."
+            },
+            "npl_gross": {
+                "v": 3.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only."
+            },
+            "npl_net": {
+                "v": 0.4,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": 10.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 36, 'Loan At Risk - LAR', '% LAR / Total Loan' Dec-22 (total LAR 14.8 tn)",
+                "basis": "bank_only",
+                "note": "Bank only (published report)."
+            },
+            "npl_coverage": {
+                "v": 240.3,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 48, Financial Ratios, 'NPL Coverage ratio' Dec-22",
+                "basis": "bank_only",
+                "note": "Same in FY2023 deck p. 35."
+            },
+            "ldr": {
+                "v": 68.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "LDR as reported (incl. sharia financing/deposits), bank only."
+            },
+            "car": {
+                "v": 34.2,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "KPMM (total CAR), bank only."
+            },
+            "cir": {
+                "v": 55.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported, bank only."
+            },
+            "bopo": {
+                "v": 82.4,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 57.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "'Dana Murah' (current + savings accounts / third-party funds), bank only. FY2023 and FY2025 decks print 58.0."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 2585.218,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/bnli_2023%20AR%20hires%20-%2028mar24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 748, audited FS 2023, Laporan laba rugi, 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "No non-controlling interests; AR2024 PDF p. 15 prints the same as attributable to owners."
+            },
+            "eps": {
+                "v": 71,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/bnli_2023%20AR%20hires%20-%2028mar24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 749, audited FS 2023, 'Laba bersih per saham dasar dan dilusian'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31"
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 321, two-year dividend table, 'Persentase dividen yang dibagikan terhadap laba bersih' (AGMS 3 Apr 2024)",
+                "basis": "n/a",
+                "note": "Rp904,532,819,550 = Rp25/share; 904.5 / 2,585.2 = 34.99%."
+            },
+            "total_assets": {
+                "v": 257444.147,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/bnli_2023%20AR%20hires%20-%2028mar24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 745, audited FS 2023 (in AR), Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Same figure as the 2023 comparative in the FY2024 FS (AR2024 PDF p. 779). Permata has had no subsidiaries since 30 Dec 2021 (AR2024 PDF p. 184), so its stand-alone statements are the full reporting entity; stored with basis 'consolidated'. No non-controlling interests."
+            },
+            "loans_gross": {
+                "v": 142978.156,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/bnli_2023%20AR%20hires%20-%2028mar24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 849, FS Note 12b loans by economic sector, 'Jumlah' (gross, before allowance of 11,748,072 juta)",
+                "basis": "consolidated",
+                "note": "Includes sharia financing."
+            },
+            "deposits": {
+                "v": 188586.562,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/bnli_2023%20AR%20hires%20-%2028mar24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Ikhtisar Keuangan, 'Simpanan Nasabah'",
+                "basis": "consolidated",
+                "note": "Same figure in AR2024 PDF p. 14."
+            },
+            "equity_attr": {
+                "v": 39992.322,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/bnli_2023%20AR%20hires%20-%2028mar24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 747, audited FS 2023, 'JUMLAH EKUITAS' (no non-controlling interests)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 39992.322,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/bnli_2023%20AR%20hires%20-%2028mar24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 747, audited FS 2023, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 36181312782,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/bnli_2023%20AR%20hires%20-%2028mar24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 883, FS share-capital note, 'Jumlah saham beredar' / 'Saham treasuri 46.738'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "26,880,234 class A + 36,154,432,548 class B shares outstanding, after 46,738 class B treasury shares (issued 26,880,234 A + 36,154,479,286 B = 36,181,359,520)."
+            },
+            "year_end_price": {
+                "v": 920,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Informasi Saham, 2023 Q4 'Harga Saham Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Monthly table PDF p. 19: Dec 2023 close 920."
+            },
+            "roe": {
+                "v": 5.5,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK formula: profit after tax / average core capital), bank only."
+            },
+            "roa": {
+                "v": 1.3,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only."
+            },
+            "nim": {
+                "v": 4.5,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": 1.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "p. 35, 'Cost of Credit*' line, Dec-23",
+                "basis": "bank_only",
+                "note": "Net basis incl. loss-identification recovery impact; bank only."
+            },
+            "npl_gross": {
+                "v": 2.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only."
+            },
+            "npl_net": {
+                "v": 0.4,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": 8.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "p. 36, '% LAR / Total Loan' Dec-23 (total LAR 12.4 tn)",
+                "basis": "bank_only",
+                "note": "Bank only (published report)."
+            },
+            "npl_coverage": {
+                "v": 288.4,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "p. 48, Financial Ratios, 'NPL Coverage ratio' Dec-23",
+                "basis": "bank_only",
+                "note": "Same in FY2023 deck p. 35."
+            },
+            "ldr": {
+                "v": 74.8,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "LDR as reported (incl. sharia financing/deposits), bank only."
+            },
+            "car": {
+                "v": 35.3,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "KPMM (total CAR), bank only. RESTATED: AR2023 (PDF p. 17) and the FY2023 deck printed 38.7% (Tier 1 37.6%); AR2024 marks 35.3% as 'disajikan kembali' (restated; CAR recalculation of risk weights, cf. the restated Jun-2024 KPMM note in the Jun-2025 published report)."
+            },
+            "cir": {
+                "v": 51.5,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported, bank only."
+            },
+            "bopo": {
+                "v": 81.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 55,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "'Dana Murah' (current + savings accounts / third-party funds), bank only. AR2023 printed 54.9."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 3566.519,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 782, audited FS 2024, Laporan laba rugi, 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "No non-controlling interests; AR2024 PDF p. 15 prints the same as attributable to owners."
+            },
+            "eps": {
+                "v": 99,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 783, audited FS 2024, 'Laba bersih per saham dasar dan dilusian'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31"
+            },
+            "payout_ratio": {
+                "v": 30,
+                "source_url": "https://www.idxchannel.com/banking/permata-bank-bnli-tetapkan-dividen-tunai-rp108-triliun-30-persen-dari-laba/all",
+                "source_type": "news",
+                "as_of_date": "2024-12-31",
+                "loc": "IDX Channel article 10 Apr 2025: 'Jumlah tersebut setara 30 persen dari laba bersih'",
+                "basis": "n/a",
+                "note": "No company document with the percentage could be retrieved (AR2025 inaccessible; the AGMS 2025 summary states only the amount Rp1,085,439,383,460 = Rp30/share). Amount / FY2024 profit 3,566,519,056,515 = 30.43%."
+            },
+            "total_assets": {
+                "v": 259067.503,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 779, audited FS 2024 (in AR), Laporan posisi keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Permata has had no subsidiaries since 30 Dec 2021 (AR2024 PDF p. 184), so its stand-alone statements are the full reporting entity; stored with basis 'consolidated'. No non-controlling interests."
+            },
+            "loans_gross": {
+                "v": 155754.18,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 881, FS Note 12b loans by economic sector, 'Jumlah' (gross, before allowance of 11,895,110 juta)",
+                "basis": "consolidated",
+                "note": "Includes sharia financing. The OJK published-report basis used in the FY2025 deck is 154.9 tn for the same date (FY2025 deck p. 46)."
+            },
+            "deposits": {
+                "v": 185843.453,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Ikhtisar Keuangan, 'Simpanan dari Nasabah'",
+                "basis": "consolidated",
+                "note": "Published-report basis in the FY2025 deck: 185.5 tn."
+            },
+            "equity_attr": {
+                "v": 42603.182,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 781, audited FS 2024, 'JUMLAH EKUITAS' (no non-controlling interests)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 42603.182,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 781, audited FS 2024, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 36181312782,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 915, FS Note 28 share capital: 'Jumlah saham beredar 26.880.234 / 36.154.432.548', 'Saham treasuri 46.738'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "26,880,234 class A + 36,154,432,548 class B shares outstanding, after 46,738 class B treasury shares (issued 26,880,234 A + 36,154,479,286 B = 36,181,359,520)."
+            },
+            "year_end_price": {
+                "v": 945,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Informasi Saham, 2024 Q4 'Harga Saham Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. Monthly table PDF p. 19: Dec 2024 close 945."
+            },
+            "roe": {
+                "v": 7.2,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK formula: profit after tax / average core capital), bank only."
+            },
+            "roa": {
+                "v": 1.8,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only."
+            },
+            "nim": {
+                "v": 4.3,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only."
+            },
+            "coc": {
+                "v": 1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 29, NPL Coverage Ratio chart, 'Cost of Credit*' Dec-24",
+                "basis": "bank_only",
+                "note": "Net basis incl. LI recovery impact; bank only."
+            },
+            "npl_gross": {
+                "v": 2.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only."
+            },
+            "npl_net": {
+                "v": 0.4,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only. FY2025 deck p. 29/48 prints 0.3 for Dec-24."
+            },
+            "lar": {
+                "v": 7.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 30, '% LAR/Total Loan' Dec-24 (total LAR 12.2 tn)",
+                "basis": "bank_only",
+                "note": "Bank only (published report)."
+            },
+            "npl_coverage": {
+                "v": 375.5,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 48, Financial Ratios, 'NPL Coverage ratio' Dec-24",
+                "basis": "bank_only",
+                "note": "Same on p. 29."
+            },
+            "ldr": {
+                "v": 82.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "LDR as reported (incl. sharia financing/deposits), bank only."
+            },
+            "car": {
+                "v": 34.6,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "KPMM (total CAR), bank only. FY2025 deck p. 48 prints 34.7 for Dec-24."
+            },
+            "cir": {
+                "v": 50.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported, bank only."
+            },
+            "bopo": {
+                "v": 76.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 55.3,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/BNLI%20AR%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Utama, Rasio Keuangan (OJK ratios, bank only)",
+                "basis": "bank_only",
+                "note": "'Dana Murah' (current + savings accounts / third-party funds), bank only."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 3587.535295464,
+                "source_url": "https://web.ksei.co.id/publications/corporate-action-schedules/minutes-of-meeting?Month=04&Year=2026&file=104086720260407115954",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "KSEI-hosted 'Summary of 2026 Annual GMS Results' (PDF portfolio attachment), p. 5, Second Agenda resolution: 'Net Profit for the financial year ended 31 December 2025 amounting to IDR 3,587,535,295,464.00'",
+                "basis": "consolidated",
+                "note": "Company announcement of the AGMS of 7 Apr 2026 that ratified the audited FY2025 FS. FY2025 deck p. 47 prints PAT 3,588 bn (bank only). Permata has had no subsidiaries since 30 Dec 2021 (AR2024 PDF p. 184), so its stand-alone statements are the full reporting entity; stored with basis 'consolidated'. No non-controlling interests."
+            },
+            "eps": {
+                "v": 99,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 49, Stock Information table, 'EPS* (Rp/Share)' Dec-25 ('*Annualized'; valuation ratios = company analysis)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Audited FY2025 FS not retrievable; deck value. Consistent with profit 3,587.5 bn / 36,181,312,782 shares = 99.2."
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://keuangan.kontan.co.id/news/kabar-baik-bank-permata-bnli-tebar-dividen-rp-126-triliun",
+                "source_type": "news",
+                "as_of_date": "2025-12-31",
+                "loc": "Kontan article 8 Apr 2026: 'sebesar Rp 1,266 triliun atau setara 35% ditetapkan sebagai dividen tunai final'",
+                "basis": "n/a",
+                "note": "The AGMS 2026 summary (company) states the amount Rp1,266,345,947,370 = Rp35/share but no percentage; amount / profit 3,587,535,295,464 = 35.30%."
+            },
+            "total_assets": {
+                "v": 268300,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 46, Balance Sheet (in Rp trillion, one decimal; 'Source: Published Report, numbers are calculated using Bank Only Statements'), 'Total Assets' Dec-25",
+                "basis": "consolidated",
+                "note": "FY2025 annual report / audited FS could not be retrieved (permatabank.com and idx.co.id block this server; not archived). Value from the FY2025 Public Expose deck (10 Mar 2026), printed in Rp trillion to one decimal and on the OJK published-report basis. Same 268.3 on p. 6. Permata has had no subsidiaries since 30 Dec 2021 (AR2024 PDF p. 184), so its stand-alone statements are the full reporting entity; stored with basis 'consolidated'. No non-controlling interests."
+            },
+            "loans_gross": {
+                "v": 163300,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 46, Balance Sheet (in Rp trillion, one decimal; 'Source: Published Report, numbers are calculated using Bank Only Statements'), 'Loans (Gross)' Dec-25",
+                "basis": "consolidated",
+                "note": "FY2025 annual report / audited FS could not be retrieved (permatabank.com and idx.co.id block this server; not archived). Value from the FY2025 Public Expose deck (10 Mar 2026), printed in Rp trillion to one decimal and on the OJK published-report basis. Published-report gross loans (conventional loans + sharia financing); this basis printed 154.9 tn for Dec-24 vs 155,754 bn in the audited loans note, so FY2024->FY2025 growth from fy.* mixes bases (about 0.5 pp)."
+            },
+            "deposits": {
+                "v": 192800,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 46, Balance Sheet (in Rp trillion, one decimal; 'Source: Published Report, numbers are calculated using Bank Only Statements'), 'Deposits' Dec-25",
+                "basis": "consolidated",
+                "note": "FY2025 annual report / audited FS could not be retrieved (permatabank.com and idx.co.id block this server; not archived). Value from the FY2025 Public Expose deck (10 Mar 2026), printed in Rp trillion to one decimal and on the OJK published-report basis. Published-report basis (185.5 tn for Dec-24 vs 185,843 bn in the AR)."
+            },
+            "equity_attr": {
+                "v": 45800,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 46, Balance Sheet (in Rp trillion, one decimal; 'Source: Published Report, numbers are calculated using Bank Only Statements'), \"Shareholders' Equity\" Dec-25",
+                "basis": "consolidated",
+                "note": "FY2025 annual report / audited FS could not be retrieved (permatabank.com and idx.co.id block this server; not archived). Value from the FY2025 Public Expose deck (10 Mar 2026), printed in Rp trillion to one decimal and on the OJK published-report basis. No non-controlling interests."
+            },
+            "total_equity": {
+                "v": 45800,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 46, Balance Sheet (in Rp trillion, one decimal; 'Source: Published Report, numbers are calculated using Bank Only Statements'), \"Shareholders' Equity\" Dec-25",
+                "basis": "consolidated",
+                "note": "FY2025 annual report / audited FS could not be retrieved (permatabank.com and idx.co.id block this server; not archived). Value from the FY2025 Public Expose deck (10 Mar 2026), printed in Rp trillion to one decimal and on the OJK published-report basis. "
+            },
+            "shares_out": {
+                "v": 36181312782,
+                "source_url": "https://web.ksei.co.id/publications/corporate-action-schedules/minutes-of-meeting?Month=04&Year=2026&file=104086720260407115954",
+                "source_type": "company_release",
+                "as_of_date": "2026-03-09",
+                "loc": "KSEI-hosted 'Summary of 2026 Annual GMS Results', p. 3, III. Shareholders Register: 'total shares with legal voting rights issued by the Company amounting to 36,181,312,782 shares, which total has been deducted with treasury stock of 46,738 shares' (register of 9 Mar 2026)",
+                "basis": "n/a",
+                "share_basis": "2026-03-09",
+                "note": "FY-end count not retrievable (AR2025 not accessible). This is the AGMS register of 9 Mar 2026; identical to 31 Dec 2024 (AR2024) and to the AGMS 2025 register of 11 Mar 2025 (KSEI minutes 2025). No rights, bonus, split or buyback was announced between (KSEI corporate-action schedules 2025-2026 checked)."
+            },
+            "year_end_price": {
+                "v": 5150,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-30",
+                "loc": "p. 49, Stock Information: chart label '30-Dec-25, 5,150' and table 'Price (Rp) Dec-25 5,150' (deck source: Bloomberg for share price)",
+                "basis": "n/a",
+                "share_basis": "2025-12-30",
+                "note": "AR2025 not retrievable. Price of the last IDX session of 2025 (30 Dec 2025) as printed in the company deck. BNLI rose from 945 to 5,150 during 2025 (market cap 186.3 tn per the deck)."
+            },
+            "roe": {
+                "v": 6.8,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios (Dec-25 column; 'ratios are Calculated using Bank Only Statements')",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK formula: profit after tax / average core capital), bank only. AR2025 not retrievable; deck value (one decimal)."
+            },
+            "roa": {
+                "v": 1.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios (Dec-25 column; 'ratios are Calculated using Bank Only Statements')",
+                "basis": "bank_only",
+                "note": "ROA per OJK (profit before tax / average total assets), bank only. AR2025 not retrievable; deck value (one decimal). Same 1.7 on p. 21."
+            },
+            "nim": {
+                "v": 4,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios (Dec-25 column; 'ratios are Calculated using Bank Only Statements')",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. AR2025 not retrievable; deck value (one decimal). Same 4.0 on p. 21."
+            },
+            "coc": {
+                "v": 1.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 29, NPL Coverage Ratio chart, 'Cost of Credit*' Dec-25",
+                "basis": "bank_only",
+                "note": "Net basis incl. LI recovery impact; bank only."
+            },
+            "npl_gross": {
+                "v": 2.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios (Dec-25 column; 'ratios are Calculated using Bank Only Statements')",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only. AR2025 not retrievable; deck value (one decimal)."
+            },
+            "npl_net": {
+                "v": 0.2,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios (Dec-25 column; 'ratios are Calculated using Bank Only Statements')",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only. AR2025 not retrievable; deck value (one decimal)."
+            },
+            "lar": {
+                "v": 6.3,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 30, '% LAR/Total Loan' Dec-25 (total LAR 10.3 tn)",
+                "basis": "bank_only",
+                "note": "Bank only (published report)."
+            },
+            "npl_coverage": {
+                "v": 356.1,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios, 'NPL Coverage ratio' Dec-25",
+                "basis": "bank_only",
+                "note": "Same on p. 29."
+            },
+            "ldr": {
+                "v": 84.5,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios (Dec-25 column; 'ratios are Calculated using Bank Only Statements')",
+                "basis": "bank_only",
+                "note": "LDR as reported (incl. sharia financing/deposits), bank only. AR2025 not retrievable; deck value (one decimal). Same 84.5 on p. 21."
+            },
+            "car": {
+                "v": 34.6,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios (Dec-25 column; 'ratios are Calculated using Bank Only Statements')",
+                "basis": "bank_only",
+                "note": "KPMM (total CAR), bank only. AR2025 not retrievable; deck value (one decimal). Same 34.6 on p. 6 and p. 32."
+            },
+            "cir": {
+                "v": 49.6,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios (Dec-25 column; 'ratios are Calculated using Bank Only Statements')",
+                "basis": "bank_only",
+                "note": "Cost to income ratio as reported, bank only. AR2025 not retrievable; deck value (one decimal). Same 49.6 on p. 21."
+            },
+            "bopo": {
+                "v": 76.6,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios (Dec-25 column; 'ratios are Calculated using Bank Only Statements')",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only. AR2025 not retrievable; deck value (one decimal)."
+            },
+            "casa": {
+                "v": 63.9,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%20FY%202025%20for%20Public%20Expose%202026%20(English)%20-FIN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 48, Financial Ratios (Dec-25 column; 'ratios are Calculated using Bank Only Statements')",
+                "basis": "bank_only",
+                "note": "'Dana Murah' (current + savings accounts / third-party funds), bank only. AR2025 not retrievable; deck value (one decimal). Same 63.9 on p. 22."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 8.5,
+            "total": 307.541158647,
+            "cum_date": "2022-05-31",
+            "ex_date": "2022-06-02",
+            "record_date": "2022-06-03",
+            "pay_date": "2022-06-21",
+            "share_basis": "2022-05-24",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BNLI_DIV_20220603_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-05-24",
+            "loc": "KSEI notice KSEI-9374/JKU/0522 (24 May 2022): cum/ex regular market 31 May/2 Jun 2022, recording 3 Jun, payment 21 Jun 2022, Rp8.5 per share",
+            "note": "AGMS 20 May 2022. Total Rp307,541,158,647 (24.9% of FY2021 profit) per AR2022 PDF p. 294 dividend table. Ex-date 2 Jun (1 Jun 2022 was a public holiday)."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 15,
+            "total": 542.71969173,
+            "cum_date": "2023-04-17",
+            "ex_date": "2023-04-18",
+            "record_date": "2023-04-26",
+            "pay_date": "2023-05-09",
+            "share_basis": "2023-04-11",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BNLI_DIV_20230426_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-04-11",
+            "loc": "KSEI notice KSEI-6419/JKU/0423 (11 Apr 2023): cum/ex regular market 17/18 Apr 2023, recording 26 Apr, payment 9 May 2023, Rp15 per share",
+            "note": "AGMS 6 Apr 2023. Total Rp542,719,691,730 (AR2023 PDF p. 315; AGMS resolution summary AR2023 PDF p. 516)."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 25,
+            "total": 904.53281955,
+            "cum_date": "2024-04-19",
+            "ex_date": "2024-04-22",
+            "record_date": "2024-04-23",
+            "pay_date": "2024-05-03",
+            "share_basis": "2024-04-04",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BNLI_DIV_20240423_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-04-04",
+            "loc": "KSEI notice KSEI-7071/JKU/0424 (4 Apr 2024): cum/ex regular market 19/22 Apr 2024, recording 23 Apr, payment 3 May 2024, Rp25 per share",
+            "note": "AGMS 3 Apr 2024. Total Rp904,532,819,550 = 35.0% of FY2023 profit (AR2024 PDF p. 321; resolution AR2024 PDF p. 521)."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 30,
+            "total": 1085.43938346,
+            "cum_date": "2025-04-17",
+            "ex_date": "2025-04-21",
+            "record_date": "2025-04-22",
+            "pay_date": "2025-05-08",
+            "share_basis": "2025-04-11",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BNLI_DIV_20250422_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-04-11",
+            "loc": "KSEI notice KSEI-7784/JKU/0425 (11 Apr 2025): cum/ex regular market 17/21 Apr 2025, recording 22 Apr, payment 8 May 2025, Rp30 per share",
+            "note": "AGMS 9 Apr 2025. Total 'kurang lebih Rp 1.085.439.383.460 (gross)' per the AGMS summary of minutes (KSEI-hosted, https://web.ksei.co.id/publications/corporate-action-schedules/minutes-of-meeting?Month=04&Year=2025&file=103909020250409113100, p. 4); FY2025 deck p. 33 prints Rp1,085 bn."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 35,
+            "total": 1266.34594737,
+            "cum_date": "2026-04-15",
+            "ex_date": "2026-04-16",
+            "record_date": "2026-04-17",
+            "pay_date": "2026-05-07",
+            "share_basis": "2026-04-09",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BNLI_DIV_20260417_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-09",
+            "loc": "KSEI notice KSEI-7582/JKU/0426 (9 Apr 2026): cum/ex regular market 15/16 Apr 2026, recording 17 Apr, payment 7 May 2026, Rp35 per share",
+            "note": "AGMS 7 Apr 2026. Total 'approximately IDR 1,266,345,947,370.00 (gross), or IDR 35.00 per share' per the Summary of 2026 Annual GMS Results (KSEI-hosted, https://web.ksei.co.id/publications/corporate-action-schedules/minutes-of-meeting?Month=04&Year=2026&file=104086720260407115954, pp. 5-6 and 14), which prints the same schedule."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2025,
+        "period_end": "2025-06-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 1645.283,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 2, Laporan Laba Rugi (INDIVIDUAL), 'LABA (RUGI) BERSIH TAHUN BERJALAN' / attributable to 'Pemilik', 30 Juni 2025",
+                "basis": "consolidated",
+                "note": "H1 2025 is the latest interim period whose documents could be retrieved (see research_notes); it is OLDER than fy.2025. 1 Jan-30 Jun 2025, unaudited. Bank has no subsidiaries (individual = entity)."
+            },
+            "profit_ytd_prior": {
+                "v": 1529.585,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-06-30",
+                "loc": "PDF p. 2, Laporan Laba Rugi (INDIVIDUAL), same line, 30 Juni 2024 comparative",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Jun 2024, unaudited."
+            },
+            "equity_attr": {
+                "v": 43584.825,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan (INDIVIDUAL), 30 Juni 2025 column, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "Equals total equity (no minority interest)."
+            },
+            "shares_out": {
+                "v": null,
+                "note": "Not printed in the H1 2025 published report or deck. The AGMS 2025 register (11 Mar 2025) and AGMS 2026 register (9 Mar 2026) both show 36,181,312,782 voting shares (net of 46,738 treasury)."
+            },
+            "total_assets": {
+                "v": 264190.728,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan (INDIVIDUAL), 30 Juni 2025 column, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 162600,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%201H2025%20-REV.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "p. 48, Balance Sheet (Rp trillion, one decimal; bank only), 'Loans (Gross)' Jun-25",
+                "basis": "consolidated",
+                "note": "The published report prints conventional loans (136,754,886 juta) and sharia financing (25,871,887 juta) on separate lines without a total; the deck total is used (Rp tn, one decimal)."
+            },
+            "loans_gross_prior": {
+                "v": 151400,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%201H2025%20-REV.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-06-30",
+                "loc": "p. 48, Balance Sheet (Rp trillion, one decimal; bank only), 'Loans (Gross)' Jun-24",
+                "basis": "consolidated",
+                "note": "Same basis as loans_gross."
+            },
+            "deposits": {
+                "v": 189300,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%201H2025%20-REV.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "p. 48, Balance Sheet (Rp trillion, one decimal; bank only), 'Deposits' Jun-25",
+                "basis": "consolidated",
+                "note": "Published report prints giro/tabungan/deposito separately (71,788,588 / 46,896,304 / 70,573,636 juta) without a total; deck total used."
+            },
+            "deposits_prior": {
+                "v": 191800,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%201H2025%20-REV.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-06-30",
+                "loc": "p. 48, Balance Sheet (Rp trillion, one decimal; bank only), 'Deposits' Jun-24",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 6.32,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan, 30 Juni 2025 column, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Annualised, OJK definition. 30 Jun 2024: 6.28."
+            },
+            "roa": {
+                "v": 1.62,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan, 30 Juni 2025 column, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "Annualised, pre-tax, OJK definition. 30 Jun 2024: 1.59."
+            },
+            "nim": {
+                "v": 4.11,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan, 30 Juni 2025 column, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "30 Jun 2024: 4.34."
+            },
+            "coc": {
+                "v": 1.4,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%201H2025%20-REV.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "p. 30, NPL Coverage Ratio chart, 'Cost of Credit*' Jun-25",
+                "basis": "bank_only",
+                "note": "Net basis incl. LI recovery impact. Jun-24: 1.4."
+            },
+            "npl_gross": {
+                "v": 2.06,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan, 30 Juni 2025 column, 'NPL gross'",
+                "basis": "bank_only",
+                "note": "30 Jun 2024: 2.41. NPL net 0.35."
+            },
+            "lar": {
+                "v": 7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%201H2025%20-REV.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "p. 31, '% LAR/Total Loan' Jun-25 (total LAR 11.5 tn)",
+                "basis": "bank_only",
+                "note": "Jun-24: 7.8."
+            },
+            "npl_coverage": {
+                "v": 345.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%201H2025%20-REV.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "p. 50, Financial Ratios, 'NPL Coverage ratio' Jun-25",
+                "basis": "bank_only",
+                "note": "Same on p. 30. Jun-24: 337.9."
+            },
+            "ldr": {
+                "v": 85.61,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan, 30 Juni 2025 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "30 Jun 2024: 78.23."
+            },
+            "car": {
+                "v": 33.5,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan, 30 Juni 2025 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "30 Jun 2024 restated: 32.71 (risk-weight recalculation, PDF p. 11 note)."
+            },
+            "cir": {
+                "v": 48.51,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Laporan%20Publikasi_Juni%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 10, Laporan Rasio Keuangan, 30 Juni 2025 column, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "30 Jun 2024: 49.64. BOPO 78.25."
+            },
+            "casa": {
+                "v": 62.7,
+                "source_url": "https://www.permatabank.com/sites/default/files/documents/pdf/Corporate%20Presentation%201H2025%20-REV.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "p. 50, Financial Ratios, 'CASA Ratio' Jun-25",
+                "basis": "bank_only",
+                "note": "Same on p. 24. Jun-24: 56.3."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "Rights Issue IX added 8,138,620,315 shares in late July 2021, so reported FY2021 basic EPS (Rp39) uses weighted-average shares of 31,543,435,722 (FS2021 Note 41, PDF p. 174) while shares_out is the year-end 36,181,312,782. 1,231,127 juta / 31.54bn = Rp39 - the gap is real."
+        },
+        {
+            "check": "payout_total:2022",
+            "reason": "AR2023 (PDF p. 315) and AR2024 (PDF p. 321) both print a 24.9% payout for the FY2022 dividend, but the stated total Rp542,719,691,730 (Rp15 x 36,181,312,782 shares) is 26.96% of FY2022 profit Rp2,013,412,841,780; the AGMS resolution gives no percentage. The printed ratio is stored unchanged; the total and DPS are consistent with each other."
+        },
+        {
+            "check": "price_year_end:2020",
+            "reason": "Permata AR2020/AR2021 print the FY2020 closing price as Rp3,140, but the last 2020 session (30 Dec 2020) traded at Rp3,020: the price source scales pre-rights history by 0.874078, which the 2021 rights terms confirm exactly (400,000:116,089 at Rp1,347 imply a cum close of Rp3,060.000 on 8 Jul 2021) and which turns every session of 2019-2021 into whole rupiah on the IDX tick grid; the AR figure does not. Neither source is edited: fundamentals keep the AR value as printed."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: www.permatabank.com (Akamai 'Access Denied' 403) and www.idx.co.id (Cloudflare) block this server; no challenge was bypassed. Every Permata document was downloaded as an Internet Archive raw capture of the exact permatabank.com URL in source_url (https://web.archive.org/web/<timestamp>id_/<url>). Timestamps: AR2024 20260720155401; AR2023 20240809061625; AR2022 20250505034548; AR2021 20240624093628; AR2020 20240522180428; FS2021 20240623112743; FS2020 (reissued) 20240624015954; FS2019 20240624232330; FY2025 Public Expose deck 20261002124939; 1H2025 deck 20260104111747; Jun-2025 published report 20250723134420; FY2023 deck 20251231192615; FY2021 deck 20240713164801. KSEI notices and the KSEI-hosted AGMS 2025/2026 announcements were fetched directly from web.ksei.co.id. The Internet Archive holds NO Permata IR document published after the FY2025 Public Expose deck (10 Mar 2026): AR2025, the audited FY2025 FS and every 2026 interim report/deck are missing (CDX checked for documents/pdf/ and the 2025-2026 upload folders).",
+        "FY2025 IS DECK-BASED: total assets, gross loans, deposits and equity for FY2025 come from the FY2025 Public Expose deck (company_release, Rp trillion to one decimal, OJK published-report basis) and all FY2025 ratios from its 'Financial Ratios' page. FY2025 net profit (3,587.535 bn) is the exact figure in the AGMS 2026 resolution; FY2025 shares_out is the AGMS 2026 register count (9 Mar 2026). Replace with AR2025 values when it becomes retrievable. Deck loans/deposits use the published-report definition (Dec-24: 154.9 / 185.5 tn) while fy.2019-fy.2024 use the audited FS (Dec-24: 155,754 / 185,843 bn), so FY2025 growth is slightly understated for loans.",
+        "INTERIM = H1 2025 (older than fy.2025): no 2026 interim document is retrievable. News headlines report 9M2026 net profit of about Rp2.6 tn (Bisnis.com, 28 Oct 2026) and H1 2026 net profit of Rp1.71 tn, +4.48% YoY (Bisnis.com, 30 Jul 2026). Not stored (news only, articles not readable from this server). Re-run when the H1/9M 2026 published reports become retrievable. Interim money figures are the H1 2025 OJK published report (individual = entity); loan and deposit totals come from the 1H2025 deck because the published report has no total lines.",
+        "ENTITY / BASIS: FY2019 and FY2020 statements are consolidated (Bank + PT Sahabat Finansial Keluarga, a small multifinance subsidiary; NCI Rp10 juta). PT SFK became an associate on 30 Dec 2021 (63.64% sold to Honest Financial Technologies; FS2021 Note 1e) and was no longer an associate by end-2024 (AR2024 PDF p. 184 lists no associate; Permata holds 23.43% of PT Honest Financial Technologies as an 'other investment'); from FY2021 the Bank has no subsidiaries and publishes stand-alone statements (AR2024 PDF p. 184). Money figures are stored with basis 'consolidated' (= the full reporting entity) and equity_attr = total_equity from FY2021. All ratios are the Bank's OJK ratios (AR2020 labels its table 'Entitas Induk Saja'), basis 'bank_only'.",
+        "BANGKOK BANK TAKEOVER AND BRANCH INTEGRATION (affects FY2019/FY2020 comparability): Bangkok Bank bought 89.12% from Standard Chartered and Astra (effective 20 May 2020), then a mandatory tender offer raised it to 98.71% (KSEI MTO schedule 26 Aug 2020). Bangkok Bank's Jakarta branch and Surabaya/Medan sub-branches (BBI) were integrated into Permata effective 21 Dec 2020 (EGMS 1 Dec 2020, OJK permit 17 Dec 2020). Because both were under Bangkok Bank's common control from 20 May 2020, PSAK 38 was applied from that date only: FY2019 is NOT restated (FY2019 figures are identical in FS2019 and the FY2020 comparative), the FY2020 balance sheet includes the transferred BBI assets (25,271 bn incl. loans 12,541 bn gross, allowance 3,795 bn, deposits 4,536 bn) and FY2020 profit includes BBI's 367.9 bn profit for 20 May-20 Dec 2020 (FS2020 Note 1d). BBI's USD1,465m working capital became a shareholder payable: USD700m was converted into AT-1 subordinated notes (10.8 tn at Dec-2024) and USD765m was repaid and replaced by a Rp10,821,490 juta advance capital payment (equity at Dec-2020), converted into shares in Rights Issue IX (July 2021). Equity therefore jumps 24.0 -> 35.1 tn in FY2020 with no new shares until July 2021.",
+        "CORPORATE ACTIONS 2019-01-01 to 2026-11-03: one rights issue (PUT IX, ex-date 9 Jul 2021, 400,000:116,089 at Rp1,347). No split, reverse split, bonus or stock dividend (AR2024 PDF p. 20: no share-changing corporate action in 2024; AR2024 share-listing chronology PDF pp. 789-791 ends with PUT IX; KSEI schedules 2019-2026 for cash dividend, rights, merger/split (masr), bonus and stock dividend list nothing else for BNLI). Not share-count events: the 2020 MTO, and Bangkok Bank's 'refloat' of 9.59% (completed 23 Aug 2024; AR2024 PDF p. 72) which cut its stake from 98.71% back to 89.12% (public 10.88%) without new shares. 46,738 class B treasury shares (bought 13 Jan 2021 from shareholders who opted out of the integration, Rp1,338/share; FS2021 PDF p. 170) are unchanged since. Share classes: 26,880,234 class A (nominal Rp12,500) + 36,154,479,286 class B (Rp125) = 36,181,359,520 issued; shares_out is net of treasury.",
+        "EPS 2021: reported EPS (Rp39) uses weighted-average shares of 31,543,435,722 because 8.14bn rights shares were issued in late July 2021 (FS2021 Note 41); shares_out is the year-end 36.18bn (validation_ack eps_shares:2021).",
+        "DIVIDENDS: one final cash dividend per year, no interim or special dividends: FY2021 Rp8.5, FY2022 Rp15, FY2023 Rp25, FY2024 Rp30, FY2025 Rp35 (dates from KSEI notices; totals from AR/AGMS documents). FY2020: no dividend (AGMS 27 Apr 2021; payout_ratio stored as 0 from AR2022). FY2019 and earlier not in scope. Each year's statement of changes in equity shows exactly the prior-year final (e.g. FY2024 FS: dividend 904,533 juta).",
+        "PAYOUT 2022 IS INCONSISTENT AS PRINTED: AR2023 and AR2024 both print 24.9% for the FY2022 dividend, but Rp542.72 bn / profit Rp2,013.41 bn = 26.96% (24.9% looks carried over from the FY2021 column). Stored as printed with validation_ack payout_total:2022. FY2024 and FY2025 payout percentages come from news (no company document prints them); both agree with amount / profit (30.4%, 35.3%).",
+        "RATIO SOURCES AND RESTATEMENTS: FY2020-FY2024 ratios are the AR2024 'Rasio Keuangan' table (latest AR available); FY2025 from the FY2025 deck. FY2023 CAR was restated from 38.7% (AR2023, FY2023 deck) to 35.3% (AR2024, marked 'disajikan kembali'); the Jun-2025 published report explains a similar restatement of Jun-2024 KPMM (wrong risk weights / undrawn commitments). FY2020 ROA/NIM differ slightly between AR2020 (1.0 / 4.7) and later ARs (0.9 / 4.6); later values stored. CoC (net, incl. loss-identification recoveries), LAR and NPL coverage come from analyst/public-expose decks (published-report basis); CoC FY2020-FY2021 not disclosed in any retrieved document.",
+        "PRICE 2025: the BNLI share price rose from Rp945 (end-2024) to Rp5,150 (30 Dec 2025) per the FY2025 deck (market cap Rp186.3 tn, P/E 52x); intermediate prints: Rp2,780 at 30 Jun 2025 (1H2025 deck). Expect large daily moves in the price file around mid/late 2025. The AR share tables' printed market caps do not always equal close x issued shares (AR2020, AR2022); only the printed closes are stored.",
+        "BRAND: legal name PT Bank Permata Tbk (unchanged). The brand changed on 27 Sep 2024 from 'PermataBank' (diamond icon) to 'Permata Bank' with a lotus icon in Bangkok Bank's 'Active Blue' (AR2024 PDF p. 83). Sharia business unit (UUS) inside the Bank; sharia=false."
+    ]
+}
