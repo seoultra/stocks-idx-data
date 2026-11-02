@@ -1,0 +1,1441 @@
+{
+    "schema": 1,
+    "code": "BNBA",
+    "name": "PT Bank Bumi Arta Tbk",
+    "name_short": "Bank Bumi Arta",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bankbba.co.id",
+    "ir_url": "https://www.bankbba.co.id/bumiarta/id/laporan-tahunan",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF p. 147 (printed p. 145), 'Pangsa Pasar': 'Kinerja Bank Bumi Arta Dibanding Rata-Rata Industri Perbankan - Kelompok Bank berdasarkan Modal Inti 1 (KBMI 1)'; core capital: OJK published report 31 Dec 2025 (scan) PDF p. 6, KPMM report, 'Modal Inti (Tier 1)' Rp3,174,211 juta",
+        "note": "KBMI 1 = core capital below Rp6tn (POJK 12/POJK.03/2021). The AR benchmarks the bank against the KBMI 1 peer group; Tier 1 Rp3,174.2bn at Dec 2025 and Rp3,211.6bn at 30 Sep 2026 (interim FS Note 47) - only just above the Rp3tn minimum core capital."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 7607.653715376,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140248.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 318, audited FS, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements."
+            },
+            "loans_gross": {
+                "v": 5165.685915268,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140248.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 318, Laporan Posisi Keuangan, 'KREDIT' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 5932.337771204,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140248.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 319, Laporan Posisi Keuangan, 'SIMPANAN' (customer deposits: giro, tabungan, deposito berjangka; excludes 'Simpanan dari bank lain')",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 1523.655563503,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140248.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 319, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 1523.655563503,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140248.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 319, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 35.053333152,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 442, audited FS, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "As originally reported (FY2020 FS; same in FY2021 FS comparative and AGMS 16 Aug 2021). AR2022-AR2024 five-year highlight tables print a restated 35,569 for 2020. No NCI: whole net income belongs to owners (AR highlight table 'Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 15.17,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 442, 'LABA PER SAHAM - dasar dan dilusian' (Rp, full)",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31"
+            },
+            "payout_ratio": {
+                "v": 26.36,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-08-16",
+                "loc": "AR2021 PDF p. 129, 'Tabel Penggunaan Laba Bersih' (2020: 26,36%); same in AR2022 PDF p. 135",
+                "basis": "consolidated",
+                "note": "26.36% of FY2020 net income (Rp35,053 juta) = Rp9,240 juta, Rp4.00/share (AGMS 16 Aug 2021)."
+            },
+            "total_assets": {
+                "v": 7637.524325854,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 440, audited FS, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements. Restated as the 1 Jan 2021 balance in the FY2022 FS (AR2022 PDF p. 548, Note 50): 7,634,250.985."
+            },
+            "loans_gross": {
+                "v": 4576.091498751,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 440, Laporan Posisi Keuangan, 'KREDIT' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 5976.432134617,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 441, Laporan Posisi Keuangan, 'SIMPANAN' (customer deposits: giro, tabungan, deposito berjangka; excludes 'Simpanan dari bank lain')",
+                "basis": "consolidated",
+                "note": "As originally reported (incl. Rp66,667 juta of credit-balance PRK accounts). Restated 1 Jan 2021 balance in the FY2022 FS (Note 50c): 5,909,764.806."
+            },
+            "equity_attr": {
+                "v": 1509.386122943,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 441, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Restated 1 Jan 2021 balance in the FY2022 FS (Note 50a): 1,520,991.603."
+            },
+            "total_equity": {
+                "v": 1509.386122943,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 441, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Restated 1 Jan 2021 balance in the FY2022 FS (Note 50a): 1,520,991.603."
+            },
+            "shares_out": {
+                "v": 2310000000,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 441 (equity, 'Modal ditempatkan dan disetor') and PDF p. 508 (Note 'Modal Saham')",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 378,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 14, Ikhtisar Saham, quarterly share-price table, Q4 2020 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split ever, so no restatement. AR2021's 2020 table (PDF p. 14) prints the same close but mislabels the 2020 rows as 'Triwulan 1-4 – 2021'."
+            },
+            "roe": {
+                "v": 2.4,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2020, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported; formula not printed. Bank = whole entity (no subsidiaries). As originally reported; identical in the audited 31 Dec 2020 OJK published report and as the 2020 comparative of the Dec 2021 report. AR2022 and later print restated FY2020 ratios (CAR 25.98, ROA 0.70, ROE 2.43, BOPO 92.02, CIR 81.00)."
+            },
+            "roa": {
+                "v": 0.69,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2020, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average assets) as reported. As originally reported; identical in the audited 31 Dec 2020 OJK published report and as the 2020 comparative of the Dec 2021 report. AR2022 and later print restated FY2020 ratios (CAR 25.98, ROA 0.70, ROE 2.43, BOPO 92.02, CIR 81.00)."
+            },
+            "nim": {
+                "v": 4.17,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2020, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "As originally reported; identical in the audited 31 Dec 2020 OJK published report and as the 2020 comparative of the Dec 2021 report. AR2022 and later print restated FY2020 ratios (CAR 25.98, ROA 0.70, ROE 2.43, BOPO 92.02, CIR 81.00)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2020 (checked: 'Rasio Keuangan' highlight table, MD&A) or the 31 Dec 2020 OJK published report ratio page; the bank publishes no analyst deck. Not computed."
+            },
+            "npl_gross": {
+                "v": 2.63,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2020, 'NPL - Gross'",
+                "basis": "bank_only",
+                "note": "As originally reported; identical in the audited 31 Dec 2020 OJK published report and as the 2020 comparative of the Dec 2021 report. AR2022 and later print restated FY2020 ratios (CAR 25.98, ROA 0.70, ROE 2.43, BOPO 92.02, CIR 81.00)."
+            },
+            "npl_net": {
+                "v": 1.81,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2020, 'NPL - Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no loan-at-risk ratio in the AR ratio table or MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only in the 2026 template (Dec 2025 report has no KKR row; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2020: the AR and the Dec 2020 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL coverage. Not computed."
+            },
+            "ldr": {
+                "v": 76.57,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_ID_211112102008.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "OJK published report 31 Dec 2020, single newspaper page, 'Laporan Rasio Keuangan' row 12 'Loan to Deposit Ratio (LDR)', column 31 Des 2020",
+                "basis": "bank_only",
+                "note": "As originally reported; AR2020 p. 12 prints the same value as 'Loan to Funding Ratio (LFR)'. AR2022+ print a restated 77.43."
+            },
+            "car": {
+                "v": 25.8,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2020, 'Kewajiban Penyediaan Modal Minimum / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only",
+                "note": "As originally reported; identical in the audited 31 Dec 2020 OJK published report and as the 2020 comparative of the Dec 2021 report. AR2022 and later print restated FY2020 ratios (CAR 25.98, ROA 0.70, ROE 2.43, BOPO 92.02, CIR 81.00)."
+            },
+            "cir": {
+                "v": 81.22,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_ID_211112102008.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "OJK published report 31 Dec 2020 (single newspaper page), 'Laporan Rasio Keuangan' row 11 'Cost to Income Ratio (CIR)', column 31 Des 2020",
+                "basis": "bank_only",
+                "note": "AR2020's ratio table has no CIR line. Same value as the 2020 comparative in AR2021 p. 12 and the Dec 2021 report; AR2022+ print a restated 81.00."
+            },
+            "bopo": {
+                "v": 92.12,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2020, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 17.39,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2021/NOV/REPORT_EN_211118140330.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 90, MD&A 'Simpanan' (deposits) section: 'Komposisi CASA ... Rp1,039,403 juta = 17.39% of total deposits'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total customer deposits, as printed in the MD&A text (not in the ratio table)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 44.449400923,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 408, audited FS, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "As originally reported (FY2021 FS; AGMS 25 May 2022 appropriated this amount). Restated in the FY2022 FS (Note 50a, AR2022 PDF p. 548; extra personnel expense under PSAK 24) to 42,675.046. No NCI: whole net income belongs to owners (AR highlight table 'Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 16.04,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 408, 'LABA PER SAHAM - dasar dan dilusian' (Rp, full)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "As originally reported: FY2021 FS Note 37 (AR2021 PDF p. 476) divides profit by 2,772,000,000 shares (labelled weighted average, but equal to the year-end count although PMHMETD I shares were issued in Dec 2021). The FY2022 FS restates FY2021 basic EPS to Rp18.17 on a weighted average of 2,348,500,000 shares and restated profit (AR2022 PDF p. 516, Note 37)."
+            },
+            "payout_ratio": {
+                "v": 26.5,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-05-25",
+                "loc": "AR2022 PDF p. 135, Kebijakan Dividen text and 'Tabel Penggunaan Laba Bersih' (2021: 26,50%)",
+                "basis": "consolidated",
+                "note": "26.50% of FY2021 net income (Rp44,450 juta) = Rp11,781 juta, Rp4.25/share (AGMS 25 May 2022)."
+            },
+            "total_assets": {
+                "v": 8666.5258286,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 406, audited FS, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements. Restated in the FY2022 audited FS (AR2022 PDF p. 548, Note 50): 8,664,310.151 (deferred tax -2,215.7)."
+            },
+            "loans_gross": {
+                "v": 3970.764105463,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 406, Laporan Posisi Keuangan, 'KREDIT' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 6317.07287174,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 407, Laporan Posisi Keuangan, 'SIMPANAN' (customer deposits: giro, tabungan, deposito berjangka; excludes 'Simpanan dari bank lain')",
+                "basis": "consolidated",
+                "note": "As originally reported ('SIMPANAN' related + third parties, incl. Rp54,436 juta of credit-balance overdraft (PRK) accounts). The FY2022 FS (Note 50c, AR2022 PDF p. 548) reclassified those PRK balances to other liabilities and restated FY2021 deposits to 6,262,636.725."
+            },
+            "equity_attr": {
+                "v": 2233.765261905,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 407, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Restated in the FY2022 FS (Note 50a/b, AR2022 PDF p. 548; PSAK 24 employee-benefit attribution): 2,241,620.845."
+            },
+            "total_equity": {
+                "v": 2233.765261905,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 407, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Restated in the FY2022 FS (Note 50a/b, AR2022 PDF p. 548): 2,241,620.845."
+            },
+            "shares_out": {
+                "v": 2772000000,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 407 (equity, 'Modal ditempatkan dan disetor') and PDF p. 469 (Note 'Modal Saham')",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid; no treasury shares. Includes the 462,000,000 PMHMETD I shares listed 15 Dec 2021."
+            },
+            "year_end_price": {
+                "v": 3240,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 14, Ikhtisar Saham, quarterly share-price table, Q4 2021 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split ever, so no restatement."
+            },
+            "roe": {
+                "v": 2.8,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2021, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported; formula not printed. Bank = whole entity (no subsidiaries). As originally reported; identical in the audited 31 Dec 2021 OJK published report (newspaper page, 'Laporan Rasio Keuangan'). AR2022 and later print restated FY2021 ratios (CAR 41.87, ROA 0.74, ROE 2.69, BOPO 88.87, CIR 75.56)."
+            },
+            "roa": {
+                "v": 0.77,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2021, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average assets) as reported. As originally reported; identical in the audited 31 Dec 2021 OJK published report (newspaper page, 'Laporan Rasio Keuangan'). AR2022 and later print restated FY2021 ratios (CAR 41.87, ROA 0.74, ROE 2.69, BOPO 88.87, CIR 75.56)."
+            },
+            "nim": {
+                "v": 4.32,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2021, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "As originally reported; identical in the audited 31 Dec 2021 OJK published report (newspaper page, 'Laporan Rasio Keuangan'). AR2022 and later print restated FY2021 ratios (CAR 41.87, ROA 0.74, ROE 2.69, BOPO 88.87, CIR 75.56)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2021 (checked: 'Rasio Keuangan' highlight table, MD&A) or the 31 Dec 2021 OJK published report ratio page; the bank publishes no analyst deck. Not computed."
+            },
+            "npl_gross": {
+                "v": 3.04,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2021, 'NPL - Gross'",
+                "basis": "bank_only",
+                "note": "As originally reported; identical in the audited 31 Dec 2021 OJK published report (newspaper page, 'Laporan Rasio Keuangan'). AR2022 and later print restated FY2021 ratios (CAR 41.87, ROA 0.74, ROE 2.69, BOPO 88.87, CIR 75.56)."
+            },
+            "npl_net": {
+                "v": 2.15,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2021, 'NPL - Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no loan-at-risk ratio in the AR ratio table or MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only in the 2026 template (Dec 2025 report has no KKR row; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2021: the AR and the Dec 2021 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL coverage. Not computed."
+            },
+            "ldr": {
+                "v": 62.86,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/MAR/REPORT_ID_220328170714.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "OJK published report 31 Dec 2021, single newspaper page (Kontan, 28 Mar 2022), 'Laporan Rasio Keuangan' row 'Loan to Deposit Ratio (LDR)', column 31 Des 2021 (Diaudit)",
+                "basis": "bank_only",
+                "note": "As originally reported. The AR tables call this ratio 'Loan to Funding Ratio (LFR)' and print the same values (AR2021 p. 12: 62.86). AR2022+ print the restated FY2021 value 63.40 (after the PRK deposit reclassification)."
+            },
+            "car": {
+                "v": 41.73,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2021, 'Kewajiban Penyediaan Modal Minimum / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only",
+                "note": "As originally reported; identical in the audited 31 Dec 2021 OJK published report (newspaper page, 'Laporan Rasio Keuangan'). AR2022 and later print restated FY2021 ratios (CAR 41.87, ROA 0.74, ROE 2.69, BOPO 88.87, CIR 75.56)."
+            },
+            "cir": {
+                "v": 74.81,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2021, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Separate line from BOPO. As originally reported; identical in the audited 31 Dec 2021 OJK published report (newspaper page, 'Laporan Rasio Keuangan'). AR2022 and later print restated FY2021 ratios (CAR 41.87, ROA 0.74, ROE 2.69, BOPO 88.87, CIR 75.56)."
+            },
+            "bopo": {
+                "v": 88.45,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2021, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 31.16,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2022/APR/REPORT_EN_220428175324.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 99, MD&A 'Simpanan' (deposits) section: 'Komposisi CASA ... Rp1,968,240 juta = 31.16% of total deposits (original FY2021 deposits basis)'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total customer deposits, as printed in the MD&A text (not in the ratio table)."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 38.939042725,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 449, audited FS, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: whole net income belongs to owners (AR highlight table 'Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 13.79,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 449, 'LABA PER SAHAM - dasar dan dilusian' (Rp, full)",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic EPS on a weighted average of 2,823,333,333 shares (FS2022 Note 37, AR2022 PDF p. 516): PMHMETD II added 616,000,000 shares in Dec 2022."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report_rups/2023/JUN/REPORT_ID2306271632183.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-06-26",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST 26 Jun 2023, Mata Acara Kedua",
+                "basis": "consolidated",
+                "note": "No dividend for FY2022: of profit Rp38,939,042,725, Rp2.5bn to the reserve and Rp36,439,042,725 retained ('tidak memberikan dividen untuk tahun buku 2022')."
+            },
+            "total_assets": {
+                "v": 8211.291790399,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 447, audited FS, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements."
+            },
+            "loans_gross": {
+                "v": 3845.625381567,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 447, Laporan Posisi Keuangan, 'KREDIT' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 4972.36641452,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 448, Laporan Posisi Keuangan, 'SIMPANAN' (customer deposits: giro, tabungan, deposito berjangka; excludes 'Simpanan dari bank lain')",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3076.77399753,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 448, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 3076.77399753,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 448, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 3388000000,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 448 (equity, 'Modal ditempatkan dan disetor') and PDF p. 509 (Note 'Modal Saham')",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid; no treasury shares. Includes the 616,000,000 PMHMETD II shares listed 5 Dec 2022."
+            },
+            "year_end_price": {
+                "v": 925,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 15, Ikhtisar Saham, quarterly share-price table, Q4 2022 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split ever, so no restatement."
+            },
+            "roe": {
+                "v": 1.69,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2022, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported; formula not printed. Bank = whole entity (no subsidiaries). Identical in the 31 Dec 2022 OJK published report (newspaper page, 'Laporan Rasio Keuangan')."
+            },
+            "roa": {
+                "v": 0.59,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2022, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average assets) as reported. Identical in the 31 Dec 2022 OJK published report (newspaper page, 'Laporan Rasio Keuangan')."
+            },
+            "nim": {
+                "v": 4.62,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2022, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2022 OJK published report (newspaper page, 'Laporan Rasio Keuangan')."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2022 (checked: 'Rasio Keuangan' highlight table, MD&A) or the 31 Dec 2022 OJK published report ratio page; the bank publishes no analyst deck. Not computed."
+            },
+            "npl_gross": {
+                "v": 4.56,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2022, 'NPL - Gross'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2022 OJK published report (newspaper page, 'Laporan Rasio Keuangan')."
+            },
+            "npl_net": {
+                "v": 3.23,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2022, 'NPL - Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no loan-at-risk ratio in the AR ratio table or MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only in the 2026 template (Dec 2025 report has no KKR row; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2022: the AR and the Dec 2022 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL coverage. Not computed."
+            },
+            "ldr": {
+                "v": 77.34,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/MAR/REPORT_ID_230310115435.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "OJK published report 31 Dec 2022, single newspaper page, 'Laporan Rasio Keuangan' row 12 'Loan to Deposit Ratio (LDR)', column 31 Des 2022",
+                "basis": "bank_only",
+                "note": "The AR ratio table prints the same value as 'Loan to Funding Ratio (LFR)' (AR2022 PDF p. 13)."
+            },
+            "car": {
+                "v": 59.27,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2022, 'Kewajiban Penyediaan Modal Minimum / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2022 OJK published report (newspaper page, 'Laporan Rasio Keuangan')."
+            },
+            "cir": {
+                "v": 72.15,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2022, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Separate line from BOPO. Identical in the 31 Dec 2022 OJK published report (newspaper page, 'Laporan Rasio Keuangan')."
+            },
+            "bopo": {
+                "v": 91.31,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2022, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 23.31,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 105, MD&A 'Simpanan' (deposits) section: 'Komposisi CASA ... Rp1,159,297 juta = 23.31% of total deposits'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total customer deposits, as printed in the MD&A text (not in the ratio table)."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 44.365911946,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 439, audited FS, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: whole net income belongs to owners (AR highlight table 'Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 13.1,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 439, 'LABA PER SAHAM - dasar dan dilusian' (Rp, full)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report_rups/2024/JUN/REPORT_ID2406211722319.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-06-19",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST 19 Jun 2024, Mata Acara Kedua",
+                "basis": "consolidated",
+                "note": "No dividend for FY2023: Rp2.5bn to the reserve, Rp41,865,911,946 retained. Same in FY2025 FS Note 27 (AR2025 PDF p. 540)."
+            },
+            "total_assets": {
+                "v": 7991.554506433,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 437, audited FS, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements."
+            },
+            "loans_gross": {
+                "v": 3919.454298365,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 437, Laporan Posisi Keuangan, 'KREDIT' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 4696.761103603,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 438, Laporan Posisi Keuangan, 'SIMPANAN' (customer deposits: giro, tabungan, deposito berjangka; excludes 'Simpanan dari bank lain')",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3121.955070819,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 438, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 3121.955070819,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 438, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 3388000000,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 438 (equity, 'Modal ditempatkan dan disetor') and PDF p. 501 (Note 'Modal Saham')",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 745,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 16, Ikhtisar Saham, quarterly share-price table, Q4 2023 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split ever, so no restatement."
+            },
+            "roe": {
+                "v": 1.46,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2023, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported; formula not printed. Bank = whole entity (no subsidiaries). Identical in the 31 Dec 2023 OJK published report (scan, PDF p. 4) and in AR2024/AR2025."
+            },
+            "roa": {
+                "v": 0.71,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2023, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average assets) as reported. Identical in the 31 Dec 2023 OJK published report (scan, PDF p. 4) and in AR2024/AR2025."
+            },
+            "nim": {
+                "v": 4.92,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2023, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2023 OJK published report (scan, PDF p. 4) and in AR2024/AR2025."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2023 (checked: 'Rasio Keuangan' highlight table, MD&A) or the 31 Dec 2023 OJK published report ratio page; the bank publishes no analyst deck. Not computed."
+            },
+            "npl_gross": {
+                "v": 4.43,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2023, 'NPL - Gross'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2023 OJK published report (scan, PDF p. 4) and in AR2024/AR2025."
+            },
+            "npl_net": {
+                "v": 3.03,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2023, 'NPL - Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no loan-at-risk ratio in the AR ratio table or MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only in the 2026 template (Dec 2025 report has no KKR row; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2023: the AR and the Dec 2023 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL coverage. Not computed."
+            },
+            "ldr": {
+                "v": 83.45,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/MAR/REPORT_ID_240331223403.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "OJK published report 31 Dec 2023, PDF p. 4 (scan), 'Laporan Rasio Keuangan' row 12 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "The AR ratio table prints the same value as 'Loan to Funding Ratio (LFR)' (AR2023 PDF p. 14)."
+            },
+            "car": {
+                "v": 72.87,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2023, 'Kewajiban Penyediaan Modal Minimum / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2023 OJK published report (scan, PDF p. 4) and in AR2024/AR2025."
+            },
+            "cir": {
+                "v": 73.32,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2023, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Separate line from BOPO. Identical in the 31 Dec 2023 OJK published report (scan, PDF p. 4) and in AR2024/AR2025."
+            },
+            "bopo": {
+                "v": 89.7,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2023, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 20.54,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2024/APR/REPORT_EN_240430234326.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 110, MD&A 'Simpanan' (deposits) section: 'Komposisi CASA ... Rp964,810 juta = 20.54% of total deposits'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total customer deposits, as printed in the MD&A text (not in the ratio table)."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 61.400015845,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 440, audited FS, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: whole net income belongs to owners (AR highlight table 'Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 18.12,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 440, 'LABA PER SAHAM - dasar dan dilusian' (Rp, full)",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report_rups/2025/JUN/REPORT_ID2506301732587.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-25",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST 25 Jun 2025, Mata Acara Kedua",
+                "basis": "consolidated",
+                "note": "No dividend for FY2024: Rp3.0bn to the reserve, Rp58,400,015,845 retained. Same in FY2025 FS Note 27 (AR2025 PDF p. 540)."
+            },
+            "total_assets": {
+                "v": 8175.92558998,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 438, audited FS, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements."
+            },
+            "loans_gross": {
+                "v": 4477.788684335,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 438, Laporan Posisi Keuangan, 'KREDIT' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 4798.662994857,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 439, Laporan Posisi Keuangan, 'SIMPANAN' (customer deposits: giro, tabungan, deposito berjangka; excludes 'Simpanan dari bank lain')",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3185.106042969,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 439, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 3185.106042969,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 439, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 3388000000,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 439 (equity, 'Modal ditempatkan dan disetor') and PDF p. 499 (Note 'Modal Saham')",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 600,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 12, Ikhtisar Saham, quarterly share-price table, Q4 2024 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split ever, so no restatement."
+            },
+            "roe": {
+                "v": 1.98,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 10, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2024, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported; formula not printed. Bank = whole entity (no subsidiaries). Identical in the 31 Dec 2024 OJK published report (scan, PDF p. 4) and in AR2025's five-year table."
+            },
+            "roa": {
+                "v": 0.96,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 10, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2024, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average assets) as reported. Identical in the 31 Dec 2024 OJK published report (scan, PDF p. 4) and in AR2025's five-year table."
+            },
+            "nim": {
+                "v": 4.54,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 10, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2024, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2024 OJK published report (scan, PDF p. 4) and in AR2025's five-year table."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2024 (checked: 'Rasio Keuangan' highlight table, MD&A) or the 31 Dec 2024 OJK published report ratio page; the bank publishes no analyst deck. Not computed."
+            },
+            "npl_gross": {
+                "v": 3.65,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 10, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2024, 'NPL - Gross'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2024 OJK published report (scan, PDF p. 4) and in AR2025's five-year table."
+            },
+            "npl_net": {
+                "v": 2.3,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 10, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2024, 'NPL - Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no loan-at-risk ratio in the AR ratio table or MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only in the 2026 template (Dec 2025 report has no KKR row; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2024: the AR and the Dec 2024 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL coverage. Not computed."
+            },
+            "ldr": {
+                "v": 93.31,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/MAR/REPORT_ID_250327175537.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "OJK published report 31 Dec 2024, PDF p. 4 (scan), 'Laporan Rasio Keuangan' row 12 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "The AR ratio table prints the same value as 'Loan to Funding Ratio (LFR)' (AR2024 PDF p. 10)."
+            },
+            "car": {
+                "v": 65.07,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 10, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2024, 'Kewajiban Penyediaan Modal Minimum / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2024 OJK published report (scan, PDF p. 4) and in AR2025's five-year table."
+            },
+            "cir": {
+                "v": 82.24,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 10, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2024, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Separate line from BOPO. Identical in the 31 Dec 2024 OJK published report (scan, PDF p. 4) and in AR2025's five-year table."
+            },
+            "bopo": {
+                "v": 87.83,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 10, Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2024, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 21.21,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/APR/REPORT_EN_250430202514.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 104, MD&A 'Simpanan' (deposits) section: 'Komposisi CASA ... Rp1,017,635 juta = 21.21% of total deposits'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total customer deposits, as printed in the MD&A text (not in the ratio table)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 9.469058547,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 480, audited FS, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "No NCI: whole net income belongs to owners (AR highlight table 'Pemilik Entitas Induk' = same)."
+            },
+            "eps": {
+                "v": 2.79,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 480, 'LABA PER SAHAM - dasar dan dilusian' (Rp, full)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report_rups/2026/JUL/REPORT_ID26070904132411.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST 30 Jun 2026, Mata Acara Kedua",
+                "basis": "consolidated",
+                "note": "No dividend for FY2025: Rp3.0bn to the reserve, Rp6,469,058,547 retained; the AGMS also withheld FY2025 tantieme to protect minimum core capital (Mata Acara Keempat)."
+            },
+            "total_assets": {
+                "v": 8546.042849111,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 478, audited FS, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone audited FS: the bank has no subsidiaries and no non-controlling interest, so these are the entity's only (full) financial statements."
+            },
+            "loans_gross": {
+                "v": 4721.3514372,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 478, Laporan Posisi Keuangan, 'KREDIT' (gross, before 'Cadangan kerugian penurunan nilai')",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 5139.702867209,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 479, Laporan Posisi Keuangan, 'SIMPANAN' (customer deposits: giro, tabungan, deposito berjangka; excludes 'Simpanan dari bank lain')",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3227.792680805,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 479, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: total equity = equity attributable to owners."
+            },
+            "total_equity": {
+                "v": 3227.792680805,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 479, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 3388000000,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 479 (equity, 'Modal ditempatkan dan disetor') and PDF p. 539 (Note 'Modal Saham')",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 695,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 12, Ikhtisar Saham, quarterly share-price table, Q4 2025 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split ever, so no restatement."
+            },
+            "roe": {
+                "v": 0.3,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 10 (printed p. 8), Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2025, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported; formula not printed. Bank = whole entity (no subsidiaries). Identical in the 31 Dec 2025 OJK published report (scan, PDF p. 4, 'Laporan Rasio Keuangan')."
+            },
+            "roa": {
+                "v": 0.15,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 10 (printed p. 8), Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2025, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average assets) as reported. Identical in the 31 Dec 2025 OJK published report (scan, PDF p. 4, 'Laporan Rasio Keuangan')."
+            },
+            "nim": {
+                "v": 4.24,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 10 (printed p. 8), Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2025, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2025 OJK published report (scan, PDF p. 4, 'Laporan Rasio Keuangan')."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2025 (checked: 'Rasio Keuangan' highlight table, MD&A) or the 31 Dec 2025 OJK published report ratio page; the bank publishes no analyst deck. Not computed."
+            },
+            "npl_gross": {
+                "v": 3.78,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 10 (printed p. 8), Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2025, 'NPL - Gross'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2025 OJK published report (scan, PDF p. 4, 'Laporan Rasio Keuangan')."
+            },
+            "npl_net": {
+                "v": 2.01,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 10 (printed p. 8), Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2025, 'NPL - Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no loan-at-risk ratio in the AR ratio table or MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only in the 2026 template (Dec 2025 report has no KKR row; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2025: the AR and the Dec 2025 published report print only 'CKPN aset keuangan terhadap aset produktif', not allowance/NPL coverage. Not computed."
+            },
+            "ldr": {
+                "v": 91.86,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/MAR/REPORT_ID_260331215609.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "OJK published report 31 Dec 2025, PDF p. 4 (scan), 'Laporan Rasio Keuangan' row 12 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "The AR ratio table prints the same value as 'Loan to Funding Ratio (LFR)' (AR2025 PDF p. 10 (printed p. 8))."
+            },
+            "car": {
+                "v": 63.29,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 10 (printed p. 8), Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2025, 'Kewajiban Penyediaan Modal Minimum / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only",
+                "note": "Identical in the 31 Dec 2025 OJK published report (scan, PDF p. 4, 'Laporan Rasio Keuangan')."
+            },
+            "cir": {
+                "v": 85.1,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 10 (printed p. 8), Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2025, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Separate line from BOPO. Identical in the 31 Dec 2025 OJK published report (scan, PDF p. 4, 'Laporan Rasio Keuangan')."
+            },
+            "bopo": {
+                "v": 97.75,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 10 (printed p. 8), Ikhtisar Keuangan, 'Rasio Keuangan' table, column 2025, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 25.78,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/APR/REPORT_EN_260430224149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 109, MD&A 'Simpanan' (deposits) section: 'Komposisi CASA ... Rp1,325,241 juta = 25.78% of total deposits'",
+                "basis": "bank_only",
+                "note": "(Giro + tabungan) / total customer deposits, as printed in the MD&A text (not in the ratio table)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 4,
+            "total": 9.24,
+            "cum_date": "2021-08-25",
+            "ex_date": "2021-08-26",
+            "record_date": "2021-08-27",
+            "pay_date": "2021-09-17",
+            "share_basis": "2021-08-19",
+            "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report_rups/2021/NOV/REPORT_ID2111151448370.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-08-19",
+            "loc": "Pengumuman Ringkasan Risalah RUPST 16 Aug 2021 (dated 19 Aug 2021), PDF p. 2 Mata Acara Kedua (dividend Rp9,240,000,000 = Rp4/share) and PDF p. 4 'Jadwal dan Tata Cara Pembayaran Dividen Tunai'",
+            "note": "Out of FY2020 net income Rp35,053,333,152: dividend Rp9.24bn (26.36%), Rp2.5bn reserve, Rp23,313,333,152 retained. 4 x 2,310,000,000 shares = Rp9.24bn. Cash-market ex-date 30 Aug 2021."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 4.25,
+            "total": 11.781,
+            "cum_date": "2022-06-06",
+            "ex_date": "2022-06-07",
+            "record_date": "2022-06-08",
+            "pay_date": "2022-06-29",
+            "share_basis": "2022-05-30",
+            "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report_rups/2022/MAY/REPORT_ID2205300950294.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-05-30",
+            "loc": "Pengumuman Ringkasan Risalah RUPST 25 May 2022 (dated 30 May 2022), PDF p. 2 Mata Acara Kedua (dividend Rp11,781,000,000 = Rp4.25/share) and PDF p. 5 'Jadwal dan Tata Cara Pembayaran Dividen Tunai'",
+            "note": "Out of FY2021 net income Rp44,449,400,923 (as originally reported): dividend Rp11.781bn (26.50%), Rp2.5bn reserve, Rp30,168,400,923 retained. 4.25 x 2,772,000,000 shares = Rp11.781bn. Cash-market ex-date 9 Jun 2022."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 37.425536894,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_EN_261030131152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026, PDF p. 5, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN' (9 months)",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2026. Interim FS authorised by the Directors on 30 Oct 2026 (Note 1c); no auditor's review report is included, so treat as unaudited. Stand-alone (no subsidiaries)."
+            },
+            "profit_ytd_prior": {
+                "v": 17.841942118,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_EN_261030131152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Interim FS 30 Sep 2026, PDF p. 5, Laporan Laba Rugi, comparative column 30 Sep 2025",
+                "basis": "consolidated",
+                "note": "Same figure in the 30 Sep 2025 interim FS (PDF p. 5). Profit roughly doubled YoY mainly on an impairment reversal (+Rp11.5bn vs a Rp15.1bn charge) and lower interest expense."
+            },
+            "equity_attr": {
+                "v": 3265.218217699,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_EN_261030131152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No NCI: total equity = attributable."
+            },
+            "shares_out": {
+                "v": 3388000000,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_EN_261030131152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, equity, 'Modal ditempatkan dan disetor - 3.388.000.000 saham tahun 2026'",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "No treasury shares."
+            },
+            "total_assets": {
+                "v": 6994.139847244,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_EN_261030131152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Down 18.2% from 8,546.0 at 31 Dec 2025 (deposit outflow, see research_notes)."
+            },
+            "loans_gross": {
+                "v": 3966.151861161,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_EN_261030131152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Laporan Posisi Keuangan, 'KREDIT' (gross)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 4710.835193934,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/OCT/REPORT_EN_251031151921.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Interim FS 30 Sep 2025, PDF p. 3, Laporan Posisi Keuangan, 'KREDIT' (gross)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 3562.879541788,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_EN_261030131152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Laporan Posisi Keuangan, 'SIMPANAN' (excl. deposits from other banks)",
+                "basis": "consolidated",
+                "note": "Down 30.7% from 5,139.7 at 31 Dec 2025 and 27.8% YoY."
+            },
+            "deposits_prior": {
+                "v": 4931.835575285,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2025/OCT/REPORT_EN_251031151921.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Interim FS 30 Sep 2025, PDF p. 4, Laporan Posisi Keuangan, 'SIMPANAN'",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 1.56,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_ID_261031073053.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (scan), PDF p. 5, 'Laporan Rasio Keuangan', column 30 Sep 2026, row 9 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (annualised), as reported. 30 Sep 2025: 0.75."
+            },
+            "roa": {
+                "v": 0.8,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_ID_261031073053.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (scan), PDF p. 5, 'Laporan Rasio Keuangan', column 30 Sep 2026, row 8 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 0.36."
+            },
+            "nim": {
+                "v": 4.3,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_ID_261031073053.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (scan), PDF p. 5, 'Laporan Rasio Keuangan', column 30 Sep 2026, row 10 'Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the 30 Sep 2026 published report and interim FS print no cost-of-credit ratio. Not computed."
+            },
+            "npl_gross": {
+                "v": 5.37,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_ID_261031073053.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (scan), PDF p. 5, 'Laporan Rasio Keuangan', column 30 Sep 2026, row 5 'NPL Gross'",
+                "basis": "bank_only",
+                "note": "Up from 3.22 at 30 Sep 2025 and 3.78 at 31 Dec 2025 (partly the smaller loan book). NPL net 2.82."
+            },
+            "lar": {
+                "v": 6.99,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_ID_261031073053.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (scan), PDF p. 5, 'Laporan Rasio Keuangan', column 30 Sep 2026, row 7 'Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "OJK 'Kredit Kualitas Rendah' (low-quality loans: special mention + restructured current + NPL), the 2026 template's loan-at-risk measure. 30 Sep 2025: 5.62."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: the published report prints only 'CKPN aset keuangan terhadap aset produktif' (2.68%), not allowance/NPL. Not computed."
+            },
+            "ldr": {
+                "v": 111.32,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_ID_261031073053.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (scan), PDF p. 5, 'Laporan Rasio Keuangan', column 30 Sep 2026, row 13 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Real, not a unit slip: deposits fell faster than loans in 2026 (loans 3,966 / deposits 3,563). 30 Sep 2025: 95.52."
+            },
+            "car": {
+                "v": 72.74,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_ID_261031073053.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (scan), PDF p. 5, 'Laporan Rasio Keuangan', column 30 Sep 2026, row 1 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Core capital Rp3,211,636 juta (interim FS Note 47, PDF p. 101) vs the Rp3tn minimum."
+            },
+            "cir": {
+                "v": 85.3,
+                "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/report/2026/OCT/REPORT_ID_261031073053.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "OJK published report 30 Sep 2026 (scan), PDF p. 5, 'Laporan Rasio Keuangan', column 30 Sep 2026, row 12 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "BOPO 87.59."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for 30 Sep 2026: the published report has no CASA line and the interim FS give deposit amounts only. Not computed."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2022",
+            "reason": "PMHMETD II added 616,000,000 shares in December 2022 (listed 5 Dec 2022), so FY2022 basic EPS Rp13.79 is computed on a weighted average of 2,823,333,333 shares (FY2022 FS Note 37, AR2022 PDF p. 516 of https://www.bankbba.co.id/bumiarta/assets/file/report/2023/APR/REPORT_EN_230429084538.pdf): 13.79 x 2,823.3m = Rp38.9bn = reported profit; FY-end shares are 3,388,000,000. Real weighted-average effect, not a data error."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS / DOMAIN: the domain in the brief, bankbumiarta.co.id, does not exist (NXDOMAIN at the .co.id registry on 2026-11-03). The bank's official site is https://www.bankbba.co.id (title 'Bank Bumi Arta - Teman Anda Dalam Usaha'; footer 'Copyrighted (c) 2026 P.T. Bank Bumi Arta, Tbk.'). Every document was downloaded directly from www.bankbba.co.id on 2026-11-03 (no bot protection, no archive route). The IR pages load their document lists from the site's own JSON endpoints (POST https://www.bankbba.co.id/bumiarta/Laporan/list_lapor with paramCategory 1=annual reports, 3=published reports, 4=interim FS, 5='consolidated' FS; POST .../Rups/list_lapor/id for AGMS documents) - exactly what the browser does; the resulting PDF URLs are stored in source_url. The 'Laporan Keuangan Konsolidasi' items are 1-page scans of newspaper summaries, so the full audited FS were taken from inside each year's annual report.",
+        "ENTITY / NAME / CONTROL: legal name unchanged, PT Bank Bumi Arta Tbk (no rebrand; AR2025, 9M2026 interim FS and all 2026 disclosures use it). No acquisition, change of control or recapitalisation in 2025-2026. Shareholders at 31 Dec 2024, 31 Dec 2025 and 30 Sep 2026: PT Takjub Finansial Teknologi (Ajaib group) 33.45%, PT Surya Husada Investment 29.53%, PT Dana Graha Agung 17.72%, PT Budiman Kencana Lestari 10.95%, public 8.35% (FS2025 Note 24, AR2025 PDF p. 539). Ultimate controlling shareholders: Rachmat Mulia Suryahusada (President Commissioner, died 23 Jul 2025) and Anderson Sumarli (interim FS Note 1). Ajaib entered on 17 Nov 2021 (24%) and rose to 40% on 8 Apr 2022 by buying existing shares; it did not take up its full PMHMETD II rights, hence 33.45% now.",
+        "BASIS / UNITS: the bank has no subsidiaries (one Rp10m minority investment), so its audited statements are stand-alone ('Laporan Keuangan', not 'konsolidasian'). Money figures are labelled basis 'consolidated' because they are the entity's only, complete statements; ratios are labelled 'bank_only' (bank = whole entity). All audited and interim FS are in full Rupiah (divided by 1e9, full precision kept).",
+        "RESTATEMENT (FY2020/FY2021): the FY2022 audited FS (Note 50, AR2022 PDF pp. 547-548) restated 31 Dec 2021 and 1 Jan 2021 for (a) the DSAK-IAI PSAK 24 clarification on attributing benefits to service periods, (b) a PSAK 16 revaluation-surplus correction and (c) reclassifying credit-balance overdraft (PRK) accounts from deposits to other liabilities. Following the dataset convention (BBNI), fy.2020 and fy.2021 store the figures as ORIGINALLY reported in their own audited FS (AR2020, AR2021) and the matching original ratios (AR2020/AR2021 tables = audited Dec 2020/Dec 2021 OJK published reports). Restated values: FY2021 total assets 8,664,310.2, deposits 6,262,636.7, equity 2,241,620.8, net profit 42,675.0, EPS 18.17; 1 Jan 2021 (= FY2020) total assets 7,634,251.0, deposits 5,909,764.8, equity 1,520,991.6; AR2022+ highlight tables also print a restated FY2020 profit of 35,569 and restated FY2020/FY2021 ratios. Growth 2021->2022 on deposits is therefore overstated by the Rp54.4bn PRK reclassification.",
+        "CORPORATE ACTIONS 2019-01-01..2026-11-03: two rights issues and nothing else - PMHMETD I (ex 2021-12-10, 5:1 at Rp1,345, +462,000,000 shares) and PMHMETD II (ex 2022-11-30, 9:2 at Rp1,345, +616,000,000 shares). No split, reverse split or bonus issue since the 2006 IPO (AR2024 PDF p. 75 and AR2025 PDF p. 78 share-listing chronology list only the IPO and the two PMHMETDs; AR2025 PDF p. 14: no corporate actions in 2025). No 2026 rights issue has been announced, but the AGMS of 30 Jun 2026 approved adding capital options to the bank's Recovery Plan and authorised the Directors to execute recovery options without a prior GMS (Mata Acara Ketujuh) - re-check for a new PMHMETD. FY2019 year_end_price is NOT stored: no rights/bonus ex-date falls before 2020-12-31 (the brief's rule is not triggered); the AR closes bracketing each issue are FY2020 Rp378 / FY2021 Rp3,240 / FY2022 Rp925. AR2020 PDF p. 14 prints the Q4-2019 close (Rp336) if ever needed.",
+        "PER-SHARE BASIS: there was never a split, so share_basis is the period-end date for FY figures and the announcement date for dividends. Reported EPS: FY2020 15.17 (2,310m shares), FY2021 16.04 (original FS divided by the 2,772m year-end count although the FS calls it a weighted average), FY2022 13.79 on a weighted 2,823,333,333 shares (validation_ack), FY2023-FY2025 on 3,388m.",
+        "DIVIDENDS: final cash dividends only - FY2020 Rp4.00/share (Rp9.24bn, 26.36%, ex 26 Aug 2021) and FY2021 Rp4.25/share (Rp11.781bn, 26.50%, ex 7 Jun 2022). No interim or special dividends. No dividend out of FY2022 (AGMS 26 Jun 2023), FY2023 (AGMS 19 Jun 2024), FY2024 (AGMS 25 Jun 2025) or FY2025 (AGMS 30 Jun 2026); payout_ratio is 0 for those years with the AGMS summary as source. The equity statements agree (retained earnings move only by profit and the general reserve).",
+        "RATIOS: CAR, NPL gross/net, ROA, ROE, NIM, BOPO and CIR come from each year's own AR 'Rasio Keuangan' table, which is identical to the audited 31-Dec OJK published report (checked visually for Dec 2020-Dec 2025). LDR comes from the published reports ('Loan to Deposit Ratio (LDR)'); the AR tables print the same numbers under the label 'Loan to Funding Ratio (LFR)'. CASA comes from the MD&A sentence 'Komposisi CASA ... % dari total simpanan' (not in the ratio table). Cost of credit, NPL coverage and loan-at-risk are not disclosed for any FY (null); the 2026 published-report template adds 'Kredit Kualitas Rendah (KKR)', used as interim lar. ROE is the OJK ratio (formula not printed); it is low (0.30-2.80%) because equity (incl. a Rp726bn fixed-asset revaluation surplus) is very large relative to profit - real, not a unit slip.",
+        "PROFITABILITY: FY2025 net profit fell 84.6% to Rp9.47bn (impairment charge Rp37.7bn vs a Rp7.5bn reversal in 2024; BOPO 97.75%). 9M2026 profit Rp37.4bn vs Rp17.8bn (impairment reversal, lower interest expense).",
+        "2026 EVENTS A REVIEWER MUST KNOW: (1) legal cases against directors - disclosures of 25 Jun 2026 (Hendrik Atmaja, Edwin Suryahusada), 31 Aug 2026 (authorities exercised coercive measures, 'upaya paksa', on 29 Aug 2026 re Edwin Suryahusada) and 2 Sep 2026 (proceedings also involve President Director Wikan Aryono S. and Hendrik Atmaja); Wikan Aryono S. asked to resign on 17 Jun 2026 but the EGMS of 10 Sep 2026 did not approve it; two independent commissioners resigned (15 Apr 2026). (2) Balance sheet shrank sharply in 9M2026: deposits -30.7% YTD (5,139.7 -> 3,562.9bn), loans -16.0%, total assets -18.2%, LDR 111.32%, NPL gross 5.37%, KKR 6.99%. (3) Core capital Rp3,211.6bn at 30 Sep 2026 vs the Rp3tn minimum (POJK 12/POJK.03/2020); the AGMS of 30 Jun 2026 approved an updated Recovery Plan under POJK 5/2024 with added capital options and withheld FY2025 tantieme to protect core capital. Sources: keterbukaan informasi on https://www.bankbba.co.id/bumiarta/id/keterbukaan-informasi (DOCUMENT_260709042015.pdf, DOCUMENT_260831161948.pdf, DOCUMENT_260902155509.pdf), AGMS/EGMS summaries, 9M2026 interim FS Notes 47 and 50j. Earlier: the FY2020 audit opinion was unmodified with an emphasis of matter on the shareholders' action plan to meet the minimum core capital (note on the Dec 2020 published report), resolved by the 2021-2022 rights issues.",
+        "INTERIM: 9M2026 = interim FS for the nine months to 30 Sep 2026 (authorised 30 Oct 2026; no review report included) and the OJK published report of 30 Sep 2026 (scan; ratios read from the page image). Prior-year loans and deposits come from the 30 Sep 2025 interim FS. The ID and EN links for the 9M2026 interim FS serve the same bilingual file.",
+        "YEAR-END PRICES: Q4 closes from each AR's quarterly table: 2020 378, 2021 3,240, 2022 925, 2023 745, 2024 600, 2025 695 (the later ARs repeat the same values). The stock ran from Rp378 to a Q4-2021 high of Rp5,175 around Ajaib's entry; thin trading in 2019-2020 (quarterly volume 5-31m shares). There is no prices/BNBA.json yet, so the year-end cross-check has not been run."
+    ]
+}

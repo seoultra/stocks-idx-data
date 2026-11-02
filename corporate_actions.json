@@ -458,6 +458,34 @@
             "note": "1 old share -> 2 new shares; nominal Rp250 -> Rp125; issued shares 46,666,666,666 -> 93,333,333,332. Approved at AGM 14 Mar 2023 (AR2023 PDF p.558, printed p.556). KSEI schedule: last trade at old nominal in regular & negotiated market 3 Apr 2023; FIRST trade at new nominal in regular & negotiated market 4 Apr 2023 (= regular-market ex-date); recording date 5 Apr 2023; distribution of new shares / cash market at new nominal 6 Apr 2023. Bank Mandiri's own AR2023 (PDF p.40, p.201, p.558) says the split 'became effective'/shares listed 'as of 6 April 2023' - that is the distribution/cash-market date, NOT the regular-market ex-date."
         },
         {
+            "code": "BNBA",
+            "type": "rights",
+            "ratio_old": 5,
+            "ratio_new": 1,
+            "ex_date": "2021-12-10",
+            "exercise_price": 1345,
+            "price": 1345,
+            "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/document/2021/DEC/DOCUMENT_211203082959.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-12-02",
+            "loc": "'Perubahan dan/atau Tambahan atas Informasi Penting' PMHMETD I (issued Jakarta, 2 Dec 2021), PDF p. 2: schedule ('Ex-HMETD di Pasar Reguler dan Pasar Negosiasi: 10 Desember 2021') and 'Rasio HMETD atas saham' / 'Harga pelaksanaan: Rp1.345'; PDF p. 1 offer paragraph",
+            "note": "PMHMETD I (rights code BNBA-R): every holder of 5 shares on the 13 Dec 2021 register (DPS) received 1 right; 1 right = 1 new share (nominal Rp100) at Rp1,345. EGMS 25 Oct 2021; OJK effective 1 Dec 2021 (S-228/D.04/2021); cum regular/negotiated 9 Dec, ex 10 Dec 2021; cash-market cum 13 / ex 14 Dec; rights listed and exercised 15-21 Dec 2021; standby buyer PT Dana Graha Agung. 462,000,000 new shares (2,310,000,000 -> 2,772,000,000; AR2025 PDF pp. 78-79), gross Rp621.39bn, net Rp618.26bn. The 28 Oct 2021 provisional prospectus (https://www.bankbba.co.id/bumiarta/assets/file/document/2021/NOV/DOCUMENT_211123090216.pdf) had ex 8 Dec 2021 - superseded. Same final schedule in KSEI notice KSEI-22408/JKU/1221 of 6 Dec 2021 (https://web.ksei.co.id/Announcement/Files/BNBA_RIGHT_20211213_ID.pdf). Not a split: no per-share adjustment factor."
+        },
+        {
+            "code": "BNBA",
+            "type": "rights",
+            "ratio_old": 9,
+            "ratio_new": 2,
+            "ex_date": "2022-11-30",
+            "exercise_price": 1345,
+            "price": 1345,
+            "source_url": "https://www.bankbba.co.id/bumiarta/assets/file/document/2022/DEC/DOCUMENT_221206110024.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-11-22",
+            "loc": "'Perubahan dan/atau Tambahan atas Keterbukaan Informasi' PMHMETD II (issued Jakarta, 22 Nov 2022), PDF p. 3: schedule ('Ex-HMETD di Pasar Reguler dan Pasar Negosiasi: 30 November 2022'), 'Rasio HMETD atas saham' and 'Harga pelaksanaan: Rp1.345'; PDF p. 1 offer paragraph (616,000,000 new shares, 9 old -> 2 rights); PDF p. 2 issue date and standby buyers",
+            "note": "PMHMETD II: every holder of 9 shares on the 1 Dec 2022 register received 2 rights; 1 right = 1 new share (nominal Rp100) at Rp1,345. EGMS 3 Aug 2022; OJK effective 21 Nov 2022 (S-236/D.04/2022); cum regular/negotiated 29 Nov, ex 30 Nov 2022; cash-market cum 1 / ex 2 Dec; rights listed 5 Dec 2022, exercise 5-9 Dec; standby buyers PT Surya Husada Investment and PT Dana Graha Agung. 616,000,000 new shares (2,772,000,000 -> 3,388,000,000; AR2025 PDF p. 80, FS2025 Note 25), gross Rp828.52bn, net Rp823.41bn. The 4 Oct 2022 provisional disclosure (blank ratio/price, ex 16 Nov 2022) was superseded. Same final schedule in KSEI notice KSEI-22330/JKU/1122 of 23 Nov 2022 (https://web.ksei.co.id/Announcement/Files/BNBA_RIGHT_20221201_ID.pdf). Not a split: no per-share adjustment factor."
+        },
+        {
             "code": "BNLI",
             "type": "rights",
             "ratio_old": 400000,
