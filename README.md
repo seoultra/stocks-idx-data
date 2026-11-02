@@ -48,6 +48,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | MAYA | PT Bank Mayapada Internasional Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/MAYA.json](issuers/MAYA.json) | [prices/MAYA.json](prices/MAYA.json) 2019-12-02 → 2026-11-02 |
 | BMAS | PT Bank Kasikorn Indonesia Tbk | 2 | FY2020–FY2025 | H1 2026 | [issuers/BMAS.json](issuers/BMAS.json) | [prices/BMAS.json](prices/BMAS.json) 2019-01-02 → 2026-11-02 |
 | PNBS | PT Bank Panin Dubai Syariah Tbk | 1 | FY2020–FY2025 | H1 2026 | [issuers/PNBS.json](issuers/PNBS.json) | [prices/PNBS.json](prices/PNBS.json) 2019-01-02 → 2026-11-02 |
+| BCIC | PT Bank JTrust Indonesia Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BCIC.json](issuers/BCIC.json) | [prices/BCIC.json](prices/BCIC.json) 2020-07-28 → 2026-11-02 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->

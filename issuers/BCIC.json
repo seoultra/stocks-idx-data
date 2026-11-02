@@ -1,0 +1,1431 @@
+{
+    "schema": 1,
+    "code": "BCIC",
+    "name": "PT Bank JTrust Indonesia Tbk",
+    "name_short": "Bank JTrust Indonesia",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.jtrustbank.co.id",
+    "ir_url": "https://www.jtrustbank.co.id/id/information/investor-support",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2025.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 183, Rencana Bisnis / positioning: 'Berdasarkan kategori KBMI (Kelompok Bank Berdasarkan Modal Inti), Bank berada di KBMI 1'",
+        "note": "KBMI 1 = core capital below Rp6tn (POJK 12/POJK.03/2021). AR2025 also notes core capital dipped below the Rp3tn minimum at end-2025 and was restored in May 2026 after OJK recognised a Rp400bn capital deposit."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 17311.597,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 6245.991,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 83 (Note 10), Pinjaman yang diberikan, 'Total' before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment; conventional bank, no sharia financing."
+            },
+            "deposits": {
+                "v": 12806.232,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito, related and third parties). Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 1673.826,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 1673.826,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'EKUITAS'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": -484.441,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan Laba Rugi dan Penghasilan Komprehensif Lain, 'LABA (RUGI) BERSIH TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Net LOSS. Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": -48.38552,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'; PDF p. 149 (Note 40)",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic/diluted loss per share as printed (full rupiah). Weighted average shares 10,012,124,501 (Note 40) = year-end count."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 160, Kebijakan Dividen: 'Perseroan sejak tahun 2008 tidak melakukan pembayaran dividen karena mencatat defisit (saldo rugi)'",
+                "basis": "n/a",
+                "note": "Net loss year; accumulated deficit, no dividend out of FY2020. AR2020 PDF p. 199 also: 'belum dapat mendistribusikan dividen'."
+            },
+            "total_assets": {
+                "v": 16204.908,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 7350.65,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 104 (Note 10), Pinjaman yang diberikan, 'Total' before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment; conventional bank, no sharia financing."
+            },
+            "deposits": {
+                "v": 13064.987,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito, related and third parties). Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 1443.23,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'EKUITAS NETO'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 1443.23,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'EKUITAS NETO'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10012124501,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 136 (Note 27), Modal saham, shareholder table 'Total'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid: 10,011,841,000 Series A (par Rp1,000) + 283,501 Series B (par Rp7,800,000) = 10,012,124,501 shares; no treasury shares. Unchanged since the 100,000:1 reverse split of Oct 2018."
+            },
+            "year_end_price": {
+                "v": 700,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AR_JTrust_AR_2020_MEDIUMRES.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 24, Informasi Saham Tahun 2019-2020, 2020 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 2020 closing as printed. Trading had resumed on 8 Jan 2020 after a suspension since 21 Nov 2008 (IDX Peng-UPT-00001/BEI.PP3/01-2020) at the KJPP reference price Rp450; the AR shows only 100 shares traded in 2020 (Q3) and zero volume in Q4. Same value in AR2021 PDF p. 18 (2020 Triwulan 4) and AR2022 PDF p. 16 (Jan-Jun 2021 opening 700). No exact session date printed, so as_of_date = period end."
+            },
+            "roe": {
+                "v": -34.01,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2020-550024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '8. Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ROE as printed in the published report (the report does not print the formula; the OJK convention is profit after tax / average Tier 1 capital). Same value in AR2021 PDF p. 13, Rasio Keuangan Utama 2019-2021. AR2020 PDF p. 23 labels it 'Rasio Laba (Rugi) sebelum Pajak terhadap rata-rata Ekuitas' with the same value (-34.01)."
+            },
+            "roa": {
+                "v": -3.36,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2020-550024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '7. Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ROA as printed (convention: profit before tax / average total assets). Same value in AR2021 PDF p. 13, Rasio Keuangan Utama 2019-2021."
+            },
+            "nim": {
+                "v": 0.22,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2020-550024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '9. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2021 PDF p. 13, Rasio Keuangan Utama 2019-2021."
+            },
+            "coc": {
+                "v": null,
+                "note": "Cost of credit not disclosed (checked: AR2021 ratio table, AR MD&A profitability table, 31-Dec-2020 published ratio report; no 'cost of credit'/'credit cost' anywhere in the AR text)."
+            },
+            "npl_gross": {
+                "v": 4.97,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2020-550024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2021 PDF p. 13, Rasio Keuangan Utama 2019-2021."
+            },
+            "npl_net": {
+                "v": 2.72,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2020-550024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '6. NPL net'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2021 PDF p. 13, Rasio Keuangan Utama 2019-2021."
+            },
+            "lar": {
+                "v": null,
+                "note": "Loan at risk not disclosed (checked: AR2021 ratio table, MD&A credit-quality section, 31-Dec-2020 published report)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "NPL coverage (allowance / NPL) not disclosed as a ratio (checked: AR2021 ratio table, 31-Dec-2020 published ratio report; only 'Pemenuhan PPAP' and 'CKPN terhadap aset produktif' are printed, which are different ratios)."
+            },
+            "ldr": {
+                "v": 56.26,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2020-550024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '12. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Published report label 'Loan to Deposit Ratio (LDR)'. AR2021 PDF p. 13, Rasio Keuangan Utama 2019-2021 prints the same value labelled 'Rasio Kredit yang Diberikan Terhadap Dana Pihak Ketiga (LFR)'."
+            },
+            "car": {
+                "v": 11.59,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2020-550024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2021 PDF p. 13, Rasio Keuangan Utama 2019-2021."
+            },
+            "cir": {
+                "v": 397.45,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2020-550024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '11. Cost-to-Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "As printed (OJK Cost-to-Income Ratio); outside the validator's plausible range but REAL: net interest income collapsed to Rp26.1bn while operating costs stayed around Rp600bn. Same value in AR2021 PDF p. 13, Rasio Keuangan Utama 2019-2021."
+            },
+            "bopo": {
+                "v": 146.66,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2020-550024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2021 PDF p. 13, Rasio Keuangan Utama 2019-2021."
+            },
+            "casa": {
+                "v": 14.7,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13, Rasio Keuangan Utama, 'Giro dan Tabungan terhadap Simpanan (CASA)' 2020",
+                "basis": "bank_only",
+                "note": "Current + savings accounts / customer deposits, bank (stand-alone entity). Same value (14.7) in AR2020 PDF p. 24."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": -445.423,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Laba Rugi dan Penghasilan Komprehensif Lain, 'RUGI - NETO'",
+                "basis": "consolidated",
+                "note": "Net LOSS. Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": -42.1539,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'; PDF p. 131 (Note 38)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic/diluted loss per share as printed. Uses the WEIGHTED-AVERAGE share count 10,566,597,436 (Note 38), not the year-end 14,142,382,081, because PUT 2021 shares were issued in Dec 2021."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 185, Kebijakan Dividen: no dividend paid since 2008 because of the accumulated deficit (saldo rugi Rp12,349,237 million at 31 Dec 2022)",
+                "basis": "n/a",
+                "note": "Net loss year; no dividend out of FY2021."
+            },
+            "total_assets": {
+                "v": 21317.575,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 10015.617,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 86 (Note 10), Pinjaman yang diberikan, 'Total' before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment; conventional bank, no sharia financing."
+            },
+            "deposits": {
+                "v": 15945.444,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito, related and third parties). Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 2659.787,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'EKUITAS NETO'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 2659.787,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'EKUITAS NETO'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 14142382081,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 115 (Note 25), Modal saham, shareholder table 'Total'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "10,011,841,000 Series A + 283,501 Series B + 4,130,257,580 Series C (par Rp100, issued Dec 2021 in PUT 2021) = 14,142,382,081; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 206,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Informasi Saham Tahun 2021-2022 (monthly), Desember 2021 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "CONFLICT: AR2021 PDF p. 18 quarterly table prints 2021 Triwulan 4 closing 199 (market cap 2,814,334,034,119 = 199 x 14,142,382,081). AR2022 monthly table (Dec 2021 close 206; Jan 2022 open 206) and the AR2025 five-year summary (PDF p. 24: 2021 'Harga Penutupan' 206) agree on 206; AR2021's quarterly table is inconsistent with the AR2022 monthly table in other cells too (e.g. Q4 opening 200 vs October 2021 opening 226). Stored 206; reviewer should confirm against the price source."
+            },
+            "roe": {
+                "v": -36.27,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2021-1510157.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '8. Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ROE as printed in the published report (the report does not print the formula; the OJK convention is profit after tax / average Tier 1 capital). Same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "roa": {
+                "v": -3.06,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2021-1510157.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '7. Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ROA as printed (convention: profit before tax / average total assets). Same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "nim": {
+                "v": 0.82,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2021-1510157.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '9. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "coc": {
+                "v": null,
+                "note": "Cost of credit not disclosed (checked: AR2021 ratio table, AR MD&A profitability table, 31-Dec-2021 published ratio report; no 'cost of credit'/'credit cost' anywhere in the AR text)."
+            },
+            "npl_gross": {
+                "v": 3.9,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2021-1510157.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "npl_net": {
+                "v": 2.32,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2021-1510157.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '6. NPL net'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "lar": {
+                "v": null,
+                "note": "Loan at risk not disclosed (checked: AR2021 ratio table, MD&A credit-quality section, 31-Dec-2021 published report)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "NPL coverage (allowance / NPL) not disclosed as a ratio (checked: AR2021 ratio table, 31-Dec-2021 published ratio report; only 'Pemenuhan PPAP' and 'CKPN terhadap aset produktif' are printed, which are different ratios)."
+            },
+            "ldr": {
+                "v": 62.81,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2021-1510157.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '12. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Published report label 'Loan to Deposit Ratio (LDR)'. AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025 prints the same value labelled 'Rasio Kredit yang Diberikan Terhadap Dana Pihak Ketiga (LFR)'."
+            },
+            "car": {
+                "v": 15.82,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2021-1510157.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "cir": {
+                "v": 389.23,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2021-1510157.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '11. Cost-to-Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "As printed (OJK Cost-to-Income Ratio); outside the validator's plausible range but REAL: net interest income collapsed to Rp102.6bn while operating costs stayed around Rp600bn. Same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "bopo": {
+                "v": 122.55,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2021-1510157.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "casa": {
+                "v": 18.48,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 21, Rasio-rasio Keuangan Penting, 'Current Account Saving Account (CASA)' 2021",
+                "basis": "bank_only",
+                "note": "Current + savings accounts / customer deposits, bank (stand-alone entity). Same in AR2021 PDF p. 13 and AR2022 PDF p. 175."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 86.621,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Laporan Laba Rugi dan Penghasilan Komprehensif Lain, 'LABA (RUGI) TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": 5.47,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'; PDF p. 143 (Note 39)",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic/diluted EPS as printed (2 decimals). Uses the WEIGHTED-AVERAGE share count 15,827,227,804 (Note 39), because PUT II shares were issued in Aug 2022 (year-end 18,109,922,009)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 189, Kebijakan Dividen: 'sejak tahun 2008 tidak melakukan pembayaran dividen karena mencatat defisit (saldo rugi)'",
+                "basis": "n/a",
+                "note": "Profit year, but the accumulated deficit (about Rp12.3tn) bars dividends under Law 40/2007 art. 71(3); no dividend out of FY2022."
+            },
+            "total_assets": {
+                "v": 33617.39,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 10, Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 19531.947,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 95 (Note 11), Pinjaman yang diberikan, 'Total' before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment; conventional bank, no sharia financing."
+            },
+            "deposits": {
+                "v": 25661.181,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Laporan Posisi Keuangan, 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito, related and third parties). Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3726.375,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Laporan Posisi Keuangan, 'EKUITAS NETO'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 3726.375,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Laporan Posisi Keuangan, 'EKUITAS NETO'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18109922009,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 124 (Note 26), Modal saham, shareholder table 'Total'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "10,011,841,000 Series A + 283,501 Series B + 8,097,797,508 Series C (3,967,539,928 added in PUT II, Aug 2022) = 18,109,922,009; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 174,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Informasi Saham Tahun 2021-2022 (monthly), Desember 2022 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Same value in AR2023 PDF p. 18 (Desember 2022) and AR2025 PDF p. 24 (2022 'Harga Penutupan' 174)."
+            },
+            "roe": {
+                "v": 3.5,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2022-3530100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '8. Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ROE as printed in the published report (the report does not print the formula; the OJK convention is profit after tax / average Tier 1 capital). Same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "roa": {
+                "v": 0.17,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2022-3530100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '7. Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ROA as printed (convention: profit before tax / average total assets). Same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "nim": {
+                "v": 2.77,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2022-3530100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '9. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "coc": {
+                "v": null,
+                "note": "Cost of credit not disclosed (checked: AR2022 ratio table, AR MD&A profitability table, 31-Dec-2022 published ratio report; no 'cost of credit'/'credit cost' anywhere in the AR text)."
+            },
+            "npl_gross": {
+                "v": 1.8,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2022-3530100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "npl_net": {
+                "v": 1.31,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2022-3530100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '6. NPL net'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "lar": {
+                "v": null,
+                "note": "Loan at risk not disclosed (checked: AR2022 ratio table, MD&A credit-quality section, 31-Dec-2022 published report)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "NPL coverage (allowance / NPL) not disclosed as a ratio (checked: AR2022 ratio table, 31-Dec-2022 published ratio report; only 'Pemenuhan PPAP' and 'CKPN terhadap aset produktif' are printed, which are different ratios)."
+            },
+            "ldr": {
+                "v": 76.11,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2022-3530100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '12. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Published report label 'Loan to Deposit Ratio (LDR)'. AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025 prints the same value labelled 'Rasio Kredit yang Diberikan Terhadap Dana Pihak Ketiga (LFR)'."
+            },
+            "car": {
+                "v": 14.86,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2022-3530100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "cir": {
+                "v": 98.7,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2022-3530100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '11. Cost-to-Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "bopo": {
+                "v": 99.04,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2022-3530100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "casa": {
+                "v": 13.78,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 21, Rasio-rasio Keuangan Penting, 'Current Account Saving Account (CASA)' 2022",
+                "basis": "bank_only",
+                "note": "Current + savings accounts / customer deposits, bank (stand-alone entity). Same in AR2022 PDF p. 175."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 27.902,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 6, Laporan Laba Rugi dan Penghasilan Komprehensif Lain, 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": 1.54,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 6, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'; PDF p. 99 (Note 40)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic/diluted EPS as printed."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 185, Kebijakan Dividen: 'sejak tahun 2008 tidak melakukan pembayaran dividen karena mencatat defisit (saldo rugi)'",
+                "basis": "n/a",
+                "note": "Profit year, accumulated deficit; no dividend out of FY2023."
+            },
+            "total_assets": {
+                "v": 39234.312,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 4, Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 23879.838,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 61 (Note 11), Pinjaman yang diberikan, 'Total' before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment; conventional bank, no sharia financing."
+            },
+            "deposits": {
+                "v": 32005.631,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan, 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito, related and third parties). Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3759.731,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan, 'EKUITAS - Neto'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 3759.731,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan, 'EKUITAS - Neto'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18109922009,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 86 (Note 26), Modal saham, shareholder table 'Total'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "10,011,841,000 Series A + 283,501 Series B + 8,097,797,508 Series C = 18,109,922,009; no treasury shares. PUT III (2023) never became effective, so no new shares."
+            },
+            "year_end_price": {
+                "v": 120,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18-19, Informasi Saham Tahun 2022-2023, Desember 2023 / 2023 Triwulan 4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 market cap 2,173,190,641,080 = 120 x 18,109,922,009. Same value in AR2024 PDF p. 16 and AR2025 PDF p. 24."
+            },
+            "roe": {
+                "v": 0.89,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2023-2177564.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '8. Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ROE as printed in the published report (the report does not print the formula; the OJK convention is profit after tax / average Tier 1 capital). Same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "roa": {
+                "v": 0.06,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2023-2177564.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '7. Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ROA as printed (convention: profit before tax / average total assets). Same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "nim": {
+                "v": 2.67,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2023-2177564.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '9. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "coc": {
+                "v": null,
+                "note": "Cost of credit not disclosed (checked: AR2023 ratio table, AR MD&A profitability table, 31-Dec-2023 published ratio report; no 'cost of credit'/'credit cost' anywhere in the AR text)."
+            },
+            "npl_gross": {
+                "v": 1.03,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2023-2177564.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "npl_net": {
+                "v": 0.71,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2023-2177564.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '6. NPL net'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "lar": {
+                "v": null,
+                "note": "Loan at risk not disclosed (checked: AR2023 ratio table, MD&A credit-quality section, 31-Dec-2023 published report)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "NPL coverage (allowance / NPL) not disclosed as a ratio (checked: AR2023 ratio table, 31-Dec-2023 published ratio report; only 'Pemenuhan PPAP' and 'CKPN terhadap aset produktif' are printed, which are different ratios)."
+            },
+            "ldr": {
+                "v": 74.61,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2023-2177564.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '12. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Published report label 'Loan to Deposit Ratio (LDR)'. AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025 prints the same value labelled 'Rasio Kredit yang Diberikan Terhadap Dana Pihak Ketiga (LFR)'."
+            },
+            "car": {
+                "v": 14.04,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2023-2177564.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "cir": {
+                "v": 95.12,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2023-2177564.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '11. Cost-to-Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "bopo": {
+                "v": 99.12,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2023-2177564.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "casa": {
+                "v": 13.94,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Rasio-rasio Keuangan Penting, 'Current Account Saving Account (CASA)' 2023",
+                "basis": "bank_only",
+                "note": "Current + savings accounts / customer deposits, bank (stand-alone entity). AR2023 and AR2024 ratio tables do not print CASA."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 2.832,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/Financial_Report_December_2024_Report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Laporan Laba Rugi dan Penghasilan Komprehensif Lain, 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": 0.16,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/Financial_Report_December_2024_Report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'; PDF p. 149 (Note 40)",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic/diluted EPS as printed."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 169, Pembagian Dividen serta Kronologis Pembagian Dividen: 'Bank sejak tahun 2008 tidak melakukan pembayaran dividen karena mencatat defisit (saldo rugi) sebesar Rp12.745,93 miliar per 31 Desember 2025, sebesar Rp12.317,50 miliar per 31 Desember 2024'",
+                "basis": "n/a",
+                "note": "Profit year, accumulated deficit; no dividend out of FY2024."
+            },
+            "total_assets": {
+                "v": 40258.696,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/Financial_Report_December_2024_Report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 26528.066,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/Financial_Report_December_2024_Report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 105 (Note 12), Pinjaman yang diberikan, 'Total' before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment; conventional bank, no sharia financing."
+            },
+            "deposits": {
+                "v": 33899.527,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/Financial_Report_December_2024_Report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, Laporan Posisi Keuangan, 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito, related and third parties). Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3794.156,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/Financial_Report_December_2024_Report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, Laporan Posisi Keuangan, 'EKUITAS NETO'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 3794.156,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/Financial_Report_December_2024_Report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, Laporan Posisi Keuangan, 'EKUITAS NETO'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18109922009,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/Financial_Report_December_2024_Report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 130 (Note 26), Modal saham, shareholder table 'Total'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "18,109,922,009 (10,011,841,000 A + 283,501 B + 8,097,797,508 C); no treasury shares."
+            },
+            "year_end_price": {
+                "v": 187,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16-17, Informasi Saham Bulanan/Triwulanan 2023-2024, Desember 2024 / 2024 Triwulan 4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 market cap 3,386,555,415,683 = 187 x 18,109,922,009. Same value in AR2025 PDF p. 24."
+            },
+            "roe": {
+                "v": 0.09,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2024-1205637.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '8. Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ROE as printed in the published report (the report does not print the formula; the OJK convention is profit after tax / average Tier 1 capital). Same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "roa": {
+                "v": 0.26,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2024-1205637.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '7. Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ROA as printed (convention: profit before tax / average total assets). Same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "nim": {
+                "v": 2.3,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2024-1205637.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '9. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "coc": {
+                "v": null,
+                "note": "Cost of credit not disclosed (checked: AR2024 ratio table, AR MD&A profitability table, 31-Dec-2024 published ratio report; no 'cost of credit'/'credit cost' anywhere in the AR text)."
+            },
+            "npl_gross": {
+                "v": 1.95,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2024-1205637.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "npl_net": {
+                "v": 1.43,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2024-1205637.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '6. NPL net'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "lar": {
+                "v": null,
+                "note": "Loan at risk not disclosed (checked: AR2024 ratio table, MD&A credit-quality section, 31-Dec-2024 published report)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "NPL coverage (allowance / NPL) not disclosed as a ratio (checked: AR2024 ratio table, 31-Dec-2024 published ratio report; only 'Pemenuhan PPAP' and 'CKPN terhadap aset produktif' are printed, which are different ratios)."
+            },
+            "ldr": {
+                "v": 78.25,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2024-1205637.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '12. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Published report label 'Loan to Deposit Ratio (LDR)'. AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025 prints the same value labelled 'Rasio Kredit yang Diberikan Terhadap Dana Pihak Ketiga (LFR)'."
+            },
+            "car": {
+                "v": 13.89,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2024-1205637.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "cir": {
+                "v": 87.85,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2024-1205637.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '11. Cost-to-Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "bopo": {
+                "v": 97.26,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2024-1205637.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 2, Laporan Rasio Keuangan, '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "casa": {
+                "v": 15.14,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 21, Rasio-rasio Keuangan Penting, 'Current Account Saving Account (CASA)' 2024",
+                "basis": "bank_only",
+                "note": "Current + savings accounts / customer deposits, bank (stand-alone entity)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": -428.429,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Laporan Laba Rugi dan Penghasilan Komprehensif Lain, 'LABA (RUGI) TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Net LOSS. Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": -23.66,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, 'Laba (rugi) per saham dasar/dilusian (nilai penuh)'; PDF p. 145 (Note 41)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic/diluted loss per share as printed."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 169, Pembagian Dividen serta Kronologis Pembagian Dividen (deficit Rp12,745.93bn at 31 Dec 2025, Bank unable to distribute dividends)",
+                "basis": "n/a",
+                "note": "Net loss year; no dividend. The AGMS of 30 Jun 2026 agenda (Pemanggilan RUPST, https://www.jtrustbank.co.id/files/share_holder_notifications/Pemanggilan-RUPST-Juni-2026-555358-Indonesia.pdf pp. 1-2) has no profit-appropriation/dividend item."
+            },
+            "total_assets": {
+                "v": 39348.65,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Stand-alone statements (the Bank has no subsidiaries), tagged consolidated per SCHEMA rule 3."
+            },
+            "loans_gross": {
+                "v": 26937.44,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 103 (Note 12), Pinjaman yang diberikan, 'Total' before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment; conventional bank, no sharia financing."
+            },
+            "deposits": {
+                "v": 33558.978,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18, Laporan Posisi Keuangan, 'Total simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito, related and third parties). Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3430.839,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18, Laporan Posisi Keuangan, 'EKUITAS NETO'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 3430.839,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18, Laporan Posisi Keuangan, 'EKUITAS NETO'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18109922009,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 127 (Note 27), Modal saham, shareholder table 'Total'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "18,109,922,009 (10,011,841,000 A + 283,501 B + 8,097,797,508 C); no treasury shares; balance sheet has no treasury line."
+            },
+            "year_end_price": {
+                "v": 157,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 24, Informasi Saham Triwulanan BCIC 2024-2025, 2025 Kuartal IV 'Penutupan'; also Rangkuman Informasi Saham 2021-2025 'Harga Penutupan' 157",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Trading was suspended 31 Jan - 8 Oct 2025 (free float 5.26% < 7.5%; IDX Peng-S-00003/BEI.PLP/01-2025) and resumed 9 Oct 2025 (Peng-UPT-00019/BEI.PLP/10-2025), AR2025 PDF p. 25. Q4 market cap 2,843,257,755,413 = 157 x 18,109,922,009."
+            },
+            "roe": {
+                "v": -12.97,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2025-844612.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Laporan Rasio Keuangan, '8. Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ROE as printed in the audited 31-Dec-2025 published report; AR2025 MD&A ratio table (PDF p. 158) also prints (12.97). CONFLICT: the AR2025 highlights table (PDF p. 21) and Board of Directors' report (PDF p. 53) print ROE (9.39), which matches pre-tax loss (332.0bn) rather than net loss (428.4bn) over average capital. Stored the published-report figure."
+            },
+            "roa": {
+                "v": -0.83,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2025-844612.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Laporan Rasio Keuangan, '7. Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ROA as printed in the audited 31-Dec-2025 published report; AR2025 MD&A table PDF p. 158 also (0.83). The AR2025 highlights table PDF p. 21 prints (0.84)."
+            },
+            "nim": {
+                "v": 2.22,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2025-844612.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Laporan Rasio Keuangan, '9. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "coc": {
+                "v": null,
+                "note": "Cost of credit not disclosed (checked: AR2025 ratio table, AR MD&A profitability table, 31-Dec-2025 published ratio report; no 'cost of credit'/'credit cost' anywhere in the AR text)."
+            },
+            "npl_gross": {
+                "v": 3.34,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2025-844612.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Laporan Rasio Keuangan, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "npl_net": {
+                "v": 2.26,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2025-844612.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Laporan Rasio Keuangan, '6. NPL net'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "lar": {
+                "v": null,
+                "note": "Loan at risk not disclosed (checked: AR2025 ratio table, MD&A credit-quality section, 31-Dec-2025 published report)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "NPL coverage (allowance / NPL) not disclosed as a ratio (checked: AR2025 ratio table, 31-Dec-2025 published ratio report; only 'Pemenuhan PPAP' and 'CKPN terhadap aset produktif' are printed, which are different ratios)."
+            },
+            "ldr": {
+                "v": 80.27,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2025-844612.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Laporan Rasio Keuangan, '12. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Published report label 'Loan to Deposit Ratio (LDR)'. AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025 prints the same value labelled 'Rasio Kredit yang Diberikan Terhadap Dana Pihak Ketiga (LFR)'."
+            },
+            "car": {
+                "v": 12.53,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2025-844612.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Laporan Rasio Keuangan, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "cir": {
+                "v": 114.95,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2025-844612.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Laporan Rasio Keuangan, '11. Cost-to-Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "bopo": {
+                "v": 110,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Desember-2025-844612.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Laporan Rasio Keuangan, '10. Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, bank (stand-alone entity), as printed in the published report; same value in AR2025 PDF p. 21, Rasio-rasio Keuangan Penting 2021-2025."
+            },
+            "casa": {
+                "v": 21.01,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/AnnualReport/AnnualReport2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 21, Rasio-rasio Keuangan Penting, 'Current Account Saving Account (CASA)' 2025",
+                "basis": "bank_only",
+                "note": "Current + savings accounts / customer deposits, bank (stand-alone entity)."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 57.555,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Laporan Laba Rugi, 'LABA BERSIH PERIODE BERJALAN' (30 September 2026)",
+                "basis": "consolidated",
+                "note": "No income-tax charge booked in 9M 2026 (tax lines '-'); pre-tax profit = net profit. Whole result attributable to owners."
+            },
+            "profit_ytd_prior": {
+                "v": 63.735,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 3, Laporan Laba Rugi, comparative column 30 September 2025",
+                "basis": "consolidated",
+                "note": "Same figure in the 9M 2025 published report (https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Bulanan-September-2025-610041.pdf, PDF p. 4). FY2025 then ended with a net loss of 428.4bn after a Q4 loss (provisions + deferred-tax charge)."
+            },
+            "equity_attr": {
+                "v": 3899.825,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "Includes Dana setoran modal 1,453,735 juta (+400,000 from JTrust Asia Pte. Ltd., OJK approval SR-119/PB.32/2026 of 22 May 2026; AR2025 PDF p. 167, events after the reporting period). Published-format total equity equals the audited FS figure at 31 Dec 2025 (3,430,839)."
+            },
+            "shares_out": {
+                "v": 18109922009,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, Modal disetor: modal dasar 20,000,000 less unpaid 6,967,071 = 13,032,929 juta, unchanged from 31 Dec 2025; treasury stock line '-'; PDF p. 3 EPS 3.18",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "The report does not print a share count. Issued capital of Rp13,032,929 juta is unchanged from FY2025 FS Note 27 (https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2025.pdf PDF p. 127), where it equals 10,011,841,000 A + 283,501 B + 8,097,797,508 C = 18,109,922,009 shares; no rights/bonus issue since Aug 2022 (AR2025 PDF p. 169; 2026 AGMS agenda has no capital item). Check: 57,555 / 18,109.9m = Rp3.18 = printed EPS. The new 2026 capital deposit is not yet shares."
+            },
+            "total_assets": {
+                "v": 42118.647,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 31391.39,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, '9. Kredit yang diberikan' (gross; CKPN shown separately in line 13b)",
+                "basis": "consolidated",
+                "note": "Same definition as fy.*.loans_gross: at 31 Dec 2025 this line is 26,937,440 = audited FS gross loans."
+            },
+            "loans_gross_prior": {
+                "v": 27063.154,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Bulanan-September-2025-610041.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 2, Laporan Posisi Keuangan 30 September 2025, '9. Kredit yang diberikan'",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 35820.991,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, Liabilitas '1. Giro' 7,061,710 + '2. Tabungan' 2,360,361 + '3. Deposito' 26,398,920",
+                "basis": "consolidated",
+                "note": "Sum of the three customer-deposit lines (the published format has no DPK subtotal). At 31 Dec 2025 the same sum (3,927,453 + 3,122,939 + 26,508,586 = 33,558,978) equals the audited FS 'Total simpanan dari nasabah'."
+            },
+            "deposits_prior": {
+                "v": 34210.162,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-Bulanan-September-2025-610041.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 2, Liabilitas '1. Giro' 3,150,560 + '2. Tabungan' 2,984,767 + '3. Deposito' 28,074,835 (30 September 2025)",
+                "basis": "consolidated",
+                "note": "Sum of the three customer-deposit lines, same method as interim deposits."
+            },
+            "roe": {
+                "v": 2.26,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan, '8. Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, annualised. 9M 2025: 2.54."
+            },
+            "roa": {
+                "v": 0.19,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan, '7. Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio, annualised. 9M 2025: 0.21."
+            },
+            "nim": {
+                "v": 2.03,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan, '9. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "9M 2025: 2.22."
+            },
+            "coc": {
+                "v": null,
+                "note": "Cost of credit not disclosed in the 9M 2026 published report (ratio page PDF p. 7 checked)."
+            },
+            "npl_gross": {
+                "v": 3.33,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "9M 2025: 2.71. NPL net 2.24."
+            },
+            "lar": {
+                "v": null,
+                "note": "Loan at risk not disclosed in the 9M 2026 published report (PDF pp. 1-12 checked)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "NPL coverage not disclosed in the 9M 2026 published report (ratio page PDF p. 7 prints only CKPN / earning assets 1.07%)."
+            },
+            "ldr": {
+                "v": 87.63,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan, '12. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "9M 2025: 79.11."
+            },
+            "car": {
+                "v": 13.7,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "9M 2025: 13.69."
+            },
+            "cir": {
+                "v": 81.84,
+                "source_url": "https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Quarterly/Laporan-Keuangan-September-2026-2992423.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan, '11. Cost-to-Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "9M 2025: 74.70. BOPO 97.04."
+            },
+            "casa": {
+                "v": null,
+                "note": "CASA ratio not printed in the 9M 2026 published report (deposit components are on PDF p. 2: giro 7,061,710, tabungan 2,360,361, deposito 26,398,920 juta); not computed here."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "Reported FY2021 basic loss per share (-42.15390) uses the WEIGHTED-AVERAGE share count of 10,566,597,436 (FY2021 audited FS Note 38, PDF p. 131), because the PUT 2021 rights issue (ex-rights 23 Nov 2021) added 4,130,257,580 shares in December 2021. EPS x year-end shares (14,142,382,081) overstates the loss: -596.2bn vs -445.4bn; -445,423 / 10,566.6m = -42.15. Source: https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT%20BANK%20JTRUST%20INDONESIA%20Tbk_Release%20Dec%202021.pdf"
+        },
+        {
+            "check": "eps_shares:2022",
+            "reason": "Reported FY2022 basic EPS (5.47) uses the WEIGHTED-AVERAGE share count of 15,827,227,804 (FY2022 audited FS Note 39, PDF p. 143), because the PUT II - 2022 rights issue (ex-rights 9 Aug 2022) added 3,967,539,928 shares in August 2022. EPS x year-end shares (18,109,922,009) = 99.1bn vs profit 86.6bn; 86,621 / 15,827.2m = 5.47. Source: https://www.jtrustbank.co.id/theme/Site/pdf/FinancialReport/Yearly/PT_BANK_JTRUST_INDONESIA_Tbk_31_Desember_2022.pdf"
+        }
+    ],
+    "research_notes": [
+        "ENTITY / BASIS: PT Bank JTrust Indonesia Tbk (formerly PT Bank CIC International Tbk, listed 25 Jun 1997 as BCIC; merged into PT Bank Century Tbk 2004; taken over by LPS 21 Nov 2008; renamed Bank Mutiara 2009; bought by J Trust Co., Ltd. (Japan) from LPS in 2014; renamed PT Bank JTrust Indonesia Tbk 2015; AR2025 PDF pp. 8-9, 111). Controlling shareholder J Trust Co., Ltd. 72.23% + J Trust Asia Pte. Ltd. 18.67% + PT JTrust Investments Indonesia 1.39% at 31 Dec 2025 (FS2025 Note 27 PDF p. 127); news (Bisnis.com 12 Jan 2026; BCA Sekuritas Jul 2026) reports later sell-downs/purchases to keep the free float above 7.5%. The Bank has NO subsidiaries (AR2025 PDF p. 19: 'J Trust Bank tidak memiliki entitas anak'); its audited statements are stand-alone ('Laporan Keuangan', not 'konsolidasian'). Money figures carry basis 'consolidated' because they are the entity's only, complete statements (no NCI: equity_attr = total_equity); ratios are OJK bank ratios and carry 'bank_only'. Bank-only and entity figures are identical.",
+        "SOURCE ACCESS: every document was downloaded directly from www.jtrustbank.co.id with curl (no bot challenge) on 2026-11-03; none needed the Internet Archive. FY levels/profit/EPS/shares come from each year's own audited FS (FY2019-FY2025); OJK ratios from each year's 31-Dec published report (Laporan Publikasi, 'Diaudit' column); CASA from the AR ratio tables; prices from each AR's share table. Units: all sources are in Rp juta, converted /1000 to IDR bn.",
+        "RESTATEMENTS: none found. Every FY's total assets, gross loans, deposits, equity and profit equal the comparative column of the following year's audited FS (FY2019 vs FS2020, ..., FY2024 vs FS2025).",
+        "LOSS YEARS (real data, not errors): FY2020 net loss -484.4bn (NIM 0.22%, CIR 397%, BOPO 147%), FY2021 -445.4bn (ROE -36.27%, CIR 389%), FY2025 -428.4bn (Q4 2025 loss after 9M 2025 profit of 63.7bn; provisions 171.7bn and a 96.4bn deferred-tax charge; FS2025 PDF p. 19). FY2019 was a small profit (49.5bn) after an FY2018 loss of -401.1bn. FY2020/FY2021 CIR (397.45 / 389.23) are outside the validator's plausible range [0,150] and are expected to show as range warnings; they are the printed OJK values (also in AR2021/AR2022 ratio tables).",
+        "FY2025 ROE CONFLICT: the audited 31-Dec-2025 published report (PDF p. 9) and the AR2025 MD&A ratio table (PDF p. 158) print ROE (12.97)% and ROA (0.83)%; the AR2025 highlights table (PDF p. 21) prints ROE (9.39)% and ROA (0.84)%. -9.39% matches the pre-tax loss (-332.0bn) rather than the net loss. fy.2025 stores the published-report values.",
+        "FY2021 YEAR-END PRICE CONFLICT: AR2021 (PDF p. 18) prints Q4 2021 close Rp199; AR2022 monthly table (PDF p. 16, Dec 2021 close 206, Jan 2022 open 206) and the AR2025 five-year summary (PDF p. 24) print Rp206. 206 is stored; AR2021's quarterly table is inconsistent with AR2022's monthly table in several cells. If the price check disagrees, this is the place to look.",
+        "TRADING HISTORY (important for prices/BCIC.json): BCIC was suspended from 21 Nov 2008 to 7 Jan 2020 (trading resumed in the pre-opening session of 8 Jan 2020 at the KJPP reference price Rp450; AR2020 PDF p. 24, FS2025 Note 1b). The ARs show zero volume in 2019 and almost none in 2020 (100 shares in Q3 2020, close 700) and H1 2021 (flat 700). A second suspension ran 31 Jan - 8 Oct 2025 for a free float of 5.26% < 7.5% (AR2025 PDF p. 25); expect a gap of more than eight months in the daily series. fy.2019.year_end_price is not stored: no rights or bonus issue has an ex-date before 2020-12-31, and the 2019 'price' (450) was a suspended reference price, not a traded close.",
+        "CORPORATE ACTIONS 2019-2026: two rights issues, PUT 2021 (500:227 at Rp330, ex 23 Nov 2021) and PUT II - 2022 (10:3 at Rp300, ex 9 Aug 2022). No split, reverse split or bonus issue since 2019-01-01; AR2020 PDF p. 25 confirms no corporate action in 2020 and AR2025 PDF p. 25/169 none in 2025. Out of scope but relevant to old per-share history: a 100,000:1 REVERSE SPLIT of Series A and B shares (AGMS 28 Jun 2018), first regular-market session at the new nominal 3 Oct 2018 (Jadwal dan Tata Cara Penggabungan Nilai Nominal Saham, https://www.jtrustbank.co.id/files/share_holder_notifications/Jadwal-dan-Tata-Cara-Penggabungan-Nilai-Nominal-Saham-PT-Bank-JTrust-Indonesia-Tbk-523577-Indonesia.pdf; shares 1,029,534,277,035,000 -> 10,012,124,501); it predates 2019 and BCIC was suspended then, so it is not recorded.",
+        "NOT CORPORATE ACTIONS (for the record): PMHMETD III / PUT III (EGMS 3 Mar 2023; summary prospectus 7/28 Aug 2023: up to 4,672,359,878 Series C at Rp300, 500:129, tentative recording date 3 Oct 2023) never became effective: 'belum memperoleh pernyataan efektif' (https://www.jtrustbank.co.id/files/investor_news/Prospektus-Ringkas-PMHMETD-III-BJTI-Perbaikan-dan-Tambahan-28-Agustus-2023-1577105.pdf p. 1), postponed in Oct 2023 (Bisnis.com 3 Oct 2023), still not effective in 2024 (AR2024 PDF p. 568) and not carried out in 2025 (AR2025 PDF p. 169). A rights issue planned for Jul-Aug 2025 (Investortrust 23 May 2025) did not happen either. Instead J Trust injects capital as 'dana setoran modal' (capital deposits recorded in equity, no new shares): Rp1,001.86bn in 2022, Rp51.88bn Dec 2024, Rp400bn May 2026 (9M 2026 equity line 1,453,735 juta). If those deposits are later converted through a rights issue, a new corporate action must be added.",
+        "SHARE CLASSES: three classes trade under BCIC: Series A (par Rp1,000; 10,011,841,000), Series B (par Rp7,800,000; 283,501, the old Bank Century public shares after the reverse split) and Series C (par Rp100; 8,097,797,508 from the 2021/2022 rights issues). All carry equal rights. 100,121,245 Series A shares held by PT JTrust Investments Indonesia (1% of capital) were left unlisted when the rest of Series A was listed in 2018. shares_out = all issued shares (no treasury shares in any year), which is also the count the ARs use for market capitalisation.",
+        "DIVIDENDS: none. The Bank has paid no dividend since 2008 because of the accumulated deficit (Rp12,745.93bn at 31 Dec 2025; AR2025 PDF p. 169); Law 40/2007 art. 71(3) bars dividends without positive retained earnings. payout_ratio = 0 for FY2020-FY2025; FY2022-FY2024 were (small) profit years, so the validator's 'no dividend records' warning for them is expected.",
+        "SHARE_BASIS: no split, reverse split or bonus issue after 2018-10-03, so every per-share value and share count uses its period-end date as share_basis (identical adjustment factor to the AR publication date). EPS for FY2021/FY2022 uses weighted-average shares, see validation_ack. The rights issues are not per-share-adjusted (SCHEMA).",
+        "RATIOS NOT DISCLOSED: cost of credit, loan at risk and NPL coverage are not published by the Bank in any year (AR ratio tables, MD&A, published reports checked), so coc/lar/npl_coverage are null throughout. 'LFR' in the ARs is the same number the published reports label 'Loan to Deposit Ratio (LDR)' (the Bank has no issued securities).",
+        "INTERIM: 9M 2026 published report (unaudited, released on the IR site). Net profit 57.6bn vs 63.7bn in 9M 2025; loans +16.0% YoY (31,391 vs 27,063bn), deposits +4.7% YoY. No tax charge was booked for 9M 2026. interim.shares_out is taken as 18,109,922,009: the report prints no share count, but issued capital (Rp13,032,929 juta) is unchanged from FY2025 and the printed EPS 3.18 reproduces it; corporate actions after 30 Sep 2026 were not checked beyond the IR site and a news search on 2026-11-03."
+    ]
+}
