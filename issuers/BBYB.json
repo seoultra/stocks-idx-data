@@ -1,0 +1,1505 @@
+{
+    "schema": 1,
+    "code": "BBYB",
+    "name": "PT Bank Neo Commerce Tbk",
+    "name_short": "Bank Neo Commerce",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bankneocommerce.co.id",
+    "ir_url": "https://www.bankneocommerce.co.id/id/company-information/investor-relation",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2026/LKP%2030%20Sep%2026.pdf",
+        "source_type": "filing",
+        "as_of_date": "2026-09-30",
+        "loc": "PDF p. 6, KPMM report: 'Modal Inti (Tier 1)' Rp4,354,616 juta at 30 Sep 2026",
+        "note": "KBMI 1 = core capital up to Rp6tn (POJK 12/POJK.03/2021). AR2021 PDF p. 115 states explicitly that BNC moved from BUKU II to KBMI I; core capital has stayed below Rp6tn since (Rp4,027.6bn at Dec 2025, Dec 2025 published report PDF p. 6). The FY2025 deck benchmarks BNC against 'KBMI 1' peers."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 5123.734649117,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "FY2019 statements were issued under the former name PT Bank Yudha Bhakti Tbk. Same figure is the 2019 comparative in the FY2020 audited FS (no restatement)."
+            },
+            "loans_gross": {
+                "v": 3828.785750671,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'Total pinjaman yang diberikan' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 4066.490479185,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 71 (Note 16, 'Jumlah simpanan dari nasabah'); face PDF p. 8 related 550,157,401,978 + third parties 3,516,333,077,207",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 945.783595296,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 945.783595296,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 15.871502695,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN' (Rp 15,871,502,695)",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": 2.7,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, 'LABA PER SAHAM - Dasar'; Note 42 PDF p. 123",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic EPS on a weighted average of 5,886,539,664 shares (Note 42); FY-end issued 6,661,795,239 after PUT III (July 2020)."
+            },
+            "payout_ratio": {
+                "v": 10,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Tata%20Kelola/Rapat%20Umum%20pemegang%20saham/Keputusan%20Rups/Keputusan%20RUPST%2031%20Mar%202021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 2, AGMS 31 Mar 2021 result, Agenda Kedua 1(a): 10% of 2020 net profit (Rp1,587,150,269.5) as cash dividend, Rp0.23 per share",
+                "basis": "consolidated",
+                "note": "As reported (10%). The DPS was fixed at Rp0.23, so the amount actually paid was Rp1,532,212,905 = 9.65% of profit (FY2021 FS Note 22, PDF p. 127; IR dividend table)."
+            },
+            "total_assets": {
+                "v": 5421.324398438,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Statements titled PT Bank Neo Commerce Tbk (formerly PT Bank Yudha Bhakti Tbk); renamed in 2020."
+            },
+            "loans_gross": {
+                "v": 3665.338771925,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Laporan Posisi Keuangan, 'Total pinjaman yang diberikan' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 3943.471372342,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 81 (Note 16, 'Jumlah simpanan dari nasabah'); face PDF p. 7",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 1120.619280316,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1120.619280316,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 6661795239,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, equity section, share capital caption ('ditempatkan dan disetor penuh 6.661.795.239 saham')",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 298,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Tahunan/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14, 'Kinerja Saham 2020' monthly table, Desember closing ('Akhir')",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Last-trading-day close as printed; the AR does not print the session date, so as_of_date is the period end. AR2020 monthly table: December 2020 close Rp298 (market cap 6,595,177,287 x 298 = Rp1,965,362,831,526 as printed). CONFLICT: the AR2021 quarterly table (PDF p. 18) prints Q4 2020 close Rp366. Its Q1-Q4 2020 closes (298/252/300/366) equal AR2020's Feb/Apr/Jul/Oct closes, i.e. one month early (its quarterly volumes do equal AR2020's 3-month sums), so AR2020 is used. Reviewer: confirm against the 30 Dec 2020 close in the price file."
+            },
+            "roe": {
+                "v": 1.62,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2020/Laporan%20Keuangan%20Triwulanan%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2020 column",
+                "basis": "bank_only",
+                "note": "'Return on Equity (ROE)', OJK definition (profit after tax / average Tier 1 capital), as reported."
+            },
+            "roa": {
+                "v": 0.34,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2020/Laporan%20Keuangan%20Triwulanan%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2020 column",
+                "basis": "bank_only",
+                "note": "'Return on Asset (ROA)', OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 4.03,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2020/Laporan%20Keuangan%20Triwulanan%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2020 column",
+                "basis": "bank_only",
+                "note": "'Net Interest Margin (NIM)', OJK definition, as reported."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2020 (checked AR2020, FY2020 FS, Dec 2020 published report; no cost-of-credit ratio)."
+            },
+            "npl_gross": {
+                "v": 4.05,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2020/Laporan%20Keuangan%20Triwulanan%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2020 column",
+                "basis": "bank_only",
+                "note": "'NPL gross', as reported."
+            },
+            "npl_net": {
+                "v": 2.67,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2020/Laporan%20Keuangan%20Triwulanan%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2020 column",
+                "basis": "bank_only",
+                "note": "'NPL net', as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020 (checked AR2020, FY2020 FS Note 41 PDF p. 123, Dec 2020 published report PDF p. 7 - no LAR/KKR line)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2020: the AR2020, the FY2020 audited FS (Note 41 ratio table, PDF p. 123) and the Dec 2020 published report (PDF p. 7) give no NPL-coverage ratio; the Pubex 2026 5-year table starts in 2021. Not computed."
+            },
+            "ldr": {
+                "v": 92.95,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2020/Laporan%20Keuangan%20Triwulanan%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2020 column",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported in the OJK published report."
+            },
+            "car": {
+                "v": 32.78,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2020/Laporan%20Keuangan%20Triwulanan%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2020 column",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (credit, market and operational risk), as reported."
+            },
+            "cir": {
+                "v": 109.46,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2020/Laporan%20Keuangan%20Triwulanan%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2020 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO)."
+            },
+            "bopo": {
+                "v": 96.71,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2020/Laporan%20Keuangan%20Triwulanan%20Des%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2020 column",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2020. AR2021 (PDF p. 131) says time deposits were 86.85% of customer deposits in 2020; no CASA ratio is printed. Not computed."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": -986.289462473,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Laporan Laba Rugi, '(RUGI)/LABA BERSIH TAHUN BERJALAN' (Rp -986,289,462,473)",
+                "basis": "consolidated",
+                "note": "Net LOSS (real; BBYB lost money every year 2021-2023 while building the neobank). Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": -114.07,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, '(RUGI)/LABA PER SAHAM - Dasar'; Note 40 PDF p. 152",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic loss per share on a weighted average of 8,646,426,261 shares (Note 40); FY-end 9,421,681,836 after PUT IV (Jun 2021) and PMHMETD V (Dec 2021)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Tata%20Kelola/Rapat%20Umum%20pemegang%20saham/Keputusan%20Rups/Keputusan%20RUPST%2021%20Juli%202022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 3, AGMS 21 Jul 2022 result, Agenda Kedua: 'Menyetujui tidak ada pembagian dividen ... Tahun Buku 2021'",
+                "basis": "consolidated",
+                "note": "No dividend: FY2021 net loss."
+            },
+            "total_assets": {
+                "v": 11337.808684383,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 4275.499868741,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 8124.41698814,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'Jumlah simpanan nasabah - bersih'",
+                "basis": "consolidated",
+                "note": "Net of unamortised discount Rp7,164,428,832; gross customer deposits Rp8,131,581,416,972."
+            },
+            "equity_attr": {
+                "v": 2889.828269421,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 2889.828269421,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 9421681836,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, equity section, 'Modal ditempatkan dan disetor penuh 9.421.681.836 lembar saham'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 2630,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Tahunan/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, 'Kinerja Saham Tahun 2021', Q4 closing ('Akhir')",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Last-trading-day close as printed; the AR does not print the session date, so as_of_date is the period end. Same in AR2022 PDF p. 15 (Q4 2021 close 2,630)."
+            },
+            "roe": {
+                "v": -84.61,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2021/Laporan%20Keuangan%20Triwulanan%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2021 column",
+                "basis": "bank_only",
+                "note": "'Return on Equity (ROE)', OJK definition (profit after tax / average Tier 1 capital), as reported. Negative: loss year. Outside the validator's -60..60 range but REAL (FY2021 loss Rp986bn on small capital)."
+            },
+            "roa": {
+                "v": -13.71,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2021/Laporan%20Keuangan%20Triwulanan%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2021 column",
+                "basis": "bank_only",
+                "note": "'Return on Asset (ROA)', OJK definition (profit before tax / average total assets), as reported. Outside the validator's -10..10 range but REAL (FY2021 loss year)."
+            },
+            "nim": {
+                "v": 5.15,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2021/Laporan%20Keuangan%20Triwulanan%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2021 column",
+                "basis": "bank_only",
+                "note": "'Net Interest Margin (NIM)', OJK definition, as reported."
+            },
+            "coc": {
+                "v": 4.2,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'CoC' (YTD annualised) as presented in the Public Expose 2025 deck; definition not printed."
+            },
+            "npl_gross": {
+                "v": 1.75,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2021/Laporan%20Keuangan%20Triwulanan%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2021 column",
+                "basis": "bank_only",
+                "note": "'NPL gross', as reported."
+            },
+            "npl_net": {
+                "v": 1.19,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2021/Laporan%20Keuangan%20Triwulanan%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2021 column",
+                "basis": "bank_only",
+                "note": "'NPL net', as reported."
+            },
+            "lar": {
+                "v": 12.7,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'LAR' (loan at risk) as presented in the Public Expose 2025 deck; definition not printed."
+            },
+            "npl_coverage": {
+                "v": 151.4,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' as presented in the Public Expose 2025 deck (31 Mar 2026); definition not printed."
+            },
+            "ldr": {
+                "v": 52.63,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2021/Laporan%20Keuangan%20Triwulanan%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2021 column",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported in the OJK published report. The AR2025 highlights table (PDF p. 12) prints a different 'Loan to Funding Ratio (LFR)' of 56.73% - not used."
+            },
+            "car": {
+                "v": 55.49,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2021/Laporan%20Keuangan%20Triwulanan%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2021 column",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (credit, market and operational risk), as reported."
+            },
+            "cir": {
+                "v": 254.73,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2021/Laporan%20Keuangan%20Triwulanan%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2021 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO). Above the validator's 0-150 range but REAL: FY2021 total operating expenses were Rp1,429.3bn (incl. Rp535.97bn marketing and Rp526.1bn G&A) against net interest income Rp315.1bn and other operating income Rp128.9bn (FY2021 FS PDF p. 9) while the neobank was launched."
+            },
+            "bopo": {
+                "v": 224.01,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2021/Laporan%20Keuangan%20Triwulanan%20Des%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2021 column",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported. Above the validator's 0-200 range but REAL (FY2021 loss year)."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2021. AR2021 (PDF p. 131) gives time deposits = 79.97% of customer deposits; the Pubex 2026 deck (PDF p. 11) gives only CASA Rp1.6tn / TPF Rp8.1tn. Not computed."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": -789.059,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Laporan Laba Rugi, 'RUGI BERSIH TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Net LOSS (real; BBYB lost money every year 2021-2023 while building the neobank). Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": -83.75,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, 'RUGI PER SAHAM - Dasar (nilai penuh)'; Note 41 PDF p. 176",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic loss per share on a weighted average of 9,422 million shares (Note 41): the 2,617,133,843 PMHMETD VI shares (listed Nov 2022) were still booked as 'Dana setoran modal' at 31 Dec 2022 and are excluded."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Tata%20Kelola/Rapat%20Umum%20pemegang%20saham/Keputusan%20Rups/Keputusan%20RUPST%2028%20Juni%202023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 4, AGMS 28 Jun 2023 result, Mata Acara Ke-2: 'Menyetujui tidak ada pembagian dividen ... Tahun Buku 2022'",
+                "basis": "consolidated",
+                "note": "No dividend: FY2022 net loss."
+            },
+            "total_assets": {
+                "v": 19694.28,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 10244.251,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 14450.498,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan, 'Jumlah simpanan nasabah - bersih'",
+                "basis": "consolidated",
+                "note": "Net of unamortised discount Rp4 juta; gross 14,450,502."
+            },
+            "equity_attr": {
+                "v": 3744.59,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3744.59,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 12038815679,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 144, Note 24 'Dana Setoran Modal' - shareholder register of PT Ficomindo Buana Registrar at 31 Dec 2022 (total 12,038,815,679)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Listed/registered shares after PMHMETD VI (2,617,133,843 new shares listed on IDX in Nov 2022, completed 7 Dec 2022). The balance-sheet share-capital caption still shows 9,421,681,836 because the PMHMETD VI proceeds (Rp1,701,137 juta) were booked as 'Dana setoran modal' pending the deed; the FY2023 FS (PDF p. 16) and the AR2022 share table (PDF p. 14, Q4 2022 outstanding 12,038,815,679) use the full count."
+            },
+            "year_end_price": {
+                "v": 645,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Tahunan/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, share performance table 2022, Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Last-trading-day close as printed; the AR does not print the session date, so as_of_date is the period end. Same in AR2023 PDF p. 15."
+            },
+            "roe": {
+                "v": -32.67,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2022/Laporan%20Keuangan%20Triwulanan%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2022 column",
+                "basis": "bank_only",
+                "note": "'Return on Equity (ROE)', OJK definition (profit after tax / average Tier 1 capital), as reported. Negative: loss year."
+            },
+            "roa": {
+                "v": -5.2,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2022/Laporan%20Keuangan%20Triwulanan%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2022 column",
+                "basis": "bank_only",
+                "note": "'Return on Asset (ROA)', OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 13.83,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2022/Laporan%20Keuangan%20Triwulanan%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2022 column",
+                "basis": "bank_only",
+                "note": "'Net Interest Margin (NIM)', OJK definition, as reported."
+            },
+            "coc": {
+                "v": 13.4,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'CoC' (YTD annualised) as presented in the Public Expose 2025 deck; definition not printed. Above the validator's -2..10 range but REAL: provisions were Rp1,073bn / 2,762bn / 2,323bn / 1,335bn in 2022-2025 (same deck PDF p. 11) on Rp7-11tn of high-yield channelled consumer loans."
+            },
+            "npl_gross": {
+                "v": 2.56,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2022/Laporan%20Keuangan%20Triwulanan%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2022 column",
+                "basis": "bank_only",
+                "note": "'NPL gross', as reported."
+            },
+            "npl_net": {
+                "v": 2.05,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2022/Laporan%20Keuangan%20Triwulanan%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2022 column",
+                "basis": "bank_only",
+                "note": "'NPL net', as reported."
+            },
+            "lar": {
+                "v": 17.1,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'LAR' (loan at risk) as presented in the Public Expose 2025 deck; definition not printed."
+            },
+            "npl_coverage": {
+                "v": 80.3,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' as presented in the Public Expose 2025 deck (31 Mar 2026); definition not printed. The 1Q24 deck (PDF p. 7) prints 82.0% for 22FY."
+            },
+            "ldr": {
+                "v": 70.89,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2022/Laporan%20Keuangan%20Triwulanan%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2022 column",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported in the OJK published report. The AR2025 highlights table (PDF p. 12) prints a different 'Loan to Funding Ratio (LFR)' of 73.21% - not used."
+            },
+            "car": {
+                "v": 36.79,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2022/Laporan%20Keuangan%20Triwulanan%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2022 column",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (credit, market and operational risk), as reported."
+            },
+            "cir": {
+                "v": 86.62,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2022/Laporan%20Keuangan%20Triwulanan%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2022 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO)."
+            },
+            "bopo": {
+                "v": 127.28,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2022/Laporan%20Keuangan%20Triwulanan%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2022 column",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2022. AR2023 (PDF p. 138) gives time deposits = 71.32% of customer deposits in 2022; the Pubex 2026 deck (PDF p. 11) gives only CASA Rp4.1tn / TPF Rp14.5tn and the 1Q24 deck (PDF p. 7) CASA Rp4,129bn. Not computed."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": -573.18,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Laporan Laba Rugi, 'RUGI BERSIH TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Net LOSS (real; BBYB lost money every year 2021-2023 while building the neobank). Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": -47.61,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, 'RUGI PER SAHAM - Dasar (nilai penuh)'; Note 43 PDF p. 180",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Weighted average 12,039 million shares (Note 43)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Tata%20Kelola/Rapat%20Umum%20pemegang%20saham/Keputusan%20Rups/Ringkasan%20Risalah%20RUPST%2030%20April%202024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 3 (scanned), AGMS 30 Apr 2024 summary, Agenda Rapat Kedua: 'tidak ada pembagian dividen kepada Pemegang Saham untuk Tahun Buku 2023'",
+                "basis": "consolidated",
+                "note": "No dividend: FY2023 net loss."
+            },
+            "total_assets": {
+                "v": 18169.541,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 10783.341,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 13872.27,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Laporan Posisi Keuangan, 'Jumlah simpanan nasabah - bersih'",
+                "basis": "consolidated",
+                "note": "Net of unamortised discount; gross 13,872,336."
+            },
+            "equity_attr": {
+                "v": 3323.039,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3323.039,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 12038815679,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, equity section, '12.038.815.679 lembar saham pada 31 Desember 2023'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid; no treasury shares. Rp105,000 juta of Akulaku capital deposit for PMHMETD VII sat in 'Dana setoran modal' (no shares yet)."
+            },
+            "year_end_price": {
+                "v": 436,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Tahunan/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, share performance table 2023, Q4 'Penutupan'; monthly table PDF p. 15 (Desember 2023 close 436)",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Last-trading-day close as printed; the AR does not print the session date, so as_of_date is the period end. Same in AR2024 PDF p. 17."
+            },
+            "roe": {
+                "v": -17.56,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2023/Laporan%20Keuangan%20Triwulanan%20%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2023 column",
+                "basis": "bank_only",
+                "note": "'Return on Equity (ROE)', OJK definition (profit after tax / average Tier 1 capital), as reported. Negative: loss year."
+            },
+            "roa": {
+                "v": -2.99,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2023/Laporan%20Keuangan%20Triwulanan%20%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2023 column",
+                "basis": "bank_only",
+                "note": "'Return on Asset (ROA)', OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 18.39,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2023/Laporan%20Keuangan%20Triwulanan%20%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2023 column",
+                "basis": "bank_only",
+                "note": "'Net Interest Margin (NIM)', OJK definition, as reported. Above the validator's 0-15 range but REAL: high-yield digital consumer lending (same value in AR2025 PDF p. 12 and the Pubex 2026 deck)."
+            },
+            "coc": {
+                "v": 25.1,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'CoC' (YTD annualised) as presented in the Public Expose 2025 deck; definition not printed. Above the validator's -2..10 range but REAL: provisions were Rp1,073bn / 2,762bn / 2,323bn / 1,335bn in 2022-2025 (same deck PDF p. 11) on Rp7-11tn of high-yield channelled consumer loans."
+            },
+            "npl_gross": {
+                "v": 3.73,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2023/Laporan%20Keuangan%20Triwulanan%20%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2023 column",
+                "basis": "bank_only",
+                "note": "'NPL gross', as reported."
+            },
+            "npl_net": {
+                "v": 0.95,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2023/Laporan%20Keuangan%20Triwulanan%20%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2023 column",
+                "basis": "bank_only",
+                "note": "'NPL net', as reported."
+            },
+            "lar": {
+                "v": 15.9,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'LAR' (loan at risk) as presented in the Public Expose 2025 deck; definition not printed. The FY2024 deck chart (PDF p. 4) labels Dec-23 LAR 17%."
+            },
+            "npl_coverage": {
+                "v": 155.4,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' as presented in the Public Expose 2025 deck (31 Mar 2026); definition not printed. Earlier decks print 165.0% for 23FY (1Q24 deck PDF p. 7; FY2024 deck PDF p. 4 chart, Dec-23 165%) - the 2026 table appears restated."
+            },
+            "ldr": {
+                "v": 77.73,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2023/Laporan%20Keuangan%20Triwulanan%20%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2023 column",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported in the OJK published report. The AR2025 highlights table (PDF p. 12) prints a different 'Loan to Funding Ratio (LFR)' of 79.94% - not used."
+            },
+            "car": {
+                "v": 27.86,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2023/Laporan%20Keuangan%20Triwulanan%20%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2023 column",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (credit, market and operational risk), as reported."
+            },
+            "cir": {
+                "v": 41.52,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2023/Laporan%20Keuangan%20Triwulanan%20%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2023 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO)."
+            },
+            "bopo": {
+                "v": 112.27,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2023/Laporan%20Keuangan%20Triwulanan%20%20Des%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2023 column",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported."
+            },
+            "casa": {
+                "v": 29,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Presentasi%20Perusahaan/BBYB%202024Q4%20IP.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 8, 'Strong Liquidity...' chart, CASA Ratio (%) data label at Dec-23",
+                "basis": "bank_only",
+                "note": "Rounded chart label as printed (29%). TPF in the deck includes interbank deposits. Consistent with AR2023 PDF p. 138 (time deposits 70.37% of customer deposits)."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 19.885,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": 1.58,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, 'LABA PER SAHAM - Dasar (nilai penuh)'; Note 41 PDF p. 169",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Weighted average 12,585 million shares (Note 41); FY-end 13,350,482,346 after PMHMETD VII (Jul/Aug 2024)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Tata%20Kelola/Rapat%20Umum%20pemegang%20saham/Keputusan%20Rups/20250527%20Keputusan%20RUPST.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 5, AGMS 27 May 2025 result, Mata Acara Ke-2: FY2024 net profit 'seluruhnya digunakan sebagai laba ditahan'",
+                "basis": "consolidated",
+                "note": "No dividend: the whole FY2024 profit (Rp19.9bn) was retained; accumulated deficit."
+            },
+            "total_assets": {
+                "v": 17409.065,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 8822.146,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 13063.792,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'Jumlah simpanan nasabah - bersih'",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3561.837,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3561.837,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 13350482346,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, equity section, '13.350.482.346 lembar saham pada 31 Desember 2024'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid after PMHMETD VII (1,311,666,667 shares); no treasury shares."
+            },
+            "year_end_price": {
+                "v": 218,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Tahunan/upload%2020250708/AR%20SR%20Tahun%202024%20%28Koreksi%29-web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, share performance table 2024, Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Last-trading-day close as printed; the AR does not print the session date, so as_of_date is the period end. Same in AR2025 PDF p. 15."
+            },
+            "roe": {
+                "v": 0.59,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2024/LKP%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2024 column",
+                "basis": "bank_only",
+                "note": "'Return on Equity (ROE)', OJK definition (profit after tax / average Tier 1 capital), as reported."
+            },
+            "roa": {
+                "v": 0.1,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2024/LKP%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2024 column",
+                "basis": "bank_only",
+                "note": "'Return on Asset (ROA)', OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 17.3,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2024/LKP%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2024 column",
+                "basis": "bank_only",
+                "note": "'Net Interest Margin (NIM)', OJK definition, as reported. Above the validator's 0-15 range but REAL: high-yield digital consumer lending (same value in AR2025 PDF p. 12 and the Pubex 2026 deck)."
+            },
+            "coc": {
+                "v": 23.9,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'CoC' (YTD annualised) as presented in the Public Expose 2025 deck; definition not printed. Above the validator's -2..10 range but REAL: provisions were Rp1,073bn / 2,762bn / 2,323bn / 1,335bn in 2022-2025 (same deck PDF p. 11) on Rp7-11tn of high-yield channelled consumer loans. FY2025 deck (9 Apr 2026) prints 24.7% for Dec'24 in its ratio table (PDF p. 6) but 23.9% in its loan-quality table (PDF p. 7)."
+            },
+            "npl_gross": {
+                "v": 3.3,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2024/LKP%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2024 column",
+                "basis": "bank_only",
+                "note": "'NPL gross', as reported."
+            },
+            "npl_net": {
+                "v": 0.3,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2024/LKP%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2024 column",
+                "basis": "bank_only",
+                "note": "'NPL net', as reported."
+            },
+            "lar": {
+                "v": 12.8,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'LAR' (loan at risk) as presented in the Public Expose 2025 deck; definition not printed. FY2025 deck PDF p. 6 also 12.8% (the FY2024 deck chart labels Dec-24 12%)."
+            },
+            "npl_coverage": {
+                "v": 218.1,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' as presented in the Public Expose 2025 deck (31 Mar 2026); definition not printed. The FY2024 deck chart (PDF p. 4) labels Dec-24 235%; the FY2025 deck (PDF p. 6) prints 218.1% as here."
+            },
+            "ldr": {
+                "v": 67.53,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2024/LKP%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2024 column",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported in the OJK published report. The AR2025 highlights table (PDF p. 12) prints a different 'Loan to Funding Ratio (LFR)' of 69.2% - not used."
+            },
+            "car": {
+                "v": 35.3,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2024/LKP%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2024 column",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (credit, market and operational risk), as reported."
+            },
+            "cir": {
+                "v": 31.47,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2024/LKP%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2024 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO)."
+            },
+            "bopo": {
+                "v": 99.34,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Triwulan/2024/LKP%20Des%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2024 column",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported."
+            },
+            "casa": {
+                "v": 27.7,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, 'Funding' chart, CASA Ratio label at 4Q24",
+                "basis": "bank_only",
+                "note": "TPF denominator includes interbank deposits (deck note). Same 27.7% in the FY2025 deck (PDF p. 10); the FY2024 deck chart labels Dec-24 28%."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 565.69,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Whole result belongs to owners (no subsidiaries, no NCI)."
+            },
+            "eps": {
+                "v": 42.37,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, 'LABA PER SAHAM - Dasar (nilai penuh)'; Note 41 PDF p. 171",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Weighted average 13,350 million shares (Note 41)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Tata%20Kelola/Rapat%20Umum%20pemegang%20saham/Keputusan%20Rups/Ringkasan%20Risalah%20-%2030%20April%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 4, AGMS 30 Apr 2026 summary, Mata Acara Ke-2: FY2025 net profit 'seluruhnya dibukukan sebagai laba ditahan untuk memperkuat permodalan'",
+                "basis": "consolidated",
+                "note": "No dividend: the whole FY2025 profit (Rp565.7bn) was retained (press release 5 May 2026 confirms)."
+            },
+            "total_assets": {
+                "v": 18973.769,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "BBYB has no subsidiaries (AR2025 PDF p. 93), so its own (non-consolidated) statements are the whole reporting entity; stored as 'consolidated' as the schema requires for profit/equity/assets."
+            },
+            "loans_gross": {
+                "v": 7182.58,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan, 'Kredit yang diberikan' subtotal before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 14026.142,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'Simpanan nasabah' subtotal (related 180,142 + third parties 13,846,000)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 4230.726,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 4230.726,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 13350482346,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20%28audited%29/LKT%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, equity section, '13.350.482.346 lembar saham pada 31 Desember 2025'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 480,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Tahunan/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, 'Ikhtisar Saham' table 2025, Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Last-trading-day close as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 15.13,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2025/LKP%20Desember%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2025 column",
+                "basis": "bank_only",
+                "note": "'Return on Equity (ROE)', OJK definition (profit after tax / average Tier 1 capital), as reported."
+            },
+            "roa": {
+                "v": 3.11,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2025/LKP%20Desember%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2025 column",
+                "basis": "bank_only",
+                "note": "'Return on Asset (ROA)', OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 14.39,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2025/LKP%20Desember%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2025 column",
+                "basis": "bank_only",
+                "note": "'Net Interest Margin (NIM)', OJK definition, as reported."
+            },
+            "coc": {
+                "v": 16.1,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'CoC' (YTD annualised) as presented in the Public Expose 2025 deck; definition not printed. Above the validator's -2..10 range but REAL: provisions were Rp1,073bn / 2,762bn / 2,323bn / 1,335bn in 2022-2025 (same deck PDF p. 11) on Rp7-11tn of high-yield channelled consumer loans. FY2025 deck PDF p. 6 also 16.1%."
+            },
+            "npl_gross": {
+                "v": 3.58,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2025/LKP%20Desember%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2025 column",
+                "basis": "bank_only",
+                "note": "'NPL gross', as reported."
+            },
+            "npl_net": {
+                "v": 0.89,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2025/LKP%20Desember%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2025 column",
+                "basis": "bank_only",
+                "note": "'NPL net', as reported."
+            },
+            "lar": {
+                "v": 13.1,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'LAR' (loan at risk) as presented in the Public Expose 2025 deck; definition not printed."
+            },
+            "npl_coverage": {
+                "v": 200.3,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, 'Financials: Key Ratios' table (YTD, 2021-2025)",
+                "basis": "bank_only",
+                "note": "'NPL Coverage Ratio' as presented in the Public Expose 2025 deck (31 Mar 2026); definition not printed."
+            },
+            "ldr": {
+                "v": 51.21,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2025/LKP%20Desember%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2025 column",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported in the OJK published report. The AR2025 highlights table (PDF p. 12) prints a different 'Loan to Funding Ratio (LFR)' of 55.62% - not used."
+            },
+            "car": {
+                "v": 49.07,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2025/LKP%20Desember%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2025 column",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (credit, market and operational risk), as reported."
+            },
+            "cir": {
+                "v": 31.33,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2025/LKP%20Desember%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2025 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO)."
+            },
+            "bopo": {
+                "v": 84.18,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2025/LKP%20Desember%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 31 Dec 2025 column",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported."
+            },
+            "casa": {
+                "v": 29.6,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2026/Materi%20Pubex%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, 'Funding' chart, CASA Ratio label at 4Q25",
+                "basis": "bank_only",
+                "note": "TPF denominator includes interbank deposits (deck note). The later FY2025 investor deck (9 Apr 2026, PDF p. 10) labels 4Q25 29.7%."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 0.23,
+            "total": 1.532212905,
+            "cum_date": "2021-04-09",
+            "ex_date": "2021-04-12",
+            "record_date": "2021-04-13",
+            "pay_date": "2021-05-05",
+            "share_basis": "2021-04-07",
+            "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Pengumuman/2021/Jadwal%20Pelaksanaan%20Pembagian%20Deviden%20Atas%20Efek%20Bank%20Neo%20Commerce%20Tbk%20%28BBYB%29.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-04-07",
+            "loc": "p. 1, KSEI letter KSEI-5592/JKU/0421 (7 Apr 2021) 'Jadwal Pelaksanaan Pembagian Dividen Tunai', posted on the bank's IR page: cum regular/negotiated 9 Apr, ex 12 Apr, recording 13 Apr, payment 5 May 2021, Rp0.23 per share",
+            "note": "Only dividend out of FY2020-FY2025 profit. Approved by the AGMS of 31 Mar 2021 (10% of FY2020 net profit). Total Rp1,532,212,905 from the FY2021 audited FS Note 22 (PDF p. 127), = 0.23 x 6,661,795,239 shares; the IR dividend table also shows Rp1,532.21 juta. DATE CONFLICT: the FS note and the IR dividend table give payment on 3 May 2021, the KSEI schedule 5 May 2021 (used here)."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 430.979,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Longform%20:%20Laporan%20Keuangan%20Lengkap/2026/bank%20neo%20commerce%20tbk_billingual_30_Sept_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Laporan Laba Rugi (nine months), 'LABA BERSIH' 2026 column (Rp juta)",
+                "basis": "consolidated",
+                "note": "No subsidiaries; whole profit belongs to owners. LKP 30 Sep 2026 PDF p. 2 shows the same 430,979."
+            },
+            "profit_ytd_prior": {
+                "v": 464.003,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Longform%20:%20Laporan%20Keuangan%20Lengkap/2026/bank%20neo%20commerce%20tbk_billingual_30_Sept_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 6, Laporan Laba Rugi (nine months), 30 Sep 2025 comparative column (Rp juta)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 4553.572,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Longform%20:%20Laporan%20Keuangan%20Lengkap/2026/bank%20neo%20commerce%20tbk_billingual_30_Sept_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan, 'JUMLAH EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No NCI: attributable = total equity."
+            },
+            "shares_out": {
+                "v": 13350482346,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Longform%20:%20Laporan%20Keuangan%20Lengkap/2026/bank%20neo%20commerce%20tbk_billingual_30_Sept_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, equity section, '13.350.482.346 lembar saham pada 30 September 2026'",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Unchanged since PMHMETD VII (2024); no treasury shares; no corporate action in 2025-2026 (AR2025 PDF p. 16; GMS materials 2025-2026)."
+            },
+            "total_assets": {
+                "v": 17186.814,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Longform%20:%20Laporan%20Keuangan%20Lengkap/2026/bank%20neo%20commerce%20tbk_billingual_30_Sept_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Laporan Posisi Keuangan, 'JUMLAH ASET' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 6726.85,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Longform%20:%20Laporan%20Keuangan%20Lengkap/2026/bank%20neo%20commerce%20tbk_billingual_30_Sept_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, 'Kredit yang diberikan' subtotal before allowance (Rp juta)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 7489.576,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Longform%20:%20Laporan%20Keuangan%20Lengkap/2025/LKTW3%202025%20%28long%20form%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4, 9M2025 interim FS, 'Kredit yang diberikan' subtotal before allowance (Rp juta)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 11859.872,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Longform%20:%20Laporan%20Keuangan%20Lengkap/2026/bank%20neo%20commerce%20tbk_billingual_30_Sept_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, 'Simpanan nasabah' subtotal (related 69,051 + third parties 11,790,821; Rp juta)",
+                "basis": "consolidated",
+                "note": "= giro 657,743 + tabungan 3,261,990 + deposito 7,940,139 in the LKP 30 Sep 2026 (PDF p. 1)."
+            },
+            "deposits_prior": {
+                "v": 13619.085,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Longform%20:%20Laporan%20Keuangan%20Lengkap/2025/LKTW3%202025%20%28long%20form%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 5, 9M2025 interim FS, 'Simpanan nasabah' subtotal (Rp juta)",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 13.72,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2026/LKP%2030%20Sep%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "OJK definition (annualised YTD profit / average Tier 1 capital), as reported."
+            },
+            "roa": {
+                "v": 3.19,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2026/LKP%2030%20Sep%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "OJK definition, as reported."
+            },
+            "nim": {
+                "v": 14.3,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2026/LKP%2030%20Sep%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "OJK definition, as reported."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for 9M2026: the 30 Sep 2026 interim FS and published report have no cost-of-credit ratio and no 9M2026 investor deck was published on the IR page (checked 2026-11-03; latest deck is 2Q2026, which shows CoC 16.8% YTD Jun'26)."
+            },
+            "npl_gross": {
+                "v": 2.78,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2026/LKP%2030%20Sep%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "Same 2.78% in the 9M2026 FS (Note 44 additional information, PDF p. 175)."
+            },
+            "lar": {
+                "v": null,
+                "note": "The 30 Sep 2026 published report (PDF p. 7, item 7 'Kredit Kualitas Rendah (KKR)') prints 0.00% (vs 11.50% at 30 Sep 2025). That cannot be right: KKR includes NPL and gross NPL is 2.78% in the same table, and the 2Q2026 deck shows LAR 13.0% at Jun'26. Treated as not disclosed; not stored."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for 9M2026: no coverage ratio in the 30 Sep 2026 FS or published report and no 9M2026 deck (2Q2026 deck: 226.1% at Jun'26)."
+            },
+            "ldr": {
+                "v": 56.72,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2026/LKP%2030%20Sep%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported."
+            },
+            "car": {
+                "v": 53.4,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2026/LKP%2030%20Sep%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "KPMM (credit + operational risk; market-risk RWA nil), as reported; same on the KPMM page (PDF p. 6)."
+            },
+            "cir": {
+                "v": 31.45,
+                "source_url": "https://www-cms.bankneo.co.id/storage/files/1/Informasi%20Investor/Quarterly%20:%20Laporan%20Keuangan%20Publikasi/2026/LKP%2030%20Sep%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Rasio Keuangan Triwulanan (OJK published report), 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for 9M2026 (no 9M2026 deck). The LKP shows giro 657,743 + tabungan 3,261,990 of 11,859,872 customer deposits; not computed."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2020",
+            "reason": "PUT III added 500,013,138 shares in July 2020, and the FY2020 audited FS compute basic EPS Rp2.70 on a weighted average of 5,886,539,664 shares (Note 42, PDF p. 123 of https://www-cms.bankneo.co.id/storage/files/1/Laporan%20Keuangan/Laporan%20Keuangan%20Tahunan%20(audited)/LKT%202020.pdf). 2.70 x 5,886,539,664 = Rp15.9bn = reported profit; FY-end shares are 6,661,795,239. Real weighted-average effect, not a data error."
+        },
+        {
+            "check": "eps_shares:2021",
+            "reason": "Two rights issues in 2021 (PUT IV +832.7m shares in June, PMHMETD V +1,927.2m shares in December): basic loss per share Rp-114.07 is on a weighted average of 8,646,426,261 shares (FY2021 FS Note 40, PDF p. 152). -114.07 x 8,646,426,261 = Rp-986.3bn = reported loss; FY-end shares are 9,421,681,836."
+        },
+        {
+            "check": "eps_shares:2022",
+            "reason": "The 2,617,133,843 PMHMETD VI shares were listed in Nov 2022 but booked as 'Dana setoran modal' until Jan 2023, so the FY2022 FS compute loss per share Rp-83.75 on a weighted average of 9,422 million shares (Note 41, PDF p. 176): -83.75 x 9,421.7m = Rp-789.1bn = reported loss. shares_out stores the 12,038,815,679 registered/listed shares (Note 24, PDF p. 144)."
+        },
+        {
+            "check": "eps_shares:2024",
+            "reason": "PMHMETD VII added 1,311,666,667 shares in July/August 2024; FY2024 basic EPS Rp1.58 is on a weighted average of 12,585 million shares (FY2024 FS Note 41, PDF p. 169): 1.58 x 12,585m = Rp19.9bn = reported profit; FY-end shares 13,350,482,346."
+        },
+        {
+            "check": "payout_total:2020",
+            "reason": "The AGMS of 31 Mar 2021 allocated 10% of FY2020 profit (Rp1,587,150,269.5) but fixed the dividend at Rp0.23 per share (10% would be Rp0.238), so the amount paid was 0.23 x 6,661,795,239 = Rp1,532,212,905 (FY2021 FS Note 22, PDF p. 127) = 9.65% of profit. payout_ratio stores the 10% as reported; total stores the amount paid."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: every document except two corporate-action dates came straight from the bank's own CMS (https://www-cms.bankneo.co.id/storage/files/...), linked from the IR page https://www.bankneocommerce.co.id/id/company-information/investor-relation (Next.js page; links read from its __NEXT_DATA__ JSON) and the GCG page (GMS results). Plain curl with a browser User-Agent on 2026-11-03, no bot challenge. idx.co.id answers 403 to this server and was not used. PUT II (2019) dates come from a KSEI circular fetched from the Internet Archive; PUT III (2020) dates from a Kontan news article (no official schedule retrievable).",
+        "ENTITY / BASIS: PT Bank Neo Commerce Tbk (formerly PT Bank Yudha Bhakti Tbk; renamed 2020; controlled by PT Akulaku Silvrr Indonesia since 2021) has no subsidiaries, associates or JVs (AR2025 PDF p. 93); its audited statements are non-consolidated 'Laporan Keuangan' = the whole entity. Money fields carry basis 'consolidated' (validator rule; same approach as MEGA), ratios 'bank_only' as printed in the OJK published-report ratio tables. equity_attr = total_equity (no NCI). Auditor: KAP Purwantono, Sungkoro & Surja / Purwanto, Susanti & Surja (EY).",
+        "UNITS: FY2019-FY2021 statements are in full Rupiah (divided by 1e9, full precision kept); FY2022 onwards and the 2025-2026 interims in Rp juta (divided by 1,000).",
+        "LOSS YEARS ARE REAL: net loss Rp-986.3bn (2021), -789.1bn (2022), -573.2bn (2023) while the neobank was built (marketing, ATM fees, heavy provisions on channelled Akulaku-ecosystem loans); first profit since 2020 in 2024 (Rp19.9bn), Rp565.7bn in 2025, Rp431.0bn in 9M2026. Ratios outside the validator's plausibility ranges are real, not unit slips: ROE -84.61 and ROA -13.71 (2021), BOPO 224.01 and CIR 254.73 (2021), NIM 18.39 (2023) and 17.30 (2024), CoC 13.4/25.1/23.9/16.1 (2022-2025). All are as printed by the bank and match across the OJK published reports, AR2025 PDF p. 12 and the Pubex 2026 deck.",
+        "RATIO SOURCES: CAR, NPL gross/net, ROA, ROE, NIM, BOPO, CIR and LDR for each FY come from the bank's audited-period OJK published report (Laporan Rasio Keuangan Triwulanan, Dec of the same year, PDF p. 7), which are identical to the AR2025 highlights for 2021-2025 except that the AR prints a 'Loan to Funding Ratio (LFR)' (56.73/73.21/79.94/69.20/55.62) instead of the LDR (52.63/70.89/77.73/67.53/51.21) - LDR stored. LAR, NPL coverage and CoC (no filing discloses them) come from one consistent company source, the Public Expose 2025 deck of 31 Mar 2026 (5-year table, PDF p. 12); older decks print different values for some years (noted per datum). CASA: FY2023 from the FY2024 deck chart (29%, rounded), FY2024-FY2025 from the Pubex 2026 chart; the bank's CASA ratio uses TPF including interbank deposits. FY2020 LAR/coverage/CoC/CASA and FY2021-FY2022 CASA are not disclosed (null; AR texts give only the time-deposit share, not computed). AR2025 PDF p. 33 prints a CIR of 32.58% for 2025 in the Board of Commissioners' report, contradicting 31.33% on PDF p. 48 and in the published report - 31.33% stored.",
+        "RIGHTS ISSUES / SHARE COUNT (drive the price checks): no split, reverse split or bonus issue since 2019 (last bonus shares May 2017). Six rights issues with ex-dates (regular market): PUT II 2019-06-14 (34:3 @Rp338), PUT III 2020-06-29 (14:3 @Rp300, only 38% taken up), PUT IV 2021-06-10 (8:1 @Rp300), PMHMETD V 2021-11-29 (35:9 @Rp1,300), PMHMETD VI 2022-11-21 (18:5 @Rp650), PMHMETD VII 2024-07-09 (700,000,000:76,267,192 @Rp300). Plus one non-pre-emptive private placement (PMTHMETD) of 469,591,963 shares listed 22/25 Mar 2019 (AR2019 PDF p. 66, AR2025 PDF p. 94) - not a rights/split/bonus type, so not in corporate_actions. Share count: 5,192,586,184 (2018) -> 6,161,782,101 (2019) -> 6,661,795,239 (2020) -> 9,421,681,836 (2021) -> 12,038,815,679 (2022) -> 13,350,482,346 (2024 onward). The EGMS approvals of 2023 for a further PMTHMETD and the 2025-2026 GMS agendas (articles amendments, management changes) produced no new shares (AR2025 PDF p. 16: no corporate action in 2025; 9M2026 FS: 13,350,482,346). Yahoo may price-adjust BBYB history for these rights issues; the fetcher's reversal should be checked against the year-end prices here.",
+        "PER-SHARE BASIS: there was never a split, so share_basis is simply the period-end date of each figure. Reported EPS uses weighted-average shares and differs from profit / FY-end shares in 2020, 2021, 2022 and 2024 (rights issues; acknowledged in validation_ack with the weighted counts). FY2022 is special: the PMHMETD VI shares were listed in Nov 2022 but the FS booked the Rp1.70tn as 'Dana setoran modal' and kept 9,421,681,836 in share capital until Jan 2023; shares_out stores the 12,038,815,679 registered shares (Note 24).",
+        "YEAR-END PRICE CONFLICT FY2020: AR2020 (monthly table) gives a Dec 2020 close of Rp298; AR2021's quarterly table gives Rp366 for Q4 2020, but its 2020 closing prices (298/252/300/366) are AR2020's Feb/Apr/Jul/Oct closes (Rp366 is the October close), so Rp298 is stored; check against the price file. AR2020/AR2021 also print 'total shares' about 1% below the FS counts (e.g. 6,595,177,287 vs 6,661,795,239) - FS counts used.",
+        "DIVIDENDS: the only cash dividend out of FY2020-FY2025 profit is the FY2020 final (Rp0.23/share, Rp1.53bn, ex 12 Apr 2021). FY2021-FY2023: losses, AGMS resolved no dividend. FY2024 and FY2025: profit wholly retained (AGMS 27 May 2025, 30 Apr 2026). payout_ratio = 0 for 2021-2025 with the AGMS source. (The FY2019 dividend of Rp1.60bn, Rp0.24/share, paid 3 Sep 2020, is out of scope.) The FY2020 payment date conflicts: FS/IR table 3 May 2021 vs KSEI schedule 5 May 2021 (stored).",
+        "INTERIM: 9M2026 (30 Sep 2026) interim FS and OJK published report are on the IR page (no 9M2026 deck or press release yet). LAR is null because the published report prints KKR 0.00%, which is impossible next to NPL 2.78% (2Q26 deck: LAR 13.0%). CoC, NPL coverage and CASA are not in the 9M documents (null). Prior-year balances come from the 9M2025 interim FS. Management changes approved by the EGMS of 29 Oct 2026 (new President Director Christian Lesmana, pending OJK) - no capital action.",
+        "KBMI: AR2021 (PDF p. 115) states the bank moved from BUKU II to KBMI I under POJK 12/POJK.03/2021; core capital is still far below the Rp6tn KBMI 1 ceiling (Rp4,354.6bn at 30 Sep 2026). Not a sharia bank; no sharia unit."
+    ]
+}

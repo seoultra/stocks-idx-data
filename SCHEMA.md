@@ -192,6 +192,10 @@ Values in the examples below are illustrative only — never copy them as data.
   "note": "1 old share → 5 new shares; nominal Rp62.5 → Rp12.5"
 }
 ```
+Rights records may carry `price` (the exercise price in rupiah, numeric). When two rights issues
+fall between the same pair of annual-report closes, the price fetcher verifies the newer one from
+its own terms (theoretical ex-rights price) and needs `price` for it.
+
 `type` ∈ `split` | `reverse_split` | `rights` | `bonus`. Splits, reverse splits and bonus
 issues drive the per-share adjustment factor: split / reverse split = `ratio_new / ratio_old`
 (shares after per share before); **bonus issue** = `(ratio_old + ratio_new) / ratio_old`, where
@@ -260,6 +264,8 @@ day (Monday to Friday, WIB): around 09:20 the session's opening price is publish
   as published (never edited or dropped) and listed in `source.anomalies` (BTPN 2022-12-30:
   high 2,640 below the close 2,650, which matches the annual report). The validator reports a
   listed anomaly as a warning; an unlisted one is an error.
+- If a rights issue predates every annual-report close (so its adjustment cannot be verified),
+  the file starts on that issue's ex-date and says so in `source.series_start` (BBYB: 2019-06-14).
 - A session Yahoo has no trades for is left out, never filled in. Rows already published
   do not change, except the last 10 sessions, which the source may still correct.
 

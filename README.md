@@ -25,7 +25,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | NISP | PT Bank OCBC NISP Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/NISP.json](issuers/NISP.json) | [prices/NISP.json](prices/NISP.json) 2019-01-02 → 2026-10-30 |
 | BDMN | PT Bank Danamon Indonesia Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/BDMN.json](issuers/BDMN.json) | [prices/BDMN.json](prices/BDMN.json) 2019-01-02 → 2026-10-30 |
 | BNII | PT Bank Maybank Indonesia Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/BNII.json](issuers/BNII.json) | [prices/BNII.json](prices/BNII.json) 2019-01-02 → 2026-10-30 |
-| BRIS | PT Bank Syariah Indonesia (Persero) Tbk | 3 | FY2020–FY2025 | Q1 2026 | [issuers/BRIS.json](issuers/BRIS.json) | [prices/BRIS.json](prices/BRIS.json) 2019-01-02 → 2026-10-30 |
+| BRIS | PT Bank Syariah Indonesia (Persero) Tbk | 3 | FY2020–FY2025 | Q1 2026 | [issuers/BRIS.json](issuers/BRIS.json) | [prices/BRIS.json](prices/BRIS.json) 2019-01-02 → 2026-11-02 |
 | PNBN | PT Bank Pan Indonesia Tbk | 3 | FY2020–FY2025 | Q1 2026 | [issuers/PNBN.json](issuers/PNBN.json) | [prices/PNBN.json](prices/PNBN.json) 2019-01-02 → 2026-10-30 |
 | MEGA | PT Bank Mega Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/MEGA.json](issuers/MEGA.json) | [prices/MEGA.json](prices/MEGA.json) 2019-01-10 → 2026-10-30 |
 | BTPS | PT Bank BTPN Syariah Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BTPS.json](issuers/BTPS.json) | [prices/BTPS.json](prices/BTPS.json) 2019-01-02 → 2026-10-30 |
@@ -35,6 +35,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | BTPN | PT Bank SMBC Indonesia Tbk | 3 | FY2020–FY2025 | H1 2026 | [issuers/BTPN.json](issuers/BTPN.json) | [prices/BTPN.json](prices/BTPN.json) 2019-01-02 → 2026-11-02 |
 | AGRO | PT Bank Raya Indonesia Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/AGRO.json](issuers/AGRO.json) | [prices/AGRO.json](prices/AGRO.json) 2019-01-02 → 2026-11-02 |
 | BJBR | PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BJBR.json](issuers/BJBR.json) | [prices/BJBR.json](prices/BJBR.json) 2019-01-02 → 2026-11-02 |
+| BBYB | PT Bank Neo Commerce Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BBYB.json](issuers/BBYB.json) | [prices/BBYB.json](prices/BBYB.json) 2019-06-14 → 2026-11-02 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->
