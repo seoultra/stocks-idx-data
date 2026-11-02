@@ -1,0 +1,1445 @@
+{
+    "schema": 1,
+    "code": "BSIM",
+    "name": "PT Bank Sinarmas Tbk",
+    "name_short": "Bank Sinarmas",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.banksinarmas.com",
+    "ir_url": "https://www.banksinarmas.com/id/informasiumum/hubunganinvestor",
+    "kbmi": {
+        "v": 2,
+        "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 169, 'Pangsa Pasar Bank Sinarmas' (peer group column 'KBMI II'); PDF pp. 22-23 awards 'Kategori: KBMI 2, Swasta'; PDF p. 160 core capital (Modal Inti) Rp8,369,380 juta consolidated / PDF p. 720 Rp7,624,542 juta bank-only",
+        "note": "AR2025 benchmarks the bank against the KBMI II group and lists awards in the KBMI 2 category; core capital of Rp7.6-8.4tn is inside the KBMI 2 band (Rp6tn-14tn, POJK 12/POJK.03/2021)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 36559.556,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/5eaa59be6ef0a_BSIM_LKT_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS FY2019 (LKT 2019) PDF p. 7, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 22497.252,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/5eaa59be6ef0a_BSIM_LKT_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS FY2019 (LKT 2019) PDF p. 7, 'Kredit yang diberikan dan piutang/pembiayaan syariah - Jumlah'",
+                "basis": "consolidated",
+                "note": "Gross before CKPN (1,182,755). Includes UUS sharia financing. Same value in the AR2021 FS 2019 comparative column (PDF p. 666)."
+            },
+            "deposits": {
+                "v": 28219.857,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/5eaa59be6ef0a_BSIM_LKT_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS FY2019 (LKT 2019) PDF p. 8, 'Simpanan - Jumlah' (24,652.197) + 'Dana Syirkah Temporer - Simpanan - Jumlah' (3,567.660)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = customer deposits incl. temporary syirkah (sharia) deposits; excludes deposits from other banks. Equals the bank's own DPK total 28,219,857 (Rp juta), AR2021 PDF p. 21 'Produk Dana Pihak Ketiga - Total'."
+            },
+            "equity_attr": {
+                "v": 6074.463,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/5eaa59be6ef0a_BSIM_LKT_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS FY2019 (LKT 2019) PDF p. 8, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries / NCI: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 6074.463,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/5eaa59be6ef0a_BSIM_LKT_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS FY2019 (LKT 2019) PDF p. 8, 'Jumlah Ekuitas'",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 535,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/5efafe171b0ba_AR_2019_Bank_Sinarmas.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 24 (printed p. 22), Ikhtisar Saham, 2019 Kuartal IV 'Harga Penutupan' (text: 'ditutup di level Rp535 per saham')",
+                "basis": "n/a",
+                "share_basis": "2019-12-31",
+                "note": "Q4-2019 close as printed; AR2020 PDF p. 26 repeats 535. Stored per the brief's FY2019 rule (no rights/bonus issue since 2019, so it only anchors the price series). No split ever."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 118.522,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR), 2020 comparative column PDF p. 668, laba bersih 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "No subsidiaries: profit for the year = attributable. Same in AR2020 PDF p. 19."
+            },
+            "eps": {
+                "v": 6.8,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 668 (2020 column) and Note 35 (PDF p. 775): 118,522 / 17,425,081,883 weighted shares",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Same 6.80 in AR2020 and AR2024 highlight tables."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-06-29",
+                "loc": "PDF p. 205, Dividen - Realisasi Dividen",
+                "basis": "n/a",
+                "note": "AGMS 29 Jun 2021 used FY2020 profit as reserve/retained earnings: 'Sampai dengan tahun 2021, Bank belum membagikan dividen'. (The AGMS resume PDF on the website is a scan without a text layer.)"
+            },
+            "total_assets": {
+                "v": 44612.045,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR), 2020 comparative column PDF p. 666, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Same value in AR2020 PDF p. 18 (Ikhtisar Keuangan)."
+            },
+            "loans_gross": {
+                "v": 20477.292,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR), 2020 comparative column PDF p. 666, 'Kredit yang diberikan dan piutang/pembiayaan syariah - Jumlah'",
+                "basis": "consolidated",
+                "note": "Gross before CKPN (1,598,919). Includes UUS sharia financing. Same value in AR2020 PDF p. 24 (Ikhtisar Operasional, 'Jumlah')."
+            },
+            "deposits": {
+                "v": 36756.555,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR), 2020 comparative column PDF p. 667, 'Simpanan - Jumlah' (30,763.916) + 'Dana Syirkah Temporer - Simpanan - Jumlah' (5,992.639)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = customer deposits incl. temporary syirkah (sharia) deposits; excludes deposits from other banks. Equals the bank's own DPK total 36,756,555 (Rp juta), AR2021 PDF p. 21 'Produk Dana Pihak Ketiga - Total'."
+            },
+            "equity_attr": {
+                "v": 6056.844,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR), 2020 comparative column PDF p. 667, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries / NCI: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 6056.844,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR), 2020 comparative column PDF p. 667, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "Same value in AR2020 PDF p. 19."
+            },
+            "shares_out": {
+                "v": 17461803306,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 766-767, Note 26 (shares at 31 Dec 2020 and 2021 per the register: 17,461,803,306)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "After 480,000,100 Series III warrant shares in 2020. No treasury shares."
+            },
+            "year_end_price": {
+                "v": 505,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/60b4af706119a_AR-BSIM-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 26, Ikhtisar Saham, 2020 Kuartal IV closing ('ditutup pada level Rp505 per lembar')",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of 2020; the AR does not print the session date). No split ever. AR publication/creation date 2021-06-21. Very thin trading (see research_notes)."
+            },
+            "roe": {
+                "v": 2.25,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Rasio Keuangan Penting, 2020 column, 'Tingkat Pengembalian Ekuitas'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2020: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. Definition not stated in the AR (OJK ratio)."
+            },
+            "roa": {
+                "v": 0.3,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Rasio Keuangan Penting, 2020 column, 'Tingkat Pengembalian Aset'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2020: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "nim": {
+                "v": 6.25,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Rasio Keuangan Penting, 2020 column, 'Margin Bunga Bersih'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2020: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in the AR2020 key-ratio table or MD&A, the AR2025 five-year table, or the OJK published report (checked; the bank publishes no analyst deck). Not computed."
+            },
+            "npl_gross": {
+                "v": 4.75,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Rasio Keuangan Penting, 2020 column, 'Kredit Bermasalah - Gross'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2020: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "npl_net": {
+                "v": 1.39,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Rasio Keuangan Penting, 2020 column, 'Kredit Bermasalah - Bersih'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2020: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no loan-at-risk ratio in the AR ratio tables/MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 reports (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no NPL coverage (CKPN/NPL) ratio in the AR key-ratio table, MD&A or published report (the AR prints only 'CKPN terhadap Aset Produktif' and 'Pemenuhan CKPN' 100%). Not computed."
+            },
+            "ldr": {
+                "v": 56.97,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Rasio Keuangan Penting, 2020 column, 'Kredit terhadap Dana Masyarakat' (LDR)",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2020: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. As printed; does not reproduce exactly from FS loans / DPK (definition not stated)."
+            },
+            "car": {
+                "v": 17.29,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Rasio Keuangan Penting, 2020 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2020: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. AR2020 (PDF p. 20) printed 17.10%; AR2022, AR2024 and the FY2021 audited FS (AR2021 PDF p. 769: 'KPMM dengan memperhitungkan risiko kredit dan operasional dan pasar 17,29%') print 17.29% (stored)."
+            },
+            "cir": {
+                "v": 68.75,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Rasio Keuangan Penting, 2020 column, 'Beban terhadap Pendapatan (CIR)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2020: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "bopo": {
+                "v": 111.7,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Rasio Keuangan Penting, 2020 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2020: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. BOPO above 100% while the year was profitable: as printed (OJK definition, operating items only)."
+            },
+            "casa": {
+                "v": 53.43,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan - Rasio Keuangan Penting, 2020 column, 'Rasio Dana Murah (CASA)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2020: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. CASA = (giro + tabungan) / DPK including temporary syirkah deposits; reproduces from the FS components to 2 dp."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 127.748,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR) PDF p. 668, laba bersih 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "No subsidiaries: profit for the year = attributable."
+            },
+            "eps": {
+                "v": 6.5,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/644d33de8094f_BSMAR202229April.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 audited FS comparative, PDF p. 489 and Note 34 (PDF p. 582): 127,748 / 19,641,918,684 weighted shares",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "As restated in the FY2022 audited FS ('disesuaikan sehubungan dengan konversi Waran Seri III pada tahun 2022'); AR2023-AR2025 highlight tables print the same 6.50. Originally reported in AR2021 (PDF p. 668, Note 35 p. 775): 6.75 on 18,922,287,596 weighted shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/62a94796bee1f_RESUME%20RUPST%20PT%20BANK%20SINARMAS%20Tbk%202022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-06-14",
+                "loc": "PDF p. 3, Resume RUPST 14 Jun 2022, Mata Acara Ketiga decisions 1-2",
+                "basis": "n/a",
+                "note": "AGMS 14 Jun 2022: of FY2021 profit Rp127,748,416,323, Rp500mn to the reserve fund and Rp127,248,416,323 retained. No dividend (AR2022 PDF p. 130)."
+            },
+            "total_assets": {
+                "v": 52671.981,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR) PDF p. 666, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 17931.776,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR) PDF p. 666, 'Kredit yang diberikan dan piutang/pembiayaan syariah - Jumlah'",
+                "basis": "consolidated",
+                "note": "Gross before CKPN (1,617,907). Includes UUS sharia financing. Excludes ijarah assets."
+            },
+            "deposits": {
+                "v": 44468.918,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR) PDF p. 667, 'Simpanan - Jumlah' (37,961.555) + 'Dana Syirkah Temporer - Simpanan - Jumlah' (6,507.363)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = customer deposits incl. temporary syirkah (sharia) deposits; excludes deposits from other banks. Equals the bank's own DPK total 44,468,918 (Rp juta), AR2021 PDF p. 21 'Produk Dana Pihak Ketiga - Total'."
+            },
+            "equity_attr": {
+                "v": 7359.416,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR) PDF p. 667, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "No NCI (no subsidiaries). Includes 'Dana setoran modal' (advance for share subscription) Rp1,408,975 juta = proceeds of 2,254,359,097 Series III warrant shares exercised in 2021, recorded as share capital after OJK letter S-16/PB.331/2022 of 11 Feb 2022."
+            },
+            "total_equity": {
+                "v": 7359.416,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 (audited FS FY2021 inside the AR) PDF p. 667, 'Jumlah Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 19716162403,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 86, Kronologi Pencatatan Saham (2021: +2,254,359,097 Series III warrant shares -> 19,716,162,403); PDF p. 767, Note 26 (composition after OJK letter of 11 Feb 2022); PDF p. 273 (AGMS 29 Jun 2021 quorum 'dari total 19.716.162.403 saham')",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "The FY2021 balance-sheet face still shows issued capital of 17,461,803,306 shares because the 2,254,359,097 warrant shares exercised up to 12 May 2021 (listed on IDX in Q2 2021) were carried as 'dana setoran modal' until OJK's administrative recording (letter S-16/PB.331/2022, 11 Feb 2022). The restated FY2021 EPS (6.50) treats them as outstanding. No treasury shares."
+            },
+            "year_end_price": {
+                "v": 875,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/627294fc46f73_AR-BSIM-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 22, Ikhtisar Saham, 2021 Kuartal IV 'Harga Penutupan' (text: 'saham BSIM berada pada level Rp875')",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of 2021; the AR does not print the session date). No split ever. AR publication/creation date 2022-06-16. Very thin trading (see research_notes)."
+            },
+            "roe": {
+                "v": 2.02,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2021 column, 'Tingkat Pengembalian Ekuitas'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2021: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. Definition not stated in the AR (OJK ratio)."
+            },
+            "roa": {
+                "v": 0.34,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2021 column, 'Tingkat Pengembalian Aset'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2021: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "nim": {
+                "v": 5.79,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2021 column, 'Margin Bunga Bersih'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2021: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in the AR2021 key-ratio table or MD&A, the AR2025 five-year table, or the OJK published report (checked; the bank publishes no analyst deck). Not computed."
+            },
+            "npl_gross": {
+                "v": 4.64,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2021 column, 'Kredit Bermasalah - Gross'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2021: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "npl_net": {
+                "v": 1.18,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2021 column, 'Kredit Bermasalah - Bersih'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2021: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no loan-at-risk ratio in the AR ratio tables/MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 reports (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no NPL coverage (CKPN/NPL) ratio in the AR key-ratio table, MD&A or published report (the AR prints only 'CKPN terhadap Aset Produktif' and 'Pemenuhan CKPN' 100%). Not computed."
+            },
+            "ldr": {
+                "v": 41.22,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2021 column, 'Kredit terhadap Dana Masyarakat' (LDR)",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2021: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. As printed; does not reproduce exactly from FS loans / DPK (definition not stated)."
+            },
+            "car": {
+                "v": 29.12,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2021 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2021: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "cir": {
+                "v": 71.35,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2021 column, 'Beban terhadap Pendapatan (CIR)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2021: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "bopo": {
+                "v": 97.12,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2021 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2021: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "casa": {
+                "v": 69.2,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2021 column, 'Rasio Dana Murah (CASA)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2021: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. CASA = (giro + tabungan) / DPK including temporary syirkah deposits; reproduces from the FS components to 2 dp."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 221.16,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/644d33de8094f_BSMAR202229April.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS FY2022 inside the AR) PDF p. 489, laba bersih 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "No subsidiaries: profit for the year = attributable."
+            },
+            "eps": {
+                "v": 11.22,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/644d33de8094f_BSMAR202229April.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 489, 'Laba bersih per saham - Dasar'; Note 34 (PDF p. 582): weighted 19,716,162,321",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/649ba481aba45_RESUME%20RUPST%202023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-06-27",
+                "loc": "PDF p. 3, Resume RUPST 27 Jun 2023, Mata Acara Ketiga decisions 1-2",
+                "basis": "n/a",
+                "note": "AGMS 27 Jun 2023: of FY2022 profit Rp221,160,347,699, Rp500mn to the reserve fund and Rp220,660,347,699 retained. No dividend (AR2023 PDF p. 164)."
+            },
+            "total_assets": {
+                "v": 47350.601,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/644d33de8094f_BSMAR202229April.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS FY2022 inside the AR) PDF p. 487, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 15500.964,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/644d33de8094f_BSMAR202229April.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS FY2022 inside the AR) PDF p. 487, 'Kredit yang diberikan dan piutang/pembiayaan syariah - Jumlah'",
+                "basis": "consolidated",
+                "note": "Gross before CKPN (2,121,125). Includes UUS sharia financing. Excludes ijarah assets."
+            },
+            "deposits": {
+                "v": 38714.035,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/644d33de8094f_BSMAR202229April.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS FY2022 inside the AR) PDF p. 488, 'Simpanan - Jumlah' (32,397.026) + 'Dana Syirkah Temporer - Simpanan - Jumlah' (6,317.009)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = customer deposits incl. temporary syirkah (sharia) deposits; excludes deposits from other banks. Equals the bank's own DPK total 38,714,035 (Rp juta), AR2025 PDF p. 15 'Produk Dana Pihak Ketiga - Jumlah'."
+            },
+            "equity_attr": {
+                "v": 7285.008,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/644d33de8094f_BSMAR202229April.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS FY2022 inside the AR) PDF p. 488, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries / NCI: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 7285.008,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/644d33de8094f_BSMAR202229April.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS FY2022 inside the AR) PDF p. 488, 'Jumlah Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 19716162403,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/644d33de8094f_BSMAR202229April.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 574, Note 25 Modal Saham",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 845,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/644d33de8094f_BSMAR202229April.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Ikhtisar Saham, 2022 Kuartal IV 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of 2022; the AR does not print the session date). No split ever. AR publication/creation date 2023-04-29. Very thin trading (see research_notes)."
+            },
+            "roe": {
+                "v": 3.27,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2022 column, 'Tingkat Pengembalian Ekuitas'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2022: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. Definition not stated in the AR (OJK ratio)."
+            },
+            "roa": {
+                "v": 0.54,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2022 column, 'Tingkat Pengembalian Aset'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2022: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "nim": {
+                "v": 5.68,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2022 column, 'Margin Bunga Bersih'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2022: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in the AR2022 key-ratio table or MD&A, the AR2025 five-year table, or the OJK published report (checked; the bank publishes no analyst deck). Not computed."
+            },
+            "npl_gross": {
+                "v": 7.99,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2022 column, 'Kredit Bermasalah - Gross'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2022: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. Real spike: AR2023 (PDF p. 42) discusses resolving the 7.99% NPL of end-2022."
+            },
+            "npl_net": {
+                "v": 2.49,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2022 column, 'Kredit Bermasalah - Bersih'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2022: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no loan-at-risk ratio in the AR ratio tables/MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 reports (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no NPL coverage (CKPN/NPL) ratio in the AR key-ratio table, MD&A or published report (the AR prints only 'CKPN terhadap Aset Produktif' and 'Pemenuhan CKPN' 100%). Not computed."
+            },
+            "ldr": {
+                "v": 41.07,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2022 column, 'Kredit terhadap Dana Masyarakat' (LDR)",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2022: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. As printed; does not reproduce exactly from FS loans / DPK (definition not stated)."
+            },
+            "car": {
+                "v": 29.49,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2022 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2022: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "cir": {
+                "v": 74.1,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2022 column, 'Beban terhadap Pendapatan (CIR)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2022: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "bopo": {
+                "v": 93.27,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2022 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2022: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "casa": {
+                "v": 65.53,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2022 column, 'Rasio Dana Murah (CASA)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2022: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. CASA = (giro + tabungan) / DPK including temporary syirkah deposits; reproduces from the FS components to 2 dp."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 75.796,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/66293fb79b6d6_AR_SR_2023_BSIM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 (audited FS FY2023 inside the AR) PDF p. 539, laba bersih 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "No subsidiaries: profit for the year = attributable."
+            },
+            "eps": {
+                "v": 3.84,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/66293fb79b6d6_AR_SR_2023_BSIM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 539, 'Laba bersih per saham - Dasar'; Note 34 (PDF p. 631): weighted 19,716,162,403",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/664b0f273c25d_Covernote.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-05-16",
+                "loc": "PDF p. 3, notary's Ringkasan Risalah RUPST 16 May 2024, Mata Acara Ketiga decisions 1-2",
+                "basis": "n/a",
+                "note": "AGMS 16 May 2024: of FY2023 profit Rp75,797,080,615, Rp500mn to the reserve fund and Rp75,297,080,615 retained. No dividend (AR2024 PDF p. 162)."
+            },
+            "total_assets": {
+                "v": 52634.996,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/66293fb79b6d6_AR_SR_2023_BSIM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 (audited FS FY2023 inside the AR) PDF p. 537, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 16871.446,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/66293fb79b6d6_AR_SR_2023_BSIM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 (audited FS FY2023 inside the AR) PDF p. 537, 'Kredit yang diberikan dan piutang/pembiayaan syariah - Jumlah'",
+                "basis": "consolidated",
+                "note": "Gross before CKPN (1,686,246). Includes the Sharia Business Unit (UUS) financing (no subsidiaries in 2023). Excludes ijarah assets."
+            },
+            "deposits": {
+                "v": 42146.136,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/66293fb79b6d6_AR_SR_2023_BSIM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 (audited FS FY2023 inside the AR) PDF p. 538, 'Simpanan - Jumlah' (35,142.585) + 'Dana Syirkah Temporer - Simpanan - Jumlah' (7,003.551)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = customer deposits incl. temporary syirkah (sharia) deposits; excludes deposits from other banks. Equals the bank's own DPK total 42,146,136 (Rp juta), AR2025 PDF p. 15 'Produk Dana Pihak Ketiga - Jumlah'."
+            },
+            "equity_attr": {
+                "v": 7826.768,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/66293fb79b6d6_AR_SR_2023_BSIM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 (audited FS FY2023 inside the AR) PDF p. 538, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries / NCI: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 7826.768,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/66293fb79b6d6_AR_SR_2023_BSIM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 (audited FS FY2023 inside the AR) PDF p. 538, 'Jumlah Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 19716162403,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/66293fb79b6d6_AR_SR_2023_BSIM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 623, Note 25 Modal Saham",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 890,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/66293fb79b6d6_AR_SR_2023_BSIM.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 26, Ikhtisar Saham, 2023 Triwulan IV 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of 2023; the AR does not print the session date). No split ever. AR publication/creation date 2024-04-24. Very thin trading (see research_notes)."
+            },
+            "roe": {
+                "v": 1.07,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2023 column, 'Tingkat Pengembalian Ekuitas'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2023: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. Definition not stated in the AR (OJK ratio)."
+            },
+            "roa": {
+                "v": 0.15,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2023 column, 'Tingkat Pengembalian Aset'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2023: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "nim": {
+                "v": 6.26,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2023 column, 'Margin Bunga Bersih'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2023: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in the AR2023 key-ratio table or MD&A, the AR2025 five-year table, or the OJK published report (checked; the bank publishes no analyst deck). Not computed."
+            },
+            "npl_gross": {
+                "v": 1.53,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2023 column, 'Kredit Bermasalah - Gross'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2023: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "npl_net": {
+                "v": 0.35,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2023 column, 'Kredit Bermasalah - Bersih'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2023: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no loan-at-risk ratio in the AR ratio tables/MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 reports (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no NPL coverage (CKPN/NPL) ratio in the AR key-ratio table, MD&A or published report (the AR prints only 'CKPN terhadap Aset Produktif' and 'Pemenuhan CKPN' 100%). Not computed."
+            },
+            "ldr": {
+                "v": 40.94,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2023 column, 'Kredit terhadap Dana Masyarakat' (LDR)",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2023: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. As printed; does not reproduce exactly from FS loans / DPK (definition not stated)."
+            },
+            "car": {
+                "v": 25.34,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2023 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2023: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "cir": {
+                "v": 81.16,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2023 column, 'Beban terhadap Pendapatan (CIR)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2023: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group."
+            },
+            "bopo": {
+                "v": 103.36,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2023 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2023: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. BOPO above 100% while the year was profitable: as printed (OJK definition, operating items only)."
+            },
+            "casa": {
+                "v": 66.64,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2023 column, 'Rasio Dana Murah (CASA)'",
+                "basis": "bank_only",
+                "note": "No subsidiaries in 2023: the bank's stand-alone (individual, incl. its Sharia Business Unit) ratio is the whole group. CASA = (giro + tabungan) / DPK including temporary syirkah deposits; reproduces from the FS components to 2 dp."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 290.845,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 (audited consolidated FS FY2024 inside the AR) PDF p. 614, laba bersih 'diatribusikan kepada Pemilik Entitas Induk'",
+                "basis": "consolidated",
+                "note": "Consolidated profit for the year 370,137 incl. NCI 79,292. Bank-only 208,317 (Dec 2024 published report)."
+            },
+            "eps": {
+                "v": 14.75,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 614, 'Laba bersih per saham - Dasar'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Weighted average 19,716,162,403 shares (AR2025 PDF p. 726)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/68553761d8623_RESUME%20RUPST%20PT%20BANK%20SINARMAS%20Tbk%202025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-19",
+                "loc": "PDF p. 3, Resume RUPST 19 Jun 2025, Mata Acara Kedua decisions 1-2",
+                "basis": "n/a",
+                "note": "AGMS 19 Jun 2025: of FY2024 consolidated profit attributable Rp290,845,367,959, Rp500mn to the reserve fund and Rp290,345,367,959 retained. No dividend (AR2025 PDF p. 169: 'Bank memutuskan untuk tidak membagikan dividen atas laba tahun buku 2024')."
+            },
+            "total_assets": {
+                "v": 55624.433,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 (audited consolidated FS FY2024 inside the AR) PDF p. 612, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 14355.803,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 (audited consolidated FS FY2024 inside the AR) PDF p. 612, 'Kredit yang diberikan dan piutang/pembiayaan syariah - Jumlah'",
+                "basis": "consolidated",
+                "note": "Gross before CKPN (1,549,516). Includes the sharia financing of subsidiary PT Bank Nano Syariah (spun off from the UUS on 1 Jan 2024). Excludes ijarah assets (292,544 net). The OJK-format published report of Dec 2024 prints consolidated 'Kredit yang diberikan' 14,648,349 (incl. ijarah)."
+            },
+            "deposits": {
+                "v": 44819.964,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 (audited consolidated FS FY2024 inside the AR) PDF p. 613, 'Simpanan - Jumlah' (37,897.415) + 'Dana Syirkah Temporer - Simpanan - Jumlah' (6,922.549)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = customer deposits incl. temporary syirkah (sharia) deposits; excludes deposits from other banks. Equals the bank's own DPK total 44,819,964 (Rp juta), AR2025 PDF p. 15 'Produk Dana Pihak Ketiga - Jumlah'."
+            },
+            "equity_attr": {
+                "v": 8032.44,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 (audited consolidated FS FY2024 inside the AR) PDF p. 613, 'Jumlah Ekuitas' less 'Kepentingan non-pengendali'",
+                "basis": "consolidated",
+                "note": "Total equity 8,599,622 less non-controlling interests 567,182 (PT Bank Nano Syariah). Same 8,032,440 in the Dec 2024 published report."
+            },
+            "total_equity": {
+                "v": 8599.622,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 (audited consolidated FS FY2024 inside the AR) PDF p. 613, 'Jumlah Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 19716162403,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 698, Note 27 Modal Saham",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 820,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/686b8c3cd33af_BSIM_AR_SR_2024-070725-LR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Ikhtisar Saham, 2024 Triwulan IV 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of 2024; the AR does not print the session date). No split ever. AR publication/creation date 2025-07-07. Very thin trading (see research_notes)."
+            },
+            "roe": {
+                "v": 5.01,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2024 column, 'Tingkat Pengembalian Ekuitas'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2024 published report. Bank-only (individual) FY2024 per the OJK published report: 3.03%. Definition not stated in the AR (OJK ratio)."
+            },
+            "roa": {
+                "v": 0.82,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2024 column, 'Tingkat Pengembalian Aset'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2024 published report. Bank-only (individual) FY2024 per the OJK published report: 0.57%."
+            },
+            "nim": {
+                "v": 5.89,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2024 column, 'Margin Bunga Bersih'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2024 published report. Bank-only (individual) FY2024 per the OJK published report: 6.06%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in the AR2024 key-ratio table or MD&A, the AR2025 five-year table, or the OJK published report (checked; the bank publishes no analyst deck). Not computed."
+            },
+            "npl_gross": {
+                "v": 1.49,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2024 column, 'Kredit Bermasalah - Gross'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2024 published report. Bank-only (individual) FY2024 per the OJK published report: 1.88%."
+            },
+            "npl_net": {
+                "v": 0.3,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2024 column, 'Kredit Bermasalah - Bersih'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2024 published report. Bank-only (individual) FY2024 per the OJK published report: 0.38%."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no loan-at-risk ratio in the AR ratio tables/MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 reports (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no NPL coverage (CKPN/NPL) ratio in the AR key-ratio table, MD&A or published report (the AR prints only 'CKPN terhadap Aset Produktif' and 'Pemenuhan CKPN' 100%). Not computed."
+            },
+            "ldr": {
+                "v": 32.68,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2024 column, 'Kredit terhadap Dana Masyarakat' (LDR)",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2024 published report. Bank-only (individual) FY2024 per the OJK published report: 30.6%. As printed; does not reproduce exactly from FS loans / DPK (definition not stated)."
+            },
+            "car": {
+                "v": 30.46,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2024 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2024 published report. Bank-only (individual) FY2024 per the OJK published report: 31.26%. FS Note 28 in AR2025 (PDF p. 720) prints bank-only 32.26% for 2024, but its own components give 7,572,485 / 24,222,556 = 31.26% (= published report): a typo in the note."
+            },
+            "cir": {
+                "v": 88.07,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2024 column, 'Beban terhadap Pendapatan (CIR)'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2024 published report. Bank-only (individual) FY2024 per the OJK published report: 90.3%."
+            },
+            "bopo": {
+                "v": 90.83,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2024 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2024 published report. Bank-only (individual) FY2024 per the OJK published report: 93.74%."
+            },
+            "casa": {
+                "v": 71.37,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2024 column, 'Rasio Dana Murah (CASA)'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2024 published report. CASA = (giro + tabungan) / DPK including temporary syirkah deposits; reproduces from the FS components to 2 dp."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 285.748,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 (audited consolidated FS FY2025 inside the AR) PDF p. 634, laba bersih 'diatribusikan kepada Pemilik Entitas Induk'",
+                "basis": "consolidated",
+                "note": "Consolidated profit for the year 322,430 incl. NCI 36,682 (news headlines quote the 322.4bn total). Bank-only profit 247,567 (Dec 2025 published report)."
+            },
+            "eps": {
+                "v": 14.49,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 634, 'Laba bersih per saham - Dasar'; Note 38 (PDF p. 726): 285,748 / 19,716,162,403 weighted shares",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a43a7b2e6f18_Pengumuman%20Ringkasan%20Risalah%20RUPST%20BSIM%20Jun26.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-25",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST 25 Jun 2026, Mata Acara Kedua decisions 1-2",
+                "basis": "n/a",
+                "note": "AGMS 25 Jun 2026: of FY2025 consolidated profit attributable Rp285,747,406,391, Rp500mn to the reserve fund and Rp285,247,406,391 retained 'untuk memperkuat Permodalan'. No dividend."
+            },
+            "total_assets": {
+                "v": 58244.487,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 (audited consolidated FS FY2025 inside the AR) PDF p. 632, Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 11712.89,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 (audited consolidated FS FY2025 inside the AR) PDF p. 632, 'Kredit yang diberikan dan piutang/pembiayaan syariah - Jumlah'",
+                "basis": "consolidated",
+                "note": "Gross before CKPN (746,156). Includes the sharia financing/receivables of subsidiary PT Bank Nano Syariah. Excludes ijarah assets (gross 629,042, a separate balance-sheet line); the bank's own 'Kredit Gross' market-share figure (AR2025 PDF p. 169: Rp12,342bn) adds them. Bank-only loans: 9,249,185 (Dec 2025 published report)."
+            },
+            "deposits": {
+                "v": 47031.042,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 (audited consolidated FS FY2025 inside the AR) PDF p. 633, 'Simpanan - Jumlah' (39,878.344) + 'Dana Syirkah Temporer - Simpanan - Jumlah' (7,152.698)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = customer deposits incl. temporary syirkah (sharia) deposits; excludes deposits from other banks. Equals the bank's own DPK total 47,031,042 (Rp juta), AR2025 PDF p. 15 'Produk Dana Pihak Ketiga - Jumlah'."
+            },
+            "equity_attr": {
+                "v": 8675.787,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 (audited consolidated FS FY2025 inside the AR) PDF p. 633, 'Jumlah Ekuitas' less 'Kepentingan non-pengendali'",
+                "basis": "consolidated",
+                "note": "Total equity 9,282,595 less non-controlling interests 606,808 (49% of PT Bank Nano Syariah). Same 8,675,788 in the Dec 2025 published report."
+            },
+            "total_equity": {
+                "v": 9282.595,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 (audited consolidated FS FY2025 inside the AR) PDF p. 633, 'Jumlah Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 19716162403,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 718, Note 28 Modal Saham (issued and paid-up 19,716,162,403; no change in 2024-2025)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "No treasury shares (FS face and published reports: 'Saham yang dibeli kembali' nil)."
+            },
+            "year_end_price": {
+                "v": 860,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Ikhtisar Saham, 2025 Triwulan IV 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of 2025; the AR does not print the session date). No split ever. AR publication/creation date 2026-05-19. Very thin trading (see research_notes)."
+            },
+            "roe": {
+                "v": 4.11,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2025 column, 'Tingkat Pengembalian Ekuitas'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2025 published report. Bank-only (individual) FY2025 per the OJK published report: 3.41%. Definition not stated in the AR (OJK ratio)."
+            },
+            "roa": {
+                "v": 0.99,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2025 column, 'Tingkat Pengembalian Aset'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2025 published report. Bank-only (individual) FY2025 per the OJK published report: 0.69%."
+            },
+            "nim": {
+                "v": 4.33,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2025 column, 'Margin Bunga Bersih'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2025 published report. Bank-only (individual) FY2025 per the OJK published report: 4.46%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in the AR2025 key-ratio table or MD&A, the AR2025 five-year table, or the OJK published report (checked; the bank publishes no analyst deck). Not computed."
+            },
+            "npl_gross": {
+                "v": 1.47,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2025 column, 'Kredit Bermasalah - Gross'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2025 published report. Bank-only (individual) FY2025 per the OJK published report: 1.77%."
+            },
+            "npl_net": {
+                "v": 0.3,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2025 column, 'Kredit Bermasalah - Bersih'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2025 published report. Bank-only (individual) FY2025 per the OJK published report: 0.39%."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no loan-at-risk ratio in the AR ratio tables/MD&A; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 reports (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no NPL coverage (CKPN/NPL) ratio in the AR key-ratio table, MD&A or published report (the AR prints only 'CKPN terhadap Aset Produktif' and 'Pemenuhan CKPN' 100%). Not computed."
+            },
+            "ldr": {
+                "v": 26.12,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2025 column, 'Kredit terhadap Dana Masyarakat' (LDR)",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2025 published report. Bank-only (individual) FY2025 per the OJK published report: 23.28%. As printed; does not reproduce exactly from FS loans / DPK (definition not stated). Real, below the validator's plausibility floor of 30%: loans fell to Rp11.7tn against DPK of Rp47.0tn (FS); the bank-only LDR is even lower (23.28%) and the AR2025 liquidity table prints an average LDR of 27.90% (PDF p. 159)."
+            },
+            "car": {
+                "v": 33.98,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2025 column, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2025 published report. Bank-only (individual) FY2025 per the OJK published report: 35.23%. Conflict inside AR2025: MD&A table (PDF p. 158) and FS notes, risk-management narrative (PDF p. 743) print consolidated CAR 33.55%; the highlight table, the solvency table (PDF p. 160, 'KPMM/CAR konsolidasian tercatat sebesar 33,98%') and the Dec 2025 published report print 33.98% (stored). FS Note 28 (PDF p. 720) prints bank-only 35.20% vs 35.23% in the published report."
+            },
+            "cir": {
+                "v": 92.67,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2025 column, 'Beban terhadap Pendapatan (CIR)'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2025 published report. Bank-only (individual) FY2025 per the OJK published report: 90.19%."
+            },
+            "bopo": {
+                "v": 90.22,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2025 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2025 published report. Bank-only (individual) FY2025 per the OJK published report: 94.09%."
+            },
+            "casa": {
+                "v": 68.75,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6a13f2ca723bb_BSIM_AR_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Kinerja Keuangan - Rasio Keuangan Penting, 2025 column, 'Rasio Dana Murah (CASA)'",
+                "basis": "consolidated",
+                "note": "Consolidated with PT Bank Nano Syariah (51%-owned subsidiary since 1 Jan 2024): the table's CAR equals the consolidated KPMM in the Dec 2025 published report. CASA = (giro + tabungan) / DPK including temporary syirkah deposits; reproduces from the FS components to 2 dp."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 230.027,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae432b5a4d0b_BSIM_LKTW-III-2026_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Laporan Laba Rugi Konsolidasian, laba bersih diatribusikan kepada 'Pemilik entitas induk', 30 September 2026",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2026, unaudited interim consolidated FS (published 30 Oct 2026). Profit for the period 275,439 incl. NCI 45,412. Same 230,027 in the 9M2026 published report (PDF p. 2)."
+            },
+            "profit_ytd_prior": {
+                "v": 250.201,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae432b5a4d0b_BSIM_LKTW-III-2026_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 6, comparative column 30 September 2025, 'Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Same figure in the 9M2025 interim FS (PDF p. 6)."
+            },
+            "equity_attr": {
+                "v": 8475.748,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae432b5a4d0b_BSIM_LKTW-III-2026_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, 'Jumlah Ekuitas' 9,121,136 less 'Kepentingan non-pengendali' 645,388",
+                "basis": "consolidated",
+                "note": "Same 8,475,748 in the 9M2026 published report (PDF p. 1, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK', consolidated)."
+            },
+            "shares_out": {
+                "v": 19716162403,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae432b5a4d0b_BSIM_LKTW-III-2026_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 74, Note 28 Modal Saham ('Jumlah saham pada tanggal 30 September 2026 19.716.162.403')",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "No treasury shares (published report p. 1: 'Saham yang dibeli kembali' nil)."
+            },
+            "total_assets": {
+                "v": 59480.455,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae432b5a4d0b_BSIM_LKTW-III-2026_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 13505.935,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae432b5a4d0b_BSIM_LKTW-III-2026_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, 'Kredit yang diberikan dan piutang/pembiayaan syariah - Jumlah' (before CKPN 546,743)",
+                "basis": "consolidated",
+                "note": "Same definition as fy.* (excludes ijarah assets). Bank-only loans 11,060,887 (published report p. 1)."
+            },
+            "loans_gross_prior": {
+                "v": 10096.314,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/690432ee39525_BSIM_LKTW%20III_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4, 9M2025 interim consolidated FS, 'Kredit yang diberikan dan piutang/pembiayaan syariah - Jumlah' (before CKPN 926,237)",
+                "basis": "consolidated",
+                "note": "The 9M2025 OJK published report prints consolidated 'Kredit yang diberikan' 10,497,224, which (like its Dec 2024 column) appears to include ijarah assets; the FS line is used for consistency with fy.*."
+            },
+            "deposits": {
+                "v": 44484.49,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae432b5a4d0b_BSIM_LKTW-III-2026_FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, 'Simpanan - Jumlah' 39,433,518 + 'Dana Syirkah Temporer - Simpanan - Jumlah' 5,050,972",
+                "basis": "consolidated",
+                "note": "DPK incl. temporary syirkah deposits, as in fy.*. Equals giro 19,226,635 + tabungan 14,321,590 + deposito 10,936,265 in the 9M2026 published report (PDF p. 1, consolidated)."
+            },
+            "deposits_prior": {
+                "v": 45058.351,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/690432ee39525_BSIM_LKTW%20III_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 5, 9M2025 interim consolidated FS, 'Simpanan - Jumlah' 38,105,031 + 'Dana Syirkah Temporer - Simpanan - Jumlah' 6,953,320",
+                "basis": "consolidated",
+                "note": "Equals giro 17,728,980 + tabungan 13,947,226 + deposito 13,382,145 in the 9M2025 published report (consolidated)."
+            },
+            "roe": {
+                "v": 3.3,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae46b957ead2_Laporan-Keuangan-Publikasi-September-2026-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laporan Rasio Keuangan Triwulanan (bank-only/individual), column 30 September 2026, 'Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Bank-only (the published report's ratio table is individual; 30 Sep 2025: 3.59%). FY2024/FY2025 ratios in fy.* are the AR's consolidated figures, so interim and FY bases differ."
+            },
+            "roa": {
+                "v": 0.6,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae46b957ead2_Laporan-Keuangan-Publikasi-September-2026-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laporan Rasio Keuangan Triwulanan (bank-only/individual), column 30 September 2026, 'Return On Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "Bank-only; 30 Sep 2025: 0.71%."
+            },
+            "nim": {
+                "v": 3.51,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae46b957ead2_Laporan-Keuangan-Publikasi-September-2026-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laporan Rasio Keuangan Triwulanan (bank-only/individual), column 30 September 2026, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "Bank-only; 30 Sep 2025: 4.76%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 published report or interim FS (checked); no analyst deck published."
+            },
+            "npl_gross": {
+                "v": 1.41,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae46b957ead2_Laporan-Keuangan-Publikasi-September-2026-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laporan Rasio Keuangan Triwulanan (bank-only/individual), column 30 September 2026, 'NPL gross'",
+                "basis": "bank_only",
+                "note": "Bank-only; 30 Sep 2025: 2.10%. NPL net 0.40%."
+            },
+            "lar": {
+                "v": 5.29,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae46b957ead2_Laporan-Keuangan-Publikasi-September-2026-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laporan Rasio Keuangan Triwulanan (bank-only/individual), column 30 September 2026, 'Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "OJK 'Kredit Kualitas Rendah' (low-quality loans: special mention + restructured current + NPL), the regulator's LaR-type measure; first printed in 2026 reports (30 Sep 2025 comparative 9.65%)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 published report or interim FS (checked). Not computed."
+            },
+            "ldr": {
+                "v": 28.22,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae46b957ead2_Laporan-Keuangan-Publikasi-September-2026-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laporan Rasio Keuangan Triwulanan (bank-only/individual), column 30 September 2026, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Bank-only; 30 Sep 2025: 22.36%. Real, below the validator's 30% plausibility floor (bank-only loans 11,060,887 vs giro+tabungan+deposito 39,049,548 Rp juta, published report p. 1)."
+            },
+            "car": {
+                "v": 31.46,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae46b957ead2_Laporan-Keuangan-Publikasi-September-2026-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laporan Rasio Keuangan Triwulanan (bank-only/individual), column 30 September 2026, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Bank-only. Consolidated KPMM 29.74% (PDF p. 4, KPMM table, KONSOLIDASIAN column)."
+            },
+            "cir": {
+                "v": 93.6,
+                "source_url": "https://www.banksinarmas.com/id/public/upload/file/6ae46b957ead2_Laporan-Keuangan-Publikasi-September-2026-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laporan Rasio Keuangan Triwulanan (bank-only/individual), column 30 September 2026, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Bank-only; BOPO 92.16%; 30 Sep 2025 CIR 89.24%."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed: the 9M2026 published report's ratio table has no CASA line and the bank publishes no quarterly deck (checked). Not computed (components are in the published report p. 1)."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "price_year_end:2019",
+            "reason": "Bank Sinarmas AR2019 (PDF p. 24, Ikhtisar Saham) prints the Q4-2019 close as Rp535 (\"ditutup di level Rp535 per saham\"), which is also the 27 Dec 2019 close in the price source; the source last 2019 bar (30 Dec 2019) closes at Rp585 on only 2,900 shares. The stock is very illiquid and the cause of the gap is not established, so neither source is edited."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: every document was downloaded directly from www.banksinarmas.com on 2026-11-03 (no bot protection; no archive needed; idx.co.id not used). The IR pages (https://www.banksinarmas.com/id/informasiumum/hubunganinvestor/...) link disclosure/GMS files as .../keterbukaan-informasi/<file> or .../rapat-umum-pemegang-saham/<file>, which return an HTML page; the actual PDFs are served at https://www.banksinarmas.com/id/public/upload/file/<file> (the URLs in source_url, spaces encoded as %20).",
+        "ENTITY / BASIS: until 31 Dec 2023 the bank had no subsidiaries (its Sharia Business Unit, UUS, was a division), so FY2019-FY2023 statements are stand-alone and are the whole reporting entity (stored as 'consolidated'; equity_attr = total equity). On 1 Jan 2024 the UUS was spun off into PT Bank Nano Syariah (51% Bank Sinarmas, 25% PT Sinar Mas Multiartha Tbk, 24% PT Asuransi Sinar Mas; AR2025 PDF p. 644), consolidated from FY2024 with non-controlling interests (567,182 / 606,808). Since then the parent itself does no sharia business, so `sharia` is false. Group perimeter is therefore continuous (UUS 2019-2023 = Bank Nano Syariah 2024+).",
+        "RATIO BASIS: FY ratios are the AR 'Rasio Keuangan Penting' table (AR2025 PDF p. 14 for 2021-2025; AR2024 PDF p. 12 for 2020). For FY2024 and FY2025 that table is CONSOLIDATED (its CAR 30.46/33.98 equals the consolidated KPMM in the Dec 2024/Dec 2025 OJK published reports, whose bank-only KPMM is 31.26/35.23); bank-only values are quoted in each note. FY2020-FY2023 are the bank's individual ratios (no subsidiaries; FY2023 values equal the Dec 2024 published report's comparative). The 9M2026 interim ratios come from the OJK published report's ratio table, which is bank-only: interim and FY2024/25 ratios are on different bases.",
+        "CAR CONFLICTS: AR2025 prints FY2025 consolidated CAR 33.98% (highlights p. 14, solvency table p. 160, = Dec 2025 published report) but 33.55% in the MD&A ratio table (p. 158) and FS notes p. 743 (risk-management narrative); bank-only 35.20% in FS Note 28 (p. 720) vs 35.23% in the published report. The same Note prints bank-only 32.26% for 2024 although its components give 31.26%. FY2020: AR2020 printed 17.10%, later ARs and the FY2021 audited FS 17.29% (stored).",
+        "DEPOSITS DEFINITION: deposits = DPK including temporary syirkah deposits ('Dana syirkah temporer - simpanan' of the UUS / Bank Nano Syariah, Rp3.6-7.2tn), because loans include the sharia financing and the bank's own DPK total and CASA ratio use this definition. NOTE for comparability: BBNI.json excludes temporary syirkah deposits. Customer deposits excl. syirkah: 2025 39,878.344; 2024 37,897.415; 2023 35,142.585; 2022 32,397.026; 2021 37,961.555; 2020 30,763.916; 2019 24,652.197 (IDR bn).",
+        "LOANS DEFINITION: 'Kredit yang diberikan dan piutang/pembiayaan syariah' gross, excluding ijarah assets (separate line, 2025 gross 629.0bn). The bank's 'Kredit Gross' in the AR2025 market-share table (12,342 / 14,648) and the OJK-format consolidated 'Kredit yang diberikan' in some published reports include them.",
+        "CORPORATE ACTIONS 2019-01-01..2026-11-03: NONE of type split / reverse split / rights / bonus. AR2025 PDF pp. 91-92 (share listing chronology), AR2019 p. 25 and AR2021 p. 23 ('tidak melakukan aksi korporasi seperti pemecahan, penggabungan saham, dividen saham, saham bonus...'), AR2025 p. 17 (none in 2025); EGMS 6 Feb 2026 (board change only) and AGMS 25 Jun 2026 (no capital agenda; 19,716,162,403 shares). The last rights issues were PUT I (2012, 1,203,186,138 shares at Rp250) and PUT II (2016, 1,089,274,037 shares at Rp400, ex-date before 2019, out of scope); there was also a non-pre-emptive placement (PMTHMETD) in 2014. No bonus issue or stock dividend appears anywhere in the chronology since the 2010 IPO. corporate_actions is therefore empty.",
+        "WARRANTS (not a schema corporate-action type, so not recorded): Series III warrants were issued free with PUT II on 27 Apr 2016 (4 warrants per new PUT II share; exercise price Rp625; exercisable 28 Nov 2016-12 May 2021; AR2021 PDF p. 769). Exercises added 1,600,000,000 shares in 2019, 480,000,100 in 2020 and 2,254,359,097 in 2021 (21,031,543 lapsed), taking the count from 15,381,803,206 to 19,716,162,403 (AR2025 PDF p. 92). Exercises at Rp625 were a dilution, not a price re-basing; no adjustment factor applies.",
+        "SHARE COUNT QUIRKS: (a) FY2021: the balance-sheet face shows 17,461,803,306 issued shares and Rp1,408,975 juta 'dana setoran modal' because OJK recorded the 2021 warrant shares only on 11 Feb 2022, but the shares were listed in Q2 2021 and the AGMS of 29 Jun 2021 counted 19,716,162,403; shares_out 2021 = 19,716,162,403 and EPS = the restated 6.50 (originally 6.75 on 18,922,287,596 weighted shares). (b) The AR share-price tables print 'Jumlah Saham Beredar' 19,517,921,842 (since Q2 2021; 17,263,895,026 in 2020), 198.2mn below the FS/registrar count, and compute market cap on it; the FS show no treasury shares and EPS uses 19,716,162,403. The gap is not explained in the ARs (possibly shares not listed on IDX); fy.*.shares_out uses the FS count, so a market cap computed from it is ~1% above the AR's.",
+        "DIVIDENDS: no cash dividend out of FY2020-FY2025 profit (AGMS 29 Jun 2021, 14 Jun 2022, 27 Jun 2023, 16 May 2024, 19 Jun 2025, 25 Jun 2026: Rp500mn to the statutory reserve, the rest retained). AR2021 PDF p. 205 states the bank had not distributed dividends up to 2021. payout_ratio = 0 for every year; `dividends` is empty.",
+        "PRICES / LIQUIDITY: BSIM trades extremely thinly (quarterly volume often a few thousand shares, e.g. Q4 2023 2,000 shares, Q1 2025 1,200; AR2025 p. 16, AR2023 p. 26) because ~60% is held by PT Sinar Mas Multiartha Tbk and the free float barely trades. year_end_price values are the AR Q4 closes; the price-source year-end check may hit sessions without trades. fy.2019.year_end_price (535) is stored per the brief's rule although there is no rights/bonus issue in scope.",
+        "RESTATEMENTS: the FY2021 audited FS present three balance-sheet columns (2021, 2020, 2019) but the 2019 and 2020 key figures (TA, loans, deposits, equity, profit) equal those originally reported (FS2019 PDF pp. 7-9; AR2020 pp. 18-19, 24). The only restated figure used is FY2021 basic EPS (6.75 -> 6.50, AR2022). FY2020 levels and EPS are taken from that audited comparative because the FY2020 audited FS PDF has image-only statement pages.",
+        "FY2025 PROFIT: news headlines (Bisnis.com 31 Mar 2026) quote Rp322.43bn = consolidated profit incl. NCI; attributable to owners is 285.748bn (stored; = the AGMS 2026 appropriation base Rp285,747,406,391).",
+        "NOT DISCLOSED (null): cost of credit, loan-at-risk (FY), NPL coverage for every year, and interim CASA. Bank Sinarmas publishes no analyst presentations (the 'Laporan Performance Highlight' IR page stops at 4Q2016), and its AR ratio tables contain none of these. They were not computed.",
+        "KBMI: 2 (AR2025 benchmarks against 'KBMI II' and lists KBMI 2 awards; core capital Rp7.6tn bank-only / Rp8.4tn consolidated).",
+        "INTERIM: 9M2026 = latest period (interim consolidated FS 'BSIM_LKTW-III-2026_FINAL', unaudited, and the OJK published report dated 30 Oct 2026). Money fields from the interim FS; ratios from the published report (bank-only). Prior-year loans/deposits from the 9M2025 interim FS.",
+        "VALIDATOR WARNINGS (real, not unit slips): fy.2025.ldr 26.12% and interim.ldr 28.22% are below the validator's 30% plausibility floor. BSIM's loan book shrank from Rp22.5tn (2019) to Rp11.7tn (2025) while DPK grew to Rp47tn, so LDR fell from 81.95% (2019) to 26.12%; the bank-only published-report LDR is 23.28% (Dec 2025) and 22.36% (Sep 2025). 'No dividend records' warnings for FY2020-FY2025 are correct (no dividends; payout_ratio 0 with AGMS sources).",
+        "SELF-CHECK: eps x shares_out vs net_profit_attr: 2020 +0.19%, 2021 +0.32%, 2022 +0.03%, 2023 -0.11%, 2024 -0.01%, 2025 -0.03%. Deposits = printed DPK totals exactly for 2019-2025; CASA reproduces from the FS components. No dividends, so the dividend cross-checks do not apply."
+    ]
+}
