@@ -1,0 +1,1552 @@
+{
+    "schema": 1,
+    "code": "BRIS",
+    "name": "PT Bank Syariah Indonesia (Persero) Tbk",
+    "name_short": "Bank Syariah Indonesia",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": true,
+    "website": "https://www.bankbsi.co.id",
+    "ir_url": "https://ir.bankbsi.co.id",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 153, awards list ('Category: Sharia bank - KBMI 3'); PDF p. 229, capital table 'Modal inti (Tier 1)' 48,109,082 (Rp juta) at 31 Dec 2025",
+        "note": "No sentence in AR2025 states the tier directly; BSI is placed in KBMI 3 by its own award listings (also AR2023 PDF p. 474: anti-money-laundering score compared with 'Kelompok Bank berdasarkan Modal Inti (KBMI) 3'). Tier 1 capital of Rp48.1tn is within the KBMI 3 band (Rp14tn-Rp70tn, POJK 12/POJK.03/2021)."
+    },
+    "label_overrides": {
+        "npl_gross": "NPF gross",
+        "npl_net": "NPF net",
+        "ldr": "FDR",
+        "nim": "NI (Net Imbalan)",
+        "car": "CAR (KPMM)",
+        "lar": "FaR (Financing at Risk)",
+        "npl_coverage": "NPF coverage (Cash Coverage)",
+        "coc": "Cost of credit (cost of financing)",
+        "loans_gross": "Total financing (pembiayaan)",
+        "deposits": "Third-party funds (DPK)"
+    },
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 205297.027,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 559 (FS p. 2), column '1 Januari 2020*)', AR2021 audited FS, restated 1 Jan 2020 opening balance (Note 53), Laporan Posisi Keuangan 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Restated (pooling of interests, PSAK 38) as if the 1 Feb 2021 merger of BRIsyariah, Bank Syariah Mandiri and BNI Syariah had existed from the start of the period; this is the comparative the audited FY2021 FS present. Opening balance 1 Jan 2020 = 31 Dec 2019. Legal-entity BRIsyariah alone (Note 53 PDF p. 714): 43,123.488."
+            },
+            "loans_gross": {
+                "v": 135651.242,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 213 (printed p. 211), MD&A 'Rincian Penyaluran Dana (Investasi dan Pembiayaan)', 2019 'Pembiayaan'",
+                "basis": "consolidated",
+                "note": "BSI's reported total financing: gross receivables (murabahah, istishna, ijarah/multijasa) + qardh + mudharabah + musyarakah principal + assets acquired for ijarah (net), before allowance. Restated (pooling of interests, PSAK 38) as if the 1 Feb 2021 merger of BRIsyariah, Bank Syariah Mandiri and BNI Syariah had existed from the start of the period; this is the comparative the audited FY2021 FS present. Components match the restated 1 Jan 2020 FS column."
+            },
+            "deposits": {
+                "v": null,
+                "note": "No restated (merged) third-party-funds total for 31 Dec 2019 is printed in AR2021/FY2021 FS/FY2021 deck (checked: AR2021 PDF pp. 18-21, 202-231, FS pp. 558-561). The restated FS lines are wadiah deposits 37,563.868 and mudharabah current/savings/time deposits 140,942.239 (AR2021 PDF pp. 560-561); not summed here (no derived values)."
+            },
+            "equity_attr": {
+                "v": 19068.945,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 561 (FS p. 4), column '1 Januari 2020*)', AR2021 audited FS, restated 1 Jan 2020 opening balance (Note 53), Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Restated (pooling of interests, PSAK 38) as if the 1 Feb 2021 merger of BRIsyariah, Bank Syariah Mandiri and BNI Syariah had existed from the start of the period; this is the comparative the audited FY2021 FS present. Includes 'Ekuitas Merging Entities' 9,823.110. Legal-entity BRIsyariah alone (Note 53 PDF p. 714): 5,088.036. No non-controlling interest."
+            },
+            "total_equity": {
+                "v": 19068.945,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 561 (FS p. 4), column '1 Januari 2020*)', AR2021 audited FS, restated 1 Jan 2020 opening balance (Note 53), Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Restated (pooling of interests, PSAK 38) as if the 1 Feb 2021 merger of BRIsyariah, Bank Syariah Mandiri and BNI Syariah had existed from the start of the period; this is the comparative the audited FY2021 FS present. Includes 'Ekuitas Merging Entities' 9,823.110. Legal-entity BRIsyariah alone (Note 53 PDF p. 714): 5,088.036. No non-controlling interest."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 2187.649,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 562 (FS p. 5), column '2020*)', AR2021 audited FS, restated 31 Dec 2020 comparative (Note 53), Laporan Laba Rugi 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "Restated (pooling of interests, PSAK 38) as if the 1 Feb 2021 merger of BRIsyariah, Bank Syariah Mandiri and BNI Syariah had existed from the start of the period; this is the comparative the audited FY2021 FS present. Legal-entity BRIsyariah FY2020 net income was Rp248.054bn (AGMS 6 May 2021, AR2021 PDF p. 343)."
+            },
+            "eps": {
+                "v": 53.52,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 562 (FS p. 5), column '2020*)', 'LABA PER SAHAM DASAR'; PDF p. 667 (Note 38), column '2020*)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic EPS on weighted average 40,877,546,276 shares. Restated pooling basis: the 31,130,700,245 merger shares are treated as outstanding from 1 Jan 2020."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 343 (printed p. 341), AGMS 6 May 2021, Agenda 2 'Persetujuan Penggunaan Laba Bersih ... Tahun Buku 2020'",
+                "basis": "consolidated",
+                "note": "No dividend out of FY2020 profit: BRIsyariah's Rp248.05bn went 20% to the statutory reserve and 80% to retained earnings; BSM's and BNIS's FY2020 profits were retained (BNIS: 'tidak membagikan dividen'). IR dividend page lists FY2020 as N/A."
+            },
+            "total_assets": {
+                "v": 239581.524,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 559 (FS p. 2), column '31 Desember 2020*)', AR2021 audited FS, restated 31 Dec 2020 comparative (Note 53), Laporan Posisi Keuangan 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Restated (pooling of interests, PSAK 38) as if the 1 Feb 2021 merger of BRIsyariah, Bank Syariah Mandiri and BNI Syariah had existed from the start of the period; this is the comparative the audited FY2021 FS present. Legal-entity PT Bank BRIsyariah Tbk alone (before restatement, Note 53 PDF p. 713): 57,715.586."
+            },
+            "loans_gross": {
+                "v": 156693.725,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 213 (printed p. 211), MD&A 'Rincian Penyaluran Dana (Investasi dan Pembiayaan)', 2020 'Pembiayaan'",
+                "basis": "consolidated",
+                "note": "BSI's reported total financing: gross receivables (murabahah, istishna, ijarah/multijasa) + qardh + mudharabah + musyarakah principal + assets acquired for ijarah (net), before allowance. Restated (pooling of interests, PSAK 38) as if the 1 Feb 2021 merger of BRIsyariah, Bank Syariah Mandiri and BNI Syariah had existed from the start of the period; this is the comparative the audited FY2021 FS present. Components match the restated FS (PDF pp. 558-559)."
+            },
+            "deposits": {
+                "v": 209906,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 231 (printed p. 229), 'Tabel Pangsa Pasar ... (Rp miliar)', Pendanaan/DPK Bank Syariah Indonesia, Desember 2020",
+                "basis": "consolidated",
+                "note": "BSI's reported third-party funds (DPK = wadiah current + savings accounts and mudharabah current, savings and time deposits, OJK reporting basis). It is slightly below the sum of the two audited FS lines 'Jumlah simpanan wadiah' + 'Jumlah giro, tabungan dan deposito mudharabah' (restated 2020: 60,403.583 + 150,423.018 = 210,826.601). Printed in Rp billion without decimals; pro-forma merged basis (same figure in the FY2021 Company Update deck p. 8). Restated (pooling of interests, PSAK 38) as if the 1 Feb 2021 merger of BRIsyariah, Bank Syariah Mandiri and BNI Syariah had existed from the start of the period; this is the comparative the audited FY2021 FS present. "
+            },
+            "equity_attr": {
+                "v": 21743.145,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 561 (FS p. 4), column '31 Desember 2020*)', AR2021 audited FS, restated 31 Dec 2020 comparative (Note 53), Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Restated (pooling of interests, PSAK 38) as if the 1 Feb 2021 merger of BRIsyariah, Bank Syariah Mandiri and BNI Syariah had existed from the start of the period; this is the comparative the audited FY2021 FS present. Includes 'Ekuitas Merging Entities' 10,903.586. Legal-entity BRIsyariah alone (Note 53 PDF p. 713): 5,444.288. No non-controlling interest."
+            },
+            "total_equity": {
+                "v": 21743.145,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 561 (FS p. 4), column '31 Desember 2020*)', AR2021 audited FS, restated 31 Dec 2020 comparative (Note 53), Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Restated (pooling of interests, PSAK 38) as if the 1 Feb 2021 merger of BRIsyariah, Bank Syariah Mandiri and BNI Syariah had existed from the start of the period; this is the comparative the audited FY2021 FS present. Includes 'Ekuitas Merging Entities' 10,903.586. Legal-entity BRIsyariah alone (Note 53 PDF p. 713): 5,444.288. No non-controlling interest."
+            },
+            "shares_out": {
+                "v": null,
+                "note": "Not stored to avoid mixing bases. The only FY-end count printed is the LEGAL BRIsyariah count, 9,900,508,698 shares at 31 Dec 2020 (AR2021 FS PDF p. 561), while every other FY2020 figure here is the restated merged (pooling) entity whose EPS uses 40,877,546,276 weighted shares (Note 38, PDF p. 667). Merged entity count on the 1 Feb 2021 effective date: 41,031,208,943 (AR2021 PDF p. 580)."
+            },
+            "year_end_price": {
+                "v": 2250,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 22 (printed p. 20), Ikhtisar Saham, 2020 Triwulan IV 'Penutupan' (marked '* PT Bank BRIsyariah Tbk')",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits ever. Price of the listed legal entity PT Bank BRIsyariah Tbk (ticker BRIS) before the 1 Feb 2021 merger; market cap printed Rp22.28tn on 9,900,508,698 shares."
+            },
+            "roe": {
+                "v": 11.18,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan' (2020 column marked '* Disajikan kembali')",
+                "basis": "bank_only",
+                "note": "ROE as printed in BSI's ratio table (OJK sharia-bank ratio, net income / average core capital). Restated merged (pro-forma) basis; AR2021 PDF p. 21 prints the same value for 2020."
+            },
+            "roa": {
+                "v": 1.38,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan' (2020 column marked '* Disajikan kembali')",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax income / average total assets). Restated merged (pro-forma) basis; AR2021 PDF p. 21 prints the same value for 2020."
+            },
+            "nim": {
+                "v": 6.04,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan' (2020 column marked '* Disajikan kembali')",
+                "basis": "bank_only",
+                "note": "NI (Net Imbalan), the sharia-bank equivalent of NIM per OJK. Restated merged (pro-forma) basis; AR2021 PDF p. 21 prints the same value for 2020. FY2021 Company Update deck p. 8 prints NIM 6.05% for Dec-20."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for the merged entity in AR2021 or the FY2021 Company Update deck (checked: AR2021 ratio table p. 21, MD&A, deck pp. 7-13)."
+            },
+            "npl_gross": {
+                "v": 2.88,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan' (2020 column marked '* Disajikan kembali')",
+                "basis": "bank_only",
+                "note": "NPF gross. Restated merged (pro-forma) basis; AR2021 PDF p. 21 prints the same value for 2020."
+            },
+            "npl_net": {
+                "v": 1.12,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan' (2020 column marked '* Disajikan kembali')",
+                "basis": "bank_only",
+                "note": "NPF net. Restated merged (pro-forma) basis; AR2021 PDF p. 21 prints the same value for 2020."
+            },
+            "lar": {
+                "v": 21.03,
+                "source_url": "https://ir.bankbsi.co.id/misc/Slides/2022/Company-Update-FY-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 7 'Key Metrics Integration Result' FAR Dec'20; p. 11 '%FAR Bankwide (include Covid)' Dec-20",
+                "basis": "bank_only",
+                "note": "Pro-forma merged basis; FaR incl. COVID-restructured financing."
+            },
+            "npl_coverage": {
+                "v": 134.3,
+                "source_url": "https://ir.bankbsi.co.id/misc/Slides/2022/Company-Update-FY-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 8, FY 2021 Financial Highlight, 'Cash Coverage' Dec-20",
+                "basis": "bank_only",
+                "note": "Pro-forma merged basis."
+            },
+            "ldr": {
+                "v": 74.52,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan' (2020 column marked '* Disajikan kembali')",
+                "basis": "bank_only",
+                "note": "FDR (Financing to Deposit Ratio). Restated merged (pro-forma) basis; AR2021 PDF p. 21 prints the same value for 2020."
+            },
+            "car": {
+                "v": 18.24,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan' (2020 column marked '* Disajikan kembali')",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk. Restated merged (pro-forma) basis; AR2021 PDF p. 21 prints the same value for 2020."
+            },
+            "cir": {
+                "v": 53.74,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan' (2020 column marked '* Disajikan kembali')",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed (BSI also prints BOPO separately). Restated merged (pro-forma) basis; AR2021 PDF p. 21 prints the same value for 2020."
+            },
+            "bopo": {
+                "v": 84.61,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan' (2020 column marked '* Disajikan kembali')",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income). Restated merged (pro-forma) basis; AR2021 PDF p. 21 prints the same value for 2020."
+            },
+            "casa": {
+                "v": 59.19,
+                "source_url": "https://ir.bankbsi.co.id/misc/Slides/2022/Company-Update-FY-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 12, 'Funding Growth Story', % CASA Dec 2020",
+                "basis": "bank_only",
+                "note": "Pro-forma merged basis (BRIsyariah + BSM + BNIS), as shown by BSI in its FY2021 deck."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 3028.205,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 562 (FS p. 5), AR2021 audited FS, Laporan Laba Rugi 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "Net income after zakat and tax; no non-controlling interests (attributable to owners = net income)."
+            },
+            "eps": {
+                "v": 73.69,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 562 (FS p. 5), 'LABA PER SAHAM DASAR'; PDF p. 667 (Note 38)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic EPS on weighted average 41,096,058,485 shares."
+            },
+            "payout_ratio": {
+                "v": 25,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 228 (printed p. 225), 'Realisasi Pembayaran Dividen' table, Tahun Buku 2021 'Payout Ratio'",
+                "basis": "consolidated",
+                "note": "25% of FY2021 net income = Rp757,051,214,975 (AGMS 27 May 2022; GMS summary p. 3)."
+            },
+            "total_assets": {
+                "v": 265289.081,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 559 (FS p. 2), AR2021 audited FS, Laporan Posisi Keuangan 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 171291.157,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 227, MD&A target vs realisation table 2021 'Pembiayaan' (AR2022 PDF p. 219 collectibility table prints the same 171,291,157)",
+                "basis": "consolidated",
+                "note": "BSI's reported total financing: gross receivables (murabahah, istishna, ijarah/multijasa) + qardh + mudharabah + musyarakah principal + assets acquired for ijarah (net), before allowance."
+            },
+            "deposits": {
+                "v": 233251.358,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 227, target vs realisation table 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "BSI's reported third-party funds (DPK = wadiah current + savings accounts and mudharabah current, savings and time deposits, OJK reporting basis). It is slightly below the sum of the two audited FS lines 'Jumlah simpanan wadiah' + 'Jumlah giro, tabungan dan deposito mudharabah' (2021: 57,247.890 + 177,013.671 = 234,261.561)."
+            },
+            "equity_attr": {
+                "v": 25013.934,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 561 (FS p. 4), AR2021 audited FS, Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interests: total equity is attributable to owners."
+            },
+            "total_equity": {
+                "v": 25013.934,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 561 (FS p. 4), AR2021 audited FS, Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 41129307343,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 561 (FS p. 4) share capital line",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid shares; no treasury shares (EPS weighted average equals the issued count where no issuance occurred)."
+            },
+            "year_end_price": {
+                "v": 1780,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2021-IDN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 22 (printed p. 20), Ikhtisar Saham, 2021 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits ever."
+            },
+            "roe": {
+                "v": 13.71,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "ROE as printed in BSI's ratio table (OJK sharia-bank ratio, net income / average core capital)."
+            },
+            "roa": {
+                "v": 1.61,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax income / average total assets)."
+            },
+            "nim": {
+                "v": 6.04,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "NI (Net Imbalan), the sharia-bank equivalent of NIM per OJK."
+            },
+            "coc": {
+                "v": 2.36,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 46 (printed p. 43), Laporan Dewan Komisaris ('... dari 2,36% pada tahun 2021')",
+                "basis": "bank_only",
+                "note": "BSI calls it 'Cost of Financing (CoC)'. Not printed in the FY2021 deck."
+            },
+            "npl_gross": {
+                "v": 2.93,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "NPF gross."
+            },
+            "npl_net": {
+                "v": 0.87,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "NPF net."
+            },
+            "lar": {
+                "v": 17.69,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 46 (printed p. 43), Laporan Dewan Komisaris ('... tahun 2021 yang mencapai 17,69%')",
+                "basis": "bank_only",
+                "note": "FaR incl. COVID restructuring; same value in FY2021 deck p. 7/p. 11 (%FAR Bankwide include Covid)."
+            },
+            "npl_coverage": {
+                "v": 148.87,
+                "source_url": "https://ir.bankbsi.co.id/misc/Slides/2022/Company-Update-FY-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "p. 8, FY 2021 Financial Highlight, 'Cash Coverage' Dec-21",
+                "basis": "bank_only",
+                "note": "BSI 'Cash Coverage'. Not printed in AR2021/AR2022 ratio tables."
+            },
+            "ldr": {
+                "v": 73.39,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "FDR (Financing to Deposit Ratio)."
+            },
+            "car": {
+                "v": 22.09,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 52.57,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed (BSI also prints BOPO separately)."
+            },
+            "bopo": {
+                "v": 80.46,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Kinerja, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income)."
+            },
+            "casa": {
+                "v": 57.91,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 46 (printed p. 43), Laporan Dewan Komisaris ('... posisi tahun 2021 di angka 57,91%')",
+                "basis": "bank_only",
+                "note": "Same value in the FY2021 Company Update deck p. 12 ('% CASA 57,91%')."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 4260.182,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 522 (FS p. 5), AR2022 audited FS, Laporan Laba Rugi 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "Net income after zakat and tax; no non-controlling interests (attributable to owners = net income)."
+            },
+            "eps": {
+                "v": 102.54,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 522 (FS p. 5), 'LABA PER SAHAM DASAR'; PDF p. 620 (Note 38)",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic EPS on weighted average 41,545,970,076 shares. Weighted average reflects the 4,999,952,795 rights shares issued 19-27 Dec 2022."
+            },
+            "payout_ratio": {
+                "v": 10,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 191, 'Realisasi Pembayaran Dividen' table, Tahun Buku 2022 'Payout Ratio'",
+                "basis": "consolidated",
+                "note": "10% of FY2022 net income = Rp426,018,167,788 (AGMS 22 May 2023). Same in AR2024 PDF p. 256."
+            },
+            "total_assets": {
+                "v": 305727.438,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 519 (FS p. 2), AR2022 audited FS, Laporan Posisi Keuangan 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 207704.856,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 218, MD&A collectibility table 2022 'TOTAL PEMBIAYAAN'; same figure p. 223 target table 'Pembiayaan'",
+                "basis": "consolidated",
+                "note": "BSI's reported total financing: gross receivables (murabahah, istishna, ijarah/multijasa) + qardh + mudharabah + musyarakah principal + assets acquired for ijarah (net), before allowance."
+            },
+            "deposits": {
+                "v": 261490.981,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 223, target vs realisation table 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "BSI's reported third-party funds (DPK = wadiah current + savings accounts and mudharabah current, savings and time deposits, OJK reporting basis). It is slightly below the sum of the two audited FS lines 'Jumlah simpanan wadiah' + 'Jumlah giro, tabungan dan deposito mudharabah' (2022: 66,012.257 + 196,412.662 = 262,424.919)."
+            },
+            "equity_attr": {
+                "v": 33505.61,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 521 (FS p. 4), AR2022 audited FS, Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interests: total equity is attributable to owners."
+            },
+            "total_equity": {
+                "v": 33505.61,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 521 (FS p. 4), AR2022 audited FS, Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 46129260138,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 521 (FS p. 4) share capital line",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid shares; no treasury shares (EPS weighted average equals the issued count where no issuance occurred)."
+            },
+            "year_end_price": {
+                "v": 1290,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, Ikhtisar Saham, 2022 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits ever."
+            },
+            "roe": {
+                "v": 16.84,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "ROE as printed in BSI's ratio table (OJK sharia-bank ratio, net income / average core capital)."
+            },
+            "roa": {
+                "v": 1.98,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax income / average total assets)."
+            },
+            "nim": {
+                "v": 6.31,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "NI (Net Imbalan), the sharia-bank equivalent of NIM per OJK."
+            },
+            "coc": {
+                "v": 1.97,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 46 (printed p. 43), Laporan Dewan Komisaris ('Cost of Financing (CoC) menurun menjadi 1,97%')",
+                "basis": "bank_only",
+                "note": "BSI calls it 'Cost of Financing (CoC)'."
+            },
+            "npl_gross": {
+                "v": 2.42,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "NPF gross."
+            },
+            "npl_net": {
+                "v": 0.57,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "NPF net."
+            },
+            "lar": {
+                "v": 12.45,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 46 (printed p. 43), Laporan Dewan Komisaris ('Financing at Risk (FaR) ... 12,45%')",
+                "basis": "bank_only",
+                "note": "FaR (Financing at Risk), incl. COVID-restructured financing."
+            },
+            "npl_coverage": {
+                "v": 189.56,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9 highlights ('... meningkat dibanding tahun sebelumnya sebesar 189,56%')",
+                "basis": "bank_only",
+                "note": "CONFLICT: AR2022 PDF p. 46 (BoC report) states 'Cash Coverage Ratio (NPF Coverage) ... 183,12% pada akhir tahun 2022'. The later AR2023 figure is stored (same document/definition as the 2023 value)."
+            },
+            "ldr": {
+                "v": 79.37,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "FDR (Financing to Deposit Ratio)."
+            },
+            "car": {
+                "v": 20.29,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 51.01,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed (BSI also prints BOPO separately)."
+            },
+            "bopo": {
+                "v": 75.88,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income)."
+            },
+            "casa": {
+                "v": 61.57,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2022-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 46 (printed p. 43), Laporan Dewan Komisaris ('CASA di angka 61,57%')",
+                "basis": "bank_only",
+                "note": "CASA = current + savings / DPK."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 5703.743,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 550 (FS p. 5), AR2023 audited FS, Laporan Laba Rugi 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "Net income after zakat and tax; no non-controlling interests (attributable to owners = net income)."
+            },
+            "eps": {
+                "v": 123.65,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 550 (FS p. 5), 'LABA PER SAHAM DASAR'; PDF p. 651 (Note 40)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic EPS on weighted average 46,129,260,138 shares."
+            },
+            "payout_ratio": {
+                "v": 15,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 242 (printed p. 240), Kebijakan Dividen table, Tahun Buku 2023 'Dividend Payout Ratio (%)'",
+                "basis": "consolidated",
+                "note": "15% of FY2023 net income = Rp855,561,466,388 (AGMS 17 May 2024)."
+            },
+            "total_assets": {
+                "v": 353624.124,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 547 (FS p. 2), AR2023 audited FS, Laporan Posisi Keuangan 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 240316.044,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 182, MD&A collectibility table 2023 'Total Pembiayaan'; same figure p. 186 target table 'Pembiayaan'",
+                "basis": "consolidated",
+                "note": "BSI's reported total financing: gross receivables (murabahah, istishna, ijarah/multijasa) + qardh + mudharabah + musyarakah principal + assets acquired for ijarah (net), before allowance."
+            },
+            "deposits": {
+                "v": 293775.93,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 186, target vs realisation table 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "BSI's reported third-party funds (DPK = wadiah current + savings accounts and mudharabah current, savings and time deposits, OJK reporting basis). It is slightly below the sum of the two audited FS lines 'Jumlah simpanan wadiah' + 'Jumlah giro, tabungan dan deposito mudharabah' (2023: 67,873.898 + 226,682.234 = 294,556.132)."
+            },
+            "equity_attr": {
+                "v": 38739.121,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 549 (FS p. 4), AR2023 audited FS, Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interests: total equity is attributable to owners."
+            },
+            "total_equity": {
+                "v": 38739.121,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 549 (FS p. 4), AR2023 audited FS, Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 46129260138,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 549 (FS p. 4) share capital line",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid shares; no treasury shares (EPS weighted average equals the issued count where no issuance occurred)."
+            },
+            "year_end_price": {
+                "v": 1740,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Ikhtisar Saham, 2023 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits ever."
+            },
+            "roe": {
+                "v": 16.88,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "ROE as printed in BSI's ratio table (OJK sharia-bank ratio, net income / average core capital)."
+            },
+            "roa": {
+                "v": 2.35,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax income / average total assets)."
+            },
+            "nim": {
+                "v": 5.82,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "NI (Net Imbalan), the sharia-bank equivalent of NIM per OJK."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in AR2023 or AR2024 (checked: ratio tables, BoC/BoD reports, MD&A, KPI tables). Analyst deck not retrievable."
+            },
+            "npl_gross": {
+                "v": 2.08,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "NPF gross."
+            },
+            "npl_net": {
+                "v": 0.55,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "NPF net."
+            },
+            "lar": {
+                "v": 9.14,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 338, Board of Commissioners oversight table, 'Kualitas Pembiayaan' item 2 ('FaR bank-wide ... 9,14% Des'23')",
+                "basis": "bank_only",
+                "note": "FaR (Financing at Risk) bank-wide; wholesale 16.78%, retail 6.16%."
+            },
+            "npl_coverage": {
+                "v": 194.35,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9 highlights ('Rasio Cash Coverage BSI pada tahun 2023 mencapai 194,35%'); also PDF p. 187 'Realisasi Desember 2023'",
+                "basis": "bank_only",
+                "note": "BSI 'Cash Coverage' (allowance / NPF)."
+            },
+            "ldr": {
+                "v": 81.73,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "FDR (Financing to Deposit Ratio)."
+            },
+            "car": {
+                "v": 21.04,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 24 (printed p. 22), Ikhtisar Data Keuangan Penting, Permodalan 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 49.86,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed (BSI also prints BOPO separately)."
+            },
+            "bopo": {
+                "v": 71.27,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income)."
+            },
+            "casa": {
+                "v": 60.57,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2023-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 337, Board of Commissioners oversight table, item 3 ('capaian seb. 60,57% DPK', Dec'23)",
+                "basis": "bank_only",
+                "note": "CASA = current + savings / DPK. Consistent with the GCG table on PDF p. 516 (CASA Rp177.928tn, DPK Rp293.776tn)."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 7005.888,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 543 (FS p. 5), AR2024 audited FS, Laporan Laba Rugi 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "Net income after zakat and tax; no non-controlling interests (attributable to owners = net income)."
+            },
+            "eps": {
+                "v": 151.88,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 543 (FS p. 5), 'LABA PER SAHAM DASAR'; PDF p. 636 (Note 40)",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic EPS on weighted average 46,129,260,138 shares."
+            },
+            "payout_ratio": {
+                "v": 15,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 242 (printed p. 240), Kebijakan Dividen table, Tahun Buku 2024 'Dividend Payout Ratio (%)'",
+                "basis": "consolidated",
+                "note": "15% of FY2024 net income = Rp1,050,883,246,681 (AGMS 16 May 2025)."
+            },
+            "total_assets": {
+                "v": 408613.432,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 540 (FS p. 2), AR2024 audited FS, Laporan Posisi Keuangan 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "As reported; AR2025 reclassifies some 2024 lines (Note 55, e.g. SIMA moved to temporary syirkah funds) without changing total assets or equity."
+            },
+            "loans_gross": {
+                "v": 278481.243,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 199, MD&A 'Tabel Piutang Berdasarkan Jenis Kolektibilitas', 2024 'Total' (Pokok); same figure p. 248 target table 'Pembiayaan yang Diberikan'",
+                "basis": "consolidated",
+                "note": "BSI's reported total financing: gross receivables (murabahah, istishna, ijarah/multijasa) + qardh + mudharabah + musyarakah principal + assets acquired for ijarah (net), before allowance."
+            },
+            "deposits": {
+                "v": 327454.166,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 248, target vs realisation table 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "BSI's reported third-party funds (DPK = wadiah current + savings accounts and mudharabah current, savings and time deposits, OJK reporting basis). It is slightly below the sum of the two audited FS lines 'Jumlah simpanan wadiah' + 'Jumlah giro, tabungan dan deposito mudharabah' (2024: 74,427.146 + 253,705.326 = 328,132.472)."
+            },
+            "equity_attr": {
+                "v": 45041.572,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 542 (FS p. 4), AR2024 audited FS, Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interests: total equity is attributable to owners."
+            },
+            "total_equity": {
+                "v": 45041.572,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 542 (FS p. 4), AR2024 audited FS, Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 46129260138,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 542 (FS p. 4) share capital line",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid shares; no treasury shares (EPS weighted average equals the issued count where no issuance occurred). Includes 1 Series A Dwiwarna share held by the Republic of Indonesia (AR2025 Note 31, PDF p. 765, both years)."
+            },
+            "year_end_price": {
+                "v": 2730,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 24 (printed p. 22), Tabel Informasi Saham BSI 2023-2024, 2024 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits ever."
+            },
+            "roe": {
+                "v": 17.77,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "ROE as printed in BSI's ratio table (OJK sharia-bank ratio, net income / average core capital)."
+            },
+            "roa": {
+                "v": 2.49,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax income / average total assets)."
+            },
+            "nim": {
+                "v": 5.66,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "NI (Net Imbalan), the sharia-bank equivalent of NIM per OJK."
+            },
+            "coc": {
+                "v": 0.83,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 38, Laporan Direksi ('Cost of credit (CoC) Bank juga membaik di level 0,83% pada 2024')",
+                "basis": "bank_only",
+                "note": "Cost of credit (provision expense on financing / average financing), as stated in the BoD report."
+            },
+            "npl_gross": {
+                "v": 1.9,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "NPF gross."
+            },
+            "npl_net": {
+                "v": 0.5,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "NPF net."
+            },
+            "lar": {
+                "v": 7.25,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 357 (printed p. 355), Hasil Penilaian Kinerja Direksi (KPI), row 5 'FaR - Financing at Risk Desember 2024', column 'Real'",
+                "basis": "bank_only",
+                "note": "FaR (Financing at Risk), BSI's loan-at-risk measure. KPI target was 8.63%; realisation 7.25%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed in AR2024 (checked: ratio table PDF p. 23, BoC/BoD reports, MD&A, KPI table). FY2024 deck not retrievable."
+            },
+            "ldr": {
+                "v": 84.97,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "FDR (Financing to Deposit Ratio)."
+            },
+            "car": {
+                "v": 21.4,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 24 (printed p. 22), Ikhtisar Data Keuangan Penting, Permodalan 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 50.89,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed (BSI also prints BOPO separately)."
+            },
+            "bopo": {
+                "v": 69.93,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income)."
+            },
+            "casa": {
+                "v": 60.12,
+                "source_url": "https://www.bankbsi.co.id/storage/reports/H32Xdj6IecC3OvR6HpXaVYZpg3aTPfjxLqolqvtr.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 38, Laporan Direksi ('CASA ... mencapai rasio 60,12% dari total DPK'); AR2025 PDF p. 320 prints the same",
+                "basis": "bank_only",
+                "note": "CASA = current + savings accounts / third-party funds."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 7567.523,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 666 (FS p. 5), AR2025 audited FS, Laporan Laba Rugi 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "Net income after zakat and tax; no non-controlling interests (attributable to owners = net income)."
+            },
+            "eps": {
+                "v": 164.05,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 666 (FS p. 5), 'LABA PER SAHAM DASAR'; PDF p. 771 (Note 41)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic EPS on weighted average 46,129,260,138 shares."
+            },
+            "payout_ratio": {
+                "v": 20,
+                "source_url": "https://ir.bankbsi.co.id/misc/GMS/2026/Ringkasan-Risalah-RUPST-ID.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 4, Keputusan Mata Acara Rapat Kedua (AGMS 5 May 2026)",
+                "basis": "consolidated",
+                "note": "20% of FY2025 net income Rp7,567,523,029,940 = Rp1,513,504,605,988; 80% retained."
+            },
+            "total_assets": {
+                "v": 456192.606,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 663 (FS p. 2), AR2025 audited FS, Laporan Posisi Keuangan 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "BSI has no subsidiaries (AR2025 PDF p. 145); its stand-alone audited FS cover the whole reporting entity, stored as 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 318843.761,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 228 (printed p. 226), MD&A 'Piutang Berdasarkan Jenis Kolektibilitas', 2025 'Jumlah' (Pokok); same figure p. 234 target table 'Pembiayaan yang diberikan'",
+                "basis": "consolidated",
+                "note": "BSI's reported total financing: gross receivables (murabahah, istishna, ijarah/multijasa) + qardh + mudharabah + musyarakah principal + assets acquired for ijarah (net), before allowance. Check vs audited FS (PDF pp. 662-663): 149,494.653 + 17,721.928 + 147,761.083 + 3,866.097 = 318,843.761."
+            },
+            "deposits": {
+                "v": 380488.302,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 234 (printed p. 232), target vs realisation table 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "BSI's reported third-party funds (DPK = wadiah current + savings accounts and mudharabah current, savings and time deposits, OJK reporting basis). It is slightly below the sum of the two audited FS lines 'Jumlah simpanan wadiah' + 'Jumlah giro, tabungan dan deposito mudharabah' (2025: 91,101.595 + 290,140.589 = 381,242.184). The OJK published-format statement shows 91,101.595 + 289,386.708 = 380,488.303."
+            },
+            "equity_attr": {
+                "v": 51952.874,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 665 (FS p. 4), AR2025 audited FS, Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interests: total equity is attributable to owners."
+            },
+            "total_equity": {
+                "v": 51952.874,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 665 (FS p. 4), AR2025 audited FS, Laporan Posisi Keuangan 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 46129260138,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 665 (FS p. 4) share capital line + PDF p. 765 (Note 31 shareholder table)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid shares; no treasury shares (EPS weighted average equals the issued count where no issuance occurred). Includes 1 Series A Dwiwarna share held by the Republic of Indonesia (AR2025 Note 31, PDF p. 765, both years)."
+            },
+            "year_end_price": {
+                "v": 2230,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 25 (printed p. 23), Informasi Saham BSI 2024-2025, 2025 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No splits ever."
+            },
+            "roe": {
+                "v": 16.85,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "ROE as printed in BSI's ratio table (OJK sharia-bank ratio, net income / average core capital). Same table: 'Rasio Laba (Rugi) Terhadap Ekuitas' 14.57%. KPI table (AR2025 EN p. 482) confirms ROE realisation 16.85%."
+            },
+            "roa": {
+                "v": 2.38,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax income / average total assets)."
+            },
+            "nim": {
+                "v": 5.6,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "NI (Net Imbalan), the sharia-bank equivalent of NIM per OJK."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in AR2025 (checked: ratio tables PDF pp. 23-24, BoC/BoD reports, MD&A, KPI table; only the 2026 target '< 0,84%' on PDF p. 238). FY2025 analyst deck not retrievable (ir.bankbsi.co.id bot-protected, not archived)."
+            },
+            "npl_gross": {
+                "v": 1.81,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "NPF gross."
+            },
+            "npl_net": {
+                "v": 0.47,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "NPF net."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed in AR2025 (checked: ratio tables, BoC/BoD reports, MD&A, KPI table PDF p. 482; the 8.77% LaR on p. 49 is the national banking industry). FY2025 deck not retrievable."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed in AR2025 (checked: ratio tables PDF pp. 23-24, BoC/BoD reports, MD&A). The collectibility table (PDF p. 228) gives allowance and NPF balances but no printed coverage ratio; not derived. FY2025 deck not retrievable."
+            },
+            "ldr": {
+                "v": 83.74,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "FDR (Financing to Deposit Ratio)."
+            },
+            "car": {
+                "v": 22,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 24 (printed p. 22), Ikhtisar Data Keuangan Penting, Permodalan 'Rasio Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk."
+            },
+            "cir": {
+                "v": 52.13,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed (BSI also prints BOPO separately)."
+            },
+            "bopo": {
+                "v": 71.57,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Ikhtisar Data Keuangan Penting, 'RASIO KEUANGAN (%)'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income)."
+            },
+            "casa": {
+                "v": 61.62,
+                "source_url": "https://ir.bankbsi.co.id/misc/AR/AR2025-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 52 (printed p. 50), Laporan Direksi ('CASA ... Rp234,45 triliun atau sebesar 61,62% dari total DPK'); also PDF p. 320 GCG table 'CASA 61,62% / 60,12%'",
+                "basis": "bank_only",
+                "note": "CASA = current + savings accounts / third-party funds."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 18.406613,
+            "total": 757.051214975,
+            "cum_date": "2022-06-07",
+            "ex_date": "2022-06-08",
+            "record_date": "2022-06-09",
+            "pay_date": "2022-06-30",
+            "share_basis": "2022-05-27",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BRIS_DIV_20220609_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-05-27",
+            "loc": "KSEI notice KSEI-10207/JKU/0622 (2 Jun 2022), schedule items 1-8",
+            "note": "First dividend of the merged bank: 25% of FY2021 profit, Rp757,051,214,975 (AGMS 27 May 2022, GMS summary https://ir.bankbsi.co.id/misc/GMS/2022/Ringkasan-Risalah-RUPS-ID.pdf p. 3; AR2022 PDF p. 228). No splits since listing; DPS as announced."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 9.235314,
+            "total": 426.018167788,
+            "cum_date": "2023-05-30",
+            "ex_date": "2023-05-31",
+            "record_date": "2023-06-05",
+            "pay_date": "2023-06-23",
+            "share_basis": "2023-05-22",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BRIS_DIV_20230605_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-05-22",
+            "loc": "KSEI notice KSEI-10197/JKU/0523 (25 May 2023), schedule items 1-8",
+            "note": "10% of FY2022 profit, Rp426,018,167,788 (AGMS 22 May 2023; total from AR2023 PDF p. 191, which dates the announcement 24 May 2023 while AR2024 p. 256 says 22 May 2023). Paid on 46,129,260,138 shares (post-rights). No splits since listing; DPS as announced."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 18.5470451,
+            "total": 855.561466388,
+            "cum_date": "2024-05-29",
+            "ex_date": "2024-05-30",
+            "record_date": "2024-05-31",
+            "pay_date": "2024-06-20",
+            "share_basis": "2024-05-17",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BRIS_DIV_20240531_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-05-17",
+            "loc": "KSEI notice KSEI-11503/JKU/0524 (22 May 2024), schedule items 1-8",
+            "note": "15% of FY2023 profit, Rp855,561,466,388 (AGMS 17 May 2024; total from AR2025 PDF p. 242). No splits since listing; DPS as announced."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 22.781273,
+            "total": 1050.883246681,
+            "cum_date": "2025-05-26",
+            "ex_date": "2025-05-27",
+            "record_date": "2025-05-28",
+            "pay_date": "2025-06-19",
+            "share_basis": "2025-05-16",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BRIS_DIV_20250528_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-05-16",
+            "loc": "KSEI notice KSEI-11824/JKU/0525 (21 May 2025), schedule items 1-8",
+            "note": "15% of FY2024 profit, Rp1,050,883,246,681 (AGMS 16 May 2025; total from AR2025 PDF p. 242 and p. 332). No splits since listing; DPS as announced."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 32.810077,
+            "total": 1513.504605988,
+            "cum_date": "2026-05-13",
+            "ex_date": "2026-05-18",
+            "record_date": "2026-05-19",
+            "pay_date": "2026-06-05",
+            "share_basis": "2026-05-05",
+            "source_url": "https://ir.bankbsi.co.id/misc/GMS/2026/Ringkasan-Risalah-RUPST-ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-05-05",
+            "loc": "p. 4 (Keputusan Mata Acara Rapat Kedua) and p. 8 (G. Jadwal dan Tata Cara Pembagian Dividen Tunai Tahun Buku 2025)",
+            "note": "20% of FY2025 profit (AGMS 5 May 2026). Schedule confirmed by KSEI notice KSEI-10284/JKU/0526 (8 May 2026, https://web.ksei.co.id/Announcement/Files/193830_ksei_10284_jku_0526_202605081450.pdf); ex-date follows the 14-15 May 2026 holidays. No splits since listing; DPS as announced."
+        }
+    ],
+    "interim": {
+        "period": "Q1",
+        "year": 2026,
+        "period_end": "2026-03-31",
+        "fields": {
+            "profit_ytd": {
+                "v": 2200.099,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Laba Rugi, 'LABA/RUGI BERSIH TAHUN BERJALAN', 31 Maret 2026",
+                "basis": "consolidated",
+                "note": "1 Jan-31 Mar 2026. Interim period is Q1 2026, not 9M/H1 2026: BSI published H1 2026 results (news: net profit Rp4.15tn, +11.08% YoY, Bisnis.com 21 Aug 2026) but neither the H1 nor a 9M 2026 statement could be retrieved (ir.bankbsi.co.id bot-protected; not archived). BSI has no subsidiaries (AR2025 PDF p. 145); its stand-alone audited FS cover the whole reporting entity, stored as 'consolidated'."
+            },
+            "profit_ytd_prior": {
+                "v": 1878.797,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Laba Rugi, 31 Maret 2025 comparative (unaudited, unreviewed)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 50769.149,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Posisi Keuangan, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "OJK published format; at 31 Dec 2025 it shows 51,952.874, equal to the audited figure."
+            },
+            "shares_out": {
+                "v": 46129260138,
+                "source_url": "https://ir.bankbsi.co.id/misc/GMS/2026/Ringkasan-Risalah-RUPST-ID.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-05-05",
+                "loc": "p. 2, C. Kehadiran Pemegang Saham ('seluruh saham dengan hak suara yang sah ... berjumlah 46.129.260.138 saham')",
+                "basis": "n/a",
+                "share_basis": "2026-05-05",
+                "note": "Shares with valid voting rights at the 5 May 2026 AGMS (1 Series A Dwiwarna + 46,129,260,137 Series B); unchanged since the Dec 2022 rights issue. The Q1 2026 statement shows paid-up capital Rp23,064,630m and no treasury shares but does not print a share count."
+            },
+            "total_assets": {
+                "v": 460131.02,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": null,
+                "note": "The OJK-format statement prints financing in three lines with no total (Piutang 172,449.879; Pembiayaan bagi hasil 151,722.277; Pembiayaan sewa 3,667.667) and its receivable lines are not on the same basis as the AR total (Dec 2025 OJK-format murabahah 148,704.899 vs audited 149,328.154); not summed (no derived values)."
+            },
+            "loans_gross_prior": {
+                "v": null,
+                "note": "31 Mar 2025 balance sheet not in this statement (balance-sheet comparative is 31 Dec 2025) and the Q1 2025 statement is not retrievable (archived copy is a bot-challenge page)."
+            },
+            "deposits": {
+                "v": null,
+                "note": "Printed as two lines with no total: 'Dana simpanan wadiah' 89,018.103 and 'Dana investasi non profit sharing' 287,779.683; not summed here (no derived values)."
+            },
+            "deposits_prior": {
+                "v": null,
+                "note": "31 Mar 2025 balance sheet not available (see loans_gross_prior)."
+            },
+            "roe": {
+                "v": 19.36,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Rasio Keuangan (Individual), 31 Maret 2026",
+                "basis": "bank_only",
+                "note": "Same definition as fy.*.roe. 31 Mar 2025: 17.58."
+            },
+            "roa": {
+                "v": 2.54,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Rasio Keuangan (Individual), 31 Maret 2026",
+                "basis": "bank_only",
+                "note": "31 Mar 2025: 2.43."
+            },
+            "nim": {
+                "v": 5.59,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Rasio Keuangan, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "NI (Net Imbalan). 31 Mar 2025: 5.31. The statement also prints NOM 2.97."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not in the published statement; Q1 2026 analyst deck not retrievable."
+            },
+            "npl_gross": {
+                "v": 1.8,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Rasio Keuangan, 'Non Performing Financing (NPF) gross'",
+                "basis": "bank_only",
+                "note": "31 Mar 2025: 1.88. NPF net 0.38 (0.51)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Financing at Risk not in the published statement; Q1 2026 deck not retrievable."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not in the published statement; Q1 2026 deck not retrievable."
+            },
+            "ldr": {
+                "v": 87.14,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Rasio Keuangan, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR. 31 Mar 2025: 89.87."
+            },
+            "car": {
+                "v": 20.95,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Rasio Keuangan, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "31 Mar 2025: 21.39."
+            },
+            "cir": {
+                "v": 50.46,
+                "source_url": "https://ir.bankbsi.co.id/misc/Laporan-Keuangan/Tahun-Laporan-2026/Laporan-Publikasi-Triwulan-Mar-ID.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Laporan Keuangan Publikasi 31 Maret 2026 (reviewed; image-only PDF, read visually), Laporan Rasio Keuangan, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "31 Mar 2025: 48.57. BOPO 68.22 (70.57)."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not printed in the published statement (the deposit lines are by contract type, not CASA); not derived."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2022",
+            "reason": "Rights issue (PMHMETD I): 4,999,952,795 new shares were issued 19-27 Dec 2022, so FY-end shares (46,129,260,138) exceed the 41,545,970,076 weighted-average shares used for basic EPS 102.54 (AR2022 PDF p. 620, Note 38). 102.54 x 41,545,970,076 = Rp4,260.1bn = reported profit."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: ir.bankbsi.co.id and www.bankbsi.co.id (Imperva/Incapsula) and idx.co.id (Cloudflare) block this server; no challenge was bypassed. BSI documents were downloaded from Internet Archive raw snapshots of the exact URLs in source_url (https://web.archive.org/web/<ts>id_/<url>): AR2025-ID 20260425171218; AR2024 (www.bankbsi.co.id/storage/reports/H32Xdj...pdf) 20260331233437 - the ir.bankbsi.co.id/misc/AR/AR2024-ID.pdf snapshot (20260123105522) is truncated at 5 MiB; AR2023-ID 20260525124655; AR2022-ID 20230601163621; AR2021-IDN 20230601162312; FY2021 Company Update deck 20220204124231; Q1 2026 published statement 20260711074257; AGMS 2026 summary 20260711083344; AGMS 2022 summary 20220620165336; rights-issue supplementary disclosure 20230204205824. The English AR2025 (www.bankbsi.co.id/storage/reports/8kf42X...pdf, 20261017171539) was used only to read/translate. KSEI dividend notices were fetched directly from web.ksei.co.id.",
+        "FY2019-FY2020 BASIS (decision): BSI is the legal continuation of PT Bank BRIsyariah Tbk (ticker BRIS), which absorbed Bank Syariah Mandiri and BNI Syariah on 1 Feb 2021. The merger was a common-control combination accounted for by pooling of interests (PSAK 38); the audited FY2021 FS (AR2021 PDF pp. 558-562, Note 53 pp. 712-714) present the 31 Dec 2020 and 1 Jan 2020 comparatives RESTATED as if the three banks had always been combined, and AR2021/AR2022 highlight tables print the same restated 2020 (and 2019) figures and ratios. Those restated figures are stored for FY2019 and FY2020 because they are what the audited statements present as the comparative and they are comparable with FY2021+. Legal-entity BRIsyariah alone (Note 53): 31 Dec 2020 total assets 57,715.586, equity 5,444.288, FY2020 net income 248.054; 31 Dec 2019 total assets 43,123.488, equity 5,088.036. FY2020 cash-coverage, FaR and CASA come from BSI's FY2021 deck (pro forma merged). Growth FY2020->FY2021 is organic (same perimeter); growth FY2019->FY2020 is also on the merged perimeter.",
+        "FY2020 PER-SHARE: EPS 53.52 is the restated pooling EPS (weighted 40,877,546,276 shares, i.e. the 31,130,700,245 merger shares deemed outstanding from 1 Jan 2020). fy.2020.shares_out is null: the only FY-end count printed (9,900,508,698, legal BRIsyariah) is on a different basis from the restated equity/EPS, and storing it would give a meaningless FY2020 BVPS (~Rp2,196 vs ~Rp608 in FY2021). fy.2020.year_end_price (2,250) is the real BRIS close (legal entity); the market already priced the agreed merger (EGMS 15 Dec 2020).",
+        "ENTITY / BASIS: BSI has no subsidiaries, associates or SPVs (AR2025 PDF pp. 145-146), so its stand-alone audited statements are the full reporting entity; money figures are stored with basis 'consolidated' and equity_attr = total_equity (no NCI). Ratios are BSI's own OJK individual-basis ratios (basis 'bank_only'). label_overrides map the sharia terms.",
+        "DEFINITIONS: loans_gross = BSI's reported total financing (principal of murabahah/istishna/ijarah receivables + qardh + mudharabah + musyarakah + net assets acquired for ijarah, before allowance) from the MD&A collectibility/target tables; FY2025 ties exactly to the audited FS lines. deposits = BSI's reported third-party funds (DPK, OJK basis), which runs ~0.7-1.0tn below the sum of the two audited FS lines (wadiah deposits + mudharabah deposits); the FS sums are given in each note. nim = NI (Net Imbalan). FaR (Financing at Risk) is stored as lar. 'Cash Coverage' is stored as npl_coverage. CoC is called 'Cost of Financing (CoC)' in AR2022 and 'Cost of credit' in AR2024.",
+        "RATIO SOURCES: FY2023-FY2025 from the AR2025 ratio table, FY2022 from AR2024, FY2021 from AR2023, FY2020 from AR2022 (restated column) - always the latest AR that prints the year; values were cross-checked against each year's own AR with no differences. CoC/FaR/coverage/CASA are not in any ratio table and come from BoC/BoD reports, KPI tables and the FY2021 deck (see each loc). Analyst decks after FY2021 are listed on the IR site but were never archived, hence the nulls for FY2023 CoC, FY2024-FY2025 coverage and FY2025 CoC/FaR.",
+        "CONFLICTS / DOUBTS: (1) FY2022 cash coverage: AR2022 BoC report says 183.12%, AR2023 says 189.56% for 2022 (stored). (2) FY2024 FaR: the KPI table prints target 8.63% and realisation 7.25% (stored 7.25). (3) FY2020 NIM: AR 6.04% vs deck 6.05%; the deck's CER (52.69/52.23) differs from the AR CIR (53.74/52.57, stored). (4) FY2023 CASA 60.57% comes from a BoC monitoring table (Dec'23), not a ratio table. (5) FY2020 deposits are printed in Rp billion (209,906) without decimals. (6) Dividend announcement dates differ between ARs (FY2021: 27 vs 31 May 2022; FY2022: 22 vs 24 May 2023); as_of_date uses the AGMS date.",
+        "DIVIDENDS: one final cash dividend per year out of FY2021-FY2025 profit (payout 25%, 10%, 15%, 15%, 20%); no interim or special dividends. No dividend out of FY2020 profit (AGMS 6 May 2021, AR2021 PDF p. 343; the IR dividend page also shows FY2020 and FY2019 as N/A), so fy.2020.payout_ratio = 0 and there is no FY2020 record. DPS and dates from KSEI notices (FY2021-FY2024) and the AGMS 2026 summary (FY2025); totals from the ARs/AGMS summaries and the IR dividend page (snapshot 20260123110817). All totals reconcile with DPS x shares and profit x payout within 0.01%.",
+        "CORPORATE ACTIONS 2019-2026: one rights issue (PMHMETD I, ex-date 14 Dec 2022, 90,000:10,941 at Rp1,000; 4,999,952,795 new shares). No splits, reverse splits or bonus issues ever (AR2025 PDF p. 147 share-issuance chronology; AGMS 2026 agenda has none). Not recorded as corporate actions because the schema has no type for them: the 1 Feb 2021 merger issuance of 31,130,700,245 shares to BSM/BNIS shareholders (9,900,508,698 -> 41,031,208,943) and MESOP exercises (184,395,200 shares in 2020; 98,098,400 in 2021). Neither is a split, so there is no per-share adjustment.",
+        "NAME / CONTROL: after the EGMS of 22 Dec 2025 amended the articles (Series A Dwiwarna special rights under the new SOE law), Kemenkum approval AHU-0003351.AH.01.02.TAHUN 2026 of 23 Jan 2026 made the bank a Persero: legal name 'PT Bank Syariah Indonesia (Persero) Tbk' (AR2025 PDF p. 234). Since 27 Jan 2026 control passed from PT Bank Mandiri (51.47%) to PT Danantara Asset Management (special power of attorney from BP BUMN). Shareholders at 31 Dec 2025: Mandiri 51.47%, BNI 23.24%, BRI 15.38%, public 9.90%.",
+        "INTERIM: Q1 2026 (reviewed published statement, an image-only PDF read visually) is the latest statement that could be retrieved; H1 2026 was published in Aug 2026 (news) and a 9M 2026 release was not found. Interim loans_gross/deposits are null because the OJK format prints only components; prior-year balances are null because the Q1 2025 statement is not retrievable. Re-run when H1/9M 2026 documents become retrievable.",
+        "RECLASSIFICATIONS: AR2025 reclassifies some 31 Dec 2024 lines (Note 55; e.g. SIMA presented under temporary syirkah funds) and AR2024 reclassifies 2022 asset lines; total assets, equity and profit are unchanged, so the originally reported figures are stored.",
+        "SELF-CHECK: eps x shares_out vs net_profit_attr: 2021 +0.09%, 2022 +11.03% (rights issue; acknowledged), 2023 +0.00%, 2024 +0.00%, 2025 -0.00%; 2020 not checkable (shares null). dps x shares_out vs total: 0.00% every year; profit x payout vs total: <=0.01% every year."
+    ]
+}
