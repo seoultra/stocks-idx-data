@@ -62,7 +62,7 @@ Convert from Rp juta (millions) by dividing by 1,000. Keep the precision the sou
 | File | What it holds |
 |---|---|
 | `index.json` | Entry point: coverage per issuer (periods, file path), units, file list. Generated from the data. |
-| `sectors.json` | Sector registry: id, names (`id`/`en`), tickers in display order. |
+| `sectors.json` | Sector registry: id, names (`id`/`en`), tickers, and optional display `groups` (id, names, tickers in display order; every ticker of the sector in exactly one group). Banking groups: `bumn`, `private_large`, `sharia`, `digital`, `bpd`, `private_mid`. |
 | `issuers/<CODE>.json` | One issuer: annual data, dividends, latest interim period. |
 | `corporate_actions.json` | Every issuer's splits, reverse splits, rights and bonus issues in one table. |
 | `macro.json` | `bi_rate` and `sbn10y` datums. |

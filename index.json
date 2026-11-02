@@ -30,34 +30,11 @@
     },
     "issuers": [
         {
-            "code": "BBCA",
-            "name": "PT Bank Central Asia Tbk",
-            "name_short": "Bank Central Asia",
-            "sector": "banking",
-            "kbmi": 4,
-            "sharia": false,
-            "fy_first": 2020,
-            "fy_latest": 2025,
-            "interim": "9M 2026",
-            "interim_period_end": "2026-09-30",
-            "data_through": "2026-09-30",
-            "dividend_records": 14,
-            "file": "issuers/BBCA.json",
-            "prices": {
-                "file": "prices/BBCA.json",
-                "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1889,
-                "last_close": 4980,
-                "today": null
-            },
-            "page": "https://seoultra.id/stocks/idx/bbca/"
-        },
-        {
             "code": "BBRI",
             "name": "PT Bank Rakyat Indonesia (Persero) Tbk",
             "name_short": "Bank Rakyat Indonesia",
             "sector": "banking",
+            "group": "bumn",
             "kbmi": 4,
             "sharia": false,
             "fy_first": 2020,
@@ -82,6 +59,7 @@
             "name": "PT Bank Mandiri (Persero) Tbk",
             "name_short": "Bank Mandiri",
             "sector": "banking",
+            "group": "bumn",
             "kbmi": 4,
             "sharia": false,
             "fy_first": 2020,
@@ -106,6 +84,7 @@
             "name": "PT Bank Negara Indonesia (Persero) Tbk",
             "name_short": "Bank Negara Indonesia",
             "sector": "banking",
+            "group": "bumn",
             "kbmi": 4,
             "sharia": false,
             "fy_first": 2020,
@@ -124,6 +103,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbni/"
+        },
+        {
+            "code": "BBCA",
+            "name": "PT Bank Central Asia Tbk",
+            "name_short": "Bank Central Asia",
+            "sector": "banking",
+            "group": "private_large",
+            "kbmi": 4,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 14,
+            "file": "issuers/BBCA.json",
+            "prices": {
+                "file": "prices/BBCA.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1889,
+                "last_close": 4980,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/bbca/"
         }
     ]
 }
