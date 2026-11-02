@@ -853,6 +853,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bvic/"
+        },
+        {
+            "code": "BABP",
+            "name": "PT Bank MNC Internasional Tbk",
+            "name_short": "MNC Bank",
+            "sector": "banking",
+            "group": "private_mid",
+            "kbmi": 1,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 0,
+            "file": "issuers/BABP.json",
+            "prices": {
+                "file": "prices/BABP.json",
+                "first_date": "2019-01-03",
+                "last_date": "2026-11-02",
+                "sessions": 1871,
+                "last_close": 21,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/babp/"
         }
     ]
 }

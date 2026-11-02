@@ -1,0 +1,1430 @@
+{
+    "schema": 1,
+    "code": "BABP",
+    "name": "PT Bank MNC Internasional Tbk",
+    "name_short": "MNC Bank",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://mncbank.co.id",
+    "ir_url": "https://mncbank.co.id/hubungan-investor",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF p. 158, capital table: 'Modal Inti (Tier 1)' Rp3,275,074 juta at 31 Dec 2025 (Rp3,255,572 juta at 2024); PDF p. 14 awards in the 'Conventional Bank (KBMI 1)' peer group",
+        "note": "KBMI 1 = core capital up to Rp6tn (POJK 12/POJK.03/2021). MNC Bank's core capital was Rp3.28tn at Dec 2025, far below the Rp6tn KBMI 2 threshold; its AR2021-AR2025 award lists and the bank's website profile place it in KBMI 1. Formerly BUKU 2 (AR2021 PDF p. 16)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 10607.879,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292129977-91244-20260404154209.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 374, audited Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "FY2019 audited statements (KAP Kanaka Puradiredja, Suhartono). Same figure is the 2019 comparative in AR2020 PDF p. 369."
+            },
+            "loans_gross": {
+                "v": 7554.481,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292129977-91244-20260404154209.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 374, Laporan Posisi Keuangan, 'Kredit' related parties 200,073 + third parties 7,354,408 (Rp juta), before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans (sum of the two printed lines, before allowance). No sharia financing."
+            },
+            "deposits": {
+                "v": 8431.272,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292129977-91244-20260404154209.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 375, Laporan Posisi Keuangan, 'Simpanan' - 'Jumlah' (related + third parties 535,635 + 7,895,637 Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro, tabungan, deposito); excludes 'Simpanan dari bank lain'."
+            },
+            "equity_attr": {
+                "v": 1559.45,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292129977-91244-20260404154209.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 375, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Bank has no subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1559.45,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292129977-91244-20260404154209.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 375, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 50,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292129977-91244-20260404154209.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 15, Ikhtisar Saham, 2019 'Triwulan IV/4th Quarter' 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2019-12-31",
+                "note": "Q4-2019 close as printed (high 74, low 50). Same 50 in the AR2020 two-year table (AR2020 PDF p. 15); the AR2019 table also prints a Q4-2018 close of 50. The stock sat on the IDX Rp50 floor most of 2018-2020. Stored for the price fetcher: PUT VII went ex on 2 Dec 2019 (exercise Rp50 = market price, so no theoretical dilution)."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 10.414,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 372, audited Laporan Laba Rugi, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners (no subsidiaries). The AR highlight tables (e.g. AR2025 PDF p. 8, AR2020 PDF p. 10) print an 'attributable to owners / to non-controlling interests' split that does not exist in the audited statements; it mirrors the parent MNC Kapital's ~50% stake and is ignored."
+            },
+            "eps": {
+                "v": 0.41,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 372, 'Laba per saham - Dasar'; EPS note PDF p. 452",
+                "basis": "consolidated",
+                "share_basis": "2021-05-11",
+                "note": "Basic EPS as printed, on a weighted average of 25,333,295,424 shares (EPS note PDF p. 452)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1781064425440-24576-20260610110705.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, summary minutes of the AGMS of 2021-06-09, 'Keputusan Mata Acara Ketiga Rapat': 'Menyetujui untuk tidak membagikan dividen untuk Tahun Buku yang berakhir pada tanggal 31 Desember 2020'",
+                "basis": "consolidated",
+                "note": "No dividend for this fiscal year (profit retained to strengthen capital; the bank still carries an accumulated deficit)."
+            },
+            "total_assets": {
+                "v": 11652.904,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 369, audited Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 7122.033,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 369, Laporan Posisi Keuangan, 'Kredit' related parties 537,976 + third parties 6,584,057 (Rp juta), before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans (sum of the two printed lines, before allowance). No sharia financing."
+            },
+            "deposits": {
+                "v": 9206.851,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 370, Laporan Posisi Keuangan, 'Simpanan' - 'Jumlah' (related + third parties 891,724 + 8,315,127 Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro, tabungan, deposito); excludes 'Simpanan dari bank lain'."
+            },
+            "equity_attr": {
+                "v": 1551.237,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 370, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Bank has no subsidiaries and no non-controlling interest: equity attributable to owners = total equity. FY2020 equity is below FY2019 although FY2020 was profitable: PSAK 71 adoption on 1 Jan 2020 cut opening equity to 1,512,274 (AR2020 PDF p. 374 statement of changes in equity, 'Saldo per 1 Januari 2020 setelah' PSAK 71 adjustment; same in AR2021 PDF p. 432)."
+            },
+            "total_equity": {
+                "v": 1551.237,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 370, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 25333296313,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 370, equity section 'Modal ditempatkan dan disetor penuh' (series A + series B)",
+                "basis": "n/a",
+                "share_basis": "2021-05-11",
+                "note": "Series A 21,785,059,005 (nominal Rp100) + series B 3,548,237,308 (nominal Rp50) = 25,333,296,313 (AR2021 PDF p. 496 reconciliation: 25,333,295,263 + 1,050 Warrant V exercises). No treasury shares."
+            },
+            "year_end_price": {
+                "v": 50,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 15, Ikhtisar Saham, 2020 'Triwulan IV/4th Quarter' 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-05-11",
+                "note": "Q4-2020 close as printed (high 67, low 50). Same in the AR2021 two-year table (AR2021 PDF p. 15)."
+            },
+            "roe": {
+                "v": 0.88,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2020 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported; low because the bank earns little on ~Rp3tn of capital."
+            },
+            "roa": {
+                "v": 0.15,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2020 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 4.01,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2020 column, 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no cost-of-credit ratio in the AR2020 ratio table (PDF p. 12), MD&A or the OJK published report; the bank publishes no analyst presentation."
+            },
+            "npl_gross": {
+                "v": 5.69,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2020 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 3.63,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2020 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no Loan-at-Risk ratio in AR2020 (ratio table PDF p. 12, MD&A); the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2020: the AR2020 ratio table (PDF p. 12) prints only 'CKPN Aset Keuangan terhadap Aset Produktif'; no CKPN/NPL coverage ratio anywhere in the AR."
+            },
+            "ldr": {
+                "v": 77.32,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2020 column, 'Loan to Funding Ratio (LFR)'",
+                "basis": "bank_only",
+                "note": "Labelled LFR in this AR; the same number is called 'Loan to Deposit Ratio (LDR)' in later ARs (e.g. AR2021 PDF p. 138, AR2024 PDF p. 11). The bank has issued no bonds (borrowings nil or negligible), so LFR = LDR here; loans/DPK from the FS gives ~77.4%."
+            },
+            "car": {
+                "v": 15.75,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2020 column, 'KPMM dengan Memperhitungkan Risiko Kredit, Risiko Operasional dan Risiko Pasar'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": null,
+                "note": "Not disclosed for FY2020: AR2020 and AR2021 ratio tables (PDF p. 12 each) print BOPO but no cost-to-income ratio; AR2025's five-year table starts at 2021."
+            },
+            "bopo": {
+                "v": 98.09,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2020 column, 'BOPO'",
+                "basis": "bank_only",
+                "note": "AR2021 PDF p. 12 and AR2022 PDF p. 13 reprint FY2020 BOPO as 98.07; AR2023/AR2024 keep 98.09."
+            },
+            "casa": {
+                "v": 18.81,
+                "source_url": "https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 93, MD&A 'Dana Pihak Ketiga' table, 'Rasio CASA | CASA Ratio'",
+                "basis": "bank_only",
+                "note": "AR2020 MD&A third-party funds table 'Rasio CASA'. AR2021 PDF p. 38 text says 18.80%, its table (p. 125) 18.81%."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 12.868,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 431, audited Laporan Laba Rugi, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners (no subsidiaries). The AR highlight tables (e.g. AR2025 PDF p. 8, AR2020 PDF p. 10) print an 'attributable to owners / to non-controlling interests' split that does not exist in the audited statements; it mirrors the parent MNC Kapital's ~50% stake and is ignored."
+            },
+            "eps": {
+                "v": 0.49,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 431, 'Laba per saham - Dasar'; EPS note PDF p. 503",
+                "basis": "consolidated",
+                "share_basis": "2022-05-31",
+                "note": "Basic EPS as printed, on a weighted average of 26,254,325,649 shares (EPS note PDF p. 503)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780888261079-56403-20260608101101.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, summary minutes of the AGMS of 2022-07-20, 'Keputusan Mata Acara Ketiga Rapat': 'Menyetujui untuk tidak membagikan dividen untuk Tahun Buku yang berakhir pada tanggal 31 Desember 2021'",
+                "basis": "consolidated",
+                "note": "No dividend for this fiscal year (profit retained to strengthen capital; the bank still carries an accumulated deficit)."
+            },
+            "total_assets": {
+                "v": 14015.36,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 428, audited Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 8503.664,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 428, Laporan Posisi Keuangan, 'Kredit' related parties 1,323,013 + third parties 7,180,651 (Rp juta), before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans (sum of the two printed lines, before allowance). No sharia financing."
+            },
+            "deposits": {
+                "v": 11242.321,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 429, Laporan Posisi Keuangan, 'Simpanan' - 'Jumlah' (related + third parties 1,643,570 + 9,598,751 Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro, tabungan, deposito); excludes 'Simpanan dari bank lain'."
+            },
+            "equity_attr": {
+                "v": 2365.457,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 429, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Bank has no subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 2365.457,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 429, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 29412224720,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 429, equity section 'Modal ditempatkan dan disetor penuh' (series A + series B)",
+                "basis": "n/a",
+                "share_basis": "2022-05-31",
+                "note": "Series A 22,052,836,610 + series B 7,359,388,110. 2021 changes (AR2021 PDF p. 496): PUT VIII +1,010,030,006, Warrant IV +267,777,605, Warrant V +2,801,120,796. Of these, 29,117,432,119 were listed on IDX and 294,792,601 unlisted (1% kept off-exchange under PP 29/1999; AR2022 PDF p. 480). No treasury shares."
+            },
+            "year_end_price": {
+                "v": 228,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 15, Ikhtisar Saham, 2021 'Triwulan IV/4th Quarter' 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-05-31",
+                "note": "Q4-2021 close as printed (same in AR2022 PDF p. 16). DOUBT: the closing-price chart on the same page is drawn at about Rp180 for December, and the Q4 market cap (Rp6,277bn) / 228 = 27.5bn shares vs 29.1bn listed at year end, so this may not be the 30 Dec 2021 close. Check against the price series."
+            },
+            "roe": {
+                "v": 0.94,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2021 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported; low because the bank earns little on ~Rp3tn of capital."
+            },
+            "roa": {
+                "v": 0.18,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2021 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 3.8,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2021 column, 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no cost-of-credit ratio in the AR2021 ratio table (PDF p. 12), MD&A or the OJK published report; the bank publishes no analyst presentation."
+            },
+            "npl_gross": {
+                "v": 4.42,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2021 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 2.81,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2021 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no Loan-at-Risk ratio in AR2021 (ratio table PDF p. 12, MD&A); the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2021: the AR2021 ratio table (PDF p. 12) prints only 'CKPN Aset Keuangan terhadap Aset Produktif'; no CKPN/NPL coverage ratio anywhere in the AR."
+            },
+            "ldr": {
+                "v": 75.61,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2021 column, 'Loan to Funding Ratio (LFR)'",
+                "basis": "bank_only",
+                "note": "Labelled LFR in this AR; the same number is called 'Loan to Deposit Ratio (LDR)' in later ARs (e.g. AR2021 PDF p. 138, AR2024 PDF p. 11). The bank has issued no bonds (borrowings nil or negligible), so LFR = LDR here; loans/DPK from the FS gives ~75.6%."
+            },
+            "car": {
+                "v": 24.31,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2021 column, 'KPMM dengan Memperhitungkan Risiko Kredit, Risiko Operasional dan Risiko Pasar'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 83.88,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 9, 'Rasio Keuangan' five-year table, 'CIR', 2021 column",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed; AR2025 is the first AR that prints CIR (matches the Dec 2025 published report: 77.62 / 83.74 for 2025 / 2024)."
+            },
+            "bopo": {
+                "v": 97.81,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, Ikhtisar 'Rasio Keuangan' table, 2021 column, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 28.89,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 125, MD&A 'Dana Pihak Ketiga' table, 'Rasio CASA | CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Giro 1,391,977 + Tabungan 1,855,398 of DPK 11,242,321 (Rp juta) in the same table."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 52.505,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 469, audited Laporan Laba Rugi, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners (no subsidiaries). The AR highlight tables (e.g. AR2025 PDF p. 8, AR2020 PDF p. 10) print an 'attributable to owners / to non-controlling interests' split that does not exist in the audited statements; it mirrors the parent MNC Kapital's ~50% stake and is ignored."
+            },
+            "eps": {
+                "v": 1.87,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 469, 'Laba per saham - Dasar'; EPS note PDF p. 546",
+                "basis": "consolidated",
+                "share_basis": "2023-06-15",
+                "note": "Basic EPS as printed, on a weighted average of 28,071,267,485 shares (EPS note PDF p. 546)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780656029501-69456-20260605174029.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5, summary minutes of the AGMS of 2023-06-15, 'Keputusan Mata Acara Ketiga Rapat': 'Menyetujui untuk tidak membagikan dividen untuk Tahun Buku yang berakhir pada tanggal 31 Desember 2022'",
+                "basis": "consolidated",
+                "note": "No dividend for this fiscal year (profit retained to strengthen capital; the bank still carries an accumulated deficit)."
+            },
+            "total_assets": {
+                "v": 16862.363,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 466, audited Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 10199.866,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 466, Laporan Posisi Keuangan, 'Kredit' related parties 1,337,307 + third parties 8,862,559 (Rp juta), before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans (sum of the two printed lines, before allowance). No sharia financing."
+            },
+            "deposits": {
+                "v": 13154.886,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 467, Laporan Posisi Keuangan, 'Simpanan' - 'Jumlah' (related + third parties 1,765,642 + 11,389,244 Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro, tabungan, deposito); excludes 'Simpanan dari bank lain'."
+            },
+            "equity_attr": {
+                "v": 2712.334,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 467, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Bank has no subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 2712.334,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 467, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 32221089956,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 467, equity section 'Modal ditempatkan dan disetor penuh' (series A + series B)",
+                "basis": "n/a",
+                "share_basis": "2023-06-15",
+                "note": "Series A + series B = 32,221,089,956 (AR2022 PDF p. 538 reconciliation: Warrants IV/V +41,045/+59,495,764, PMTHMETD 31 Jan 2022 +1,969,696,969 @Rp165, PUT IX +779,631,458). The face prints A 22,052,877,635 / B 10,168,212,321 while AR2023 PDF p. 470 prints A 22,052,877,655 / B 10,168,212,301 for the same date: a 20-share transposition, same total. A further 1,538,000,000 PUT IX shares were paid in Dec 2022 but became shares on 4 Jan 2023 (AR2024 PDF p. 554). No treasury shares."
+            },
+            "year_end_price": {
+                "v": 119,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 16, Ikhtisar Saham, 2022 'Triwulan IV/4th Quarter' 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-06-15",
+                "note": "Q4-2022 close as printed (same in AR2023 PDF p. 17). DOUBT: the chart on the same page is drawn at about Rp100 for December, and the Q4 market cap (Rp3,697bn) / 119 = 31.1bn shares, the count before PUT IX (31.9bn listed at year end). Check against the price series."
+            },
+            "roe": {
+                "v": 2.5,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar 'Rasio Keuangan' table, 2022 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported; low because the bank earns little on ~Rp3tn of capital."
+            },
+            "roa": {
+                "v": 1.04,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar 'Rasio Keuangan' table, 2022 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 4.95,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar 'Rasio Keuangan' table, 2022 column, 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no cost-of-credit ratio in the AR2022 ratio table (PDF p. 13), MD&A or the OJK published report; the bank publishes no analyst presentation."
+            },
+            "npl_gross": {
+                "v": 3.53,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar 'Rasio Keuangan' table, 2022 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 2.21,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar 'Rasio Keuangan' table, 2022 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no Loan-at-Risk ratio in AR2022 (ratio table PDF p. 13, MD&A); the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2022: the AR2022 ratio table (PDF p. 13) prints only 'CKPN Aset Keuangan terhadap Aset Produktif'; no CKPN/NPL coverage ratio anywhere in the AR."
+            },
+            "ldr": {
+                "v": 76.96,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar 'Rasio Keuangan' table, 2022 column, 'Loan to Funding Ratio (LFR)'",
+                "basis": "bank_only",
+                "note": "Labelled LFR in this AR; the same number is called 'Loan to Deposit Ratio (LDR)' in later ARs (e.g. AR2021 PDF p. 138, AR2024 PDF p. 11). The bank has issued no bonds (borrowings nil or negligible), so LFR = LDR here; loans/DPK from the FS gives ~77.5%."
+            },
+            "car": {
+                "v": 23.62,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar 'Rasio Keuangan' table, 2022 column, 'KPMM dengan Memperhitungkan Risiko Kredit, Risiko Operasional dan Risiko Pasar'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 68.22,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 9, 'Rasio Keuangan' five-year table, 'CIR', 2022 column",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed; AR2025 is the first AR that prints CIR (matches the Dec 2025 published report: 77.62 / 83.74 for 2025 / 2024)."
+            },
+            "bopo": {
+                "v": 88.16,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, Ikhtisar 'Rasio Keuangan' table, 2022 column, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 24.34,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 142, MD&A 'Dana Pihak Ketiga' table, 'Rasio CASA | CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Giro 1,220,231 + Tabungan 1,981,175 of DPK 13,154,886 (Rp juta) in the same table."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 77.916,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 472, audited Laporan Laba Rugi, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners (no subsidiaries). The AR highlight tables (e.g. AR2025 PDF p. 8, AR2020 PDF p. 10) print an 'attributable to owners / to non-controlling interests' split that does not exist in the audited statements; it mirrors the parent MNC Kapital's ~50% stake and is ignored."
+            },
+            "eps": {
+                "v": 2.63,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 472, 'Laba per saham - Dasar'; EPS note PDF p. 553",
+                "basis": "consolidated",
+                "share_basis": "2024-05-17",
+                "note": "Basic EPS as printed, on a weighted average of 29,617,906,029 shares (EPS note PDF p. 553)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780647183367-76902-20260605151303.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 4, summary minutes of the AGMS of 2024-06-21, 'Keputusan Mata Acara Ketiga Rapat': 'Menyetujui untuk tidak membagikan dividen untuk Tahun Buku yang berakhir pada tanggal 31 Desember 2023'",
+                "basis": "consolidated",
+                "note": "No dividend for this fiscal year (profit retained to strengthen capital; the bank still carries an accumulated deficit)."
+            },
+            "total_assets": {
+                "v": 18147.378,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 469, audited Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 10253.225,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 469, Laporan Posisi Keuangan, 'Kredit' related parties 1,381,263 + third parties 8,871,962 (Rp juta), before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans (sum of the two printed lines, before allowance). No sharia financing."
+            },
+            "deposits": {
+                "v": 13402.451,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 470, Laporan Posisi Keuangan, 'Simpanan' - 'Jumlah' (related + third parties 1,991,844 + 11,410,607 Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro, tabungan, deposito); excludes 'Simpanan dari bank lain'."
+            },
+            "equity_attr": {
+                "v": 3587.434,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 470, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Bank has no subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3587.434,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 470, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 33765744021,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 470, equity section 'Modal ditempatkan dan disetor penuh' (series A + series B)",
+                "basis": "n/a",
+                "share_basis": "2024-05-17",
+                "note": "Series A 22,052,950,928 + series B 11,712,793,093 (AR2024 PDF p. 554 reconciliation: +73,273 Warrant IV, +1,538,000,000 PUT IX additional shares, +6,580,792 PUT X). The other 10,693,253,333 PUT X shares were paid by 29 Dec 2023 out of capital advances (Rp801,993m booked in additional paid-in capital) and became shares on 2 Jan 2024. No treasury shares."
+            },
+            "year_end_price": {
+                "v": 65,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 17, Ikhtisar Saham, 2023 'Triwulan IV/4th Quarter' 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-05-17",
+                "note": "Q4-2023 close as printed (same in AR2024 PDF p. 14). The chart on the same page is drawn at about Rp75 for December; the AR prints no monthly table for 2023. Check against the price series."
+            },
+            "roe": {
+                "v": 2.5,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar 'Rasio Keuangan' table, 2023 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported; low because the bank earns little on ~Rp3tn of capital."
+            },
+            "roa": {
+                "v": 0.71,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar 'Rasio Keuangan' table, 2023 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 4.15,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar 'Rasio Keuangan' table, 2023 column, 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no cost-of-credit ratio in the AR2023 ratio table (PDF p. 14), MD&A or the OJK published report; the bank publishes no analyst presentation."
+            },
+            "npl_gross": {
+                "v": 3.96,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar 'Rasio Keuangan' table, 2023 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 2.63,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar 'Rasio Keuangan' table, 2023 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no Loan-at-Risk ratio in AR2023 (ratio table PDF p. 14, MD&A); the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2023: the AR2023 ratio table (PDF p. 14) prints only 'CKPN Aset Keuangan terhadap Aset Produktif'; no CKPN/NPL coverage ratio anywhere in the AR."
+            },
+            "ldr": {
+                "v": 75.68,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar 'Rasio Keuangan' table, 2023 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 31,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar 'Rasio Keuangan' table, 2023 column, 'KPMM dengan Memperhitungkan Risiko Kredit, Risiko Operasional dan Risiko Pasar'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 74.98,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 9, 'Rasio Keuangan' five-year table, 'CIR', 2023 column",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed; AR2025 is the first AR that prints CIR (matches the Dec 2025 published report: 77.62 / 83.74 for 2025 / 2024)."
+            },
+            "bopo": {
+                "v": 92.73,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, Ikhtisar 'Rasio Keuangan' table, 2023 column, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 21.87,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 133, MD&A 'Dana Pihak Ketiga' table, 'Rasio CASA | CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Same figure in AR2023 PDF p. 39 text and AR2024 PDF p. 134."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 74.85,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 479, audited Laporan Laba Rugi, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners (no subsidiaries). The AR highlight tables (e.g. AR2025 PDF p. 8, AR2020 PDF p. 10) print an 'attributable to owners / to non-controlling interests' split that does not exist in the audited statements; it mirrors the parent MNC Kapital's ~50% stake and is ignored."
+            },
+            "eps": {
+                "v": 1.85,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 479, 'Laba per saham - Dasar'; EPS note PDF p. 563",
+                "basis": "consolidated",
+                "share_basis": "2025-05-22",
+                "note": "Basic EPS as printed, on a weighted average of 40,399,049,115 shares (EPS note PDF p. 563)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780646618596-79107-20260605150338.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 4, summary minutes of the AGMS of 2025-06-25, 'Keputusan Mata Acara Ketiga Rapat': 'Menyetujui untuk tidak membagikan dividen untuk Tahun Buku yang berakhir pada tanggal 31 Desember 2024'",
+                "basis": "consolidated",
+                "note": "No dividend for this fiscal year (profit retained to strengthen capital; the bank still carries an accumulated deficit)."
+            },
+            "total_assets": {
+                "v": 20871.409,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 476, audited Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 11239.586,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 476, Laporan Posisi Keuangan, 'Kredit' related parties 1,170,923 + third parties 10,068,663 (Rp juta), before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans (sum of the two printed lines, before allowance). No sharia financing."
+            },
+            "deposits": {
+                "v": 14430.646,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 477, Laporan Posisi Keuangan, 'Simpanan' - 'Jumlah' (related + third parties 1,327,297 + 13,103,349 Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro, tabungan, deposito); excludes 'Simpanan dari bank lain'."
+            },
+            "equity_attr": {
+                "v": 3661.12,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 477, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Bank has no subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3661.12,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 477, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 44458997354,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 477, equity section 'Modal ditempatkan dan disetor penuh' (series A + series B)",
+                "basis": "n/a",
+                "share_basis": "2025-05-22",
+                "note": "Series A 22,052,950,928 + series B 22,406,046,426 (Note 25, AR2024 PDF p. 553). No treasury shares."
+            },
+            "year_end_price": {
+                "v": 54,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 14, 'Transaksi Saham' monthly table, 'Desember | December' 'Penutupan' 54 (market cap Rp2,377bn)",
+                "basis": "n/a",
+                "share_basis": "2025-05-22",
+                "note": "December 2024 close from the AR's monthly table. The quarterly table on the same page prints 'Triwulan IV' close 71, which is the OCTOBER row (high 75, low 51, close 71, market cap 3,125 = the October line); AR2025 PDF p. 12 repeats 71 as Q4-2024. The monthly December close is the last-trading-day figure."
+            },
+            "roe": {
+                "v": 2.28,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 11, Ikhtisar 'Rasio Keuangan' table, 2024 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported; low because the bank earns little on ~Rp3tn of capital."
+            },
+            "roa": {
+                "v": 0.5,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 11, Ikhtisar 'Rasio Keuangan' table, 2024 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 3.3,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 11, Ikhtisar 'Rasio Keuangan' table, 2024 column, 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no cost-of-credit ratio in the AR2024 ratio table (PDF p. 11), MD&A or the OJK published report; the bank publishes no analyst presentation."
+            },
+            "npl_gross": {
+                "v": 3.9,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 11, Ikhtisar 'Rasio Keuangan' table, 2024 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 2.5,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 11, Ikhtisar 'Rasio Keuangan' table, 2024 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no Loan-at-Risk ratio in AR2024 (ratio table PDF p. 11, MD&A); the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2024: the AR2024 ratio table (PDF p. 11) prints only 'CKPN Aset Keuangan terhadap Aset Produktif'; no CKPN/NPL coverage ratio anywhere in the AR."
+            },
+            "ldr": {
+                "v": 77.57,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 11, Ikhtisar 'Rasio Keuangan' table, 2024 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 24.53,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 11, Ikhtisar 'Rasio Keuangan' table, 2024 column, 'KPMM dengan Memperhitungkan Risiko Kredit, Risiko Operasional dan Risiko Pasar'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 83.74,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 9, 'Rasio Keuangan' five-year table, 'CIR', 2024 column",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed; AR2025 is the first AR that prints CIR (matches the Dec 2025 published report: 77.62 / 83.74 for 2025 / 2024)."
+            },
+            "bopo": {
+                "v": 95.02,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 11, Ikhtisar 'Rasio Keuangan' table, 2024 column, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 20.64,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 134, MD&A 'Dana Pihak Ketiga' table, 'Rasio CASA | CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Same figure in AR2024 PDF p. 40 text and AR2025 PDF p. 133."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 81.775,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 501, audited Laporan Laba Rugi, 'Laba bersih tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners (no subsidiaries). The AR highlight tables (e.g. AR2025 PDF p. 8, AR2020 PDF p. 10) print an 'attributable to owners / to non-controlling interests' split that does not exist in the audited statements; it mirrors the parent MNC Kapital's ~50% stake and is ignored."
+            },
+            "eps": {
+                "v": 1.84,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 501, 'Laba per saham - Dasar'; EPS note PDF p. 583",
+                "basis": "consolidated",
+                "share_basis": "2026-05-19",
+                "note": "Basic EPS as printed, on a weighted average of 44,458,997,354 shares (EPS note PDF p. 583)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1782349707832-34588-20260625080827.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 4, summary minutes of the AGMS of 2026-06-22, 'Keputusan Mata Acara Ketiga Rapat': 'Menyetujui untuk tidak membagikan dividen untuk Tahun Buku yang berakhir pada tanggal 31 Desember 2025'",
+                "basis": "consolidated",
+                "note": "No dividend for this fiscal year (profit retained to strengthen capital; the bank still carries an accumulated deficit)."
+            },
+            "total_assets": {
+                "v": 20272.635,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 498, audited Laporan Posisi Keuangan, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 11613.498,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 498, Laporan Posisi Keuangan, 'Kredit' related parties 1,038,190 + third parties 10,575,308 (Rp juta), before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans (sum of the two printed lines, before allowance). No sharia financing."
+            },
+            "deposits": {
+                "v": 14686.944,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 499, Laporan Posisi Keuangan, 'Simpanan' - 'Jumlah' (related + third parties 1,186,614 + 13,500,330 Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro, tabungan, deposito); excludes 'Simpanan dari bank lain'."
+            },
+            "equity_attr": {
+                "v": 3750.632,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 499, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Bank has no subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3750.632,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 499, Laporan Posisi Keuangan, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 44458997354,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 499, equity section 'Modal ditempatkan dan disetor penuh' (series A + series B)",
+                "basis": "n/a",
+                "share_basis": "2026-05-19",
+                "note": "Series A 22,052,950,928 + series B 22,406,046,426 (Note 25). No shares issued in 2025 (AR2025 PDF pp. 13, 86). No treasury shares."
+            },
+            "year_end_price": {
+                "v": 56,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 12, 'Transaksi Saham' monthly table, 'Desember | December' 'Penutupan' 56 (market cap Rp5,338,260,100 as printed)",
+                "basis": "n/a",
+                "share_basis": "2026-05-19",
+                "note": "December 2025 close from the AR's monthly table. The quarterly table on the same page prints 'Triwulan IV' close 58 (= the October close; its volume 135,515,400 is November's). The monthly December close is the last-trading-day figure."
+            },
+            "roe": {
+                "v": 2.51,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 9, Ikhtisar 'Rasio Keuangan' table, 2025 column, 'ROE'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit after tax / average Tier 1 capital), as reported; low because the bank earns little on ~Rp3tn of capital."
+            },
+            "roa": {
+                "v": 0.52,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 9, Ikhtisar 'Rasio Keuangan' table, 2025 column, 'ROA'",
+                "basis": "bank_only",
+                "note": "OJK definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 3.15,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 9, Ikhtisar 'Rasio Keuangan' table, 2025 column, 'NIM'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no cost-of-credit ratio in the AR2025 ratio table (PDF p. 9), MD&A or the OJK published report; the bank publishes no analyst presentation."
+            },
+            "npl_gross": {
+                "v": 2.99,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 9, Ikhtisar 'Rasio Keuangan' table, 2025 column, 'NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 2.08,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 9, Ikhtisar 'Rasio Keuangan' table, 2025 column, 'NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no Loan-at-Risk ratio in AR2025 (ratio table PDF p. 9, MD&A); the OJK publication adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2025: the AR2025 ratio table (PDF p. 9) prints only 'CKPN Aset Keuangan terhadap Aset Produktif'; no CKPN/NPL coverage ratio anywhere in the AR."
+            },
+            "ldr": {
+                "v": 78.71,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 9, Ikhtisar 'Rasio Keuangan' table, 2025 column, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 24.66,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 9, Ikhtisar 'Rasio Keuangan' table, 2025 column, 'KPMM dengan Memperhitungkan Risiko Kredit, Risiko Operasional dan Risiko Pasar'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 77.62,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 9, 'Rasio Keuangan' five-year table, 'CIR', 2025 column",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed; AR2025 is the first AR that prints CIR (matches the Dec 2025 published report: 77.62 / 83.74 for 2025 / 2024)."
+            },
+            "bopo": {
+                "v": 94.63,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 9, Ikhtisar 'Rasio Keuangan' table, 2025 column, 'BOPO'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 19.8,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1780394673506-83454-20260602170433.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 133, MD&A 'Dana Pihak Ketiga' table, 'Rasio CASA | CASA Ratio'",
+                "basis": "bank_only",
+                "note": "Equals (Giro 1,133,586 + Tabungan 1,774,543) / DPK 14,686,944 in the Dec 2025 published report."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 46.635,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), Laporan Laba Rugi, 'LABA (RUGI) BERSIH TAHUN BERJALAN', 30 Sep 2026 column (Rp juta 46,635)",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2026, unaudited; down 22.8% YoY. Basic EPS printed 1.05."
+            },
+            "profit_ytd_prior": {
+                "v": 60.394,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), Laporan Laba Rugi, 30 Sep 2025 comparative column",
+                "basis": "consolidated",
+                "note": "Same figure in the 30 Sep 2025 published report (https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1773678391732-88355-20260316232631.pdf)."
+            },
+            "equity_attr": {
+                "v": 3810.135,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), Laporan Posisi Keuangan, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN'",
+                "basis": "consolidated",
+                "note": "No subsidiaries / minority interest (line 15 '-')."
+            },
+            "shares_out": {
+                "v": 44458997354,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1785407720549-34508-20260730173520.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "Interim FS 30 Jun 2026 (unaudited), PDF p. 78, Note 26 'Modal Saham' ownership table, 'Jumlah' 44,458,997,354",
+                "basis": "n/a",
+                "share_basis": "2026-06-30",
+                "note": "Latest share count printed by the bank (series A 22,052,950,928 + series B 22,406,046,426, PDF p. 5). The 30 Sep 2026 published report shows paid-up capital unchanged at Rp3,325,597m, i.e. no new shares in Q3 2026. No treasury shares."
+            },
+            "total_assets": {
+                "v": 18786.689,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), Laporan Posisi Keuangan, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Down from 20,272.6bn at Dec 2025 and 21,681.6bn at Jun 2026 (deposit run-off in Q3 2026, see deposits)."
+            },
+            "loans_gross": {
+                "v": 12019.583,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), Laporan Posisi Keuangan, '9. Kredit yang diberikan' (allowance shown separately in line 13)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 11089.209,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1773678391732-88355-20260316232631.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2025 (single page), Laporan Posisi Keuangan, '9. Kredit yang diberikan', 30 Sep 2025 column",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 11322.929,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), Laporan Posisi Keuangan, liabilities lines 1-3: Giro 1,201,499 + Tabungan 1,618,320 + Deposito 8,503,110 (Rp juta; 'Uang Elektronik' nil)",
+                "basis": "consolidated",
+                "note": "Customer deposits fell 3.36tn (-22.9%) from 14,686.9bn at Dec 2025, almost all time deposits (11,778.8bn -> 8,503.1bn); the cash-flow statement in the same report shows 'Simpanan' -3,364,015. Real, not a unit slip."
+            },
+            "deposits_prior": {
+                "v": 13662.782,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1773678391732-88355-20260316232631.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2025 (single page), Laporan Posisi Keuangan, Giro 795,618 + Tabungan 1,626,544 + Deposito 11,240,620 (Rp juta), 30 Sep 2025 column",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 1.96,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), 'LAPORAN RASIO KEUANGAN', 30 Sep 2026 column, '9. Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Annualised, OJK definition. 30 Sep 2025: 2.48."
+            },
+            "roa": {
+                "v": 0.38,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), 'LAPORAN RASIO KEUANGAN', 30 Sep 2026 column, '8. Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "Annualised, OJK definition (pre-tax). 30 Sep 2025: 0.51."
+            },
+            "nim": {
+                "v": 2.78,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), 'LAPORAN RASIO KEUANGAN', 30 Sep 2026 column, '10. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 3.20."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the 30 Sep 2026 published report has no cost-of-credit ratio; no interim analyst material is published."
+            },
+            "npl_gross": {
+                "v": 4.64,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), 'LAPORAN RASIO KEUANGAN', 30 Sep 2026 column, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 4.00; Dec 2025: 2.99."
+            },
+            "lar": {
+                "v": 34.84,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), 'LAPORAN RASIO KEUANGAN', 30 Sep 2026 column, '7. Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "OJK 'Kredit Kualitas Rendah' (special mention + restructured current + NPL), the regulator's LaR-type measure, first printed in 2026 reports; 30 Sep 2025 comparative 24.41."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: the published report prints CKPN and NPL amounts but no coverage ratio (not computed here)."
+            },
+            "ldr": {
+                "v": 105.83,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), 'LAPORAN RASIO KEUANGAN', 30 Sep 2026 column, '13. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Real: loans grew to 12.0tn while deposits fell to 11.3tn (30 Sep 2025: 80.87; Dec 2025: 78.71)."
+            },
+            "car": {
+                "v": 20.68,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), 'LAPORAN RASIO KEUANGAN', 30 Sep 2026 column, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 24.50. CET1 = Tier 1 = 20.04% (KPMM table)."
+            },
+            "cir": {
+                "v": 85.81,
+                "source_url": "https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1793245692823-37729-20261029104812.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Keuangan Publikasi Triwulanan 30 Sep 2026 (single page, published 30 Oct 2026), 'LAPORAN RASIO KEUANGAN', 30 Sep 2026 column, '12. Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 77.80. BOPO 95.96 (30 Sep 2025: 94.49)."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the 30 Sep 2026 published report (components only: Giro 1,201,499 + Tabungan 1,618,320 of DPK 11,322,929 Rp juta); the bank prints its CASA ratio only in the AR."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "Rights issue PUT VIII (Sep 2021, +1,010,030,006 shares) and Warrant IV/V exercises (+3,068,898,401 shares during 2021) raised the count from 25.33bn to 29.41bn: FY2021 basic EPS Rp0.49 is on a weighted average of 26,254,325,649 shares (AR2021 PDF p. 503, EPS note; https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292109615-46748-20260404154149.pdf). 0.49 x 26,254m = Rp12.9bn = reported profit Rp12,868m; FY-end shares 29,412,224,720."
+        },
+        {
+            "check": "eps_shares:2022",
+            "reason": "PMTHMETD (31 Jan 2022, +1,969,696,969 shares), Warrant V exercises and PUT IX (Dec 2022, +779,631,458) took shares to 32,221,089,956; FY2022 basic EPS Rp1.87 is on the weighted average of 28,071,267,485 shares printed in the EPS note (AR2022 PDF p. 546; https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292706195-7235-20260404155146.pdf): 1.87 x 28,071m = Rp52.5bn = reported profit. The printed weighted average looks low against the share history but is stored as reported."
+        },
+        {
+            "check": "eps_shares:2023",
+            "reason": "FY2023 basic EPS Rp2.63 is on the weighted average of 29,617,906,029 shares printed in the EPS note (AR2023 PDF p. 553; https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292075034-20129-20260404154115.pdf): 2.63 x 29,618m = Rp77.9bn = reported profit Rp77,916m. FY-end registered shares are 33,765,744,021 (1,538,000,000 PUT IX shares became shares on 4 Jan 2023). The bank's weighted average is below the year's actual share count; stored as reported."
+        },
+        {
+            "check": "eps_shares:2024",
+            "reason": "FY2024 basic EPS Rp1.85 is on the weighted average of 40,399,049,115 shares printed in the EPS note (AR2024 PDF p. 563; https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775292058182-4962-20260404154058.pdf): 1.85 x 40,399m = Rp74.7bn = reported profit Rp74,850m. FY-end shares 44,458,997,354 after the 10,693,253,333 PUT X shares that became effective on 2 Jan 2024 (AR2024 PDF p. 554). The printed weighted average is lower than the shares in issue all year (AR2025 restates nothing; its 2025 note uses 44,458,997,354); stored as reported."
+        },
+        {
+            "check": "price_year_end:2021",
+            "reason": "AR2021 PDF p. 15 prints a Q4-2021 close of Rp228 while the chart on the same page shows about Rp180; the last 2021 session (30 Dec 2021) closed at Rp186. The MNC Bank annual-report share tables are internally inconsistent (quarterly Q4 rows that equal October figures, market caps that do not reconcile with the prices; see research_notes). The price source series un-scales to whole rupiah on the IDX tick grid throughout and reconciles every rights issue. Neither source is edited: fundamentals keep the AR value as printed."
+        },
+        {
+            "check": "price_year_end:2022",
+            "reason": "AR2022 PDF p. 16 prints a Q4-2022 close of Rp119 while the chart on the same page shows about Rp100; the last 2022 session (30 Dec 2022) closed at Rp101. The MNC Bank annual-report share tables are internally inconsistent (quarterly Q4 rows that equal October figures, market caps that do not reconcile with the prices; see research_notes). The price source series un-scales to whole rupiah on the IDX tick grid throughout and reconciles every rights issue. Neither source is edited: fundamentals keep the AR value as printed."
+        },
+        {
+            "check": "price_year_end:2023",
+            "reason": "AR2023 PDF p. 17 prints a Q4-2023 close of Rp65 (its chart shows about Rp75); the last 2023 session (29 Dec 2023) closed at Rp60. The MNC Bank annual-report share tables are internally inconsistent (quarterly Q4 rows that equal October figures, market caps that do not reconcile with the prices; see research_notes). The price source series un-scales to whole rupiah on the IDX tick grid throughout and reconciles every rights issue. Neither source is edited: fundamentals keep the AR value as printed."
+        },
+        {
+            "check": "price_year_end:2025",
+            "reason": "AR2025 PDF p. 12 monthly table prints a December 2025 close of Rp56; the last 2025 session (30 Dec 2025) closed at Rp55. The MNC Bank annual-report share tables are internally inconsistent (quarterly Q4 rows that equal October figures, market caps that do not reconcile with the prices; see research_notes). The price source series un-scales to whole rupiah on the IDX tick grid throughout and reconciles every rights issue. Neither source is edited: fundamentals keep the AR value as printed."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: the bank's site moved to a Next.js front end on https://mncbank.co.id in 2026 (https://www.mncbank.co.id now serves a bare 'Test Page' and the old /uploads/files/ links 404). Document lists were read from the site's own public API (https://webapi.mncbank.co.id/api/v1/public/financial-reports and /pages/by-slug/<slug>); every PDF was fetched with plain curl from https://webapi.mncbank.co.id/public/uploads/file-manager/general/... on 2026-11-03, no bot challenge. idx.co.id answers 403 and was not used. The four rights-issue schedules come from KSEI notices fetched directly from web.ksei.co.id (the bank's PUT VII-X prospectus links are dead and not archived).",
+        "TWO WRONG FILES ON THE BANK'S IR PAGE: (1) the 'Laporan Tahunan 2020' card serves the 2013 annual report of PT Bank ICB Bumiputera Tbk; the real AR2020 was taken from the Internet Archive copy of the bank's former URL https://mncbank.co.id/uploads/files/ANNUAL_REPORT_MNC_BANK_2020_web.pdf (snapshot 20220121103023). (2) every 'Laporan Keuangan Konsolidasian' (Dec 2023, Dec 2024, Dec 2025, Jun 2026...) on the bank's financial-report page is the consolidated FS of the PARENT PT MNC Kapital Indonesia Tbk (BCAP; total assets Rp29.0tn at Dec 2025). None of them is used; all FY figures come from the bank's own audited statements bound into each year's AR.",
+        "ENTITY / BASIS: PT Bank MNC Internasional Tbk (ex PT Bank ICB Bumiputera Tbk, renamed 2014; controlled by PT MNC Kapital Indonesia Tbk, 49.83% at 30 Jun 2026; Winfly Ltd 23.44%) has no subsidiaries or associates (AR2025 PDF p. 87). Its audited statements are single-entity; money fields carry basis 'consolidated' (validator rule, as for BBYB/MEGA), ratios 'bank_only' as printed (OJK definitions). equity_attr = total_equity. The AR highlight tables print a split of profit/comprehensive income between 'owners' and 'non-controlling interests' (AR2025 PDF p. 8: 40,748 / 41,027 for 2025) that has no basis in the audited statements - it mirrors the parent's ~50% stake - and is ignored. Auditor: KAP Kanaka Puradiredja, Suhartono (Nexia) since 2018.",
+        "UNITS: all FY2019-FY2025 audited statements and the 2025-2026 published reports are in Rp juta (divided by 1,000). loans_gross = related-party + third-party 'Kredit' lines before allowance; deposits = 'Simpanan' (customer deposits, excludes interbank). No restatement of any total between consecutive ARs (each AR's prior-year column equals the previous AR).",
+        "SHARES: two classes trade under BABP - series A (nominal Rp100) and series B (nominal Rp50, issued since the Apr 2019 PMTHMETD); counts add both. Share changes 2019-2026: PMTHMETD 12 Apr 2019 +1,640,000,000 @Rp50; PUT VII Dec 2019 +1,908,236,258; Warrant IV/V exercises 2020-2023; PUT VIII Sep 2021 +1,010,030,006; PMTHMETD 31 Jan 2022 +1,969,696,969 @Rp165; PUT IX Dec 2022/Jan 2023 +2,317,631,458; PUT X Dec 2023/Jan 2024 +10,699,834,125. The two private placements (non-pre-emptive) are not corporate-action types in the schema and are recorded here only. The EGMS of 21 Jun 2024 approved a further PMTHMETD of up to 4,445,899,735 shares (disclosure 15 May / 19 Jun 2024), but the share count is unchanged at 44,458,997,354 through 30 Jun 2026 (no issue made). No split, reverse split or bonus issue since listing (AR2025 PDF pp. 13, 86).",
+        "NO DIVIDENDS: the AGMS of every year 2020-2026 resolved not to distribute a dividend for FY2019-FY2025 (summary minutes cited in each payout_ratio); the bank still had an accumulated deficit of Rp536bn at Dec 2025. dividends is therefore empty and payout_ratio is 0 for FY2020-FY2025.",
+        "YEAR-END PRICES ARE DOUBTFUL - REVIEW AGAINST THE PRICE SERIES: the AR share-price tables are internally inconsistent. AR2024 and AR2025 print a monthly table whose December close (54 and 56) differs from the 'Triwulan IV' row of the quarterly table (71 and 58), which is in fact the October row; the monthly December closes are stored. AR2019-AR2023 print only quarterly tables (Q4 close 50, 50, 228, 119, 65) plus a closing-price chart that disagrees with the tables (Dec 2021 ~180, Dec 2022 ~100, Dec 2023 ~75; the 2022 chart is re-used unchanged in AR2023). The Q4 2021/2022 market caps also do not reconcile with year-end share counts. The table values are stored as printed with these doubts in each note; no official alternative (IDX is blocked) was available. FY2019/2020 at the Rp50 floor are low-risk.",
+        "RIGHTS ISSUES: four between 2019 and today - PUT VII (ex 2 Dec 2019, 6:1 @Rp50 + Warrant V), PUT VIII (ex 9 Sep 2021, 2:1 @Rp318), PUT IX (ex 9 Dec 2022, 10:3 @Rp130), PUT X (ex 14 Dec 2023, 5:2 @Rp75). PUT VII went ex BEFORE the FY2019 close, so the closest pre-ex annual-report close is FY2018 (Rp50, printed in AR2019 PDF p. 15; not storable in this schema). Each was heavily under-subscribed except PUT X, which was carried by capital advances from the main shareholders.",
+        "NOBU MERGER (news only, no bank filing found): from early 2023 OJK and the two banks talked about merging MNC Bank with PT Bank Nationalnobu Tbk (NOBU, Lippo) so the combined bank would reach KBMI 2; the target (Aug 2023, then mid-2024) slipped repeatedly. In Aug 2025 the cross-holdings were unwound in negotiated-market trades: Lippo's PT Prima Cakrawala Sentosa sold its 4,445,000,000 BABP series B shares (10.00%) to MNC Kapital (MNC Kapital's series B went 8,371,266,466 -> 12,816,266,466 between AR2024 PDF p. 553 and the Jun 2026 FS PDF p. 78) and MNC Land sold its NOBU stake. On 22-23 Nov 2025 OJK (Dian Ediana Rae) said the merger plan was cancelled and asked both owners to keep strengthening capital (Bisnis.com https://finansial.bisnis.com/read/20251122/90/1930838/fix-ojk-ungkap-merger-nobu-mnc-bank-babp-resmi-batal ; Kontan https://keuangan.kontan.co.id/news/merger-bank-nobu-dan-mnc-bank-batal-ojk-minta-perkuat-struktur-permodalan). AR2024/AR2025 (PDF p. 162/161) report no merger, acquisition or restructuring activity.",
+        "RATIO SOURCES: CAR, NPL gross/net, ROA, ROE, NIM, BOPO and LDR come from each year's own AR 'Rasio Keuangan' table (FY2025 values match the Dec 2025 OJK published report). AR2020-AR2022 label the liquidity ratio 'Loan to Funding Ratio (LFR)'; AR2023+ print the same numbers as LDR (no bonds issued, so the two coincide). CIR exists only from AR2025's five-year table (2021-2025); FY2020 CIR is null. CASA from the MD&A third-party-funds tables ((giro + tabungan) / DPK). Cost of credit, LAR and NPL coverage are not disclosed anywhere for FY2020-FY2025 (null); the 9M2026 'lar' is the OJK 'Kredit Kualitas Rendah' line.",
+        "2023 BALANCE-SHEET CHANGE: fixed assets jumped from Rp31.7bn (2022) to Rp1,001.7bn (2023) because the bank bought the land and MNC Bank Tower (ex MNC Financial Center, Jl. Kebon Sirih 21-27) from affiliates PT MNC Land Tbk and PT Global Mediacom Tbk for Rp801bn on 23 May 2023 (material/affiliated-transaction disclosure of 7 Jun 2023, https://webapi.mncbank.co.id/public/uploads/file-manager/general/fm-1775313294296-88764-20260404213454.pdf); funded around the same time as the PUT X capital advances. Not a restatement.",
+        "2026 IS DETERIORATING (real, not unit slips): 9M2026 profit Rp46.6bn (-22.8% YoY); customer deposits fell from Rp14.69tn (Dec 2025) to Rp11.32tn (Sep 2026), mostly time deposits, so LDR jumped to 105.83% and total assets dropped to Rp18.79tn; NPL gross 4.64%, KKR 34.84%, CAR 20.68%."
+    ]
+}
