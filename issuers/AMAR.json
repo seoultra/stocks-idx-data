@@ -1,0 +1,1527 @@
+{
+    "schema": 1,
+    "code": "AMAR",
+    "name": "PT Bank Amar Indonesia Tbk",
+    "name_short": "Amar Bank",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://amarbank.co.id",
+    "ir_url": "https://amarbank.co.id/investor-relation",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF p. 77 (printed pp. 152-153), MD&A 'Kinerja Keuangan' table benchmarking Bank Amar against 'KBMI 1'; Tier 1 capital Rp3,427,297 million at 31 Dec 2025 in the Dec-2025 published report PDF p. 8 (https://storage.googleapis.com/amarbank-new/prod/document/7201a6b5bcecae408b9e6ef91864d09e40bbac63_1774830180.pdf)",
+        "note": "Derived from the regulation, not stated in one sentence: the bank benchmarks itself against the KBMI 1 peer group (AR2025 p. 77; AR2024 PDF p. 143) and wins awards in the 'KBMI 1' category (AR2024 PDF p. 9), and its Tier 1 capital of Rp3.43tn is below the Rp6tn KBMI 1 ceiling (POJK 12/POJK.03/2021)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 3452.51547,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_Indonesia_FS_31122019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6 (FS p. -1-), Statement of financial position, 'Total aset / Jumlah aset' (Rp thousand)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 2051.558717,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_Indonesia_FS_31122019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 42 (FS p. -37-), Note 10a 'Jenis Pinjaman' Jumlah (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment (related + third parties). All loans are rupiah; the bank has no sharia business."
+            },
+            "deposits": {
+                "v": 1831.162119,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_Indonesia_FS_31122019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7 (FS p. -2-), Statement of financial position, 'Simpanan - Total/Jumlah' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "'Simpanan' total (current accounts + savings + time deposits; excludes 'Simpanan dari bank lain')."
+            },
+            "equity_attr": {
+                "v": 1078.408044,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_Indonesia_FS_31122019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7 (FS p. -2-), Statement of financial position, 'Total/Jumlah ekuitas' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "The bank has no subsidiaries (stand-alone FS, 'Laporan keuangan'), so equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1078.408044,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_Indonesia_FS_31122019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7 (FS p. -2-), Statement of financial position, 'Total/Jumlah ekuitas' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Pre-IPO balance sheet (AMAR listed 9 Jan 2020)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "No price: AMAR was not listed until 9 Jan 2020 (IPO; FS2025 Note 1b, PDF p. 24). No rights/bonus issue before 2020-12-31, so no FY2019 close is needed by the price fetcher."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 8.586126,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/bank_amar_indonesia_billingual_31_des_2020_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (FS p. 3), Statement of profit or loss, 'Laba (rugi) bersih tahun berjalan' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Stand-alone FS (no subsidiaries): net profit = profit attributable to owners."
+            },
+            "eps": {
+                "v": 1.07,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/bank_amar_indonesia_billingual_31_des_2020_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10 (FS p. 4), 'Laba per saham - Dasar/Dilusian'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AR_2021_-_Website.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 20 (printed p. 18), Ikhtisar Dividen",
+                "basis": "n/a",
+                "note": "No dividend out of FY2020 profit: AGMS 25 Aug 2021 put Rp25 million to the statutory reserve and kept the rest as retained earnings. AR2024 PDF p. 298 lists FY2020 as a no-dividend year."
+            },
+            "total_assets": {
+                "v": 4057.988611,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/bank_amar_indonesia_billingual_31_des_2020_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7 (FS p. 1), Statement of financial position, 'Total aset / Jumlah aset' (Rp thousand)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1715.508593,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/bank_amar_indonesia_billingual_31_des_2020_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 67, Note 11a 'Jenis Pinjaman' Jumlah (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment (related + third parties). All loans are rupiah; the bank has no sharia business."
+            },
+            "deposits": {
+                "v": 2294.835438,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/bank_amar_indonesia_billingual_31_des_2020_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (FS p. 2), Statement of financial position, 'Simpanan - Total/Jumlah' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "'Simpanan' total (current accounts + savings + time deposits; excludes 'Simpanan dari bank lain')."
+            },
+            "equity_attr": {
+                "v": 1067.030775,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/bank_amar_indonesia_billingual_31_des_2020_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "The bank has no subsidiaries (stand-alone FS, 'Laporan keuangan'), so equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1067.030775,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/bank_amar_indonesia_billingual_31_des_2020_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp thousand)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 8035100000,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/bank_amar_indonesia_billingual_31_des_2020_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (FS p. 2), 'Modal ditempatkan dan disetor penuh - 8.035.100.000 saham'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 288,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_AR_2020_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 20 (printed p. 18), Kinerja Saham 2020, Kuartal IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split/reverse split since listing, so any share_basis date gives factor 1. Later ARs repeat the same close."
+            },
+            "roe": {
+                "v": 0.81,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_AR_2020_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 18 (printed p. 16), Ikhtisar Keuangan - 'Rasio Keuangan', 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (formula not printed). Same in the Dec-2020 published report ('Rasio Kinerja' table) and AR2021 PDF p. 18."
+            },
+            "roa": {
+                "v": 0.74,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_AR_2020_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 18 (printed p. 16), Ikhtisar Keuangan - 'Rasio Keuangan', 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (pre-tax, formula not printed). Same in the Dec-2020 published report ('Rasio Kinerja' table) and AR2021 PDF p. 18."
+            },
+            "nim": {
+                "v": 13.52,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_AR_2020_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 18 (printed p. 16), Ikhtisar Keuangan - 'Rasio Keuangan', 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Same in the Dec-2020 published report ('Rasio Kinerja' table) and AR2021 PDF p. 18."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2020 or AR2025 ratio tables, the Dec-2020 published report ratio page, or the FY deck ratio slide (decks print NIM, BOPO, LDR, NPL, CAR, NSFR, LCR, ROA, ROE only)."
+            },
+            "npl_gross": {
+                "v": 6.93,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_AR_2020_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 18 (printed p. 16), Ikhtisar Keuangan - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bruto (NPL gross)'",
+                "basis": "bank_only",
+                "note": "Same in the Dec-2020 published report ('Rasio Kinerja' table) and AR2021 PDF p. 18."
+            },
+            "npl_net": {
+                "v": 4.8,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_AR_2020_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 18 (printed p. 16), Ikhtisar Keuangan - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bersih (NPL net)'",
+                "basis": "bank_only",
+                "note": "SEOJK 9/2020 definition: (NPL - allowance on NPL) / total loans. Same in the Dec-2020 published report ('Rasio Kinerja' table) and AR2021 PDF p. 18. Under the old definition (NPL - total allowance) the FY2020 figure is 1.50 (same table, line **)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk / 'Kredit Kualitas Rendah' line in AR2020, AR2025, the Dec-2020 published report (the KKR line appears only from the 2026 report format) or the FY deck."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2020/AR2025, the Dec-2020 published report or the FY deck (published reports print only 'CKPN aset keuangan terhadap aset produktif'); not computed here."
+            },
+            "ldr": {
+                "v": 74.32,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_AR_2020_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 18 (printed p. 16), Ikhtisar Keuangan - 'Rasio Keuangan', 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Same in the Dec-2020 published report ('Rasio Kinerja' table) and AR2021 PDF p. 18."
+            },
+            "car": {
+                "v": 45.34,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_AR_2020_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 18 (printed p. 16), Ikhtisar Keuangan - 'Rasio Keuangan', 'KPMM / CAR'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk. Same in the Dec-2020 published report ('Rasio Kinerja' table) and AR2021 PDF p. 18. AR2023 PDF p. 27 and AR2024 PDF p. 21 print 45,43 for FY2020 - a transposition of 45.34 (AR2020, AR2021 and the Dec-2020 published report all print 45.34)."
+            },
+            "cir": {
+                "v": 42.89,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Publikasi_Q4_2020_-_Amar_Bank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Dec-2020 published report (single page), 'Rasio Kinerja' item 12 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "AR2020's ratio table has no CIR line. The Dec-2021 published report prints the same 42,89 as the 2020 comparative."
+            },
+            "bopo": {
+                "v": 96.73,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_AR_2020_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 18 (printed p. 16), Ikhtisar Keuangan - 'Rasio Keuangan', 'BOPO'",
+                "basis": "bank_only",
+                "note": "Same in the Dec-2020 published report ('Rasio Kinerja' table) and AR2021 PDF p. 18."
+            },
+            "casa": {
+                "v": null,
+                "note": "CASA ratio not disclosed for FY2020: AR2020 PDF p. 34 gives only the CASA amount (Rp83.48bn, up from Rp46.29bn) and the Dec-2020 published report and AR ratio tables have no CASA line; not computed here."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 4.115012,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AMAR_Audited_FS_31_Dec_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8 (FS p. 3), Statement of profit or loss, 'Laba (rugi) bersih tahun berjalan' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Stand-alone FS (no subsidiaries): net profit = profit attributable to owners."
+            },
+            "eps": {
+                "v": 0.51,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AMAR_Audited_FS_31_Dec_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9 (FS p. 4), 'Laba per saham - Dasar'; PDF p. 78 Note 23 (8,035,100,000 shares)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "As originally reported. FS2022 restates the FY2021 comparative to 0 (weighted average 9,191m shares, adjusted for the bonus element of the Feb-2022 rights issue)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AR_2022_Final_Compress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 24 (printed p. 22), Ikhtisar Dividen",
+                "basis": "n/a",
+                "note": "No dividend out of FY2021 profit: AGMS 27 Jul 2022 put Rp25 million to the reserve and retained the rest. AR2024 PDF p. 298 lists FY2021 as a no-dividend year."
+            },
+            "total_assets": {
+                "v": 5203.044896,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AMAR_Audited_FS_31_Dec_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6 (FS p. 1), Statement of financial position, 'Total aset / Jumlah aset' (Rp thousand)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 2405.868689,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AMAR_Audited_FS_31_Dec_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 59, Note 11a 'Jenis Pinjaman' Jumlah (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment (related + third parties). All loans are rupiah; the bank has no sharia business."
+            },
+            "deposits": {
+                "v": 3179.598306,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AMAR_Audited_FS_31_Dec_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7 (FS p. 2), Statement of financial position, 'Simpanan - Total/Jumlah' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "'Simpanan' total. Includes Rp1,001,922,971 thousand (about Rp1.0tn) from related parties at 31 Dec 2021, which fell to Rp1,824,163 thousand at end-2022; explains most of the 2022 deposit drop."
+            },
+            "equity_attr": {
+                "v": 1066.584236,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AMAR_Audited_FS_31_Dec_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "The bank has no subsidiaries (stand-alone FS, 'Laporan keuangan'), so equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1066.584236,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AMAR_Audited_FS_31_Dec_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp thousand)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 8035100000,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AMAR_Audited_FS_31_Dec_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7 (FS p. 2), 'Modal ditempatkan dan disetor penuh - 8.035.100.000 saham'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 388,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AR_2021_-_Website.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 19 (printed p. 17), Kinerja Saham 2021, Kuartal IV 'Penutup'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split/reverse split since listing, so any share_basis date gives factor 1. Later ARs repeat the same close."
+            },
+            "roe": {
+                "v": 0.4,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (formula not printed). Identical to the Dec-2022 published report (2021 column, PDF p. 11) and AR2021 PDF p. 18."
+            },
+            "roa": {
+                "v": 0.02,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (pre-tax, formula not printed). Identical to the Dec-2022 published report (2021 column, PDF p. 11) and AR2021 PDF p. 18."
+            },
+            "nim": {
+                "v": 11.8,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Identical to the Dec-2022 published report (2021 column, PDF p. 11) and AR2021 PDF p. 18."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2021 or AR2025 ratio tables, the Dec-2021 published report ratio page, or the FY deck ratio slide (decks print NIM, BOPO, LDR, NPL, CAR, NSFR, LCR, ROA, ROE only)."
+            },
+            "npl_gross": {
+                "v": 6.58,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bruto (NPL gross)'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2022 published report (2021 column, PDF p. 11) and AR2021 PDF p. 18."
+            },
+            "npl_net": {
+                "v": 1.69,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bersih (NPL net)'",
+                "basis": "bank_only",
+                "note": "SEOJK 9/2020 definition: (NPL - allowance on NPL) / total loans. Identical to the Dec-2022 published report (2021 column, PDF p. 11) and AR2021 PDF p. 18."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk / 'Kredit Kualitas Rendah' line in AR2021, AR2025, the Dec-2021 published report (the KKR line appears only from the 2026 report format) or the FY deck."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2021/AR2025, the Dec-2021 published report or the FY deck (published reports print only 'CKPN aset keuangan terhadap aset produktif'); not computed here."
+            },
+            "ldr": {
+                "v": 74.7,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Identical to the Dec-2022 published report (2021 column, PDF p. 11) and AR2021 PDF p. 18."
+            },
+            "car": {
+                "v": 29.85,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'KPMM / CAR'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk. Identical to the Dec-2022 published report (2021 column, PDF p. 11) and AR2021 PDF p. 18."
+            },
+            "cir": {
+                "v": 56.11,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Ratio Biaya terhadap Pendapatan Operasional (CIR)'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2022 published report (2021 column, PDF p. 11) and AR2021 PDF p. 18."
+            },
+            "bopo": {
+                "v": 99.76,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'BOPO'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2022 published report (2021 column, PDF p. 11) and AR2021 PDF p. 18."
+            },
+            "casa": {
+                "v": 35.88,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_Corp_Presentation_Q4_2022_Q1_2023_V.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "FY2022 deck ('Presentasi Perusahaan Tahunan - 2022', Q4 2022 / Q1 2023) PDF p. 19, ratio table, 'CASA' FY'21",
+                "basis": "bank_only",
+                "note": "High because of a Rp1.0tn related-party deposit at end-2021 (see fy.2021.deposits)."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": -155.381289,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/FS_AMAR_2022_Q4_Audited_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16 (FS p. 3), Statement of profit or loss, 'Laba (rugi) bersih tahun berjalan' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Net LOSS year (real): impairment charges of Rp631.7bn while the loan book was repriced; see research_notes."
+            },
+            "eps": {
+                "v": -11.55,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AR_2022_Final_Compress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 20 (printed p. 18), Ikhtisar Keuangan, 'Laba (rugi) per saham'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic loss per share. FS2022 PDF p. 17 prints the same figure rounded to (12) (Note 23, PDF p. 88: loss 155,381,289 / weighted average 13,457 million shares); AR2024/AR2025 repeat (11.55)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_Annual_Report_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2023 PDF p. 32 (printed p. 32), Ikhtisar Dividen; PDF p. 332, AGMS 20 Jun 2023 agenda 2",
+                "basis": "n/a",
+                "note": "Loss year: AGMS 20 Jun 2023 resolved no reserve and no dividend for FY2022."
+            },
+            "total_assets": {
+                "v": 4505.045609,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/FS_AMAR_2022_Q4_Audited_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (FS p. 1), Statement of financial position, 'Total aset / Jumlah aset' (Rp thousand)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 2258.976615,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/FS_AMAR_2022_Q4_Audited_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 67, Note 11a 'Jenis Pinjaman' Total (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment (related + third parties). All loans are rupiah; the bank has no sharia business."
+            },
+            "deposits": {
+                "v": 1006.305923,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/FS_AMAR_2022_Q4_Audited_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (FS p. 2), Statement of financial position, 'Simpanan - Total/Jumlah' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "'Simpanan' total (current accounts + savings + time deposits; excludes 'Simpanan dari bank lain')."
+            },
+            "equity_attr": {
+                "v": 3176.19941,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/FS_AMAR_2022_Q4_Audited_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Same as total equity (no subsidiaries, no NCI). Includes the Rights Issue II capital deposit fund of Rp1,272,660,640 thousand (see total_equity note)."
+            },
+            "total_equity": {
+                "v": 3176.19941,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/FS_AMAR_2022_Q4_Audited_%282%29.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp thousand)",
+                "basis": "consolidated",
+                "note": "Includes a capital deposit fund ('Dana setoran modal') of Rp1,272,660,640 thousand: the Rights Issue II proceeds received in Dec 2022, booked as a deposit because the share issue had not yet been notarised/approved by OJK at 31 Dec 2022 (FS2022 Note 22, PDF pp. 87-88). Reclassified to share capital/APIC in 2023 (FS2023 statement of changes in equity, PDF p. 17)."
+            },
+            "shares_out": {
+                "v": 18381094760,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AR_2022_Final_Compress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 22 (printed p. 20), Kinerja Saham 2022, Q4 'Jumlah Saham Beredar'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Shares listed on IDX at end-2022, incl. the 4,560,722,760 Rights Issue II shares distributed 12-16 Dec 2022 (AR2022 Q4 market cap 4,264bn = 232 x 18.38bn). The audited FS2022 (PDF p. 15) still shows 13,820,372,000 subscribed shares plus a Rp1.27tn capital deposit fund, because the PUT II share issue was notarised/approved by OJK only in 2023. No treasury shares at end-2022."
+            },
+            "year_end_price": {
+                "v": 232,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/AR_2022_Final_Compress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 22 (printed p. 20), Kinerja Saham 2022, Kuartal IV 'Penutup'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split/reverse split since listing, so any share_basis date gives factor 1. Later ARs repeat the same close."
+            },
+            "roe": {
+                "v": -8.4,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (formula not printed). Identical to the Dec-2022 published report (PDF p. 11) and AR2022 PDF p. 20. Negative: FY2022 net loss."
+            },
+            "roa": {
+                "v": -4.75,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (pre-tax, formula not printed). Identical to the Dec-2022 published report (PDF p. 11) and AR2022 PDF p. 20."
+            },
+            "nim": {
+                "v": 15.87,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Identical to the Dec-2022 published report (PDF p. 11) and AR2022 PDF p. 20. Real, not a unit slip: AMAR is a digital lender (Tunaiku unsecured micro/consumer loans) with yields far above conventional banks; above the validator's 15% range."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2022 or AR2025 ratio tables, the Dec-2022 published report ratio page, or the FY deck ratio slide (decks print NIM, BOPO, LDR, NPL, CAR, NSFR, LCR, ROA, ROE only)."
+            },
+            "npl_gross": {
+                "v": 6.09,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bruto (NPL gross)'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2022 published report (PDF p. 11) and AR2022 PDF p. 20."
+            },
+            "npl_net": {
+                "v": 1.67,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bersih (NPL net)'",
+                "basis": "bank_only",
+                "note": "SEOJK 9/2020 definition: (NPL - allowance on NPL) / total loans. Identical to the Dec-2022 published report (PDF p. 11) and AR2022 PDF p. 20."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk / 'Kredit Kualitas Rendah' line in AR2022, AR2025, the Dec-2022 published report (the KKR line appears only from the 2026 report format) or the FY deck."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2022/AR2025, the Dec-2022 published report or the FY deck (published reports print only 'CKPN aset keuangan terhadap aset produktif'); not computed here."
+            },
+            "ldr": {
+                "v": 220.31,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Identical to the Dec-2022 published report (PDF p. 11) and AR2022 PDF p. 20. Real, not a unit slip: above the validator's 160% range because loans are funded mainly by equity and a small deposit base (deposits Rp0.7-1.1tn in 2022-2024)."
+            },
+            "car": {
+                "v": 82.52,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'KPMM / CAR'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk. Identical to the Dec-2022 published report (PDF p. 11) and AR2022 PDF p. 20. Real, not a unit slip: above the validator's 80% range because the bank holds Rp3.3-3.4tn of equity against a Rp2.3-4.0tn loan book after the 2022 rights issues."
+            },
+            "cir": {
+                "v": 53.62,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Ratio Biaya terhadap Pendapatan Operasional (CIR)'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2022 published report (PDF p. 11) and AR2022 PDF p. 20."
+            },
+            "bopo": {
+                "v": 119.36,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'BOPO'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2022 published report (PDF p. 11) and AR2022 PDF p. 20."
+            },
+            "casa": {
+                "v": 17.53,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_Corp_Presentation_Q4_2022_Q1_2023_V.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "FY2022 deck ('Presentasi Perusahaan Tahunan - 2022', Q4 2022 / Q1 2023) PDF p. 19, ratio table, 'CASA' FY'22",
+                "basis": "bank_only"
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 177.972,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_FS_Dec_23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (FS p. 3), Statement of profit or loss, 'Laba (rugi) bersih tahun berjalan' (Rp million)",
+                "basis": "consolidated",
+                "note": "Stand-alone FS (no subsidiaries): net profit = profit attributable to owners."
+            },
+            "eps": {
+                "v": 11,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_FS_Dec_23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16 (FS p. 4), 'Laba per saham - Dasar'; PDF p. 90 Note 23 (weighted average 16,226 million shares)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Weighted average (16,226m) is below the year-end count because the Rights Issue II shares (4,560,722,760) were legally issued only in 2023 (see validation_ack). Rounded to whole rupiah."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Not stated consistently: the AGMS of 29 May 2024 paid a fixed Rp55,000,000,000 out of FY2023 net profit of Rp177,971,752,467 (AR2024 PDF p. 342), i.e. about 31% of profit, but the AR2024 (PDF p. 298) and AR2025 (PDF p. 155) dividend tables print '50% dari laba bersih tahun 2023', which contradicts the resolution. Left null rather than store a ratio the source contradicts or one computed here."
+            },
+            "total_assets": {
+                "v": 4379.417,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_FS_Dec_23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13 (FS p. 1), Statement of financial position, 'Total aset / Jumlah aset' (Rp million)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 2666.031,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_FS_Dec_23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 67, Note 11a 'Jenis Pinjaman' Total (Rp million)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment (related + third parties). All loans are rupiah; the bank has no sharia business."
+            },
+            "deposits": {
+                "v": 708.942,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_FS_Dec_23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (FS p. 2), Statement of financial position, 'Simpanan - Total/Jumlah' (Rp million)",
+                "basis": "consolidated",
+                "note": "'Simpanan' total (current accounts + savings + time deposits; excludes 'Simpanan dari bank lain')."
+            },
+            "equity_attr": {
+                "v": 3295.469,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_FS_Dec_23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp million)",
+                "basis": "consolidated",
+                "note": "The bank has no subsidiaries (stand-alone FS, 'Laporan keuangan'), so equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3295.469,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_FS_Dec_23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp million)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18173312360,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Bank_Amar_FS_Dec_23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 85, Note 19 share capital, 'Subtotal' (outstanding) before 'Saham treasuri'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued 18,381,094,760 less 207,782,400 treasury shares bought 13 Sep - 29 Dec 2023."
+            },
+            "year_end_price": {
+                "v": 322,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Amar_Bank_Annual_Report_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 28 (printed p. 28), Kinerja Saham 2023, Kuartal IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split/reverse split since listing, so any share_basis date gives factor 1. Later ARs repeat the same close."
+            },
+            "roe": {
+                "v": 5.62,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (formula not printed). Identical to the Dec-2023 published report (PDF p. 11) and AR2023 PDF p. 27."
+            },
+            "roa": {
+                "v": 4.78,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (pre-tax, formula not printed). Identical to the Dec-2023 published report (PDF p. 11) and AR2023 PDF p. 27."
+            },
+            "nim": {
+                "v": 20.23,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Identical to the Dec-2023 published report (PDF p. 11) and AR2023 PDF p. 27. Real, not a unit slip: AMAR is a digital lender (Tunaiku unsecured micro/consumer loans) with yields far above conventional banks; above the validator's 15% range."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2023 or AR2025 ratio tables, the Dec-2023 published report ratio page, or the FY deck ratio slide (decks print NIM, BOPO, LDR, NPL, CAR, NSFR, LCR, ROA, ROE only)."
+            },
+            "npl_gross": {
+                "v": 9.23,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bruto (NPL gross)'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2023 published report (PDF p. 11) and AR2023 PDF p. 27."
+            },
+            "npl_net": {
+                "v": 1.29,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bersih (NPL net)'",
+                "basis": "bank_only",
+                "note": "SEOJK 9/2020 definition: (NPL - allowance on NPL) / total loans. Identical to the Dec-2023 published report (PDF p. 11) and AR2023 PDF p. 27."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk / 'Kredit Kualitas Rendah' line in AR2023, AR2025, the Dec-2023 published report (the KKR line appears only from the 2026 report format) or the FY deck."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2023/AR2025, the Dec-2023 published report or the FY deck (published reports print only 'CKPN aset keuangan terhadap aset produktif'); not computed here."
+            },
+            "ldr": {
+                "v": 373.61,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Identical to the Dec-2023 published report (PDF p. 11) and AR2023 PDF p. 27. Real, not a unit slip: above the validator's 160% range because loans are funded mainly by equity and a small deposit base (deposits Rp0.7-1.1tn in 2022-2024)."
+            },
+            "car": {
+                "v": 119.23,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'KPMM / CAR'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk. Identical to the Dec-2023 published report (PDF p. 11) and AR2023 PDF p. 27. Real, not a unit slip: above the validator's 80% range because the bank holds Rp3.3-3.4tn of equity against a Rp2.3-4.0tn loan book after the 2022 rights issues."
+            },
+            "cir": {
+                "v": 39.65,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Ratio Biaya terhadap Pendapatan Operasional (CIR)'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2023 published report (PDF p. 11) and AR2023 PDF p. 27."
+            },
+            "bopo": {
+                "v": 86.07,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'BOPO'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2023 published report (PDF p. 11) and AR2023 PDF p. 27."
+            },
+            "casa": {
+                "v": 26.74,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/1e3e3b2c900de97f89945a33e5e0e9ce08a57ac5_1750763224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 181, MD&A - Simpanan: 'meningkat dari 26,74% di 2023'",
+                "basis": "bank_only",
+                "note": "AR2023 PDF p. 53 rounds it to '27% composition from total TPF'."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 214.992,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/b9fe4918854c888a2fa666d29c76e49698470466_1744279961.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17 (FS p. 3), Statement of profit or loss, 'Laba (rugi) bersih tahun berjalan' (Rp million)",
+                "basis": "consolidated",
+                "note": "Stand-alone FS (no subsidiaries): net profit = profit attributable to owners."
+            },
+            "eps": {
+                "v": 12,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/b9fe4918854c888a2fa666d29c76e49698470466_1744279961.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (FS p. 4), 'Laba per saham - Dasar'; PDF p. 88 Note 24 (weighted average 18,117 million shares)",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Rounded to whole rupiah in the FS."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "No payout % stated. AGMS 17 Jun 2025 (AR2025 PDF p. 178, printed p. 354-355) declared a total FY2024 dividend of Rp168,427,845,401.75 (Rp9.35/share) incl. the two interims, out of net profit Rp214,991,155,929 (= 78.3%, not stored because not printed). The AR2025 dividend table (PDF p. 155) prints '45% of net profit for fiscal year 2024' next to the final dividend only (Rp95.47bn = 44.4%)."
+            },
+            "total_assets": {
+                "v": 4867.67,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/b9fe4918854c888a2fa666d29c76e49698470466_1744279961.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15 (FS p. 1), Statement of financial position, 'Total aset / Jumlah aset' (Rp million)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 2929.997,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/b9fe4918854c888a2fa666d29c76e49698470466_1744279961.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 68, Note 11a 'Jenis Pinjaman' Total (Rp million)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment (related + third parties). All loans are rupiah; the bank has no sharia business."
+            },
+            "deposits": {
+                "v": 1084.383,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/b9fe4918854c888a2fa666d29c76e49698470466_1744279961.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16 (FS p. 2), Statement of financial position, 'Simpanan - Total/Jumlah' (Rp million)",
+                "basis": "consolidated",
+                "note": "'Simpanan' total (current accounts + savings + time deposits; excludes 'Simpanan dari bank lain')."
+            },
+            "equity_attr": {
+                "v": 3339.384,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/b9fe4918854c888a2fa666d29c76e49698470466_1744279961.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp million)",
+                "basis": "consolidated",
+                "note": "The bank has no subsidiaries (stand-alone FS, 'Laporan keuangan'), so equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3339.384,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/b9fe4918854c888a2fa666d29c76e49698470466_1744279961.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp million)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18013673305,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/b9fe4918854c888a2fa666d29c76e49698470466_1744279961.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 82, Note 19 share capital, 'Subtotal' (outstanding) before 'Saham treasuri'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued 18,381,094,760 less 367,421,455 treasury shares (buyback programme approved by AGMS 20 Jun 2023)."
+            },
+            "year_end_price": {
+                "v": 191,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/1e3e3b2c900de97f89945a33e5e0e9ce08a57ac5_1750763224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 22 (printed p. 22), Ikhtisar Saham 2024, Kuartal IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split/reverse split since listing, so any share_basis date gives factor 1. Later ARs repeat the same close."
+            },
+            "roe": {
+                "v": 6.6,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (formula not printed). Identical to the Dec-2024 published report (PDF p. 11) and AR2024 PDF p. 21."
+            },
+            "roa": {
+                "v": 5.85,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (pre-tax, formula not printed). Identical to the Dec-2024 published report (PDF p. 11) and AR2024 PDF p. 21."
+            },
+            "nim": {
+                "v": 24.38,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Identical to the Dec-2024 published report (PDF p. 11) and AR2024 PDF p. 21. Real, not a unit slip: AMAR is a digital lender (Tunaiku unsecured micro/consumer loans) with yields far above conventional banks; above the validator's 15% range."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2024 or AR2025 ratio tables, the Dec-2024 published report ratio page, or the FY deck ratio slide (decks print NIM, BOPO, LDR, NPL, CAR, NSFR, LCR, ROA, ROE only)."
+            },
+            "npl_gross": {
+                "v": 10.25,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bruto (NPL gross)'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2024 published report (PDF p. 11) and AR2024 PDF p. 21."
+            },
+            "npl_net": {
+                "v": 1.07,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bersih (NPL net)'",
+                "basis": "bank_only",
+                "note": "SEOJK 9/2020 definition: (NPL - allowance on NPL) / total loans. Identical to the Dec-2024 published report (PDF p. 11) and AR2024 PDF p. 21."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk / 'Kredit Kualitas Rendah' line in AR2024, AR2025, the Dec-2024 published report (the KKR line appears only from the 2026 report format) or the FY deck."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2024/AR2025, the Dec-2024 published report or the FY deck (published reports print only 'CKPN aset keuangan terhadap aset produktif'); not computed here."
+            },
+            "ldr": {
+                "v": 267.68,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Identical to the Dec-2024 published report (PDF p. 11) and AR2024 PDF p. 21. Real, not a unit slip: above the validator's 160% range because loans are funded mainly by equity and a small deposit base (deposits Rp0.7-1.1tn in 2022-2024)."
+            },
+            "car": {
+                "v": 126.31,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'KPMM / CAR'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk. Identical to the Dec-2024 published report (PDF p. 11) and AR2024 PDF p. 21. Real, not a unit slip: above the validator's 80% range because the bank holds Rp3.3-3.4tn of equity against a Rp2.3-4.0tn loan book after the 2022 rights issues."
+            },
+            "cir": {
+                "v": 33.7,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Ratio Biaya terhadap Pendapatan Operasional (CIR)'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2024 published report (PDF p. 11) and AR2024 PDF p. 21."
+            },
+            "bopo": {
+                "v": 84.14,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'BOPO'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2024 published report (PDF p. 11) and AR2024 PDF p. 21."
+            },
+            "casa": {
+                "v": 27.85,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 96 (printed pp. 190-191), MD&A - Simpanan: 'dari 27,85% pada 2024'",
+                "basis": "bank_only",
+                "note": "Same 27.85% in AR2024 PDF p. 181 (MD&A, 'proporsi dana murah ... 27,85% di 2024')."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 249.635,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/f638d87dbe87fc8662d68ffc778f1cd009f56319_1774929791.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17 (FS p. 3), Statement of profit or loss, 'Laba (rugi) bersih tahun berjalan' (Rp million)",
+                "basis": "consolidated",
+                "note": "Stand-alone FS (no subsidiaries): net profit = profit attributable to owners."
+            },
+            "eps": {
+                "v": 14,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/f638d87dbe87fc8662d68ffc778f1cd009f56319_1774929791.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (FS p. 4), 'Laba per saham - Dasar' (full Rupiah); PDF p. 87 Note 23",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic EPS 14 = 249,635 / weighted average 18,381 million shares (Note 23 uses the issued count incl. 367,421,455 treasury shares). Rounded to whole rupiah in the FS."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "No payout % stated. FY2025 dividends: interim 1 Rp57,644m (Rp3.20), interim 2 Rp27,741m (Rp1.54) (AR2025 PDF p. 155) and final Rp110.1bn (Rp6.11/share, AGMS 18 Jun 2026, press release 18 Jun 2026) out of net profit Rp249,635m; the release prints no ratio."
+            },
+            "total_assets": {
+                "v": 6763.529,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/f638d87dbe87fc8662d68ffc778f1cd009f56319_1774929791.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (FS p. 1), Statement of financial position, 'Total aset / Jumlah aset' (Rp million)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 3975.959,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/f638d87dbe87fc8662d68ffc778f1cd009f56319_1774929791.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 68, Note 11a 'Jenis Pinjaman' Total (Rp million)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance for impairment (related + third parties). All loans are rupiah; the bank has no sharia business."
+            },
+            "deposits": {
+                "v": 2862.285,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/f638d87dbe87fc8662d68ffc778f1cd009f56319_1774929791.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16 (FS p. 2), Statement of financial position, 'Simpanan - Total/Jumlah' (Rp million)",
+                "basis": "consolidated",
+                "note": "'Simpanan' total (current accounts + savings + time deposits; excludes 'Simpanan dari bank lain')."
+            },
+            "equity_attr": {
+                "v": 3421.911,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/f638d87dbe87fc8662d68ffc778f1cd009f56319_1774929791.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp million)",
+                "basis": "consolidated",
+                "note": "The bank has no subsidiaries (stand-alone FS, 'Laporan keuangan'), so equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3421.911,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/f638d87dbe87fc8662d68ffc778f1cd009f56319_1774929791.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16 (FS p. 2), Statement of financial position, 'Total/Jumlah ekuitas' (Rp million)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 18013673305,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/f638d87dbe87fc8662d68ffc778f1cd009f56319_1774929791.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 82, Note 19 share capital, 'Subtotal' (outstanding) before 'Saham treasuri'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued 18,381,094,760 less 367,421,455 treasury shares (unchanged from end-2024; no buyback in 2025)."
+            },
+            "year_end_price": {
+                "v": 220,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 12 (printed p. 22), Ikhtisar Saham 2025, Kuartal IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year; the AR does not print the session date). No split/reverse split since listing, so any share_basis date gives factor 1."
+            },
+            "roe": {
+                "v": 7.46,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (formula not printed). Identical to the Dec-2025 published report (Laporan Publikasi, PDF p. 11, 'Laporan Rasio Keuangan')."
+            },
+            "roa": {
+                "v": 5.61,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported (pre-tax, formula not printed). Identical to the Dec-2025 published report (Laporan Publikasi, PDF p. 11, 'Laporan Rasio Keuangan')."
+            },
+            "nim": {
+                "v": 23.19,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Identical to the Dec-2025 published report (Laporan Publikasi, PDF p. 11, 'Laporan Rasio Keuangan'). Real, not a unit slip: AMAR is a digital lender (Tunaiku unsecured micro/consumer loans) with yields far above conventional banks; above the validator's 15% range."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit ratio in AR2025 or AR2025 ratio tables, the Dec-2025 published report ratio page, or the FY deck ratio slide (decks print NIM, BOPO, LDR, NPL, CAR, NSFR, LCR, ROA, ROE only)."
+            },
+            "npl_gross": {
+                "v": 8.81,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bruto (NPL gross)'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2025 published report (Laporan Publikasi, PDF p. 11, 'Laporan Rasio Keuangan')."
+            },
+            "npl_net": {
+                "v": 0.83,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Rasio Kredit Bermasalah Bersih (NPL net)'",
+                "basis": "bank_only",
+                "note": "SEOJK 9/2020 definition: (NPL - allowance on NPL) / total loans. Identical to the Dec-2025 published report (Laporan Publikasi, PDF p. 11, 'Laporan Rasio Keuangan')."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: no loan-at-risk / 'Kredit Kualitas Rendah' line in AR2025, AR2025, the Dec-2025 published report (the KKR line appears only from the 2026 report format) or the FY deck."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2025/AR2025, the Dec-2025 published report or the FY deck (published reports print only 'CKPN aset keuangan terhadap aset produktif'); not computed here."
+            },
+            "ldr": {
+                "v": 138.84,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as reported. Identical to the Dec-2025 published report (Laporan Publikasi, PDF p. 11, 'Laporan Rasio Keuangan')."
+            },
+            "car": {
+                "v": 98.47,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'KPMM / CAR'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) incl. credit, market and operational risk. Identical to the Dec-2025 published report (Laporan Publikasi, PDF p. 11, 'Laporan Rasio Keuangan'). Real, not a unit slip: above the validator's 80% range because the bank holds Rp3.3-3.4tn of equity against a Rp2.3-4.0tn loan book after the 2022 rights issues."
+            },
+            "cir": {
+                "v": 30.32,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'Ratio Biaya terhadap Pendapatan Operasional (CIR)'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2025 published report (Laporan Publikasi, PDF p. 11, 'Laporan Rasio Keuangan')."
+            },
+            "bopo": {
+                "v": 84.78,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11 (spread, printed pp. 20-21), Ikhtisar Kinerja - 'Rasio Keuangan', 'BOPO'",
+                "basis": "bank_only",
+                "note": "Identical to the Dec-2025 published report (Laporan Publikasi, PDF p. 11, 'Laporan Rasio Keuangan')."
+            },
+            "casa": {
+                "v": 12.87,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/884eb397b222fa54515328d0899a270d71b9fdf4_1779607962.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 96 (printed pp. 190-191), MD&A - Simpanan: 'proporsi dana murah (giro dan tabungan) ... sekitar 12,87% pada 2025'",
+                "basis": "bank_only",
+                "note": "Low-cost funds (current + savings) / total deposits. Fell from 27.85% as time deposits grew strongly in 2025."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 3.03914133807,
+            "total": 55,
+            "cum_date": "2024-06-06",
+            "ex_date": "2024-06-07",
+            "record_date": "2024-06-10",
+            "pay_date": "2024-06-28",
+            "share_basis": "2024-06-24",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/AMAR_DIV_20240610_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-06-05",
+            "loc": "KSEI notice KSEI-13235/JKU/0624 (5 Jun 2024), schedule items 1-8; DPS changed by KSEI notice KSEI-14973/JKU/0624 (24 Jun 2024, https://www.ksei.co.id/Announcement/Files/168573_ksei_14973_jku_0624_202406241731.pdf)",
+            "note": "Fixed total of Rp55,000,000,000 out of FY2023 profit (AGMS 29 May 2024, AR2024 PDF p. 342, agenda 2). Announced at Rp3.03/share; on 24 Jun 2024 the bank revised the ratio to Rp3.039141338070/share (KSEI-14973/JKU/0624), i.e. the fixed Rp55bn spread over the shares entitled on the 10 Jun 2024 recording date (treasury shares excluded). AR2024 PDF p. 297 says paid 26 Jun 2024; KSEI schedule and AR2024/AR2025 tables say 28 Jun 2024."
+        },
+        {
+            "fy": 2024,
+            "type": "interim",
+            "dps": 2.65,
+            "total": 47.73623425825,
+            "cum_date": "2024-08-08",
+            "ex_date": "2024-08-09",
+            "record_date": "2024-08-12",
+            "pay_date": "2024-08-30",
+            "share_basis": "2024-07-31",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/AMAR_DIV_20240812_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-07-31",
+            "loc": "KSEI notice KSEI-18776/JKU/0824 (1 Aug 2024), schedule items 1-8; amount from AR2024 PDF p. 27",
+            "note": "Interim I 2024: Rp47,736,234,258.25 = Rp2.65/share (Board 25 Jul 2024, BoC 29 Jul 2024, bank letter 69/SRT-CS/VII/2024 of 31 Jul 2024; AR2024 PDF pp. 27, 297)."
+        },
+        {
+            "fy": 2024,
+            "type": "interim",
+            "dps": 1.4,
+            "total": 25.219142627,
+            "cum_date": "2024-12-24",
+            "ex_date": "2024-12-27",
+            "record_date": "2024-12-30",
+            "pay_date": "2025-01-15",
+            "share_basis": "2024-12-17",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/AMAR_DIV_20241230_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-12-17",
+            "loc": "KSEI notice KSEI-29189/JKU/1224 (17 Dec 2024), schedule items 1-8; amount from AR2024 PDF p. 27",
+            "note": "Interim II 2024: Rp25,219,142,627 = Rp1.40/share (Board 6 Dec 2024, BoC 13 Dec 2024, bank letter 108/SRT-CS/XII/2024 of 17 Dec 2024). AR2024 PDF p. 298 and AR2025 PDF p. 155 dividend tables misprint the DPS as 1,14; their texts and KSEI say 1.40. AR2024 text says paid 14 Jan 2025; KSEI and AR2025 say 15 Jan 2025."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 5.3,
+            "total": 95.4724685165,
+            "cum_date": "2025-06-25",
+            "ex_date": "2025-06-26",
+            "record_date": "2025-06-30",
+            "pay_date": "2025-07-17",
+            "share_basis": "2025-06-20",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/AMAR_DIV_20250630_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-20",
+            "loc": "KSEI notice KSEI-15307/JKU/0625 (20 Jun 2025), schedule items 1-8; amount from AGMS 17 Jun 2025 resolution, AR2025 PDF p. 178 (printed pp. 354-355)",
+            "note": "Final FY2024: remaining Rp95,472,468,516.50 = Rp5.30/share of a total FY2024 dividend of Rp168,427,845,401.75 (Rp9.35/share) that includes the two 2024 interims (AGMS 17 Jun 2025, agenda 2)."
+        },
+        {
+            "fy": 2025,
+            "type": "interim",
+            "dps": 3.2,
+            "total": 57.644,
+            "cum_date": "2025-08-07",
+            "ex_date": "2025-08-08",
+            "record_date": "2025-08-11",
+            "pay_date": "2025-08-29",
+            "share_basis": "2025-07-30",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/AMAR_DIV_20250811_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-07-30",
+            "loc": "KSEI notice KSEI-19459/JKU/0725 (31 Jul 2025), schedule items 1-8; amount from AR2025 PDF p. 155 and FS2025 PDF p. 19 (statement of changes in equity)",
+            "note": "Interim I 2025: Rp57,644 million = Rp3.2/share (announced 30 Jul 2025 per AR2025 table). AR2025 text says paid 28 Aug 2025; KSEI schedule and AR2025 table say 29 Aug 2025."
+        },
+        {
+            "fy": 2025,
+            "type": "interim",
+            "dps": 1.54,
+            "total": 27.741,
+            "cum_date": "2025-12-22",
+            "ex_date": "2025-12-23",
+            "record_date": "2025-12-24",
+            "pay_date": "2026-01-12",
+            "share_basis": "2025-12-12",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/AMAR_DIV_20251224_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-12-12",
+            "loc": "KSEI notice KSEI-29963/JKU/1225 (15 Dec 2025), schedule items 1-8; amount from AR2025 PDF p. 155 and FS2025 PDF p. 19",
+            "note": "Interim II 2025: Rp27,741 million = Rp1.54/share (announced 12 Dec 2025). Payment date conflict: KSEI schedule 12 Jan 2026; AR2025 table 9 Jan 2026; AR2025 text 7 Jan 2026. KSEI schedule stored."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 6.11,
+            "total": 110.1,
+            "cum_date": "2026-06-26",
+            "ex_date": "2026-06-29",
+            "record_date": "2026-06-30",
+            "pay_date": "2026-07-17",
+            "share_basis": "2026-06-18",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/AMAR_DIV_20260630_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-06-18",
+            "loc": "KSEI notice KSEI-15995/JKU/0626 (23 Jun 2026), schedule items 1-8; amount from Amar Bank press release 18 Jun 2026 (https://amarbank.co.id/media-detail?id=54)",
+            "note": "Final FY2025 approved by the AGMS of 18 Jun 2026: 'dividen tunai sebesar Rp110,1 miliar atau Rp6,11 per lembar saham' (press release). The 9M-2026 published report (PDF p. 2) is consistent: retained earnings 'tahun-tahun lalu' fell from 213,415 to 103,351 (Rp110,064m)."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 227.653,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 3, Laba rugi, 'Laba (rugi) bersih tahun berjalan yang dapat diatribusikan kepada: PEMILIK' (Rp million)",
+                "basis": "consolidated",
+                "note": "1 Jan - 30 Sep 2026. Stand-alone bank (no subsidiaries)."
+            },
+            "profit_ytd_prior": {
+                "v": 174.642,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 3, comparative column 30-Sep-2025",
+                "basis": "consolidated",
+                "note": "Same figure in the 9M-2025 published report PDF p. 3."
+            },
+            "equity_attr": {
+                "v": 3454.552,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 2, 'TOTAL EKUITAS' (the 'attributable to owners' line is blank: no NCI)",
+                "basis": "consolidated",
+                "note": "Dec-2025 column of the same report = 3,421,911 = audited FS2025, so same definition as fy.*.equity_attr."
+            },
+            "shares_out": {
+                "v": null,
+                "note": "Not printed in the 9M-2026 published report (capital shown only in rupiah: paid-in 1,801,367 after treasury stock 36,742, both unchanged from Dec 2025). Last printed count: 18,013,673,305 at 31 Dec 2025 (FS2025 Note 19). Not derived here."
+            },
+            "total_assets": {
+                "v": 6835.968,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 1, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 5228.128,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 1, item 9 'Kredit yang diberikan' (gross; allowance 638,648 shown separately in item 13b)",
+                "basis": "consolidated",
+                "note": "Dec-2025 column = 3,975,959 = FS2025 gross loans."
+            },
+            "loans_gross_prior": {
+                "v": 3162.145,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/13905bd1cbc3d484f564be8944634f18b29787fa_1761868983.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "9M-2025 published report PDF p. 1, item 9 'Kredit yang diberikan' (gross)",
+                "basis": "consolidated",
+                "note": "9M-2025 deck PDF p. 20 prints 3,162,146 (rounding)."
+            },
+            "deposits": {
+                "v": null,
+                "note": "No total printed: the 9M-2026 published report (PDF p. 2) lists Giro 381,997, Tabungan 261,278 and Deposito 2,247,181 separately with no DPK total, and the 9M-2026 deck was not yet on amarbank.co.id (latest: 6M-2026). Not summed here."
+            },
+            "deposits_prior": {
+                "v": 1654.963,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/3aec449d949359a176db3297816020ec6c61041a_1762468184.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "9M-2025 Company Presentation PDF p. 20, 'Balance Sheet' table, 'Deposits' Sep'25 (IDR mn)",
+                "basis": "consolidated",
+                "note": "The 9M-2025 published report prints only the components (giro 68,809 + tabungan 220,990 + deposito 1,365,139)."
+            },
+            "roe": {
+                "v": 8.89,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 11, Laporan Rasio Keuangan, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Annualised OJK ratio, same series as fy.*.roe. 30 Sep 2025: 6.98."
+            },
+            "roa": {
+                "v": 5.77,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 11, 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 5.73."
+            },
+            "nim": {
+                "v": 22.99,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 11, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 24.33. Real (digital micro/consumer lender), above the validator's 15% range."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the 9M-2026 published report; 9M-2026 deck not published (decks carry no CoC line anyway)."
+            },
+            "npl_gross": {
+                "v": 8.95,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 11, 'NPL gross'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 9.66. NPL net 0.68 (30 Sep 2025: 1.35)."
+            },
+            "lar": {
+                "v": 19.48,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 11, item 7 'Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "Stored as LAR: KKR ('low-quality loans') is the OJK published-report line for loans at risk; the report does not print its formula. 30 Sep 2025: 25.87. First period AMAR prints it; no FY value exists."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio (report prints 'CKPN aset keuangan terhadap aset produktif' 8.96 only); not computed here."
+            },
+            "ldr": {
+                "v": 180.88,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 11, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 190.39. Real (small deposit base), above the validator's 160% range."
+            },
+            "car": {
+                "v": 89.37,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 11, 'Kewajiban Penyediaan Modal Minimum (KPMM)'; PDF p. 9 KPMM computation",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 118.75. Real, above the validator's 80% range (equity-heavy balance sheet)."
+            },
+            "cir": {
+                "v": 33.59,
+                "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/854ee4ae9300934ef2e064b93eb8ea7260add4cb_1793349770.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 published report (Laporan Publikasi, individual, unaudited) PDF p. 11, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 33.10. BOPO 83.97 (30 Sep 2025: 85.09)."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not printed for 30 Sep 2026 (published report shows only giro/tabungan/deposito amounts; 9M-2026 deck not yet published). The 6M-2026 deck (PDF p. 14) says CASA was 29% at 30 Jun 2026."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2022",
+            "reason": "FY2022 basic loss per share (-11.55) uses a weighted average of 13,457 million shares (FS2022 Note 23, PDF p. 88: loss 155,381,289 thousand / 13,457m): the Feb-2022 rights issue (PUT I, +5,785,272,000 shares) counts only from Feb, and the Dec-2022 PUT II shares (+4,560,722,760) not at all because they were still a capital deposit fund at 31 Dec 2022 (Note 22). shares_out is the 18,381,094,760 shares listed on IDX at year-end (AR2022 PDF p. 22). -11.55 x 13,457m = -155.4bn = reported loss; the gap is real."
+        },
+        {
+            "check": "eps_shares:2023",
+            "reason": "FY2023 basic EPS 11 uses a weighted average of 16,226 million shares (FS2023 Note 23, PDF p. 90), because the 4,560,722,760 PUT II shares were legally issued only during 2023, while shares_out is the year-end 18,173,312,360 outstanding (FS2023 Note 19). 177,972m / 16,226m = 10.97 -> 11 as printed; the gap is real, not a share_basis error."
+        },
+        {
+            "check": "price_year_end:2020",
+            "reason": "Bank Amar AR2020 (PDF p. 20, Kinerja Saham) prints the Q4-2020 close as Rp288, which equals the 23 Dec 2020 close in the price source; the last 2020 session (30 Dec 2020) closed at Rp284. The AR appears to quote an earlier session; neither source is edited."
+        },
+        {
+            "check": "price_year_end:2023",
+            "reason": "Bank Amar AR2023 (PDF p. 28, Kinerja Saham) prints the Q4-2023 close as Rp322, which equals the 28 Dec 2023 close in the price source; the last 2023 session (29 Dec 2023) closed at Rp320. The AR appears to quote an earlier session; neither source is edited."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: amarbank.co.id returns HTTP 403 (Google Cloud front end) to this server; no challenge was bypassed. Page listings (report pages, investor news, media) were read from Internet Archive snapshots of amarbank.co.id and, for pages newer than the last snapshot, with the WebFetch tool. All PDFs were downloaded DIRECTLY from the bank's own public document bucket https://storage.googleapis.com/amarbank-new/prod/document/ - the exact URLs the amarbank.co.id report pages link to (stored as source_url). Dividend and rights schedules come from KSEI notices downloaded directly from web.ksei.co.id (the Indonesian CSD relaying the issuer's notification; same treatment as BRIS/BMRI). See sources.md.",
+        "ENTITY / BASIS: PT Bank Amar Indonesia Tbk (formerly PT Anglomas International Bank; renamed 2014; Tbk since 2019; head office moved from Surabaya to Jakarta in 2024). Digital lender (Tunaiku unsecured micro/consumer loans; Amar Bank / Senyumku digital savings). Controlled by Tolaram Pte. Ltd. (75.25% at end-2025, ultimate parent Tolaram Family Trust). The bank has NO subsidiaries: its stand-alone audited FS ('Laporan keuangan') are the whole group, so money figures carry basis 'consolidated' as SCHEMA rule 3 requires and the OJK ratios carry 'bank_only'. Conventional bank, no sharia unit (sharia=false). KBMI 1 (Tier 1 Rp3.43tn at end-2025).",
+        "UNITS: FS2019-FS2022 are printed in Rp THOUSAND (ribuan) and were divided by 1,000,000; FS2023-FS2025 and all published reports are in Rp MILLION (divided by 1,000). No restatements: each year's comparative column in the next FS equals the originally reported figure (checked FY2019-FY2024).",
+        "CORPORATE ACTIONS (2019-01-01 to 2026-11-03): two rights issues only - PUT I 100:72 at Rp173 (ex 14 Feb 2022) and PUT II 100:33 at Rp280 (ex 5 Dec 2022). NO stock split, reverse split or bonus issue since listing: nominal Rp100 since the IPO (FS2025 PDF p. 16; AR2020 PDF p. 20 states no split/reverse split/stock dividend/bonus shares in 2020). The 9 Jan 2020 IPO (1,206,068,500 shares at Rp174) was a DIVESTMENT by Tolaram Group Inc. (existing shares, no new shares; FS2025 Note 1b) and is not a corporate action here. PRE-LISTING (not recorded as corporate actions, no ex-date exists): May 2019 private capital increase 500,000 -> 803,510 shares at Rp1,000,000 nominal partly via loan conversion, and the 26 Aug 2019 deed (No. 277) that changed nominal Rp1,000,000 -> Rp100 (a 1:10,000 nominal change, 803,510 -> 8,035,100,000 shares) before the listing (FS2019 Note 19, PDF pp. 54-55; FS2025 Note 1a). Treasury-share buybacks (207,782,400 shares in Sep-Dec 2023, 367,421,455 cumulative by end-2024) and the 2024 ESOP (162.5m options from treasury stock) are not rights/bonus issues. The column 'cadangan kompensasi atas saham bonus' in FS2024/FS2025 equity refers to employee share compensation, not a bonus issue to shareholders.",
+        "FY2022 SHARE COUNT: the PUT II shares were distributed and listed in Dec 2022 (AR2022 PDF p. 22 shows 18,381,094,760 shares outstanding in Q4 2022, market cap 4,264bn), but the audited FS2022 still shows 13,820,372,000 subscribed shares and books the Rp1.27tn proceeds as 'Dana setoran modal' because the deed/OJK approval came in 2023. fy.2022.shares_out uses the listed 18.38bn (consistent with fy.2022.equity, which includes the deposit). Reviewer: switch to 13,820,372,000 if the FS legal count is preferred.",
+        "LOSS YEAR / PROFIT DIP: FY2022 is a real net loss (Rp155.4bn; ROA -4.75, ROE -8.40, BOPO 119.36) after impairment charges of Rp631.7bn; FY2020-FY2021 profits are tiny (Rp8.6bn, Rp4.1bn; ROA 0.74/0.02). Values outside the validator's ranges that are REAL (validator not changed): NIM 15.87/20.23/24.38/23.19 (FY2022-FY2025) and 22.99 (9M-2026) - Tunaiku high-yield unsecured micro loans; CAR 82.52/119.23/126.31/98.47 (FY2022-FY2025) and 89.37 (9M-2026) - equity of Rp3.2-3.5tn after the 2022 rights issues; LDR 220.31/373.61/267.68 (FY2022-FY2024) and 180.88 (9M-2026) - loans funded mainly by equity, deposits only Rp0.7-1.1tn in 2022-2024.",
+        "RATIOS: FY2021-FY2025 from the AR2025 ratio table (PDF p. 11), which equals each December published report (Laporan Publikasi) ratio page; FY2020 from AR2020 (PDF p. 18) except CIR (Dec-2020 published report). AR2023/AR2024 misprint FY2020 CAR as 45,43 (45.34 stored). NPL net uses the SEOJK 9/2020 definition from FY2020 on (FY2020 old-definition value 1.50 in the notes). CoC, LAR and NPL coverage are NOT disclosed for any FY (null); LAR is available only for 9M-2026 as 'Kredit Kualitas Rendah (KKR)' 19.48 (stored with a note; reviewer: confirm KKR = LAR treatment). CASA from the AR MD&A (FY2023-FY2025) and the FY2022 deck (FY2021-FY2022); FY2020 CASA not disclosed. The AR2025 highlights table contains typos in other rows (e.g. 'Efek-efek' repeats the cash-equivalents row, 'Opsi saham 1.272.661' for 2022 is the PUT II capital deposit), so every balance-sheet level was taken from the audited FS instead.",
+        "DIVIDENDS: none out of FY2020, FY2021 (reserve only) or FY2022 (loss) - payout_ratio 0 with the AGMS/AR source. First dividend after the IPO-year one: FY2023 final Rp55bn (fixed amount; DPS revised 3.03 -> 3.039141338 by KSEI notice 24 Jun 2024). From FY2024 the bank pays two interims plus a final: FY2024 = 2.65 + 1.40 + 5.30 = Rp9.35/share (Rp168.43bn total per AGMS 17 Jun 2025); FY2025 = 3.20 + 1.54 + 6.11 = Rp10.85/share (Rp57.644bn + 27.741bn + 110.1bn). payout_ratio is null for FY2023-FY2025: the bank states amounts, not a ratio, and the AR tables' '50%' (FY2023) and '45%' (FY2024 final) contradict the AGMS amounts. Out of scope but noted: FY2019 final Rp3.82/share (Rp30.69bn, ex 4 Sep 2020, KSEI AMAR_DIV_20200907_ID.pdf) and FY2026 interim I Rp3.90/share (ex 12 Aug 2026, paid 28 Aug 2026, Rp70.25bn; KSEI AMAR_DIV_20260813_ID.pdf, 9M-2026 published report PDF p. 2).",
+        "EPS: as printed in each year's FS (FY2022 from AR2022, which prints the unrounded (11.55) of the FS's (12)). FY2025 EPS (14) uses 18,381m weighted shares (issued incl. treasury) per Note 23 - EPS x outstanding shares still matches profit within 1%. FY2022 and FY2023 EPS use weighted averages far below year-end shares because of the 2022 rights issues (validation_ack). FY2021 EPS 0.51 is as originally reported (FS2022 restates it to 0 with a rights bonus-element adjustment).",
+        "INTERIM: 9M-2026 from the 30 Sep 2026 published report (posted 30 Oct 2026 on amarbank.co.id 'Quarterly Report'). shares_out, deposits, CoC, NPL coverage and CASA are not printed in it (null); deposits_prior comes from the 9M-2025 deck. The 9M-2026 analyst deck was not yet published (latest deck: 6M-2026).",
+        "YEAR-END PRICES: Q4 closes from each AR's share table (FY2020 288, FY2021 388, FY2022 232, FY2023 322, FY2024 191, FY2025 220); share_basis = period end (no split ever). FY2019: not listed. The price fetcher's reference close before each rights issue: FY2021 (388) precedes PUT I (Feb 2022) and PUT II (Dec 2022) is preceded by the same FY2021 close; no rights issue before 2020-12-31."
+    ]
+}

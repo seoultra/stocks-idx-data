@@ -40,6 +40,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | BNLI | PT Bank Permata Tbk | 3 | FY2020–FY2025 | H1 2025 | [issuers/BNLI.json](issuers/BNLI.json) | [prices/BNLI.json](prices/BNLI.json) 2019-01-02 → 2026-11-02 |
 | BANK | PT Bank Aladin Syariah Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BANK.json](issuers/BANK.json) | [prices/BANK.json](prices/BANK.json) 2021-02-01 → 2026-11-02 |
 | BSIM | PT Bank Sinarmas Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BSIM.json](issuers/BSIM.json) | [prices/BSIM.json](prices/BSIM.json) 2019-01-03 → 2026-11-02 |
+| AMAR | PT Bank Amar Indonesia Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/AMAR.json](issuers/AMAR.json) | [prices/AMAR.json](prices/AMAR.json) 2020-01-09 → 2026-11-02 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->

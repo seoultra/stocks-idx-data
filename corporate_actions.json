@@ -28,6 +28,34 @@
             "note": "PMHMETD X (PUT X). Up to 2,320,000,000 new shares (nominal Rp100) offered, i.e. 22,746,905,982 : 2,320,000,000; EGMS approval 29 Sep 2022; OJK effective 30 Nov 2022. 1,993,201,832 shares were taken up (FS2025 Note 1c; AR2022 PDF p. 97), proceeds Rp996.6bn (AR2022 PDF p. 62); listed 26 Dec 2022 (AR2022 PDF p. 130). Shares 22,746,905,982 -> 24,740,107,814 (plus later MESOP shares). Same terms in the Prospektus PMHMETD X (https://bankraya.co.id/uploads/reports/a98YieEwksjMKmPuvKfQWcyaI9diKT4J4Dp3u1rt.pdf, PDF p. 12)."
         },
         {
+            "code": "AMAR",
+            "type": "rights",
+            "ratio_old": 100,
+            "ratio_new": 72,
+            "ex_date": "2022-02-14",
+            "exercise_price": 173,
+            "source_url": "https://storage.googleapis.com/amarbank-new/prod/document/Prospektus_-_RI.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-02-16",
+            "loc": "Prospectus PMHMETD I (issued Surabaya, 16 Feb 2022) PDF p. 1 (cover): schedule ('Tanggal Mulai Perdagangan saham tanpa HMETD (Ex-Right) - Pasar Reguler dan Pasar Negosiasi: 14 Februari 2022') and ratio paragraph ('setiap pemilik 100 (seratus) saham lama Perseroan akan memperoleh 72 (tujuh puluh dua) HMETD')",
+            "note": "PMHMETD I / PUT I (rights code AMAR-R): every holder of 100 shares on the 15 Feb 2022 register received 72 rights; 1 right = 1 new share (nominal Rp100) at Rp173. EGMS 12 Nov 2021; OJK effective 3 Feb 2022 (S-14/D.04/2022); cum regular/negotiated 11 Feb 2022, ex 14 Feb 2022; cash market cum 15 Feb / ex 16 Feb; rights listed/traded/exercised 17-23 Feb 2022; allotment 25 Feb 2022; standby buyer Tolaram Group Inc. 5,785,272,000 new shares (8,035,100,000 -> 13,820,372,000), proceeds Rp1,000,852,056,000 (FS2025 Note 1c, PDF p. 25; AR2022 PDF p. 23). Same schedule in KSEI notice KSEI-1896/JKU/0222 (7 Feb 2022, https://web.ksei.co.id/Announcement/Files/AMAR_RIGHT_20220215_ID.pdf). Not a split: no per-share adjustment factor.",
+            "price": 173
+        },
+        {
+            "code": "AMAR",
+            "type": "rights",
+            "ratio_old": 100,
+            "ratio_new": 33,
+            "ex_date": "2022-12-05",
+            "exercise_price": 280,
+            "source_url": "https://web.ksei.co.id/Announcement/Files/AMAR_RIGHT_20221206_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-11-28",
+            "loc": "KSEI notice KSEI-22639/JKU/1122 (28 Nov 2022) 'Jadwal Kegiatan Penawaran Umum Terbatas II ... AMAR', schedule ('Tanggal Ex di Pasar Regular dan Pasar Negosiasi: 5 Desember 2022') and 'Keterangan' ('Setiap 100 (Seratus) Saham akan mendapatkan 33 (Tiga Puluh Tiga) HMETD ... Harga Pelaksanaan ... Rp. 280,-')",
+            "note": "PMHMETD II / PUT II (rights code AMAR-R): every holder of 100 shares on the 6 Dec 2022 register received 33 rights; 1 right = 1 new share (nominal Rp100) at Rp280. EGMS 12 May 2022; OJK effective 24 Nov 2022 (S-239/D.04/2022); cum regular/negotiated 2 Dec 2022, ex 5 Dec 2022; cash market cum 6 Dec / ex 7 Dec; rights listed/traded/exercised 8-14 Dec 2022 (same period in AR2022 PDF p. 23); allotment 16 Dec 2022. 4,560,722,760 new shares (13,820,372,000 -> 18,381,094,760), proceeds Rp1,277,002,372,800 (FS2025 Note 1d, PDF p. 25), recorded as a capital deposit fund at 31 Dec 2022 and as share capital in 2023 (FS2022 Note 22). The bank's own PUT II prospectus is not posted on amarbank.co.id; the KSEI notice relays the issuer's schedule. The May-2022 disclosure (100:26, July 2022 timetable) and the 3 Nov 2022 provisional timetable (ex 25 Nov 2022) were superseded. Not a split: no per-share adjustment factor.",
+            "price": 280
+        },
+        {
             "code": "ARTO",
             "type": "rights",
             "ratio_old": 1,
