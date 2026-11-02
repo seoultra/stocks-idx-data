@@ -66,6 +66,7 @@ Convert from Rp juta (millions) by dividing by 1,000. Keep the precision the sou
 | `issuers/<CODE>.json` | One issuer: annual data, dividends, latest interim period. |
 | `corporate_actions.json` | Every issuer's splits, reverse splits, rights and bonus issues in one table. |
 | `macro.json` | `bi_rate` and `sbn10y` datums. |
+| `prices/<CODE>.json` | Daily open/high/low/close/volume, one row per trading session, as traded. Updated every trading day. |
 | `validation_report.json` | Result of the validator for every issuer (errors, cross-check mismatches, coverage). |
 
 ## Issuer file: `issuers/<CODE>.json`
@@ -198,11 +199,47 @@ recorded for the corporate-action calendar and flagged on the page.
 Corporate actions live only in `corporate_actions.json` — an issuer file must not carry
 its own copy (the validator rejects it), so there is one table and no drift.
 
-## Macro and prices
+## Macro
 - `macro.json` — `sbn10y` and `bi_rate` datums (value, date, source). `sbn10y` is `null`
   until a source with redistribution permission is in place.
-- There are no live prices. The only prices are `year_end_price` values printed in the
-  annual reports.
+
+## Daily prices: `prices/<CODE>.json`
+End-of-day data, not real-time. One row per IDX trading session since 2019-01-02, added
+after each session closes (Monday to Friday, around 17:30 WIB).
+
+```json
+{
+  "schema": 1,
+  "code": "BBCA",
+  "exchange": "IDX",
+  "currency": "IDR",
+  "adjusted": false,
+  "splits": [{ "ex_date": "2021-10-13", "factor": 5 }],
+  "source": { "name": "Yahoo Finance", "symbol": "BBCA.JK", "url": "https://finance.yahoo.com/quote/BBCA.JK/history/", "source_type": "market_data", "note": "…" },
+  "first_date": "2019-01-02",
+  "last_date": "2026-11-02",
+  "sessions": 1889,
+  "columns": ["date", "open", "high", "low", "close", "volume"],
+  "rows": [
+    ["2021-10-12", 36275, 36600, 36225, 36600, 18213400],
+    ["2021-10-13", 7400, 8250, 7400, 7525, 210893300]
+  ]
+}
+```
+
+- **Prices are stored as traded**, like every other per-share value here. The rows above
+  are the last session before BCA's 1:5 split and the first one after it. For a continuous
+  series, divide open/high/low/close by `factor` (and multiply volume by it) for every
+  split in `splits` whose `ex_date` is after the row's date: 36,600 ÷ 5 = 7,320.
+  `splits` always equals the splits for that code in `corporate_actions.json`.
+- Dividends are not adjusted for. Rights issues do not change the factor (rule 4 above).
+- `volume` is in shares (not lots) for the regular-market session.
+- **Source handling.** Yahoo Finance publishes its history already scaled for splits and,
+  for some issuers, rights issues. The fetcher reverses that scaling. A rights reversal is
+  listed in `source.reversed` with Yahoo's factor and the annual-report year-end price it
+  was checked against (BBRI's 2021 rights issue: Yahoo factor 0.909075).
+- A session Yahoo has no trades for is left out, never filled in. Rows already published
+  do not change, except the last 10 sessions, which the source may still correct.
 
 ## Validation
 A commit only reaches the website after it passes the validator:
@@ -212,6 +249,11 @@ A commit only reaches the website after it passes the validator:
 - **Cross-checks** (must agree within 3%): net profit × payout ≈ total dividend;
   DPS × shares ≈ total dividend; EPS × shares ≈ net profit (catches a wrong
   `share_basis` around a split).
+- **Daily prices.** Errors: dates not increasing or on a weekend, low > open/close or
+  high < open/close, a price that is not a multiple of the IDX tick size (usually a missed
+  split), a close that moves more than 35% in one session on the split-adjusted series,
+  `splits` that differ from `corporate_actions.json`. Cross-check: the last close of every
+  year must equal the `year_end_price` printed in the annual report (within 0.5%).
 - A gap with a real cause is never "fixed" by editing a number. It is recorded in the
   issuer's `validation_ack` with the reason, e.g. BBRI FY2021, where the rights issue
   makes the reported EPS use weighted-average shares. It then shows as `explained` in

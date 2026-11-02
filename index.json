@@ -1,7 +1,7 @@
 {
     "schema": 1,
     "name": "IDX stock fundamentals",
-    "description": "Source-backed annual and interim fundamentals for companies listed on the Indonesia Stock Exchange. Every number carries its source document, source type, as-of date and page. Not investment advice.",
+    "description": "Source-backed annual and interim fundamentals, plus end-of-day daily prices, for companies listed on the Indonesia Stock Exchange. Every fundamental number carries its source document, source type, as-of date and page; prices carry their source per file. Not investment advice.",
     "publisher": {
         "name": "Jarot AI",
         "parent_organization": "SEOULTRA",
@@ -10,10 +10,13 @@
     "repository": "https://github.com/seoultra/stocks-idx-data",
     "raw_base": "https://raw.githubusercontent.com/seoultra/stocks-idx-data/main/",
     "data_through": "2026-09-30",
+    "prices_through": "2026-11-02",
     "units": {
         "money": "IDR billion",
         "per_share": "IDR per share as printed (raw) — apply splits from corporate_actions.json using each value's share_basis",
         "shares": "whole shares",
+        "price": "IDR per share AS TRADED in prices/*.json — divide by each split factor in the file's `splits` for rows dated before its ex_date",
+        "volume": "shares traded in the regular market session",
         "ratio": "percent (23.9 = 23.9%)",
         "date": "YYYY-MM-DD"
     },
@@ -21,6 +24,7 @@
         "sectors": "sectors.json",
         "corporate_actions": "corporate_actions.json",
         "macro": "macro.json",
+        "prices": "prices/{CODE}.json",
         "validation_report": "validation_report.json",
         "schema": "SCHEMA.md"
     },
@@ -39,6 +43,13 @@
             "data_through": "2026-09-30",
             "dividend_records": 14,
             "file": "issuers/BBCA.json",
+            "prices": {
+                "file": "prices/BBCA.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1889,
+                "last_close": 4980
+            },
             "page": "https://seoultra.id/stocks/idx/bbca/"
         },
         {
@@ -55,6 +66,13 @@
             "data_through": "2026-06-30",
             "dividend_records": 10,
             "file": "issuers/BBRI.json",
+            "prices": {
+                "file": "prices/BBRI.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1891,
+                "last_close": 2820
+            },
             "page": "https://seoultra.id/stocks/idx/bbri/"
         },
         {
@@ -71,6 +89,13 @@
             "data_through": "2026-09-30",
             "dividend_records": 8,
             "file": "issuers/BMRI.json",
+            "prices": {
+                "file": "prices/BMRI.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1890,
+                "last_close": 3700
+            },
             "page": "https://seoultra.id/stocks/idx/bmri/"
         },
         {
@@ -87,6 +112,13 @@
             "data_through": "2026-06-30",
             "dividend_records": 6,
             "file": "issuers/BBNI.json",
+            "prices": {
+                "file": "prices/BBNI.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1890,
+                "last_close": 3290
+            },
             "page": "https://seoultra.id/stocks/idx/bbni/"
         }
     ]
