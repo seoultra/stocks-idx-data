@@ -1,0 +1,1438 @@
+{
+    "schema": 1,
+    "code": "BINA",
+    "name": "PT Bank Ina Perdana Tbk",
+    "name_short": "Bank Ina Perdana",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bankina.co.id",
+    "ir_url": "https://www.bankina.co.id/id/tentang-kami/hubungan-investor/laporan-keuangan",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202025.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 183, Capital management / buffers: 'Bank INA masih tergolong sebagai Kelompok Bank berdasarkan Modal Inti (KBMI) 1'; PDF p. 139 market share vs KBMI I; PDF p. 156 core capital Rp3,075,576 juta",
+        "note": "KBMI 1 = core capital up to Rp6tn (POJK 12/POJK.03/2021). Core capital fell from Rp3,475,119 juta (2024) to Rp3,075,576 juta (2025), close to the Rp3tn minimum for commercial banks."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 5262.429,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 478, Laporan Posisi Keuangan (audited FS), 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "loans_gross": {
+                "v": 2519.213,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 478, Laporan Posisi Keuangan, 'Kredit yang diberikan' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance ('Kredit yang diberikan' sub-total of related + third parties); conventional loans only. Related 9,311 + third parties 2,509,902 juta; allowance (59,192) shown separately."
+            },
+            "deposits": {
+                "v": 4002.762,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 479, Laporan Posisi Keuangan, 'Simpanan dari nasabah' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito); no deposits from other banks. Related 344,982 + third parties 3,657,780 juta."
+            },
+            "equity_attr": {
+                "v": 1221.096,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 479, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1221.096,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 479, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 860,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 15, Ikhtisar Saham, monthly table, 'Penutupan' December 2019",
+                "basis": "n/a",
+                "share_basis": "2019-12-31",
+                "note": "Stored as an extra annual-report anchor for the price series (the brief requires it only if a rights/bonus issue went ex before 2020-12-31; BINA had none). Same 860 in AR2020 PDF p. 17 (two-year table). Month-end close of December as printed; session date not printed."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 19.376,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 390, Laporan Laba Rugi, 'LABA TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "eps": {
+                "v": 3.43,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 391, Laporan Laba Rugi, 'LABA (RUGI) PER SAHAM' basic (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic EPS; FS2020 Note 30 (PDF p. 489) weighted average 5,654,375,000 shares (19,376 / 5,654.375m = 3.43); the FY2019 comparative EPS 1.26 is on the same 5,654,375,000 shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankina.co.id/storage/Ringkasan%20Risalah%20RUPST-LB%202021%20AGMS-EGMS%202021%20-%2016%20Juni%202021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST, agenda 2 (use of FY2020 net profit)",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2020 profit: AGMS 16 Jun 2021, agenda 2: 20% of FY2020 net profit Rp19,375,897,799 to the mandatory reserve, the rest retained 'dan tidak ada pembagian dividen kepada para pemegang saham'. No interim dividend either (statements of changes in equity show no dividend 2019-2025)."
+            },
+            "total_assets": {
+                "v": 8437.685,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 388, Laporan Posisi Keuangan (audited FS), 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "loans_gross": {
+                "v": 2931.448,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 388, Laporan Posisi Keuangan, 'Kredit yang diberikan' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance ('Kredit yang diberikan' sub-total of related + third parties); conventional loans only. Related 220,539 + third parties 2,710,909 juta; allowance (103,598) shown separately."
+            },
+            "deposits": {
+                "v": 7104.54,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 389, Laporan Posisi Keuangan, 'Simpanan dari nasabah' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito); no deposits from other banks. Related 1,111,722 + third parties 5,992,818 juta."
+            },
+            "equity_attr": {
+                "v": 1217.144,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 389, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity. Includes the 1 Jan 2020 PSAK 71 adoption adjustment of (65,173) juta (statement of changes in equity, PDF p. 392)."
+            },
+            "total_equity": {
+                "v": 1217.144,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 389, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 5654375000,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 389, Laporan Posisi Keuangan, equity: issued and fully paid 5,654,375,000 shares",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Includes the 2,929,375,000 PUT II (2017) shares, which were carried in additional paid-in capital until OJK approved the capital increase on 20 Feb 2020 (FS2020 Note 23, PDF p. 486). No treasury shares."
+            },
+            "year_end_price": {
+                "v": 690,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 17, Ikhtisar Saham, monthly table, 'Penutupan' December 2020 (2019/2020 columns)",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "December close as printed (December 2020 high 720 / low 675 on PDF p. 16); session date not printed."
+            },
+            "roe": {
+                "v": 1.69,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2020, Laporan Rasio Keuangan, row 8 'Return on Equity (ROE)', 31 Des 2020 column",
+                "basis": "bank_only",
+                "note": "OJK published-report definition (profit after tax / average Tier 1 capital), as reported."
+            },
+            "roa": {
+                "v": 0.51,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2020, Laporan Rasio Keuangan, row 7 'Return on Asset (ROA)', 31 Des 2020 column",
+                "basis": "bank_only",
+                "note": "OJK published-report definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 3.4,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2020, Laporan Rasio Keuangan, row 9 'Net Interest Margin (NIM)', 31 Des 2020 column",
+                "basis": "bank_only",
+                "note": "OJK definition, as reported."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no cost-of-credit / credit-cost ratio in AR2020, AR2021, the Dec-2020 published report or any IR presentation on bankina.co.id. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 1.43,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2020, Laporan Rasio Keuangan, row 5 'NPL gross', 31 Des 2020 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only, as reported."
+            },
+            "npl_net": {
+                "v": 0.2,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2020, Laporan Rasio Keuangan, row 6 'NPL net', 31 Des 2020 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only, as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: AR2020 prints no bank Loan-at-Risk ratio, and the 'Kredit Kualitas Rendah (KKR)' row only appears in the published-report format from 2026 (no December value)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no NPL coverage (allowance / NPL) ratio in AR2020 (five-year ratio table, MD&A), AR2021 or the Dec-2020 published report, which prints only CKPN to earning assets. Not computed."
+            },
+            "ldr": {
+                "v": 41.26,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2020, Laporan Rasio Keuangan, row 12 'Loan to Deposit Ratio (LDR)', 31 Des 2020 column",
+                "basis": "bank_only",
+                "note": "OJK published-report LDR. The AR five-year tables print the same figure as 'Loans to Funding Ratio (LFR)'."
+            },
+            "car": {
+                "v": 40.08,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2020, Laporan Rasio Keuangan, row 1 'Kewajiban Penyediaan Modal Minimum (KPMM)', 31 Des 2020 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, market and operational risk, bank only, as reported."
+            },
+            "cir": {
+                "v": 64.82,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2020, Laporan Rasio Keuangan, row 11 'Cost to Income Ratio (CIR)', 31 Des 2020 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' row of the OJK published report (separate from BOPO), as reported."
+            },
+            "bopo": {
+                "v": 93.8,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2020, Laporan Rasio Keuangan, row 10 'Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 Des 2020 column",
+                "basis": "bank_only",
+                "note": "BOPO, as reported."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2020: AR2020 MD&A (PDF p. 33) gives only amounts (CASA up from Rp480bn in 2019 to Rp2.7tn of total third-party funds Rp7.1tn in 2020); no CASA ratio in the AR or the Dec-2020 published report. Not computed."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 39.748,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 390, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "eps": {
+                "v": 7.03,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 391, Laporan Laba Rugi, 'LABA (RUGI) PER SAHAM' basic (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic EPS. FS2021 Note 32 (PDF p. 492) uses a weighted average of 5,654,375,000 shares: the 282,718,750 PUT III shares (listed on IDX in Dec 2021) were booked as a capital deposit fund at 31 Dec 2021 pending OJK approval/notarisation, so they are excluded from the EPS denominator. Diluted EPS 7.01 (FS2022 comparative)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankina.co.id/storage/Ringkasan%20Risalah%20RUPST-LB%202022%20AGMS-EGMS%2003%20JUNI%202022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST, agenda 2 (use of FY2021 net profit)",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2021 profit: AGMS 3 Jun 2022, agenda 2: FY2021 net profit Rp39,748,952,931 used for the general reserve (Rp7,949,790,586) and retained; 'Perseroan tidak memberikan dividen'. No interim dividend either (statements of changes in equity show no dividend 2019-2025)."
+            },
+            "total_assets": {
+                "v": 15055.85,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 387, Laporan Posisi Keuangan (audited FS), 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "loans_gross": {
+                "v": 3709.335,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 386, Laporan Posisi Keuangan, 'Kredit yang diberikan' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance ('Kredit yang diberikan' sub-total of related + third parties); conventional loans only. Related 164,746 + third parties 3,544,589 juta; allowance (143,179) shown separately."
+            },
+            "deposits": {
+                "v": 12502.036,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 388, Laporan Posisi Keuangan, 'Simpanan dari nasabah' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito); no deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 2373.675,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 389, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity. Includes the PUT III proceeds carried as capital deposit fund (dana setoran modal) Rp1,184,102 juta (FS Note 25, PDF p. 489)."
+            },
+            "total_equity": {
+                "v": 2373.675,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 389, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 5937093750,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 398, FS Note 1b: 'Pada tanggal 31 Desember 2021, sebesar 100% atau sebanyak 5.937.093.750 saham Bank telah tercatat di Bursa Efek Indonesia'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Shares listed and in issue at FY end incl. the 282,718,750 PUT III shares (rights exercised 3-9 Dec 2021). The audited balance sheet (PDF p. 388) still shows issued capital of 5,654,375,000 shares because the PUT III proceeds (Rp1,184,102 juta net) were carried as dana setoran modal (capital deposit) until the deed of 8 Feb 2022 / OJK approval (PDF pp. 489 and 541). Equity at FY end includes the PUT III money, so this count matches equity_attr. No treasury shares."
+            },
+            "year_end_price": {
+                "v": 3810,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 29, Ikhtisar Saham two-year table, 2021 'Kuartal IV' 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "AR2021 has no share-price table; its text (AR2021 PDF p. 296) says the share closed the year at Rp3,810 (Q4 2021 range Rp3,300-4,860). Post-PUT III (ex 30 Nov 2021)."
+            },
+            "roe": {
+                "v": 3.19,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2021, Laporan Rasio Keuangan, row 8 'Return on Equity (ROE)', 31 Des 2021 column",
+                "basis": "bank_only",
+                "note": "OJK published-report definition (profit after tax / average Tier 1 capital), as reported."
+            },
+            "roa": {
+                "v": 0.44,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2021, Laporan Rasio Keuangan, row 7 'Return on Asset (ROA)', 31 Des 2021 column",
+                "basis": "bank_only",
+                "note": "OJK published-report definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 2.25,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2021, Laporan Rasio Keuangan, row 9 'Net Interest Margin (NIM)', 31 Des 2021 column",
+                "basis": "bank_only",
+                "note": "OJK definition, as reported."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no cost-of-credit / credit-cost ratio in AR2021, AR2022, the Dec-2021 published report or any IR presentation on bankina.co.id. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 2.62,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2021, Laporan Rasio Keuangan, row 5 'NPL gross', 31 Des 2021 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only, as reported."
+            },
+            "npl_net": {
+                "v": 1.64,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2021, Laporan Rasio Keuangan, row 6 'NPL net', 31 Des 2021 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only, as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: AR2021 prints no bank Loan-at-Risk ratio, and the 'Kredit Kualitas Rendah (KKR)' row only appears in the published-report format from 2026 (no December value)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no NPL coverage (allowance / NPL) ratio in AR2021 (five-year ratio table, MD&A), AR2022 or the Dec-2021 published report, which prints only CKPN to earning assets. Not computed."
+            },
+            "ldr": {
+                "v": 29.67,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2021, Laporan Rasio Keuangan, row 12 'Loan to Deposit Ratio (LDR)', 31 Des 2021 column",
+                "basis": "bank_only",
+                "note": "Below the validator's 30% floor but REAL: loans Rp3.71tn vs deposits Rp12.50tn at Dec 2021 (deposits +76% YoY on Salim-group placements; FS PDF pp. 386, 388). Same 29.67% in AR2022/AR2025 five-year tables."
+            },
+            "car": {
+                "v": 53.14,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2021, Laporan Rasio Keuangan, row 1 'Kewajiban Penyediaan Modal Minimum (KPMM)', 31 Des 2021 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, market and operational risk, bank only, as reported."
+            },
+            "cir": {
+                "v": 64.16,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2021, Laporan Rasio Keuangan, row 11 'Cost to Income Ratio (CIR)', 31 Des 2021 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' row of the OJK published report (separate from BOPO), as reported."
+            },
+            "bopo": {
+                "v": 92.42,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2021, Laporan Rasio Keuangan, row 10 'Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 Des 2021 column",
+                "basis": "bank_only",
+                "note": "BOPO, as reported."
+            },
+            "casa": {
+                "v": 42.39,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 34, Board of Directors' report: 'Khususnya CASA kami, meningkat menjadi 42,39% dari total dana pihak ketiga'",
+                "basis": "bank_only",
+                "note": "CASA share of third-party funds, as reported. AR2022 PDF p. 136 prints the 2021 composition as giro 39.35% + tabungan 3.05%."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 157.048,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 394, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "eps": {
+                "v": 26.45,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 395, Laporan Laba Rugi, 'LABA (RUGI) PER SAHAM' basic (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic EPS. FS2022 Note 33 (PDF p. 510) weighted average 5,937,093,750 shares: the 197,622,915 PMHMETD IV shares (listed Dec 2022) were booked as a capital deposit fund at 31 Dec 2022 and are excluded. Diluted EPS 26.43."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankina.co.id/storage/Ringkasan%20Risalah%20RUPST%202023Summary%20Of%20Minutes%20Of%20AGMS%20-%2016%20Juni%202023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST, agenda 2 (use of FY2022 net profit)",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2022 profit: AGMS 16 Jun 2023, agenda 2: FY2022 net profit used for business development: Rp31,409,485,087 general reserve, the remaining Rp125,637,940,346 booked as retained earnings; no dividend allocated. No interim dividend either (statements of changes in equity show no dividend 2019-2025)."
+            },
+            "total_assets": {
+                "v": 20552.736,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 392, Laporan Posisi Keuangan (audited FS), 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "loans_gross": {
+                "v": 9749.245,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 391, Laporan Posisi Keuangan, 'Kredit yang diberikan' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance ('Kredit yang diberikan' sub-total of related + third parties); conventional loans only."
+            },
+            "deposits": {
+                "v": 15462.825,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 392, Laporan Posisi Keuangan, 'Simpanan dari nasabah' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito); no deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3288.088,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 393, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity. Includes the PMHMETD IV proceeds carried as dana setoran modal Rp794,708 juta (PDF p. 393)."
+            },
+            "total_equity": {
+                "v": 3288.088,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 393, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 6134716665,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 403, FS Note 1b: 100% or 6,134,716,665 shares listed on IDX at 31 Dec 2022; PDF p. 101 shareholder table (6,134,716,665 shares)",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Includes the 197,622,915 PMHMETD IV shares (rights exercised 14-20 Dec 2022). The audited balance sheet (PDF p. 393) shows issued capital of 5,937,093,750 shares and carries the PMHMETD IV proceeds (Rp794,708 juta) as dana setoran modal, which is inside equity_attr. No treasury shares."
+            },
+            "year_end_price": {
+                "v": 3990,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 29, Ikhtisar Saham, 2022 'Kuartal IV' 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Post-PMHMETD IV (ex 9 Dec 2022). Same in AR2023 PDF p. 29."
+            },
+            "roe": {
+                "v": 6.57,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2022, Laporan Rasio Keuangan, row 8 'Return on Equity (ROE)', 31 Des 2022 column",
+                "basis": "bank_only",
+                "note": "OJK published-report definition (profit after tax / average Tier 1 capital), as reported."
+            },
+            "roa": {
+                "v": 1.09,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2022, Laporan Rasio Keuangan, row 7 'Return on Asset (ROA)', 31 Des 2022 column",
+                "basis": "bank_only",
+                "note": "OJK published-report definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 3.49,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2022, Laporan Rasio Keuangan, row 9 'Net Interest Margin (NIM)', 31 Des 2022 column",
+                "basis": "bank_only",
+                "note": "OJK definition, as reported."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no cost-of-credit / credit-cost ratio in AR2022, AR2023, the Dec-2022 published report or any IR presentation on bankina.co.id. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 1.73,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2022, Laporan Rasio Keuangan, row 5 'NPL gross', 31 Des 2022 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only, as reported."
+            },
+            "npl_net": {
+                "v": 0.55,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2022, Laporan Rasio Keuangan, row 6 'NPL net', 31 Des 2022 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only, as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: AR2022 prints no bank Loan-at-Risk ratio, and the 'Kredit Kualitas Rendah (KKR)' row only appears in the published-report format from 2026 (no December value)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no NPL coverage (allowance / NPL) ratio in AR2022 (five-year ratio table, MD&A), AR2023 or the Dec-2022 published report, which prints only CKPN to earning assets. Not computed."
+            },
+            "ldr": {
+                "v": 63.06,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2022, Laporan Rasio Keuangan, row 12 'Loan to Deposit Ratio (LDR)', 31 Des 2022 column",
+                "basis": "bank_only",
+                "note": "OJK published-report LDR. The AR five-year tables print the same figure as 'Loans to Funding Ratio (LFR)'."
+            },
+            "car": {
+                "v": 31.12,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2022, Laporan Rasio Keuangan, row 1 'Kewajiban Penyediaan Modal Minimum (KPMM)', 31 Des 2022 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, market and operational risk, bank only, as reported."
+            },
+            "cir": {
+                "v": 50.9,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2022, Laporan Rasio Keuangan, row 11 'Cost to Income Ratio (CIR)', 31 Des 2022 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' row of the OJK published report (separate from BOPO), as reported."
+            },
+            "bopo": {
+                "v": 82.43,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2022, Laporan Rasio Keuangan, row 10 'Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 Des 2022 column",
+                "basis": "bank_only",
+                "note": "BOPO, as reported."
+            },
+            "casa": {
+                "v": null,
+                "note": "No single CASA ratio printed for FY2022. AR2022 MD&A (PDF p. 136) prints the composition separately: current accounts 31.39% and savings 3.57% of customer deposits (time deposits 65.04%); their sum (34.96%) is not stored as a reported ratio."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 207.876,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 378, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "eps": {
+                "v": 33.89,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 379, Laporan Laba Rugi, 'LABA (RUGI) PER SAHAM' basic (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic and diluted EPS on 6,134,716,665 shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankina.co.id/storage/Ringkasan%20Risalah%20RUPST-LB%202024Summary%20Of%20Minutes%20Of%20AGMS-EGMS%20-%2020%20Juni%202024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST, agenda 2 (use of FY2023 net profit)",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2023 profit: AGMS 20 Jun 2024, agenda 2: 'Perseroan tidak memberikan dividen untuk Tahun Buku 2023' (English summary PDF p. 8). No interim dividend either (statements of changes in equity show no dividend 2019-2025)."
+            },
+            "total_assets": {
+                "v": 24384.58,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 376, Laporan Posisi Keuangan (audited FS), 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "loans_gross": {
+                "v": 12677.186,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 375, Laporan Posisi Keuangan, 'Kredit yang diberikan' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance ('Kredit yang diberikan' sub-total of related + third parties); conventional loans only."
+            },
+            "deposits": {
+                "v": 19315.909,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 376, Laporan Posisi Keuangan, 'Simpanan dari nasabah' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito); no deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3556.158,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 377, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3556.158,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 377, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 6134716665,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 377, Laporan Posisi Keuangan, equity: issued and fully paid 6,134,716,665 shares",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 4090,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 29, Ikhtisar Saham, 2023 'Kuartal IV' 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Same in AR2024 PDF p. 29."
+            },
+            "roe": {
+                "v": 6.14,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2023, Laporan Rasio Keuangan, row 8 'Return on Equity (ROE)', 31 Des 2023 column",
+                "basis": "bank_only",
+                "note": "OJK published-report definition (profit after tax / average Tier 1 capital), as reported."
+            },
+            "roa": {
+                "v": 1.17,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2023, Laporan Rasio Keuangan, row 7 'Return on Asset (ROA)', 31 Des 2023 column",
+                "basis": "bank_only",
+                "note": "OJK published-report definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 3.12,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2023, Laporan Rasio Keuangan, row 9 'Net Interest Margin (NIM)', 31 Des 2023 column",
+                "basis": "bank_only",
+                "note": "As printed in the Dec-2023 report and in the AR2025 five-year table (PDF p. 31). The Dec-2024 published report re-presents the 2023 comparative as 3.50%; not used."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no cost-of-credit / credit-cost ratio in AR2023, AR2024, the Dec-2023 published report or any IR presentation on bankina.co.id. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 3.44,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2023, Laporan Rasio Keuangan, row 5 'NPL gross', 31 Des 2023 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only, as reported."
+            },
+            "npl_net": {
+                "v": 1.69,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2023, Laporan Rasio Keuangan, row 6 'NPL net', 31 Des 2023 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only, as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: AR2023 prints no bank Loan-at-Risk ratio, and the 'Kredit Kualitas Rendah (KKR)' row only appears in the published-report format from 2026 (no December value)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no NPL coverage (allowance / NPL) ratio in AR2023 (five-year ratio table, MD&A), AR2024 or the Dec-2023 published report, which prints only CKPN to earning assets. Not computed."
+            },
+            "ldr": {
+                "v": 65.6,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2023, Laporan Rasio Keuangan, row 12 'Loan to Deposit Ratio (LDR)', 31 Des 2023 column",
+                "basis": "bank_only",
+                "note": "OJK published-report LDR. The AR five-year tables print the same figure as 'Loans to Funding Ratio (LFR)'."
+            },
+            "car": {
+                "v": 26.1,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2023, Laporan Rasio Keuangan, row 1 'Kewajiban Penyediaan Modal Minimum (KPMM)', 31 Des 2023 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, market and operational risk, bank only, as reported."
+            },
+            "cir": {
+                "v": 51.1,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2023, Laporan Rasio Keuangan, row 11 'Cost to Income Ratio (CIR)', 31 Des 2023 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' row of the OJK published report (separate from BOPO), as reported."
+            },
+            "bopo": {
+                "v": 84.37,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2023, Laporan Rasio Keuangan, row 10 'Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 Des 2023 column",
+                "basis": "bank_only",
+                "note": "BOPO, as reported."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed for FY2023: AR2023 MD&A (PDF p. 135) gives deposit amounts only (giro Rp5,595,812 juta of Rp19,315,909 juta); no CASA ratio in AR2023 or the Dec-2023 published report. Not computed."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 81.848,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 406, Laporan Laba Rugi, 'LABA BERSIH TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "eps": {
+                "v": 13.34,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 407, Laporan Laba Rugi, 'LABA (RUGI) PER SAHAM' basic (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic and diluted EPS on 6,134,716,665 shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankina.co.id/storage/Ringkasan%20Risalah%20RUPST%202025Summary%20AGMS%202025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST, agenda 2 (use of FY2024 net profit)",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2024 profit: AGMS 5 Jun 2025, agenda 2: 'Perseroan tidak memberikan dividen untuk tahun buku 2024' (English summary PDF p. 8). No interim dividend either (statements of changes in equity show no dividend 2019-2025)."
+            },
+            "total_assets": {
+                "v": 24436.734,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 404, Laporan Posisi Keuangan (audited FS), 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "loans_gross": {
+                "v": 13150.442,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 403, Laporan Posisi Keuangan, 'Kredit yang diberikan' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance ('Kredit yang diberikan' sub-total of related + third parties); conventional loans only. Related 315,981 + third parties 12,834,461 juta; allowance (311,514) shown separately."
+            },
+            "deposits": {
+                "v": 20127.216,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 404, Laporan Posisi Keuangan, 'Simpanan dari nasabah' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito); no deposits from other banks. Related 3,499,944 + third parties 16,627,272 juta."
+            },
+            "equity_attr": {
+                "v": 3612.974,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 405, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3612.974,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 405, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 6134716665,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 405, Laporan Posisi Keuangan, equity: issued and fully paid 6,134,716,665 shares",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 4190,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 29, Ikhtisar Saham, 2024 'Kuartal IV' 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Same in AR2025 PDF p. 33."
+            },
+            "roe": {
+                "v": 2.35,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2024, Laporan Rasio Keuangan, row 8 'Return on Equity (ROE)', 31 Des 2024 column",
+                "basis": "bank_only",
+                "note": "OJK published-report definition (profit after tax / average Tier 1 capital), as reported."
+            },
+            "roa": {
+                "v": 0.44,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2024, Laporan Rasio Keuangan, row 7 'Return on Asset (ROA)', 31 Des 2024 column",
+                "basis": "bank_only",
+                "note": "OJK published-report definition (profit before tax / average total assets), as reported."
+            },
+            "nim": {
+                "v": 3.29,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2024, Laporan Rasio Keuangan, row 9 'Net Interest Margin (NIM)', 31 Des 2024 column",
+                "basis": "bank_only",
+                "note": "OJK definition, as reported."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no cost-of-credit / credit-cost ratio in AR2024, AR2025, the Dec-2024 published report or any IR presentation on bankina.co.id. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 3.46,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2024, Laporan Rasio Keuangan, row 5 'NPL gross', 31 Des 2024 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only, as reported."
+            },
+            "npl_net": {
+                "v": 2.2,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2024, Laporan Rasio Keuangan, row 6 'NPL net', 31 Des 2024 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only, as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: AR2024 prints no bank Loan-at-Risk ratio, and the 'Kredit Kualitas Rendah (KKR)' row only appears in the published-report format from 2026 (no December value)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no NPL coverage (allowance / NPL) ratio in AR2024 (five-year ratio table, MD&A), AR2025 or the Dec-2024 published report, which prints only CKPN to earning assets. Not computed."
+            },
+            "ldr": {
+                "v": 65.34,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2024, Laporan Rasio Keuangan, row 12 'Loan to Deposit Ratio (LDR)', 31 Des 2024 column",
+                "basis": "bank_only",
+                "note": "OJK published-report LDR. The AR five-year tables print the same figure as 'Loans to Funding Ratio (LFR)'."
+            },
+            "car": {
+                "v": 25.07,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2024, Laporan Rasio Keuangan, row 1 'Kewajiban Penyediaan Modal Minimum (KPMM)', 31 Des 2024 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, market and operational risk, bank only, as reported."
+            },
+            "cir": {
+                "v": 62.01,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2024, Laporan Rasio Keuangan, row 11 'Cost to Income Ratio (CIR)', 31 Des 2024 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' row of the OJK published report (separate from BOPO), as reported."
+            },
+            "bopo": {
+                "v": 93.87,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2024, Laporan Rasio Keuangan, row 10 'Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 Des 2024 column",
+                "basis": "bank_only",
+                "note": "BOPO, as reported."
+            },
+            "casa": {
+                "v": 24.5,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 49, MD&A business overview: 'rasio CASA di akhir tahun 2024 tercatat sebesar 24,5%'",
+                "basis": "bank_only",
+                "note": "As reported (one decimal)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": -369.018,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 438, Laporan Laba Rugi, '(RUGI) LABA BERSIH TAHUN BERJALAN' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure. Net LOSS year."
+            },
+            "eps": {
+                "v": -60.15,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 439, Laporan Laba Rugi, 'LABA (RUGI) PER SAHAM' basic (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic and diluted loss per share (net loss year) on 6,134,716,665 shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://bankina.co.id/storage/Ringkasan%20Risalah%20RUPST%20Juni%202026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST, agenda 2 (use of FY2025 net profit)",
+                "basis": "n/a",
+                "note": "No dividend paid out of FY2025 result: AGMS 5 Jun 2026, agenda 2: the FY2025 net loss Rp369,017,832,288 is booked as accumulated loss, no general reserve; 'Perseroan tidak memberikan dividen untuk tahun buku 2025' (English summary PDF p. 7). No interim dividend either (statements of changes in equity show no dividend 2019-2025)."
+            },
+            "total_assets": {
+                "v": 31298.232,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 436, Laporan Posisi Keuangan (audited FS), 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure."
+            },
+            "loans_gross": {
+                "v": 15263.447,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 435, Laporan Posisi Keuangan, 'Kredit yang diberikan' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Gross loans before allowance ('Kredit yang diberikan' sub-total of related + third parties); conventional loans only. Related 340,057 + third parties 14,923,390 juta; allowance (405,373) shown separately."
+            },
+            "deposits": {
+                "v": 27259.678,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 436, Laporan Posisi Keuangan, 'Simpanan dari nasabah' sub-total (Rp juta)",
+                "basis": "consolidated",
+                "note": "Customer deposits (giro + tabungan + deposito); no deposits from other banks. Related 4,877,643 + third parties 22,382,035 juta."
+            },
+            "equity_attr": {
+                "v": 3309.821,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 437, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3309.821,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 437, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 6134716665,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 437, Laporan Posisi Keuangan, equity: issued and fully paid 6,134,716,665 shares; PDF p. 447, Note 1b: 100% listed on IDX",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "No treasury shares. The AR share table (PDF p. 33) prints 6,073,369,498 \"outstanding\" = 99% of the issued count (PP 29/1999 1% unlisted convention), while FS Note 1b says 100% are listed; the FS count is used."
+            },
+            "year_end_price": {
+                "v": 4490,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Tahunan%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 33, Ikhtisar Saham, 2025 'Kuartal IV' 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31"
+            },
+            "roe": {
+                "v": -10.89,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2025, Laporan Rasio Keuangan, row 8 'Return on Equity (ROE)', 31 Des 2025 column",
+                "basis": "bank_only",
+                "note": "Net-loss year (provision for impairment Rp601,993 juta). OJK published-report definition (profit after tax / average Tier 1 capital), as reported; same -10.89% in AR2025 PDF p. 31."
+            },
+            "roa": {
+                "v": -1.72,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2025, Laporan Rasio Keuangan, row 7 'Return on Asset (ROA)', 31 Des 2025 column",
+                "basis": "bank_only",
+                "note": "Net-loss year. OJK published-report definition, as reported; same -1.72% in AR2025 PDF p. 31."
+            },
+            "nim": {
+                "v": 2.37,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2025, Laporan Rasio Keuangan, row 9 'Net Interest Margin (NIM)', 31 Des 2025 column",
+                "basis": "bank_only",
+                "note": "OJK definition, as reported."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no cost-of-credit ratio in AR2025, the Dec-2025 published report or the Public Expose 2026 deck (PDF pp. 6-12 checked). Not computed from the FS (impairment charge Rp601,993 juta, FS PDF p. 438)."
+            },
+            "npl_gross": {
+                "v": 2.98,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2025, Laporan Rasio Keuangan, row 5 'NPL gross', 31 Des 2025 column",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only, as reported."
+            },
+            "npl_net": {
+                "v": 2,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2025, Laporan Rasio Keuangan, row 6 'NPL net', 31 Des 2025 column",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only, as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: AR2025 prints no bank Loan-at-Risk ratio, and the 'Kredit Kualitas Rendah (KKR)' row only appears in the published-report format from 2026 (no December value)."
+            },
+            "npl_coverage": {
+                "v": 89,
+                "source_url": "https://bankina.co.id/storage/Public%20Expose%202026%20PT%20Bank%20Ina%20Perdana%20Tbk.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, 'Coverage Ratio' chart, DES 25 data label 89,00%",
+                "basis": "bank_only",
+                "note": "Public Expose 2026 deck; definition not printed (presumably loan-loss allowance / NPL). Mar-25 69.42%, Mar-26 94.31% on the same chart."
+            },
+            "ldr": {
+                "v": 56.01,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2025, Laporan Rasio Keuangan, row 12 'Loan to Deposit Ratio (LDR)', 31 Des 2025 column",
+                "basis": "bank_only",
+                "note": "OJK published-report LDR. The AR five-year tables print the same figure as 'Loans to Funding Ratio (LFR)'."
+            },
+            "car": {
+                "v": 19.3,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2025, Laporan Rasio Keuangan, row 1 'Kewajiban Penyediaan Modal Minimum (KPMM)', 31 Des 2025 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, market and operational risk, bank only, as reported."
+            },
+            "cir": {
+                "v": 80.83,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2025, Laporan Rasio Keuangan, row 11 'Cost to Income Ratio (CIR)', 31 Des 2025 column",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' row of the OJK published report (separate from BOPO), as reported."
+            },
+            "bopo": {
+                "v": 122.7,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%204%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan Desember 2025, Laporan Rasio Keuangan, row 10 'Beban Operasional terhadap Pendapatan Operasional (BOPO)', 31 Des 2025 column",
+                "basis": "bank_only",
+                "note": "Above 100% because of the FY2025 loss (impairment charge Rp601,993 juta vs Rp188,899 juta in 2024). As reported; same 122.70% in AR2025 PDF p. 31."
+            },
+            "casa": {
+                "v": 37.48,
+                "source_url": "https://bankina.co.id/storage/Public%20Expose%202026%20PT%20Bank%20Ina%20Perdana%20Tbk.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, 'Dana Pihak Ketiga' table, 'CASA Ratio' Des '25 column",
+                "basis": "bank_only",
+                "note": "Public Expose 2026 deck (Paparan Publik Kinerja Keuangan Q1 2026, cover dated 13.05.26; posted on the IR disclosure page 8 May 2026): CASA Rp10,214bn / total DPK Rp27,253bn at Dec 2025. The deck DPK follows the OJK published report (giro 8,940 + tabungan 1,274 + deposito 17,039); FS customer deposits are Rp27,259,678 juta. AR2025 prints no CASA ratio."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 72.848,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Interim%2030%20September%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laporan Laba Rugi (nine months, unaudited), 'LABA BERSIH TAHUN BERJALAN' 2026 column (Rp juta)",
+                "basis": "consolidated",
+                "note": "Stand-alone statements: Bank INA has no subsidiaries (the audited statements are not consolidated), so the bank figure is the consolidated figure. Up 122% YoY, mainly on recoveries of written-off loans Rp138,025 juta (vs Rp19,347 juta). Same 72,848 in the Sep-2026 published report."
+            },
+            "profit_ytd_prior": {
+                "v": 32.854,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Interim%2030%20September%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 8, Laporan Laba Rugi, 30 Sep 2025 comparative column (Rp juta)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3016.154,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Interim%2030%20September%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan, 'EKUITAS' (Rp juta)",
+                "basis": "consolidated",
+                "note": "No NCI. Down from 3,309,821 at Dec 2025 because of an unrealised FVOCI securities loss of (366,515) juta in 9M2026 (PDF pp. 9-10)."
+            },
+            "shares_out": {
+                "v": 6134716665,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Interim%2030%20September%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, equity: issued and fully paid 6,134,716,665 shares at 30 Sep 2026",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "No treasury shares. A private placement (PMTHMETD) of up to 80,000,000 new shares was scheduled for 3 Nov 2026 (results due 5 Nov 2026), after this period end."
+            },
+            "total_assets": {
+                "v": 33889.248,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Interim%2030%20September%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan, 'TOTAL ASET' (Rp juta)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 17136.407,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Interim%2030%20September%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, 'Kredit yang diberikan' sub-total before allowance (related 367,809 + third parties 16,768,598; Rp juta)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 15021.358,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%203%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan (published report Sep 2025), 'Kredit yang diberikan' 30 Sep 2025 column (Rp juta, gross; CKPN shown separately)",
+                "basis": "consolidated",
+                "note": "The 9M2025 interim FS is not published on bankina.co.id (only H1/9M 2023-2024 and 2026 interim FS are listed); the OJK published report is used."
+            },
+            "deposits": {
+                "v": 25605.153,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Interim%2030%20September%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, 'Simpanan dari nasabah' sub-total (related 5,808,286 + third parties 19,796,867; Rp juta)",
+                "basis": "consolidated",
+                "note": "= giro 7,901,916 + tabungan 1,623,165 + deposito 16,080,072 in the Sep-2026 published report."
+            },
+            "deposits_prior": {
+                "v": 25537.133,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Triwulan%203%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 1, Laporan Posisi Keuangan (published report Sep 2025), liabilities rows 1-3: Giro 7,521,148 + Tabungan 1,080,315 + Deposito 16,935,670 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Sum of the three printed deposit rows (the OJK format prints no sub-total). At Dec 2025 the same published-report rows total 27,252,901 vs FS customer deposits 27,259,678 (0.02% gap), so the two bases are near-identical."
+            },
+            "roe": {
+                "v": 3.48,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Publikasi%20Triwulan%203%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan September 2026, Laporan Rasio Keuangan, row 9 'Return on Equity (ROE)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "OJK definition (annualised YTD profit after tax / average Tier 1 capital), as reported. 30 Sep 2025: 1.29%."
+            },
+            "roa": {
+                "v": 0.37,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Publikasi%20Triwulan%203%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan September 2026, Laporan Rasio Keuangan, row 8 'Return on Asset (ROA)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "OJK definition, as reported. 30 Sep 2025: 0.23%."
+            },
+            "nim": {
+                "v": 2.3,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Publikasi%20Triwulan%203%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan September 2026, Laporan Rasio Keuangan, row 10 'Net Interest Margin (NIM)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "OJK definition, as reported. 30 Sep 2025: 2.50%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for 9M2026: no cost-of-credit ratio in the 30 Sep 2026 interim FS or published report; no 9M2026 presentation on the IR page (checked 2026-11-03; latest deck = Public Expose 2026 on Q1 2026)."
+            },
+            "npl_gross": {
+                "v": 4.03,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Publikasi%20Triwulan%203%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan September 2026, Laporan Rasio Keuangan, row 5 'NPL gross', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "As reported. 30 Sep 2025: 5.53%. NPL net 2.90% (row 6)."
+            },
+            "lar": {
+                "v": 12.37,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Publikasi%20Triwulan%203%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan September 2026, Laporan Rasio Keuangan, row 7 'Kredit Kualitas Rendah (KKR)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "OJK 'low-quality loans' (KKR = special-mention + non-performing + restructured current loans; POJK 18/2025 report format), used as loan-at-risk. 30 Sep 2025 comparative: 15.55%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for 9M2026: the 30 Sep 2026 FS and published report print no coverage ratio (the Public Expose 2026 deck shows 94.31% at Mar-26 only)."
+            },
+            "ldr": {
+                "v": 66.89,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Publikasi%20Triwulan%203%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan September 2026, Laporan Rasio Keuangan, row 13 'Loan to Deposit Ratio (LDR)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "As reported. 30 Sep 2025: 58.82%."
+            },
+            "car": {
+                "v": 14.79,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Publikasi%20Triwulan%203%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan September 2026, Laporan Rasio Keuangan, row 1 'Kewajiban Penyediaan Modal Minimum (KPMM)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "KPMM with credit, market and operational risk, as reported (Tier 1 ratio 13.77%). Down from 19.30% at Dec 2025 (FVOCI loss and loan growth)."
+            },
+            "cir": {
+                "v": 74.55,
+                "source_url": "https://bankina.co.id/storage/Laporan%20Keuangan%20Publikasi%20Triwulan%203%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, Laporan Publikasi Triwulanan September 2026, Laporan Rasio Keuangan, row 12 'Cost to Income Ratio (CIR)', 30 Sep 2026 column",
+                "basis": "bank_only",
+                "note": "As reported (BOPO 94.14%, row 11)."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed for 9M2026: no CASA ratio in the Sep-2026 FS or published report (published report: giro 7,901,916 + tabungan 1,623,165 of DPK 25,605,153 juta). Not computed. Latest reported: 40.07% at Mar-26 (Public Expose 2026 deck PDF p. 11)."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "Real: reported FY2021 basic EPS 7.03 uses a weighted average of 5,654,375,000 shares (FS2021 Note 32, AR2021 PDF p. 492); 7.03 x 5,654,375,000 = Rp39.75bn = net profit Rp39.748bn. shares_out 5,937,093,750 includes the 282,718,750 PUT III rights shares listed in Dec 2021 (ex-date 30 Nov 2021), which the FS carried as a capital deposit until OJK approval and excluded from EPS; hence the 5% gap. Source: https://bankina.co.id/storage/Laporan%20Tahunan%202021.pdf"
+        },
+        {
+            "check": "eps_shares:2022",
+            "reason": "Real: reported FY2022 basic EPS 26.45 uses a weighted average of 5,937,093,750 shares (FS2022 Note 33, AR2022 PDF p. 510); 26.45 x 5,937,093,750 = Rp157.04bn = net profit Rp157.048bn. shares_out 6,134,716,665 includes the 197,622,915 PMHMETD IV shares listed in Dec 2022 (ex-date 9 Dec 2022), carried as a capital deposit at year end and excluded from EPS; hence the 3.3% gap. Source: https://bankina.co.id/storage/Laporan%20Tahunan%202022.pdf"
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: bankina.co.id (Next.js site) serves every current document directly from https://bankina.co.id/storage/<file name>.pdf; no bot challenge was met. The old pre-2023 site paths (/media/file/originals/post/...) now return 404; the two rights-issue disclosures were fetched from Internet Archive snapshots of those exact URLs (see sources.md). The full prospectuses of PUT III and PMHMETD IV are archived only as truncated 1 MB captures and were not used. The bank-hosted files \"Keterbukaan Informasi PUT IIII.pdf\", \"Keterbukaan Informasi Rencana HMETD.pdf\" and \"Keterbukaan Informasi Pemegang Saham Tertentu.pdf\" are all the same wrong upload (an IDX volatility query of 8 Apr 2020). idx.co.id was not needed.",
+        "NO SUBSIDIARIES: Bank INA files stand-alone (not consolidated) audited statements; every money figure is the bank figure, tagged basis \"consolidated\" per the schema, and equity_attr = total_equity. FY figures come from the audited FS reproduced inside each year's annual report (the IR page lists the AR under \"Laporan Keuangan Tahunan\"); separate Dec-2022..Dec-2025 FS files (titled \"Laporan Keuangan Interim 31 Desember\") exist and agree. Ratios come from the December OJK published reports (bank only) and match the AR five-year tables. No restatement of any stored FY figure was found in the following year's comparatives; FY2020 equity includes the 1 Jan 2020 PSAK 71 adjustment of Rp(65,173) juta.",
+        "RIGHTS ISSUES (the only share-count actions since 2019; no split, reverse split, bonus issue or stock dividend - AR2019-AR2025 \"Aksi Korporasi\" sections): PUT III ex 30 Nov 2021 (20:1 at Rp4,200, fully taken, +282,718,750 shares) and PMHMETD IV ex 9 Dec 2022 (20:1 at Rp4,050, 197,622,915 of 296,854,687 taken). PUT II (2,929,375,000 shares at Rp240) dates from Feb 2017, before the 2019 window; its shares were only reclassified into share capital after OJK approval on 20 Feb 2020 (so the FY2019 balance sheet shows 2,725,000,000 issued shares although ~5.65bn were listed and used for EPS). The AR2025 FS Note 1b misprints the PUT III price as Rp240; the AR2021 FS note, the AR chronology tables and the proceeds (Rp1,187.4bn) confirm Rp4,200. fy.2019.year_end_price is stored only as an extra anchor: no rights issue went ex before 2020-12-31.",
+        "SHARES_OUT vs EPS (FY2021, FY2022): each rights issue closed in December and its proceeds were carried as \"dana setoran modal\" (capital deposit) until OJK approval in the following year, so the audited balance sheet and EPS use the pre-rights count while the new shares were already listed. shares_out uses the listed count from FS Note 1b (5,937,093,750 at Dec 2021; 6,134,716,665 at Dec 2022), which matches equity (it contains the deposit). Both eps x shares gaps are acknowledged in validation_ack.",
+        "AR SHARE TABLES print \"Jumlah Saham Beredar\" as 99% of the issued count (5,597,831,250 / 5,877,722,813 / 6,073,369,498), i.e. the PP 29/1999 1% unlisted convention, although FS Note 1b says 100% are listed from Dec 2021. The FS count is used for shares_out.",
+        "DIVIDENDS: none. Every AGMS from FY2019 (5 Jun 2020) to FY2025 (5 Jun 2026) retained the whole result to strengthen capital; FY2025 was a net loss of Rp369.0bn. payout_ratio is stored as v 0 for FY2020-FY2025 with the AGMS summary as source; the statements of changes in equity 2019-2025 show no dividend line and AR2025 PDF p. 160 confirms no distribution.",
+        "LOSS YEAR FY2025: net loss Rp(369,018) juta after impairment provisions of Rp601,993 juta (FY2024: 188,899). ROE -10.89%, ROA -1.72%, BOPO 122.70% and EPS -60.15 are real. KPMM fell to 19.30% (Dec 2025) and 14.79% (Sep 2026); 9M2026 shows a further unrealised FVOCI loss of Rp(366,515) juta in OCI, so equity fell to Rp3,016bn even though 9M profit rose to Rp72.8bn (loan write-off recoveries Rp138bn).",
+        "RATIOS OUTSIDE THE VALIDATOR'S RANGE THAT ARE REAL: FY2021 LDR 29.67% (< 30): loans Rp3.7tn vs deposits Rp12.5tn after Salim-group deposit inflows. All others are inside the ranges.",
+        "RATIO GAPS: CoC and loan-at-risk are not disclosed for any FY; NPL coverage and CASA for FY2025 come from the Public Expose 2026 deck (Q1 2026; image-only PDF read visually at PDF pp. 10-11). CASA is printed for FY2021 (42.39%) and FY2024 (24.5%) only; FY2022 is printed only as separate giro/tabungan shares (31.39% + 3.57%) and is left null. No analyst presentations exist on the IR page before 2026.",
+        "INTERIM: 9M2026 (30 Sep 2026) unaudited interim FS (posted 2 Nov 2026) + Sep-2026 OJK published report. The 9M2025 interim FS is not on the IR page, so loans_gross_prior and deposits_prior come from the Sep-2025 published report (deposits_prior = sum of the three printed deposit rows). The Sep-2026 report is the first in the POJK 18/2025 format and adds the KKR row, stored as lar (12.37%).",
+        "PRIVATE PLACEMENT 2026 (not a schema corporate-action type, so not in corporate_actions): the Independent GMS of 5 Jun 2026 approved a PMTHMETD of up to 80,000,000 new shares (<= 1.30% of paid-up shares); the bank announced execution on 3 Nov 2026 with results due 5 Nov 2026 (Pengumuman Rencana Pelaksanaan PMTHMETD, 27 Oct 2026). After that, shares_out will be up to 6,214,716,665; re-check the 5 Nov 2026 result before using a post-September share count.",
+        "SELF-CHECK: eps x shares_out vs net profit: 2020 +0.1%, 2021 +5.0% (ack), 2022 +3.3% (ack), 2023 +0.0%, 2024 -0.0%, 2025 +0.0%. payout 0 and no dividend records in every year. Deposits / loans tie to the AR five-year table (AR2025 PDF p. 32) and the December published reports."
+    ]
+}
