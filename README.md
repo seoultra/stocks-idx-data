@@ -53,6 +53,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | BABP | PT Bank MNC Internasional Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BABP.json](issuers/BABP.json) | [prices/BABP.json](prices/BABP.json) 2019-01-03 → 2026-11-02 |
 | BSWD | PT Bank of India Indonesia Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BSWD.json](issuers/BSWD.json) | [prices/BSWD.json](prices/BSWD.json) 2023-12-18 → 2026-10-20 |
 | BINA | PT Bank Ina Perdana Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BINA.json](issuers/BINA.json) | [prices/BINA.json](prices/BINA.json) 2019-01-02 → 2026-11-02 |
+| BBMD | PT Bank Mestika Dharma Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BBMD.json](issuers/BBMD.json) | [prices/BBMD.json](prices/BBMD.json) 2019-02-06 → 2026-11-02 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->

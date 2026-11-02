@@ -1,0 +1,1522 @@
+{
+    "schema": 1,
+    "code": "BBMD",
+    "name": "PT Bank Mestika Dharma Tbk",
+    "name_short": "Bank Mestika",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bankmestika.co.id",
+    "ir_url": "https://www.bankmestika.co.id/id/aboutus/investor-relation",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 32 (Laporan Direksi): vision 'menjadi Bank Kelompok Bank Modal Inti 2 (KBMI 2) sebelum Tahun 2028'; PDF p. 39: 2025 Infobank award 'untuk Kelompok Modal Inti sampai dengan Rp6 Triliun (KBMI 1)'",
+        "note": "KBMI 1 = core capital up to Rp6tn (POJK 12/POJK.03/2021). Core capital (Tier 1) Rp5,386,420 juta at 31 Dec 2025 (AR2025 PDF p. 117); AR2024 PDF p. 19 also describes the bank as a 'bank KBMI 1'."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 12900.219,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/ANNUAL%20REPORT%20BANK%20MESTIKA%202019-20200811093538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 264, Statement of financial position, 'Jumlah aset' (Rp 12,900,218,775,263)",
+                "basis": "consolidated",
+                "note": "Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes). Same figure as the 2019 comparative in AR2020 (PDF p. 401); no restatement."
+            },
+            "loans_gross": {
+                "v": 7791.537,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/ANNUAL%20REPORT%20BANK%20MESTIKA%202019-20200811093538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 264, Statement of financial position, 'Kredit yang diberikan': related parties Rp 27,310,112,704 + third parties Rp 7,764,227,084,141 (before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans = sum of the two printed lines before the impairment allowance (no unearned-income line); equals the gross 'Kredit yang diberikan' in the AR2021-AR2025 highlights and the OJK publications (the AR2019/AR2020 highlights print the net-of-allowance figure instead). Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "deposits": {
+                "v": 8871.009,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/ANNUAL%20REPORT%20BANK%20MESTIKA%202019-20200811093538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 265, Statement of financial position, 'Simpanan nasabah' total (Rp 8,871,009,275,656)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito berjangka) = DPK; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 3480.469,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/ANNUAL%20REPORT%20BANK%20MESTIKA%202019-20200811093538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 265, Statement of financial position, 'Jumlah ekuitas' (Rp 3,480,469,121,456)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3480.469,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/ANNUAL%20REPORT%20BANK%20MESTIKA%202019-20200811093538.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 265, Statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 325.932,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Mestika%202020%20(hires)-20210508115829.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 403, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan' (Rp 325,932,118,524)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest; profit for the year = profit attributable to owners. Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "eps": {
+                "v": 80,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Mestika%202020%20(hires)-20210508115829.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 404, Statement of comprehensive income, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2021-05-07",
+                "note": "Basic EPS as printed (Rp, two decimals). No split/bonus ever, so the share basis never changed. Weighted-average shares (the 2020 buyback of 62.8m shares ran Apr-Jun 2020): 325,932,118,524 / 80.00 = about 4,074m; year-end shares 4,026,956,100 (EPS x shares within 1.2% of profit)."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "No payout percentage printed (checked: AR2021 PDF p. 136 'Uraian Dividen', AGMS summary of 3 Jun 2021 Mata Acara II, AR2022 PDF p. 137). AGMS 3 Jun 2021 paid Rp29.79/share, Rp119,963,022,219 in total (AR2021 FS cash-flow statement, PDF p. 406) out of FY2020 profit Rp325,932,118,524; the ratio is not stored because it is not printed."
+            },
+            "total_assets": {
+                "v": 14159.755,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Mestika%202020%20(hires)-20210508115829.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 401, Statement of financial position, 'Jumlah aset' (Rp 14,159,755,232,533)",
+                "basis": "consolidated",
+                "note": "Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "loans_gross": {
+                "v": 7195.565,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Mestika%202020%20(hires)-20210508115829.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 401, Statement of financial position, 'Kredit yang diberikan': related parties Rp 23,763,567,559 + third parties Rp 7,171,801,260,516 (before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans = sum of the two printed lines before the impairment allowance (no unearned-income line); equals the gross 'Kredit yang diberikan' in the AR2021-AR2025 highlights and the OJK publications (the AR2019/AR2020 highlights print the net-of-allowance figure instead). Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "deposits": {
+                "v": 9895.219,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Mestika%202020%20(hires)-20210508115829.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 402, Statement of financial position, 'Simpanan nasabah' total (Rp 9,895,218,981,306)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito berjangka) = DPK; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 4009.263,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Mestika%202020%20(hires)-20210508115829.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 402, Statement of financial position, 'Jumlah ekuitas' (Rp 4,009,262,625,539)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 4009.263,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Mestika%202020%20(hires)-20210508115829.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 402, Statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 4026956100,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Mestika%202020%20(hires)-20210508115829.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 495, Notes - share capital (Modal saham): shareholders' total 4,026,956,100 + treasury shares 63,133,900 = issued 4,090,090,000",
+                "basis": "n/a",
+                "share_basis": "2021-05-07",
+                "note": "Issued and fully paid 4,090,090,000 shares (par Rp200) less 63,133,900 treasury shares."
+            },
+            "year_end_price": {
+                "v": 1548,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Mestika%202020%20(hires)-20210508115829.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Informasi Saham share-price table, Triwulan/Quarter IV 'Penutupan/Close'",
+                "basis": "n/a",
+                "share_basis": "2021-05-07",
+                "note": "Q4-2020 'Penutupan/Close' as printed (AR2020 PDF p. 16; same in AR2021 PDF p. 16); the table is captioned 'Sumber | source : yahoo finance'. DOUBTFUL: 1,548 is not on the IDX tick grid (Rp5 steps between Rp500 and Rp2,000), so it cannot be a traded close; the AR's 'Kapitalisasi Pasar' column for the quarter (378,950,400) is just volume 244,800 x 1,548. The AR does not print the session date; as_of_date is the period end. Stored as printed - check against prices/BBMD.json (see research_notes)."
+            },
+            "roe": {
+                "v": 9.35,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE as printed in the OJK-format ratio table (definition not stated in the AR; OJK published-report ROE), bank only. The same AR prints a separate 'Rasio laba (rugi) terhadap ekuitas' (net profit / equity) that is lower; not used. AR2020 PDF pp. 13-14 and AR2021 PDF p. 14 print the same 2020 values (AR2020 has no CIR line)."
+            },
+            "roa": {
+                "v": 3.17,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only. AR2020 PDF pp. 13-14 and AR2021 PDF p. 14 print the same 2020 values (AR2020 has no CIR line)."
+            },
+            "nim": {
+                "v": 6.66,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. AR2020 PDF pp. 13-14 and AR2021 PDF p. 14 print the same 2020 values (AR2020 has no CIR line)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: cost of credit is not printed in AR2020 or AR2022 (checked: Ikhtisar Data Keuangan ratio tables, MD&A) nor in the OJK publication; not computed from the provision line."
+            },
+            "npl_gross": {
+                "v": 1.69,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'Non Performing Loan Gross (NPL Gross)'",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (OJK). AR2020 PDF pp. 13-14 and AR2021 PDF p. 14 print the same 2020 values (AR2020 has no CIR line)."
+            },
+            "npl_net": {
+                "v": 0.75,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'Non Performing Loan Net (NPL Net)'",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only (OJK)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no loan-at-risk / 'Kredit Kualitas Rendah' ratio in AR2020, AR2022 or the year-end OJK publication (the KKR line only appears in the 2026 quarterly template; 9M2026 value stored in interim.lar)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no NPL coverage ratio in AR2020/AR2022 (only 'CKPN aset keuangan terhadap aset produktif' is printed, a different ratio); not computed."
+            },
+            "ldr": {
+                "v": 72.72,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 46.49,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "CAR/KPMM, bank only (OJK published-report ratio). AR2020 PDF pp. 13-14 and AR2021 PDF p. 14 print the same 2020 values (AR2020 has no CIR line)."
+            },
+            "cir": {
+                "v": 39.85,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed (separate from BOPO), bank only. AR2020 PDF pp. 13-14 and AR2021 PDF p. 14 print the same 2020 values (AR2020 has no CIR line)."
+            },
+            "bopo": {
+                "v": 67.59,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, 'Biaya Operasional Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 46.19,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, 'Rasio Dana Murah / Low Cost Ratio (Ekuiditas section)'",
+                "basis": "bank_only",
+                "note": "Low-cost-fund ratio = current + savings accounts / third-party funds (CASA), bank only. AR2020 PDF pp. 13-14 and AR2021 PDF p. 14 print the same 2020 values (AR2020 has no CIR line)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 519.58,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Bank%20Mestika%202021-20220427173434.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 403, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan' (Rp 519,580,026,420)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest; profit for the year = profit attributable to owners. Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "eps": {
+                "v": 129.02,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Bank%20Mestika%202021-20220427173434.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 404, Statement of comprehensive income, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2022-04-27",
+                "note": "Basic EPS as printed (Rp, two decimals). No split/bonus ever, so the share basis never changed."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "No payout percentage printed (checked: AR2022 PDF pp. 136-137, AGMS summary of 24 May 2022, AR2023 PDF p. 138). AGMS 24 May 2022 paid Rp34.26/share, Rp137,967,377,088 (AR2022 FS cash flow, PDF p. 389) out of FY2021 profit Rp519,580,026,420; not stored because not printed."
+            },
+            "total_assets": {
+                "v": 15983.152,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Bank%20Mestika%202021-20220427173434.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 401, Statement of financial position, 'Jumlah aset' (Rp 15,983,152,301,240)",
+                "basis": "consolidated",
+                "note": "Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "loans_gross": {
+                "v": 7948.979,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Bank%20Mestika%202021-20220427173434.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 401, Statement of financial position, 'Kredit yang diberikan': related parties Rp 70,128,860,334 + third parties Rp 7,878,849,858,925 (before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans = sum of the two printed lines before the impairment allowance (no unearned-income line); equals the gross 'Kredit yang diberikan' in the AR2021-AR2025 highlights and the OJK publications (the AR2019/AR2020 highlights print the net-of-allowance figure instead). Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "deposits": {
+                "v": 11171.474,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Bank%20Mestika%202021-20220427173434.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 402, Statement of financial position, 'Simpanan nasabah' total (Rp 11,171,473,843,411)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito berjangka) = DPK; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 4289.82,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Bank%20Mestika%202021-20220427173434.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 402, Statement of financial position, 'Jumlah ekuitas' (Rp 4,289,820,124,680)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 4289.82,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Bank%20Mestika%202021-20220427173434.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 402, Statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 4027068800,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Bank%20Mestika%202021-20220427173434.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 477, Notes - share capital (Modal saham): shareholders' total 4,027,068,800 + treasury shares 63,021,200 = issued 4,090,090,000",
+                "basis": "n/a",
+                "share_basis": "2022-04-27",
+                "note": "Issued and fully paid 4,090,090,000 shares (par Rp200) less 63,021,200 treasury shares."
+            },
+            "year_end_price": {
+                "v": 2000,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20Bank%20Mestika%202021-20220427173434.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Informasi Saham share-price table, Triwulan/Quarter IV 'Penutupan/Close'",
+                "basis": "n/a",
+                "share_basis": "2022-04-27",
+                "note": "Q4-2021 close as printed (AR2021 PDF p. 16; same in AR2022 PDF p. 17), table source 'yahoo finance'. On the tick grid; the value column 3,800,800,000 = volume 1,900,400 x 2,000. Session date not printed; as_of_date is the period end."
+            },
+            "roe": {
+                "v": 12.5,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE as printed in the OJK-format ratio table (definition not stated in the AR; OJK published-report ROE), bank only. The same AR prints a separate 'Rasio laba (rugi) terhadap ekuitas' (net profit / equity) that is lower; not used. same 2021 values in AR2021 PDF p. 14 and AR2022 PDF p. 16."
+            },
+            "roa": {
+                "v": 4.31,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only. same 2021 values in AR2021 PDF p. 14 and AR2022 PDF p. 16."
+            },
+            "nim": {
+                "v": 6.54,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. same 2021 values in AR2021 PDF p. 14 and AR2022 PDF p. 16."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: cost of credit is not printed in AR2021 or AR2023 (checked: Ikhtisar Data Keuangan ratio tables, MD&A) nor in the OJK publication; not computed from the provision line."
+            },
+            "npl_gross": {
+                "v": 1.18,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'Non Performing Loan Gross (NPL Gross)'",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (OJK). same 2021 values in AR2021 PDF p. 14 and AR2022 PDF p. 16."
+            },
+            "npl_net": {
+                "v": 0.34,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'Non Performing Loan Net (NPL Net)'",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only (OJK)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no loan-at-risk / 'Kredit Kualitas Rendah' ratio in AR2021, AR2023 or the year-end OJK publication (the KKR line only appears in the 2026 quarterly template; 9M2026 value stored in interim.lar)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no NPL coverage ratio in AR2021/AR2023 (only 'CKPN aset keuangan terhadap aset produktif' is printed, a different ratio); not computed."
+            },
+            "ldr": {
+                "v": 71.15,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 48.12,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "CAR/KPMM, bank only (OJK published-report ratio). same 2021 values in AR2021 PDF p. 14 and AR2022 PDF p. 16."
+            },
+            "cir": {
+                "v": 35.31,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed (separate from BOPO), bank only. same 2021 values in AR2021 PDF p. 14 and AR2022 PDF p. 16."
+            },
+            "bopo": {
+                "v": 51.7,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, 'Biaya Operasional Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 45.2,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Ikhtisar Data Keuangan Penting, 'Rasio Dana Murah / Low Cost Ratio (Ekuiditas section)'",
+                "basis": "bank_only",
+                "note": "Low-cost-fund ratio = current + savings accounts / third-party funds (CASA), bank only. same 2021 values in AR2021 PDF p. 14 and AR2022 PDF p. 16."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 523.104,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 386, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan' (Rp 523,103,882,225)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest; profit for the year = profit attributable to owners. Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "eps": {
+                "v": 129.9,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 387, Statement of comprehensive income, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2023-04-28",
+                "note": "Basic EPS as printed (Rp, two decimals). No split/bonus ever, so the share basis never changed."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "No payout percentage printed (checked: AR2023 PDF p. 138, AGMS result announcement of 7 Jun 2023, AR2024 PDF p. 131). AGMS 7 Jun 2023 paid Rp34.27/share, Rp138,007,647,776 out of FY2022 profit Rp523,103,882,225; not stored because not printed."
+            },
+            "total_assets": {
+                "v": 16583.991,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 384, Statement of financial position, 'Jumlah aset' (Rp 16,583,990,927,531)",
+                "basis": "consolidated",
+                "note": "Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "loans_gross": {
+                "v": 8836.487,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 384, Statement of financial position, 'Kredit yang diberikan': related parties Rp 145,353,463,497 + third parties Rp 8,691,133,102,603 (before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans = sum of the two printed lines before the impairment allowance (no unearned-income line); equals the gross 'Kredit yang diberikan' in the AR2021-AR2025 highlights and the OJK publications (the AR2019/AR2020 highlights print the net-of-allowance figure instead). Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "deposits": {
+                "v": 10931.452,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 385, Statement of financial position, 'Simpanan nasabah' total (Rp 10,931,452,030,760)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito berjangka) = DPK; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 4552.298,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 385, Statement of financial position, 'Jumlah ekuitas' (Rp 4,552,297,953,409)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 4552.298,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 385, Statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 4027068800,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 460, Notes - share capital (Modal saham): shareholders' total 4,027,068,800 + treasury shares 63,021,200 = issued 4,090,090,000",
+                "basis": "n/a",
+                "share_basis": "2023-04-28",
+                "note": "Issued and fully paid 4,090,090,000 shares (par Rp200) less 63,021,200 treasury shares."
+            },
+            "year_end_price": {
+                "v": 2033,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/Laporan%20Tahunan%20Bank%20Mestika%202022-20230428151152.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Informasi Saham share-price table, Triwulan/Quarter IV 'Penutupan/Close'",
+                "basis": "n/a",
+                "share_basis": "2023-04-28",
+                "note": "Q4-2022 close as printed (AR2022 PDF p. 17; same in AR2023 PDF p. 17). DOUBTFUL: 2,033 is off the IDX tick grid (Rp10 steps above Rp2,000). The same tables imply Rp2,120: AR2022's value column 120,840,000 / volume 57,000 = 2,120, and AR2023 prints a Q4-2022 market capitalisation of Rp8,670,990,800,000 = 4,090,090,000 shares x 2,120. Likely a dividend-adjusted Yahoo close. Stored as printed; as_of_date is the period end."
+            },
+            "roe": {
+                "v": 12.11,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9-10, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE as printed in the OJK-format ratio table (definition not stated in the AR; OJK published-report ROE), bank only. The same AR prints a separate 'Rasio laba (rugi) terhadap ekuitas' (net profit / equity) that is lower; not used. same 2022 values in AR2022 PDF p. 16 and AR2023 PDF p. 16."
+            },
+            "roa": {
+                "v": 3.97,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9-10, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only. same 2022 values in AR2022 PDF p. 16 and AR2023 PDF p. 16."
+            },
+            "nim": {
+                "v": 6.62,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9-10, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. same 2022 values in AR2022 PDF p. 16 and AR2023 PDF p. 16."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: cost of credit is not printed in AR2022 or AR2024 (checked: Ikhtisar Data Keuangan ratio tables, MD&A) nor in the OJK publication; not computed from the provision line."
+            },
+            "npl_gross": {
+                "v": 1.26,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9-10, Rasio Keuangan, 'Non Performing Loan Gross (NPL Gross)'",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (OJK). same 2022 values in AR2022 PDF p. 16 and AR2023 PDF p. 16."
+            },
+            "npl_net": {
+                "v": 0.54,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9-10, Rasio Keuangan, 'Non Performing Loan Net (NPL Net)'",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only (OJK)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no loan-at-risk / 'Kredit Kualitas Rendah' ratio in AR2022, AR2024 or the year-end OJK publication (the KKR line only appears in the 2026 quarterly template; 9M2026 value stored in interim.lar)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no NPL coverage ratio in AR2022/AR2024 (only 'CKPN aset keuangan terhadap aset produktif' is printed, a different ratio); not computed."
+            },
+            "ldr": {
+                "v": 80.84,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9-10, Ikhtisar Data Keuangan Penting, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 44.24,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9-10, Ikhtisar Data Keuangan Penting, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "CAR/KPMM, bank only (OJK published-report ratio). same 2022 values in AR2022 PDF p. 16 and AR2023 PDF p. 16."
+            },
+            "cir": {
+                "v": 37.98,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9-10, Ikhtisar Data Keuangan Penting, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed (separate from BOPO), bank only. same 2022 values in AR2022 PDF p. 16 and AR2023 PDF p. 16."
+            },
+            "bopo": {
+                "v": 52.74,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9-10, Ikhtisar Data Keuangan Penting, 'Biaya Operasional Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 44.91,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 10, Ikhtisar Data Keuangan Penting, 'Rasio Dana Murah / Low Cost Ratio (Ekuiditas section)'",
+                "basis": "bank_only",
+                "note": "Low-cost-fund ratio = current + savings accounts / third-party funds (CASA), bank only. same 2022 values in AR2022 PDF p. 16 and AR2023 PDF p. 16."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 417.136,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 394, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan' (Rp 417,136,268,995)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest; profit for the year = profit attributable to owners. Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "eps": {
+                "v": 103.58,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 395, Statement of comprehensive income, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2024-04-30",
+                "note": "Basic EPS as printed (Rp, two decimals). No split/bonus ever, so the share basis never changed."
+            },
+            "payout_ratio": {
+                "v": 33.08,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 131, Uraian Dividen: 'Dividen yang dibagikan sebesar 33,08% dari laba bersih tahun 2023'",
+                "basis": "n/a",
+                "note": "Rp138,007,647,776 (Rp34.27/share, AGMS 27 May 2024) / FY2023 profit Rp417,136,268,995 = 33.08%, consistent."
+            },
+            "total_assets": {
+                "v": 16054.824,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 392, Statement of financial position, 'Jumlah aset' (Rp 16,054,823,605,763)",
+                "basis": "consolidated",
+                "note": "Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "loans_gross": {
+                "v": 9393.465,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 392, Statement of financial position, 'Kredit yang diberikan': related parties Rp 156,616,015,628 + third parties Rp 9,236,849,051,069 (before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans = sum of the two printed lines before the impairment allowance (no unearned-income line); equals the gross 'Kredit yang diberikan' in the AR2021-AR2025 highlights and the OJK publications (the AR2019/AR2020 highlights print the net-of-allowance figure instead). Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "deposits": {
+                "v": 10849.797,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 393, Statement of financial position, 'Simpanan nasabah' total (Rp 10,849,797,009,453)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito berjangka) = DPK; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 4903.654,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 393, Statement of financial position, 'Jumlah ekuitas' (Rp 4,903,654,244,693)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 4903.654,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 393, Statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 4027068800,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 475, Notes - share capital (Modal saham): shareholders' total 4,027,068,800 + treasury shares 63,021,200 = issued 4,090,090,000",
+                "basis": "n/a",
+                "share_basis": "2024-04-30",
+                "note": "Issued and fully paid 4,090,090,000 shares (par Rp200) less 63,021,200 treasury shares."
+            },
+            "year_end_price": {
+                "v": 1950,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%202023%20BANK%20MESTIKA%20300424.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Informasi Saham share-price table, Triwulan/Quarter IV 'Penutupan/Close'",
+                "basis": "n/a",
+                "share_basis": "2024-04-30",
+                "note": "Q4-2023 close as printed (AR2023 PDF p. 17; same in AR2024 PDF p. 12). CONFLICT: the same row's market capitalisation Rp8,180,180,000,000 = 4,090,090,000 x 2,000, i.e. Rp2,000. Stored as printed; as_of_date is the period end."
+            },
+            "roe": {
+                "v": 8.76,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE as printed in the OJK-format ratio table (definition not stated in the AR; OJK published-report ROE), bank only. The same AR prints a separate 'Rasio laba (rugi) terhadap ekuitas' (net profit / equity) that is lower; not used. same 2023 values in AR2023 PDF p. 16 and AR2024 PDF pp. 9-10."
+            },
+            "roa": {
+                "v": 3.26,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only. same 2023 values in AR2023 PDF p. 16 and AR2024 PDF pp. 9-10."
+            },
+            "nim": {
+                "v": 6.38,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. same 2023 values in AR2023 PDF p. 16 and AR2024 PDF pp. 9-10."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: cost of credit is not printed in AR2023 or AR2025 (checked: Ikhtisar Data Keuangan ratio tables, MD&A) nor in the OJK publication; not computed from the provision line."
+            },
+            "npl_gross": {
+                "v": 1.37,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Rasio Keuangan, 'Non Performing Loan Gross (NPL Gross)'",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (OJK). same 2023 values in AR2023 PDF p. 16 and AR2024 PDF pp. 9-10."
+            },
+            "npl_net": {
+                "v": 0.69,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Rasio Keuangan, 'Non Performing Loan Net (NPL Net)'",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only (OJK)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no loan-at-risk / 'Kredit Kualitas Rendah' ratio in AR2023, AR2025 or the year-end OJK publication (the KKR line only appears in the 2026 quarterly template; 9M2026 value stored in interim.lar)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no NPL coverage ratio in AR2023/AR2025 (only 'CKPN aset keuangan terhadap aset produktif' is printed, a different ratio); not computed."
+            },
+            "ldr": {
+                "v": 86.58,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 49.93,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "CAR/KPMM, bank only (OJK published-report ratio). same 2023 values in AR2023 PDF p. 16 and AR2024 PDF pp. 9-10."
+            },
+            "cir": {
+                "v": 45.23,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed (separate from BOPO), bank only. same 2023 values in AR2023 PDF p. 16 and AR2024 PDF pp. 9-10."
+            },
+            "bopo": {
+                "v": 60.58,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Biaya Operasional Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 46.4,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Ikhtisar Data Keuangan Penting, 'Rasio Dana Murah / Low Cost Ratio (Ekuiditas section)'",
+                "basis": "bank_only",
+                "note": "Low-cost-fund ratio = current + savings accounts / third-party funds (CASA), bank only. same 2023 values in AR2023 PDF p. 16 and AR2024 PDF pp. 9-10."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 403.389,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 457, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan' (Rp 403,389,184,038)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest; profit for the year = profit attributable to owners. Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "eps": {
+                "v": 100.12,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 458, Statement of comprehensive income, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2025-04-30",
+                "note": "Basic EPS as printed (Rp, two decimals). No split/bonus ever, so the share basis never changed."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Printed but contradicted by the bank's own figures: AR2025 PDF p. 118 says 'Dividen yang dibagikan sebesar 39,3% dari laba bersih tahun 2024', but the AGMS of 19 Jun 2025 paid a maximum Rp138,000,000,000 (Rp34.25/share; Rp137,997,517,555 paid per FS2025 Note 24) out of FY2024 profit Rp403,389,184,038, i.e. about 34.2%. Left null rather than store a ratio the source contradicts or one computed here."
+            },
+            "total_assets": {
+                "v": 16577.961,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 455, Statement of financial position, 'Jumlah aset' (Rp 16,577,960,829,786)",
+                "basis": "consolidated",
+                "note": "Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "loans_gross": {
+                "v": 10833.772,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 455, Statement of financial position, 'Kredit yang diberikan': related parties Rp 209,246,385,697 + third parties Rp 10,624,525,641,098 (before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans = sum of the two printed lines before the impairment allowance (no unearned-income line); equals the gross 'Kredit yang diberikan' in the AR2021-AR2025 highlights and the OJK publications (the AR2019/AR2020 highlights print the net-of-allowance figure instead). Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "deposits": {
+                "v": 10290.772,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 456, Statement of financial position, 'Simpanan nasabah' total (Rp 10,290,772,193,426)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito berjangka) = DPK; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 5088.347,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 456, Statement of financial position, 'Jumlah ekuitas' (Rp 5,088,347,193,335)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 5088.347,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 456, Statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 4029124600,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 539, Notes - share capital (Modal saham): shareholders' total 4,029,124,600 + treasury shares 60,965,400 = issued 4,090,090,000",
+                "basis": "n/a",
+                "share_basis": "2025-04-30",
+                "note": "Issued and fully paid 4,090,090,000 shares (par Rp200) less 60,965,400 treasury shares."
+            },
+            "year_end_price": {
+                "v": 1987,
+                "source_url": "https://bankmestika.co.id/img/Report/Annual/AR%20BANK%20MESTIKA%202024%2030.04.25%20lowres.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Informasi Saham share-price table, Triwulan/Quarter IV 'Penutupan/Close'",
+                "basis": "n/a",
+                "share_basis": "2025-04-30",
+                "note": "Q4-2024 close as printed (AR2024 PDF p. 11; same in AR2025 PDF p. 15, table source 'yahoo finance'). DOUBTFUL: 1,987 is off the IDX tick grid (Rp5 steps); the same row's market capitalisation Rp7,893,873,700,000 = 4,090,090,000 x 1,930. Stored as printed; as_of_date is the period end."
+            },
+            "roe": {
+                "v": 8.15,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE as printed in the OJK-format ratio table (definition not stated in the AR; OJK published-report ROE), bank only. The same AR prints a separate 'Rasio laba (rugi) terhadap ekuitas' (net profit / equity) that is lower; not used. same 2024 values in AR2024 PDF pp. 9-10."
+            },
+            "roa": {
+                "v": 3.23,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only. same 2024 values in AR2024 PDF pp. 9-10."
+            },
+            "nim": {
+                "v": 6.28,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. same 2024 values in AR2024 PDF pp. 9-10."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: cost of credit is not printed in AR2024 or AR2025 (checked: Ikhtisar Data Keuangan ratio tables, MD&A) nor in the OJK publication; not computed from the provision line."
+            },
+            "npl_gross": {
+                "v": 0.66,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Rasio Keuangan, 'Non Performing Loan Gross (NPL Gross)'",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (OJK). same 2024 values in AR2024 PDF pp. 9-10."
+            },
+            "npl_net": {
+                "v": 0.3,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Rasio Keuangan, 'Non Performing Loan Net (NPL Net)'",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only (OJK)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no loan-at-risk / 'Kredit Kualitas Rendah' ratio in AR2024, AR2025 or the year-end OJK publication (the KKR line only appears in the 2026 quarterly template; 9M2026 value stored in interim.lar)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no NPL coverage ratio in AR2024/AR2025 (only 'CKPN aset keuangan terhadap aset produktif' is printed, a different ratio); not computed."
+            },
+            "ldr": {
+                "v": 105.28,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 44.93,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "CAR/KPMM, bank only (OJK published-report ratio). same 2024 values in AR2024 PDF pp. 9-10."
+            },
+            "cir": {
+                "v": 47.21,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed (separate from BOPO), bank only. same 2024 values in AR2024 PDF pp. 9-10."
+            },
+            "bopo": {
+                "v": 62.06,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Biaya Operasional Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 47.31,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Ikhtisar Data Keuangan Penting, 'Rasio Dana Murah / Low Cost Ratio (Ekuiditas section)'",
+                "basis": "bank_only",
+                "note": "Low-cost-fund ratio = current + savings accounts / third-party funds (CASA), bank only. same 2024 values in AR2024 PDF pp. 9-10."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 319.984,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 436, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan' (Rp 319,984,327,033)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest; profit for the year = profit attributable to owners. Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "eps": {
+                "v": 79.42,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 437, Statement of comprehensive income, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2026-04-28",
+                "note": "Basic EPS as printed (Rp, two decimals). No split/bonus ever, so the share basis never changed."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "No payout percentage printed (checked: AGMS summary of 9 Jun 2026 Mata Acara II, IR dividend page 'Informasi Pembagian Data Dividen' (Jul 2026), 9M2026 OJK report). AGMS 9 Jun 2026 approved a maximum Rp90,000,000,000 (Rp22.33/share) out of FY2025 profit Rp319,984,327,033 (Kontan reports 28.13%; no bank document printing a ratio was found); AR2026 not yet published. Not stored because not printed."
+            },
+            "total_assets": {
+                "v": 16665.331,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 434, Statement of financial position, 'Jumlah aset' (Rp 16,665,330,709,228)",
+                "basis": "consolidated",
+                "note": "Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "loans_gross": {
+                "v": 11229.699,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 434, Statement of financial position, 'Kredit yang diberikan': related parties Rp 435,736,395,281 + third parties Rp 10,793,962,370,007 (before allowance)",
+                "basis": "consolidated",
+                "note": "Gross loans = sum of the two printed lines before the impairment allowance (no unearned-income line); equals the gross 'Kredit yang diberikan' in the AR2021-AR2025 highlights and the OJK publications (the AR2019/AR2020 highlights print the net-of-allowance figure instead). Bank Mestika has no subsidiaries, so its own audited statements are the whole reporting entity; stored as 'consolidated' (see research_notes)."
+            },
+            "deposits": {
+                "v": 10996.263,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 435, Statement of financial position, 'Simpanan nasabah' total (Rp 10,996,263,413,298)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (giro + tabungan + deposito berjangka) = DPK; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 5450.778,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 435, Statement of financial position, 'Jumlah ekuitas' (Rp 5,450,778,413,877)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 5450.778,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 435, Statement of financial position, 'Jumlah ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 4029124600,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 518, Notes - share capital (Modal saham): shareholders' total 4,029,124,600 + treasury shares 60,965,400 = issued 4,090,090,000",
+                "basis": "n/a",
+                "share_basis": "2026-04-28",
+                "note": "Issued and fully paid 4,090,090,000 shares (par Rp200) less 60,965,400 treasury shares."
+            },
+            "year_end_price": {
+                "v": 2050,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Informasi Saham share-price table, Triwulan/Quarter IV 'Penutupan/Close'",
+                "basis": "n/a",
+                "share_basis": "2026-04-28",
+                "note": "Q4-2025 close as printed (AR2025 PDF p. 15, table source 'yahoo finance'); the text on the same page says the share 'dipenghujung tahun ditutup sebesar Rp2.050', and the printed market capitalisation Rp8,384,684,500,000 = 4,090,090,000 x 2,050. as_of_date is the period end."
+            },
+            "roe": {
+                "v": 6.1,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "ROE as printed in the OJK-format ratio table (definition not stated in the AR; OJK published-report ROE), bank only. The same AR prints a separate 'Rasio laba (rugi) terhadap ekuitas' (net profit / equity) that is lower; not used. same values in the FY2025 OJK publication (LaporanKeuangan2025Kuartal4.pdf, ratio table)."
+            },
+            "roa": {
+                "v": 2.49,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Return of Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "ROA per OJK (pre-tax profit / average total assets), bank only. same values in the FY2025 OJK publication (LaporanKeuangan2025Kuartal4.pdf, ratio table)."
+            },
+            "nim": {
+                "v": 5.84,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, Rasio Keuangan, 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "NIM per OJK, bank only. same values in the FY2025 OJK publication (LaporanKeuangan2025Kuartal4.pdf, ratio table)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: cost of credit is not printed in AR2025 or AR2025 (checked: Ikhtisar Data Keuangan ratio tables, MD&A) nor in the OJK publication; not computed from the provision line."
+            },
+            "npl_gross": {
+                "v": 1.56,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Rasio Keuangan, 'Non Performing Loan Gross (NPL Gross)'",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (OJK). same values in the FY2025 OJK publication (LaporanKeuangan2025Kuartal4.pdf, ratio table)."
+            },
+            "npl_net": {
+                "v": 0.81,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Rasio Keuangan, 'Non Performing Loan Net (NPL Net)'",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only (OJK)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no loan-at-risk / 'Kredit Kualitas Rendah' ratio in AR2025, AR2025 or the year-end OJK publication (the KKR line only appears in the 2026 quarterly template; 9M2026 value stored in interim.lar)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no NPL coverage ratio in AR2025/AR2025 (only 'CKPN aset keuangan terhadap aset produktif' is printed, a different ratio); not computed."
+            },
+            "ldr": {
+                "v": 102.12,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "LDR per OJK, bank only."
+            },
+            "car": {
+                "v": 46.49,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "CAR/KPMM, bank only (OJK published-report ratio). same values in the FY2025 OJK publication (LaporanKeuangan2025Kuartal4.pdf, ratio table)."
+            },
+            "cir": {
+                "v": 55.89,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Cost-to-income ratio as printed (separate from BOPO), bank only. same values in the FY2025 OJK publication (LaporanKeuangan2025Kuartal4.pdf, ratio table)."
+            },
+            "bopo": {
+                "v": 69.42,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Ikhtisar Data Keuangan Penting, 'Biaya Operasional Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": 48.82,
+                "source_url": "https://www.bankmestika.co.id/img/Report/Annual/LaporanTahunan2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Ikhtisar Data Keuangan Penting, 'Rasio Dana Murah / Low Cost Ratio (Ekuiditas section)'",
+                "basis": "bank_only",
+                "note": "Low-cost-fund ratio = current + savings accounts / third-party funds (CASA), bank only. same values in the FY2025 OJK publication (LaporanKeuangan2025Kuartal4.pdf, ratio table)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 29.79,
+            "total": 119.963,
+            "cum_date": "2021-06-11",
+            "ex_date": "2021-06-14",
+            "record_date": "2021-06-15",
+            "pay_date": "2021-07-02",
+            "share_basis": "2021-06-03",
+            "source_url": "https://bankmestika.co.id/img/Report/RUPS/2021/Ringkasan%20Risalah%20RUPST%20&%20RUPSLB-20210604155644.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-06-03",
+            "loc": "Pengumuman Ringkasan Risalah RUPST & RUPSLB 3 Jun 2021: Mata Acara II (p. 4: 'lebih kurang sebesar Rp 120.000.000.000 ... kepada Pemegang Saham sebanyak 4.026.956.100 ... Rp 29,79') and section I 'Pelaksanaan Pembagian Dividen' (cum regular/negotiated 11 Jun, ex 14 Jun, cash ex 16 Jun, recording 15 Jun, payment 2 Jul 2021)",
+            "note": "Out of FY2020 profit. Total = amount actually paid, Rp119,963,022,219 (AR2021 FS cash-flow statement, PDF p. 406; = 29.79 x 4,026,956,100). The AR2021-AR2023 dividend tables print recording '10 Mei 2021' and payment '4 Juli 2021', which contradict the AGMS announcement; the announcement is used."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 34.26,
+            "total": 137.967,
+            "cum_date": "2022-06-03",
+            "ex_date": "2022-06-06",
+            "record_date": "2022-06-07",
+            "pay_date": "2022-06-24",
+            "share_basis": "2022-05-24",
+            "source_url": "https://bankmestika.co.id/img/Report/RUPS/2022/Ringkasan%20Risalah%20RUPST%202022-20220525113641.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-05-24",
+            "loc": "Pengumuman Ringkasan Risalah RUPST 24 May 2022: Mata Acara II p. 3 ('lebih kurang Rp 138.000.000.000 ... 4.027.068.800 lembar saham ... Rp 34,26') and section I 'Pelaksanaan Pembagian Dividen' (cum regular/negotiated 3 Jun, ex 6 Jun, cash ex 8 Jun, recording 7 Jun, payment 24 Jun 2022)",
+            "note": "Out of FY2021 profit. Total = amount actually paid, Rp137,967,377,088 (AR2022 FS cash flow, PDF p. 389; = 34.26 x 4,027,068,800). AR tables print recording '8 Juni 2022' and payment '23 Juni 2022'; the AGMS announcement is used."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 34.27,
+            "total": 138.008,
+            "cum_date": "2023-06-15",
+            "ex_date": "2023-06-16",
+            "record_date": "2023-06-19",
+            "pay_date": "2023-07-07",
+            "share_basis": "2023-06-07",
+            "source_url": "https://bankmestika.co.id/img/Report/RUPS/2023/Iklan%20Hasil%20RUPST%202023-20230608100701.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-06-07",
+            "loc": "Iklan Hasil RUPST 7 Jun 2023: Mata Acara II p. 3 ('Rp 138.007.647.776,- ... atau sebesar Rp 34,27 per lembar saham ... 4.027.068.800 lembar saham') and section I 'Pelaksanaan Pembagian Dividen' (cum regular/negotiated 15 Jun, ex 16 Jun, cash ex 20 Jun, recording 19 Jun, payment 7 Jul 2023)",
+            "note": "Out of FY2022 profit; Rp138,007,647,776 paid (AR2024 FS cash flow, PDF p. 461, 2023 column). AR2023 PDF p. 138 prints Rp34,26 and a recording date of '15 Mei 2023' (impossible, before the AGMS); the AGMS announcement (Rp34.27 = 138,007,647,776 / 4,027,068,800) is used."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 34.27,
+            "total": 138.008,
+            "cum_date": "2024-06-04",
+            "ex_date": "2024-06-05",
+            "record_date": "2024-06-06",
+            "pay_date": "2024-06-27",
+            "share_basis": "2024-05-27",
+            "source_url": "https://bankmestika.co.id/img/Report/RUPS/2024/Ringkasan%20Risalah%20RUPS%20(Bilingual)-20240528141204.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-05-27",
+            "loc": "Ringkasan Risalah RUPS (bilingual) 27 May 2024: Mata Acara II p. 4 ('Rp 138.007.647.776,- ... Rp 34,27 per lembar saham ... 4.027.068.800') and p. 7 schedule table (cum regular/negotiated 4 Jun, ex 5 Jun, cash ex 7 Jun, recording 6 Jun, payment 27 Jun 2024)",
+            "note": "Out of FY2023 profit; Rp138,007,647,776 paid (AR2024 FS cash flow, PDF p. 461). Payout 33.08% (AR2024 PDF p. 131)."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 34.25,
+            "total": 137.998,
+            "cum_date": "2025-06-30",
+            "ex_date": "2025-07-01",
+            "record_date": "2025-07-02",
+            "pay_date": "2025-07-18",
+            "share_basis": "2025-06-19",
+            "source_url": "https://www.bankmestika.co.id/img/Report/RUPS/2025/Ringkasan%20Risalah%20RUPST%20&%20RUPSLB%20Tahun%20Buku%202024.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-19",
+            "loc": "Ringkasan Risalah RUPST & RUPSLB Tahun Buku 2024 (19 Jun 2025): Mata Acara II p. 4 ('sebanyak-banyaknya Rp 138.000.000.000,- atau sebesar Rp 34,25 ... per lembar saham') and p. 8 schedule table (cum regular/negotiated 30 Jun, ex 1 Jul, cash ex 3 Jul, recording 2 Jul, payment 18 Jul 2025)",
+            "note": "Out of FY2024 profit. Total = amount paid Rp137,997,517,555 (FS2025 Note 24, AR2025 PDF p. 521; cash flow p. 440) on 4,029,124,600 shares net of 60,965,400 treasury shares."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 22.33,
+            "total": 89.97,
+            "cum_date": "2026-06-18",
+            "ex_date": "2026-06-19",
+            "record_date": "2026-06-22",
+            "pay_date": "2026-07-09",
+            "share_basis": "2026-06-09",
+            "source_url": "https://www.bankmestika.co.id/img/Report/RUPS/2026/HasilRUPS2026(Bilingual).pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-06-09",
+            "loc": "Pengumuman Hasil RUPS 2026 (bilingual, 9 Jun 2026): Mata Acara II p. 4 ('sebanyak-banyaknya Rp 90.000.000.000,- ... sebesar Rp 22,33 ... per lembar saham ... kepada Pemegang Saham sebanyak 4.029.124.600') and p. 8 schedule table (cum regular/negotiated 18 Jun, ex 19 Jun, cash ex 23 Jun, recording 22 Jun, payment 9 Jul 2026)",
+            "note": "Out of FY2025 profit. Total = 'Dividen yang dibayarkan' Rp89,970 juta in the 30 Sep 2026 OJK quarterly report (LPTKSeptember2026.pdf PDF p. 3; = 22.33 x 4,029,124,600). Same dates and amount on the IR page 'Informasi Pembagian Data Dividen' (https://www.bankmestika.co.id/img/about/investor/7.%20Informasi%20Pembagian%20Data%20Dividen%20-20240718164117.pdf, updated Jul 2026)."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 202.415,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Tabel 02.B Laba Rugi, 'LABA (RUGI) BERSIH TAHUN BERJALAN' Sep 2026 (Rp juta 202,415)",
+                "basis": "consolidated",
+                "note": "Unaudited 9M2026 OJK quarterly publication (Individual column; the 'Konsolidasian' column is identical because the bank has no subsidiaries). 9M EPS printed Rp50."
+            },
+            "profit_ytd_prior": {
+                "v": 247.906,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 5, same line, Sep 2025 comparative (Rp juta 247,906)",
+                "basis": "consolidated",
+                "note": "Same figure in the 9M2025 publication (LPTKQ32025.pdf PDF p. 7)."
+            },
+            "equity_attr": {
+                "v": 5355.598,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Tabel 01.B Posisi Keuangan, 'TOTAL EKUITAS' Sep 2026 (Rp juta 5,355,598)",
+                "basis": "consolidated",
+                "note": "No non-controlling interest. Equity fell from 5,450.778 bn at Dec 2025 mainly through other comprehensive income of -207.6 bn (fair-value changes on FVOCI securities, net) and the 90.0 bn FY2025 dividend, partly offset by 9M profit."
+            },
+            "shares_out": {
+                "v": 4029124600,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, 'Saham yang dibeli kembali (treasury stock)' Rp juta 66,765 unchanged vs Dec 2025; PDF p. 6 note 'Jumlah lembar saham ... 4.090.090.000 lembar' (issued)",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Issued 4,090,090,000 less 60,965,400 treasury shares. The treasury count is not printed in the quarterly report; it is taken from the AGMS summary of 9 Jun 2026 (dividend paid on 4,029,124,600 shares after deducting treasury shares) and FS2025 Note 21; the unchanged treasury-stock amount (Rp66,765m) shows no treasury shares were sold by 30 Sep 2026 despite the 30 Apr 2026 disclosure of a plan to re-sell them. 9M EPS 50 = 202,415 / 4,029.1m."
+            },
+            "total_assets": {
+                "v": 16539.24,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, 'TOTAL ASET' Sep 2026 (Rp juta 16,539,240)",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 11049.213,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 1, 'Kredit yang diberikan' Sep 2026 (Rp juta 11,049,213), gross before the allowance line",
+                "basis": "consolidated",
+                "note": "OJK template gross loans (Dec 2025 column 11,229,699 equals the audited gross loans)."
+            },
+            "loans_gross_prior": {
+                "v": 11069.835,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKQ32025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 2, '9. Kredit yang diberikan' Sep 2025 (Rp juta 11,069,835)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 10548.907,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, Giro 1,319,842 + Tabungan 3,646,652 + Deposito 5,582,413 (Rp juta), Sep 2026",
+                "basis": "consolidated",
+                "note": "DPK = sum of the three printed customer-deposit lines (same definition as 'Simpanan nasabah'; Dec 2025 sum 10,996,264 equals the audited figure)."
+            },
+            "deposits_prior": {
+                "v": 10967.787,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKQ32025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 3, Giro 1,286,404 + Tabungan 4,020,663 + Deposito 5,660,720 (Rp juta), Sep 2025",
+                "basis": "consolidated",
+                "note": "Sum of the three printed lines."
+            },
+            "roe": {
+                "v": 5.08,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 21, Tabel 09.B Laporan Rasio Keuangan Triwulanan, '9. Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition, annualised, bank only. Sep 2025: 6.35."
+            },
+            "roa": {
+                "v": 2.1,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 21, Tabel 09.B Laporan Rasio Keuangan Triwulanan, '8. Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK (pre-tax, annualised). Sep 2025: 2.59."
+            },
+            "nim": {
+                "v": 5.96,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 21, Tabel 09.B Laporan Rasio Keuangan Triwulanan, '10. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "Sep 2025: 6.04."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 OJK quarterly report (checked Tabel 09.B ratios and the full 24-page report); not computed from the impairment line (Rp87,991m 9M2026)."
+            },
+            "npl_gross": {
+                "v": 2.19,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 21, Tabel 09.B Laporan Rasio Keuangan Triwulanan, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "Sep 2025: 1.08; NPL net 1.22 (Sep 2025: 0.58)."
+            },
+            "lar": {
+                "v": 8.55,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 21, Tabel 09.B Laporan Rasio Keuangan Triwulanan, '7. Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "'Kredit Kualitas Rendah' (low-quality loans: OJK loan-at-risk measure) as printed; new line in the 2026 OJK template. Sep 2025: 7.90."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 OJK quarterly report (only 'CKPN aset keuangan terhadap aset produktif' 1.34% is printed, a different ratio); not computed."
+            },
+            "ldr": {
+                "v": 104.74,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 21, Tabel 09.B Laporan Rasio Keuangan Triwulanan, '13. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Sep 2025: 100.93."
+            },
+            "car": {
+                "v": 46.36,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 21, Tabel 09.B Laporan Rasio Keuangan Triwulanan, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Tabel 06.B (PDF p. 17) prints Rasio KPMM 46.353%. Sep 2025: 46.28."
+            },
+            "cir": {
+                "v": 54.34,
+                "source_url": "https://bankmestika.co.id/img/Report/Financial/LPTKSeptember2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 21, Tabel 09.B Laporan Rasio Keuangan Triwulanan, '12. Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "BOPO 73.69 (not an interim field). Sep 2025: 57.59."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not printed as a ratio in the 9M2026 OJK quarterly report (only the giro/tabungan/deposito balances are given); not computed."
+            }
+        }
+    },
+    "research_notes": [
+        "SOURCE ACCESS: bankmestika.co.id HTML pages sit behind a Cloudflare challenge (403 'Just a moment...') for this server; they were read only through Internet Archive snapshots (reports page 2025-09-15, IR page, privacy notice, homepage 2026-09-10). Every PDF under bankmestika.co.id/img/ downloads directly with a browser User-Agent (no challenge), so all source_url values are the bank's own files, fetched directly on 2026-11-03. Files newer than the last archived reports page (AR2025, FY2025 OJK publication, AGMS 2025/2026 results, 9M2025 report) were located by web search; the 9M2026 report (LPTKSeptember2026.pdf) was found by requesting a few plausible file names on the bank's own server after the 2025 naming pattern. idx.co.id (Akamai, 403) was not used. Details in sources.md.",
+        "ENTITY / BASIS: PT Bank Mestika Dharma Tbk has no subsidiaries (AR2024 PDF p. 92: 'sampai saat ini tidak mempunyai anak perusahaan'); its audited statements are titled 'Laporan Keuangan' (not konsolidasian). The parent PT Mestika Benua Mas (89.44%), which also owns 90% of BPR Prima Tata Patumbak, publishes consolidated statements that are bound into the same AR (e.g. AR2025 PDF pp. 573+; AR2024 PDF pp. 593+) and fill the 'Konsolidasian' columns of the bank's newspaper publications (FY2025: total assets 16,718,981 vs bank 16,665,331 Rp juta). Those parent figures are NOT used. Money fields use the bank's own audited statements with basis 'consolidated' (the validator requires it for profit/equity; same convention as MEGA.json); ratios are the bank's OJK-format ratios, basis 'bank_only'. Equity attributable = total equity (no NCI).",
+        "CORPORATE ACTIONS: none in 2019-2026 - no split, reverse split, rights issue or bonus issue since the 2013 IPO (which was a secondary offering of 430,000,000 existing shares by PT Mestika Benua Mas, so the bank received no proceeds). AR2025 PDF p. 15: 'Bank belum pernah melakukan aksi korporasi yang menyebabkan perubahan pada saham, seperti pemecahan saham, penggabungan saham, dividen saham, saham bonus, perubahan nilai nominal saham, penerbitan efek konversi, serta penambahan dan pengurangan modal'; AR2024 PDF p. 11 says the same for 2024; the 9M2026 OJK report still prints 4,090,090,000 issued shares. corporate_actions is therefore empty, and fy.2019.year_end_price is not needed (no rights/bonus before 2020-12-31). Only treasury-share movements occurred (not corporate actions in this schema): buyback of 357,300 shares in 2019 and about 62.8m in Apr-Jun 2020 (63,133,900 held at end-2020; the IR 'Keterbukaan Informasi Refloat' describes the 2020 programme as 63,021,200 shares for Rp69,016,572,150, average Rp1,095, 17 Apr-12 Jun 2020, i.e. the position after the 2021 sale), sale of 112,700 in 2021 and 2,055,800 in 2024 (FS2025 Note 21, AR2025 PDF p. 520); 60,965,400 held since end-2024. A disclosure dated 30 Apr 2026 (same IR file) announced a plan to re-sell the treasury shares (it still quotes 63,021,200); none had been sold by 30 Sep 2026 (treasury-stock line unchanged at Rp66,765m).",
+        "PER-SHARE BASIS: no share-basis change ever, so EPS, DPS, prices and share counts are directly comparable across years. EPS uses weighted-average shares net of treasury; shares_out = issued 4,090,090,000 less treasury shares at FY end (FS share-capital note). EPS x shares_out is within 1.2% of profit in every year (FY2020 is the widest because of the mid-2020 buyback).",
+        "YEAR-END PRICES - REVIEWER MUST CHECK: the AR share tables are captioned 'Sumber: yahoo finance' and are internally inconsistent. The 'Terendah/Low' and 'Tertinggi/High' columns are swapped in several years (e.g. AR2025 p. 15: Q4-2025 'Low' 2,150, 'High' 1,935), the Q2-2024 open is printed as 5,960 in AR2024 (2,020 in AR2025), and three Q4 closes are not on the IDX tick grid: FY2020 1,548, FY2022 2,033 and FY2024 1,987 - so they cannot be traded closes (probably Yahoo dividend-adjusted closes). The printed market capitalisations imply different year-end prices for FY2022 (Rp2,120), FY2023 (Rp2,000 vs 1,950 printed) and FY2024 (Rp1,930). Following the brief the printed closes are stored with these conflicts in each note; expect price_year_end mismatches for FY2020/2022/2023/2024 once prices/BBMD.json exists, to be checked against the IDX close and acknowledged (precedent: BDMN/BSIM) or the AR value replaced by the owner. FY2021 (2,000) and FY2025 (2,050) are consistent with the printed market values. No price file was fetched in this research (Yahoo returned HTTP 429 for one diagnostic request; nothing from it is used). The stock is extremely illiquid (89.44% held by the parent; quarterly volumes as low as 14,200 shares in Q1 2024, AR2024 PDF p. 11).",
+        "DIVIDENDS: exactly one final cash dividend out of each of FY2020-FY2025, approved at the AGMS after year end; no interim or special dividends (dividend policy: only final dividends, Kebijakan Dividen 22 Mar 2024). FY2019 and FY2018: no dividend (AR2020 PDF p. 136: profit retained; outside the window anyway). Dates come from the AGMS result announcements; the AR dividend tables (AR2021 p. 136, AR2022 p. 137, AR2023 p. 138, AR2024 p. 131, AR2025 p. 118) contain several wrong recording/payment dates (e.g. FY2022 recording '15 Mei 2023', before the 7 Jun 2023 AGMS) and AR2023 prints FY2022 DPS Rp34.26 vs Rp34.27 in the AGMS announcement - the announcements are used. Totals are the amounts actually paid per the FS cash-flow statements (FY2025: OJK 9M2026 report). Payout ratio is printed only for FY2023 (33.08%); FY2024's printed 39.3% contradicts the bank's own amounts (34.2%) and is left null; other years print no ratio.",
+        "NOT DISCLOSED (null): cost of credit (all years and interim), loan at risk FY2020-FY2025 (the 'Kredit Kualitas Rendah' line appears only in the 2026 OJK quarterly template; 9M2026 8.55% stored), NPL coverage (all years and interim; only 'CKPN aset keuangan terhadap aset produktif' is printed), interim CASA, payout ratio FY2020-FY2022, FY2024, FY2025. Nothing was computed.",
+        "RATIO SOURCES: FY2023-FY2025 from the AR2025 ratio table (PDF pp. 13-14), FY2022 from AR2024 (PDF pp. 9-10), FY2021 from AR2023 (PDF p. 16), FY2020 from AR2022 (PDF p. 16; AR2020 itself has no CIR line). Overlapping years in AR2020-AR2025 are identical. ROE is the OJK published-report ROE as printed; the ARs also print a lower 'Rasio laba (rugi) terhadap ekuitas' (e.g. 5.87% for 2025) which is not used. CASA = 'Rasio Dana Murah'. LDR above 100% in FY2024 (105.28) and FY2025 (102.12) and 9M2026 (104.74) is real: loans 10,834 / deposits 10,291 bn at end-2024.",
+        "PDF TEXT: the audited FS pages of AR2021 (PDF pp. ~395-640) have a font encoding where every glyph is shifted by -29 code points; the text was decoded with scripts/deshift.py (shift +29) and the numbers checked against the 2021 comparatives in AR2022 (identical). Units: FS in full Rupiah, AR highlights and OJK reports in Rp juta - all converted to IDR bn.",
+        "RESTATEMENTS: none found. Each year's comparatives in the next AR equal the originally reported figures (checked total assets, equity, profit 2019-2024). PSAK 71 was adopted on 1 Jan 2020 through an opening-balance adjustment at 1 Jan 2020 (AR2020 PDF p. 405, statement of changes in equity) without restating 2019. Fixed-asset revaluations (2015, 2018, 2019, 2022, 2025) go through OCI.",
+        "PROFIT TREND: net profit fell from Rp523.1bn (FY2022) to Rp320.0bn (FY2025) and 9M2026 profit is down 18% YoY (Rp202.4bn vs 247.9bn) with impairment charges up to Rp88.0bn (9M2025: 2.7bn) and NPL gross up to 2.19% (Sep 2025: 1.08%) - real movements per the OJK reports, not unit slips.",
+        "AUDITORS: FY2020-FY2022 KAP Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan (AGMS 2021/2023 summaries); FY2023 KAP Leonard, Mulia & Richard (report 00095/3.0010/AU.1/07/0313-1/1/III/2024 dated 22 Mar 2024, AGMS 2024 summary); FY2024-FY2026 Budiadi Widjaja of KAP Leonard, Mulia & Richard (re-appointed at the 2025 AGMS for FY2025 and at the 2026 AGMS). The 9M2026 report is unaudited ('Emiten tidak diaudit').",
+        "INTERIM: 9M2026 = OJK quarterly publication 'Laporan Publikasi Keuangan Triwulanan' for 30 Sep 2026 (APOLO format, published 29 Oct 2026, unaudited). A full interim financial statement with notes for 30 Sep 2026 was not found on the bank's site; the share count therefore comes from the 9 Jun 2026 AGMS summary plus the unchanged treasury-stock line. Prior-period loans and deposits come from the 9M2025 publication (LPTKQ32025.pdf).",
+        "KBMI: 1 (core capital Rp5.39tn at end-2025, below the Rp6tn KBMI 2 threshold; AR2025 states the goal of reaching KBMI 2 before 2028)."
+    ],
+    "validation_ack": [
+        {
+            "check": "price_year_end:2020",
+            "reason": "AR2020 prints a FY2020 close of Rp1,548, which is not a valid IDX tick price (tick Rp5 at that level); the last 2020 session (30 Dec 2020) closed at Rp1,500. Bank Mestika annual-report share tables (which credit Yahoo Finance) are internally inconsistent; neither source is edited: fundamentals keep the AR value as printed."
+        },
+        {
+            "check": "price_year_end:2022",
+            "reason": "AR2022 prints Rp2,033 (not a valid IDX tick price), while its own printed market capitalisation implies about Rp2,120 - exactly the last 2022 session close (30 Dec 2022) in the price source. Bank Mestika annual-report share tables (which credit Yahoo Finance) are internally inconsistent; neither source is edited: fundamentals keep the AR value as printed."
+        },
+        {
+            "check": "price_year_end:2023",
+            "reason": "AR2023 prints Rp1,950, while its own printed market capitalisation implies about Rp2,000 - exactly the last 2023 session close (29 Dec 2023) in the price source. Bank Mestika annual-report share tables (which credit Yahoo Finance) are internally inconsistent; neither source is edited: fundamentals keep the AR value as printed."
+        },
+        {
+            "check": "price_year_end:2024",
+            "reason": "AR2024 prints Rp1,987 (not a valid IDX tick price), while its own printed market capitalisation implies about Rp1,930 - exactly the last 2024 session close (30 Dec 2024) in the price source. Bank Mestika annual-report share tables (which credit Yahoo Finance) are internally inconsistent; neither source is edited: fundamentals keep the AR value as printed."
+        }
+    ]
+}
