@@ -253,6 +253,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bris/"
+        },
+        {
+            "code": "PNBN",
+            "name": "PT Bank Pan Indonesia Tbk",
+            "name_short": "Panin Bank",
+            "sector": "banking",
+            "group": "private_large",
+            "kbmi": 3,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "Q1 2026",
+            "interim_period_end": "2026-03-31",
+            "data_through": "2026-03-31",
+            "dividend_records": 3,
+            "file": "issuers/PNBN.json",
+            "prices": {
+                "file": "prices/PNBN.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-10-30",
+                "sessions": 1890,
+                "last_close": 740,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/pnbn/"
         }
     ]
 }

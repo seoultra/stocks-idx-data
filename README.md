@@ -26,6 +26,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | BDMN | PT Bank Danamon Indonesia Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/BDMN.json](issuers/BDMN.json) | [prices/BDMN.json](prices/BDMN.json) 2019-01-02 → 2026-10-30 |
 | BNII | PT Bank Maybank Indonesia Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/BNII.json](issuers/BNII.json) | [prices/BNII.json](prices/BNII.json) 2019-01-02 → 2026-10-30 |
 | BRIS | PT Bank Syariah Indonesia (Persero) Tbk | 3 | FY2020–FY2025 | Q1 2026 | [issuers/BRIS.json](issuers/BRIS.json) | [prices/BRIS.json](prices/BRIS.json) 2019-01-02 → 2026-10-30 |
+| PNBN | PT Bank Pan Indonesia Tbk | 3 | FY2020–FY2025 | Q1 2026 | [issuers/PNBN.json](issuers/PNBN.json) | [prices/PNBN.json](prices/PNBN.json) 2019-01-02 → 2026-10-30 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->

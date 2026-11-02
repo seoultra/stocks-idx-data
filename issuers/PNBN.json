@@ -1,0 +1,1493 @@
+{
+    "schema": 1,
+    "code": "PNBN",
+    "name": "PT Bank Pan Indonesia Tbk",
+    "name_short": "Panin Bank",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.panin.co.id",
+    "ir_url": "https://www.panin.co.id/id/about-panin/investor-relation",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 607 (printed p. 605), sustainable-finance implementation table: 'Bank Panin sebagai KBMI 3 berpartisipasi dalam Piloting CRMS' / 'As a KBMI 3 bank, PaninBank participates in the piloting of ... CRMS'",
+        "note": "Explicit statement. Also award categories 'The Best KBMI 3 Bank' (AR2025 p. 24) and 'Conventional Bank (KBMI 3)' (AR2023 p. 23). KBMI 3 = core capital Rp14-70tn under POJK 12/POJK.03/2021; Dec-2025 total capital Rp48,256bn bank-only / Rp54,020bn consolidated (Dec-2025 published statement)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 211287.37,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 530 (printed 528; FS p. 1), Laporan Posisi Keuangan Konsolidasian, 'JUMLAH ASET - BERSIH', 2019 column",
+                "basis": "consolidated",
+                "note": "Consolidates PT Clipan Finance Indonesia Tbk (51.49%) and PT Bank Panin Dubai Syariah Tbk (53.70%)."
+            },
+            "loans_gross": {
+                "v": 140682.83,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 636 (printed 634; FS p. 107), Note 12 Kredit by collectibility, 'Jumlah' (gross), 2019",
+                "basis": "consolidated",
+                "note": "Consolidated 'Kredit' (related + third parties) before allowance. Includes PT Bank Panin Dubai Syariah (PDSB/PNBS) sharia financing (murabahah, mudharabah, musyarakah), per the loans accounting-policy note. Excludes Clipan Finance's consumer-financing, finance-lease and factoring receivables, which are separate balance-sheet lines (the bank's press releases quote a wider 'Kredit yang diberikan' that adds them, e.g. FY2024 Rp148,902bn)."
+            },
+            "deposits": {
+                "v": 131402.909,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 531 (printed 529), Laporan Posisi Keuangan Konsolidasian, 'SIMPANAN - Jumlah', 2019 column",
+                "basis": "consolidated",
+                "note": "Includes PDSB sharia deposits (pre-2023 presentation); equals AR2023 highlight 131,403."
+            },
+            "equity_attr": {
+                "v": 41374.558,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 531 (printed 529), 'EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK', 2019 column",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 44441.714,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 531 (printed 529), 'JUMLAH EKUITAS', 2019 column",
+                "basis": "consolidated",
+                "note": "Including non-controlling interests (the minority holders of Clipan Finance and Panin Dubai Syariah)."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 3103.248,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 533 (printed 531), Laporan Laba Rugi Konsolidasian (FY2020 audited FS in AR2020), 'Pemilik entitas induk' and 'Dasar/Dilusian'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 128.83,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 533 (printed 531), Laporan Laba Rugi Konsolidasian (FY2020 audited FS in AR2020), 'Pemilik entitas induk' and 'Dasar/Dilusian'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic = diluted. No split or bonus issue since 2004, so no adjustment applies."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.panin.co.id/sites/default/files/2021-07/Iklan%20Ringkasan%20Risalah%20RUPS%20Tahunan%202021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-06-09",
+                "loc": "Iklan Ringkasan Risalah RUPS Tahunan 2021 (Bisnis Indonesia, 11 Jun 2021), Mata Acara Rapat Kedua: 'Perseroan memutuskan untuk tidak membagi dividen untuk tahun buku 2020'",
+                "basis": "bank_only",
+                "note": "No dividend for FY2020: parent-only net profit Rp3,075,192,315,380 retained (AGMS 9 Jun 2021)."
+            },
+            "total_assets": {
+                "v": 218067.091,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 530 (printed 528; FS p. 1), Laporan Posisi Keuangan Konsolidasian, 'JUMLAH ASET - BERSIH', 2020",
+                "basis": "consolidated",
+                "note": "Consolidates PT Clipan Finance Indonesia Tbk (51.49%) and PT Bank Panin Dubai Syariah Tbk (69.93%)."
+            },
+            "loans_gross": {
+                "v": 121633.509,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 636 (printed 634; FS p. 107), Note 12 Kredit by collectibility, 'Jumlah' (gross), 2020",
+                "basis": "consolidated",
+                "note": "Consolidated 'Kredit' (related + third parties) before allowance. Includes PT Bank Panin Dubai Syariah (PDSB/PNBS) sharia financing (murabahah, mudharabah, musyarakah), per the loans accounting-policy note. Excludes Clipan Finance's consumer-financing, finance-lease and factoring receivables, which are separate balance-sheet lines (the bank's press releases quote a wider 'Kredit yang diberikan' that adds them, e.g. FY2024 Rp148,902bn)."
+            },
+            "deposits": {
+                "v": 143029.19,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 531 (printed 529), Laporan Posisi Keuangan Konsolidasian, 'SIMPANAN - Jumlah', 2020",
+                "basis": "consolidated",
+                "note": "Includes PDSB sharia deposits (pre-2023 presentation); equals AR2023 highlight 143,029."
+            },
+            "equity_attr": {
+                "v": 44223.351,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 531 (printed 529), 'EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK', 2020",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 47460.332,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 531 (printed 529), 'JUMLAH EKUITAS', 2020",
+                "basis": "consolidated",
+                "note": "Including non-controlling interests (the minority holders of Clipan Finance and Panin Dubai Syariah)."
+            },
+            "shares_out": {
+                "v": 24081545998,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 685 (printed 683), FY2020 FS note on share capital",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued 24,087,645,998 less 6,100,000 treasury shares bought back on 26 Mar 2020. Of the issued shares, 250,000,000 founder shares are not listed on IDX (listed: 23,837,645,998)."
+            },
+            "year_end_price": {
+                "v": 1065,
+                "source_url": "https://www.panin.co.id/doc/cmsupload/documents/2021%20report/paninbank_ar2020_final637601009649486587.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11 (printed p. 9), Ikhtisar Saham, quarterly price table, 2020 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 7.66,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2020 published statement). OJK definition (profit after tax / average core capital)."
+            },
+            "roa": {
+                "v": 1.91,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2020 published statement). OJK definition (pre-tax profit / average assets)."
+            },
+            "nim": {
+                "v": 4.62,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Margin Pendapatan Bunga Bersih (NIM)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2020 published statement)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: Panin prints no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 PDF pp. 14, 264; AR2022 p. 205), the Board/Director reports, or the OJK published-statement ratio table. Impairment charges are disclosed only in Rp (e.g. FY2025 Rp1,438bn, AR2025 p. 13)."
+            },
+            "npl_gross": {
+                "v": 3.01,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Gross'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2020 published statement)."
+            },
+            "npl_net": {
+                "v": 0.66,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2020 published statement)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed as a number for this year: AR2020-AR2022 discuss Loan at Risk only qualitatively (e.g. AR2022 PDF p. 139 'berkurangnya rasio Loan at Risk (LaR) Bank'), and AR2023/AR2024 do not print it; checked ratio tables (AR p. 14), Board reports and MD&A."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no CKPN/NPL coverage ratio in the AR ratio tables, MD&A or the OJK published ratio table; the only allowance ratio printed is 'CKPN aset keuangan terhadap aset produktif' (a different ratio), so nothing is stored."
+            },
+            "ldr": {
+                "v": 83.26,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Bank only, as labelled in the table; equals the 'Individual' LDR in the OJK published statement."
+            },
+            "car": {
+                "v": 29.58,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, first 'Kewajiban Penyediaan Modal Minimum (KPMM)' row",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2020 published statement). The AR's English label for this row ('CAR with Credit, Operational Risks') is misleading: the value equals the published consolidated KPMM, which covers credit, market and operational risk; the AR's second KPMM row equals the consolidated CET1/Tier 1 ratio."
+            },
+            "cir": {
+                "v": 45.42,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 205 (printed p. 203), MD&A 'Rasio Keuangan PaninBank dan Entitas Anak', 2020 column",
+                "basis": "consolidated",
+                "note": "Consolidated (table titled 'PaninBank dan Entitas Anak'; equals the 'Konsolidasian' CIR in the OJK published statement). Bank-only CIR: 44.65."
+            },
+            "bopo": {
+                "v": 79.54,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'BOPO'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2020 published statement)."
+            },
+            "casa": {
+                "v": 41.78,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Rasio Dana Murah (CASA)'",
+                "basis": "bank_only",
+                "note": "Bank only."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 2063.473,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Laporan Laba Rugi Konsolidasian, 'Pemilik entitas induk' and 'LABA PER SAHAM - Dasar/Dilusian'",
+                "basis": "consolidated",
+                "note": "FY2021 consolidated profit fell on Rp5.35tn impairment charges; non-controlling interest share was a loss (-246)."
+            },
+            "eps": {
+                "v": 85.67,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Laporan Laba Rugi Konsolidasian, 'Pemilik entitas induk' and 'LABA PER SAHAM - Dasar/Dilusian'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic = diluted. No split or bonus issue since 2004, so no adjustment applies."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Not printed as a ratio. The AGMS of 22 Jun 2022 paid Rp481,630,919,960 (Rp20/share) out of a parent-only FY2021 net profit of Rp2,568,245,045,242 (Ringkasan Risalah RUPST 2022 p. 2; AR2022 PDF p. 294) but neither the AGMS summary nor AR2021/AR2022/AR2023 states a payout percentage; no derived value stored."
+            },
+            "total_assets": {
+                "v": 204462.542,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Consolidates PT Clipan Finance Indonesia Tbk (51.49%) and PT Bank Panin Dubai Syariah Tbk (67.30%)."
+            },
+            "loans_gross": {
+                "v": 118961.55,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 96, Note 12 Kredit by collectibility, 'Jumlah' (gross, before allowance), 2021",
+                "basis": "consolidated",
+                "note": "Consolidated 'Kredit' (related + third parties) before allowance. Includes PT Bank Panin Dubai Syariah (PDSB/PNBS) sharia financing (murabahah, mudharabah, musyarakah), per the loans accounting-policy note. Excludes Clipan Finance's consumer-financing, finance-lease and factoring receivables, which are separate balance-sheet lines (the bank's press releases quote a wider 'Kredit yang diberikan' that adds them, e.g. FY2024 Rp148,902bn)."
+            },
+            "deposits": {
+                "v": 134068.318,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan Konsolidasian, 'SIMPANAN - Jumlah'",
+                "basis": "consolidated",
+                "note": "Includes PDSB sharia deposits (pre-2023 presentation); equals AR highlight 134,069."
+            },
+            "equity_attr": {
+                "v": 45445.593,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan Konsolidasian, 'EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 48547.747,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Including non-controlling interests (the minority holders of Clipan Finance and Panin Dubai Syariah)."
+            },
+            "shares_out": {
+                "v": 24081545998,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 147, Note 28 share capital",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued 24,087,645,998 less 6,100,000 treasury shares. Of the issued shares, 250,000,000 founder shares are not listed on IDX (listed: 23,837,645,998)."
+            },
+            "year_end_price": {
+                "v": 770,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Saham, quarterly price table, 2021 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "AR2021's own price table does not extract (font encoding); AR2022 comparative used. Market cap 18,547,487,418,460 = 770 x 24,087,645,998. Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 4.79,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 published statement (2021 comparative)). OJK definition (profit after tax / average core capital)."
+            },
+            "roa": {
+                "v": 1.35,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 published statement (2021 comparative)). OJK definition (pre-tax profit / average assets)."
+            },
+            "nim": {
+                "v": 5.1,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Margin Pendapatan Bunga Bersih (NIM)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 published statement (2021 comparative))."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: Panin prints no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 PDF pp. 14, 264; AR2022 p. 205), the Board/Director reports, or the OJK published-statement ratio table. Impairment charges are disclosed only in Rp (e.g. FY2025 Rp1,438bn, AR2025 p. 13)."
+            },
+            "npl_gross": {
+                "v": 3.54,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Gross'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 published statement (2021 comparative))."
+            },
+            "npl_net": {
+                "v": 0.95,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 published statement (2021 comparative))."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed as a number for this year: AR2020-AR2022 discuss Loan at Risk only qualitatively (e.g. AR2022 PDF p. 139 'berkurangnya rasio Loan at Risk (LaR) Bank'), and AR2023/AR2024 do not print it; checked ratio tables (AR p. 14), Board reports and MD&A."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no CKPN/NPL coverage ratio in the AR ratio tables, MD&A or the OJK published ratio table; the only allowance ratio printed is 'CKPN aset keuangan terhadap aset produktif' (a different ratio), so nothing is stored."
+            },
+            "ldr": {
+                "v": 88.05,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Bank only, as labelled in the table; equals the 'Individual' LDR in the OJK published statement."
+            },
+            "car": {
+                "v": 29.86,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, first 'Kewajiban Penyediaan Modal Minimum (KPMM)' row",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 published statement (2021 comparative)). The AR's English label for this row ('CAR with Credit, Operational Risks') is misleading: the value equals the published consolidated KPMM, which covers credit, market and operational risk; the AR's second KPMM row equals the consolidated CET1/Tier 1 ratio."
+            },
+            "cir": {
+                "v": 38.79,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 205 (printed p. 203), MD&A 'Rasio Keuangan PaninBank dan Entitas Anak', 2021 column",
+                "basis": "consolidated",
+                "note": "Consolidated (table titled 'PaninBank dan Entitas Anak'; equals the 'Konsolidasian' CIR in the OJK published statement)."
+            },
+            "bopo": {
+                "v": 86.09,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'BOPO'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 published statement (2021 comparative))."
+            },
+            "casa": {
+                "v": 47.13,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Rasio Dana Murah (CASA)'",
+                "basis": "bank_only",
+                "note": "Bank only."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 3041.676,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Laporan Laba Rugi Konsolidasian, 'Pemilik entitas induk' and 'LABA PER SAHAM - Dasar/Dilusian'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 126.28,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Laporan Laba Rugi Konsolidasian, 'Pemilik entitas induk' and 'LABA PER SAHAM - Dasar/Dilusian'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic = diluted. No split or bonus issue since 2004, so no adjustment applies."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-06/Ringkasan%20Risalah%20RUPS%202023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-06-22",
+                "loc": "p. 3, Ringkasan Risalah RUPST 22 Jun 2023, Mata Acara Kedua: 'Perseroan memutuskan untuk tidak membagi Dividen untuk tahun buku 2022'",
+                "basis": "bank_only",
+                "note": "No dividend for FY2022: parent-only net profit Rp2,655,354,777,403.34 retained. Confirmed by AR2023 PDF p. 261 and AR2024 p. 263."
+            },
+            "total_assets": {
+                "v": 212431.881,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Consolidates PT Clipan Finance Indonesia Tbk (51.49%) and PT Bank Panin Dubai Syariah Tbk (67.30%)."
+            },
+            "loans_gross": {
+                "v": 129878.299,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 98, Note 12 Kredit by collectibility, 'Jumlah' (gross, before allowance), 2022",
+                "basis": "consolidated",
+                "note": "Consolidated 'Kredit' (related + third parties) before allowance. Includes PT Bank Panin Dubai Syariah (PDSB/PNBS) sharia financing (murabahah, mudharabah, musyarakah), per the loans accounting-policy note. Excludes Clipan Finance's consumer-financing, finance-lease and factoring receivables, which are separate balance-sheet lines (the bank's press releases quote a wider 'Kredit yang diberikan' that adds them, e.g. FY2024 Rp148,902bn)."
+            },
+            "deposits": {
+                "v": 141843.931,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan Konsolidasian, 'SIMPANAN - Jumlah'",
+                "basis": "consolidated",
+                "note": "As originally presented: includes PDSB mudharabah (syirkah) funds, = AR 'Simpanan dari Nasabah (incl. sharia)' 141,844. FY2023 FS restates the FY2022 'SIMPANAN' line to 132,683.475 after moving 9,160.456 of non-bank syirkah funds to a separate caption."
+            },
+            "equity_attr": {
+                "v": 47400.896,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan Konsolidasian, 'EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 50716.094,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Including non-controlling interests (the minority holders of Clipan Finance and Panin Dubai Syariah)."
+            },
+            "shares_out": {
+                "v": 24081545998,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 150, Note 29 share capital",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued 24,087,645,998 less 6,100,000 treasury shares. Of the issued shares, 250,000,000 founder shares are not listed on IDX (listed: 23,837,645,998)."
+            },
+            "year_end_price": {
+                "v": 1540,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Saham, quarterly price table, 2022 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Same in AR2023 PDF p. 17. Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 6.89,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 and Dec-2023 published statements). OJK definition (profit after tax / average core capital)."
+            },
+            "roa": {
+                "v": 1.91,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 and Dec-2023 published statements). OJK definition (pre-tax profit / average assets)."
+            },
+            "nim": {
+                "v": 5.53,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Margin Pendapatan Bunga Bersih (NIM)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 and Dec-2023 published statements)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: Panin prints no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 PDF pp. 14, 264; AR2022 p. 205), the Board/Director reports, or the OJK published-statement ratio table. Impairment charges are disclosed only in Rp (e.g. FY2025 Rp1,438bn, AR2025 p. 13)."
+            },
+            "npl_gross": {
+                "v": 3.53,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Gross'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 and Dec-2023 published statements)."
+            },
+            "npl_net": {
+                "v": 0.92,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 and Dec-2023 published statements)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed as a number for this year: AR2020-AR2022 discuss Loan at Risk only qualitatively (e.g. AR2022 PDF p. 139 'berkurangnya rasio Loan at Risk (LaR) Bank'), and AR2023/AR2024 do not print it; checked ratio tables (AR p. 14), Board reports and MD&A."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no CKPN/NPL coverage ratio in the AR ratio tables, MD&A or the OJK published ratio table; the only allowance ratio printed is 'CKPN aset keuangan terhadap aset produktif' (a different ratio), so nothing is stored."
+            },
+            "ldr": {
+                "v": 91.67,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Bank only, as labelled in the table; equals the 'Individual' LDR in the OJK published statement."
+            },
+            "car": {
+                "v": 30.07,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, first 'Kewajiban Penyediaan Modal Minimum (KPMM)' row",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 and Dec-2023 published statements). The AR's English label for this row ('CAR with Credit, Operational Risks') is misleading: the value equals the published consolidated KPMM, which covers credit, market and operational risk; the AR's second KPMM row equals the consolidated CET1/Tier 1 ratio."
+            },
+            "cir": {
+                "v": 41.63,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 205 (printed p. 203), MD&A 'Rasio Keuangan PaninBank dan Entitas Anak', 'Biaya terhadap Pendapatan (Cost to Income Ratio)'",
+                "basis": "consolidated",
+                "note": "Consolidated (table titled 'PaninBank dan Entitas Anak'; equals the 'Konsolidasian' CIR in the OJK published statement). Bank-only CIR: 41.77."
+            },
+            "bopo": {
+                "v": 74.53,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'BOPO'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2022 and Dec-2023 published statements)."
+            },
+            "casa": {
+                "v": 47.07,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Rasio Dana Murah (CASA)'",
+                "basis": "bank_only",
+                "note": "Bank only."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 2531.895,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-02/PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Laporan Laba Rugi Konsolidasian, 'Laba bersih ... Pemilik entitas induk' and 'LABA PER SAHAM - Dasar/Dilusian'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 105.11,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-02/PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Laporan Laba Rugi Konsolidasian, 'Laba bersih ... Pemilik entitas induk' and 'LABA PER SAHAM - Dasar/Dilusian'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic = diluted. No split or bonus issue since 2004, so no adjustment applies."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 263 (printed p. 261), Kronologis Pembagian Dividen: AGMS 30/31 May 2024 decided 'tidak membagi Dividen untuk tahun buku 2023' (total Rp0,00)",
+                "basis": "bank_only",
+                "note": "No dividend for FY2023: parent-only net profit Rp2,150,584,109,648.26 retained to strengthen core capital. AR2025 p. 285 repeats 'Rp0,00'."
+            },
+            "total_assets": {
+                "v": 222010.05,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-02/PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Consolidates PT Clipan Finance Indonesia Tbk (51.49%) and PT Bank Panin Dubai Syariah Tbk (67.30%)."
+            },
+            "loans_gross": {
+                "v": 139701.141,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-02/PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 93, Note 12 Kredit by collectibility, 'Jumlah' (gross, before allowance), 2023",
+                "basis": "consolidated",
+                "note": "Consolidated 'Kredit' (related + third parties) before allowance. Includes PT Bank Panin Dubai Syariah (PDSB/PNBS) sharia financing (murabahah, mudharabah, musyarakah), per the loans accounting-policy note. Excludes Clipan Finance's consumer-financing, finance-lease and factoring receivables, which are separate balance-sheet lines (the bank's press releases quote a wider 'Kredit yang diberikan' that adds them, e.g. FY2024 Rp148,902bn). Same figure as the collectibility table in AR2025 PDF p. 271."
+            },
+            "deposits": {
+                "v": 145221,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan, 'Simpanan dari Nasabah*', 2023 column",
+                "basis": "consolidated",
+                "note": "Incl. sharia deposits. FY2023 audited FS (p. 14) shows 'SIMPANAN' 135,089.481 + 'Dana syirkah temporer - bukan bank' 10,130.768. Same 145,221 in AR2023 p. 12."
+            },
+            "equity_attr": {
+                "v": 49704.816,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-02/PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan Konsolidasian, 'EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 53312.485,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-02/PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Including non-controlling interests (the minority holders of Clipan Finance and Panin Dubai Syariah)."
+            },
+            "shares_out": {
+                "v": 24081545998,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-02/PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 148, Note 30 share capital",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued 24,087,645,998 less 6,100,000 treasury shares. Of the issued shares, 250,000,000 founder shares are not listed on IDX (listed: 23,837,645,998)."
+            },
+            "year_end_price": {
+                "v": 1210,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17 (printed p. 15), Ikhtisar Saham, quarterly price table, 2023 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Same in AR2024 PDF p. 16. Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 5.42,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2023 published statement). OJK definition (profit after tax / average core capital)."
+            },
+            "roa": {
+                "v": 1.57,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2023 published statement). OJK definition (pre-tax profit / average assets)."
+            },
+            "nim": {
+                "v": 4.93,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Margin Pendapatan Bunga Bersih (NIM)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2023 published statement)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: Panin prints no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 PDF pp. 14, 264; AR2022 p. 205), the Board/Director reports, or the OJK published-statement ratio table. Impairment charges are disclosed only in Rp (e.g. FY2025 Rp1,438bn, AR2025 p. 13)."
+            },
+            "npl_gross": {
+                "v": 3.09,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Gross'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2023 published statement)."
+            },
+            "npl_net": {
+                "v": 0.57,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2023 published statement)."
+            },
+            "lar": {
+                "v": 14.78,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 31 (printed p. 29), Laporan Dewan Komisaris, individual LaR 2023 (14,78%)",
+                "basis": "bank_only",
+                "note": "Bank-only (individual)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no CKPN/NPL coverage ratio in the AR ratio tables, MD&A or the OJK published ratio table; the only allowance ratio printed is 'CKPN aset keuangan terhadap aset produktif' (a different ratio), so nothing is stored."
+            },
+            "ldr": {
+                "v": 97.51,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Bank only, as labelled in the table; equals the 'Individual' LDR in the OJK published statement."
+            },
+            "car": {
+                "v": 32.4,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, first 'Kewajiban Penyediaan Modal Minimum (KPMM)' row",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2023 published statement). The AR's English label for this row ('CAR with Credit, Operational Risks') is misleading: the value equals the published consolidated KPMM, which covers credit, market and operational risk; the AR's second KPMM row equals the consolidated CET1/Tier 1 ratio."
+            },
+            "cir": {
+                "v": 45.26,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 264 (printed p. 262), MD&A 'Rasio-Rasio Keuangan PaninBank dan Entitas Anak', 2023 column",
+                "basis": "consolidated",
+                "note": "Consolidated (table titled 'PaninBank dan Entitas Anak'; equals the 'Konsolidasian' CIR in the OJK published statement). Bank-only CIR: 47.56."
+            },
+            "bopo": {
+                "v": 78.18,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'BOPO'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2023 published statement)."
+            },
+            "casa": {
+                "v": 47.41,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Rasio Dana Murah (CASA)'",
+                "basis": "bank_only",
+                "note": "Bank only."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 2738.143,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-02/Paninbank%2026%20Februari%202025%20%28website%29%20-%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Dec-2024 audited published statement (OJK format), Laporan Laba Rugi, consolidated column: 'Laba bersih ... diatribusikan kepada PEMILIK' and 'LABA BERSIH PER SAHAM'",
+                "basis": "consolidated",
+                "note": "As originally reported (AR2024 PDF p. 13 also 113.67). The FY2025 statements print the FY2024 comparative EPS as 113.70 (profit unchanged); 113.70 = profit / shares net of the 6.1m treasury shares."
+            },
+            "eps": {
+                "v": 113.67,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-02/Paninbank%2026%20Februari%202025%20%28website%29%20-%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Dec-2024 audited published statement (OJK format), Laporan Laba Rugi, consolidated column: 'Laba bersih ... diatribusikan kepada PEMILIK' and 'LABA BERSIH PER SAHAM'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "As originally reported (AR2024 PDF p. 13 also 113.67). The FY2025 statements print the FY2024 comparative EPS as 113.70 (profit unchanged); 113.70 = profit / shares net of the 6.1m treasury shares."
+            },
+            "payout_ratio": {
+                "v": 39.21,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 285 (printed p. 283), Kronologis Pembagian Dividen, 'Jumlah Dividen yang Dibagikan terhadap Laba Bersih' 39,21%",
+                "basis": "bank_only",
+                "note": "Ratio of Rp1,010.762bn dividend to the parent-only ('Laba Bersih Perseroan') FY2024 net profit Rp2,577.514bn approved by the AGMS of 26 Jun 2025; consolidated attributable profit was 2,738.143 (36.9%)."
+            },
+            "total_assets": {
+                "v": 243958.575,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Buku%20Lap%20Keu%20Panin%2031%20Mar%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 4, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH ASET', 31 Desember 2024 (Diaudit) column",
+                "basis": "consolidated",
+                "note": "31 Dec 2024 audited figure from the Q1-2025 interim FS comparative column (FY2024 audited FS file is a scanned image; archived copy truncated). AR2024/AR2025 highlights print 243,959. AR2025 reclassifies some FY2024 asset lines (e.g. consumer financing 8,566 -> 8,602) with total assets unchanged."
+            },
+            "loans_gross": {
+                "v": 139936.863,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Buku%20Lap%20Keu%20Panin%2031%20Mar%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 81, Note 12 Kredit by collectibility, 'Jumlah' (gross, before allowance), 2024 column",
+                "basis": "consolidated",
+                "note": "Consolidated 'Kredit' (related + third parties) before allowance. Includes PT Bank Panin Dubai Syariah (PDSB/PNBS) sharia financing (murabahah, mudharabah, musyarakah), per the loans accounting-policy note. Excludes Clipan Finance's consumer-financing, finance-lease and factoring receivables, which are separate balance-sheet lines (the bank's press releases quote a wider 'Kredit yang diberikan' that adds them, e.g. FY2024 Rp148,902bn)."
+            },
+            "deposits": {
+                "v": 152370,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan, 'Simpanan dari Nasabah*', 2024 column",
+                "basis": "consolidated",
+                "note": "Incl. sharia deposits. Balance sheet: 'SIMPANAN' 141,692.631 + syirkah bukan bank 10,676.892 (Q1-2025 FS p. 5). Same 152,370 in AR2024 p. 12 and the AGMS-2025 press release ('Dana Pihak Ketiga')."
+            },
+            "equity_attr": {
+                "v": 52324.35,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Buku%20Lap%20Keu%20Panin%2031%20Mar%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan Konsolidasian, 'EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK', 31 Desember 2024 column",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 56069.616,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Buku%20Lap%20Keu%20Panin%2031%20Mar%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH EKUITAS', 31 Desember 2024 column",
+                "basis": "consolidated",
+                "note": "Including non-controlling interests (the minority holders of Clipan Finance and Panin Dubai Syariah)."
+            },
+            "shares_out": {
+                "v": 24081545998,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Buku%20Lap%20Keu%20Panin%2031%20Mar%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 134, Note 30 share capital (31 Mar 2025 and 31 Dec 2024)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued 24,087,645,998 less 6,100,000 treasury shares (bought back 26 Mar 2020). Of the issued shares, 250,000,000 founder shares are not listed on IDX (listed: 23,837,645,998)."
+            },
+            "year_end_price": {
+                "v": 1860,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-30",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Saham, quarterly price table, 2024 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Same in AR2024 PDF p. 16. The bank's buyback disclosure of 24 Mar 2025 (https://www.panin.co.id/sites/default/files/2025-03/Keterbukaan%20Informasi%20Pembelian%20Kembali%20Saham_PNBN%20Maret%202025.pdf, p. 2) states the close on 30 Dec 2024 (last session of 2024) was Rp1,860. Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 5.61,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025/Dec-2024 published statements). OJK definition (profit after tax / average core capital)."
+            },
+            "roa": {
+                "v": 1.56,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025/Dec-2024 published statements). OJK definition (pre-tax profit / average assets)."
+            },
+            "nim": {
+                "v": 4.38,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Margin Pendapatan Bunga Bersih (NIM)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025/Dec-2024 published statements)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: Panin prints no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 PDF pp. 14, 264; AR2022 p. 205), the Board/Director reports, or the OJK published-statement ratio table. Impairment charges are disclosed only in Rp (e.g. FY2025 Rp1,438bn, AR2025 p. 13)."
+            },
+            "npl_gross": {
+                "v": 3.05,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Gross'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025/Dec-2024 published statements)."
+            },
+            "npl_net": {
+                "v": 0.9,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025/Dec-2024 published statements)."
+            },
+            "lar": {
+                "v": 14.16,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 31 (printed p. 29), Laporan Dewan Komisaris: 'rasio Loan at Risk (LaR) Bank secara individual menurun dari 14,78% pada tahun 2023 menjadi 14,16% pada tahun 2024'",
+                "basis": "bank_only",
+                "note": "Bank-only (individual). AR2025 p. 36 repeats 14.16%."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no CKPN/NPL coverage ratio in the AR ratio tables, MD&A or the OJK published ratio table; the only allowance ratio printed is 'CKPN aset keuangan terhadap aset produktif' (a different ratio), so nothing is stored."
+            },
+            "ldr": {
+                "v": 92.33,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Bank only, as labelled in the table; equals the 'Individual' LDR in the OJK published statement."
+            },
+            "car": {
+                "v": 34.54,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, first 'Kewajiban Penyediaan Modal Minimum (KPMM)' row",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025/Dec-2024 published statements). The AR's English label for this row ('CAR with Credit, Operational Risks') is misleading: the value equals the published consolidated KPMM, which covers credit, market and operational risk; the AR's second KPMM row equals the consolidated CET1/Tier 1 ratio."
+            },
+            "cir": {
+                "v": 51.21,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 264 (printed p. 262), MD&A 'Rasio-Rasio Keuangan PaninBank dan Entitas Anak', 2024 column",
+                "basis": "consolidated",
+                "note": "Consolidated (table titled 'PaninBank dan Entitas Anak'; equals the 'Konsolidasian' CIR in the OJK published statement). Bank-only CIR: 51.81."
+            },
+            "bopo": {
+                "v": 78.72,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'BOPO'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025/Dec-2024 published statements)."
+            },
+            "casa": {
+                "v": 44.84,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Rasio Dana Murah (CASA)'",
+                "basis": "bank_only",
+                "note": "Bank only (AR2025 MD&A p. 270 adds a consolidated CASA of 40.00% for 2025 vs 42.69% for 2024)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 2750.044,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-02/LK%20Paninbank%20Publikasi%2031%20Desember%202025%20AUDITED%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Dec-2025 audited published statement (OJK format), Laporan Laba Rugi, consolidated column: 'Laba bersih ... diatribusikan kepada PEMILIK' and 'LABA BERSIH PER SAHAM'",
+                "basis": "consolidated",
+                "note": "Audited (KAP Liana Ramon Xenia & Rekan / Deloitte). AR2025 PDF p. 13 prints 2,750 and EPS 114.24."
+            },
+            "eps": {
+                "v": 114.24,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-02/LK%20Paninbank%20Publikasi%2031%20Desember%202025%20AUDITED%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Dec-2025 audited published statement (OJK format), Laporan Laba Rugi, consolidated column: 'Laba bersih ... diatribusikan kepada PEMILIK' and 'LABA BERSIH PER SAHAM'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic = diluted. No split or bonus issue since 2004, so no adjustment applies."
+            },
+            "payout_ratio": {
+                "v": 38,
+                "source_url": "https://www.idxchannel.com/market-news/bank-panin-pnbn-patok-dividen-rp101-triliun-cair-pertengahan-juli-2026/all",
+                "source_type": "news",
+                "as_of_date": "2026-06-17",
+                "loc": "IDX Channel, 21 Jun 2026: 'dengan rasio 38 persen dari laba bersih tahun berjalan 2025'",
+                "basis": "bank_only",
+                "note": "NEWS (no company document retrievable: the AGMS of 17 Jun 2026 summary and AR2026 are not available). 38% corresponds to the dividend (Rp1,011.0bn) over the PARENT-ONLY FY2025 net profit Rp2,678.052bn (Dec-2025 published statement, individual column: 37.8%), not the consolidated attributable profit 2,750.044 (36.8%). Same convention as FY2024."
+            },
+            "total_assets": {
+                "v": 237326.686,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 4, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH ASET', 31 Desember 2025 (Diaudit) column",
+                "basis": "consolidated",
+                "note": "31 Dec 2025 audited figure, read from the comparative column of the Q1-2026 interim FS (the FY2025 audited FS file is a scanned image and the archived copy is truncated). Same value in AR2025 p. 12 (237,327) and the Dec-2025 audited publication."
+            },
+            "loans_gross": {
+                "v": 136464.736,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 83, Note 12a Kredit by type, 'Jumlah' (gross, before allowance), 31 Desember 2025 column",
+                "basis": "consolidated",
+                "note": "Consolidated 'Kredit' (related + third parties) before allowance. Includes PT Bank Panin Dubai Syariah (PDSB/PNBS) sharia financing (murabahah, mudharabah, musyarakah), per the loans accounting-policy note. Excludes Clipan Finance's consumer-financing, finance-lease and factoring receivables, which are separate balance-sheet lines (the bank's press releases quote a wider 'Kredit yang diberikan' that adds them, e.g. FY2024 Rp148,902bn)."
+            },
+            "deposits": {
+                "v": 156916,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12 (printed p. 10), Ikhtisar Keuangan, 'Simpanan dari Nasabah*' (*termasuk dana simpanan Syariah, footnote p. 13), 2025",
+                "basis": "consolidated",
+                "note": "Customer deposits incl. sharia deposits (company DPK definition, also 'Dana Pihak Ketiga' in the bank's press releases). The audited balance sheet splits it into 'SIMPANAN' 143,300.345 + 'Dana syirkah temporer - bukan bank' 13,615.299 (Q1-2026 FS p. 5, 31 Dec 2025 column); the AR prints the total rounded to Rp bn."
+            },
+            "equity_attr": {
+                "v": 54975.014,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan Konsolidasian, 'EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK', 31 Desember 2025 column",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 58773.013,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH EKUITAS', 31 Desember 2025 column",
+                "basis": "consolidated",
+                "note": "Including non-controlling interests (the minority holders of Clipan Finance and Panin Dubai Syariah)."
+            },
+            "shares_out": {
+                "v": 24071873098,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 135, Note 30 share capital (31 Mar 2026 and 31 Dec 2025)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued 24,087,645,998 less 15,772,900 treasury shares bought back during 2025 (the 6,100,000 treasury shares held since Mar 2020 were resold in Nov-Dec 2025). Of the issued shares, 250,000,000 founder shares are not listed on IDX (listed: 23,837,645,998)."
+            },
+            "year_end_price": {
+                "v": 1080,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Saham, quarterly price table, 2025 Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q3 and Q4 2025 closing are both printed as 1,080 (market cap 25,744,657,677,840 on 23,837,645,998 listed shares for both quarters); reviewer should confirm against the daily price file. Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 5.33,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025 published statement). OJK definition (profit after tax / average core capital)."
+            },
+            "roa": {
+                "v": 1.68,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Imbal Hasil Aset (ROA)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025 published statement). OJK definition (pre-tax profit / average assets)."
+            },
+            "nim": {
+                "v": 4.32,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Margin Pendapatan Bunga Bersih (NIM)'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025 published statement)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: Panin prints no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 PDF pp. 14, 264; AR2022 p. 205), the Board/Director reports, or the OJK published-statement ratio table. Impairment charges are disclosed only in Rp (e.g. FY2025 Rp1,438bn, AR2025 p. 13)."
+            },
+            "npl_gross": {
+                "v": 2.82,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Gross'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025 published statement)."
+            },
+            "npl_net": {
+                "v": 1.04,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'NPL-Nett'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025 published statement)."
+            },
+            "lar": {
+                "v": 12.86,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 36 (printed p. 34), Laporan Dewan Komisaris: 'rasio Loan at Risk (LAR) tercatat sebesar 12,86% ... dibandingkan tahun sebelumnya sebesar 14,16%'",
+                "basis": "bank_only",
+                "note": "Bank-level LaR; basis inferred from the 2024 comparative (14.16%), which AR2024 explicitly calls the Bank's individual LaR."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no CKPN/NPL coverage ratio in the AR ratio tables, MD&A or the OJK published ratio table; the only allowance ratio printed is 'CKPN aset keuangan terhadap aset produktif' (a different ratio), so nothing is stored."
+            },
+            "ldr": {
+                "v": 86.88,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Bank only, as labelled in the table; equals the 'Individual' LDR in the OJK published statement."
+            },
+            "car": {
+                "v": 37.49,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, first 'Kewajiban Penyediaan Modal Minimum (KPMM)' row",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025 published statement). The AR's English label for this row ('CAR with Credit, Operational Risks') is misleading: the value equals the published consolidated KPMM, which covers credit, market and operational risk; the AR's second KPMM row equals the consolidated CET1/Tier 1 ratio."
+            },
+            "cir": {
+                "v": 52.28,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 264 (printed p. 262), MD&A 'Rasio-Rasio Keuangan PaninBank dan Entitas Anak', 'Biaya terhadap Pendapatan (Cost to Income Ratio)'",
+                "basis": "consolidated",
+                "note": "Consolidated (table titled 'PaninBank dan Entitas Anak'; equals the 'Konsolidasian' CIR in the OJK published statement). Bank-only CIR: 52.63."
+            },
+            "bopo": {
+                "v": 78.06,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'BOPO'",
+                "basis": "consolidated",
+                "note": "Consolidated ('Rasio Kinerja Konsolidasian'; matches the Dec-2025 published statement)."
+            },
+            "casa": {
+                "v": 42.45,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (printed p. 12), Ikhtisar Utama - Rasio Keuangan, 'Likuiditas (Bank Saja)' - 'Rasio Dana Murah (CASA)'",
+                "basis": "bank_only",
+                "note": "Bank only (AR2025 MD&A p. 270 adds a consolidated CASA of 40.00% for 2025 vs 42.69% for 2024)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 20,
+            "total": 481.63091996,
+            "cum_date": "2022-06-30",
+            "ex_date": "2022-07-01",
+            "record_date": "2022-07-04",
+            "pay_date": "2022-07-22",
+            "share_basis": "2022-06-24",
+            "source_url": "https://www.panin.co.id/sites/default/files/2023-02/Iklan%20Ringkasan%20Risalah%20RUPS%20Tahunan%202022.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-06-24",
+            "loc": "p. 2 (Mata Acara Kedua) and pp. 4-6 ('Pengumuman Jadwal dan Tata Cara Pembagian Dividen Tunai Tahun Buku 2021', dated 24 Jun 2022), Ringkasan Risalah RUPST 22 Jun 2022",
+            "note": "Rp481,630,919,960 'paling kurang' after treasury shares = Rp20/share on 24,081,545,998 shares. Cum/ex dates are for the regular and negotiated markets (cash market: cum 4 Jul, ex 5 Jul 2022). Out of parent-only FY2021 net profit Rp2,568.2bn. Confirmed by AR2023 PDF p. 261 (Rp481,631 juta, Rp20/share)."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 42,
+            "total": 1010.762470116,
+            "cum_date": "2025-07-07",
+            "ex_date": "2025-07-08",
+            "record_date": "2025-07-09",
+            "pay_date": "2025-07-25",
+            "share_basis": "2025-07-01",
+            "source_url": "https://www.panin.co.id/sites/default/files/2025-07/Jadwal%20Dividen%20PaninBank%202025%20Bahasa%20Indonesia.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-07-01",
+            "loc": "p. 1, Pengumuman Jadwal dan Tata Cara Pembagian Dividen Tunai Tahun Buku 2024 (AGMS 26 Jun 2025), dated 1 Jul 2025",
+            "note": "Rp1,010,762,470,116 'paling kurang' after treasury shares = Rp42/share (implies 24,065,773,098 eligible shares at the record date, i.e. 21,872,900 treasury shares then). Cash market: cum 9 Jul, ex 10 Jul 2025. 39.21% of the parent-only FY2024 profit Rp2,577.5bn (AR2025 p. 285). Also in the Ringkasan RUPST 2025 and AR2025 p. 285."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 42,
+            "total": 1011.018670116,
+            "cum_date": "2026-06-25",
+            "ex_date": "2026-06-26",
+            "record_date": "2026-06-29",
+            "pay_date": "2026-07-17",
+            "share_basis": "2026-06-19",
+            "source_url": "https://pintarsaham.id/dividen-pnbn-2026-rp42-per-saham-ini-jadwal-cum-date-dan-pembayarannya/",
+            "source_type": "news",
+            "as_of_date": "2026-06-19",
+            "loc": "pintarsaham.id, 22 Jun 2026, schedule reproduced from the company's dividend announcement of 19 Jun 2026 (AGMS 17 Jun 2026)",
+            "note": "NEWS ONLY: the company's 2026 dividend announcement / AGMS summary is not retrievable (panin.co.id and idx.co.id block automated clients; not archived). Rp1,011,018,670,116 'paling kurang' = Rp42 x 24,071,873,098 shares, which equals the shares outstanding net of treasury in the Q1-2026 FS (Note 30). Cross-check: IDX Channel 21 Jun 2026 (https://www.idxchannel.com/market-news/bank-panin-pnbn-patok-dividen-rp101-triliun-cair-pertengahan-juli-2026/all) gives Rp42/share, ~Rp1.01tn, cum 25 Jun / ex 26 Jun 2026 (regular), pay 17 Jul 2026. Cash market: cum 29 Jun, ex 30 Jun 2026."
+        }
+    ],
+    "interim": {
+        "period": "Q1",
+        "year": 2026,
+        "period_end": "2026-03-31",
+        "fields": {
+            "profit_ytd": {
+                "v": 698.53,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "PDF p. 7, Laporan Laba Rugi Konsolidasian, three months to 31 Mar 2026, 'Laba bersih ... Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Unaudited. Q1 2026 is the latest period retrievable: H1-2026 and 9M-2026 statements were published (news: H1 profit ~Rp1.44tn; 9M profit ~Rp2.26tn, +3.2% YoY, total assets Rp232.66tn - Kontan 28 Oct 2026) but neither is reachable on panin.co.id/idx.co.id nor archived."
+            },
+            "profit_ytd_prior": {
+                "v": 731.505,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-03-31",
+                "loc": "PDF p. 7, Laporan Laba Rugi Konsolidasian, comparative column (three months to 31 Mar 2025)",
+                "basis": "consolidated",
+                "note": "Q1-2025 comparative as printed in the Q1-2026 FS (same as the Q1-2025 FS)."
+            },
+            "equity_attr": {
+                "v": 54294.757,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan Konsolidasian, 'EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK', 31 Maret 2026",
+                "basis": "consolidated",
+                "note": "Fell from 54,975.014 at 31 Dec 2025 because of a Rp1.38tn fall in other comprehensive income (fair-value losses on FVOCI bonds)."
+            },
+            "shares_out": {
+                "v": 24071873098,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "PDF p. 135, Note 30 share capital, 31 Maret 2026",
+                "basis": "n/a",
+                "share_basis": "2026-03-31",
+                "note": "Issued 24,087,645,998 less 15,772,900 treasury shares."
+            },
+            "total_assets": {
+                "v": 225361.509,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "PDF p. 4, Laporan Posisi Keuangan Konsolidasian, 'JUMLAH ASET', 31 Maret 2026",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 131684.139,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "PDF p. 83, Note 12a Kredit by type, 'Jumlah' (gross), 31 Maret 2026",
+                "basis": "consolidated",
+                "note": "Consolidated 'Kredit' (related + third parties) before allowance. Includes PT Bank Panin Dubai Syariah (PDSB/PNBS) sharia financing (murabahah, mudharabah, musyarakah), per the loans accounting-policy note. Excludes Clipan Finance's consumer-financing, finance-lease and factoring receivables, which are separate balance-sheet lines (the bank's press releases quote a wider 'Kredit yang diberikan' that adds them, e.g. FY2024 Rp148,902bn)."
+            },
+            "loans_gross_prior": {
+                "v": 136174.819,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Buku%20Lap%20Keu%20Panin%2031%20Mar%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-03-31",
+                "loc": "PDF p. 81, Note 12 Kredit, 'Jumlah' (gross), 31 Maret 2025 (Q1-2025 interim FS)",
+                "basis": "consolidated",
+                "note": "Same definition as loans_gross."
+            },
+            "deposits": {
+                "v": 134415.908,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/Buku%20Lap%20Keu%2031%20Mar%2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan Konsolidasian, 'SIMPANAN - Jumlah', 31 Maret 2026",
+                "basis": "consolidated",
+                "note": "DEFINITION DIFFERS FROM fy.*.deposits: this is the FS caption 'SIMPANAN' only; PDSB's non-bank temporary syirkah funds (13,021.715 at 31 Mar 2026) are a separate caption and the interim FS prints no combined DPK total. fy.*.deposits use the AR 'Simpanan dari Nasabah incl. sharia deposits' total. Compare interim deposits only with deposits_prior (same caption)."
+            },
+            "deposits_prior": {
+                "v": 139202.44,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Buku%20Lap%20Keu%20Panin%2031%20Mar%2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-03-31",
+                "loc": "PDF p. 5, Laporan Posisi Keuangan Konsolidasian, 'SIMPANAN - Jumlah', 31 Maret 2025 (Q1-2025 interim FS)",
+                "basis": "consolidated",
+                "note": "Same caption as interim deposits (excl. non-bank syirkah funds of 10,383.577 at 31 Mar 2025)."
+            },
+            "roe": {
+                "v": 5.4,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/LK%20Paninbank%20Publikasi%2031%20Maret%202026%20Unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Q1-2026 published statement, Laporan Rasio Keuangan, 'Rasio Kinerja Konsolidasian' - 'Return on Equity (ROE)', 31 MAR 2026",
+                "basis": "consolidated",
+                "note": "Annualised, OJK definition, same basis as fy.*.roe. 31 Mar 2025: 5.74. Bank-only: 5.44."
+            },
+            "roa": {
+                "v": 1.58,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/LK%20Paninbank%20Publikasi%2031%20Maret%202026%20Unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Q1-2026 published statement, Laporan Rasio Keuangan, Konsolidasian - 'Return on Asset (ROA)'",
+                "basis": "consolidated",
+                "note": "31 Mar 2025: 1.64. Bank-only: 1.60."
+            },
+            "nim": {
+                "v": 4.6,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/LK%20Paninbank%20Publikasi%2031%20Maret%202026%20Unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Q1-2026 published statement, Laporan Rasio Keuangan, Konsolidasian - 'Net Interest Margin (NIM)'",
+                "basis": "consolidated",
+                "note": "31 Mar 2025: 4.16. Bank-only: 4.44."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: Panin prints no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 PDF pp. 14, 264; AR2022 p. 205), the Board/Director reports, or the OJK published-statement ratio table. Impairment charges are disclosed only in Rp (e.g. FY2025 Rp1,438bn, AR2025 p. 13)."
+            },
+            "npl_gross": {
+                "v": 3,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/LK%20Paninbank%20Publikasi%2031%20Maret%202026%20Unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Q1-2026 published statement, Laporan Rasio Keuangan, Konsolidasian - 'NPL gross'",
+                "basis": "consolidated",
+                "note": "31 Mar 2025: 3.33. Bank-only: 2.72."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed in the Q1-2026 interim FS or published statement (Panin reports LaR only in the AR)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: no CKPN/NPL coverage ratio in the AR ratio tables, MD&A or the OJK published ratio table; the only allowance ratio printed is 'CKPN aset keuangan terhadap aset produktif' (a different ratio), so nothing is stored."
+            },
+            "ldr": {
+                "v": 89.05,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/LK%20Paninbank%20Publikasi%2031%20Maret%202026%20Unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Q1-2026 published statement, Laporan Rasio Keuangan, 'Individual' - 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Bank only (same basis as fy.*.ldr). 31 Mar 2025: 90.45."
+            },
+            "car": {
+                "v": 37.07,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/LK%20Paninbank%20Publikasi%2031%20Maret%202026%20Unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Q1-2026 published statement, Laporan Rasio Keuangan, Konsolidasian - 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "consolidated",
+                "note": "31 Mar 2025: 35.88. Bank-only: 38.74."
+            },
+            "cir": {
+                "v": 53.24,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/LK%20Paninbank%20Publikasi%2031%20Maret%202026%20Unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-03-31",
+                "loc": "Q1-2026 published statement, Laporan Rasio Keuangan, Konsolidasian - 'Cost to Income Ratio (CIR)'",
+                "basis": "consolidated",
+                "note": "31 Mar 2025: 54.45. Bank-only: 54.47."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed for Q1 2026: the published statement and the interim FS print current/savings/time deposits but no CASA ratio; not derived."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "payout_total:2024",
+            "reason": "Panin's reported payout (39.21%, AR2025 PDF p. 285) is the dividend over the PARENT-ONLY net profit approved by the AGMS (Rp2,577.514bn, Ringkasan RUPST 26 Jun 2025), not the consolidated attributable profit (Rp2,738.143bn) stored in net_profit_attr: 2,738.1 x 39.21% = 1,073.6 vs the actual Rp1,010.8bn dividend. 1,010.762 / 2,577.514 = 39.21%. Real definitional gap, not a data error."
+        },
+        {
+            "check": "payout_total:2025",
+            "reason": "The 38% payout reported for FY2025 (IDX Channel, 21 Jun 2026) is relative to the PARENT-ONLY FY2025 net profit Rp2,678.052bn (Dec-2025 audited published statement, individual column; 1,011.0 / 2,678.1 = 37.8%), not the consolidated attributable Rp2,750.044bn stored in net_profit_attr (2,750.0 x 38% = 1,045.0 vs Rp1,011.0bn). Same convention as FY2024 (AR2025 p. 285)."
+        }
+    ],
+    "research_notes": [
+        "IDENTITY: PNBN = PT Bank Pan Indonesia Tbk (abbreviated PT Bank Panin Tbk; brand PaninBank). NOT Maybank Indonesia (BNII), which the request mislabelled. Controlling shareholders: PT Panin Financial Tbk 46.04% and Votraint No. 1103 Pty Ltd 38.82% (Dec 2025). Conventional bank; consolidates PT Clipan Finance Indonesia Tbk (CFIN, 51.49% throughout) and PT Bank Panin Dubai Syariah Tbk (PNBS; 53.70% at end-2019, 69.93% end-2020, 67.30% from end-2021 after PNBS share issues), both listed.",
+        "SOURCE ACCESS: www.panin.co.id (Akamai 'Access Denied') and www.idx.co.id block this server; no challenge was bypassed. Every Panin document was downloaded from Internet Archive snapshots of the exact panin.co.id URLs stored in source_url (route: https://web.archive.org/web/<timestamp>id_/<source_url>; timestamps in sources.md). The ONLY archived copies of AR2024 and AR2025 are truncated at 5 MiB; their text was recovered by rebuilding the page tree from the complete objects in the truncated file (scripts/salvage_pdf.py). The rebuilt AR2025 has all 954 page objects in the original order (page numbers cited = original PDF pages, cross-checked against printed folios), with images and part of the late sections missing; every value used from them is in the recovered text and was cross-checked against complete documents (published statements / interim FS). The FY2024 and FY2025 audited FS files are scanned images (and also truncated), so the 31 Dec 2024 / 31 Dec 2025 audited balances are taken from the comparative columns of the Q1-2025 / Q1-2026 interim FS, and FY2024/FY2025 profit and EPS from the audited OJK-format published statements.",
+        "CONSOLIDATION SCOPE: all money figures are consolidated (Bank + Clipan Finance + Panin Dubai Syariah). loans_gross = FS 'Kredit' gross, which includes PDSB sharia financing but excludes Clipan Finance's consumer-financing, lease and factoring receivables (consumer financing alone Rp5.7-8.6tn net in FY2020-FY2025; separate captions). Press releases quote a wider 'Kredit yang diberikan' (FY2024 Rp148,902bn vs 139,937 stored).",
+        "DEPOSITS DEFINITION CHANGE: up to FY2022 the audited FS put PDSB's mudharabah (temporary syirkah) funds inside 'SIMPANAN'; from FY2023 they are a separate caption 'Dana syirkah temporer' (FY2022 restated in FS2023: 141,843.931 -> 132,683.475). To keep one definition, fy.*.deposits = the company's own 'Simpanan dari Nasabah, termasuk dana simpanan Syariah' (AR highlight tables; = 'Dana Pihak Ketiga' in press releases): FS line for FY2019-FY2022, AR figure (Rp bn, rounded) for FY2023-FY2025. The interim deposits (Q1 2026 / Q1 2025) are the FS 'SIMPANAN' caption only (no combined total is printed) - see their notes; do not compare them with fy.2025.deposits.",
+        "RATIO BASIS: Panin's AR five-year ratio table reproduces the CONSOLIDATED block of the OJK published statement (verified value-by-value against the Dec-2020, Dec-2022, Dec-2023, Dec-2024 and Dec-2025 published statements, i.e. every year 2020-2025), except LDR and CASA, which are labelled 'Likuiditas (Bank Saja)' and stored as bank_only. ROE/ROA/NIM/NPL/CAR/BOPO/CIR are therefore consolidated; each note gives the bank-only value where useful. AR2023 (2019-2023) and AR2025 (2021-2025) tables agree for every overlapping year. LaR is bank-only (individual) and disclosed only for FY2023-FY2025. Cost of credit and NPL coverage are not disclosed anywhere (null).",
+        "AR LABEL QUIRK: the AR ratio table labels the first KPMM row 'CAR with Credit, Operational Risks' and the second 'CAR with Credit, Operational and Market Risks'. The first row equals the published consolidated KPMM (credit + market + operational) and is stored as car; the second equals the consolidated CET1/Tier 1 ratio.",
+        "DIVIDENDS: FY2020 none (AGMS 9 Jun 2021); FY2021 Rp20/share final (paid 22 Jul 2022); FY2022 none (AGMS 22 Jun 2023); FY2023 none (AGMS 30 May 2024); FY2024 Rp42/share final (paid 25 Jul 2025); FY2025 Rp42/share final (AGMS 17 Jun 2026, paid 17 Jul 2026 - news only). No interim or special dividends were found in any year. Panin's AGMS and AR state the payout against the parent-only ('Laba Bersih Perseroan') profit, which is why payout_ratio carries basis bank_only and FY2024/FY2025 need a validation_ack. FY2021 payout_ratio is null because no document prints the percentage. FY2025 DPS/dates/total and the 38% payout rest on news (pintarsaham.id quoting the company's 19 Jun 2026 announcement; IDX Channel cross-check) - replace with the company announcement when retrievable.",
+        "CORPORATE ACTIONS 2019-2026: none. No split, reverse split, rights issue or bonus issue since 2019: the AR2025 share-listing chronology (PDF p. 145) ends with the 2009 warrant exercise (last rights issue PUT VII in 2006, last bonus/stock dividend 2004, last split 2002); AR2025 p. 17 states no share corporate action in 2025; issued shares are 24,087,645,998 in every FS from FY2019 to Q1 2026. Treasury-share buybacks: 6,100,000 shares bought 26 Mar 2020 (held to Nov-Dec 2025, then resold) and 15,772,900 bought during 2025 (Mar 2025 buyback disclosure) - these change shares_out but are not corporate actions under the schema.",
+        "SHARE_BASIS: no split since 2002, so per-share figures need no adjustment; share_basis = period end (FY figures) or announcement date (DPS). EPS x shares_out vs profit: 2020 -0.03%, 2021 -0.02%, 2022 -0.02%, 2023 -0.03%, 2024 -0.03%, 2025 -0.004%. DPS x FY-end shares vs total: FY2021 0.00%, FY2024 +0.07% (treasury purchases between FY-end and the record date), FY2025 0.00%.",
+        "RESTATEMENTS / MINOR: (1) FY2024 EPS: 113.67 in the FY2024 documents, 113.70 as the comparative in the FY2025 documents (profit unchanged) - original stored. (2) AR2025 reclassifies some FY2024 asset lines (consumer financing 8,566 -> 8,602; other assets 7,952 -> 7,690) with total assets unchanged. (3) FY2022 deposits restated in FS2023 (syirkah reclassification, above). (4) AR2025 LCR history for 2021-2023 differs from AR2023 (irrelevant to stored fields).",
+        "PRICES TO CHECK: AR2025 prints the same closing price (Rp1,080) and market cap for 2025 Q3 and Q4; check fy.2025.year_end_price against the daily price file. FY2021 year-end price (770) comes from the AR2022 comparative table because AR2021's table text does not extract.",
+        "INTERIM: Q1 2026 (31 Mar 2026), the latest period whose documents could be retrieved (archived 8 Jun 2026). Panin has published H1 2026 and 9M 2026 (news: H1 profit ~Rp1.44tn, +1% YoY; 9M consolidated profit ~Rp2.26tn, +3.2% YoY, total assets Rp232.66tn - Kontan, 28 Oct 2026), but neither statement is reachable. Interim casa, lar, coc and npl_coverage are null (not printed in quarterly documents). Re-run when the 9M-2026 statement can be retrieved.",
+        "KBMI: AR2025 explicitly calls Panin a KBMI 3 bank (PDF p. 607)."
+    ]
+}
