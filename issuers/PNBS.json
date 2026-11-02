@@ -1,0 +1,1216 @@
+{
+    "schema": 1,
+    "code": "PNBS",
+    "name": "PT Bank Panin Dubai Syariah Tbk",
+    "name_short": "Bank Panin Dubai Syariah",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": true,
+    "website": "https://www.pdsb.co.id",
+    "ir_url": "https://www.pdsb.co.id/about/laporan_keuangan",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 250 (printed p. 248), Kinerja Keuangan (PDSB) table, 'Ekuitas' 2.972 (Rp miliar)",
+        "note": "No retrievable PNBS document states the KBMI tier. Under POJK 12/POJK.03/2021 KBMI 1 = core capital up to Rp6tn; PNBS's TOTAL equity was Rp2.97tn at end-2025 (Rp2.30-3.12tn in every year 2020-2025), and core capital cannot exceed it materially, so PNBS is KBMI 1. Source of the equity figure: annual report of the parent PT Bank Pan Indonesia Tbk."
+    },
+    "label_overrides": {
+        "npl_gross": "NPF gross",
+        "npl_net": "NPF net",
+        "ldr": "FDR",
+        "loans_gross": "Financing (pembiayaan)",
+        "deposits": "Third-party funds (DPK: wadiah deposits + temporary syirkah funds)",
+        "nim": "NOM / Net Imbalan",
+        "npl_coverage": "CKPN/NPF",
+        "lar": "Financing at risk",
+        "coc": "Cost of financing"
+    },
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 11135.825,
+                "source_url": "https://pdsb.co.id/about/download_prospektus/eyJpdiI6ImQ4dzhGQzdWR25HQ1B0UVQzQTVJN2c9PSIsInZhbHVlIjoiTHFOUnl2R0JnOFQ4OFBwZUViK2ZzK2t1WG5KVGpaNWJpdzNlRFhxM0NOaG91ZUhjWWw3RmhQTFJEaSs5SWw2RCIsIm1hYyI6ImJlZTJhYTk0YWNiNzEyYzk0MmMwZGI4ZGY3MTM5Yzg0NDhmZjNmNjdlMTBkYjJmYjkxNmU5NGUwZmRmMmU5ZDgiLCJ0YWciOiIifQ==",
+                "source_type": "company_release",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 32 (printed p. 11), Bab IV Ikhtisar Data Keuangan Penting, 4.1 Laporan Posisi Keuangan, 31 Desember 2019, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Audited FY2019 (Imelda & Rekan). PNBS has no subsidiaries, so its entity FS is the group FS. Same value in AR2020 PDF p. 8."
+            },
+            "loans_gross": {
+                "v": 8336.315,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9 (printed p. 7), Ikhtisar Keuangan, bar chart 'Pembiayaan (Dalam Jutaan Rupiah)', 2019",
+                "basis": "consolidated",
+                "note": "Total financing (pembiayaan) as the AR presents it (the FDR numerator: 8,336,315 / DPK 8,707,657 = the reported FDR 95.72%). The highlight TABLE on PDF p. 8 prints '8.836.315' for 2019 - a typo: AR2020 PDF p. 19 (Board of Commissioners report) says FY2020 financing Rp8.85tn 'tumbuh 6,13%', which matches 8,336,315, not 8,836,315. The FS face shows financing net of allowance by contract type (murabahah, mudharabah, musyarakah, ijarah)."
+            },
+            "deposits": {
+                "v": 8707.657,
+                "source_url": "https://pdsb.co.id/about/download_prospektus/eyJpdiI6ImQ4dzhGQzdWR25HQ1B0UVQzQTVJN2c9PSIsInZhbHVlIjoiTHFOUnl2R0JnOFQ4OFBwZUViK2ZzK2t1WG5KVGpaNWJpdzNlRFhxM0NOaG91ZUhjWWw3RmhQTFJEaSs5SWw2RCIsIm1hYyI6ImJlZTJhYTk0YWNiNzEyYzk0MmMwZGI4ZGY3MTM5Yzg0NDhmZjNmNjdlMTBkYjJmYjkxNmU5NGUwZmRmMmU5ZDgiLCJ0YWciOiIifQ==",
+                "source_type": "company_release",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 41, 'Tabel Dana Pihak Ketiga', 31 Desember 2019, 'Total Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = giro 212,118 + tabungan 436,125 + deposito 8,059,414 (Rp juta), i.e. wadiah deposits plus mudharabah (temporary syirkah) funds. Same value in AR2020 PDF p. 8."
+            },
+            "equity_attr": {
+                "v": 1694.565,
+                "source_url": "https://pdsb.co.id/about/download_prospektus/eyJpdiI6ImQ4dzhGQzdWR25HQ1B0UVQzQTVJN2c9PSIsInZhbHVlIjoiTHFOUnl2R0JnOFQ4OFBwZUViK2ZzK2t1WG5KVGpaNWJpdzNlRFhxM0NOaG91ZUhjWWw3RmhQTFJEaSs5SWw2RCIsIm1hYyI6ImJlZTJhYTk0YWNiNzEyYzk0MmMwZGI4ZGY3MTM5Yzg0NDhmZjNmNjdlMTBkYjJmYjkxNmU5NGUwZmRmMmU5ZDgiLCJ0YWciOiIifQ==",
+                "source_type": "company_release",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 33 (printed p. 12), 4.1 Laporan Posisi Keuangan, 31 Desember 2019, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries / no non-controlling interest: equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 1694.565,
+                "source_url": "https://pdsb.co.id/about/download_prospektus/eyJpdiI6ImQ4dzhGQzdWR25HQ1B0UVQzQTVJN2c9PSIsInZhbHVlIjoiTHFOUnl2R0JnOFQ4OFBwZUViK2ZzK2t1WG5KVGpaNWJpdzNlRFhxM0NOaG91ZUhjWWw3RmhQTFJEaSs5SWw2RCIsIm1hYyI6ImJlZTJhYTk0YWNiNzEyYzk0MmMwZGI4ZGY3MTM5Yzg0NDhmZjNmNjdlMTBkYjJmYjkxNmU5NGUwZmRmMmU5ZDgiLCJ0YWciOiIifQ==",
+                "source_type": "company_release",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 33 (printed p. 12), 4.1 Laporan Posisi Keuangan, 31 Desember 2019, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 50,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 10 (printed p. 8), Ikhtisar Saham, 'Perkembangan Saham Triwulanan' 2019, TW 4 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2019-12-31",
+                "note": "Q4-2019 close as printed (last IDX session of 2019); stored because the PUT II rights issue went ex on 2020-11-09 (before 2020-12-31). The AR does not print the session date. The same table's share count (23,719,447,472) is the 99% of shares LISTED on IDX; 1% (held by Panin Bank) is unlisted by law (PP 29/1999), see prospectus 2020 PDF p. 2."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 0.128,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (printed p. 6), Ikhtisar Keuangan, Laba/Rugi table, 'Laba (Rugi) Bersih' 128 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Rp128 million. AGMS 29 Jul 2021 (summary p. 2) states the FY2020 net profit as Rp128,115,068.86. Same in the parent's FS2021 PDSB summary (128). Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "eps": {
+                "v": 0.005,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (printed p. 6), Laba/Rugi table, 'Laba (Rugi) Bersih per Saham' 0,005",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic EPS in Rp as printed (rounded). Weighted-average shares are far below the year-end count because 14,854,603,468 PUT II shares were issued on 16-23 Nov 2020 (see validation_ack). Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://pdsb.co.id/about/download_rups/eyJpdiI6IjBDaDhzWkFTUG9oZm1lRGRtY0E0eXc9PSIsInZhbHVlIjoiUXBrNThtck1QT2N4SXlUTlNEb3drZkR4aHArSGR1Y2NvMHRJSnpuazh1VVI1TW5nbWt4ZjAwRG9jWlhIYjhndyIsIm1hYyI6IjYwMjBhMzdjNjI3NmI0M2Q2MGIyY2E2MDI2ZDJhODYxYTNkZTVmZDY5MDZlMWQxYjU2ZDNiNTkzMGIxNzdjYWYiLCJ0YWciOiIifQ==",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 2, Pengumuman Ringkasan Risalah RUPST 29 Jul 2021, Mata Acara Kedua",
+                "basis": "n/a",
+                "note": "No dividend: the whole FY2020 net profit (Rp128,115,068.86) was retained to strengthen core capital ('untuk tahun buku 2020 tidak dibagikan dividen'). 2.5% corporate zakat only."
+            },
+            "total_assets": {
+                "v": 11302.082,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (printed p. 6), Ikhtisar Keuangan, Neraca table, 'Total Aset'",
+                "basis": "consolidated",
+                "note": "Same in the parent's audited FS2021 PDSB summary (PDF p. 150). Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "loans_gross": {
+                "v": 8845.799,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (printed p. 6), Ikhtisar Keuangan, Neraca table, 'Pembiayaan'",
+                "basis": "consolidated",
+                "note": "Total financing as presented in the AR (FDR numerator: 8,845,799 / 7,918,781 = reported FDR 111.71%). Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "deposits": {
+                "v": 7918.781,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (printed p. 6), Ikhtisar Keuangan, Neraca table, 'Dana Pihak Ketiga'",
+                "basis": "consolidated",
+                "note": "DPK = giro 243,242 + tabungan 484,795 + deposito 7,190,744 (Rp juta). Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "equity_attr": {
+                "v": 3115.653,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (printed p. 6), Ikhtisar Keuangan, Neraca table, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries / NCI (AR2020 PDF p. 39: 'Tidak memiliki Anak Perusahaan/Afiliasi'). Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "total_equity": {
+                "v": 3115.653,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (printed p. 6), Ikhtisar Keuangan, Neraca table, 'Jumlah Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 38813641319,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10 (printed p. 8), Perkembangan Saham Triwulanan 2020, TW 4 'Jumlah Saham Beredar'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "23,959,037,851 + 14,854,603,468 PUT II shares = 38,813,641,319 (prospectus 2020 PDF p. 14 pro-forma capital table). No treasury shares. Unchanged since (KSEI registered-securities page, Nov 2026). Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "year_end_price": {
+                "v": 83,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10 (printed p. 8), Perkembangan Saham Triwulanan 2020, TW 4 'Harga Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4-2020 close as printed (the row prints opening 86, 'lowest' 91, 'highest' 82 - low/high columns swapped in print; close 83). The AR does not print the session date. Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "roe": {
+                "v": 0.01,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (printed p. 7), Rasio Keuangan Penting table, 'Tingkat Pengembalian Ekuitas (ROE)'",
+                "basis": "bank_only",
+                "note": "As reported (OJK ratio; the 2020 prospectus labels ROE 'laba ... terhadap rata-rata modal inti', i.e. on average core capital). PNBS has no subsidiaries. Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "roa": {
+                "v": 0.06,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (printed p. 7), Rasio Keuangan Penting table, 'Tingkat Pengembalian Aset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition (pre-tax profit / average total assets). Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "nim": {
+                "v": null,
+                "note": "not disclosed: AR2020's ratio table (PDF p. 9) has no NOM / Net Imbalan line; the rest of AR2020 is missing from the truncated archive copy."
+            },
+            "coc": {
+                "v": null,
+                "note": "not disclosed in the retrievable part of AR2020 (ratio table PDF p. 9, MD&A summary pp. 17-34)."
+            },
+            "npl_gross": {
+                "v": 3.38,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (printed p. 7), Rasio Keuangan Penting table, 'Pembiayaan Bermasalah Kotor'",
+                "basis": "bank_only",
+                "note": "NPF gross. Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "npl_net": {
+                "v": 2.45,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (printed p. 7), Rasio Keuangan Penting table, 'Pembiayaan Bermasalah Bersih'",
+                "basis": "bank_only",
+                "note": "NPF net. Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed in the retrievable part of AR2020 (ratio table PDF p. 9)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "not disclosed in the retrievable part of AR2020 (ratio table PDF p. 9)."
+            },
+            "ldr": {
+                "v": 111.71,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (printed p. 7), Rasio Keuangan Penting table, 'Pembiayaan terhadap Dana Pihak Ketiga (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR (sharia LDR). Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "car": {
+                "v": 31.43,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (printed p. 7), Rasio Keuangan Penting table, 'Rasio Kecukupan Modal'",
+                "basis": "bank_only",
+                "note": "KPMM/CAR, after the Nov 2020 PUT II rights issue (Rp1.49tn). Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "cir": {
+                "v": null,
+                "note": "not disclosed: AR2020 ratio table (PDF p. 9) prints BOPO only, no cost-to-income ratio."
+            },
+            "bopo": {
+                "v": 99.42,
+                "source_url": "https://paninbanksyariah.co.id/document/anual_report/Buku%20Annual%20Report%20PNBS%202020%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (printed p. 7), Rasio Keuangan Penting table, 'Beban Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "Read from the Internet Archive copy, which is truncated at 1 MiB; pages 1-~60 were recovered (scripts/salvage_pdf.py)."
+            },
+            "casa": {
+                "v": null,
+                "note": "not disclosed as a ratio: AR2020 gives the giro/tabungan/deposito split (PDF p. 8) and mentions efforts to raise CASA (PDF p. 28) but prints no CASA ratio."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": -818.112,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 150, Note 30 'Kepentingan Non-Pengendali', PDSB summary, '(Rugi) laba bersih tahun berjalan' (818.112) Rp juta",
+                "basis": "consolidated",
+                "note": "PNBS figure from the audited consolidated FS of its parent PT Bank Pan Indonesia Tbk, note 'Kepentingan non-pengendali', summarized financial information of PDSB (amounts before intragroup eliminations). Real loss: impairment charge of Rp1,045.9bn in 2021 (same note). Parent AR2021 (PDF p. 150) and AR2022 (PDF p. 188) tables: (818). The FY2021 AGMS (29 Jun 2022) approved no dividend and no zakat for FY2021."
+            },
+            "eps": {
+                "v": -21.08,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-10/2021-Annual-PaninBank_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 150 (printed p. 148), Kinerja Keuangan PDSB table, 'Laba Per Saham (Rp penuh)' -21,08",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Loss per share."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://paninbanksyariah.co.id/document/RUPST-RUPSLB-2022/01.%20RINGKASAN%20RISALAH%20RUPST%20PNBS%202022_Bahasa.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "p. 3, Pengumuman Ringkasan Risalah RUPST 29 Jun 2022, Mata Acara Kedua",
+                "basis": "n/a",
+                "note": "'Menyetujui menetapkan tidak ada pembagian dividen tahun buku 2021' (loss year; no zakat either). Same document is listed on pdsb.co.id/about/rups."
+            },
+            "total_assets": {
+                "v": 14426.005,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 150, Note 30, PDSB summary, 'Jumlah Aset'",
+                "basis": "consolidated",
+                "note": "PNBS figure from the audited consolidated FS of its parent PT Bank Pan Indonesia Tbk, note 'Kepentingan non-pengendali', summarized financial information of PDSB (amounts before intragroup eliminations). Also PDF p. 17 (subsidiary table, total assets before eliminations) and parent AR2021 PDF p. 150 (14.426)."
+            },
+            "loans_gross": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (it gives assets, liabilities, temporary syirkah funds, equity and the FDR only)."
+            },
+            "deposits": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (temporary syirkah funds are given, but DPK also includes wadiah deposits, which sit inside 'Liabilitas')."
+            },
+            "equity_attr": {
+                "v": 2301.945,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 150, Note 30, PDSB summary, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "PNBS figure from the audited consolidated FS of its parent PT Bank Pan Indonesia Tbk, note 'Kepentingan non-pengendali', summarized financial information of PDSB (amounts before intragroup eliminations). PNBS has no subsidiaries/NCI, so equity attributable = total equity. Parent AR2021 PDF p. 150: 2.302."
+            },
+            "total_equity": {
+                "v": 2301.945,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-04/Laporan%20Keuangan%20per%2031%20Desember%202021%20dan%202020%20(Diaudit).pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 150, Note 30, PDSB summary, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "PNBS figure from the audited consolidated FS of its parent PT Bank Pan Indonesia Tbk, note 'Kepentingan non-pengendali', summarized financial information of PDSB (amounts before intragroup eliminations)."
+            },
+            "shares_out": {
+                "v": 38813641319,
+                "source_url": "https://web.ksei.co.id/services/registered-securities/shares/lc/PNBS",
+                "source_type": "official",
+                "as_of_date": "2021-12-31",
+                "loc": "KSEI registered-securities page PNBS (ISIN ID1000130701): 'Number of Securities 38,813,641,319'; Corporate Action list",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "KSEI (central securities depository) record read 2026-11-03. The count has been unchanged since the PUT II shares were issued in Nov 2020: KSEI's corporate-action list for PNBS shows no share-issuing action after the 10-11 Nov 2020 rights distribution, and AGMS attendance figures imply the same total (e.g. 35,865,309,609 shares = 92.404% in Jun 2022; 35,893,277,243 = 92.4759% in Nov 2024). No treasury shares. PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "not available: the AR share-price table for FY2021 is not retrievable (PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS)). "
+            },
+            "roe": {
+                "v": -31.76,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-10/2021-Annual-PaninBank_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 152 (printed p. 150), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('Return on Equity (ROE) tercatat sebesar -31,76%'); same in the table on PDF p. 150",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Negative ROE is real (FY2021 loss). Within the validator range."
+            },
+            "roa": {
+                "v": -6.72,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-10/2021-Annual-PaninBank_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 152 (printed p. 150), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('ROA ... -6,72%'); same in the table on PDF p. 150",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Negative ROA is real (FY2021 loss)."
+            },
+            "nim": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "coc": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "npl_gross": {
+                "v": 1.19,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-10/2021-Annual-PaninBank_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 152 (printed p. 150), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('NPF Gross tahun 2021 tercatat sebesar 1,19%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). NPF gross fell from 3.38% because of the large 2021 write-offs/provisioning."
+            },
+            "npl_net": {
+                "v": 0.94,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-10/2021-Annual-PaninBank_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 152 (printed p. 150), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('NPF Net ... 0,94% di tahun 2021')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). "
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "ldr": {
+                "v": 107.56,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-10/2021-Annual-PaninBank_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 152 (printed p. 150), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('FDR pada tahun 2021 tercatat sebesar 107,56%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). "
+            },
+            "car": {
+                "v": 25.81,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-10/2021-Annual-PaninBank_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 152 (printed p. 150), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('CAR ... menjadi sebesar 25,81% pada akhir tahun 2021')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). "
+            },
+            "cir": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (it quotes BOPO only)."
+            },
+            "bopo": {
+                "v": 202.74,
+                "source_url": "https://www.panin.co.id/sites/default/files/2022-10/2021-Annual-PaninBank_0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 152 (printed p. 150), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('BOPO naik dari 99,42% pada tahun 2020 menjadi sebesar 202,74%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). REAL value above the validator's 200% plausibility bound: operating expenses incl. Rp1,045.9bn impairment were about twice operating income in the 2021 loss year. Same value in parent AR2022 PDF p. 191."
+            },
+            "casa": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 250.532,
+                "source_url": "https://pdsb.co.id/about/download_rups/eyJpdiI6IjROUWdsSTA2U1NGZ1Fkb2puNm1qNXc9PSIsInZhbHVlIjoiaEMwdjljenhYYjU1dEVNUmJsWjRDRktubVo0cE5yWXFRTW9qL2d4QWFaRFJNU0cyRHhWREt6VGFYbHRmeHBEaHF4Z2lPbERseU45RXFtYncrNmN1WGc9PSIsIm1hYyI6ImM3YzU1Zjc1MzhhNTljOGJkMjdmZWU1MTE2MzViM2Y1ZDAxMTA2ZmZiMmRkYTliMTI2NWQ0YThiMDVkYjlkNjAiLCJ0YWciOiIifQ==",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 2, Pengumuman Ringkasan Risalah RUPST 21 Jun 2023, Mata Acara Kedua: 'laba bersih Perseroan untuk tahun buku 2022 yaitu sebesar Rp250.531.591.141,00'",
+                "basis": "consolidated",
+                "note": "Audited FY2022 net profit (Imelda & Rekan) as approved by the AGMS. Same figure (250.532) in the parent's audited FS2022 PDSB summary (PDF p. 153) and FS2023 (PDF p. 152)."
+            },
+            "eps": {
+                "v": 6.45,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 188 (printed p. 186), Kinerja Keuangan PDSB table, 'Laba Per Saham (Rp penuh)' 6,45",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). "
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://pdsb.co.id/about/download_rups/eyJpdiI6IjROUWdsSTA2U1NGZ1Fkb2puNm1qNXc9PSIsInZhbHVlIjoiaEMwdjljenhYYjU1dEVNUmJsWjRDRktubVo0cE5yWXFRTW9qL2d4QWFaRFJNU0cyRHhWREt6VGFYbHRmeHBEaHF4Z2lPbERseU45RXFtYncrNmN1WGc9PSIsIm1hYyI6ImM3YzU1Zjc1MzhhNTljOGJkMjdmZWU1MTE2MzViM2Y1ZDAxMTA2ZmZiMmRkYTliMTI2NWQ0YThiMDVkYjlkNjAiLCJ0YWciOiIifQ==",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 2, Ringkasan Risalah RUPST 21 Jun 2023, Mata Acara Kedua",
+                "basis": "n/a",
+                "note": "Whole FY2022 profit retained ('untuk tahun buku 2022 Perseroan tidak membagikan dividen'); 2.5% corporate zakat Rp6,363,318,520."
+            },
+            "total_assets": {
+                "v": 14791.738,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 153, Note 'Kepentingan Non-Pengendali', PDSB summary, 'Jumlah Aset'",
+                "basis": "consolidated",
+                "note": "PNBS figure from the audited consolidated FS of its parent PT Bank Pan Indonesia Tbk, note 'Kepentingan non-pengendali', summarized financial information of PDSB (amounts before intragroup eliminations). Same in parent FS2023 PDF p. 152 (2022 column) and AR2022 PDF p. 188 (14.792)."
+            },
+            "loans_gross": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (it gives assets, liabilities, temporary syirkah funds, equity and the FDR only)."
+            },
+            "deposits": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (temporary syirkah funds are given, but DPK also includes wadiah deposits, which sit inside 'Liabilitas')."
+            },
+            "equity_attr": {
+                "v": 2505.404,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 153, PDSB summary, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "PNBS figure from the audited consolidated FS of its parent PT Bank Pan Indonesia Tbk, note 'Kepentingan non-pengendali', summarized financial information of PDSB (amounts before intragroup eliminations). No NCI at PNBS level. AR2022 PDF p. 188: 2.505."
+            },
+            "total_equity": {
+                "v": 2505.404,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-03/Audited%20FS%20-%20PT%20Bank%20Pan%20Indonesia%20Tbk%2031%20Desember%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 153, PDSB summary, 'Jumlah Ekuitas'",
+                "basis": "consolidated",
+                "note": "PNBS figure from the audited consolidated FS of its parent PT Bank Pan Indonesia Tbk, note 'Kepentingan non-pengendali', summarized financial information of PDSB (amounts before intragroup eliminations)."
+            },
+            "shares_out": {
+                "v": 38813641319,
+                "source_url": "https://web.ksei.co.id/services/registered-securities/shares/lc/PNBS",
+                "source_type": "official",
+                "as_of_date": "2022-12-31",
+                "loc": "KSEI registered-securities page PNBS (ISIN ID1000130701): 'Number of Securities 38,813,641,319'; Corporate Action list",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "KSEI (central securities depository) record read 2026-11-03. The count has been unchanged since the PUT II shares were issued in Nov 2020: KSEI's corporate-action list for PNBS shows no share-issuing action after the 10-11 Nov 2020 rights distribution, and AGMS attendance figures imply the same total (e.g. 35,865,309,609 shares = 92.404% in Jun 2022; 35,893,277,243 = 92.4759% in Nov 2024). No treasury shares. PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "not available: the AR share-price table for FY2022 is not retrievable (PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS)). "
+            },
+            "roe": {
+                "v": 11.51,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 191 (printed p. 189), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('ROE tercatat sebesar 11,51% di tahun 2022'); same in the table on PDF p. 188",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Same value in PNBS's own GCG Report 2022 (pdsb.co.id/about/download_gcg/2022, Governance Outcome item a: BOPO 76,99%, ROA 1.79%, ROE 11,51%, profit Rp250,5bn; the archived copy is truncated at 1 MiB - only 7 page objects survive, this is the 7th in page-tree order (scanned text layer))."
+            },
+            "roa": {
+                "v": 1.79,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 191 (printed p. 189), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('ROA naik menjadi 1,79%'); same in the table on PDF p. 188",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Same value in PNBS's own GCG Report 2022 (pdsb.co.id/about/download_gcg/2022, Governance Outcome item a: BOPO 76,99%, ROA 1.79%, ROE 11,51%, profit Rp250,5bn; the archived copy is truncated at 1 MiB - only 7 page objects survive, this is the 7th in page-tree order (scanned text layer))."
+            },
+            "nim": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "coc": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "npl_gross": {
+                "v": 3.31,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 191 (printed p. 189), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('NPF Gross tahun 2022 tercatat sebesar 3,31%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). "
+            },
+            "npl_net": {
+                "v": 1.91,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 191 (printed p. 189), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('NPF Net ... 1,91% di tahun 2022')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). "
+            },
+            "lar": {
+                "v": 23.85,
+                "source_url": "https://pdsb.co.id/about/download_gcg/2023",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 8 (Halaman 6), Laporan GCG 2023, Governance Outcome item 2 ('Rasio Pembiayaan Kualitas Rendah ... dibandingkan posisi Desember 2022 sebesar 23,85%')",
+                "basis": "bank_only",
+                "note": "PKR (Pembiayaan Kualitas Rendah, low-quality financing ratio) - the sharia/OJK analogue of loan-at-risk. PNBS's own GCG report 2023 (archived copy truncated at 1 MiB; page recovered with salvage_pdf.py). The same report prints a few preliminary figures that differ from the AR (see the FY2023 ratio notes), so treat as as-reported in the GCG report."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "ldr": {
+                "v": 97.32,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 191 (printed p. 189), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('FDR pada tahun 2022 tercatat sebesar 97,32%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). "
+            },
+            "car": {
+                "v": 22.71,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 191 (printed p. 189), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('CAR ... menjadi sebesar 22,71% pada akhir tahun 2022')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). "
+            },
+            "cir": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (it quotes BOPO only)."
+            },
+            "bopo": {
+                "v": 76.99,
+                "source_url": "https://www.panin.co.id/sites/default/files/2023-04/PaninBank_AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 191 (printed p. 189), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('BOPO menurun ... menjadi sebesar 76,99% pada tahun 2022')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Same value in PNBS's own GCG Report 2022 (pdsb.co.id/about/download_gcg/2022, Governance Outcome item a: BOPO 76,99%, ROA 1.79%, ROE 11,51%, profit Rp250,5bn; the archived copy is truncated at 1 MiB - only 7 page objects survive, this is the 7th in page-tree order (scanned text layer))."
+            },
+            "casa": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 244.69,
+                "source_url": "https://pdsb.co.id/about/download_rups/eyJpdiI6IldsRmRqQVM1dkgxZjJHK2l4SWVOR3c9PSIsInZhbHVlIjoiSmRhSzBrV1ZSVW9zdG05NVJzWTR2ekYrV1RBZ05RMWZLNExqTDI1R3dxbitJcEg1bjNpaE5DSUNyRndMKzRHMGRXeHNXanpQaUhZdmh0Z2F6TmVURFE9PSIsIm1hYyI6ImEyZDYzODQ0OTM5ZmRhNzc5YTRmYmI3OWViNDA3ZWFmNWM2OGQxNjRmMjBlMTVjYTI3ODA4NWRhY2Y4MjVmYTUiLCJ0YWciOiIifQ==",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "p. 2, Pengumuman Ringkasan Risalah RUPST 5 Jun 2024, Mata Acara Kedua: 'Laba Bersih Perseroan untuk tahun buku 2023 yaitu sebesar Rp244.690.464.928,00'",
+                "basis": "consolidated",
+                "note": "Audited FY2023 net profit as approved by the AGMS (parent AR2023 table: 245). The parent's FS2023 PDSB summary prints 244.432 (consolidation-level figure, not used). As originally reported. Parent AR2024 (PDF pp. 224-228) shows FY2023 RESTATED in PNBS's FY2024 FS: assets 17,326, equity 2,771, net profit 228, EPS 5.86; ratios CAR 20.39%, NPF net 2.95%, ROA 1.51%, ROE 9.71%, BOPO 82.47%."
+            },
+            "eps": {
+                "v": 6.3,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 218 (printed p. 216), Kinerja Keuangan PDSB table, 'Laba Per Saham (Rp penuh)' 6,30",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  As originally reported. Parent AR2024 (PDF pp. 224-228) shows FY2023 RESTATED in PNBS's FY2024 FS: assets 17,326, equity 2,771, net profit 228, EPS 5.86; ratios CAR 20.39%, NPF net 2.95%, ROA 1.51%, ROE 9.71%, BOPO 82.47%."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://pdsb.co.id/about/download_rups/eyJpdiI6IldsRmRqQVM1dkgxZjJHK2l4SWVOR3c9PSIsInZhbHVlIjoiSmRhSzBrV1ZSVW9zdG05NVJzWTR2ekYrV1RBZ05RMWZLNExqTDI1R3dxbitJcEg1bjNpaE5DSUNyRndMKzRHMGRXeHNXanpQaUhZdmh0Z2F6TmVURFE9PSIsIm1hYyI6ImEyZDYzODQ0OTM5ZmRhNzc5YTRmYmI3OWViNDA3ZWFmNWM2OGQxNjRmMjBlMTVjYTI3ODA4NWRhY2Y4MjVmYTUiLCJ0YWciOiIifQ==",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "p. 2, Ringkasan Risalah RUPST 5 Jun 2024, Mata Acara Kedua",
+                "basis": "n/a",
+                "note": "Whole FY2023 profit retained ('tahun buku 2023 Perseroan tidak membagikan dividen'); 2.5% corporate zakat Rp6,366,981,093."
+            },
+            "total_assets": {
+                "v": 17343,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 218 (printed p. 216), Kinerja Keuangan PDSB table, 'Aset' (Rp miliar)",
+                "basis": "consolidated",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Parent FS2023 PDSB summary (PDF p. 152): 17,343,322 Rp juta. As originally reported. Parent AR2024 (PDF pp. 224-228) shows FY2023 RESTATED in PNBS's FY2024 FS: assets 17,326, equity 2,771, net profit 228, EPS 5.86; ratios CAR 20.39%, NPF net 2.95%, ROA 1.51%, ROE 9.71%, BOPO 82.47%."
+            },
+            "loans_gross": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (it gives assets, liabilities, temporary syirkah funds, equity and the FDR only)."
+            },
+            "deposits": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (temporary syirkah funds are given, but DPK also includes wadiah deposits, which sit inside 'Liabilitas')."
+            },
+            "equity_attr": {
+                "v": 2789,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 218 (printed p. 216), Kinerja Keuangan PDSB table, 'Ekuitas' (Rp miliar)",
+                "basis": "consolidated",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Rp billion as printed. The parent's FS2023 PDSB summary prints 2,788,265 Rp juta, which carries the same -0.258bn consolidation difference as its profit figure, so the AR value (PNBS's own) is stored. As originally reported. Parent AR2024 (PDF pp. 224-228) shows FY2023 RESTATED in PNBS's FY2024 FS: assets 17,326, equity 2,771, net profit 228, EPS 5.86; ratios CAR 20.39%, NPF net 2.95%, ROA 1.51%, ROE 9.71%, BOPO 82.47%."
+            },
+            "total_equity": {
+                "v": 2789,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 218 (printed p. 216), Kinerja Keuangan PDSB table, 'Ekuitas' (Rp miliar)",
+                "basis": "consolidated",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked)."
+            },
+            "shares_out": {
+                "v": 38813641319,
+                "source_url": "https://web.ksei.co.id/services/registered-securities/shares/lc/PNBS",
+                "source_type": "official",
+                "as_of_date": "2023-12-31",
+                "loc": "KSEI registered-securities page PNBS (ISIN ID1000130701): 'Number of Securities 38,813,641,319'; Corporate Action list",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "KSEI (central securities depository) record read 2026-11-03. The count has been unchanged since the PUT II shares were issued in Nov 2020: KSEI's corporate-action list for PNBS shows no share-issuing action after the 10-11 Nov 2020 rights distribution, and AGMS attendance figures imply the same total (e.g. 35,865,309,609 shares = 92.404% in Jun 2022; 35,893,277,243 = 92.4759% in Nov 2024). No treasury shares. PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "not available: the AR share-price table for FY2023 is not retrievable (PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS)). "
+            },
+            "roe": {
+                "v": 10.44,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 222 (printed p. 220), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('ROE tercatat sebesar 10,44% di tahun 2023'); same in the table on PDF p. 218",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  As originally reported. Parent AR2024 (PDF pp. 224-228) shows FY2023 RESTATED in PNBS's FY2024 FS: assets 17,326, equity 2,771, net profit 228, EPS 5.86; ratios CAR 20.39%, NPF net 2.95%, ROA 1.51%, ROE 9.71%, BOPO 82.47%. PNBS's own GCG Report 2023 (pdsb.co.id/about/download_gcg/2023) prints slightly different, apparently preliminary figures: 'laba setelah pajak Rp254,1 Milyar, BOPO 81,19%, ROA 1,62%, ROE 10,75%' (PDF p. 8) and KPMM 20,93% (PDF p. 57, Halaman 55) - the 254.1 matches profit BEFORE zakat and tax (254.337 in the parent's FS2023 PDSB summary); the AR values are stored."
+            },
+            "roa": {
+                "v": 1.62,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 222 (printed p. 220), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('ROA turun menjadi 1,62%'); same in the table on PDF p. 218",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  As originally reported. Parent AR2024 (PDF pp. 224-228) shows FY2023 RESTATED in PNBS's FY2024 FS: assets 17,326, equity 2,771, net profit 228, EPS 5.86; ratios CAR 20.39%, NPF net 2.95%, ROA 1.51%, ROE 9.71%, BOPO 82.47%."
+            },
+            "nim": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "coc": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "npl_gross": {
+                "v": 3.78,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 221 (printed p. 219), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('NPF Gross tahun 2023 tercatat sebesar 3,78%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Unchanged in AR2024."
+            },
+            "npl_net": {
+                "v": 3.03,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 221 (printed p. 219), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('NPF Net ... 3,03% di tahun 2023')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  As originally reported. Parent AR2024 (PDF pp. 224-228) shows FY2023 RESTATED in PNBS's FY2024 FS: assets 17,326, equity 2,771, net profit 228, EPS 5.86; ratios CAR 20.39%, NPF net 2.95%, ROA 1.51%, ROE 9.71%, BOPO 82.47%."
+            },
+            "lar": {
+                "v": 17.7,
+                "source_url": "https://pdsb.co.id/about/download_gcg/2023",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 8 (Halaman 6), Laporan GCG 2023, Governance Outcome item 2 ('Rasio Pembiayaan Kualitas Rendah menjadi sebesar 17,70%')",
+                "basis": "bank_only",
+                "note": "PKR (Pembiayaan Kualitas Rendah, low-quality financing ratio) - the sharia/OJK analogue of loan-at-risk. PNBS's own GCG report 2023 (archived copy truncated at 1 MiB; page recovered with salvage_pdf.py). The same report prints a few preliminary figures that differ from the AR (see the FY2023 ratio notes), so treat as as-reported in the GCG report. PNBS's own GCG Report 2023 (pdsb.co.id/about/download_gcg/2023) prints slightly different, apparently preliminary figures: 'laba setelah pajak Rp254,1 Milyar, BOPO 81,19%, ROA 1,62%, ROE 10,75%' (PDF p. 8) and KPMM 20,93% (PDF p. 57, Halaman 55) - the 254.1 matches profit BEFORE zakat and tax (254.337 in the parent's FS2023 PDSB summary); the AR values are stored."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "ldr": {
+                "v": 91.84,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 222 (printed p. 220), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('FDR pada tahun 2023 tercatat sebesar 91,84%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Unchanged in AR2024; PNBS's own GCG report 2023 (PDF p. 57) also prints 91.84%."
+            },
+            "car": {
+                "v": 20.5,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 221 (printed p. 219), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('CAR ... menjadi sebesar 20,50% pada akhir tahun 2023')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  As originally reported. Parent AR2024 (PDF pp. 224-228) shows FY2023 RESTATED in PNBS's FY2024 FS: assets 17,326, equity 2,771, net profit 228, EPS 5.86; ratios CAR 20.39%, NPF net 2.95%, ROA 1.51%, ROE 9.71%, BOPO 82.47%. PNBS's own GCG Report 2023 (pdsb.co.id/about/download_gcg/2023) prints slightly different, apparently preliminary figures: 'laba setelah pajak Rp254,1 Milyar, BOPO 81,19%, ROA 1,62%, ROE 10,75%' (PDF p. 8) and KPMM 20,93% (PDF p. 57, Halaman 55) - the 254.1 matches profit BEFORE zakat and tax (254.337 in the parent's FS2023 PDSB summary); the AR values are stored."
+            },
+            "cir": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (it quotes BOPO only)."
+            },
+            "bopo": {
+                "v": 80.55,
+                "source_url": "https://www.panin.co.id/sites/default/files/2024-04/AR2023_PT%20Bank%20Pan%20Indonesia%20Tbk_Web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 222 (printed p. 220), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('BOPO naik dari 76,99% pada tahun 2022 menjadi sebesar 80,55%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  As originally reported. Parent AR2024 (PDF pp. 224-228) shows FY2023 RESTATED in PNBS's FY2024 FS: assets 17,326, equity 2,771, net profit 228, EPS 5.86; ratios CAR 20.39%, NPF net 2.95%, ROA 1.51%, ROE 9.71%, BOPO 82.47%. PNBS's own GCG Report 2023 (pdsb.co.id/about/download_gcg/2023) prints slightly different, apparently preliminary figures: 'laba setelah pajak Rp254,1 Milyar, BOPO 81,19%, ROA 1,62%, ROE 10,75%' (PDF p. 8) and KPMM 20,93% (PDF p. 57, Halaman 55) - the 254.1 matches profit BEFORE zakat and tax (254.337 in the parent's FS2023 PDSB summary); the AR values are stored."
+            },
+            "casa": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 88.568,
+                "source_url": "https://web.ksei.co.id/publications/corporate-action-schedules/minutes-of-meeting?Month=06&Year=2025&file=103980220250618152403",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 3, Pengumuman Ringkasan Risalah RUPST 18 Jun 2025 (filed with KSEI), Mata Acara Kedua: 'Laba Bersih Perseroan untuk tahun buku 2024 yaitu sebesar Rp88.568.492.244,00'",
+                "basis": "consolidated",
+                "note": "Audited FY2024 net profit (KAP Liana Ramon Xenia & Rekan, report 25 Feb 2025) as approved by the AGMS; parent AR2024 table: 89. As originally reported. Parent AR2025 (PDF pp. 250-253) shows FY2024 RESTATED in PNBS's FY2025 FS: assets 16,838, equity 2,899, net profit 136, EPS 3.50, CAR 22.01% (ROA 0.65% / ROE 3.65% unchanged)."
+            },
+            "eps": {
+                "v": 2.28,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 224 (printed p. 222), Kinerja Keuangan PDSB table, 'Laba per Saham (Rp penuh)' 2,28",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  As originally reported. Parent AR2025 (PDF pp. 250-253) shows FY2024 RESTATED in PNBS's FY2025 FS: assets 16,838, equity 2,899, net profit 136, EPS 3.50, CAR 22.01% (ROA 0.65% / ROE 3.65% unchanged). Parent AR2024: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (page objects in original order)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://web.ksei.co.id/publications/corporate-action-schedules/minutes-of-meeting?Month=06&Year=2025&file=103980220250618152403",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 3, Ringkasan Risalah RUPST 18 Jun 2025 (KSEI), Mata Acara Kedua",
+                "basis": "n/a",
+                "note": "Whole FY2024 profit retained ('untuk tahun buku 2024 Perseroan tidak membagikan dividen'); 2.5% corporate zakat Rp2,686,175,304. The summary's heading date reads '18 Juni 2024' (typo for 2025; KSEI lists it under 18 Jun 2025)."
+            },
+            "total_assets": {
+                "v": 16797,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 224 (printed p. 222), Kinerja Keuangan PDSB table, 'Aset' (Rp miliar)",
+                "basis": "consolidated",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). The parent's Q1-2025 interim FS (subsidiary table, PDF p. 13) prints PDSB total assets before eliminations at 31 Dec 2024 of 16,806,298 Rp juta (consolidation-level figure, not used). As originally reported. Parent AR2025 (PDF pp. 250-253) shows FY2024 RESTATED in PNBS's FY2025 FS: assets 16,838, equity 2,899, net profit 136, EPS 3.50, CAR 22.01% (ROA 0.65% / ROE 3.65% unchanged). Parent AR2024: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (page objects in original order)."
+            },
+            "loans_gross": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (it gives assets, liabilities, temporary syirkah funds, equity and the FDR only)."
+            },
+            "deposits": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (temporary syirkah funds are given, but DPK also includes wadiah deposits, which sit inside 'Liabilitas')."
+            },
+            "equity_attr": {
+                "v": 2852,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 224 (printed p. 222), Kinerja Keuangan PDSB table, 'Ekuitas' (Rp miliar)",
+                "basis": "consolidated",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  As originally reported. Parent AR2025 (PDF pp. 250-253) shows FY2024 RESTATED in PNBS's FY2025 FS: assets 16,838, equity 2,899, net profit 136, EPS 3.50, CAR 22.01% (ROA 0.65% / ROE 3.65% unchanged). Parent AR2024: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (page objects in original order)."
+            },
+            "total_equity": {
+                "v": 2852,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 224 (printed p. 222), Kinerja Keuangan PDSB table, 'Ekuitas' (Rp miliar)",
+                "basis": "consolidated",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked)."
+            },
+            "shares_out": {
+                "v": 38813641319,
+                "source_url": "https://web.ksei.co.id/services/registered-securities/shares/lc/PNBS",
+                "source_type": "official",
+                "as_of_date": "2024-12-31",
+                "loc": "KSEI registered-securities page PNBS (ISIN ID1000130701): 'Number of Securities 38,813,641,319'; Corporate Action list",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "KSEI (central securities depository) record read 2026-11-03. The count has been unchanged since the PUT II shares were issued in Nov 2020: KSEI's corporate-action list for PNBS shows no share-issuing action after the 10-11 Nov 2020 rights distribution, and AGMS attendance figures imply the same total (e.g. 35,865,309,609 shares = 92.404% in Jun 2022; 35,893,277,243 = 92.4759% in Nov 2024). No treasury shares. PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "not available: the AR share-price table for FY2024 is not retrievable (PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS)). "
+            },
+            "roe": {
+                "v": 3.65,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 227 (printed p. 225), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('ROE tercatat sebesar 3,65% di tahun 2024')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). The table on PDF p. 224 of the same AR prints 3.31% (a different computation); 3.65% is the ratio PNBS reports, repeated in parent AR2025 PDF pp. 250/253. Parent AR2024: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (page objects in original order)."
+            },
+            "roa": {
+                "v": 0.65,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 227 (printed p. 225), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('ROA turun menjadi 0,65% pada tahun 2024')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). The table on PDF p. 224 prints 0.60%; 0.65% is the OJK ratio, repeated in parent AR2025 PDF pp. 250/253. Parent AR2024: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (page objects in original order)."
+            },
+            "nim": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "coc": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "npl_gross": {
+                "v": 3.25,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 227 (printed p. 225), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('NPF Gross tahun 2024 tercatat sebesar 3,25%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Same in AR2025. Parent AR2024: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (page objects in original order)."
+            },
+            "npl_net": {
+                "v": 2.34,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 227 (printed p. 225), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('NPF Net ... 2,34% di tahun 2024')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Same in AR2025. Parent AR2024: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (page objects in original order)."
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "ldr": {
+                "v": 95.36,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 228 (printed p. 226), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('FDR pada tahun 2024 tercatat sebesar 95,36%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Same in AR2025. Parent AR2024: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (page objects in original order)."
+            },
+            "car": {
+                "v": 21.94,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 227 (printed p. 225), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('CAR mengalami kenaikan menjadi sebesar 21,94% pada akhir tahun 2024')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  As originally reported. Parent AR2025 (PDF pp. 250-253) shows FY2024 RESTATED in PNBS's FY2025 FS: assets 16,838, equity 2,899, net profit 136, EPS 3.50, CAR 22.01% (ROA 0.65% / ROE 3.65% unchanged). Parent AR2024: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (page objects in original order)."
+            },
+            "cir": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (it quotes BOPO only)."
+            },
+            "bopo": {
+                "v": 92.01,
+                "source_url": "https://www.panin.co.id/sites/default/files/2025-04/Panin%20Bank_AR_2024_A1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 228 (printed p. 226), Kinerja Keuangan PDSB, 'Rasio Keuangan' text ('BOPO naik dari 82,47% pada tahun 2023 menjadi sebesar 92,01%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). Same in AR2025. Parent AR2024: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (page objects in original order)."
+            },
+            "casa": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 20.016,
+                "source_url": "https://web.ksei.co.id/publications/corporate-action-schedules/minutes-of-meeting?Month=06&Year=2026&file=104153620260610101039",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 3, Pengumuman Ringkasan Risalah RUPST 10 Jun 2026 (filed with KSEI), Mata Acara Kedua: 'Laba Bersih Perseroan untuk tahun buku 2025 yaitu sebesar Rp20.015.961.940,00'",
+                "basis": "consolidated",
+                "note": "Audited FY2025 net profit as approved by the AGMS; parent AR2025 table: 20."
+            },
+            "eps": {
+                "v": 0.52,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 250 (printed p. 248), Kinerja Keuangan table (PDSB), 'Laba per Saham (Rp penuh)' 0,52",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Parent AR2025: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (all 954 page objects, original order; some glyphs garbled, Indonesian text legible)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://web.ksei.co.id/publications/corporate-action-schedules/minutes-of-meeting?Month=06&Year=2026&file=104153620260610101039",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 3, Ringkasan Risalah RUPST 10 Jun 2026 (KSEI), Mata Acara Kedua",
+                "basis": "n/a",
+                "note": "Whole FY2025 profit retained ('untuk tahun buku 2025 Perseroan tidak membagikan dividen'); 2.5% corporate zakat Rp757,114,236."
+            },
+            "total_assets": {
+                "v": 19118,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 250 (printed p. 248), Kinerja Keuangan table (PDSB), 'Aset' (Rp miliar)",
+                "basis": "consolidated",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked). The parent's Q1-2026 interim FS (subsidiary table, PDF p. 13) prints PDSB total assets before eliminations at 31 Dec 2025 of 19,117,611 Rp juta (consistent). Parent AR2025: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (all 954 page objects, original order; some glyphs garbled, Indonesian text legible)."
+            },
+            "loans_gross": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (it gives assets, liabilities, temporary syirkah funds, equity and the FDR only)."
+            },
+            "deposits": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (temporary syirkah funds are given, but DPK also includes wadiah deposits, which sit inside 'Liabilitas')."
+            },
+            "equity_attr": {
+                "v": 2972,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 250 (printed p. 248), Kinerja Keuangan table (PDSB), 'Ekuitas' (Rp miliar)",
+                "basis": "consolidated",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Parent AR2025: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (all 954 page objects, original order; some glyphs garbled, Indonesian text legible)."
+            },
+            "total_equity": {
+                "v": 2972,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 250 (printed p. 248), Kinerja Keuangan table (PDSB), 'Ekuitas' (Rp miliar)",
+                "basis": "consolidated",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked)."
+            },
+            "shares_out": {
+                "v": 38813641319,
+                "source_url": "https://web.ksei.co.id/services/registered-securities/shares/lc/PNBS",
+                "source_type": "official",
+                "as_of_date": "2025-12-31",
+                "loc": "KSEI registered-securities page PNBS (ISIN ID1000130701): 'Number of Securities 38,813,641,319'; Corporate Action list",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "KSEI (central securities depository) record read 2026-11-03. The count has been unchanged since the PUT II shares were issued in Nov 2020: KSEI's corporate-action list for PNBS shows no share-issuing action after the 10-11 Nov 2020 rights distribution, and AGMS attendance figures imply the same total (e.g. 35,865,309,609 shares = 92.404% in Jun 2022; 35,893,277,243 = 92.4759% in Nov 2024). No treasury shares. PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "not available: the AR share-price table for FY2025 is not retrievable (PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS)). KSEI's registered-securities page shows a 30 Dec 2025 close of Rp53 (not stored: not an annual-report figure)."
+            },
+            "roe": {
+                "v": 0.86,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 253 (printed p. 251), PDSB 'Rasio Keuangan' text ('Return on Equity ... sebesar 0,86% di tahun 2025'); same in the table on PDF p. 250",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Parent AR2025: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (all 954 page objects, original order; some glyphs garbled, Indonesian text legible)."
+            },
+            "roa": {
+                "v": 0.17,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 253 (printed p. 251), PDSB 'Rasio Keuangan' text ('ROA turun menjadi 0,17% pada tahun 2025'); same in the table on PDF p. 250",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Parent AR2025: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (all 954 page objects, original order; some glyphs garbled, Indonesian text legible)."
+            },
+            "nim": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "coc": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "npl_gross": {
+                "v": 2.87,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 252 (printed p. 250), PDSB 'Rasio Keuangan' text ('NPF Gross tahun 2025 tercatat sebesar 2,87%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Parent AR2025: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (all 954 page objects, original order; some glyphs garbled, Indonesian text legible)."
+            },
+            "npl_net": {
+                "v": 2.7,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 252 (printed p. 250), PDSB 'Rasio Keuangan' text ('NPF Net naik dari 2,34% pada 2024 menjadi 2,70% di tahun 2025')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Parent AR2025: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (all 954 page objects, original order; some glyphs garbled, Indonesian text legible)."
+            },
+            "lar": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            },
+            "ldr": {
+                "v": 95.04,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 253 (printed p. 251), PDSB 'Rasio Keuangan' text ('FDR pada tahun 2025 tercatat sebesar 95,04%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Parent AR2025: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (all 954 page objects, original order; some glyphs garbled, Indonesian text legible)."
+            },
+            "car": {
+                "v": 18.86,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 252 (printed p. 250), PDSB 'Rasio Keuangan' text ('CAR mengalami penurunan menjadi sebesar 18,86% pada akhir tahun 2025 dari 22,01%')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Parent AR2025: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (all 954 page objects, original order; some glyphs garbled, Indonesian text legible)."
+            },
+            "cir": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it (it quotes BOPO only)."
+            },
+            "bopo": {
+                "v": 97.8,
+                "source_url": "https://www.panin.co.id/sites/default/files/2026-04/AR%20SR%202025%20PaninBank.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 253 (printed p. 251), PDSB 'Rasio Keuangan' text ('BOPO naik dari 92,01% pada tahun 2024 menjadi sebesar 97,80% pada tahun 2025')",
+                "basis": "bank_only",
+                "note": "Figure for PT Bank Panin Dubai Syariah Tbk ('PDSB') as presented in the annual report of its parent PT Bank Pan Indonesia Tbk (MD&A, 'Kinerja Keuangan PDSB'). PNBS's own AR/FS for this year could not be retrieved (pdsb.co.id rejects this server and, since Nov 2025, the Internet Archive; no archived copy of its AR/FS download links; idx.co.id blocked).  Parent AR2025: only archived copy is truncated at 5 MiB; text recovered by the PNBN research (all 954 page objects, original order; some glyphs garbled, Indonesian text legible)."
+            },
+            "casa": {
+                "v": null,
+                "note": "not disclosed in a retrievable source: PNBS's own annual report / published statements for this year are not retrievable (see research_notes SOURCE ACCESS) and the parent's AR section on PDSB does not print it."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "profit_ytd": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. News (stockwatch.id, 2026) reports H1-2026 net profit of Rp80.78bn (+209% YoY); not stored because news may not be the sole source of a number."
+            },
+            "profit_ytd_prior": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. News (bisnis.com 27 Jul 2025) reports H1-2025 net profit of Rp26.13bn; not stored (news only)."
+            },
+            "equity_attr": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "shares_out": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. The share count has not changed since Nov 2020 (38,813,641,319 per KSEI), but no H1-2026 document is available to cite for the period end."
+            },
+            "total_assets": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "loans_gross": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "loans_gross_prior": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "deposits": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "deposits_prior": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "roe": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "roa": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "nim": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "coc": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "npl_gross": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "lar": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "ldr": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "car": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "cir": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            },
+            "casa": {
+                "v": null,
+                "note": "not retrievable: PNBS's H1-2026 interim FS / published statement (30 Jun 2026) are only on pdsb.co.id and idx.co.id, which block this server; pdsb.co.id has also refused the Internet Archive since Nov 2025, so no copy exists; the parent's H1/9M-2026 FS are not archived either. "
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2020",
+            "reason": "PUT II rights issue: 14,854,603,468 new shares were issued 16-23 Nov 2020, so the year-end count (38,813,641,319; AR2020 PDF p. 10) is far above the weighted-average shares behind the printed basic EPS; the EPS is also printed rounded to Rp0.005 on a profit of only Rp0.128bn (AR2020 PDF p. 8). 0.005 x 38,813,641,319 = Rp0.194bn vs Rp0.128bn; with ~25.5bn weighted shares (23,959,037,851 for the full year + the new shares for ~38 days) 0.128bn / 25.5bn = Rp0.0050, i.e. the printed figure."
+        }
+    ],
+    "research_notes": [
+        "IDENTITY: PNBS = PT Bank Panin Dubai Syariah Tbk (brand 'Panin Dubai Syariah Bank', abbreviation PDSB; formerly PT Bank Panin Syariah Tbk, renamed 2016 after Dubai Islamic Bank PJSC became a shareholder). Full-fledged sharia commercial bank, listed 15 Jan 2014. Controlling shareholder PT Bank Pan Indonesia Tbk (PNBN): 53.70% before the Nov 2020 rights issue, 69.93% after it, 67.30% from Feb/Mar 2021 after Panin sold 1,020.5m shares (PNBN FS2021 PDF p. 17); Dubai Islamic Bank PJSC is the other major shareholder. 1% of the shares (held by Panin Bank) is not listed on IDX by law (PP 29/1999), which is why some tables show 99% of the share count. PNBS has no subsidiaries (AR2020 PDF p. 39), so its entity statements are stored with basis 'consolidated' and its regulatory ratios with basis 'bank_only'.",
+        "SOURCE ACCESS (read first): the old IR domain paninbanksyariah.co.id (and panindubaisyariah.co.id) no longer resolves; the current site www.pdsb.co.id sits behind an F5/Volterra WAF that answers this server with 'The requested URL was rejected' (HTTP 403) and has also refused the Internet Archive since Nov 2025 (CDX: 403 for every capture after 2025-11-07); idx.co.id is Cloudflare-blocked; ojk.go.id does not connect. No challenge was bypassed. pdsb.co.id serves every document through Laravel-encrypted download links (/about/download_ar/<token>, /about/download_lapkeu_*/<token>); the Archive captured the HTML listing pages (AR 2018-2024, quarterly/annual FS 2018-Q1 2025, monthly reports, sustainability reports are all listed on the 18 Jul 2025 capture of /about/laporan_keuangan) but NONE of those AR/FS download links. Archived and complete: the RUPS documents 2019-2024, the prospectuses (incl. PUT II 2020) and the Pillar-3 risk-exposure reports; the GCG reports 2014-2023 are archived truncated at 1 MiB (a few pages recoverable). The old-domain annual reports (AR2019, AR2020, AR2021) and sustainability reports are archived only TRUNCATED at 1 MiB: AR2020 pages 1-~60 (highlights, ratios, share table) were recovered with scripts/salvage_pdf.py; AR2019/AR2021 yield no data pages. KSEI hosts the issuer's own AGMS summaries for 2025 and 2026 (fetched directly). Broker/aggregator copies of PNBS's IDX filings exist (e.g. indopremier.com) but were NOT used (brief: no aggregators; source_url must be on the bank's/IDX's domain).",
+        "FY2021-FY2025 LEVELS AND RATIOS COME FROM THE PARENT'S FILINGS: because no PNBS AR/FS after FY2020 is retrievable, total assets, equity, EPS and the regulatory ratios (CAR, NPF gross/net, ROA, ROE, BOPO, FDR) for FY2021-FY2025 are taken from the annual reports of PT Bank Pan Indonesia Tbk ('Kinerja Keuangan PDSB' section of the MD&A, values in Rp billion as printed) and, for FY2021-FY2022 assets/equity, from the PSAK 67 summarized financial information of PDSB in the parent's audited FS (exact Rp juta). Net profit FY2022-FY2025 is PNBS's own figure from its AGMS summaries (exact to the rupiah). Cross-checks: the parent's figures equal PNBS's own AR2020 for FY2020 (assets 11,302,082; equity 3,115,653; profit 128; CAR 31.43%; NPF 3.38/2.45%; ROA 0.06%; ROE 0.01%; BOPO 99.42%; FDR 111.71%) and PNBS's AGMS profit for FY2022 (250,531,591,141). For FY2023 the parent's FS note shows profit 244,432 vs PNBS's AGMS 244,690 (Rp juta) and equity 2,788,265 vs AR 2,789 bn, i.e. a small consolidation-level difference, so the AR (PNBS-reported) values are stored for FY2023-FY2025. loans_gross, deposits, NOM, CIR, CoC, coverage and CASA for FY2021-FY2025 are null: the parent's section does not print them. LaR is filled only for FY2022/FY2023 with PNBS's PKR (Pembiayaan Kualitas Rendah) ratio from its own GCG report 2023 (23.85% / 17.70%); that report's other figures look preliminary (FY2023 'laba setelah pajak Rp254,1 Milyar' = profit before zakat and tax, BOPO 81.19%, ROE 10.75%, KPMM 20.93% vs AR 244.69bn / 80.55% / 10.44% / 20.50%), so only the PKR (available nowhere else) is used from it. PNBS's GCG report 2022 confirms the FY2022 BOPO/ROA/ROE (76.99% / 1.79% / 11.51%) taken from the parent's AR2022.",
+        "RESTATEMENTS (reviewer check): PNBS restated FY2023 in its FY2024 FS (parent AR2024 PDF p. 224, marked 'Disajikan kembali'): assets 17,343 -> 17,326, equity 2,789 -> 2,771, net profit 245 (AGMS 244.690) -> 228, EPS 6.30 -> 5.86, CAR 20.50 -> 20.39%, NPF net 3.03 -> 2.95%, ROA 1.62 -> 1.51%, ROE 10.44 -> 9.71%, BOPO 80.55 -> 82.47%. It restated FY2024 again in its FY2025 FS (parent AR2025 PDF p. 250, '*) Disajikan kembali'): assets 16,797 -> 16,838, equity 2,852 -> 2,899, net profit 89 (AGMS 88.568) -> 136, EPS 2.28 -> 3.50, CAR 21.94 -> 22.01%. The reason is not given in the parent's AR and PNBS's own FS (which would explain it) are not retrievable. fy.2023 and fy.2024 store the figures as originally reported (and approved by the AGMS); the restated values are in each datum's note. Growth FY2023->FY2024 and FY2024->FY2025 computed from stored levels therefore mixes bases.",
+        "NO DIVIDENDS FY2020-FY2025 (payout_ratio v 0 for every year): every AGMS retained the whole year's result to strengthen core capital - FY2020 (AGMS 29 Jul 2021), FY2021 loss year, 'tidak ada pembagian dividen' and no zakat (AGMS 29 Jun 2022), FY2022 (21 Jun 2023), FY2023 (5 Jun 2024), FY2024 (18 Jun 2025, KSEI copy), FY2025 (10 Jun 2026, KSEI copy). FY2019 and FY2018 were also fully retained (AGMS 27 Jul 2020, 19 Jun 2019). PNBS still had a large accumulated deficit (saldo laba tidak ditentukan penggunaannya Rp-791bn at end-2019, about Rp-1.6tn after the 2021 loss per the Jan 2022 monthly report), so no dividend could be paid. Hence dividends = [] and the validator's 'no dividend records' warnings are expected.",
+        "LOSS YEAR FY2021 (real data): net loss Rp818.1bn after a Rp1,045.9bn impairment charge (parent FS2021 PDF p. 150); EPS -21.08; ROA -6.72%; ROE -31.76%; BOPO 202.74% (above the validator's 200% bound - real); CAR 25.81%. NPF gross fell to 1.19% (from 3.38%) as problem financing was written off/provisioned. FY2020 profit was only Rp0.128bn (ROE 0.01%).",
+        "CORPORATE ACTIONS 2019-2026: exactly one - the PUT II rights issue, 100 : 62 at Rp100, ex-date (regular market) 2020-11-09 (prospectus 26 Oct 2020). The hint of rights issues 'around 2021-2022' is not supported: KSEI's corporate-action list for PNBS shows no rights/bonus/split after Nov 2020 (only GMS proxy-voting entries: AGMS 2021-2026 and EGMS 3 Nov 2021, 12 Nov 2024 and 3 Dec 2025); the EGMS of 12 Nov 2024 (summary on pdsb.co.id) and of 3 Nov 2021 (bisnis.com 5 Nov 2021) changed the board only, and the share count has stayed 38,813,641,319 (AR2020 Q4 table; KSEI page Nov 2026; AGMS attendance percentages 2022-2026). The capital injection after the 2021 loss came from the Nov 2020 rights issue proceeds and retained earnings, not a new issue. PUT I (100:135, 2018) is before 2019 and not recorded. Because the rights ex-date is before 2020-12-31, fy.2019.year_end_price (Rp50, Q4-2019 close from AR2020's two-year share table) is stored.",
+        "SHARE DATA: year_end_price is stored only for FY2019 (50) and FY2020 (83) from AR2020; FY2021-FY2025 are null because no PNBS AR share table is retrievable (KSEI's page shows a 30 Dec 2025 close of Rp53, not stored). shares_out FY2021-FY2025 = 38,813,641,319 from KSEI's registered-securities record plus the absence of any share-issuing action since Nov 2020 (source_type 'official' = KSEI, the central securities depository). EPS x shares agrees within 1% for FY2021-FY2025; FY2020 is acknowledged (rights issue, weighted shares).",
+        "FY2019 FINANCING TYPO: AR2020's highlight table (PDF p. 8) prints 2019 'Pembiayaan' as 8.836.315 while the chart on PDF p. 9 prints 8.336.315; 8,336,315 is stored because it reproduces the reported FDR (95.72%) and AR2020's own '6,13%' financing growth for 2020 (PDF p. 19). Also: AR2020 p. 10 says the FY2019 AGMS retained 'laba bersih' Rp13,237,009,296.17 while the AGMS summary itself (27 Jul 2020) says Rp23,345,431,720.17 (= profit before zakat and tax); FY2019 profit is not a stored field.",
+        "INTERIM: the latest period PNBS has published is at least H1 2026 (news: stockwatch.id reports H1-2026 net profit Rp80.78bn, +209% YoY); 9M 2026 could not be confirmed. No H1/9M-2026 PNBS or parent document is retrievable, so the interim block (H1 2026) is all null. The parent's Q1-2026 interim FS gives only PDSB total assets before eliminations (19,722,857 Rp juta at 31 Mar 2026; PDF p. 13), not stored because it is not the latest period.",
+        "SHARIA LABELS: loans_gross = total financing (pembiayaan: murabahah, ijarah, mudharabah, musyarakah - musyarakah is 82-96% of the book); deposits = Dana Pihak Ketiga (wadiah giro/tabungan + mudharabah tabungan/deposito, the latter booked as temporary syirkah funds outside liabilities); npl = NPF; ldr = FDR. ROE as reported (the 2020 prospectus labels it 'laba sebelum pajak terhadap rata-rata modal inti', AR2020 'Tingkat Pengembalian Ekuitas'); ROA = pre-tax profit / average assets (OJK)."
+    ]
+}

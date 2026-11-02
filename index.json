@@ -778,6 +778,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bmas/"
+        },
+        {
+            "code": "PNBS",
+            "name": "PT Bank Panin Dubai Syariah Tbk",
+            "name_short": "Bank Panin Dubai Syariah",
+            "sector": "banking",
+            "group": "sharia",
+            "kbmi": 1,
+            "sharia": true,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "H1 2026",
+            "interim_period_end": "2026-06-30",
+            "data_through": "2026-06-30",
+            "dividend_records": 0,
+            "file": "issuers/PNBS.json",
+            "prices": {
+                "file": "prices/PNBS.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1889,
+                "last_close": 37,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/pnbs/"
         }
     ]
 }
