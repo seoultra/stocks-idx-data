@@ -21,6 +21,8 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | BMRI | PT Bank Mandiri (Persero) Tbk | 4 | FY2020–FY2025 | 9M 2026 | [issuers/BMRI.json](issuers/BMRI.json) | [prices/BMRI.json](prices/BMRI.json) 2019-01-02 → 2026-11-02 |
 | BBNI | PT Bank Negara Indonesia (Persero) Tbk | 4 | FY2020–FY2025 | H1 2026 | [issuers/BBNI.json](issuers/BBNI.json) | [prices/BBNI.json](prices/BBNI.json) 2019-01-02 → 2026-11-02 |
 | BBCA | PT Bank Central Asia Tbk | 4 | FY2020–FY2025 | 9M 2026 | [issuers/BBCA.json](issuers/BBCA.json) | [prices/BBCA.json](prices/BBCA.json) 2019-01-02 → 2026-11-02 |
+| BNGA | PT Bank CIMB Niaga Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/BNGA.json](issuers/BNGA.json) | [prices/BNGA.json](prices/BNGA.json) 2019-01-02 → 2026-10-30 |
+| NISP | PT Bank OCBC NISP Tbk | 3 | FY2020–FY2025 | 9M 2026 | [issuers/NISP.json](issuers/NISP.json) | [prices/NISP.json](prices/NISP.json) 2019-01-02 → 2026-10-30 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->

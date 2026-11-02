@@ -1,74 +1,78 @@
 {
-  "schema": 1,
-  "sectors": [
-    {
-      "id": "banking",
-      "name": {
-        "id": "Perbankan",
-        "en": "Banking"
-      },
-      "tickers": [
-        "BBRI",
-        "BMRI",
-        "BBNI",
-        "BBCA"
-      ],
-      "groups": [
+    "schema": 1,
+    "sectors": [
         {
-          "id": "bumn",
-          "name": {
-            "id": "Bank BUMN",
-            "en": "State-owned banks"
-          },
-          "tickers": [
-            "BBRI",
-            "BMRI",
-            "BBNI"
-          ]
-        },
-        {
-          "id": "private_large",
-          "name": {
-            "id": "Bank swasta besar",
-            "en": "Large private banks"
-          },
-          "tickers": [
-            "BBCA"
-          ]
-        },
-        {
-          "id": "sharia",
-          "name": {
-            "id": "Bank syariah",
-            "en": "Sharia banks"
-          },
-          "tickers": []
-        },
-        {
-          "id": "digital",
-          "name": {
-            "id": "Bank digital",
-            "en": "Digital banks"
-          },
-          "tickers": []
-        },
-        {
-          "id": "bpd",
-          "name": {
-            "id": "Bank Pembangunan Daerah",
-            "en": "Regional development banks"
-          },
-          "tickers": []
-        },
-        {
-          "id": "private_mid",
-          "name": {
-            "id": "Bank swasta menengah & asing",
-            "en": "Mid-size & foreign-owned banks"
-          },
-          "tickers": []
+            "id": "banking",
+            "name": {
+                "id": "Perbankan",
+                "en": "Banking"
+            },
+            "tickers": [
+                "BBRI",
+                "BMRI",
+                "BBNI",
+                "BBCA",
+                "BNGA",
+                "NISP"
+            ],
+            "groups": [
+                {
+                    "id": "bumn",
+                    "name": {
+                        "id": "Bank BUMN",
+                        "en": "State-owned banks"
+                    },
+                    "tickers": [
+                        "BBRI",
+                        "BMRI",
+                        "BBNI"
+                    ]
+                },
+                {
+                    "id": "private_large",
+                    "name": {
+                        "id": "Bank swasta besar",
+                        "en": "Large private banks"
+                    },
+                    "tickers": [
+                        "BBCA",
+                        "BNGA",
+                        "NISP"
+                    ]
+                },
+                {
+                    "id": "sharia",
+                    "name": {
+                        "id": "Bank syariah",
+                        "en": "Sharia banks"
+                    },
+                    "tickers": []
+                },
+                {
+                    "id": "digital",
+                    "name": {
+                        "id": "Bank digital",
+                        "en": "Digital banks"
+                    },
+                    "tickers": []
+                },
+                {
+                    "id": "bpd",
+                    "name": {
+                        "id": "Bank Pembangunan Daerah",
+                        "en": "Regional development banks"
+                    },
+                    "tickers": []
+                },
+                {
+                    "id": "private_mid",
+                    "name": {
+                        "id": "Bank swasta menengah & asing",
+                        "en": "Mid-size & foreign-owned banks"
+                    },
+                    "tickers": []
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

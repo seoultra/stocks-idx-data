@@ -1,0 +1,1541 @@
+{
+    "schema": 1,
+    "code": "NISP",
+    "name": "PT Bank OCBC NISP Tbk",
+    "name_short": "Bank OCBC NISP",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.ocbc.id",
+    "ir_url": "https://www.ocbc.id/id/tentang-ocbc/hubungan-investor",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 6, Awards ('Infobank 10 Best Bank Based on KBMI 3 ... in the KBMI 3 category (Core Capital Above Rp 14 trillion to Rp 70 trillion)'); PDF p. 105, capital table, Total Modal Inti 2025 Rp43,261bn",
+        "note": "AR2025 states no tier directly; it lists awards won in the KBMI 3 category, and FY2025 Tier 1 capital of Rp43,261bn lies in the KBMI 3 band (Rp14tn-Rp70tn, POJK 12/POJK.03/2021)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 180706.987,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2019/Triwulan-IV---2019-diaudit/FS-Bank-OCBC-NISP-31-Dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 119046.393,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2019/Triwulan-IV---2019-diaudit/FS-Bank-OCBC-NISP-31-Dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 120, Note 'Pinjaman yang diberikan' a. by currency and type, total before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans as totalled in the loans note (before allowance); NISP's note total INCLUDES accrued interest income (the face statement lists related-party + third-party loans + 'Pendapatan bunga yang masih akan diterima'). Includes sharia financing. Same figure the AR highlights print as 'Kredit yang diberikan - Bruto'."
+            },
+            "deposits": {
+                "v": 126121.499,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2019/Triwulan-IV---2019-diaudit/FS-Bank-OCBC-NISP-31-Dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 132, Note 'Simpanan nasabah' a. by currency and type, total (current accounts + savings + time deposits)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK), incl. sharia-unit deposits; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 27664.701,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2019/Triwulan-IV---2019-diaudit/FS-Bank-OCBC-NISP-31-Dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 10, Consolidated statement of changes in equity, 'Saldo akhir 31 Desember 2019', column 'Jumlah ekuitas pihak pengendali / Total equity of controlling interest'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 27664.803,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2019/Triwulan-IV---2019-diaudit/FS-Bank-OCBC-NISP-31-Dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 2101.67,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2020/Triwulan-IV---2020-diaudit/FS-PT-Bank-OCBC-NISP-Tbk-31-Desember-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 91.59,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2020/Triwulan-IV---2020-diaudit/FS-PT-Bank-OCBC-NISP-Tbk-31-Desember-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih per saham' (basic and diluted)",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2021/RUPST-6-April-2021/ringkasan-risalah-rupst-6-april-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-04-06",
+                "loc": "p. 3, Ringkasan Risalah RUPST 6 April 2021, Mata Acara Kedua",
+                "basis": "consolidated",
+                "note": "AGMS 6 Apr 2021: FY2020 net profit Rp2,101,669,966,344 less Rp100m general reserve 'sepenuhnya digunakan untuk memperkuat posisi permodalan Perseroan dan tidak dibagikan sebagai dividen'. AR2025 dividend history: '2004 - 2020: No dividend distributed'."
+            },
+            "total_assets": {
+                "v": 206297.2,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2020/Triwulan-IV---2020-diaudit/FS-PT-Bank-OCBC-NISP-Tbk-31-Desember-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 114903.28,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2020/Triwulan-IV---2020-diaudit/FS-PT-Bank-OCBC-NISP-Tbk-31-Desember-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 133, Note 'Pinjaman yang diberikan' a. by currency and type, total before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans as totalled in the loans note (before allowance); NISP's note total INCLUDES accrued interest income (the face statement lists related-party + third-party loans + 'Pendapatan bunga yang masih akan diterima'). Includes sharia financing. Same figure the AR highlights print as 'Kredit yang diberikan - Bruto'."
+            },
+            "deposits": {
+                "v": 159036.404,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2020/Triwulan-IV---2020-diaudit/FS-PT-Bank-OCBC-NISP-Tbk-31-Desember-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 148, Note 'Simpanan nasabah' a. by currency and type, total (current accounts + savings + time deposits)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK), incl. sharia-unit deposits; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 29829.213,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2020/Triwulan-IV---2020-diaudit/FS-PT-Bank-OCBC-NISP-Tbk-31-Desember-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Consolidated statement of changes in equity, 'Saldo akhir 31 Desember 2020', column 'Jumlah ekuitas pihak pengendali / Total equity of controlling interest'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 29829.316,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2020/Triwulan-IV---2020-diaudit/FS-PT-Bank-OCBC-NISP-Tbk-31-Desember-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22945296972,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2020/Triwulan-IV---2020-diaudit/FS-PT-Bank-OCBC-NISP-Tbk-31-Desember-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, equity section ('Modal ditempatkan dan disetor penuh 22.945.296.972 lembar saham')",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid 22,945,296,972 shares; no treasury-share line on the balance sheet. The small yearly buybacks for variable remuneration (e.g. 436,000 shares in Jul 2021) were all transferred to staff within the same month (share-capital note)."
+            },
+            "year_end_price": {
+                "v": 820,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2020/2020_annual-report_sustainability_report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Ikhtisar Saham / Stock Highlights, share price table, 2020 'Penutupan (Rp)' 4th quarter",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. No split since Feb 2003, so share_basis = period end is equivalent to the AR publication date."
+            },
+            "roe": {
+                "v": 7.47,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2024/2024_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)' (2020 column)",
+                "basis": "consolidated",
+                "note": "ROE as reported in the AR consolidated ratio table (OJK-style ratio; the AR does not print the denominator). FY decks print the same values rounded ('Rasio Keuangan Konsolidasian')."
+            },
+            "roa": {
+                "v": 1.47,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2024/2024_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Aset (ROA)' (2020 column)",
+                "basis": "consolidated",
+                "note": "ROA as reported (OJK style: pre-tax profit / average total assets), consolidated table."
+            },
+            "nim": {
+                "v": 3.96,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2024/2024_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Marjin Bunga Bersih (NIM)' (2020 column)",
+                "basis": "consolidated",
+                "note": "NIM as reported, consolidated table. FY2020 as restated: AR2020 printed 3.80%; from AR2021 on it is 3.96% after the LPS deposit-guarantee premium was reclassified from interest expense to operating expense (FY2021 deck p.7 footnote 1)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: NISP publishes no cost-of-credit / credit-cost ratio (checked AR2020 highlights + MD&A and the FY2020 analyst deck ratio table). Not derived."
+            },
+            "npl_gross": {
+                "v": 1.93,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2024/2024_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bruto' (2020 column)",
+                "basis": "consolidated",
+                "note": "Gross NPL as reported."
+            },
+            "npl_net": {
+                "v": 0.79,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2024/2024_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bersih' (2020 column)",
+                "basis": "consolidated",
+                "note": "Net NPL as reported."
+            },
+            "lar": {
+                "v": 18,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2020/id/Presentasi-Kinerja-Materi-Briefing-Analis-Triwulan-IV-2020-Diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 13, 'Restrukturisasi Terkait Covid-19 Mendominasi Kredit yang Berisiko (Loans at Risk - LAR)', '% LAR (termasuk terkait COVID-19) terhadap Total Kredit'",
+                "basis": "consolidated",
+                "note": "LAR incl. COVID-19 restructured loans = Rp20,853bn / total loans Rp114,549bn (loans excl. accrued interest). Excluding COVID-19 restructuring the deck gives 7%. Printed as a whole percent."
+            },
+            "npl_coverage": {
+                "v": 233.8,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2020/id/Presentasi-Kinerja-Materi-Briefing-Analis-Triwulan-IV-2020-Diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 7, 'Rasio Keuangan Konsolidasian', row 'Cadangan Penurunan Nilai Kredit / NPL', FY20 column",
+                "basis": "consolidated",
+                "note": "Loan impairment allowance / NPL (%), as printed in the FY analyst presentation. Not printed in the AR ratio table."
+            },
+            "ldr": {
+                "v": 71.81,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2024/2024_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga (LDR)' (2020 column)",
+                "basis": "consolidated",
+                "note": "LDR as reported, consolidated table. FY2020 as restated in AR2021-AR2024 (AR2020 printed 72.03%)."
+            },
+            "car": {
+                "v": 22.04,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2024/2024_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kecukupan Modal (CAR)' (2020 column)",
+                "basis": "consolidated",
+                "note": "CAR (KPMM) consolidated. Cross-check: the OJK published report for Dec 2025 prints KPMM 24.39% bank-only and 24.53% consolidated; the AR table carries the consolidated figure."
+            },
+            "cir": {
+                "v": 44.1,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2021/2021_annual-report_sustainability_report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 84, Analisis dan Pembahasan Manajemen / MD&A, operating expenses discussion ('Cost-to-Income Ratio')",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio (operating expenses / total operating income), as stated in the MD&A; consolidated (the FY analyst deck prints the same value as 'Cost / Income Ratio (CTIR)' in its consolidated ratio table). FY2020 as restated for the LPS-premium reclassification; AR2020 originally reported 42.3%."
+            },
+            "bopo": {
+                "v": 81.13,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2024/2024_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Beban Operasional terhadap Pendapatan Operasional (BOPO)' (2020 column)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK definition)."
+            },
+            "casa": {
+                "v": 42.19,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2024/2024_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Giro & Tabungan (CASA)' (2020 column)",
+                "basis": "consolidated",
+                "note": "(Current accounts + savings) / deposits from customers."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 2519.574,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2021/laporan-keuangan-triwulan-iv-2021-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 109.81,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2021/laporan-keuangan-triwulan-iv-2021-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih per saham' (basic and diluted)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31"
+            },
+            "payout_ratio": {
+                "v": 20,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2022/rupst-5-april-2022/pemberitahuan-dividen-tahun-buku-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-04-06",
+                "loc": "p. 1, Pemberitahuan kepada para pemegang saham mengenai pembagian dividen tunai tahun buku 2021",
+                "basis": "consolidated",
+                "note": "Cash dividend as % of FY2021 net profit: 'Rp504.796.533.384 (gross) atau 20% dari Laba Bersih Perseroan Tahun Buku 2021'."
+            },
+            "total_assets": {
+                "v": 214395.608,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2021/laporan-keuangan-triwulan-iv-2021-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 120775.015,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2021/laporan-keuangan-triwulan-iv-2021-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 120, Note 'Pinjaman yang diberikan' a. by currency and type, total before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans as totalled in the loans note (before allowance); NISP's note total INCLUDES accrued interest income (the face statement lists related-party + third-party loans + 'Pendapatan bunga yang masih akan diterima'). Includes sharia financing. Same figure the AR highlights print as 'Kredit yang diberikan - Bruto'."
+            },
+            "deposits": {
+                "v": 168050.732,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2021/laporan-keuangan-triwulan-iv-2021-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 136, Note 'Simpanan nasabah' a. by currency and type, total (current accounts + savings + time deposits)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK), incl. sharia-unit deposits; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 32327.373,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2021/laporan-keuangan-triwulan-iv-2021-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Consolidated statement of changes in equity, 'Saldo akhir 31 Desember 2021', column 'Jumlah ekuitas pihak pengendali / Total equity of controlling interest'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 32327.571,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2021/laporan-keuangan-triwulan-iv-2021-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22945296972,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2021/laporan-keuangan-triwulan-iv-2021-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, equity section ('Modal ditempatkan dan disetor penuh 22.945.296.972 lembar saham')",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid 22,945,296,972 shares; no treasury-share line on the balance sheet. The small yearly buybacks for variable remuneration (e.g. 436,000 shares in Jul 2021) were all transferred to staff within the same month (share-capital note)."
+            },
+            "year_end_price": {
+                "v": 670,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2022/2022_annual-report-ocbc-nisp.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, Ikhtisar Saham / Stock Highlights, share price table, 2021 'Penutupan (Rp)' 4th quarter",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. No split since Feb 2003, so share_basis = period end is equivalent to the AR publication date."
+            },
+            "roe": {
+                "v": 8.33,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)' (2021 column)",
+                "basis": "consolidated",
+                "note": "ROE as reported in the AR consolidated ratio table (OJK-style ratio; the AR does not print the denominator). FY decks print the same values rounded ('Rasio Keuangan Konsolidasian')."
+            },
+            "roa": {
+                "v": 1.55,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Aset (ROA)' (2021 column)",
+                "basis": "consolidated",
+                "note": "ROA as reported (OJK style: pre-tax profit / average total assets), consolidated table."
+            },
+            "nim": {
+                "v": 3.82,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Marjin Bunga Bersih (NIM)' (2021 column)",
+                "basis": "consolidated",
+                "note": "NIM as reported, consolidated table."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: NISP publishes no cost-of-credit / credit-cost ratio (checked AR2021 highlights + MD&A and the FY2021 analyst deck ratio table). Not derived."
+            },
+            "npl_gross": {
+                "v": 2.36,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bruto' (2021 column)",
+                "basis": "consolidated",
+                "note": "Gross NPL as reported."
+            },
+            "npl_net": {
+                "v": 0.91,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bersih' (2021 column)",
+                "basis": "consolidated",
+                "note": "Net NPL as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: the AR2021 (financial highlights, MD&A) and the FY2021 analyst deck print no loan-at-risk ratio (the deck's restructured-loan page shows restructuring % only, and only through FY2023). The first LaR figure after FY2020 is in the 9M2026 deck (4.8%)."
+            },
+            "npl_coverage": {
+                "v": 265.4,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2021/id/presentasi-kinerja-Q4-2021-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "p. 7, 'Rasio Keuangan Konsolidasian', row 'Cadangan Penurunan Nilai Kredit / NPL', FY21 column",
+                "basis": "consolidated",
+                "note": "Loan impairment allowance / NPL (%), as printed in the FY analyst presentation. Not printed in the AR ratio table."
+            },
+            "ldr": {
+                "v": 71.7,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga (LDR)' (2021 column)",
+                "basis": "consolidated",
+                "note": "LDR as reported, consolidated table."
+            },
+            "car": {
+                "v": 23.05,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kecukupan Modal (CAR)' (2021 column)",
+                "basis": "consolidated",
+                "note": "CAR (KPMM) consolidated. Cross-check: the OJK published report for Dec 2025 prints KPMM 24.39% bank-only and 24.53% consolidated; the AR table carries the consolidated figure."
+            },
+            "cir": {
+                "v": 43.4,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2021/2021_annual-report_sustainability_report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 84, Analisis dan Pembahasan Manajemen / MD&A, operating expenses discussion ('Cost-to-Income Ratio')",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio (operating expenses / total operating income), as stated in the MD&A; consolidated (the FY analyst deck prints the same value as 'Cost / Income Ratio (CTIR)' in its consolidated ratio table)."
+            },
+            "bopo": {
+                "v": 76.5,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Beban Operasional terhadap Pendapatan Operasional (BOPO)' (2021 column)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK definition)."
+            },
+            "casa": {
+                "v": 50.65,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Giro & Tabungan (CASA)' (2021 column)",
+                "basis": "consolidated",
+                "note": "(Current accounts + savings) / deposits from customers."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 3326.917,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2022/laporan-keuangan-triwulan-iv-2022-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Consolidated statement of profit or loss, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 144.99,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2022/laporan-keuangan-triwulan-iv-2022-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Consolidated statement of profit or loss, 'Laba bersih per saham' (basic and diluted)",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31"
+            },
+            "payout_ratio": {
+                "v": 40,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2023/rupst-11-april-2023/rupst-2023_pembagian-dividen-tahun-buku-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-04-12",
+                "loc": "p. 1, Pemberitahuan kepada para pemegang saham mengenai pembagian dividen tunai tahun buku 2022",
+                "basis": "consolidated",
+                "note": "Cash dividend as % of FY2022 net profit: 'Rp1.330.766.943.604 (gross) atau 40% dari Laba Bersih Perseroan Tahun Buku 2022'."
+            },
+            "total_assets": {
+                "v": 238498.56,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2022/laporan-keuangan-triwulan-iv-2022-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 137621.383,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2022/laporan-keuangan-triwulan-iv-2022-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 122, Note 'Pinjaman yang diberikan' a. by currency and type, total before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans as totalled in the loans note (before allowance); NISP's note total INCLUDES accrued interest income (the face statement lists related-party + third-party loans + 'Pendapatan bunga yang masih akan diterima'). Includes sharia financing. Same figure the AR highlights print as 'Kredit yang diberikan - Bruto'."
+            },
+            "deposits": {
+                "v": 176084.993,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2022/laporan-keuangan-triwulan-iv-2022-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 138, Note 'Simpanan nasabah' a. by currency and type, total (current accounts + savings + time deposits)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK), incl. sharia-unit deposits; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 34210.774,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2022/laporan-keuangan-triwulan-iv-2022-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Consolidated statement of changes in equity, 'Saldo akhir 31 Desember 2022', column 'Jumlah ekuitas pihak pengendali / Total equity of controlling interest'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 34211.035,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2022/laporan-keuangan-triwulan-iv-2022-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22945296972,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2022/laporan-keuangan-triwulan-iv-2022-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, equity section ('Modal ditempatkan dan disetor penuh 22.945.296.972 lembar saham')",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid 22,945,296,972 shares; no treasury-share line on the balance sheet. The small yearly buybacks for variable remuneration (e.g. 436,000 shares in Jul 2021) were all transferred to staff within the same month (share-capital note)."
+            },
+            "year_end_price": {
+                "v": 745,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2022/2022_annual-report-ocbc-nisp.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Ikhtisar Saham / Stock Highlights, share price table, 2022 'Penutupan (Rp)' 4th quarter",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. No split since Feb 2003, so share_basis = period end is equivalent to the AR publication date."
+            },
+            "roe": {
+                "v": 10.51,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)' (2022 column)",
+                "basis": "consolidated",
+                "note": "ROE as reported in the AR consolidated ratio table (OJK-style ratio; the AR does not print the denominator). FY decks print the same values rounded ('Rasio Keuangan Konsolidasian')."
+            },
+            "roa": {
+                "v": 1.86,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Aset (ROA)' (2022 column)",
+                "basis": "consolidated",
+                "note": "ROA as reported (OJK style: pre-tax profit / average total assets), consolidated table."
+            },
+            "nim": {
+                "v": 4.04,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Marjin Bunga Bersih (NIM)' (2022 column)",
+                "basis": "consolidated",
+                "note": "NIM as reported, consolidated table."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: NISP publishes no cost-of-credit / credit-cost ratio (checked AR2022 highlights + MD&A and the FY2022 analyst deck ratio table). Not derived."
+            },
+            "npl_gross": {
+                "v": 2.42,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bruto' (2022 column)",
+                "basis": "consolidated",
+                "note": "Gross NPL as reported."
+            },
+            "npl_net": {
+                "v": 0.96,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bersih' (2022 column)",
+                "basis": "consolidated",
+                "note": "Net NPL as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: the AR2022 (financial highlights, MD&A) and the FY2022 analyst deck print no loan-at-risk ratio (the deck's restructured-loan page shows restructuring % only, and only through FY2023). The first LaR figure after FY2020 is in the 9M2026 deck (4.8%)."
+            },
+            "npl_coverage": {
+                "v": 223.7,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2022/id/presentasi-kinerja-Q4-2022-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 7, 'Rasio Keuangan Konsolidasian', row 'Cadangan Penurunan Nilai Kredit / NPL', FY22 column",
+                "basis": "consolidated",
+                "note": "Loan impairment allowance / NPL (%), as printed in the FY analyst presentation. Not printed in the AR ratio table."
+            },
+            "ldr": {
+                "v": 77.22,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga (LDR)' (2022 column)",
+                "basis": "consolidated",
+                "note": "LDR as reported, consolidated table."
+            },
+            "car": {
+                "v": 21.53,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kecukupan Modal (CAR)' (2022 column)",
+                "basis": "consolidated",
+                "note": "CAR (KPMM) consolidated. Cross-check: the OJK published report for Dec 2025 prints KPMM 24.39% bank-only and 24.53% consolidated; the AR table carries the consolidated figure."
+            },
+            "cir": {
+                "v": 44,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2022/2022_annual-report-ocbc-nisp.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 84, Analisis dan Pembahasan Manajemen / MD&A, operating expenses discussion ('Cost-to-Income Ratio')",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio (operating expenses / total operating income), as stated in the MD&A; consolidated (the FY analyst deck prints the same value as 'Cost / Income Ratio (CTIR)' in its consolidated ratio table)."
+            },
+            "bopo": {
+                "v": 71.09,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Beban Operasional terhadap Pendapatan Operasional (BOPO)' (2022 column)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK definition)."
+            },
+            "casa": {
+                "v": 54.6,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Giro & Tabungan (CASA)' (2022 column)",
+                "basis": "consolidated",
+                "note": "(Current accounts + savings) / deposits from customers."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 4091.028,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2023/laporan-keuangan-triwulan-iv-2023-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Consolidated statement of profit or loss, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 178.3,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2023/laporan-keuangan-triwulan-iv-2023-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Consolidated statement of profit or loss, 'Laba bersih per saham' (basic and diluted)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31"
+            },
+            "payout_ratio": {
+                "v": 40.4,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2024/rupst-2024/rupst-2024_dividen.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-03-19",
+                "loc": "p. 1, Pemberitahuan kepada para pemegang saham mengenai pembagian dividen tunai tahun buku 2023",
+                "basis": "consolidated",
+                "note": "Cash dividend as % of FY2023 net profit: 'Rp1.652.061.381.984 (gross) atau 40,4% dari Laba Bersih Perseroan Tahun Buku 2023'."
+            },
+            "total_assets": {
+                "v": 249757.139,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2023/laporan-keuangan-triwulan-iv-2023-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 154093.917,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2023/laporan-keuangan-triwulan-iv-2023-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 126, Note 'Pinjaman yang diberikan' a. by currency and type, total before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans as totalled in the loans note (before allowance); NISP's note total INCLUDES accrued interest income (the face statement lists related-party + third-party loans + 'Pendapatan bunga yang masih akan diterima'). Includes sharia financing. Same figure the AR highlights print as 'Kredit yang diberikan - Bruto'."
+            },
+            "deposits": {
+                "v": 181755.225,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2023/laporan-keuangan-triwulan-iv-2023-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 140, Note 'Simpanan nasabah' a. by currency and type, total (current accounts + savings + time deposits)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK), incl. sharia-unit deposits; excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 37319.892,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2023/laporan-keuangan-triwulan-iv-2023-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Consolidated statement of changes in equity, 'Saldo akhir 31 Desember 2023', column 'Jumlah ekuitas pihak pengendali / Total equity of controlling interest'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 37320.268,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2023/laporan-keuangan-triwulan-iv-2023-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22945296972,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2023/laporan-keuangan-triwulan-iv-2023-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, equity section ('Modal ditempatkan dan disetor penuh 22.945.296.972 lembar saham')",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid 22,945,296,972 shares; no treasury-share line on the balance sheet. The small yearly buybacks for variable remuneration (e.g. 436,000 shares in Jul 2021) were all transferred to staff within the same month (share-capital note)."
+            },
+            "year_end_price": {
+                "v": 1180,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2023/2023_annual-report-ocbc-indonesia.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Ikhtisar Saham / Stock Highlights, share price table, 2023 'Penutupan (Rp)' 4th quarter",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. No split since Feb 2003, so share_basis = period end is equivalent to the AR publication date."
+            },
+            "roe": {
+                "v": 12,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)' (2023 column)",
+                "basis": "consolidated",
+                "note": "ROE as reported in the AR consolidated ratio table (OJK-style ratio; the AR does not print the denominator). FY decks print the same values rounded ('Rasio Keuangan Konsolidasian')."
+            },
+            "roa": {
+                "v": 2.14,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Aset (ROA)' (2023 column)",
+                "basis": "consolidated",
+                "note": "ROA as reported (OJK style: pre-tax profit / average total assets), consolidated table."
+            },
+            "nim": {
+                "v": 4.35,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Marjin Bunga Bersih (NIM)' (2023 column)",
+                "basis": "consolidated",
+                "note": "NIM as reported, consolidated table."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: NISP publishes no cost-of-credit / credit-cost ratio (checked AR2023 highlights + MD&A and the FY2023 analyst deck ratio table). Not derived."
+            },
+            "npl_gross": {
+                "v": 1.64,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bruto' (2023 column)",
+                "basis": "consolidated",
+                "note": "Gross NPL as reported."
+            },
+            "npl_net": {
+                "v": 0.58,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bersih' (2023 column)",
+                "basis": "consolidated",
+                "note": "Net NPL as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: the AR2023 (financial highlights, MD&A) and the FY2023 analyst deck print no loan-at-risk ratio (the deck's restructured-loan page shows restructuring % only, and only through FY2023). The first LaR figure after FY2020 is in the 9M2026 deck (4.8%)."
+            },
+            "npl_coverage": {
+                "v": 324.7,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2023/id/presentasi-kinerja-Q4-2023-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "p. 25, 'Rasio Keuangan Konsolidasian', row 'Cadangan Penurunan Nilai Kredit / NPL', FY23 column",
+                "basis": "consolidated",
+                "note": "Loan impairment allowance / NPL (%), as printed in the FY analyst presentation. Not printed in the AR ratio table."
+            },
+            "ldr": {
+                "v": 83.8,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga (LDR)' (2023 column)",
+                "basis": "consolidated",
+                "note": "LDR as reported, consolidated table."
+            },
+            "car": {
+                "v": 23.69,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kecukupan Modal (CAR)' (2023 column)",
+                "basis": "consolidated",
+                "note": "CAR (KPMM) consolidated. Cross-check: the OJK published report for Dec 2025 prints KPMM 24.39% bank-only and 24.53% consolidated; the AR table carries the consolidated figure."
+            },
+            "cir": {
+                "v": 44.3,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2023/2023_annual-report-ocbc-indonesia.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 99, Analisis dan Pembahasan Manajemen / MD&A, operating expenses discussion ('Cost-to-Income Ratio')",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio (operating expenses / total operating income), as stated in the MD&A; consolidated (the FY analyst deck prints the same value as 'Cost / Income Ratio (CTIR)' in its consolidated ratio table)."
+            },
+            "bopo": {
+                "v": 71.01,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Beban Operasional terhadap Pendapatan Operasional (BOPO)' (2023 column)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK definition)."
+            },
+            "casa": {
+                "v": 55.77,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Giro & Tabungan (CASA)' (2023 column)",
+                "basis": "consolidated",
+                "note": "(Current accounts + savings) / deposits from customers."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 4866.75,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2024/laporan-keuangan-triwulan-iv-2024-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Consolidated statement of profit or loss, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 212.1,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2024/laporan-keuangan-triwulan-iv-2024-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Consolidated statement of profit or loss, 'Laba bersih per saham' (basic and diluted)",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "The face statement prints '212,10' (decimal comma); the EPS note (PDF p. 163) prints 212.10. Basic = diluted."
+            },
+            "payout_ratio": {
+                "v": 49.98,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2025/rupst-2025/rupst-2025_dividen.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-03-21",
+                "loc": "p. 1, Pemberitahuan kepada para pemegang saham mengenai pembagian dividen tunai tahun buku 2024",
+                "basis": "consolidated",
+                "note": "Cash dividend as % of FY2024 net profit: 'Rp2.432.201.479.032 (gross) atau 49,98% dari Laba Bersih Perseroan Tahun Buku 2024'; AR2025 dividend history rounds it to 50.0."
+            },
+            "total_assets": {
+                "v": 281008.237,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2024/laporan-keuangan-triwulan-iv-2024-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "PT Bank Commonwealth (PTBC) was acquired on 1 May 2024 (acquisition method, consolidated from that date; FS2024 Note 43 final fair values: PTBC total assets 14,497.669, loans-net 7,482.796, deposits 10,840.730 IDR bn; consideration 2,170.346; bargain purchase 852.946) and merged into the Bank on 1 Sep 2024. FY2023 comparatives were NOT restated. The 9M2026 interim FS restates 1 Jan 2025 (=31 Dec 2024) to 295,648.732 for the 2026 common-control acquisitions of PT OCBC Sekuritas Indonesia and PT Great Eastern Life Indonesia; stored value is as originally reported."
+            },
+            "loans_gross": {
+                "v": 170460.517,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2024/laporan-keuangan-triwulan-iv-2024-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 125, Note 'Pinjaman yang diberikan' a. by currency and type, total before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans as totalled in the loans note (before allowance); NISP's note total INCLUDES accrued interest income (the face statement lists related-party + third-party loans + 'Pendapatan bunga yang masih akan diterima'). Includes sharia financing. Same figure the AR highlights print as 'Kredit yang diberikan - Bruto'. FY2024 includes PTBC loans from 1 May 2024 (FS2025 Note 12g: 'Saldo dari PTBC' 8,044.274 gross)."
+            },
+            "deposits": {
+                "v": 205932.22,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2024/laporan-keuangan-triwulan-iv-2024-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 139, Note 'Simpanan nasabah' a. by currency and type, total (current accounts + savings + time deposits)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK), incl. sharia-unit deposits; excludes deposits from other banks. FY2024 includes PTBC from 1 May 2024 (PTBC deposits at acquisition 10,840.730)."
+            },
+            "equity_attr": {
+                "v": 40691.003,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2024/laporan-keuangan-triwulan-iv-2024-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Consolidated statement of changes in equity, 'Saldo akhir 31 Desember 2024', column 'Jumlah ekuitas pihak pengendali / Total equity of controlling interest'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 40691.379,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2024/laporan-keuangan-triwulan-iv-2024-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22945296972,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2024/laporan-keuangan-triwulan-iv-2024-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Consolidated statement of financial position, equity section ('Modal ditempatkan dan disetor penuh 22.945.296.972 lembar saham')",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid 22,945,296,972 shares; no treasury-share line on the balance sheet. The small yearly buybacks for variable remuneration (e.g. 436,000 shares in Jul 2021) were all transferred to staff within the same month (share-capital note)."
+            },
+            "year_end_price": {
+                "v": 1315,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Ikhtisar Saham / Stock Highlights, share price table, 2024 'Penutupan (Rp)' 4th quarter",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. No split since Feb 2003, so share_basis = period end is equivalent to the AR publication date."
+            },
+            "roe": {
+                "v": 13.04,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)' (2024 column)",
+                "basis": "consolidated",
+                "note": "ROE as reported in the AR consolidated ratio table (OJK-style ratio; the AR does not print the denominator). FY decks print the same values rounded ('Rasio Keuangan Konsolidasian')."
+            },
+            "roa": {
+                "v": 2.24,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Aset (ROA)' (2024 column)",
+                "basis": "consolidated",
+                "note": "ROA as reported (OJK style: pre-tax profit / average total assets), consolidated table."
+            },
+            "nim": {
+                "v": 4.39,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Marjin Bunga Bersih (NIM)' (2024 column)",
+                "basis": "consolidated",
+                "note": "NIM as reported, consolidated table."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: NISP publishes no cost-of-credit / credit-cost ratio (checked AR2024 highlights + MD&A and the FY2024 analyst deck ratio table). Not derived."
+            },
+            "npl_gross": {
+                "v": 1.55,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bruto' (2024 column)",
+                "basis": "consolidated",
+                "note": "Gross NPL as reported."
+            },
+            "npl_net": {
+                "v": 0.56,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bersih' (2024 column)",
+                "basis": "consolidated",
+                "note": "Net NPL as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: the AR2024 (financial highlights, MD&A) and the FY2024 analyst deck print no loan-at-risk ratio (the deck's restructured-loan page shows restructuring % only, and only through FY2023). The first LaR figure after FY2020 is in the 9M2026 deck (4.8%)."
+            },
+            "npl_coverage": {
+                "v": 307.1,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2024/id/presentasi-kinerja-Q4-2024-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 24, 'Rasio Keuangan Konsolidasian', row 'Cadangan Penurunan Nilai Kredit / NPL', FY24 column",
+                "basis": "consolidated",
+                "note": "Loan impairment allowance / NPL (%), as printed in the FY analyst presentation. Not printed in the AR ratio table."
+            },
+            "ldr": {
+                "v": 81.89,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga (LDR)' (2024 column)",
+                "basis": "consolidated",
+                "note": "LDR as reported, consolidated table."
+            },
+            "car": {
+                "v": 23.6,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kecukupan Modal (CAR)' (2024 column)",
+                "basis": "consolidated",
+                "note": "CAR (KPMM) consolidated. Cross-check: the OJK published report for Dec 2025 prints KPMM 24.39% bank-only and 24.53% consolidated; the AR table carries the consolidated figure."
+            },
+            "cir": {
+                "v": 50.9,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2024/2024_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 99, Analisis dan Pembahasan Manajemen / MD&A, operating expenses discussion ('Cost-to-Income Ratio')",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio (operating expenses / total operating income), as stated in the MD&A; consolidated (the FY analyst deck prints the same value as 'Cost / Income Ratio (CTIR)' in its consolidated ratio table)."
+            },
+            "bopo": {
+                "v": 70.99,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Beban Operasional terhadap Pendapatan Operasional (BOPO)' (2024 column)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK definition)."
+            },
+            "casa": {
+                "v": 55.34,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Giro & Tabungan (CASA)' (2024 column)",
+                "basis": "consolidated",
+                "note": "(Current accounts + savings) / deposits from customers."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 5057.473,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iv-2025-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Consolidated statement of profit or loss, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 220.41,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iv-2025-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Consolidated statement of profit or loss, 'Laba bersih per saham' (basic and diluted)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31"
+            },
+            "payout_ratio": {
+                "v": 20.42,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2026/rupst-2026/rupst-2026_pembagian-dividen.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-04-10",
+                "loc": "p. 1, Pemberitahuan kepada para pemegang saham mengenai pembagian dividen tunai tahun buku 2025",
+                "basis": "consolidated",
+                "note": "Cash dividend as % of FY2025 net profit: 'Rp1.032.538.363.740 (gross) atau 20,42% dari Laba Bersih' (RUPST 9 Apr 2026: of net profit attributable to owners of the parent)."
+            },
+            "total_assets": {
+                "v": 308140.182,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iv-2025-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "As originally reported in the audited FS2025. The 9M2026 interim FS restates 31 Dec 2025 to 324,888.168 (PSAK 338 common-control acquisitions of PT OCBC Sekuritas Indonesia, Aug 2026, and 20% of PT Great Eastern Life Indonesia, Sep 2026, presented as if combined from the start)."
+            },
+            "loans_gross": {
+                "v": 173374.6,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iv-2025-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 122, Note 'Pinjaman yang diberikan' a. by currency and type, total before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross loans as totalled in the loans note (before allowance); NISP's note total INCLUDES accrued interest income (the face statement lists related-party + third-party loans + 'Pendapatan bunga yang masih akan diterima'). Includes sharia financing. Same figure the AR highlights print as 'Kredit yang diberikan - Bruto'. 9M2026 FS restated 31 Dec 2025 total: 173,342.730 (intra-group eliminations)."
+            },
+            "deposits": {
+                "v": 243511.822,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iv-2025-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 136, Note 'Simpanan nasabah' a. by currency and type, total (current accounts + savings + time deposits)",
+                "basis": "consolidated",
+                "note": "Deposits from customers (DPK), incl. sharia-unit deposits; excludes deposits from other banks. 9M2026 FS restated 31 Dec 2025 total: 243,361.516 (deposits of the merging entities eliminated)."
+            },
+            "equity_attr": {
+                "v": 43856.347,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iv-2025-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Consolidated statement of changes in equity, 'Saldo akhir 31 Desember 2025', column 'Jumlah ekuitas pihak pengendali / Total equity of controlling interest'",
+                "basis": "consolidated",
+                "note": "As originally reported. 9M2026 FS restated 31 Dec 2025: 44,834.034, which includes 'Ekuitas merging entities' 977.687."
+            },
+            "total_equity": {
+                "v": 43856.597,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iv-2025-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "As originally reported. 9M2026 FS restated 31 Dec 2025: 45,718.914 (NCI 884.880, mostly the 80% of GELI not owned)."
+            },
+            "shares_out": {
+                "v": 22945296972,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iv-2025-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, equity section ('Modal ditempatkan dan disetor penuh 22.945.296.972 lembar saham')",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid 22,945,296,972 shares; no treasury-share line on the balance sheet. The small yearly buybacks for variable remuneration (e.g. 436,000 shares in Jul 2021) were all transferred to staff within the same month (share-capital note)."
+            },
+            "year_end_price": {
+                "v": 1370,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, Ikhtisar Saham / Stock Highlights, share price table, 2025 'Penutupan (Rp)' 4th quarter",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. No split since Feb 2003, so share_basis = period end is equivalent to the AR publication date."
+            },
+            "roe": {
+                "v": 12.25,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Ekuitas (ROE)' (2025 column)",
+                "basis": "consolidated",
+                "note": "ROE as reported in the AR consolidated ratio table (OJK-style ratio; the AR does not print the denominator). FY decks print the same values rounded ('Rasio Keuangan Konsolidasian')."
+            },
+            "roa": {
+                "v": 2.19,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Imbal Hasil Aset (ROA)' (2025 column)",
+                "basis": "consolidated",
+                "note": "ROA as reported (OJK style: pre-tax profit / average total assets), consolidated table."
+            },
+            "nim": {
+                "v": 3.94,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Marjin Bunga Bersih (NIM)' (2025 column)",
+                "basis": "consolidated",
+                "note": "NIM as reported, consolidated table."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: NISP publishes no cost-of-credit / credit-cost ratio (checked AR2025 highlights + MD&A and the FY2025 analyst deck ratio table). Not derived."
+            },
+            "npl_gross": {
+                "v": 1.94,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bruto' (2025 column)",
+                "basis": "consolidated",
+                "note": "Gross NPL as reported."
+            },
+            "npl_net": {
+                "v": 0.76,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit Bermasalah (NPL) Bersih' (2025 column)",
+                "basis": "consolidated",
+                "note": "Net NPL as reported."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: the AR2025 (financial highlights, MD&A) and the FY2025 analyst deck print no loan-at-risk ratio (the deck's restructured-loan page shows restructuring % only, and only through FY2023). The first LaR figure after FY2020 is in the 9M2026 deck (4.8%)."
+            },
+            "npl_coverage": {
+                "v": 226,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2025/id/presentasi-kinerja-Q4-2025-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 25, 'Rasio Keuangan Konsolidasian', row 'Cadangan Penurunan Nilai Kredit / NPL', FY25 column",
+                "basis": "consolidated",
+                "note": "Loan impairment allowance / NPL (%), as printed in the FY analyst presentation. Not printed in the AR ratio table."
+            },
+            "ldr": {
+                "v": 70.39,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga (LDR)' (2025 column)",
+                "basis": "consolidated",
+                "note": "LDR as reported, consolidated table."
+            },
+            "car": {
+                "v": 24.53,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Kecukupan Modal (CAR)' (2025 column)",
+                "basis": "consolidated",
+                "note": "CAR (KPMM) consolidated. Cross-check: the OJK published report for Dec 2025 prints KPMM 24.39% bank-only and 24.53% consolidated; the AR table carries the consolidated figure."
+            },
+            "cir": {
+                "v": 47.1,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 97, Analisis dan Pembahasan Manajemen / MD&A, operating expenses discussion ('Cost-to-Income Ratio')",
+                "basis": "consolidated",
+                "note": "Cost-to-income ratio (operating expenses / total operating income), as stated in the MD&A; consolidated (the FY analyst deck prints the same value as 'Cost / Income Ratio (CTIR)' in its consolidated ratio table). Bank-only CIR in the OJK published report: 47.03%."
+            },
+            "bopo": {
+                "v": 69.63,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Beban Operasional terhadap Pendapatan Operasional (BOPO)' (2025 column)",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK definition)."
+            },
+            "casa": {
+                "v": 57.96,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Laporan-Tahunan/2025/2025_annual-report-ocbc.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Data Keuangan Penting / Key Financial Highlights, Rasio Keuangan, 'Rasio Giro & Tabungan (CASA)' (2025 column)",
+                "basis": "consolidated",
+                "note": "(Current accounts + savings) / deposits from customers."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 22,
+            "total": 504.796533,
+            "cum_date": "2022-04-13",
+            "ex_date": "2022-04-14",
+            "record_date": "2022-04-18",
+            "pay_date": "2022-04-28",
+            "share_basis": "2022-04-06",
+            "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2022/rupst-5-april-2022/pemberitahuan-dividen-tahun-buku-2021.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-04-06",
+            "loc": "p. 1, Pemberitahuan kepada para pemegang saham mengenai pembagian dividen tunai tahun buku 2021, A. Jadwal Pembayaran Dividen",
+            "note": "AGMS 5 Apr 2022. Rp504,796,533,384 gross = Rp22/share x 22,945,296,972 shares. cum_date/ex_date are the regular & negotiated-market dates; the notice gives separate, later cash-market dates. Payment date moved from 6 May 2022 to 28 Apr 2022 by a correction notice dated 12 Apr 2022 (https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2022/rupst-5-april-2022/pemberitahuan-jadwal-pembayaran-dividen.pdf, p. 1) after the 2022 exchange-holiday calendar changed."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 58,
+            "total": 1330.766944,
+            "cum_date": "2023-04-26",
+            "ex_date": "2023-04-27",
+            "record_date": "2023-04-28",
+            "pay_date": "2023-05-12",
+            "share_basis": "2023-04-12",
+            "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2023/rupst-11-april-2023/rupst-2023_pembagian-dividen-tahun-buku-2022.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-04-12",
+            "loc": "p. 1, Pemberitahuan kepada para pemegang saham mengenai pembagian dividen tunai tahun buku 2022, A. Jadwal Pembayaran Dividen",
+            "note": "AGMS 11 Apr 2023. Rp1,330,766,943,604 gross = Rp58/share x 22,945,296,972 shares (DPS rounded; the total is exactly 40% of FY2022 profit attributable, i.e. Rp57.997/share). cum_date/ex_date are the regular & negotiated-market dates; the notice gives separate, later cash-market dates."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 72,
+            "total": 1652.061382,
+            "cum_date": "2024-03-26",
+            "ex_date": "2024-03-27",
+            "record_date": "2024-03-28",
+            "pay_date": "2024-04-18",
+            "share_basis": "2024-03-19",
+            "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2024/rupst-2024/rupst-2024_dividen.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-03-19",
+            "loc": "p. 1, Pemberitahuan kepada para pemegang saham mengenai pembagian dividen tunai tahun buku 2023, A. Jadwal Pembayaran Dividen",
+            "note": "AGMS 18 Mar 2024. Rp1,652,061,381,984 gross = Rp72/share x 22,945,296,972 shares. cum_date/ex_date are the regular & negotiated-market dates; the notice gives separate, later cash-market dates."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 106,
+            "total": 2432.201479,
+            "cum_date": "2025-04-08",
+            "ex_date": "2025-04-09",
+            "record_date": "2025-04-10",
+            "pay_date": "2025-04-17",
+            "share_basis": "2025-03-21",
+            "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2025/rupst-2025/rupst-2025_dividen.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-03-21",
+            "loc": "p. 1, Pemberitahuan kepada para pemegang saham mengenai pembagian dividen tunai tahun buku 2024, A. Jadwal Pembayaran Dividen",
+            "note": "AGMS 20 Mar 2025. Rp2,432,201,479,032 gross = Rp106/share x 22,945,296,972 shares. cum_date/ex_date are the regular & negotiated-market dates; the notice gives separate, later cash-market dates. The notice misprints the regular-market ex-date as '9 April 2024'; with cum-date 8 Apr 2025 and recording date 10 Apr 2025 it is 9 Apr 2025."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 45,
+            "total": 1032.538364,
+            "cum_date": "2026-04-17",
+            "ex_date": "2026-04-20",
+            "record_date": "2026-04-21",
+            "pay_date": "2026-05-04",
+            "share_basis": "2026-04-10",
+            "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Tata-Kelola/RUPS/2026/rupst-2026/rupst-2026_pembagian-dividen.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-10",
+            "loc": "p. 1, Pemberitahuan kepada para pemegang saham mengenai pembagian dividen tunai tahun buku 2025, A. Jadwal Pembayaran Dividen",
+            "note": "AGMS 9 Apr 2026. Rp1,032,538,363,740 gross = Rp45/share x 22,945,296,972 shares. cum_date/ex_date are the regular & negotiated-market dates; the notice gives separate, later cash-market dates. Payout cut to 20.42% (from 49.98%) in the year the Bank acquired PT OCBC Sekuritas Indonesia and 20% of PT Great Eastern Life Indonesia."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 4032.846,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2026/laporan-keuangan-triwulan-iii-2026-tidak-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Consolidated statement of profit or loss, 'Laba bersih yang diatribusikan kepada: Pemilik entitas induk' (1 Jan-30 Sep 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited. Excludes the pre-acquisition profit of the merging entities (shown on a separate line 'Ekuitas merging entities' 49.374). Basic EPS 9M2026: Rp175.76."
+            },
+            "profit_ytd_prior": {
+                "v": 3824.573,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2026/laporan-keuangan-triwulan-iii-2026-tidak-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 7, same line, 30 September 2025 column (marked 'Disajikan kembali')",
+                "basis": "consolidated",
+                "note": "9M2026 comparatives are restated (PSAK 338) as if PT OCBC Sekuritas Indonesia (acquired 12/13 Aug 2026, 99.99%) and PT Great Eastern Life Indonesia (20% acquired 1 Sep 2026, consolidated as financial-conglomerate holding, NCI 80%) had always been combined. The owners-of-the-parent line is unchanged by the restatement: the original 9M2025 FS (https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iii-2025-tidak-diaudit.pdf, PDF p. 7) prints the same 3,824,573."
+            },
+            "equity_attr": {
+                "v": 46468.147,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2026/laporan-keuangan-triwulan-iii-2026-tidak-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'Jumlah ekuitas yang dapat diatribusikan kepada pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Same PSAK basis as fy.*.equity_attr. Includes PTOS and GELI (consolidated since Aug/Sep 2026)."
+            },
+            "shares_out": {
+                "v": 22945296972,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2026/laporan-keuangan-triwulan-iii-2026-tidak-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, equity section ('Modal ditempatkan dan disetor penuh 22.945.296.972 lembar saham'); PDF p. 171, share-capital note (buyback)",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "No treasury shares: the 438,000 shares bought back on 20-21 Apr 2026 for variable remuneration were transferred to staff on 29 Apr 2026."
+            },
+            "total_assets": {
+                "v": 350459.464,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2026/laporan-keuangan-triwulan-iii-2026-tidak-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Now includes GELI (insurance; total assets 17,065.479) and PTOS. Restated 31 Dec 2025: 324,888.168 vs 308,140.182 audited."
+            },
+            "loans_gross": {
+                "v": 190761.95,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2026/laporan-keuangan-triwulan-iii-2026-tidak-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 135, Note 12 'Pinjaman yang diberikan' a., 'Jumlah' before allowance",
+                "basis": "consolidated",
+                "note": "Same definition as fy.*.loans_gross (note total incl. accrued interest and sharia financing)."
+            },
+            "loans_gross_prior": {
+                "v": 164739.179,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iii-2025-tidak-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 117, Note 12 'Pinjaman yang diberikan' a., total before allowance (30 September 2025 column)",
+                "basis": "consolidated",
+                "note": "From the original 9M2025 FS (the 9M2026 FS gives no 30 Sep 2025 balance sheet). Not restated for PTOS/GELI; the restatement moved the 31 Dec 2025 loan total by only -31.870 (-0.02%)."
+            },
+            "deposits": {
+                "v": 244175.505,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2026/laporan-keuangan-triwulan-iii-2026-tidak-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 149, Note 18 'Simpanan nasabah' a., total",
+                "basis": "consolidated"
+            },
+            "deposits_prior": {
+                "v": 230123.978,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Keuangan/Laporan-Keuangan-Triwulan/2025/laporan-keuangan-triwulan-iii-2025-tidak-diaudit.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 131, Note 18 'Simpanan nasabah' a., total (30 September 2025 column)",
+                "basis": "consolidated",
+                "note": "From the original 9M2025 FS. Not restated; the 2026 restatement moved the 31 Dec 2025 deposit total by -150.306 (-0.06%, deposits of the merging entities eliminated)."
+            },
+            "roe": {
+                "v": 11.8,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2026/id/presentasi-kinerja-Q3-2026-tidak-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 23, 'Rasio keuangan konsolidasian', row 'Imbal Hasil Ekuitas (ROE)', 9M26 column",
+                "basis": "consolidated",
+                "note": "Consolidated ratio from the 9M2026 analyst presentation (1 decimal); 9M25 comparatives in that table are restated for the 2026 common-control acquisitions. Bank-only ROE in the OJK published report: 12.36%."
+            },
+            "roa": {
+                "v": 2.1,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2026/id/presentasi-kinerja-Q3-2026-tidak-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 23, 'Rasio keuangan konsolidasian', row 'Imbal Hasil Aset (ROA)', 9M26 column",
+                "basis": "consolidated",
+                "note": "Consolidated ratio from the 9M2026 analyst presentation (1 decimal); 9M25 comparatives in that table are restated for the 2026 common-control acquisitions."
+            },
+            "nim": {
+                "v": 3.8,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2026/id/presentasi-kinerja-Q3-2026-tidak-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 23, 'Rasio keuangan konsolidasian', row 'Marjin Bunga Bersih (NIM)', 9M26 column",
+                "basis": "consolidated",
+                "note": "Consolidated ratio from the 9M2026 analyst presentation (1 decimal); 9M25 comparatives in that table are restated for the 2026 common-control acquisitions."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 FS, OJK published report or analyst deck (NISP publishes no cost-of-credit ratio)."
+            },
+            "npl_gross": {
+                "v": 2,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2026/id/presentasi-kinerja-Q3-2026-tidak-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 23, 'Rasio keuangan konsolidasian', row 'NPL - Bruto', 9M26 column",
+                "basis": "consolidated",
+                "note": "Consolidated ratio from the 9M2026 analyst presentation (1 decimal); 9M25 comparatives in that table are restated for the 2026 common-control acquisitions."
+            },
+            "lar": {
+                "v": 4.8,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2026/id/presentasi-kinerja-Q3-2026-tidak-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 3, Ringkasan eksekutif ('rasio Loan-at-Risk (LaR) membaik menjadi 4,8%')",
+                "basis": "consolidated",
+                "note": "Loan-at-risk ratio as stated in the deck's executive summary; definition not printed."
+            },
+            "npl_coverage": {
+                "v": 202.9,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2026/id/presentasi-kinerja-Q3-2026-tidak-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 23, 'Rasio keuangan konsolidasian', row 'Cadangan Kerugian Penurunan Nilai Kredit / NPL', 9M26 column",
+                "basis": "consolidated",
+                "note": "Consolidated ratio from the 9M2026 analyst presentation (1 decimal); 9M25 comparatives in that table are restated for the 2026 common-control acquisitions."
+            },
+            "ldr": {
+                "v": 77.5,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2026/id/presentasi-kinerja-Q3-2026-tidak-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 23, 'Rasio keuangan konsolidasian', row 'Kredit yang Diberikan / DPK (LDR)', 9M26 column",
+                "basis": "consolidated",
+                "note": "Consolidated ratio from the 9M2026 analyst presentation (1 decimal); 9M25 comparatives in that table are restated for the 2026 common-control acquisitions."
+            },
+            "car": {
+                "v": 23.65,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Laporan-Publikasi-Triwulan/2026/2026-Q3-laporan-publikasi-triwulan.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 8, Laporan Perhitungan KPMM, 'Rasio KPMM (%)', 30 Sep 2026 Konsolidasian column",
+                "basis": "consolidated",
+                "note": "Consolidated KPMM; bank-only 23.24%. The deck rounds the consolidated figure to 23.7."
+            },
+            "cir": {
+                "v": 45.8,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2026/id/presentasi-kinerja-Q3-2026-tidak-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 23, 'Rasio keuangan konsolidasian', row 'Cost / Income Ratio (CTIR)', 9M26 column",
+                "basis": "consolidated",
+                "note": "Consolidated ratio from the 9M2026 analyst presentation (1 decimal); 9M25 comparatives in that table are restated for the 2026 common-control acquisitions."
+            },
+            "casa": {
+                "v": 55.1,
+                "source_url": "https://cdn1.ocbc.id/asset/media/Feature/AboutOCBC/Hubungan-Investor/Informasi-Keuangan/Presentasi-Kerja/2026/id/presentasi-kinerja-Q3-2026-tidak-diaudit.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 23, 'Rasio keuangan konsolidasian', row 'Giro & Tabungan / DPK (CASA)', 9M26 column",
+                "basis": "consolidated",
+                "note": "Consolidated ratio from the 9M2026 analyst presentation (1 decimal); 9M25 comparatives in that table are restated for the 2026 common-control acquisitions."
+            }
+        }
+    },
+    "research_notes": [
+        "SOURCE ACCESS: every document was downloaded directly (curl, browser UA) from cdn1.ocbc.id; no bot protection was met and no Internet Archive copy was needed. The document lists were read from the JSON endpoint the ocbc.id IR and governance pages themselves call (POST https://www.ocbc.id/api/sitecore/ODocuments/DocumentList). Full list with URLs in sources.md.",
+        "NAME / BRAND: the legal name is still PT Bank OCBC NISP Tbk (cover of the 9M2026 FS). On 14 Nov 2023 the brand name and logo changed from 'OCBC NISP' to 'OCBC' and the legal name stayed the same (AR2025 PDF p. 34 'Perubahan Nama dan Logo Perusahaan'; AR2023 PDF p. 21). That is why the website is www.ocbc.id and the logo reads OCBC.",
+        "CONSOLIDATION SCOPE: FY2019-FY2025 = the Bank + PT OCBC NISP Ventura (99.9%, operating since 2020; total assets about Rp0.25-0.4tn) + controlled mutual funds; plus PT Bank Commonwealth (PTBC) from 1 May 2024 until it merged into the Bank on 1 Sep 2024. From Aug/Sep 2026 the group also consolidates PT OCBC Sekuritas Indonesia (99.99%) and PT Great Eastern Life Indonesia (GELI; 20% owned, consolidated as financial-conglomerate holding, 80% NCI).",
+        "PTBC ACQUISITION AND MERGER: effective 1 May 2024, acquisition method (FS2024 Note 43, PDF p. 165: final fair values TA 14,497.669, loans-net 7,482.796, deposits 10,840.730, consideration 2,170.346, bargain purchase 852.946 IDR bn). The merger into the Bank on 1 Sep 2024 is a common-control transaction inside the group and changes nothing at consolidated level. The FY2023 comparatives in FS2024 were NOT restated (TA 249,757.139 in both FS2023 and FS2024), so FY2023->FY2024 growth includes PTBC: about Rp8.0tn of the Rp16.4tn gross-loan increase (FS2025 Note 12g 'Saldo dari PTBC' 8,044.274), Rp10.8tn of the Rp24.2tn deposit increase and Rp14.5tn of the Rp31.3tn asset increase. FY2024 profit includes, in non-operating income (FS2024 Note 39, PDF p. 160), the bargain-purchase gain of Rp852.9bn and merger costs of Rp589.0bn. No NISP shares were issued for the acquisition or the merger. A merger-related buyback offer to dissenting shareholders was disclosed (EGMS 2 Aug 2024). FS2024 shows unchanged issued shares and no treasury shares at 31 Dec 2024. The 9 Aug 2024 material-fact report on that offer is an image-only PDF and was not read.",
+        "2026 COMMON-CONTROL ACQUISITIONS (affects comparatives): the Bank bought PT OCBC Sekuritas Indonesia from OCBC (deed 12 Aug 2026, Rp455.2bn) and 20% of PT Great Eastern Life Indonesia from Great Eastern Life Assurance (1 Sep 2026, Rp202.0bn) (9M2026 FS PDF pp. 18-20). Under PSAK 338 the 9M2026 FS restates 1 Jan 2025, 31 Dec 2025 and 9M2025 as if they had always been combined. fy.2024 and fy.2025 store the audited figures AS ORIGINALLY REPORTED; the restated values are in each datum's note (31 Dec 2025: TA 324,888.168, equity attributable 44,834.034 incl. 977.687 'merging entities equity', total equity 45,718.914, loans 173,342.730, deposits 243,361.516). The restatement does not change the 9M2025 owners-of-the-parent profit (3,824.573 in both the original and the restated FS). Interim total assets now include GELI's insurance balance sheet (Rp17.1tn), so growth from fy.2025 total assets overstates organic growth.",
+        "PENDING: per the 9M2026 deck (p. 16) the Bank has signed an agreement with PT Bank HSBC Indonesia to acquire the assets and liabilities of HSBC's International Wealth and Premier Banking business in Indonesia. It had not completed by 30 Sep 2026.",
+        "LOANS DEFINITION: fy.*.loans_gross and the interim loans are the totals of the loans note (Note 12a 'Pinjaman yang diberikan', before allowance). They INCLUDE accrued interest income (e.g. FY2025 466.638) and sharia financing. The AR highlights print the same figures as 'Kredit yang diberikan - Bruto'. The face statement shows no subtotal without accrued interest, and none was derived.",
+        "RATIO BASIS: all FY ratios are CONSOLIDATED, as printed in the AR 'Ikhtisar Data Keuangan Penting' table: AR2025 for FY2021-FY2025, AR2024 for FY2020. Evidence: the AR's CAR of 24.53% (FY2025) and 23.60% (FY2024) equals the 'Konsolidasian' KPMM column of the Dec-2025 OJK published report (bank-only: 24.39% / 23.39%). The AR's FY2024 ROE of 13.04 differs from the bank-only 13.45. The FY analyst decks label the same values 'Rasio Keuangan Konsolidasian'. Bank-only ratios (OJK published reports) were NOT used.",
+        "RATIO RESTATEMENTS: from 2021 the LPS deposit-insurance premium moved from interest expense to operating expense, and FY2020 was restated (FY2021 deck p. 7, footnote 1). FY2020 is stored as restated: NIM 3.96 (AR2020 printed 3.80), CIR 44.1 (originally 42.3) and LDR 71.81 (AR2020: 72.03). Every other FY2020-FY2024 ratio is identical in AR2020, AR2021, AR2022, AR2023, AR2024 and AR2025. ROE is 'as reported' in the AR table. The AR does not print its denominator; profit / average total equity gives a somewhat lower figure (FY2025 about 12.0 vs 12.25 printed).",
+        "NOT DISCLOSED: cost of credit (coc) for every year, and loan-at-risk (lar) for FY2021-FY2025. Checked: the AR highlights and MD&A, and the FY analyst decks (ratio tables, asset-quality and restructuring pages). LAR exists only for FY2020 (18% incl. COVID restructuring, FY2020 deck p. 13) and 9M2026 (4.8%, 9M2026 deck p. 3). NPL coverage comes from the FY decks because the AR ratio table does not print it.",
+        "CIR: AR MD&A 'Cost-to-Income Ratio', the same as the decks' consolidated 'CTIR'. BOPO is stored separately.",
+        "DIVIDENDS: one final cash dividend for each of FY2021-FY2025. None was paid from FY2020 profit (AGMS 6 Apr 2021 kept the whole profit to strengthen capital; AR2025 dividend history: 'No dividend distributed' for 2004-2020). NISP paid no interim or special dividends. Each year's statement of changes in equity shows exactly one payment, equal to the announced final, and the FY2025 final (Rp1,032,538m) appears in the 9M2026 FS. As of the 9M2026 FS (30 Sep 2026), no interim dividend for FY2026 had been announced. Payout: 20 / 40 / 40.4 / 49.98 / 20.42 %. The FY2025 payout was cut to 20.42% in the year of the PTOS/GELI acquisitions. The FY2024 notice misprints the regular-market ex-date as '9 April 2024'; 2025-04-09 is stored.",
+        "SHARES / CORPORATE ACTIONS: issued and fully paid shares have been 22,945,296,972 at every FY end 2019-2025 and at 30 Sep 2026, unchanged since the 1:1 bonus issue (agio capitalisation) of 4 May 2018, which is before the 2019 window. There was NO split, reverse split, rights issue or bonus issue from 1 Jan 2019 to 3 Nov 2026 (share-capital history in FS2025 Note 1c/28 and 9M2026 FS; none on the agendas of the AGMS 2021-2026 or the EGMS 2024/2025), so corporate_actions is empty. The last rights issue (PUT VII) was in Nov 2013. Every year the bank bought back 0.36-0.44m shares for variable remuneration and transferred them within weeks, so there were no treasury shares at any FY end or at 30 Sep 2026. shares_out uses the issued total, which is also the EPS denominator. Of these shares, 229,520,940 founder shares are not listed on IDX (listed: 22,715,776,032). The AR market-capitalisation rows switch between the two share counts.",
+        "YEAR-END PRICES: Q4 closing prices from the AR share tables: 2020 820 (AR2020), 2021 670 and 2022 745 (AR2022), 2023 1,180 (AR2023), 2024 1,315 and 2025 1,370 (AR2025). Overlapping ARs agree. No split since 2003, so share_basis = period end. prices/NISP.json does not exist yet, so the year-end cross-check against daily prices has not been run.",
+        "INTERIM (9M2026, unaudited, released Oct 2026): profit, equity, assets, loans and deposits come from the 9M2026 FS. The *_prior balances (30 Sep 2025) come from the original 9M2025 FS, because the 9M2026 FS prints no 30 Sep 2025 balance sheet; they are not restated for PTOS/GELI, but the restatement moved the Dec-2025 loans and deposits by only -0.02% and -0.06%. Ratios are the consolidated 9M26 column of the 9M2026 deck (1 decimal), except CAR, which is the consolidated KPMM from the OJK published report (23.65%; bank-only 23.24%). Cost of credit is null.",
+        "MINOR DISCREPANCIES: the FS2024 face prints FY2024 EPS as '212,10' (decimal comma); the EPS note prints 212.10. The AR2025 dividend-history table prints FY2024 net income as 4,866,724 against 4,866,750 in the FS. The AR2025 highlights print FY2024 deposits as 205,932,219 against 205,932,220 in the FS (rounding). FS2025 restates no FY2024 numbers.",
+        "SELF-CHECK (no split, so no adjustment needed). eps x shares_out vs net_profit_attr: 2020 -0.005%, 2021 +0.002%, 2022 -0.002%, 2023 +0.003%, 2024 -0.001%, 2025 -0.002%. dps x shares vs dividend total: 0.000% each year except FY2022 at +0.005% (DPS 58 is rounded from 57.997). net_profit_attr x payout vs total: FY2021 -0.18% (the announced '20%' is rounded: 504.797 / 2,519.574 = 20.03%), every other year within 0.05%. No mismatch above 3%."
+    ]
+}

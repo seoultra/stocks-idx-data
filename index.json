@@ -128,6 +128,56 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbca/"
+        },
+        {
+            "code": "BNGA",
+            "name": "PT Bank CIMB Niaga Tbk",
+            "name_short": "CIMB Niaga",
+            "sector": "banking",
+            "group": "private_large",
+            "kbmi": 3,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 6,
+            "file": "issuers/BNGA.json",
+            "prices": {
+                "file": "prices/BNGA.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-10-30",
+                "sessions": 1888,
+                "last_close": 1490,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/bnga/"
+        },
+        {
+            "code": "NISP",
+            "name": "PT Bank OCBC NISP Tbk",
+            "name_short": "Bank OCBC NISP",
+            "sector": "banking",
+            "group": "private_large",
+            "kbmi": 3,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 5,
+            "file": "issuers/NISP.json",
+            "prices": {
+                "file": "prices/NISP.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-10-30",
+                "sessions": 1882,
+                "last_close": 1165,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/nisp/"
         }
     ]
 }

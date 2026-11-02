@@ -1,0 +1,1640 @@
+{
+    "schema": 1,
+    "code": "BNGA",
+    "name": "PT Bank CIMB Niaga Tbk",
+    "name_short": "CIMB Niaga",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.cimbniaga.co.id",
+    "ir_url": "https://investor.cimbniaga.co.id/",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 48 (printed p. 46), The Board of Directors Report: 'generating a double-digit ROE of 13%, positioning the Bank among the top performers within KBMI 3 banks'; PDF p. 226 (printed p. 228): Core Capital (Tier-1) Rp55,655,101 million at 31 Dec 2025",
+        "note": "KBMI 3 = core capital Rp14tn to <Rp70tn (POJK 12/POJK.03/2021). AR2025 also lists many 'KBMI 3' category awards (PDF pp. 133-135)."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 274467.227,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2019/Laporan-Keuangan-Konsolidasian-Des-19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF pp. 5-6, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 190983.118,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2019/Laporan-Keuangan-Konsolidasian-Des-19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF pp. 5-6, Consolidated statement of financial position, 'Kredit yang diberikan / Loans' (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "'Kredit yang diberikan' (conventional + sharia), before allowance. Excludes CNAF consumer financing receivables."
+            },
+            "deposits": {
+                "v": 195600.3,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2019/Laporan-Keuangan-Konsolidasian-Des-19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Jumlah simpanan dari nasabah / Total deposits from customers'",
+                "basis": "consolidated",
+                "note": "'Jumlah simpanan dari nasabah' (current + savings + time deposits). The sharia unit's wadiah/mudharabah deposits are included in these lines: CIMB Niaga presents no separate temporary syirkah funds line."
+            },
+            "equity_attr": {
+                "v": 43278.891,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2019/Laporan-Keuangan-Konsolidasian-Des-19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position, 'Ekuitas diatribusikan kepada pemilik entitas induk' subtotal",
+                "basis": "consolidated",
+                "note": "Pre-PSAK 71 (as reported). The FY2020 FS shows the same 31 Dec 2019 figure; the restated 1 Jan 2020 opening balance after the PSAK 71 charge is 39,139.789."
+            },
+            "total_equity": {
+                "v": 43294.166,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2019/Laporan-Keuangan-Konsolidasian-Des-19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 2012.401,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2020/Laporan-Keuangan-Konsolidasian-Dec-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Consolidated statement of profit or loss, 'Laba bersih yang dapat diatribusikan kepada: Pemilik entitas induk / Equity holders of the parent'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 80.72,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2020/Laporan-Keuangan-Konsolidasian-Dec-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, 'Laba per saham - Dasar / Earnings per share - Basic' (Rupiah full amount)",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Basic = diluted. No split or bonus issue has ever changed the share basis since 2004."
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2021/Announcement-of-Dividend-EN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution, opening paragraph",
+                "basis": "bank_only",
+                "note": "Final cash dividend of Rp1,098,577,683,881 = maximum 60% of the Net Income (Company only = bank-only) for FY2020 (bank-only net income Rp1,830.963bn per the Dec-2020 published report, 'Bank' column). On consolidated profit attributable (2,012.401) the same dividend is 54.6%."
+            },
+            "total_assets": {
+                "v": 280943.605,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2020/Laporan-Keuangan-Konsolidasian-Dec-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 5-6, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 171670.391,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2020/Laporan-Keuangan-Konsolidasian-Dec-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF pp. 5-6, Consolidated statement of financial position, 'Kredit yang diberikan / Loans' (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "'Kredit yang diberikan' total (conventional loans + sharia-unit financing), before allowance for impairment. Excludes consumer financing receivables of subsidiary CIMB Niaga Auto Finance (separate FS line); the AR/analyst-deck 'Loans' line adds them."
+            },
+            "deposits": {
+                "v": 207529.424,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2020/Laporan-Keuangan-Konsolidasian-Dec-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Jumlah simpanan dari nasabah / Total deposits from customers'",
+                "basis": "consolidated",
+                "note": "'Jumlah simpanan dari nasabah' (current + savings + time deposits). The sharia unit's wadiah/mudharabah deposits are included in these lines: CIMB Niaga presents no separate temporary syirkah funds line."
+            },
+            "equity_attr": {
+                "v": 41038.939,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2020/Laporan-Keuangan-Konsolidasian-Dec-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position, 'Ekuitas diatribusikan kepada pemilik entitas induk' subtotal",
+                "basis": "consolidated",
+                "note": "Includes the 1 Jan 2020 PSAK 71 transition charge of Rp4,139.102bn (net of tax) booked directly in retained earnings (FS2020 PDF p. 11, statement of changes in equity); 2019 was not restated."
+            },
+            "total_equity": {
+                "v": 41053.051,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2020/Laporan-Keuangan-Konsolidasian-Dec-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated",
+                "note": "Includes the 1 Jan 2020 PSAK 71 transition charge of Rp4,139.102bn (net of tax); 2019 not restated."
+            },
+            "shares_out": {
+                "v": 24927657094,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2020/Laporan-Keuangan-Konsolidasian-Dec-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 211 (Note 34) share capital table, 'Jumlah modal saham ditempatkan dan disetor penuh dan tidak termasuk saham treasuri'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid 25,131,606,843 (71,853,936 class A + class B) less 203,949,749 treasury shares."
+            },
+            "year_end_price": {
+                "v": 995,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2020-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 27 (printed p. 25), Share Highlights, 2020 quarterly table, 4th Quarter 'Closing'; AR2021 PDF p. 21 monthly table: December 2020 close 995",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No split since 2004, so the basis never changes."
+            },
+            "roe": {
+                "v": 5.33,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Return on Equity Ratio (ROE - Tier 1)', column 2020",
+                "basis": "consolidated",
+                "note": "ROE Tier I = OJK definition (profit / average Tier 1 capital), consolidated; the same definition is the 'ROE' in the published reports and the analyst decks. Same value in the Dec-2020 published report (Consolidated block) and in AR2024's 5-year table. AR2024 prints ROE Shareholders' Equity 2020 = 5.01%."
+            },
+            "roa": {
+                "v": 1.06,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Return on Assets Ratio (ROA)', column 2020",
+                "basis": "consolidated",
+                "note": "ROA per OJK (pre-tax profit / average total assets), consolidated. Same value in the Dec-2020 published report (Consolidated block) and in AR2024's 5-year table."
+            },
+            "nim": {
+                "v": 4.88,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Net Interest Margin (NIM)', column 2020",
+                "basis": "consolidated",
+                "note": "NIM per OJK, consolidated. Same value in the Dec-2020 published report (Consolidated block) and in AR2024's 5-year table."
+            },
+            "coc": {
+                "v": 2.83,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Cost of Credit Ratio', column 2020",
+                "basis": "consolidated",
+                "note": "Cost of credit (provision expense / average loans), consolidated."
+            },
+            "npl_gross": {
+                "v": 3.62,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Gross Non-Performing Loans (NPL Gross)', column 2020",
+                "basis": "consolidated",
+                "note": "Gross NPL, consolidated. Same value in the Dec-2020 published report (Consolidated block) and in AR2024's 5-year table."
+            },
+            "npl_net": {
+                "v": 1.4,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Net NPL Ratio', column 2020",
+                "basis": "consolidated",
+                "note": "Net NPL, consolidated. Same value in the Dec-2020 published report (Consolidated block) and in AR2024's 5-year table."
+            },
+            "lar": {
+                "v": 23.64,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2024-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 21 (printed p. 19), Financial Data Highlights, 'Financial Ratios' table, row 'Loan at Risk (LAR)', column 2020",
+                "basis": "consolidated",
+                "note": "Loan at Risk incl. COVID-restructured loans (FY2020-FY2021 LAR excl. COVID was ~11-12%, FY2021 analyst deck p. 25). FY2021 analyst deck p. 25: Dec-20 LAR incl. COVID 23.6%."
+            },
+            "npl_coverage": {
+                "v": 194.33,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Financial Highlights, Financial Ratios, 'Loan Loss Coverage', column 2020",
+                "basis": "consolidated",
+                "note": "'Loan Loss Coverage' = loan-loss allowance / NPL; the analyst decks call the same number 'NPL Coverage'. Same 194.33% in AR2024."
+            },
+            "ldr": {
+                "v": 82.91,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Loan to Deposit Ratio (LDR)', column 2020",
+                "basis": "consolidated",
+                "note": "LDR, consolidated (as printed; the OJK formula, not FS loans / FS deposits). Same value in the Dec-2020 published report (Consolidated block) and in AR2024's 5-year table."
+            },
+            "car": {
+                "v": 21.92,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Capital Adequacy Ratio (CAR)', column 2020",
+                "basis": "consolidated",
+                "note": "CAR after credit, market and operational risk, consolidated. Same value in the Dec-2020 published report (Consolidated block) and in AR2024's 5-year table."
+            },
+            "cir": {
+                "v": 48.95,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Cost to Income Ratio', column 2020",
+                "basis": "consolidated",
+                "note": "Cost to income ratio (operating expenses / operating income), consolidated - not BOPO. Same value in the Dec-2020 published report (Consolidated block) and in AR2024's 5-year table."
+            },
+            "bopo": {
+                "v": 89.38,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Operating Expenses to Operating Income (BOPO)', column 2020",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated."
+            },
+            "casa": {
+                "v": 59.62,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'CASA Ratio', column 2020",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits, consolidated."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 4100.34,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2021/FY-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss, 'Laba bersih yang dapat diatribusikan kepada: Pemilik entitas induk / Equity holders of the parent'",
+                "basis": "consolidated",
+                "note": "As reported. AR2022-AR2025 highlight tables print a 'business as usual' FY2021 figure of 4,214.597 (EPS 169.06) that excludes an extraordinary G&A cost of Rp146.5bn (AR2021 PDF p. 222); not used."
+            },
+            "eps": {
+                "v": 164.48,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2021/FY-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, 'Laba per saham - Dasar / Earnings per share - Basic' (Rupiah full amount)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "As reported in the audited FS. AR2022-AR2025 highlight tables print 169.06 = 'business as usual' (excl. exceptional items); not used."
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2022/Pengumuman-Dividen-EN.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution, opening paragraph",
+                "basis": "bank_only",
+                "note": "Final cash dividend of Rp2,345,685,784,827 = maximum 60% of the Net Income (Company only = bank-only) for FY2021 (bank-only net income Rp3,909.476bn per the Dec-2021 published report, 'Bank' column). On consolidated profit attributable (4,100.340) the same dividend is 57.2%."
+            },
+            "total_assets": {
+                "v": 310786.96,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2021/FY-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 177157.862,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2021/FY-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position, 'Kredit yang diberikan / Loans' (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "'Kredit yang diberikan' total (conventional loans + sharia-unit financing), before allowance for impairment. Excludes consumer financing receivables of subsidiary CIMB Niaga Auto Finance (separate FS line); the AR/analyst-deck 'Loans' line adds them."
+            },
+            "deposits": {
+                "v": 241348.51,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2021/FY-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Consolidated statement of financial position, 'Jumlah simpanan dari nasabah / Total deposits from customers'",
+                "basis": "consolidated",
+                "note": "'Jumlah simpanan dari nasabah' (current + savings + time deposits). The sharia unit's wadiah/mudharabah deposits are included in these lines: CIMB Niaga presents no separate temporary syirkah funds line."
+            },
+            "equity_attr": {
+                "v": 43377.122,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2021/FY-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'Ekuitas diatribusikan kepada pemilik entitas induk' subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 43388.358,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2021/FY-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24929713961,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2021/FY-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 193 (Note 34) share capital table, 'Jumlah modal saham ditempatkan dan disetor penuh dan tidak termasuk saham treasuri'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid 25,131,606,843 (71,853,936 class A + class B) less 201,892,882 treasury shares."
+            },
+            "year_end_price": {
+                "v": 965,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Stock Trading Performance table, 2021 Quarter IV 'Closing Price'; AR2021 PDF p. 21 monthly table: December 2021 close 965",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No split since 2004, so the basis never changes."
+            },
+            "roe": {
+                "v": 10.44,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Return on Equity Ratio (ROE - Tier 1)', column 2021",
+                "basis": "consolidated",
+                "note": "ROE Tier I = OJK definition (profit / average Tier 1 capital), consolidated; the same definition is the 'ROE' in the published reports and the analyst decks. As reported (statutory). AR2022-AR2025 highlight tables print a 'business as usual' value of 10.73% that excludes the Rp146.5bn extraordinary G&A cost; not used. The Dec-2021 published report (Consolidated block) agrees with the stored value."
+            },
+            "roa": {
+                "v": 1.82,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Return on Assets Ratio (ROA)', column 2021",
+                "basis": "consolidated",
+                "note": "ROA per OJK (pre-tax profit / average total assets), consolidated. As reported (statutory). AR2022-AR2025 highlight tables print a 'business as usual' value of 1.88% that excludes the Rp146.5bn extraordinary G&A cost; not used. The Dec-2021 published report (Consolidated block) agrees with the stored value."
+            },
+            "nim": {
+                "v": 4.86,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Net Interest Margin (NIM)', column 2021",
+                "basis": "consolidated",
+                "note": "NIM per OJK, consolidated."
+            },
+            "coc": {
+                "v": 2.42,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Cost of Credit Ratio', column 2021",
+                "basis": "consolidated",
+                "note": "Cost of credit (provision expense / average loans), consolidated."
+            },
+            "npl_gross": {
+                "v": 3.46,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Gross Non-Performing Loans (NPL Gross)', column 2021",
+                "basis": "consolidated",
+                "note": "Gross NPL, consolidated."
+            },
+            "npl_net": {
+                "v": 1.17,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Net NPL Ratio', column 2021",
+                "basis": "consolidated",
+                "note": "Net NPL, consolidated."
+            },
+            "lar": {
+                "v": 20.32,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Loan at Risk (LAR)', column 2021",
+                "basis": "consolidated",
+                "note": "Loan at Risk incl. COVID-restructured loans (FY2020-FY2021 LAR excl. COVID was ~11-12%, FY2021 analyst deck p. 25). AR2021 prints no LAR ratio; FY2021 analyst deck p. 25: LAR incl. COVID 20.3%."
+            },
+            "npl_coverage": {
+                "v": 212.1,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Financial Highlights, Financial Ratios, 'Loan Loss Coverage', column 2021",
+                "basis": "consolidated",
+                "note": "'Loan Loss Coverage' = loan-loss allowance / NPL; the analyst decks call the same number 'NPL Coverage'. Balance-sheet ratio, unaffected by the BAU adjustment; same 212.10% in AR2025."
+            },
+            "ldr": {
+                "v": 74.35,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Loan to Deposit Ratio (LDR)', column 2021",
+                "basis": "consolidated",
+                "note": "LDR, consolidated (as printed; the OJK formula, not FS loans / FS deposits)."
+            },
+            "car": {
+                "v": 22.68,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Capital Adequacy Ratio (CAR)', column 2021",
+                "basis": "consolidated",
+                "note": "CAR after credit, market and operational risk, consolidated."
+            },
+            "cir": {
+                "v": 46.71,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Cost to Income Ratio', column 2021",
+                "basis": "consolidated",
+                "note": "Cost to income ratio (operating expenses / operating income), consolidated - not BOPO. As reported (statutory). AR2022-AR2025 highlight tables print a 'business as usual' value of 45.88% that excludes the Rp146.5bn extraordinary G&A cost; not used. The Dec-2021 published report (Consolidated block) agrees with the stored value."
+            },
+            "bopo": {
+                "v": 78.97,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'Operating Expenses to Operating Income (BOPO)', column 2021",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated. As reported (statutory). AR2022-AR2025 highlight tables print a 'business as usual' value of 78.37% that excludes the Rp146.5bn extraordinary G&A cost; not used. The Dec-2021 published report (Consolidated block) agrees with the stored value."
+            },
+            "casa": {
+                "v": 61.34,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2021-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 229 (printed p. 231), MD&A Financial Review, 'Key Financial Ratios' table, row 'CASA Ratio', column 2021",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits, consolidated."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 5041.781,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2022/FY-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Consolidated statement of profit or loss, 'Laba bersih yang dapat diatribusikan kepada: Pemilik entitas induk / Equity holders of the parent'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 202.21,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2022/FY-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, 'Laba per saham - Dasar / Earnings per share - Basic' (Rupiah full amount)",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic = diluted. No split or bonus issue has ever changed the share basis since 2004."
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2023/Dividend-Announcement.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution, opening paragraph",
+                "basis": "bank_only",
+                "note": "Final cash dividend of Rp2,871,841,786,305 = maximum 60% of the Net Income (Company only = bank-only) for FY2022 (bank-only net income Rp4,786.403bn per the Dec-2022 published report, 'Bank' column). On consolidated profit attributable (5,041.781) the same dividend is 57.0%. Same 60.00% in AR2025 PDF p. 231 (printed p. 233), dividend chronology table."
+            },
+            "total_assets": {
+                "v": 306754.299,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2022/FY-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 190692.19,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2022/FY-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, 'Kredit yang diberikan / Loans' (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "'Kredit yang diberikan' total (conventional loans + sharia-unit financing), before allowance for impairment. Excludes consumer financing receivables of subsidiary CIMB Niaga Auto Finance (separate FS line); the AR/analyst-deck 'Loans' line adds them."
+            },
+            "deposits": {
+                "v": 227188.557,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2022/FY-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position, 'Jumlah simpanan dari nasabah / Total deposits from customers'",
+                "basis": "consolidated",
+                "note": "'Jumlah simpanan dari nasabah' (current + savings + time deposits). The sharia unit's wadiah/mudharabah deposits are included in these lines: CIMB Niaga presents no separate temporary syirkah funds line."
+            },
+            "equity_attr": {
+                "v": 45191.89,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2022/FY-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Consolidated statement of financial position, 'Ekuitas diatribusikan kepada pemilik entitas induk' subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 45276.263,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2022/FY-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24933123961,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2022/FY-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 195 (Note 33) share capital table, 'Jumlah modal saham ditempatkan dan disetor penuh dan tidak termasuk saham treasuri'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid 25,131,606,843 (71,853,936 class A + class B) less 198,482,882 treasury shares."
+            },
+            "year_end_price": {
+                "v": 1185,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Stock Trading Performance table, 2022 Quarter IV 'Closing Price'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No split since 2004, so the basis never changes."
+            },
+            "roe": {
+                "v": 12.59,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'ROE Tier I', column 2022",
+                "basis": "consolidated",
+                "note": "ROE Tier I = OJK definition (profit / average Tier 1 capital), consolidated; the same definition is the 'ROE' in the published reports and the analyst decks. The same table prints 'ROE Shareholders' Equity' = 11.71%."
+            },
+            "roa": {
+                "v": 2.16,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Return On Assets (ROA)', column 2022",
+                "basis": "consolidated",
+                "note": "ROA per OJK (pre-tax profit / average total assets), consolidated."
+            },
+            "nim": {
+                "v": 4.69,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Net Interest Margin (NIM)', column 2022",
+                "basis": "consolidated",
+                "note": "NIM per OJK, consolidated."
+            },
+            "coc": {
+                "v": 1.85,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Cost of Credit (COC)', column 2022",
+                "basis": "consolidated",
+                "note": "Cost of credit (provision expense / average loans), consolidated."
+            },
+            "npl_gross": {
+                "v": 2.8,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Non-Performing Loan Ratio (NPL) - Gross', column 2022",
+                "basis": "consolidated",
+                "note": "Gross NPL, consolidated."
+            },
+            "npl_net": {
+                "v": 0.75,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Non-Performing Loan Ratio (NPL) - Net', column 2022",
+                "basis": "consolidated",
+                "note": "Net NPL, consolidated."
+            },
+            "lar": {
+                "v": 15.1,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Loan at Risk (LAR)', column 2022",
+                "basis": "consolidated",
+                "note": "Loan at Risk incl. COVID-restructured loans (FY2020-FY2021 LAR excl. COVID was ~11-12%, FY2021 analyst deck p. 25)."
+            },
+            "npl_coverage": {
+                "v": 242.75,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Loan Loss Coverage (LLC)', column 2022",
+                "basis": "consolidated",
+                "note": "'Loan Loss Coverage' = loan-loss allowance / NPL; the analyst decks call the same number 'NPL Coverage'."
+            },
+            "ldr": {
+                "v": 85.63,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Financial Data Highlights, 'Financial Ratios' table (IV. Liquidity), row 'Loan to Deposit Ratio (LDR)', column 2022",
+                "basis": "consolidated",
+                "note": "LDR, consolidated (as printed; the OJK formula, not FS loans / FS deposits)."
+            },
+            "car": {
+                "v": 22.19,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Capital Adequacy Ratio (CAR)', column 2022",
+                "basis": "consolidated",
+                "note": "CAR after credit, market and operational risk, consolidated."
+            },
+            "cir": {
+                "v": 44.91,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Cost to Income Ratio (CIR)', column 2022",
+                "basis": "consolidated",
+                "note": "Cost to income ratio (operating expenses / operating income), consolidated - not BOPO."
+            },
+            "bopo": {
+                "v": 74.1,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Operating Expenses to Operating Income (BOPO)', column 2022",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated."
+            },
+            "casa": {
+                "v": 63.57,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Financial Data Highlights, 'Financial Ratios' table (IV. Liquidity), row 'CASA Ratio', column 2022",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits, consolidated."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 6474.195,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2023/FY-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Consolidated statement of profit or loss, 'Laba bersih yang dapat diatribusikan kepada: Pemilik entitas induk / Equity holders of the parent'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 259.45,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2023/FY-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, 'Laba per saham - Dasar / Earnings per share - Basic' (Rupiah full amount)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic = diluted. No split or bonus issue has ever changed the share basis since 2004."
+            },
+            "payout_ratio": {
+                "v": 50,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2024/Dividend-Announcement.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution, opening paragraph",
+                "basis": "bank_only",
+                "note": "Final cash dividend of Rp3,084,361,418,113 = maximum 50% of the Net Income (Company only = bank-only) for FY2023 (bank-only net income Rp6,168.723bn per the Dec-2023 published report, 'Bank' column). On consolidated profit attributable (6,474.195) the same dividend is 47.6%. (the announcement says 'Net Income (Company only) for the Financial Year 2022', an evident typo for 2023: the AGMS of 3 Apr 2024 approved the FY2023 appropriation; AR2025 PDF p. 231 (printed p. 233) dividend chronology table: FY2023 payout 50.00%)."
+            },
+            "total_assets": {
+                "v": 334369.233,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2023/FY-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 205916.55,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2023/FY-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'Kredit yang diberikan / Loans' (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "'Kredit yang diberikan' total (conventional loans + sharia-unit financing), before allowance for impairment. Excludes consumer financing receivables of subsidiary CIMB Niaga Auto Finance (7,453.320 at year end, separate FS line); the AR/analyst-deck 'Loans' line adds them."
+            },
+            "deposits": {
+                "v": 235861.67,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2023/FY-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Consolidated statement of financial position, 'Jumlah simpanan dari nasabah / Total deposits from customers'",
+                "basis": "consolidated",
+                "note": "'Jumlah simpanan dari nasabah' (current + savings + time deposits). The sharia unit's wadiah/mudharabah deposits are included in these lines: CIMB Niaga presents no separate temporary syirkah funds line."
+            },
+            "equity_attr": {
+                "v": 49192.544,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2023/FY-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, 'Ekuitas diatribusikan kepada pemilik entitas induk' subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 49337.371,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2023/FY-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 25024439161,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2023/FY-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 198 (Note 33) share capital table, 'Jumlah modal saham ditempatkan dan disetor penuh dan tidak termasuk saham treasuri'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid 25,131,606,843 (71,853,936 class A + class B) less 107,167,682 treasury shares."
+            },
+            "year_end_price": {
+                "v": 1695,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Stock Trading Performance table, 2023 Quarter IV 'Closing Price'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No split since 2004, so the basis never changes."
+            },
+            "roe": {
+                "v": 15.02,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'ROE Tier I', column 2023",
+                "basis": "consolidated",
+                "note": "ROE Tier I = OJK definition (profit / average Tier 1 capital), consolidated; the same definition is the 'ROE' in the published reports and the analyst decks. The same table prints 'ROE Shareholders' Equity' = 14.03%."
+            },
+            "roa": {
+                "v": 2.59,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Return On Assets (ROA)', column 2023",
+                "basis": "consolidated",
+                "note": "ROA per OJK (pre-tax profit / average total assets), consolidated."
+            },
+            "nim": {
+                "v": 4.4,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Net Interest Margin (NIM)', column 2023",
+                "basis": "consolidated",
+                "note": "NIM per OJK, consolidated."
+            },
+            "coc": {
+                "v": 1.03,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Cost of Credit (COC)', column 2023",
+                "basis": "consolidated",
+                "note": "Cost of credit (provision expense / average loans), consolidated."
+            },
+            "npl_gross": {
+                "v": 1.96,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Non-Performing Loan Ratio (NPL) - Gross', column 2023",
+                "basis": "consolidated",
+                "note": "Gross NPL, consolidated."
+            },
+            "npl_net": {
+                "v": 0.71,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Non-Performing Loan Ratio (NPL) - Net', column 2023",
+                "basis": "consolidated",
+                "note": "Net NPL, consolidated."
+            },
+            "lar": {
+                "v": 11.23,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Loan at Risk (LAR)', column 2023",
+                "basis": "consolidated",
+                "note": "Loan at Risk incl. COVID-restructured loans (FY2020-FY2021 LAR excl. COVID was ~11-12%, FY2021 analyst deck p. 25)."
+            },
+            "npl_coverage": {
+                "v": 292.11,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Loan Loss Coverage (LLC)', column 2023",
+                "basis": "consolidated",
+                "note": "'Loan Loss Coverage' = loan-loss allowance / NPL; the analyst decks call the same number 'NPL Coverage'."
+            },
+            "ldr": {
+                "v": 89.3,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Financial Data Highlights, 'Financial Ratios' table (IV. Liquidity), row 'Loan to Deposit Ratio (LDR)', column 2023",
+                "basis": "consolidated",
+                "note": "LDR, consolidated (as printed; the OJK formula, not FS loans / FS deposits)."
+            },
+            "car": {
+                "v": 24.02,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Capital Adequacy Ratio (CAR)', column 2023",
+                "basis": "consolidated",
+                "note": "CAR after credit, market and operational risk, consolidated."
+            },
+            "cir": {
+                "v": 44.83,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Cost to Income Ratio (CIR)', column 2023",
+                "basis": "consolidated",
+                "note": "Cost to income ratio (operating expenses / operating income), consolidated - not BOPO."
+            },
+            "bopo": {
+                "v": 71.47,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Operating Expenses to Operating Income (BOPO)', column 2023",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated."
+            },
+            "casa": {
+                "v": 63.86,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Financial Data Highlights, 'Financial Ratios' table (IV. Liquidity), row 'CASA Ratio', column 2023",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits, consolidated."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 6825.773,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2024/FY-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Consolidated statement of profit or loss, 'Laba bersih yang dapat diatribusikan kepada: Pemilik entitas induk / Equity holders of the parent'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 271.59,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2024/FY-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, 'Laba per saham - Dasar / Earnings per share - Basic' (Rupiah full amount)",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic = diluted. No split or bonus issue has ever changed the share basis since 2004."
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2025/Dividend_Announcement_FY_2024_ENG.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution, opening paragraph",
+                "basis": "bank_only",
+                "note": "Final cash dividend of Rp3,915,399,385,014 = maximum 60% of the Net Income (Company only = bank-only) for FY2024 (bank-only net income Rp6,525.666bn per the Dec-2024 published report, 'Bank' column). On consolidated profit attributable (6,825.773) the same dividend is 57.4%. Same 60.00% in AR2025 PDF p. 231 (printed p. 233), dividend chronology table."
+            },
+            "total_assets": {
+                "v": 360220.51,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2024/FY-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 217949.936,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2024/FY-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'Kredit yang diberikan / Loans' (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "'Kredit yang diberikan' total (conventional loans + sharia-unit financing), before allowance for impairment. Excludes consumer financing receivables of subsidiary CIMB Niaga Auto Finance (10,053.059 at year end, separate FS line); the AR/analyst-deck 'Loans' line adds them."
+            },
+            "deposits": {
+                "v": 260639.027,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2024/FY-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Consolidated statement of financial position, 'Jumlah simpanan dari nasabah / Total deposits from customers'",
+                "basis": "consolidated",
+                "note": "'Jumlah simpanan dari nasabah' (current + savings + time deposits). The sharia unit's wadiah/mudharabah deposits are included in these lines: CIMB Niaga presents no separate temporary syirkah funds line."
+            },
+            "equity_attr": {
+                "v": 52999.187,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2024/FY-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, 'Ekuitas diatribusikan kepada pemilik entitas induk' subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 53196.327,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2024/FY-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 25137965543,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2024/FY-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 192 (Note 33) share capital table, 'Jumlah modal saham ditempatkan dan disetor penuh dan tidak termasuk saham treasuri'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid 25,142,205,843 (71,853,936 class A + class B) less 4,240,300 treasury shares."
+            },
+            "year_end_price": {
+                "v": 1730,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Stock Trading Performance table, 2024 Quarter IV 'Closing Price'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No split since 2004, so the basis never changes."
+            },
+            "roe": {
+                "v": 14.34,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'ROE Tier I', column 2024",
+                "basis": "consolidated",
+                "note": "ROE Tier I = OJK definition (profit / average Tier 1 capital), consolidated; the same definition is the 'ROE' in the published reports and the analyst decks. The same table prints 'ROE Shareholders' Equity' = 13.54%."
+            },
+            "roa": {
+                "v": 2.53,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Return On Assets (ROA)', column 2024",
+                "basis": "consolidated",
+                "note": "ROA per OJK (pre-tax profit / average total assets), consolidated."
+            },
+            "nim": {
+                "v": 4.09,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Net Interest Margin (NIM)', column 2024",
+                "basis": "consolidated",
+                "note": "NIM per OJK, consolidated."
+            },
+            "coc": {
+                "v": 0.84,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Cost of Credit (COC)', column 2024",
+                "basis": "consolidated",
+                "note": "Cost of credit (provision expense / average loans), consolidated."
+            },
+            "npl_gross": {
+                "v": 1.76,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Non-Performing Loan Ratio (NPL) - Gross', column 2024",
+                "basis": "consolidated",
+                "note": "Gross NPL, consolidated."
+            },
+            "npl_net": {
+                "v": 0.69,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Non-Performing Loan Ratio (NPL) - Net', column 2024",
+                "basis": "consolidated",
+                "note": "Net NPL, consolidated."
+            },
+            "lar": {
+                "v": 8.56,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Loan at Risk (LAR)', column 2024",
+                "basis": "consolidated",
+                "note": "Loan at Risk incl. COVID-restructured loans (FY2020-FY2021 LAR excl. COVID was ~11-12%, FY2021 analyst deck p. 25)."
+            },
+            "npl_coverage": {
+                "v": 270.01,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Loan Loss Coverage (LLC)', column 2024",
+                "basis": "consolidated",
+                "note": "'Loan Loss Coverage' = loan-loss allowance / NPL; the analyst decks call the same number 'NPL Coverage'."
+            },
+            "ldr": {
+                "v": 86.28,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Financial Data Highlights, 'Financial Ratios' table (IV. Liquidity), row 'Loan to Deposit Ratio (LDR)', column 2024",
+                "basis": "consolidated",
+                "note": "LDR, consolidated (as printed; the OJK formula, not FS loans / FS deposits)."
+            },
+            "car": {
+                "v": 23.34,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Capital Adequacy Ratio (CAR)', column 2024",
+                "basis": "consolidated",
+                "note": "CAR after credit, market and operational risk, consolidated."
+            },
+            "cir": {
+                "v": 44.32,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Cost to Income Ratio (CIR)', column 2024",
+                "basis": "consolidated",
+                "note": "Cost to income ratio (operating expenses / operating income), consolidated - not BOPO."
+            },
+            "bopo": {
+                "v": 74.02,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Operating Expenses to Operating Income (BOPO)', column 2024",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated."
+            },
+            "casa": {
+                "v": 66.02,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Financial Data Highlights, 'Financial Ratios' table (IV. Liquidity), row 'CASA Ratio', column 2024",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits, consolidated."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 6876.537,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Consolidated statement of profit or loss, 'Laba bersih yang dapat diatribusikan kepada: Pemilik entitas induk / Equity holders of the parent'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 273.53,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, 'Laba per saham - Dasar / Earnings per share - Basic' (Rupiah full amount)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic = diluted. No split or bonus issue has ever changed the share basis since 2004."
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2026/Dividend_Announcement_FY_2025_ENG.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution, opening paragraph",
+                "basis": "bank_only",
+                "note": "Final cash dividend of Rp4,067,333,245,077 = maximum 60% of the Net Income (Company only = bank-only) for FY2025 (bank-only net income Rp6,778.889bn per the Dec-2025 published report, 'Bank' column). On consolidated profit attributable (6,876.537) the same dividend is 59.1%."
+            },
+            "total_assets": {
+                "v": 372698.893,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'JUMLAH ASET / TOTAL ASSETS'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 227997.983,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, Consolidated statement of financial position, 'Kredit yang diberikan / Loans' (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "'Kredit yang diberikan' total (conventional loans + sharia-unit financing), before allowance for impairment. Excludes consumer financing receivables of subsidiary CIMB Niaga Auto Finance (10,310.842 at year end, separate FS line); the AR/analyst-deck 'Loans' line adds them."
+            },
+            "deposits": {
+                "v": 270522.78,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Consolidated statement of financial position, 'Jumlah simpanan dari nasabah / Total deposits from customers'",
+                "basis": "consolidated",
+                "note": "'Jumlah simpanan dari nasabah' (current + savings + time deposits). The sharia unit's wadiah/mudharabah deposits are included in these lines: CIMB Niaga presents no separate temporary syirkah funds line."
+            },
+            "equity_attr": {
+                "v": 57939.857,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, 'Ekuitas diatribusikan kepada pemilik entitas induk' subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 58157.183,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Consolidated statement of financial position, 'JUMLAH EKUITAS / TOTAL EQUITY'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 25140519043,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2025/FY-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 195 (Note 33) share capital table, 'Jumlah modal saham ditempatkan dan disetor penuh dan tidak termasuk saham treasuri'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid 25,142,205,843 (71,853,936 class A + class B) less 1,686,800 treasury shares."
+            },
+            "year_end_price": {
+                "v": 1790,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23 (printed p. 21), Share Highlights, Stock Trading Performance table, 2025 Quarter IV 'Closing Price'; same on PDF p. 24 Stock Performance table",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date, so as_of_date is the period end. No split since 2004, so the basis never changes."
+            },
+            "roe": {
+                "v": 13.03,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'ROE Tier I', column 2025",
+                "basis": "consolidated",
+                "note": "ROE Tier I = OJK definition (profit / average Tier 1 capital), consolidated; the same definition is the 'ROE' in the published reports and the analyst decks. The same table prints 'ROE Shareholders' Equity' = 12.48%. Matches the 'Consolidated' block of the Dec-2025 published report (QR p. 7)."
+            },
+            "roa": {
+                "v": 2.43,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Return On Assets (ROA)', column 2025",
+                "basis": "consolidated",
+                "note": "ROA per OJK (pre-tax profit / average total assets), consolidated. Matches the 'Consolidated' block of the Dec-2025 published report (QR p. 7)."
+            },
+            "nim": {
+                "v": 3.97,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Net Interest Margin (NIM)', column 2025",
+                "basis": "consolidated",
+                "note": "NIM per OJK, consolidated. Matches the 'Consolidated' block of the Dec-2025 published report (QR p. 7)."
+            },
+            "coc": {
+                "v": 0.74,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Cost of Credit (COC)', column 2025",
+                "basis": "consolidated",
+                "note": "Cost of credit (provision expense / average loans), consolidated."
+            },
+            "npl_gross": {
+                "v": 1.81,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Non-Performing Loan Ratio (NPL) - Gross', column 2025",
+                "basis": "consolidated",
+                "note": "Gross NPL, consolidated. Matches the 'Consolidated' block of the Dec-2025 published report (QR p. 7)."
+            },
+            "npl_net": {
+                "v": 0.72,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Non-Performing Loan Ratio (NPL) - Net', column 2025",
+                "basis": "consolidated",
+                "note": "Net NPL, consolidated. Matches the 'Consolidated' block of the Dec-2025 published report (QR p. 7)."
+            },
+            "lar": {
+                "v": 6.94,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Loan at Risk (LAR)', column 2025",
+                "basis": "consolidated",
+                "note": "Loan at Risk incl. COVID-restructured loans (FY2020-FY2021 LAR excl. COVID was ~11-12%, FY2021 analyst deck p. 25)."
+            },
+            "npl_coverage": {
+                "v": 197.83,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Loan Loss Coverage (LLC)', column 2025",
+                "basis": "consolidated",
+                "note": "'Loan Loss Coverage' = loan-loss allowance / NPL; the analyst decks call the same number 'NPL Coverage'."
+            },
+            "ldr": {
+                "v": 86.81,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Financial Data Highlights, 'Financial Ratios' table (IV. Liquidity), row 'Loan to Deposit Ratio (LDR)', column 2025",
+                "basis": "consolidated",
+                "note": "LDR, consolidated (as printed; the OJK formula, not FS loans / FS deposits). Matches the 'Consolidated' block of the Dec-2025 published report (QR p. 7)."
+            },
+            "car": {
+                "v": 24.83,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Capital Adequacy Ratio (CAR)', column 2025",
+                "basis": "consolidated",
+                "note": "CAR after credit, market and operational risk, consolidated. Matches the 'Consolidated' block of the Dec-2025 published report (QR p. 7)."
+            },
+            "cir": {
+                "v": 45.92,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Cost to Income Ratio (CIR)', column 2025",
+                "basis": "consolidated",
+                "note": "Cost to income ratio (operating expenses / operating income), consolidated - not BOPO. Matches the 'Consolidated' block of the Dec-2025 published report (QR p. 7)."
+            },
+            "bopo": {
+                "v": 72.4,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19 (printed p. 17), Financial Data Highlights, 'Financial Ratios' table, row 'Operating Expenses to Operating Income (BOPO)', column 2025",
+                "basis": "consolidated",
+                "note": "BOPO (operating expenses / operating income, OJK), consolidated. Matches the 'Consolidated' block of the Dec-2025 published report (QR p. 7)."
+            },
+            "casa": {
+                "v": 70.03,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AR/AR-2025-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20 (printed p. 18), Financial Data Highlights, 'Financial Ratios' table (IV. Liquidity), row 'CASA Ratio', column 2025",
+                "basis": "consolidated",
+                "note": "CASA / total customer deposits, consolidated."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 44.06,
+            "total": 1098.577683881,
+            "cum_date": "2021-04-19",
+            "ex_date": "2021-04-20",
+            "record_date": "2021-04-21",
+            "pay_date": "2021-05-07",
+            "share_basis": "2021-04-13",
+            "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2021/Announcement-of-Dividend-EN.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-04-13",
+            "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution (AGMS 9 April 2021), opening paragraph and 'A. Schedule' (cum/ex dates = regular & negotiation market; record date; payment date)",
+            "note": "Final cash dividend FY2020, maximum Rp1,098,577,683,881 (gross) = 60% of bank-only net income. DPS = total / 24,933,626,961 shares (after treasury stock), 'at the minimum of IDR44.06'."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 94.07,
+            "total": 2345.685784827,
+            "cum_date": "2022-04-19",
+            "ex_date": "2022-04-20",
+            "record_date": "2022-04-21",
+            "pay_date": "2022-04-28",
+            "share_basis": "2022-04-11",
+            "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2022/Pengumuman-Dividen-EN.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-04-11",
+            "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution (AGMS 8 April 2022), opening paragraph and 'A. Schedule' (cum/ex dates = regular & negotiation market; record date; payment date)",
+            "note": "Final cash dividend FY2021, maximum Rp2,345,685,784,827 (gross) = 60% of bank-only net income. DPS = total / 24,934,885,861 shares (after treasury stock), 'at the minimum of IDR94.07'."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 115.16,
+            "total": 2871.841786305,
+            "cum_date": "2023-04-18",
+            "ex_date": "2023-04-26",
+            "record_date": "2023-04-27",
+            "pay_date": "2023-05-10",
+            "share_basis": "2023-04-11",
+            "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2023/Dividend-Announcement.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-04-11",
+            "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution (AGMS 10 April 2023), opening paragraph and 'A. Schedule' (cum/ex dates = regular & negotiation market; record date; payment date)",
+            "note": "Final cash dividend FY2022, maximum Rp2,871,841,786,305 (gross) = 60% of bank-only net income. DPS = total / 24,938,355,561 shares (after treasury stocks), 'at the minimum of IDR115.16'. Ex-date 26 Apr 2023 follows the IDX Idul Fitri break (cum 18 Apr)."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 122.67,
+            "total": 3084.361418113,
+            "cum_date": "2024-04-19",
+            "ex_date": "2024-04-22",
+            "record_date": "2024-04-23",
+            "pay_date": "2024-05-03",
+            "share_basis": "2024-04-03",
+            "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2024/Dividend-Announcement.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-04-03",
+            "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution (AGMS 3 April 2024), opening paragraph and 'A. Schedule' (cum/ex dates = regular & negotiation market; record date; payment date)",
+            "note": "Final cash dividend FY2023, maximum Rp3,084,361,418,113 (gross) = 50% of bank-only net income. DPS = total / 25,142,205,843 shares (all issued shares), 'at the minimum of Rp122.67'."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 155.73,
+            "total": 3915.399385014,
+            "cum_date": "2025-04-23",
+            "ex_date": "2025-04-24",
+            "record_date": "2025-04-25",
+            "pay_date": "2025-05-14",
+            "share_basis": "2025-04-14",
+            "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2025/Dividend_Announcement_FY_2024_ENG.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-04-14",
+            "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution (AGMS 14 April 2025), opening paragraph and 'A. Schedule' (cum/ex dates = regular & negotiation market; record date; payment date)",
+            "note": "Final cash dividend FY2024, maximum Rp3,915,399,385,014 (gross) = 60% of bank-only net income. DPS = total / 25,142,205,843 shares, 'at the minimum of Rp155.73'. Paid amount per FS 9M2026 Note 34: Rp3,915,399,385,014."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 161.77,
+            "total": 4067.333245077,
+            "cum_date": "2026-04-27",
+            "ex_date": "2026-04-28",
+            "record_date": "2026-04-29",
+            "pay_date": "2026-05-13",
+            "share_basis": "2026-04-17",
+            "source_url": "https://investor.cimbniaga.co.id/misc/AGMS/2026/Dividend_Announcement_FY_2025_ENG.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-17",
+            "loc": "p. 1, Announcement to the Shareholders on Dividend Distribution (AGMS 17 April 2026), opening paragraph and 'A. Schedule' (cum/ex dates = regular & negotiation market; record date; payment date)",
+            "note": "Final cash dividend FY2025, maximum Rp4,067,333,245,077 (gross) = 60% of bank-only net income. DPS = total / 25,142,205,843 shares, 'at the minimum of Rp161.77'. Paid 13 May 2026, Rp4,067,333,245,077 per FS 9M2026 Note 34 (PDF p. 174)."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 4491.646,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2026/Q3-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Interim consolidated statement of profit or loss, 'Laba bersih yang dapat diatribusikan kepada: Pemilik entitas induk', 9M 2026",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2026, unaudited (authorised 28 Oct 2026). -14.7% YoY on higher provisions (analyst deck 9M26 p. 12: Net Profit 4,492)."
+            },
+            "profit_ytd_prior": {
+                "v": 5268.586,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2026/Q3-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 7, Interim consolidated statement of profit or loss, 'Pemilik entitas induk', comparative 9M 2025",
+                "basis": "consolidated",
+                "note": "Same figure in the FS 9M2025 (PDF p. 7)."
+            },
+            "equity_attr": {
+                "v": 57371.056,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2026/Q3-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Interim consolidated statement of financial position, 'Ekuitas diatribusikan kepada pemilik entitas induk' subtotal",
+                "basis": "consolidated",
+                "note": "Same PSAK definition as fy.*.equity_attr (the published-report format gives the same 57,371,056)."
+            },
+            "shares_out": {
+                "v": 25141869843,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2026/Q3-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 171 (Note 33) share capital table, 'tidak termasuk saham tresuri'",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Issued 25,142,205,843 less 336,000 treasury shares (MRT programme)."
+            },
+            "total_assets": {
+                "v": 384790.192,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2026/Q3-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Interim consolidated statement of financial position, 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 233723.014,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2026/Q3-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Interim consolidated statement of financial position, 'Kredit yang diberikan' (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "Same definition as fy.*.loans_gross (incl. sharia-unit financing, excl. CNAF consumer financing receivables of 9,791.452)."
+            },
+            "loans_gross_prior": {
+                "v": 217578.913,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2025/Q3-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 3, Interim consolidated statement of financial position 30 Sep 2025, 'Kredit yang diberikan' (before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 273733.491,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2026/Q3-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Interim consolidated statement of financial position, 'Jumlah simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Includes sharia-unit deposits, as in fy.*.deposits."
+            },
+            "deposits_prior": {
+                "v": 278013.122,
+                "source_url": "https://investor.cimbniaga.co.id/misc/Consolidated/2025/Q3-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4, Interim consolidated statement of financial position 30 Sep 2025, 'Jumlah simpanan dari nasabah'",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 10.93,
+                "source_url": "https://investor.cimbniaga.co.id/misc/QR/2026/Published-Sep-2026-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Financial Ratios, 'Consolidated' block, column 2026, '9. Return on Equity (ROE)'",
+                "basis": "consolidated",
+                "note": "OJK definition (annualised profit / average Tier 1 capital), same as fy.*.roe. 30 Sep 2025: 13.54. Deck 9M26: 10.9%."
+            },
+            "roa": {
+                "v": 2.06,
+                "source_url": "https://investor.cimbniaga.co.id/misc/QR/2026/Published-Sep-2026-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Financial Ratios, 'Consolidated' block, column 2026, '8. Return on Asset (ROA)'",
+                "basis": "consolidated",
+                "note": "Annualised. 30 Sep 2025: 2.50."
+            },
+            "nim": {
+                "v": 3.82,
+                "source_url": "https://investor.cimbniaga.co.id/misc/QR/2026/Published-Sep-2026-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Financial Ratios, 'Consolidated' block, column 2026, '10. Net Interest Margin (NIM)'",
+                "basis": "consolidated",
+                "note": "30 Sep 2025: 4.00."
+            },
+            "coc": {
+                "v": 1.35,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AP/2026/BNGA-3Q26-Results-Final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 13, 'Key ratios - consolidated', column 9M26, row 'Cost of Credit (CoC)'",
+                "basis": "consolidated",
+                "note": "Annualised YTD. 9M25: 0.86%. 3Q26 quarter alone 2.06%."
+            },
+            "npl_gross": {
+                "v": 1.81,
+                "source_url": "https://investor.cimbniaga.co.id/misc/QR/2026/Published-Sep-2026-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Financial Ratios, 'Consolidated' block, column 2026, '5. Gross NPL'",
+                "basis": "consolidated",
+                "note": "30 Sep 2025: 1.98."
+            },
+            "lar": {
+                "v": 5.7,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AP/2026/BNGA-3Q26-Results-Final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 13, 'Key ratios - consolidated', column 9M26, row 'Loans at Risk (LaR)'",
+                "basis": "consolidated",
+                "note": "Deck definition = the AR definition used in fy.*.lar (AR2025 6.94 vs deck Dec-25 6.9). The Sep-2026 published report (QR p. 7) prints LAR 5.83% on its own definition."
+            },
+            "npl_coverage": {
+                "v": 116.8,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AP/2026/BNGA-3Q26-Results-Final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 13, 'Key ratios - consolidated', column 9M26, row 'NPL Coverage'",
+                "basis": "consolidated",
+                "note": "Down from 197.8% at Dec-25 and 195.8% at Sep-25: the loan-loss allowance fell from Rp8,053.6bn (Dec-25) to Rp4,868.1bn (Sep-26) per the FS balance sheet."
+            },
+            "ldr": {
+                "v": 87.69,
+                "source_url": "https://investor.cimbniaga.co.id/misc/QR/2026/Published-Sep-2026-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Financial Ratios, 'Consolidated' block, column 2026, '13. Loan to Deposit Ratio (LDR)'",
+                "basis": "consolidated",
+                "note": "30 Sep 2025: 81.06."
+            },
+            "car": {
+                "v": 23.75,
+                "source_url": "https://investor.cimbniaga.co.id/misc/QR/2026/Published-Sep-2026-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Financial Ratios, 'Consolidated' block, column 2026, '1. Capital Adequacy Ratio (CAR)'",
+                "basis": "consolidated",
+                "note": "30 Sep 2025: 24.73."
+            },
+            "cir": {
+                "v": 44.87,
+                "source_url": "https://investor.cimbniaga.co.id/misc/QR/2026/Published-Sep-2026-EN.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Financial Ratios, 'Consolidated' block, column 2026, '12. Cost to Income Ratio (CIR)'",
+                "basis": "consolidated",
+                "note": "30 Sep 2025: 44.34. BOPO 75.67."
+            },
+            "casa": {
+                "v": 72,
+                "source_url": "https://investor.cimbniaga.co.id/misc/AP/2026/BNGA-3Q26-Results-Final.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 13, 'Key ratios - consolidated', column 9M26, row 'CASA Ratio'",
+                "basis": "consolidated",
+                "note": "CASA Rp197.05tn / customer deposits Rp273.73tn (deck p. 11). 9M25: 67.9%."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "payout_total:2020",
+            "reason": "CIMB Niaga defines the payout on BANK-ONLY ('Company only') net income, not on consolidated profit: the FY2020 dividend of Rp1,098.578bn is 60% of bank-only net income Rp1,830.963bn (Dec-2020 published report, 'Bank' column, https://investor.cimbniaga.co.id/misc/QR/2020/Published-Dec-20.pdf) but 54.6% of consolidated profit attributable Rp2,012.401bn. Source: dividend announcement https://investor.cimbniaga.co.id/misc/AGMS/2021/Announcement-of-Dividend-EN.pdf ('maximum 60% of the Net Income (Company only)')."
+        },
+        {
+            "check": "payout_total:2021",
+            "reason": "CIMB Niaga defines the payout on BANK-ONLY ('Company only') net income, not on consolidated profit: the FY2021 dividend of Rp2,345.686bn is 60% of bank-only net income Rp3,909.476bn (Dec-2021 published report, 'Bank' column, https://investor.cimbniaga.co.id/misc/QR/2021/Published-Dec-2021.pdf) but 57.2% of consolidated profit attributable Rp4,100.340bn. Source: dividend announcement https://investor.cimbniaga.co.id/misc/AGMS/2022/Pengumuman-Dividen-EN.pdf ('maximum 60% of the Net Income (Company only)')."
+        },
+        {
+            "check": "payout_total:2022",
+            "reason": "CIMB Niaga defines the payout on BANK-ONLY ('Company only') net income, not on consolidated profit: the FY2022 dividend of Rp2,871.842bn is 60% of bank-only net income Rp4,786.403bn (Dec-2022 published report, 'Bank' column, https://investor.cimbniaga.co.id/misc/QR/2022/Publication-Report-Dec-2022-EN.pdf) but 57.0% of consolidated profit attributable Rp5,041.781bn. Source: dividend announcement https://investor.cimbniaga.co.id/misc/AGMS/2023/Dividend-Announcement.pdf ('maximum 60% of the Net Income (Company only)')."
+        },
+        {
+            "check": "payout_total:2023",
+            "reason": "CIMB Niaga defines the payout on BANK-ONLY ('Company only') net income, not on consolidated profit: the FY2023 dividend of Rp3,084.361bn is 50% of bank-only net income Rp6,168.723bn (Dec-2023 published report, 'Bank' column, https://investor.cimbniaga.co.id/misc/QR/2023/Published-Dec-2023.pdf) but 47.6% of consolidated profit attributable Rp6,474.195bn. Source: dividend announcement https://investor.cimbniaga.co.id/misc/AGMS/2024/Dividend-Announcement.pdf ('maximum 50% of the Net Income (Company only)')."
+        },
+        {
+            "check": "payout_total:2024",
+            "reason": "CIMB Niaga defines the payout on BANK-ONLY ('Company only') net income, not on consolidated profit: the FY2024 dividend of Rp3,915.399bn is 60% of bank-only net income Rp6,525.666bn (Dec-2024 published report, 'Bank' column, https://investor.cimbniaga.co.id/misc/QR/2024/Published-Dec-2024.pdf) but 57.4% of consolidated profit attributable Rp6,825.773bn. Source: dividend announcement https://investor.cimbniaga.co.id/misc/AGMS/2025/Dividend_Announcement_FY_2024_ENG.pdf ('maximum 60% of the Net Income (Company only)')."
+        }
+    ],
+    "research_notes": [
+        "SOURCES: every document was downloaded directly from CIMB Niaga's investor-relations site https://investor.cimbniaga.co.id/misc/... (served via the ir.listedcompany.com download tracker, no bot protection); no archive copies, no news and no aggregator values are stored. idx.co.id was not needed.",
+        "SHARIA UNIT SPIN-OFF: CIMB Niaga runs a sharia business unit (UUS, sharia financing Rp55.7tn and sharia deposits Rp50.3tn at Dec-25, FY2025 deck pp. 23-24). The EGMS of 26 Jun 2025 approved spinning it off into a new sharia commercial bank, PT Bank CIMB Niaga Syariah (AR2025 PDF pp. 423-425). The spin-off had NOT taken effect by FY2025 and still had not by 30 Sep 2026: the 9M2026 FS (authorised 28 Oct 2026, PDF p. 20) still describes the related board changes as effective only 'since the Effective Date of the Spin-Off'. So every fy.* figure 2019-2025 and the 9M2026 interim INCLUDE the unit, with no break in the series. The original target effective date was May 2026; press reports (e.g. bisnis.com, Jan 2026; fortuneidn.com) say it slipped to around Q4 2026 while the OJK business licence was pending. This was not verified in a company document. Once effective, the new bank is expected to be a consolidated subsidiary: press reports name PT Commerce Kapital, a CIMB Group affiliate that holds 1.02% of BNGA, as co-founder. Consolidated totals should then barely move, but the bank-only ratios and the bank-only base of the dividend payout will change, and non-controlling interest may rise. Re-check the consolidation scope in the FY2026 FS.",
+        "LOANS DEFINITION: fy.*.loans_gross and the interim loans = the FS line 'Kredit yang diberikan' before allowance, which includes the sharia unit's financing (FS2025 Note 12a lists conventional + sharia). It EXCLUDES 'Piutang pembiayaan konsumen' of subsidiary CIMB Niaga Auto Finance (CNAF, 83.28% owned), which sits on a separate line (Rp10.3tn at Dec-25). The AR highlights and the analyst decks report 'Loans' INCLUDING CNAF receivables (e.g. Dec-25 238,308.825 = 227,997.983 + 10,310.842). Stored values follow BMRI.json (FS loan line, multifinance excluded).",
+        "DEPOSITS: CIMB Niaga's consolidated balance sheet has no separate 'temporary syirkah funds' line; the sharia unit's deposits are inside 'Simpanan dari nasabah' (current/savings/time). fy.*.deposits = 'Jumlah simpanan dari nasabah' (= the AR 'Customer Deposits' and deck 'Total Customer Deposits').",
+        "RATIOS are CONSOLIDATED. The AR 'Financial Ratios' highlight table equals the 'Consolidated' block of each December published report (e.g. Dec-25: CAR 24.83, NPL 1.81, ROA 2.43, ROE 13.03, NIM 3.97, BOPO 72.40, CIR 45.92, LDR 86.81) and the decks' 'Key ratios - consolidated'. The 'Bank CIMB Niaga' (bank-only) block differs: Dec-25 NIM 3.69, ROE 13.58, CIR 47.00, LDR 82.84. FY2022-FY2025 come from AR2025 (PDF pp. 19-20). FY2020-FY2021 come from AR2021's MD&A key-ratio table (PDF p. 229), with LLC from AR2021 p. 18 and LAR from AR2025/AR2024. ROE stored = 'ROE Tier I' (OJK definition, as in the published reports); the shareholders'-equity ROE is given in each note.",
+        "FY2021 'BUSINESS AS USUAL' TRAP: AR2022-AR2025 highlight tables restate FY2021 (and FY2019) P&L figures 'business as usual', excluding exceptional items: 2021 net income 4,212.861 (attributable 4,214.597, EPS 169.06, ROA 1.88, ROE 10.73, CIR 45.88, BOPO 78.37). The audited FS2021 and FS2022 comparatives show 4,100.340 / EPS 164.48, and the statutory ratios are ROA 1.82, ROE 10.44, CIR 46.71, BOPO 78.97 (AR2021 p. 229; Dec-2021 published report). The exceptional item was an extraordinary G&A cost of Rp146.5bn (AR2021 PDF p. 222). The stored values are the statutory ones. AR2025's 2021 column carries no asterisk but uses the BAU values.",
+        "PSAK 71: adopted 1 Jan 2020 with a Rp4,139.102bn (net of tax) charge to opening retained earnings; FY2019 was not restated. Equity attributable fell from 43,278.891 (Dec-19) to 41,038.939 (Dec-20) partly because of this, not because of the year's results. FY2020 profit was depressed by COVID provisions (CoC 2.83%, LAR 23.64% incl. COVID restructuring).",
+        "NO RESTATEMENTS FY2019-FY2025: each FS's comparative columns equal the prior year's own FS (FY2025 FS presents three years, 2025/2024/2023, all equal to the originally reported figures). Only related-party vs third-party loan splits were reclassified (totals unchanged).",
+        "PAYOUT RATIO is defined by CIMB Niaga on BANK-ONLY ('Company only') net income, so payout_ratio has basis bank_only. Bank-only net income (Dec published reports, 'Bank' column): 2020 1,830.963; 2021 3,909.476; 2022 4,786.403; 2023 6,168.723; 2024 6,525.666; 2025 6,778.889 (IDR bn). Dividends / bank-only NI = 60.0/60.0/60.0/50.0/60.0/60.0%. On consolidated profit attributable the same dividends are 54.6/57.2/57.0/47.6/57.4/59.1%. The validator multiplies consolidated profit by the bank-only payout, so FY2020-FY2024 show >3% payout_total gaps; these are acknowledged in validation_ack (FY2025 is within 1.4%).",
+        "DIVIDENDS: exactly one final cash dividend per fiscal year, paid after the AGMS; there were no interim or special dividends from FY2020-FY2025 profit (IR dividend page https://investor.cimbniaga.co.id/dividend.html lists one payment per year: 2021 44.06, 2022 94.07, 2023 115.16, 2024 122.67, 2025 155.73, 2026 161.77). No FY2026 interim dividend had been announced as of the 9M2026 FS. The announcement totals are 'maximum' amounts and DPS 'minimum' amounts. For FY2024/FY2025 the paid totals equal the announced ones (FS 9M2026 Note 34). FY2023's announcement mis-states 'Net Income (Company only) for the Financial Year 2022'; the AGMS and AR2025 make clear it is FY2023.",
+        "CORPORATE ACTIONS 2019-01-01 to 2026-11-03: none of type split / reverse split / rights / bonus. The last rights issue (PUT V with HMETD) was in Dec 2010 and the last reverse split (10:1) in May 2004 (AR2025 PDF p. 112, share-listing chronology). AR2025 PDF p. 24 states that no stock split, reverse split, bonus issue or par-value change occurred in 2025. The only share issue in the window is a non-pre-emptive capital increase (PMTHMETD): 10,599,000 new class B shares (0.04%), approved by the EGMS of 11 Jan 2024, executed 31 Jan 2024 and listed 1 Feb 2024 (FS2025 Note 33, PDF p. 196). It has no rights and no ex-date, so it is not recorded as a corporate action. Treasury-share movements (2017/2019 buyback programmes, MRT/LTIP awards) change shares_out slightly from year to year. corporate_actions is therefore an empty list.",
+        "SHARES: class A (71,853,936, par Rp5,000) and class B (par Rp50) carry identical rights; shares_out = all issued shares less treasury shares from the FS share-capital note. EPS x shares_out vs profit: 2020 -0.01%, 2021 0.00%, 2022 0.00%, 2023 +0.28%, 2024 +0.02%, 2025 0.00%. DPS x FY-end shares_out vs total dividend: within 0.5% every year (2023: -0.5% because the DPS was computed on all 25.14bn issued shares while 107m treasury shares were outstanding at Dec-23).",
+        "INTERIM 9M2026: from the unaudited interim consolidated FS 30 Sep 2026 (levels and profit), the Sep-2026 published report (OJK-format consolidated ratios) and the 9M26 analyst presentation of 28 Oct 2026 (CoC, CASA, NPL coverage, LaR). 9M26 profit attributable 4,491.6bn, -14.7% YoY. Provisions were up 65% (deck p. 12), CoC was 1.35% vs 0.86%, and the loan-loss allowance fell from Rp8.05tn to Rp4.87tn (write-offs), which cut NPL coverage to 116.8% (Dec-25 197.8%). Prior-period balances come from the FS 30 Sep 2025.",
+        "OWNERSHIP: CIMB Group Sdn Bhd (Malaysia) holds 22,991,336,581 class B shares = 91.44% of issued shares at Dec-25 (FS2025 Note 33). PT Commerce Kapital, owned by the same ultimate shareholder, holds another 255,399,748 shares = 1.02% (AR2025 PDF p. 106). Public float is therefore about 7.5%.",
+        "KBMI 3 (core capital Rp14-70tn): AR2025 describes CIMB Niaga as a KBMI 3 bank. Tier-1 capital is Rp55.7tn consolidated and Rp53.6tn bank-only at Dec-25."
+    ]
+}
