@@ -38,6 +38,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | BBYB | PT Bank Neo Commerce Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BBYB.json](issuers/BBYB.json) | [prices/BBYB.json](prices/BBYB.json) 2019-06-14 → 2026-11-02 |
 | BBHI | PT Allo Bank Indonesia Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BBHI.json](issuers/BBHI.json) | [prices/BBHI.json](prices/BBHI.json) 2019-01-02 → 2026-11-02 |
 | BNLI | PT Bank Permata Tbk | 3 | FY2020–FY2025 | H1 2025 | [issuers/BNLI.json](issuers/BNLI.json) | [prices/BNLI.json](prices/BNLI.json) 2019-01-02 → 2026-11-02 |
+| BANK | PT Bank Aladin Syariah Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BANK.json](issuers/BANK.json) | [prices/BANK.json](prices/BANK.json) 2021-02-01 → 2026-11-02 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->

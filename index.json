@@ -553,6 +553,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bnli/"
+        },
+        {
+            "code": "BANK",
+            "name": "PT Bank Aladin Syariah Tbk",
+            "name_short": "Bank Aladin Syariah",
+            "sector": "banking",
+            "group": "sharia",
+            "kbmi": 1,
+            "sharia": true,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 0,
+            "file": "issuers/BANK.json",
+            "prices": {
+                "file": "prices/BANK.json",
+                "first_date": "2021-02-01",
+                "last_date": "2026-11-02",
+                "sessions": 1364,
+                "last_close": 190,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/bank/"
         }
     ]
 }

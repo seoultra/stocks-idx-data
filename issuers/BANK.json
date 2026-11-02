@@ -1,0 +1,1408 @@
+{
+    "schema": 1,
+    "code": "BANK",
+    "name": "PT Bank Aladin Syariah Tbk",
+    "name_short": "Bank Aladin Syariah",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": true,
+    "website": "https://aladinbank.id",
+    "ir_url": "https://aladinbank.id/informasi-investor/",
+    "kbmi": {
+        "v": 1,
+        "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2024 PDF p. 158, 'Penghargaan yang Diperoleh di Tahun 2024' (Infobank awards in the 'KBMI 1' bank category: 'THE BEST DIGITAL BANK (KBMI 1)', 'THE BEST SHARIA BANK (KBMI 1)'); core capital Rp3,198,999m at 31 Dec 2025 in AR2025 (https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf) FS Note 38, PDF p. 830",
+        "note": "KBMI 1 = core capital below Rp6tn (POJK 12/POJK.03/2021). The AR does not state the KBMI class in so many words; the bank's own disclosures (AR2024 awards list; Feb-2026 public expose p. 6) place it in KBMI 1, and its core capital (Rp3.20tn Dec 2025; Rp3.23tn Sep 2026) is far below the KBMI-2 threshold."
+    },
+    "label_overrides": {
+        "npl_gross": "NPF gross",
+        "npl_net": "NPF net",
+        "ldr": "FDR",
+        "nim": "NI (Net Imbalan)",
+        "car": "KPMM (CAR)",
+        "loans_gross": "Gross financing (pembiayaan: murabahah + qardh + musyarakah)",
+        "deposits": "Third-party funds (DPK: wadiah deposits + mudharabah/temporary syirkah funds)",
+        "coc": "Cost of financing",
+        "npl_coverage": "CKPN/NPF",
+        "lar": "PKR (Pembiayaan Kualitas Rendah)"
+    },
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 715.623,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 305 (Ekshibit A, 2019 comparative), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "The bank has no subsidiary or associate (AR2022 p. 19 / AR2024 p. 16 note), so the stand-alone audited FS are the complete reporting entity."
+            },
+            "loans_gross": {
+                "v": 5.066,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 305 (Ekshibit A, 2019 comparative), financing lines before allowance",
+                "basis": "consolidated",
+                "note": "Murabahah receivables net of deferred margin (Rp1,489m): Rp5,066m before allowance of Rp264m; the only financing (then PT Bank Maybank Syariah Indonesia, in run-off)."
+            },
+            "deposits": {
+                "v": 0.001,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 306 (FS face, 2019 comparative): giro wadiah 1; dana syirkah temporer '-'",
+                "basis": "consolidated",
+                "note": "Rp1 million: the bank (PT Bank Maybank Syariah Indonesia, sold to NTI Global/BAA in Jan 2020) had run off its deposit book; reported FDR 2019 = 506,600% (AR2020 p. 16)."
+            },
+            "equity_attr": {
+                "v": 595.717,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 306-307 (2019 comparative; p. 307 scanned), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 595.717,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 306-307 (2019 comparative; p. 307 scanned), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 44.868,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 309 (Ekshibit B/2, scanned FS page), 'LABA NETO TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Profit helped by a Rp65,138m reversal of estimated losses on commitments and contingencies (AR2020 PDF p. 308). Then PT Bank Net Indonesia Syariah Tbk. No NCI: all attributable to owners."
+            },
+            "eps": {
+                "v": 5,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 309 (Ekshibit B/2, scanned), 'LABA PER SAHAM DASAR (nilai penuh) 5'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "44,868 / 8,193,072,560 = Rp5.48, printed rounded to whole rupiah (AR2021 PDF p. 453 gives the 8,193,072,560 weighted shares). Pre-IPO share count after the July 2020 par-value changes."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2021/07/Ringkasan-Risalah-RUPST-29-Juli-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-07-29",
+                "loc": "PDF p. 2, Ringkasan Risalah RUPST 29 Jul 2021, agenda 2 ('Tidak melakukan pembayaran Dividen dan akan menjadikan seluruh porsi Laba Bersih Perseroan menjadi Laba Ditahan')",
+                "basis": "n/a",
+                "note": "No dividend out of FY2020 profit (retained to reduce the accumulated deficit from sharia activities); no interim dividend either. No dividend record."
+            },
+            "total_assets": {
+                "v": 721.397,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 305 (Ekshibit A, FS face), 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 0.054,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 305 (Ekshibit A, FS face), financing lines before allowance",
+                "basis": "consolidated",
+                "note": "Murabahah receivables net of deferred margin Rp2m: Rp54m (Rp juta 54) before allowance of Rp2m; the only financing. FDR 0.13% (= 54 / 40,167)."
+            },
+            "deposits": {
+                "v": 40.167,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 306 (FS face): giro wadiah 5 + 'Total dana syirkah temporer' 40,162",
+                "basis": "consolidated",
+                "note": "Giro mudharabah 40,062 + deposito mudharabah 100 + giro wadiah 5 (Rp juta); excludes 'Simpanan dari bank lain' 4. AR2020 PDF p. 120 prints DPK realisation 40.167."
+            },
+            "equity_attr": {
+                "v": 641.274,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 306-307 (Ekshibit A/2-A/3, FS face; p. 307 scanned), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 641.274,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 306-307 (Ekshibit A/2-A/3, FS face; p. 307 scanned), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 8193072560,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 307 (Ekshibit A/3, scanned FS page), 'Modal ditempatkan dan disetor penuh - 8.193.072.560 saham'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Before the IPO (shares listed 1 Feb 2021). Par value Rp100 after the pre-listing par changes of July 2020 (945,069 shares of Rp866,928.50 -> 4,096,536,280 of Rp200 -> 8,193,072,560 of Rp100; AR2020 PDF pp. 180-183)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed at 31 Dec 2020: the IPO shares (ticker BANK) were first listed on IDX on 1 Feb 2021 (AR2021 PDF p. 19; AR2025 PDF p. 155). No year-end price exists."
+            },
+            "roe": {
+                "v": 7.07,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit after tax / average month-end core capital (prospectus 2022 p. 14, footnote 3)."
+            },
+            "roa": {
+                "v": 6.19,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'Return on Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit before tax / average month-end total assets (PMHMETD I prospectus 2022 p. 14, footnote 2)."
+            },
+            "nim": {
+                "v": 4.69,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Net Imbalan (NI) - the sharia NIM analogue (net margin/profit-share income after third-party share / average earning assets). NOM printed separately."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / cost-of-financing ratio in AR2020 (checked: ratio table PDF p. 16, MD&A) or in the year-end OJK published report."
+            },
+            "npl_gross": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'NPF Gross'",
+                "basis": "bank_only",
+                "note": "Financing of only Rp54m, all current."
+            },
+            "npl_net": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'NPF Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: the AR ratio table and the year-end OJK published report (old template) have no PKR/financing-at-risk line; PKR first appears in the 2026 report template (9M2026: 6.66%)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2020 prints CKPN as % of earning assets, not CKPN/NPF (checked ratio table, MD&A)."
+            },
+            "ldr": {
+                "v": 0.13,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR = financing / DPK (excl. deposits from banks). Real 0.13%: financing Rp54m against DPK Rp40.2bn (below the validator's 30% bound)."
+            },
+            "car": {
+                "v": 329.09,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR), credit + market + operational risk, OJK formula. Real value above the validator's 80% bound: equity of Rp0.64tn against a small risk-weighted balance sheet (KBMI 1 digital bank after IPO/rights/private placement)."
+            },
+            "cir": {
+                "v": 51.64,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan Penting, 2020 column 'Cost to Revenue Ratio (CIR) 51,64'",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed (OJK sharia formula, different from BOPO). AR2020's own ratio table has no CIR line."
+            },
+            "bopo": {
+                "v": 56.16,
+                "source_url": "https://aladinbank.id/uploads/2022/02/Laporan-Tahunan-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16, Rasio Keuangan, 'BOPO'",
+                "basis": "bank_only",
+                "note": "BOPO as printed."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2020 (checked AR2020 ratio table, MD&A fund-structure tables: amounts only; the Dec-2025 sukuk prospectus quotes CASA 14.58% for Jun 2025 only)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": -121.275,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 367 (FS), '(RUGI) LABA NETO PERIODE BERJALAN'",
+                "basis": "consolidated",
+                "note": "Loss year (first year as digital bank PT Bank Aladin Syariah Tbk). No NCI: all attributable to owners."
+            },
+            "eps": {
+                "v": -9,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 368 (FS), 'LABA PER SAHAM DASAR (nilai penuh) (9)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Weighted average 12,785,947,587 shares (AR2021 PDF p. 453): IPO shares (5,000,000,000, listed 1 Feb 2021) weighted from January."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2022/05/Risalah-RUPST-23-JUNI-2022-fin-1.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-06-23",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST 23 Jun 2022, agenda 2 ('Tidak melakukan pembayaran Dividen untuk tahun buku 2021')",
+                "basis": "n/a",
+                "note": "No dividend out of FY2021 (net loss); no interim dividend either. No dividend record."
+            },
+            "total_assets": {
+                "v": 2173.162,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 364 (FS face), 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 364 (FS face), financing lines before allowance",
+                "basis": "consolidated",
+                "note": "No financing outstanding at 31 Dec 2021: murabahah receivables '-' on the FS face (2020: Rp54m), no qardh/musyarakah. The bank was dormant while being converted into a digital bank (financing restarted in 2022); reported FDR 0.00%."
+            },
+            "deposits": {
+                "v": 1038.184,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 365 (FS face): wadiah '-' + 'Total dana syirkah temporer' 1,038,184",
+                "basis": "consolidated",
+                "note": "Tabungan mudharabah 38,184 + deposito mudharabah 1,000,000 (Rp juta). AR2021 PDF p. 183 prints 'Dana Pihak Ketiga 1.038.184'."
+            },
+            "equity_attr": {
+                "v": 1046.327,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 365-366 (FS face), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable = total equity."
+            },
+            "total_equity": {
+                "v": 1046.327,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 365-366 (FS face), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 13265756672,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 132, shareholder composition 31 Dec 2021 (AGV 7,988,245,746 + public 5,277,510,926)",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "FS issued capital 13,241,354,364 shares (AR2021 PDF p. 366) + 24,404,308 exercised warrants recorded as capital deposit (AR2022 PDF p. 470); registrar total differs from that sum by 2,000 shares."
+            },
+            "year_end_price": {
+                "v": 2290,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 19, Informasi Kinerja Saham table, 'Desember' close 2.290 ('Kurs Akhir 2.290')",
+                "share_basis": "2021-12-31",
+                "note": "First listing year (IPO at Rp103, listed 1 Feb 2021); AR2022 p. 25 prints the same December close."
+            },
+            "roe": {
+                "v": -10.1,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan Penting, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit after tax / average month-end core capital (prospectus 2022 p. 14, footnote 3). Real negative value (loss year)."
+            },
+            "roa": {
+                "v": -8.81,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan Penting, 'Return on Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit before tax / average month-end total assets (PMHMETD I prospectus 2022 p. 14, footnote 2). Real negative value (loss year)."
+            },
+            "nim": {
+                "v": 2.96,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan Penting, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Net Imbalan (NI) - the sharia NIM analogue (net margin/profit-share income after third-party share / average earning assets). NOM printed separately."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / cost-of-financing ratio in AR2021 (checked: ratio table PDF p. 18, MD&A) or in the year-end OJK published report."
+            },
+            "npl_gross": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan Penting, 'NPF Gross'",
+                "basis": "bank_only",
+                "note": "No financing outstanding at 31 Dec 2021, NPF reported as 0.00."
+            },
+            "npl_net": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan Penting, 'NPF Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: the AR ratio table and the year-end OJK published report (old template) have no PKR/financing-at-risk line; PKR first appears in the 2026 report template (9M2026: 6.66%)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2021 prints CKPN as % of earning assets, not CKPN/NPF (checked ratio table, MD&A)."
+            },
+            "ldr": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan Penting, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR = financing / DPK (excl. deposits from banks). Real 0.00%: no financing outstanding at 31 Dec 2021 (below the validator's 30% bound)."
+            },
+            "car": {
+                "v": 390.5,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan Penting, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR), credit + market + operational risk, OJK formula. Real value above the validator's 80% bound: equity of Rp1.05tn against a small risk-weighted balance sheet (KBMI 1 digital bank after IPO/rights/private placement)."
+            },
+            "cir": {
+                "v": 411.22,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan Penting, 'Cost to Revenue Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed (OJK sharia formula, different from BOPO). Real value above the validator's 150% bound (loss years with a small income base)."
+            },
+            "bopo": {
+                "v": 428.4,
+                "source_url": "https://aladinbank.id/uploads/2022/04/2804-AR-ALADIN-2021_fin_28042022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, Rasio-Rasio Keuangan Penting, 'BOPO'",
+                "basis": "bank_only",
+                "note": "BOPO as printed. Real value above the validator's 200% bound (loss year)."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2021 (checked AR2021 ratio table, MD&A fund-structure tables: amounts only; the Dec-2025 sukuk prospectus quotes CASA 14.58% for Jun 2025 only)."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": -264.913,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 404 (FS), 'RUGI TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Loss year (largest). No NCI: all attributable to owners."
+            },
+            "eps": {
+                "v": -20,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 405 (FS), 'LABA PER SAHAM DASAR (nilai penuh) (20)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Weighted average 13,545,283,972 shares (AR2022 PDF p. 494): rights issue (504,264,065 shares, June 2022) weighted for half a year; the 850,000,000 PMTHMETD shares of 29 Dec 2022 not counted."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2023/05/Risalah-RUPST-21-Juni-2023_bhs.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-06-21",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST 21 Jun 2023, agenda 2 ('Tidak melakukan pembayaran Dividen untuk tahun buku 2022')",
+                "basis": "n/a",
+                "note": "No dividend out of FY2022 (net loss); no interim dividend either. No dividend record."
+            },
+            "total_assets": {
+                "v": 4733.401,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 402 (FS face), 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1376.864,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 402 (FS face), financing lines before allowance",
+                "basis": "consolidated",
+                "note": "Murabahah 826,998 + qardh 549,866 (Rp juta, before allowance); no musyarakah yet. FDR check: 1,376,864 / 794,650 = 173.27% = reported FDR."
+            },
+            "deposits": {
+                "v": 794.65,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 403 (FS face): 'Simpanan wadiah' 1 + 'Total dana syirkah temporer' 794,649",
+                "basis": "consolidated",
+                "note": "DPK = wadiah + temporary syirkah funds (tabungan 116,306 + deposito 678,343). FDR 173.27% = 1,376,864 / 794,650."
+            },
+            "equity_attr": {
+                "v": 3143.276,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 403 (FS face), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable = total equity. Includes capital deposit funds Rp1,363,862m (PMTHMETD Rp1,190,000m + AGV Rp170,000m + warrants exercised but not yet notarised Rp3,862m; AR2022 PDF p. 469-470)."
+            },
+            "total_equity": {
+                "v": 3143.276,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 403 (FS face), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 14655617601,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 131, 'Kepemilikan Saham Bank Aladin Syariah per 31 Desember 2022'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "AGV 7,865,630,746 + PT BNC Technologies Ventures 850,000,000 + public 5,939,986,855. FS issued capital 13,770,509,989 shares (AR2022 PDF p. 403) excludes the PMTHMETD shares (capital deposit) and 35,107,612 exercised-but-unnotarised warrant shares. AGM 21 Jun 2023 counted 14,655,628,317 voting shares."
+            },
+            "year_end_price": {
+                "v": 1415,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 26, share table 2022, row 12 (December) close 1.415",
+                "share_basis": "2022-12-31",
+                "note": "AR2023 p. 22 prints the same."
+            },
+            "roe": {
+                "v": -8.5,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 22, Rasio-Rasio Keuangan Penting, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit after tax / average month-end core capital (prospectus 2022 p. 14, footnote 3). Real negative value (loss year)."
+            },
+            "roa": {
+                "v": -10.85,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 22, Rasio-Rasio Keuangan Penting, 'Return on Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit before tax / average month-end total assets (PMHMETD I prospectus 2022 p. 14, footnote 2). Real value below the validator's -10% bound: pre-tax loss of Rp264.9bn in the year total assets grew from Rp2.17tn to Rp4.73tn (the ratio uses average month-end assets; most of the 2022 capital arrived in June and December)."
+            },
+            "nim": {
+                "v": 3.36,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 22, Rasio-Rasio Keuangan Penting, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Net Imbalan (NI) - the sharia NIM analogue (net margin/profit-share income after third-party share / average earning assets). NOM printed separately."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / cost-of-financing ratio in AR2022 (checked: ratio table PDF p. 22, MD&A) or in the year-end OJK published report."
+            },
+            "npl_gross": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2023/03/Laporan-Publikasi-Tahunan-31-Desember-2022-PT-Bank-Aladin-Syariah-Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Single-page published report 31 Dec 2022, 'Laporan Rasio Keuangan' row 5 'Non Performing Financing (NPF) gross 0,00'",
+                "basis": "bank_only",
+                "note": "No non-performing financing at year end. AR2022 ratio table (PDF p. 22) prints '-' for NPF gross; the published report prints 0,00."
+            },
+            "npl_net": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2023/03/Laporan-Publikasi-Tahunan-31-Desember-2022-PT-Bank-Aladin-Syariah-Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Same report, row 6 'Non Performing Financing (NPF) net 0,00'",
+                "basis": "bank_only",
+                "note": "AR2022 prints '-'."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: the AR ratio table and the year-end OJK published report (old template) have no PKR/financing-at-risk line; PKR first appears in the 2026 report template (9M2026: 6.66%)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2022 prints CKPN as % of earning assets, not CKPN/NPF (checked ratio table, MD&A)."
+            },
+            "ldr": {
+                "v": 173.27,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 22, Rasio-Rasio Keuangan Penting, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR = financing / DPK (excl. deposits from banks). Real 173.27% (above the validator's 160% bound): financing restarted with Rp1.38tn while DPK was only Rp0.79tn; funded by equity (Rp3.1tn) and Rp684bn sukuk/securities issued."
+            },
+            "car": {
+                "v": 189.28,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 22, Rasio-Rasio Keuangan Penting, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR), credit + market + operational risk, OJK formula. Real value above the validator's 80% bound: equity of Rp3.14tn against a small risk-weighted balance sheet (KBMI 1 digital bank after IPO/rights/private placement)."
+            },
+            "cir": {
+                "v": 385.11,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 22, Rasio-Rasio Keuangan Penting, 'Cost to Revenue Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed (OJK sharia formula, different from BOPO). Real value above the validator's 150% bound (loss years with a small income base)."
+            },
+            "bopo": {
+                "v": 354.75,
+                "source_url": "https://aladinbank.id/uploads/2023/05/AR-ALADIN-22-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 22, Rasio-Rasio Keuangan Penting, 'BOPO'",
+                "basis": "bank_only",
+                "note": "BOPO as printed. Real value above the validator's 200% bound (loss year)."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2022 (checked AR2022 ratio table, MD&A fund-structure tables: amounts only; the Dec-2025 sukuk prospectus quotes CASA 14.58% for Jun 2025 only)."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": -226.738,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 405 (FS), 'RUGI TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Loss year. No NCI: all attributable to owners."
+            },
+            "eps": {
+                "v": -16,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 406 (FS), 'LABA PER SAHAM DASAR (nilai penuh) (16)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Weighted average 13,813,658,645 shares (AR2023 PDF p. 503), excluding the 850,000,000 PMTHMETD shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2024/05/Ringkasan-Risalah-RUPST.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-06-26",
+                "loc": "PDF p. 3, Ringkasan Risalah RUPST 26 Jun 2024, agenda 2 ('Tidak melakukan pembayaran Dividen untuk tahun buku 2023')",
+                "basis": "n/a",
+                "note": "No dividend out of FY2023 (net loss); no interim dividend either. No dividend record."
+            },
+            "total_assets": {
+                "v": 7092.12,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 403 (FS face), 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 3102.309,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 403 (FS face), financing lines before allowance",
+                "basis": "consolidated",
+                "note": "Murabahah 814,569 + qardh 823,362 + musyarakah 1,464,378 (Rp juta, before allowance); 3Q25 deck p. 6 'Financing Dec-23 3,102,309'. (AR2025 p. 21 segment table shows 3,056,199 for 2023 = the NET amount; not used.)"
+            },
+            "deposits": {
+                "v": 3255,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 404 (FS face): 'Simpanan wadiah' 1 + 'Total dana syirkah temporer' 3,254,999",
+                "basis": "consolidated",
+                "note": "DPK = wadiah deposits + temporary syirkah funds (tabungan 510,651 + deposito 2,744,348), Rp juta. FDR 95.31% = 3,102,309 / 3,255,000."
+            },
+            "equity_attr": {
+                "v": 3085.241,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 404 (FS face), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable = total equity. Includes capital deposit funds Rp1,512,501m."
+            },
+            "total_equity": {
+                "v": 3085.241,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 404 (FS face), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 14768390017,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 134, shareholder composition '31 DESEMBER 2023'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Registrar count incl. the 850,000,000 PMTHMETD shares; FS issued capital 13,918,379,517 shares (AR2023 PDF p. 404). AR2023's share table prints 14,621,833,840 for Dec 2023 (not used, see research_notes)."
+            },
+            "year_end_price": {
+                "v": 1240,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23, share table 2023, row 12 Desember close 1.240",
+                "share_basis": "2023-12-31",
+                "note": "AR2024 p. 21 prints the same."
+            },
+            "roe": {
+                "v": -7.55,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Rasio-Rasio Keuangan Penting, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit after tax / average month-end core capital (prospectus 2022 p. 14, footnote 3). Real negative value (loss year)."
+            },
+            "roa": {
+                "v": -4.22,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Rasio-Rasio Keuangan Penting, 'Return on Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit before tax / average month-end total assets (PMHMETD I prospectus 2022 p. 14, footnote 2). Real negative value (loss year)."
+            },
+            "nim": {
+                "v": 4.56,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Rasio-Rasio Keuangan Penting, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Net Imbalan (NI) - the sharia NIM analogue (net margin/profit-share income after third-party share / average earning assets). NOM printed separately."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / cost-of-financing ratio in AR2023 (checked: ratio table PDF p. 21, MD&A) or in the year-end OJK published report."
+            },
+            "npl_gross": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2024/04/Laporan-Publikasi-31-Des-2023-BAS.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Single-page published report 31 Dec 2023, 'Laporan Rasio Keuangan' row 5 'Non Performing Financing (NPF) gross 0,00'",
+                "basis": "bank_only",
+                "note": "No non-performing financing at year end. AR2023 ratio table (PDF p. 21) prints '-' for NPF gross; the published report prints 0,00. 3Q25 deck p. 6 also shows Dec-23 NPF gross 0.00%."
+            },
+            "npl_net": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2024/04/Laporan-Publikasi-31-Des-2023-BAS.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Same report, row 6 'Non Performing Financing (NPF) net 0,00'",
+                "basis": "bank_only",
+                "note": "AR2023 prints '-'."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: the AR ratio table and the year-end OJK published report (old template) have no PKR/financing-at-risk line; PKR first appears in the 2026 report template (9M2026: 6.66%)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2023 prints CKPN as % of earning assets, not CKPN/NPF (checked ratio table, MD&A)."
+            },
+            "ldr": {
+                "v": 95.31,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Rasio-Rasio Keuangan Penting, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR = financing / DPK (excl. deposits from banks)."
+            },
+            "car": {
+                "v": 96.17,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Rasio-Rasio Keuangan Penting, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR), credit + market + operational risk, OJK formula. Real value above the validator's 80% bound: equity of Rp3.09tn against a small risk-weighted balance sheet (KBMI 1 digital bank after IPO/rights/private placement)."
+            },
+            "cir": {
+                "v": 186.04,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Rasio-Rasio Keuangan Penting, 'Cost to Revenue Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed (OJK sharia formula, different from BOPO). Real value above the validator's 150% bound (loss years with a small income base)."
+            },
+            "bopo": {
+                "v": 128.65,
+                "source_url": "https://aladinbank.id/uploads/2024/04/AR-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Rasio-Rasio Keuangan Penting, 'BOPO'",
+                "basis": "bank_only",
+                "note": "BOPO as printed."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2023 (checked AR2023 ratio table, MD&A fund-structure tables: amounts only; the Dec-2025 sukuk prospectus quotes CASA 14.58% for Jun 2025 only)."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": -73.727,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 493 (FS), 'RUGI TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Loss year (no tax). No NCI: all attributable to owners."
+            },
+            "eps": {
+                "v": -5,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 494 (FS), 'RUGI PER SAHAM DASAR (nilai penuh) (5)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Weighted average 13,918,463,517 shares (AR2024 PDF p. 585), FS count excluding the 850,000,000 PMTHMETD shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2025/06/Ringkasan-RIsalah-RUPST-19-Juni-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-19",
+                "loc": "PDF p. 3 (scanned notary summary), RUPST 19 Jun 2025, 'Mata Acara Rapat Kedua: Tidak melakukan pembayaran Dividen untuk tahun buku 2024'",
+                "basis": "n/a",
+                "note": "No dividend out of FY2024 (net loss); no interim dividend either. No dividend record."
+            },
+            "total_assets": {
+                "v": 9362.085,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 491 (FS face), 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 4749.053,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 491 (FS face), financing lines before allowance",
+                "basis": "consolidated",
+                "note": "Murabahah 44,692 + qardh 603,995 + musyarakah 4,100,366 (Rp juta, before allowance). AR2025 p. 21 prints the same total 4,749,053; 3Q25 deck p. 6 'Financing Dec-24 4,749,053'."
+            },
+            "deposits": {
+                "v": 5414.039,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Ikhtisar Keuangan chart 'Dana Pihak Ketiga' (2024: 5.414.039)",
+                "basis": "consolidated",
+                "note": "AR DPK = wadiah 5,073 + temporary syirkah funds 5,410,031 (AR2024 FS p. 492) less Rp1,065m placed by banks; the 9M2025 OJK report's 31 Dec 2024 column prints the same split (wadiah 5,073 + mudharabah 5,408,966; liabilities to other banks 1,065). FDR 87.72% = 4,749,053 / 5,414,039."
+            },
+            "equity_attr": {
+                "v": 3138.593,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 492 (FS face), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable = total equity. Includes capital deposit funds Rp1,635,502m (PMTHMETD Rp1,190bn + AGV injections Rp445.5bn), see research_notes."
+            },
+            "total_equity": {
+                "v": 3138.593,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 492 (FS face), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 14768496865,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 148, 'Kepemilikan Saham ... Akhir Tahun 2024' (31 Desember 2024)",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Registrar count incl. the 850,000,000 PMTHMETD shares; FS issued capital 13,918,476,817 shares (AR2024 PDF p. 492). The AGM of 26 Jun 2024 counted 14,768,476,817 voting shares. AR2024's monthly share table (p. 21) prints a lower 'Jumlah Saham Tercatat' 14,621,940,688 for Dec 2024 - inconsistent with the registrar table; not used."
+            },
+            "year_end_price": {
+                "v": 825,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 21, share table 2024, Desember 'Akhir' 825",
+                "share_basis": "2024-12-31"
+            },
+            "roe": {
+                "v": -2.43,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19-20, Rasio-Rasio Keuangan Penting, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit after tax / average month-end core capital (prospectus 2022 p. 14, footnote 3). Real negative value (loss year)."
+            },
+            "roa": {
+                "v": -0.9,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19-20, Rasio-Rasio Keuangan Penting, 'Return on Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit before tax / average month-end total assets (PMHMETD I prospectus 2022 p. 14, footnote 2). Real negative value (loss year)."
+            },
+            "nim": {
+                "v": 4.42,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19-20, Rasio-Rasio Keuangan Penting, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Net Imbalan (NI) - the sharia NIM analogue (net margin/profit-share income after third-party share / average earning assets). NOM printed separately."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / cost-of-financing ratio in AR2024 (checked: ratio table PDF p. 19-20, MD&A) or in the year-end OJK published report."
+            },
+            "npl_gross": {
+                "v": 0.04,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19-20, Rasio-Rasio Keuangan Penting, 'NPF Gross'",
+                "basis": "bank_only",
+                "note": "First non-performing financing since the relaunch."
+            },
+            "npl_net": {
+                "v": 0.03,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19-20, Rasio-Rasio Keuangan Penting, 'NPF Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: the AR ratio table and the year-end OJK published report (old template) have no PKR/financing-at-risk line; PKR first appears in the 2026 report template (9M2026: 6.66%)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2024 prints CKPN as % of earning assets, not CKPN/NPF (checked ratio table, MD&A)."
+            },
+            "ldr": {
+                "v": 87.72,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19-20, Rasio-Rasio Keuangan Penting, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR = financing / DPK (excl. deposits from banks)."
+            },
+            "car": {
+                "v": 64.96,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19-20, Rasio-Rasio Keuangan Penting, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR), credit + market + operational risk, OJK formula."
+            },
+            "cir": {
+                "v": 110.98,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19-20, Rasio-Rasio Keuangan Penting, 'Cost to Revenue Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed (OJK sharia formula, different from BOPO)."
+            },
+            "bopo": {
+                "v": 109.29,
+                "source_url": "https://aladinbank.id/uploads/2025/04/Laporan-Tahunan-Aladin-2024-Final_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19-20, Rasio-Rasio Keuangan Penting, 'BOPO'",
+                "basis": "bank_only",
+                "note": "BOPO as printed."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2024 (checked AR2024 ratio table, MD&A fund-structure tables: amounts only; the Dec-2025 sukuk prospectus quotes CASA 14.58% for Jun 2025 only)."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 150.709,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 719 (Ekshibit B), 'LABA (RUGI) NETO TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Includes a deferred-tax benefit of Rp7,340m; first annual profit since the 2021 digital relaunch. No NCI: all attributable to owners."
+            },
+            "eps": {
+                "v": 11,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 720 (Ekshibit B/2, scanned) 'Dasar 11'; Note 33 PDF p. 818",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic EPS (diluted 9) on weighted-average 13,918,499,438 shares (Note 33d) - the FS share count, which excludes the 850,000,000 listed PMTHMETD shares held as capital deposit pending OJK approval."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://aladinbank.id/uploads/2026/05/Covernote-RUPST-BANK-4-Juni-2026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-04",
+                "loc": "PDF p. 3 (scanned notary cover note No. 30/CN/N/VI/2026), RUPST 4 Jun 2026, 'Mata Acara Rapat Kedua: Tidak membagikan dividen maupun menyisihkan dana cadangan'",
+                "basis": "n/a",
+                "note": "No dividend out of FY2025 profit (retained to reduce the accumulated deficit from sharia activities); no interim dividend either. No dividend record."
+            },
+            "total_assets": {
+                "v": 14422.179,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 717 (Ekshibit A, FS face), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "The bank has no subsidiary or associate (AR2022 p. 19 / AR2024 p. 16 note), so the stand-alone audited FS are the complete reporting entity."
+            },
+            "loans_gross": {
+                "v": 5203.908,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 717 (Ekshibit A, FS face), financing lines before allowance",
+                "basis": "consolidated",
+                "note": "Murabahah receivables 49,199 + funds of qardh 508,248 + musyarakah financing 4,646,461 (Rp juta, before allowance; murabahah net of deferred margin). Same total in AR2025 p. 21 'Pembiayaan' table (5,203,908) and the 31 Dec 2025 collectibility note (PDF p. 831)."
+            },
+            "deposits": {
+                "v": 10404.958,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Ikhtisar Keuangan chart 'Dana Pihak Ketiga' (2025: 10.404.958)",
+                "basis": "consolidated",
+                "note": "AR's DPK = wadiah deposits 5,565 + temporary syirkah funds 10,399,736 less the Rp342m mudharabah giro of banks (the OJK report books that as 'Liabilitas kepada bank lain'): 9M2026 report column 31 Dec 2025 prints wadiah 5,565 + 'Dana simpanan mudarabah' 10,399,394 = 10,404,959. FS-face sum 10,405,301. FDR 50.01% = 5,203,908 / 10,404,958."
+            },
+            "equity_attr": {
+                "v": 3288.169,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 718 (Ekshibit A/2, scanned FS page), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable = total equity. Includes 'Dana setoran modal' (capital deposit funds) Rp1,635,500m: Rp1,190,000m paid for the 850,000,000 PMTHMETD shares of 29 Dec 2022 (still awaiting OJK approval, AR2025 p. 795-796), Rp170,000m (Dec 2022), Rp152,500m (2023) and Rp123,000m (2024) paid in by PT Aladin Global Ventures with no shares issued yet."
+            },
+            "total_equity": {
+                "v": 3288.169,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 718 (Ekshibit A/2, scanned FS page), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 14768500131,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 151, 'Tabel Komposisi Kepemilikan Saham' 31 Desember 2025 (also p. 23 share table, p. 24 warrant paragraph)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Registrar (BAE) count of listed shares: AGV 7,591,658,246 + public 7,176,841,885. The audited FS (Note 20, PDF p. 795) show issued capital of only 13,918,499,863 shares because the 850,000,000 shares issued to PT BNC Technologies Ventures on 29 Dec 2022 (PMTHMETD, listed on IDX 30 Dec 2022) are still booked as capital deposit funds pending OJK approval, and 268 warrant shares were not yet notarised. Market cap in the AR (p. 23) uses 14,768,500,131. No treasury shares."
+            },
+            "year_end_price": {
+                "v": 950,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23, Ikhtisar Saham table 2025, Desember close 950",
+                "share_basis": "2025-12-31"
+            },
+            "roe": {
+                "v": 4.48,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19-20, Tabel Rasio Keuangan, 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit after tax / average month-end core capital (prospectus 2022 p. 14, footnote 3)."
+            },
+            "roa": {
+                "v": 1.24,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19-20, Tabel Rasio Keuangan, 'Return on Assets (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK definition: profit before tax / average month-end total assets (PMHMETD I prospectus 2022 p. 14, footnote 2)."
+            },
+            "nim": {
+                "v": 3.53,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19-20, Tabel Rasio Keuangan, 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Net Imbalan (NI) - the sharia NIM analogue (net margin/profit-share income after third-party share / average earning assets). NOM printed separately."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / cost-of-financing ratio in AR2025 (checked: ratio table PDF p. 19-20, MD&A) or in the year-end OJK published report."
+            },
+            "npl_gross": {
+                "v": 0.22,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19-20, Tabel Rasio Keuangan, 'NPF Gross'",
+                "basis": "bank_only",
+                "note": "Audited collectibility note (AR2025 PDF p. 831): KL+D+M Rp11,354m of Rp5,203,908m."
+            },
+            "npl_net": {
+                "v": 0.15,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19-20, Tabel Rasio Keuangan, 'NPF Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: the AR ratio table and the year-end OJK published report (old template) have no PKR/financing-at-risk line; PKR first appears in the 2026 report template (9M2026: 6.66%)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: AR2025 prints CKPN as % of earning assets, not CKPN/NPF (checked ratio table, MD&A)."
+            },
+            "ldr": {
+                "v": 50.01,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19-20, Tabel Rasio Keuangan, 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "FDR = financing / DPK (excl. deposits from banks)."
+            },
+            "car": {
+                "v": 49.29,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19-20, Tabel Rasio Keuangan, 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR), credit + market + operational risk, OJK formula. Same 49.29% in audited FS Note 38 (PDF p. 830); the GCG report 2025 (p. 23) prints 49.38%."
+            },
+            "cir": {
+                "v": 75.82,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19-20, Tabel Rasio Keuangan, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed (OJK sharia formula, different from BOPO)."
+            },
+            "bopo": {
+                "v": 89.07,
+                "source_url": "https://aladinbank.id/uploads/2026/04/AR-Bank-Aladin-Syariah-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19-20, Tabel Rasio Keuangan, 'BOPO'",
+                "basis": "bank_only",
+                "note": "BOPO as printed."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio for FY2025 (checked AR2025 ratio table, MD&A fund-structure tables: amounts only; the Dec-2025 sukuk prospectus quotes CASA 14.58% for Jun 2025 only)."
+            }
+        }
+    },
+    "dividends": [],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 47.255,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), Laporan Laba Rugi, 'LABA (RUGI) BERSIH PERIODE BERJALAN' (column 30 SEP 2026)",
+                "basis": "consolidated",
+                "note": "9M2026 profit incl. deferred-tax income Rp2,845m; PBT 44,410. No subsidiaries/NCI. EPS 9M2026 Rp3.36 (report)."
+            },
+            "profit_ytd_prior": {
+                "v": 128.154,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), Laporan Laba Rugi, column 30 SEP 2025",
+                "basis": "consolidated",
+                "note": "Same figure in the 30 Sep 2025 published report and the 3Q25 deck p. 6 (PBT 128,154; no tax)."
+            },
+            "equity_attr": {
+                "v": 3322.403,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), Laporan Posisi Keuangan, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "Includes capital deposit funds Rp1,635,500m (unchanged; PMTHMETD still awaiting OJK approval)."
+            },
+            "shares_out": {
+                "v": 14939731085,
+                "source_url": "https://aladinbank.id/uploads/2026/05/Covernote-RUPST-BANK-4-Juni-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-05-12",
+                "loc": "PDF p. 2, notary summary of the AGMS of 4 Jun 2026, 'Kuorum Kehadiran' ('dari 14.939.731.085 ... saham, yang merupakan seluruh saham Perseroan dengan hak suara yang sah'); recording date 12 May 2026 per the convocation (https://aladinbank.id/uploads/2026/04/Pemanggilan-RUPST-4-Juni-2026.pdf, p. 1)",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "All listed shares after the Series I warrants expired on 30 Jan 2026 (171,230,954 shares from warrant exercises since 31 Dec 2025). Consistent with the 30 Sep 2026 report: paid-up capital Rp1,408,973m / Rp100 = ~14,089.73m FS shares + the 850,000,000 PMTHMETD shares. No treasury shares; no other issuance through 30 Sep 2026 found."
+            },
+            "total_assets": {
+                "v": 15935.345,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 5205.479,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), assets lines 8 'Piutang' (murabahah 32,771 + qardh 993,186) and 9 'Pembiayaan bagi hasil' (musyarakah 4,179,522)",
+                "basis": "consolidated",
+                "note": "Gross (allowance shown separately, line 12: 119,350). Same definition as FY: murabahah + qardh + musyarakah."
+            },
+            "loans_gross_prior": {
+                "v": 5233.8,
+                "source_url": "https://aladinbank.id/uploads/2025/10/Laporan-Publikasi-Q3-2025-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Single-page OJK published report 30 Sep 2025, assets lines 8 'Piutang' (murabahah 48,577 + qardh 582,771) and 9 (musyarakah 4,602,452)",
+                "basis": "consolidated",
+                "note": "3Q25 deck p. 6 prints 'Financing Sep-25 5,233,800'."
+            },
+            "deposits": {
+                "v": 10648.274,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), liabilities 1 'Dana simpanan wadiah' 10,104 + 2 'Dana simpanan mudarabah' 10,638,170",
+                "basis": "consolidated",
+                "note": "DPK as in the OJK report (excludes mudharabah funds of banks, booked as 'Liabilitas kepada bank lain' 2,120). FDR 48.89%."
+            },
+            "deposits_prior": {
+                "v": 8762.406,
+                "source_url": "https://aladinbank.id/uploads/2025/10/Laporan-Publikasi-Q3-2025-FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Single-page OJK published report 30 Sep 2025, liabilities 1 'Dana simpanan wadiah' 10,079 + 2 'Dana investasi non profit sharing' 8,752,327",
+                "basis": "consolidated",
+                "note": "3Q25 deck p. 6 prints 'Third Party Funds Sep-25 8,762,406'."
+            },
+            "roe": {
+                "v": 1.37,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), 'Laporan Rasio Keuangan' row 9 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "9M2025: 4.03%. OJK formula (annualised)."
+            },
+            "roa": {
+                "v": 0.38,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), 'Laporan Rasio Keuangan' row 8 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "9M2025: 1.60%."
+            },
+            "nim": {
+                "v": 1.48,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), 'Laporan Rasio Keuangan' row 10 'Net Imbalan (NI)'",
+                "basis": "bank_only",
+                "note": "Sharia NIM analogue. 9M2025: 3.87%; NOM 0.47% (9M2025 1.73%)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the 30 Sep 2026 published report (no cost-of-financing line); no 9M2026 analyst deck found on the IR site."
+            },
+            "npl_gross": {
+                "v": 0.84,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), 'Laporan Rasio Keuangan' row 5 'Non Performing Financing (NPF) gross'",
+                "basis": "bank_only",
+                "note": "NPF net 0.41% (row 6). 9M2025: 0.21% / 0.13%."
+            },
+            "lar": {
+                "v": 6.66,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), 'Laporan Rasio Keuangan' row 7 'Pembiayaan Kualitas Rendah (PKR)'",
+                "basis": "bank_only",
+                "note": "PKR (low-quality financing: special mention + restructured current + NPF), the sharia LAR analogue; first printed in the 2026 report template (9M2025 column shows 0,00 because the line did not exist then)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed: the report prints CKPN/earning assets (1.09%), not CKPN/NPF."
+            },
+            "ldr": {
+                "v": 48.89,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), 'Laporan Rasio Keuangan' row 16 'Financing to Deposit Ratio (FDR)'",
+                "basis": "bank_only",
+                "note": "9M2025: 59.73%."
+            },
+            "car": {
+                "v": 38.43,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), 'Laporan Rasio Keuangan' row 1 'Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "9M2025: 52.45%."
+            },
+            "cir": {
+                "v": 89.67,
+                "source_url": "https://aladinbank.id/uploads/2026/10/Laporan-Triwulanan-September-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "single-page OJK published report 30 Sep 2026 (unaudited, signed 26 Oct 2026), 'Laporan Rasio Keuangan' row 14 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "BOPO 95.80% (row 13). 9M2025: CIR 73.46%, BOPO 86.62%."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the 30 Sep 2026 published report (amounts only: giro 20,926 + tabungan 2,017,830 of DPK 10,648,274 Rp juta - not computed here)."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2020",
+            "reason": "Rounding, not a share-count error: FY2020 basic EPS is printed as a whole Rp5 (AR2020 FS PDF p. 309), while 44,868 / 8,193,072,560 weighted shares (AR2021 FS note, PDF p. 453) = Rp5.48. Year-end shares equal the weighted shares (no issuance in 2020 after the July 2020 pre-listing par change), so the 8.7% gap is entirely the rounding of a small EPS."
+        },
+        {
+            "check": "eps_shares:2022",
+            "reason": "Real: FY2022 basic EPS Rp(20) uses weighted-average 13,545,283,972 shares (AR2022 FS note, PDF p. 494: (264,913) / 13,545,283,972 = (19.56)). shares_out is the registrar year-end count 14,655,617,601 (AR2022 PDF p. 131), which includes the 504,264,065 rights shares issued in June 2022 for the full year and the 850,000,000 PMTHMETD shares issued to PT BNC Technologies Ventures on 29 Dec 2022, which the FS keep out of share capital (booked as capital deposit funds pending OJK approval, FS Note 20)."
+        },
+        {
+            "check": "eps_shares:2023",
+            "reason": "Real: FY2023 basic EPS Rp(16) uses weighted-average 13,813,658,645 FS shares (AR2023 FS note, PDF p. 503: (226,738) / 13,813,658,645 = (16.41)), which exclude the 850,000,000 listed PMTHMETD shares still booked as capital deposit funds pending OJK approval (AR2023 FS Note 22). shares_out = registrar count 14,768,390,017 incl. those shares (AR2023 PDF p. 134)."
+        },
+        {
+            "check": "eps_shares:2025",
+            "reason": "Real: FY2025 basic EPS Rp11 uses weighted-average 13,918,499,438 FS shares (AR2025 FS Note 33d, PDF p. 818: 150,709 / 13,918,499,438 = 10.83), which exclude the 850,000,000 PMTHMETD shares listed on IDX since 30 Dec 2022 but still booked as capital deposit funds awaiting OJK approval (FS Note 20, PDF p. 795-796). shares_out = registrar/listed count 14,768,500,131 (AR2025 PDF p. 151), the count the AR uses for market capitalisation (p. 23). 150,709 / 14,768,500,131 = Rp10.2 would round to 10."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: every document is the bank's own file on https://aladinbank.id/uploads/... (WordPress), fetched directly with curl and a browser User-Agent; no bot protection on the PDF paths (the /hubungan-investor URL and the WP REST API are blocked/restricted, not needed). The IR pages (/laporan-tahunan/, /laporan-triwulan/, /rapat-umum-pemegang-saham/, /prospektus/, /keterbukaan-informasi/) link only AR2023-AR2025; the AR2019-AR2022 file URLs were found in the Internet Archive CDX index of aladinbank.id/uploads/ and are still live on the bank's server (downloaded from there, not from the archive). FS pages that are scanned images (AR2025 PDF pp. 718, 720; AR2020 PDF pp. 307, 309; AGM summaries 2025/2026; the 31 Dec 2025 published report) were read from rendered page images.",
+        "ENTITY / NAME HISTORY: founded 1994 as PT Bank Maybank Nusa International -> PT Bank Maybank Indocorp (2000) -> PT Bank Maybank Syariah Indonesia (2010, sharia commercial bank, in run-off by 2019) -> acquired by PT NTI Global Indonesia (70%) and PT Berkah Anugerah Abadi (30%) on 31 Jan 2020 -> renamed PT Bank Net Indonesia Syariah (6 Jul 2020) -> IPO 1 Feb 2021 as 'BANK' -> renamed PT Bank Aladin Syariah Tbk in 2021 (AR2020 PDF p. 13; AR2021 FS header 'dahulu PT Bank Net Indonesia Syariah Tbk'). Controlling shareholder PT Aladin Global Ventures (formerly PT NTI Global Indonesia): 54.54% of FS shares / 51.40% of listed shares at end-2025. The bank has no subsidiaries or associates, so its stand-alone audited FS are the complete reporting entity; money figures are tagged 'consolidated' for that reason and all ratios (computed by the bank under OJK rules) 'bank_only' - there is no other basis. AR2022 is the June-2023 file AR-ALADIN-22-1.pdf; an earlier May-2023 upload (Annual-Report-2022.pdf, 496 pp.) exists with the same figures.",
+        "CORPORATE ACTIONS 2019-2026 (complete list checked against the AR2025 listing chronology PDF pp. 155-157 and AR2021-AR2025 'Aksi Korporasi' sections): (1) IPO 1 Feb 2021: 5,000,000,000 new shares at Rp103 (OJK effective 22 Jan 2021) with 2,800,000,000 free Series I warrants (exercise Rp110, 2 Aug 2021 - 30 Jan 2026). (2) RIGHTS ISSUE PMHMETD I, ex-date 18 May 2022, 100,000 : 12,505 at Rp2,000, 504,264,065 shares taken up - the ONLY rights issue; the one record in corporate_actions. (3) PMTHMETD (private placement, no pre-emptive rights) 29 Dec 2022: 850,000,000 new shares at Rp1,400 to PT BNC Technologies Ventures (Rp1,190bn), listed 30 Dec 2022 - not a split/rights/bonus, so not in corporate_actions. (4) Series I warrant exercises 2021-Jan 2026: 221,164,006 by end-2025 (AR2025 p. 157) plus 171,230,954 in Jan 2026 before expiry (14,768,500,131 -> 14,939,731,085 voting shares at the 12 May 2026 record date). (5) Capital injections by AGV without new shares, booked as 'dana setoran modal': Rp170bn (28 Dec 2022), Rp152.5bn (2023), Rp123bn (2024). No split, reverse split or bonus issue after listing; no stock dividend (AR2024 p. 22, AR2025 p. 24). The brief's 'several rights issues 2021-2023' could not be confirmed: the 14 Oct 2021 summary prospectus (https://aladinbank.id/uploads/2022/03/Prospektus-Ringkas-PMHMETD-I-Aladin-Bank-14-Oktober-2021.pdf; provisional recording date 7 Dec 2021, price not yet set) was the same PMHMETD I, executed only in May-June 2022.",
+        "PRE-LISTING PAR-VALUE CHANGES (July 2020, NOT recorded as corporate actions): circular shareholder resolutions of 6 Jul 2020 (Deed No. 26) changed the par value from Rp866,928.50 to Rp200 (945,069 -> 4,096,536,280 shares, plus a Rp5,433.50 capital top-up) and of 14 Jul 2020 (Deed No. 53) from Rp200 to Rp100 (-> 8,193,072,560 shares) (AR2020 PDF pp. 180-183; FS2020 face PDF p. 307 shows 945,069 shares of Rp866,928.50 at end-2019). These are share subdivisions of an unlisted company with no exchange ex-date, no price history before 1 Feb 2021 and no stored per-share value on the old basis (FY2019 holds only balance-sheet levels; FY2019 EPS Rp69,259 is not stored). A reviewer may decide otherwise; adding them would change nothing on the page.",
+        "SHARE COUNT - TWO NUMBERS: the audited FS show 'modal ditempatkan dan disetor penuh' of 13,918,499,863 shares (end-2025) because the 850,000,000 PMTHMETD shares, although notarised (Deed No. 32, 17 Jan 2023) and listed since 30 Dec 2022, are kept in 'dana setoran modal' until OJK approves the capital increase (still pending in the 31 Mar 2026 FS and the 30 Sep 2026 report). The share registrar (BAE) tables in each AR, the AGM quorum counts and the AR market-cap figures use the listed count incl. those shares (14,768,500,131 end-2025). shares_out stores the listed/registrar count (what trades and what equity incl. the Rp1.19tn deposit belongs to); EPS is stored as printed (FS count), hence the eps_shares acks for 2022, 2023 and 2025. AR2023/AR2024 monthly share tables print 'Jumlah Saham Tercatat' about 146.6m below the registrar tables for 2023-2024 (e.g. 14,621,940,688 vs 14,768,496,865 at Dec 2024); the AR2025 table jumps to 14,768,498,265 in Jan 2025. Treated as a table error; registrar figures used.",
+        "SHARIA DEFINITIONS: loans_gross = gross financing = murabahah receivables (net of deferred margin, before allowance) + funds of qardh + musyarakah financing, matching the 3Q25 deck 'Financing' and the AR2025 'Pembiayaan' total. deposits = DPK = wadiah deposits + temporary syirkah funds (mudharabah giro/tabungan/deposito); for 2024-2025 the AR's DPK figure (which, like the OJK published report, excludes mudharabah funds placed by banks: Rp1,065m / Rp342m) is used - the FDR denominators. Temporary syirkah funds are not liabilities or equity on the FS face. nim = Net Imbalan (NI); npl_* = NPF; lar = PKR (only from the 2026 report template); car = KPMM.",
+        "LOSS YEARS AND OUT-OF-RANGE VALUES ARE REAL: net losses FY2021 Rp121.3bn, FY2022 Rp264.9bn, FY2023 Rp226.7bn, FY2024 Rp73.7bn (negative EPS/ROE/ROA as reported); FY2020 profit Rp44.9bn was largely a one-off reversal of contingency provisions; FY2025 profit Rp150.7bn. Validator range warnings are genuine: FDR 0.13% (2020) and 0.00% (2021, no financing at all while the bank relaunched as a digital bank), FDR 173.27% (2022, financing restarted faster than deposits), CAR 329-390% (2020-2021) and 96-189% (2022-2023) after the IPO/rights/private placement, CIR 186-411% and BOPO 355-428% in 2021-2023, ROA -10.85% (2022). Do not 'fix' them.",
+        "DIVIDENDS: none. The AGMs for FY2020 (29 Jul 2021: profit retained against the accumulated deficit), FY2021, FY2022, FY2023, FY2024 (19 Jun 2025) and FY2025 (4 Jun 2026) all resolved not to pay a dividend (payout_ratio v 0 each year with the AGM source); no interim dividend was ever declared. The bank still carries an accumulated deficit from sharia activities (Rp744.2bn end-2025; Rp667.4bn at 30 Sep 2026).",
+        "PRICES: year_end_price = December close in each AR's share table (2,290 / 1,415 / 1,240 / 825 / 950 for 2021-2025). FY2020 is null (not yet listed). No split after listing, so share_basis = period end everywhere. The rights issue's exercise price (Rp2,000) was above the market price at the ex-date, so any rights factor a price vendor applies to May 2022 should be ~1; the PMTHMETD private placement and warrant exercises are not price adjustments. BANK traded far above its Rp103 IPO price in 2021 (high Rp3,980 Aug 2021); IDX suspended the stock 16 Mar - 5 Apr 2021 for an unusual price rise (AR2021 p. 20).",
+        "RESTATEMENTS / DISCREPANCIES: no restatement of FY2019-FY2025 figures found (each FS comparative equals the prior year's audited number; AR highlight tables agree). Minor inconsistencies noted, not used: AR2025 segment table p. 21 gives 2023 financing 3,056,199 (net) vs FS gross 3,102,309; AR2024 reclassifies 2023 'estimated losses on commitments' out of other liabilities (total liabilities unchanged); FY2025 KPMM 49.29% (AR + FS Note 38) vs 49.38% in the 2025 governance report; AR2025 p. 24 calls the cumulative 221,164,006 warrant shares the '2025' conversions (the registrar tables show only +3,266 shares in 2025: 14,768,496,865 -> 14,768,500,131; p. 24 itself says 14,768,498,865 at 1 Jan 2025); 1 Jan 2024 registrar count 14,768,420,517 vs 31 Dec 2023 14,768,390,017.",
+        "INTERIM: 9M2026 from the single-page OJK published report of 30 Sep 2026 (unaudited, signed 26 Oct 2026); prior-year loans/deposits from the 30 Sep 2025 report. No full interim FS with notes or 3Q2026 analyst deck is on the IR site as of 3 Nov 2026. 9M2026 profit Rp47.3bn (-63% YoY) with NPF gross up to 0.84% and PKR 6.66%; CAR 38.43%. shares_out = 14,939,731,085 listed shares (AGMS 4 Jun 2026 quorum count, record date 12 May 2026), after warrant expiry; consistent with paid-up capital Rp1,408,973m + the 850m PMTHMETD shares.",
+        "NULLS: coc, npl_coverage and casa are not disclosed by BANK in any FY source (AR ratio tables, MD&A, year-end OJK reports, 3Q25 deck); lar is null for FY2020-FY2025 because PKR appears only in the 2026 report template. year_end_price FY2020 null (not listed). Nothing was computed from components."
+    ]
+}

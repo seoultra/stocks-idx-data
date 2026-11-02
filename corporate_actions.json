@@ -54,6 +54,20 @@
             "note": "PMHMETD II (Penawaran Umum Terbatas II): every holder of 579 shares on the 8 Mar 2021 register received 160 rights; 1 right = 1 new share (nominal Rp100) at Rp2,350. EGM 5 Oct 2020; OJK effective 24 Feb 2021; cum (regular & negotiated) 4 Mar 2021, ex 5 Mar 2021; cash-market ex 9 Mar 2021; rights listed/traded/exercised 10-17 Mar 2021; allotment 22 Mar 2021. Shareholder commitments by MEI, PT Dompet Karya Anak Bangsa (Gojek) and WTT; GIC took up rights transferred from MEI/DKAB. 3,000,000,000 new shares (10,856,250,000 -> 13,856,250,000; AR2021 PDF p. 17, AR2025 PDF p. 93); gross Rp7,050bn, net Rp7,033bn (AR2025 PDF p. 131). Short prospectus of 26 Feb 2021 (https://assets.jago.com/web-assets/public/Prospektus-PUT-II-Bank-Jago-2021-(1).pdf) prints the same schedule. Not a split: no per-share adjustment factor."
         },
         {
+            "code": "BANK",
+            "type": "rights",
+            "ratio_old": 100000,
+            "ratio_new": 12505,
+            "ex_date": "2022-05-18",
+            "exercise_price": 2000,
+            "source_url": "https://aladinbank.id/uploads/2022/03/Prospektus-PMHMETD-I-Aladin-Bank-28-April-2022.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-04-28",
+            "loc": "Prospektus PMHMETD I (OJK effective 28 Apr 2022), PDF p. 1 'JADWAL' ('Tanggal Mulai Perdagangan Saham Tanpa HMETD (Ex-Right) - Pasar Reguler dan Pasar Negosiasi: 18 Mei 2022'; cum 17 May 2022; recording date 19 May 2022) and cover paragraph ('Setiap pemegang 100.000 Saham Lama ... berhak memperoleh 12.505 HMETD ... Harga Pelaksanaan sebesar Rp2.000'); PDF p. 11 'Rasio HMETD: 100.000 : 12.505'",
+            "note": "PMHMETD I (Penawaran Umum Terbatas I). Up to 1,999,933,723 new shares (nominal Rp100) at Rp2,000; EGMS approval 28 May 2021; HMETD trading/exercise 23 May - 7 Jun 2022, allotment 10 Jun 2022; no standby buyer, and controlling shareholder PT Aladin Global Ventures (60.21%) sold its rights in the market. Same schedule in the 9 May 2022 Informasi Tambahan (https://aladinbank.id/uploads/2022/03/Prospektus-Ringkas-Informasi-Tambahan-PMHMETD-9-Mei-2022.pdf, PDF p. 2); bisnis.com 17 May 2022 reported the cum date. Only 504,264,065 shares were taken up (Rp1,008,528,130,000; AR2022 PDF p. 26 and p. 137; AR2025 PDF p. 157): FS shares 13,266,245,924 -> 13,770,509,989 (incl. warrant shares). The exercise price was above the market price (May 2022 close Rp1,955), so the theoretical rights adjustment is ~nil. Not a split: no per-share adjustment factor.",
+            "price": 2000
+        },
+        {
             "code": "BBCA",
             "type": "split",
             "ratio_old": 1,
