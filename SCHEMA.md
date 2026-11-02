@@ -192,9 +192,13 @@ Values in the examples below are illustrative only — never copy them as data.
   "note": "1 old share → 5 new shares; nominal Rp62.5 → Rp12.5"
 }
 ```
-`type` ∈ `split` | `reverse_split` | `rights` | `bonus`. Only `split`/`reverse_split` drive
-the per-share adjustment factor in v1 (factor = ratio_new / ratio_old). `rights` issues are
-recorded for the corporate-action calendar and flagged on the page.
+`type` ∈ `split` | `reverse_split` | `rights` | `bonus`. Splits, reverse splits and bonus
+issues drive the per-share adjustment factor: split / reverse split = `ratio_new / ratio_old`
+(shares after per share before); **bonus issue** = `(ratio_old + ratio_new) / ratio_old`, where
+`ratio_old` shares held receive `ratio_new` NEW shares (MEGA 2022: 1,000 + 686 → ×1.686). A
+bonus issue re-bases the share price like a split, so per-share history and prices are adjusted
+for it. `rights` issues are paid for and are not adjusted; they are recorded for the
+corporate-action calendar and flagged on the page.
 
 Corporate actions live only in `corporate_actions.json` — an issuer file must not carry
 its own copy (the validator rejects it), so there is one table and no drift.
@@ -229,6 +233,10 @@ day (Monday to Friday, WIB): around 09:20 the session's opening price is publish
 }
 ```
 
+- `splits` lists every split, reverse split and bonus issue (`"type": "bonus"` on the latter)
+  with the factor the pages use. Yahoo sometimes applies a different factor to a bonus issue
+  (MEGA 2022: ×1.744113 vs the share factor ×1.686); the rows are un-scaled with Yahoo's own
+  factor and the difference is listed in `source.reversed`.
 - **Prices are stored as traded**, like every other per-share value here. The rows above
   are the last session before BCA's 1:5 split and the first one after it. For a continuous
   series, divide open/high/low/close by `factor` (and multiply volume by it) for every

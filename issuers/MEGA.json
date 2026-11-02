@@ -1,0 +1,1520 @@
+{
+    "schema": 1,
+    "code": "MEGA",
+    "name": "PT Bank Mega Tbk",
+    "name_short": "Bank Mega",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bankmega.com",
+    "ir_url": "https://bankmega.com/id/tentang-kami/hubungan-investor-new/",
+    "kbmi": {
+        "v": 3,
+        "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 135 (printed p. 133), Analisis dan Pembahasan Manajemen, Tinjauan Industri: 'Bank Mega dengan modal inti mencapai Rp23,97 triliun masuk dalam kategori KBMI 3'",
+        "note": "KBMI 3 = core capital above Rp14tn up to Rp70tn (POJK 12/POJK.03/2021). AR2025 PDF p. 24 also lists awards in the 'KBMI 3' category."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 100803.831,
+                "source_url": "https://bankmega.com/media/filer_public/cd/9f/cd9f10a1-0606-484f-b1c1-6153926ce864/laporan_keuangan_triwulan_desember_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan (statement of financial position), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Bank Mega has no subsidiaries (AR2025 PDF p. 112; AR2022 PDF p. 100), so its financial statements are the whole reporting entity; stored as 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 53015.303,
+                "source_url": "https://bankmega.com/media/filer_public/cd/9f/cd9f10a1-0606-484f-b1c1-6153926ce864/laporan_keuangan_triwulan_desember_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan (statement of financial position), 'Kredit yang diberikan' after 'Pendapatan bunga yang ditangguhkan', before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross of loan-loss allowance, net of unearned interest income (Rp7.492 bn); the related + third-party subtotal before unearned interest is 53,022.795. Same figure as 'Kredit yang Diberikan' in the AR financial highlights."
+            },
+            "deposits": {
+                "v": 72790.174,
+                "source_url": "https://bankmega.com/media/filer_public/cd/9f/cd9f10a1-0606-484f-b1c1-6153926ce864/laporan_keuangan_triwulan_desember_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan posisi keuangan (statement of financial position), 'Simpanan dari nasabah': Giro + Tabungan + Deposito berjangka (sum of the three printed subtotals)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = current accounts 5,508.409 + savings 12,504.312 + time deposits 54,777.453. The AR prints 'Dana Pihak Ketiga'/'Simpanan pihak ketiga' Rp72.790 bn. Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 15541.438,
+                "source_url": "https://bankmega.com/media/filer_public/cd/9f/cd9f10a1-0606-484f-b1c1-6153926ce864/laporan_keuangan_triwulan_desember_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 15541.438,
+                "source_url": "https://bankmega.com/media/filer_public/cd/9f/cd9f10a1-0606-484f-b1c1-6153926ce864/laporan_keuangan_triwulan_desember_2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "total_assets": {
+                "v": 112202.653,
+                "source_url": "https://www.bankmega.com/media/filer_public/c8/d8/c8d8779a-135f-4f49-8b42-83a874668355/triwulan_q4_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan posisi keuangan (statement of financial position), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Bank Mega has no subsidiaries (AR2025 PDF p. 112; AR2022 PDF p. 100), so its financial statements are the whole reporting entity; stored as 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 48486.524,
+                "source_url": "https://www.bankmega.com/media/filer_public/c8/d8/c8d8779a-135f-4f49-8b42-83a874668355/triwulan_q4_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan (statement of financial position), 'Kredit yang diberikan' after 'Pendapatan bunga yang ditangguhkan', before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross of loan-loss allowance, net of unearned interest income (Rp107.598 bn); the related + third-party subtotal before unearned interest is 48,594.122. Same figure as 'Kredit yang Diberikan' in the AR financial highlights."
+            },
+            "deposits": {
+                "v": 79186.302,
+                "source_url": "https://www.bankmega.com/media/filer_public/c8/d8/c8d8779a-135f-4f49-8b42-83a874668355/triwulan_q4_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan posisi keuangan (statement of financial position), 'Simpanan dari nasabah': Giro + Tabungan + Deposito berjangka (sum of the three printed subtotals)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = current accounts 8,513.492 + savings 13,749.755 + time deposits 56,923.055. The AR prints 'Dana Pihak Ketiga'/'Simpanan pihak ketiga' Rp79.186 bn. Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 18208.15,
+                "source_url": "https://www.bankmega.com/media/filer_public/c8/d8/c8d8779a-135f-4f49-8b42-83a874668355/triwulan_q4_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 18208.15,
+                "source_url": "https://www.bankmega.com/media/filer_public/c8/d8/c8d8779a-135f-4f49-8b42-83a874668355/triwulan_q4_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 3008.311,
+                "source_url": "https://www.bankmega.com/media/filer_public/c8/d8/c8d8779a-135f-4f49-8b42-83a874668355/triwulan_q4_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Laporan laba rugi dan penghasilan komprehensif lain, 'LABA BERSIH' / 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners of the bank (no subsidiaries, no non-controlling interest)."
+            },
+            "eps": {
+                "v": 432,
+                "source_url": "https://www.bankmega.com/media/filer_public/c8/d8/c8d8779a-135f-4f49-8b42-83a874668355/triwulan_q4_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, 'LABA PER SAHAM DASAR (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "As printed in the FY2020 FS, on 6,963,775,206 shares (before the March 2022 bonus issue). AR2023/AR2024 restate FY2020 EPS to 256 for the 2022 bonus issue."
+            },
+            "shares_out": {
+                "v": 6963775206,
+                "source_url": "https://www.bankmega.com/media/filer_public/c8/d8/c8d8779a-135f-4f49-8b42-83a874668355/triwulan_q4_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, equity section 'Modal ditempatkan dan disetor penuh 6.963.775.206 saham'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid 6,963,775,206 shares; no treasury shares."
+            },
+            "car": {
+                "v": 31.04,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2020-2024)",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (CAR incl. credit, market and operational risk), as reported. Bank Mega has no subsidiaries, so bank-only = whole entity. FY2020 read from AR2024 (AR2025 covers 2021-2025); AR2020 PDF p. 16 prints the same CAR/NPL/ROA/ROE/NIM/BOPO/LDR."
+            },
+            "npl_gross": {
+                "v": 1.39,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2020-2024)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bruto', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity. FY2020 read from AR2024 (AR2025 covers 2021-2025); AR2020 PDF p. 16 prints the same CAR/NPL/ROA/ROE/NIM/BOPO/LDR."
+            },
+            "npl_net": {
+                "v": 1.07,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2020-2024)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bersih', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity. FY2020 read from AR2024 (AR2025 covers 2021-2025); AR2020 PDF p. 16 prints the same CAR/NPL/ROA/ROE/NIM/BOPO/LDR."
+            },
+            "roa": {
+                "v": 3.64,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2020-2024)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Aktiva (ROA)', OJK published-report ratio, as reported. Bank Mega has no subsidiaries, so bank-only = whole entity. FY2020 read from AR2024 (AR2025 covers 2021-2025); AR2020 PDF p. 16 prints the same CAR/NPL/ROA/ROE/NIM/BOPO/LDR."
+            },
+            "roe": {
+                "v": 19.42,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2020-2024)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Ekuitas (ROE)', OJK published-report ratio, as reported; the AR does not print the formula (not profit / average total equity, which would be lower). Bank Mega has no subsidiaries, so bank-only = whole entity. FY2020 read from AR2024 (AR2025 covers 2021-2025); AR2020 PDF p. 16 prints the same CAR/NPL/ROA/ROE/NIM/BOPO/LDR."
+            },
+            "nim": {
+                "v": 4.42,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2020-2024)",
+                "basis": "bank_only",
+                "note": "'Marjin Bunga Bersih (NIM)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity. FY2020 read from AR2024 (AR2025 covers 2021-2025); AR2020 PDF p. 16 prints the same CAR/NPL/ROA/ROE/NIM/BOPO/LDR."
+            },
+            "bopo": {
+                "v": 65.94,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2020-2024)",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity. FY2020 read from AR2024 (AR2025 covers 2021-2025); AR2020 PDF p. 16 prints the same CAR/NPL/ROA/ROE/NIM/BOPO/LDR."
+            },
+            "cir": {
+                "v": 43.66,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2020-2024)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO). Bank Mega has no subsidiaries, so bank-only = whole entity. FY2020 read from AR2024 (AR2025 covers 2021-2025); AR2020 PDF p. 16 prints the same CAR/NPL/ROA/ROE/NIM/BOPO/LDR."
+            },
+            "ldr": {
+                "v": 60.04,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 16 (printed p. 14), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2020-2024)",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity. FY2020 read from AR2024 (AR2025 covers 2021-2025); AR2020 PDF p. 16 prints the same CAR/NPL/ROA/ROE/NIM/BOPO/LDR."
+            },
+            "casa": {
+                "v": 28.12,
+                "source_url": "https://bankmega.com/media/filer_public/7d/31/7d316860-104e-4c2a-be19-8c33069ce428/laporan_tahunan_bank_mega_2020_-_ind_final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 30 (Laporan Dewan Komisaris) and PDF p. 40 (Laporan Direksi): 'komposisi dana murah (current account saving account/CASA) menjadi 28,12%'",
+                "basis": "bank_only",
+                "note": "(Giro + Tabungan) / third-party funds, as stated in the AR text."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: AR2020 and AR2025 ratio tables, MD&A and the public-expose decks give no cost-of-credit / credit-cost ratio."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2020 (checked ratio table, MD&A, risk-management section) nor in the December published report; only 'CKPN aset keuangan terhadap aset produktif' is printed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: AR2020 shows only the risk-appetite limit for 'Kredit Kualitas Rendah' (loan at risk); the Dec 2025 and Sep 2025 published reports have no KKR line (it appears in the 30 Sep 2026 report)."
+            },
+            "payout_ratio": {
+                "v": 70,
+                "source_url": "https://www.bankmega.com/media/filer_public/e1/68/e168df32-326f-4423-9af1-04703f27c2ab/annual_report_bank_mega_2021_id.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 157, 'Kronologis Pembagian Dividen', Tahun Buku 2020: Payout Ratio 70%",
+                "basis": "n/a",
+                "note": "Rp2,100,000,000,000 of Rp3,008,311,307,204 FY2020 profit (AGMS 19 Feb 2021). AR2022 PDF p. 148 also prints 70%."
+            },
+            "year_end_price": {
+                "v": 7200,
+                "source_url": "https://bankmega.com/media/filer_public/7d/31/7d316860-104e-4c2a-be19-8c33069ce428/laporan_tahunan_bank_mega_2020_-_ind_final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18 (printed p. 16), share table 2020, Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. Market cap printed Rp49,637,795 juta = 7,200 x 6,894,138,227 (see research_notes on the AR share count)."
+            }
+        },
+        "2021": {
+            "total_assets": {
+                "v": 132879.39,
+                "source_url": "https://bankmega.com/media/filer_public/32/a4/32a426b3-8c1b-41cf-a4e8-10688a6e4f77/pt_bank_mega_tbk__billingual_31_des_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan posisi keuangan (statement of financial position), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Bank Mega has no subsidiaries (AR2025 PDF p. 112; AR2022 PDF p. 100), so its financial statements are the whole reporting entity; stored as 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 60677.415,
+                "source_url": "https://bankmega.com/media/filer_public/32/a4/32a426b3-8c1b-41cf-a4e8-10688a6e4f77/pt_bank_mega_tbk__billingual_31_des_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan (statement of financial position), 'Kredit yang diberikan' after 'Pendapatan bunga yang ditangguhkan', before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross of loan-loss allowance, net of unearned interest income (Rp63.479 bn); the related + third-party subtotal before unearned interest is 60,740.894. Same figure as 'Kredit yang Diberikan' in the AR financial highlights."
+            },
+            "deposits": {
+                "v": 98907.011,
+                "source_url": "https://bankmega.com/media/filer_public/32/a4/32a426b3-8c1b-41cf-a4e8-10688a6e4f77/pt_bank_mega_tbk__billingual_31_des_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan posisi keuangan (statement of financial position), 'Simpanan dari nasabah': Giro + Tabungan + Deposito berjangka (sum of the three printed subtotals)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = current accounts 16,359.810 + savings 14,451.425 + time deposits 68,095.776. The AR prints 'Dana Pihak Ketiga'/'Simpanan pihak ketiga' Rp98.907 bn. Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 19144.464,
+                "source_url": "https://bankmega.com/media/filer_public/32/a4/32a426b3-8c1b-41cf-a4e8-10688a6e4f77/pt_bank_mega_tbk__billingual_31_des_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 19144.464,
+                "source_url": "https://bankmega.com/media/filer_public/32/a4/32a426b3-8c1b-41cf-a4e8-10688a6e4f77/pt_bank_mega_tbk__billingual_31_des_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 4008.051,
+                "source_url": "https://bankmega.com/media/filer_public/32/a4/32a426b3-8c1b-41cf-a4e8-10688a6e4f77/pt_bank_mega_tbk__billingual_31_des_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Laporan laba rugi dan penghasilan komprehensif lain, 'LABA BERSIH' / 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners of the bank (no subsidiaries, no non-controlling interest)."
+            },
+            "eps": {
+                "v": 576,
+                "source_url": "https://bankmega.com/media/filer_public/32/a4/32a426b3-8c1b-41cf-a4e8-10688a6e4f77/pt_bank_mega_tbk__billingual_31_des_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, 'LABA PER SAHAM DASAR (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "As printed in the FY2021 FS, on 6,963,775,206 shares (before the March 2022 bonus/stock-dividend issue). Later reports restate FY2021 EPS for the 2022 bonus issue: 341 (FS2022 comparative; AR2025 PDF p. 17)."
+            },
+            "shares_out": {
+                "v": 6963775206,
+                "source_url": "https://bankmega.com/media/filer_public/32/a4/32a426b3-8c1b-41cf-a4e8-10688a6e4f77/pt_bank_mega_tbk__billingual_31_des_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, equity section 'Modal ditempatkan dan disetor penuh 6.963.775.206 saham'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid 6,963,775,206 shares (before the March 2022 bonus issue); no treasury shares."
+            },
+            "car": {
+                "v": 27.3,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (CAR incl. credit, market and operational risk), as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "npl_gross": {
+                "v": 1.12,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bruto', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "npl_net": {
+                "v": 0.81,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bersih', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "roa": {
+                "v": 4.22,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Aktiva (ROA)', OJK published-report ratio, as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "roe": {
+                "v": 23.49,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Ekuitas (ROE)', OJK published-report ratio, as reported; the AR does not print the formula (not profit / average total equity, which would be lower). Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "nim": {
+                "v": 4.75,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Marjin Bunga Bersih (NIM)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "bopo": {
+                "v": 56.06,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "cir": {
+                "v": 36.8,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO). Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "ldr": {
+                "v": 60.96,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "casa": {
+                "v": 31.15,
+                "source_url": "https://www.bankmega.com/media/filer_public/e1/68/e168df32-326f-4423-9af1-04703f27c2ab/annual_report_bank_mega_2021_id.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 149, Tinjauan Keuangan (liabilitas): 'porsi dana murah (CASA) yang pada 2021 tercatat sebesar 31,15%'",
+                "basis": "bank_only",
+                "note": "(Giro + Tabungan) / third-party funds, as stated in the AR text."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: AR2021 and AR2025 ratio tables, MD&A and the public-expose decks give no cost-of-credit / credit-cost ratio."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2021 (checked ratio table, MD&A, risk-management section) nor in the December published report; only 'CKPN aset keuangan terhadap aset produktif' is printed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: AR2021 shows only the risk-appetite limit for 'Kredit Kualitas Rendah' (loan at risk); the Dec 2025 and Sep 2025 published reports have no KKR line (it appears in the 30 Sep 2026 report)."
+            },
+            "payout_ratio": {
+                "v": 70,
+                "source_url": "https://bankmega.com/media/filer_public/47/96/47961a8d-c273-4f37-b3ab-35b00aef33c6/ar_bank_mega_2022_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 148, 'Kronologis Pembagian Dividen', Tahun Buku 2021: Payout Ratio 70%",
+                "basis": "n/a",
+                "note": "Rp2,800,000,000,000 of Rp4,008,051,552,365 FY2021 profit (AGMS 25 Feb 2022). AR2023 PDF p. 166 prints 69,82% for the same dividend (arithmetic 69.86%)."
+            },
+            "year_end_price": {
+                "v": 8475,
+                "source_url": "https://www.bankmega.com/media/filer_public/e1/68/e168df32-326f-4423-9af1-04703f27c2ab/annual_report_bank_mega_2021_id.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 19, Ikhtisar Saham, Periode 2021, Triwulan IV Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. Before the March 2022 bonus issue (ex 2022-03-10)."
+            }
+        },
+        "2022": {
+            "total_assets": {
+                "v": 141750.449,
+                "source_url": "https://bankmega.com/media/filer_public/b0/74/b074c670-7428-4671-a283-edf572cb5900/pt_bank_mega_tbk__billingual_31_des_2022_final_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Laporan posisi keuangan (statement of financial position), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Bank Mega has no subsidiaries (AR2025 PDF p. 112; AR2022 PDF p. 100), so its financial statements are the whole reporting entity; stored as 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 70289.357,
+                "source_url": "https://bankmega.com/media/filer_public/b0/74/b074c670-7428-4671-a283-edf572cb5900/pt_bank_mega_tbk__billingual_31_des_2022_final_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 10, Laporan posisi keuangan (statement of financial position), 'Kredit yang diberikan' after 'Pendapatan bunga yang ditangguhkan', before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross of loan-loss allowance, net of unearned interest income (Rp21.946 bn); the related + third-party subtotal before unearned interest is 70,311.303. Same figure as 'Kredit yang Diberikan' in the AR financial highlights."
+            },
+            "deposits": {
+                "v": 102949.667,
+                "source_url": "https://bankmega.com/media/filer_public/b0/74/b074c670-7428-4671-a283-edf572cb5900/pt_bank_mega_tbk__billingual_31_des_2022_final_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Laporan posisi keuangan (statement of financial position), 'Simpanan dari nasabah': Giro + Tabungan + Deposito berjangka (sum of the three printed subtotals)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = current accounts 12,818.842 + savings 14,731.561 + time deposits 75,399.264. The AR prints 'Dana Pihak Ketiga'/'Simpanan pihak ketiga' Rp102.950 bn. Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 20633.68,
+                "source_url": "https://bankmega.com/media/filer_public/b0/74/b074c670-7428-4671-a283-edf572cb5900/pt_bank_mega_tbk__billingual_31_des_2022_final_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 20633.68,
+                "source_url": "https://bankmega.com/media/filer_public/b0/74/b074c670-7428-4671-a283-edf572cb5900/pt_bank_mega_tbk__billingual_31_des_2022_final_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 4052.678,
+                "source_url": "https://bankmega.com/media/filer_public/b0/74/b074c670-7428-4671-a283-edf572cb5900/pt_bank_mega_tbk__billingual_31_des_2022_final_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Laporan laba rugi dan penghasilan komprehensif lain, 'LABA BERSIH' / 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners of the bank (no subsidiaries, no non-controlling interest)."
+            },
+            "eps": {
+                "v": 345,
+                "source_url": "https://bankmega.com/media/filer_public/b0/74/b074c670-7428-4671-a283-edf572cb5900/pt_bank_mega_tbk__billingual_31_des_2022_final_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, 'LABA PER SAHAM DASAR (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Weighted average 11,740,923,365 shares: the March 2022 bonus/stock-dividend issue (1,000:686) is applied retrospectively (FS2022 Note 2.y)."
+            },
+            "shares_out": {
+                "v": 11740923365,
+                "source_url": "https://bankmega.com/media/filer_public/b0/74/b074c670-7428-4671-a283-edf572cb5900/pt_bank_mega_tbk__billingual_31_des_2022_final_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, equity section 'Modal ditempatkan dan disetor penuh 11.740.923.365 saham'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid 11,740,923,365 shares after the March 2022 bonus shares (4,087,736,045) and stock dividend (689,413,745); no treasury shares."
+            },
+            "car": {
+                "v": 25.41,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (CAR incl. credit, market and operational risk), as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "npl_gross": {
+                "v": 1.23,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bruto', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "npl_net": {
+                "v": 0.91,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bersih', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "roa": {
+                "v": 4,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Aktiva (ROA)', OJK published-report ratio, as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "roe": {
+                "v": 23.15,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Ekuitas (ROE)', OJK published-report ratio, as reported; the AR does not print the formula (not profit / average total equity, which would be lower). Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "nim": {
+                "v": 5.42,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Marjin Bunga Bersih (NIM)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "bopo": {
+                "v": 56.76,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "cir": {
+                "v": 38.46,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO). Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "ldr": {
+                "v": 68.04,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "casa": {
+                "v": 26.76,
+                "source_url": "https://bankmega.com/media/filer_public/47/96/47961a8d-c273-4f37-b3ab-35b00aef33c6/ar_bank_mega_2022_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 142, Tinjauan Keuangan: 'dana murah (CASA), walaupun pada 2022 tercatat sebesar 26,76%'",
+                "basis": "bank_only",
+                "note": "(Giro + Tabungan) / third-party funds, as stated in the AR text."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: AR2022 and AR2025 ratio tables, MD&A and the public-expose decks give no cost-of-credit / credit-cost ratio."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2022 (checked ratio table, MD&A, risk-management section) nor in the December published report; only 'CKPN aset keuangan terhadap aset produktif' is printed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: AR2022 shows only the risk-appetite limit for 'Kredit Kualitas Rendah' (loan at risk); the Dec 2025 and Sep 2025 published reports have no KKR line (it appears in the 30 Sep 2026 report)."
+            },
+            "payout_ratio": {
+                "v": 69.99,
+                "source_url": "https://bankmega.com/media/filer_public/04/e0/04e0b3ec-b930-499d-b118-92ad1ecc90a5/ar_bank_mega_2023_id.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 166, dividend table, 'Dividend Pay Out Ratio' (Laporan keuangan audit tahun 2022)",
+                "basis": "n/a",
+                "note": "Rp2,836,818 juta of Rp4,052,678 juta (AGMS 24 Feb 2023). AR2024 PDF p. 166 prints the same 69,99%."
+            },
+            "year_end_price": {
+                "v": 5275,
+                "source_url": "https://bankmega.com/media/filer_public/47/96/47961a8d-c273-4f37-b3ab-35b00aef33c6/ar_bank_mega_2022_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, Ikhtisar Saham 2022, Q4 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. After the March 2022 bonus issue."
+            }
+        },
+        "2023": {
+            "total_assets": {
+                "v": 132049.591,
+                "source_url": "https://bankmega.com/media/filer_public/3c/aa/3caa8d55-f012-4dd0-a96d-867b4963f602/bank_mega_tbk_ga_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, Laporan posisi keuangan (statement of financial position), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Bank Mega has no subsidiaries (AR2025 PDF p. 112; AR2022 PDF p. 100), so its financial statements are the whole reporting entity; stored as 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 66292.896,
+                "source_url": "https://bankmega.com/media/filer_public/3c/aa/3caa8d55-f012-4dd0-a96d-867b4963f602/bank_mega_tbk_ga_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, Laporan posisi keuangan (statement of financial position), 'Kredit yang diberikan' after 'Pendapatan bunga yang ditangguhkan', before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross of loan-loss allowance, net of unearned interest income (Rp11.823 bn); the related + third-party subtotal before unearned interest is 66,304.719. Same figure as 'Kredit yang Diberikan' in the AR financial highlights."
+            },
+            "deposits": {
+                "v": 89435.75,
+                "source_url": "https://bankmega.com/media/filer_public/3c/aa/3caa8d55-f012-4dd0-a96d-867b4963f602/bank_mega_tbk_ga_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Laporan posisi keuangan (statement of financial position), 'Simpanan dari nasabah': Giro + Tabungan + Deposito berjangka (sum of the three printed subtotals)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = current accounts 10,125.725 + savings 15,662.241 + time deposits 63,647.784. The AR prints 'Dana Pihak Ketiga'/'Simpanan pihak ketiga' Rp89.436 bn. Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 21755.443,
+                "source_url": "https://bankmega.com/media/filer_public/3c/aa/3caa8d55-f012-4dd0-a96d-867b4963f602/bank_mega_tbk_ga_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 21755.443,
+                "source_url": "https://bankmega.com/media/filer_public/3c/aa/3caa8d55-f012-4dd0-a96d-867b4963f602/bank_mega_tbk_ga_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 3510.67,
+                "source_url": "https://bankmega.com/media/filer_public/3c/aa/3caa8d55-f012-4dd0-a96d-867b4963f602/bank_mega_tbk_ga_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Laporan laba rugi dan penghasilan komprehensif lain, 'LABA BERSIH' / 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners of the bank (no subsidiaries, no non-controlling interest)."
+            },
+            "eps": {
+                "v": 299,
+                "source_url": "https://bankmega.com/media/filer_public/3c/aa/3caa8d55-f012-4dd0-a96d-867b4963f602/bank_mega_tbk_ga_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, 'LABA PER SAHAM DASAR (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Weighted average 11,740,923,365 shares (pre-2026-bonus basis)."
+            },
+            "shares_out": {
+                "v": 11740923365,
+                "source_url": "https://bankmega.com/media/filer_public/3c/aa/3caa8d55-f012-4dd0-a96d-867b4963f602/bank_mega_tbk_ga_31_des_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, equity section 'Modal ditempatkan dan disetor penuh 11.740.923.365 saham'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid 11,740,923,365 shares; no treasury shares."
+            },
+            "car": {
+                "v": 26.17,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (CAR incl. credit, market and operational risk), as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "npl_gross": {
+                "v": 1.57,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bruto', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "npl_net": {
+                "v": 1.18,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bersih', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "roa": {
+                "v": 3.47,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Aktiva (ROA)', OJK published-report ratio, as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "roe": {
+                "v": 17.62,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Ekuitas (ROE)', OJK published-report ratio, as reported; the AR does not print the formula (not profit / average total equity, which would be lower). Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "nim": {
+                "v": 5.21,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Marjin Bunga Bersih (NIM)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "bopo": {
+                "v": 65.6,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "cir": {
+                "v": 42.74,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO). Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "ldr": {
+                "v": 74.03,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "casa": {
+                "v": 28.83,
+                "source_url": "https://bankmega.com/media/filer_public/04/e0/04e0b3ec-b930-499d-b118-92ad1ecc90a5/ar_bank_mega_2023_id.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 153, Tinjauan Keuangan: 'rasio CASA Bank mencapai 28,83% di tahun 2023'",
+                "basis": "bank_only",
+                "note": "(Giro + Tabungan) / third-party funds, as stated in the AR text."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: AR2023 and AR2025 ratio tables, MD&A and the public-expose decks give no cost-of-credit / credit-cost ratio."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2023 (checked ratio table, MD&A, risk-management section) nor in the December published report; only 'CKPN aset keuangan terhadap aset produktif' is printed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: AR2023 shows only the risk-appetite limit for 'Kredit Kualitas Rendah' (loan at risk); the Dec 2025 and Sep 2025 published reports have no KKR line (it appears in the 30 Sep 2026 report)."
+            },
+            "payout_ratio": {
+                "v": 69.99,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 166, dividend table, 'Dividend Pay Out Ratio' (Laporan keuangan audit tahun 2023)",
+                "basis": "n/a",
+                "note": "Rp2,457,420 juta of Rp3,510,670 juta (AGMS 1 Mar 2024). AR2025 PDF p. 172 prints the same."
+            },
+            "year_end_price": {
+                "v": 5100,
+                "source_url": "https://bankmega.com/media/filer_public/04/e0/04e0b3ec-b930-499d-b118-92ad1ecc90a5/ar_bank_mega_2023_id.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, share table 2023, Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date."
+            }
+        },
+        "2024": {
+            "total_assets": {
+                "v": 134915.494,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/2c/51/2c5158f7-6e42-4e5a-baab-55cf63f42141/bank_mega_ga_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Laporan posisi keuangan (statement of financial position), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Bank Mega has no subsidiaries (AR2025 PDF p. 112; AR2022 PDF p. 100), so its financial statements are the whole reporting entity; stored as 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 64645.281,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/2c/51/2c5158f7-6e42-4e5a-baab-55cf63f42141/bank_mega_ga_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Laporan posisi keuangan (statement of financial position), 'Kredit yang diberikan' after 'Pendapatan bunga yang ditangguhkan', before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross of loan-loss allowance, net of unearned interest income (Rp9.371 bn); the related + third-party subtotal before unearned interest is 64,654.652. Same figure as 'Kredit yang Diberikan' in the AR financial highlights."
+            },
+            "deposits": {
+                "v": 91669.297,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/2c/51/2c5158f7-6e42-4e5a-baab-55cf63f42141/bank_mega_ga_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Laporan posisi keuangan (statement of financial position), 'Simpanan dari nasabah': Giro + Tabungan + Deposito berjangka (sum of the three printed subtotals)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = current accounts 10,382.648 + savings 17,187.644 + time deposits 64,099.005. The AR prints 'Dana Pihak Ketiga'/'Simpanan pihak ketiga' Rp91.669 bn. Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 21182.201,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/2c/51/2c5158f7-6e42-4e5a-baab-55cf63f42141/bank_mega_ga_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 21182.201,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/2c/51/2c5158f7-6e42-4e5a-baab-55cf63f42141/bank_mega_ga_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 2631.054,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/2c/51/2c5158f7-6e42-4e5a-baab-55cf63f42141/bank_mega_ga_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Laporan laba rugi dan penghasilan komprehensif lain, 'LABA BERSIH' / 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners of the bank (no subsidiaries, no non-controlling interest)."
+            },
+            "eps": {
+                "v": 224,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/2c/51/2c5158f7-6e42-4e5a-baab-55cf63f42141/bank_mega_ga_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, 'LABA PER SAHAM DASAR (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Weighted average 11,740,923,365 shares (pre-2026-bonus basis)."
+            },
+            "shares_out": {
+                "v": 11740923365,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/2c/51/2c5158f7-6e42-4e5a-baab-55cf63f42141/bank_mega_ga_31_des_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, equity section 'Modal ditempatkan dan disetor penuh 11.740.923.365 saham'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid 11,740,923,365 shares; no treasury shares."
+            },
+            "car": {
+                "v": 25.77,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (CAR incl. credit, market and operational risk), as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "npl_gross": {
+                "v": 1.69,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bruto', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "npl_net": {
+                "v": 1.22,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bersih', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "roa": {
+                "v": 2.56,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Aktiva (ROA)', OJK published-report ratio, as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "roe": {
+                "v": 13.62,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Ekuitas (ROE)', OJK published-report ratio, as reported; the AR does not print the formula (not profit / average total equity, which would be lower). Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "nim": {
+                "v": 4.64,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Marjin Bunga Bersih (NIM)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "bopo": {
+                "v": 73.61,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "cir": {
+                "v": 51.13,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO). Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "ldr": {
+                "v": 70.34,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "casa": {
+                "v": 30.08,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 46 (Laporan Direksi): 'Tabungan dan Giro (CASA) ... meningkat menjadi 30,08% dari 28,83%'; also PDF p. 8 and p. 34",
+                "basis": "bank_only",
+                "note": "(Giro + Tabungan) / third-party funds, as stated in the AR text."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: AR2024 and AR2025 ratio tables, MD&A and the public-expose decks give no cost-of-credit / credit-cost ratio."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2024 (checked ratio table, MD&A, risk-management section) nor in the December published report; only 'CKPN aset keuangan terhadap aset produktif' is printed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: AR2024 shows only the risk-appetite limit for 'Kredit Kualitas Rendah' (loan at risk); the Dec 2025 and Sep 2025 published reports have no KKR line (it appears in the 30 Sep 2026 report)."
+            },
+            "payout_ratio": {
+                "v": 39.99,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 172 (printed p. 170), 'Pembayaran Dividen Tunai ... tahun buku 2024 dan 2025' table, 'Dividen Pay Out Ratio'",
+                "basis": "n/a",
+                "note": "Rp1,052,400 juta of Rp2,631,054 juta (AGMS 27 Mar 2025)."
+            },
+            "year_end_price": {
+                "v": 4130,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/93/0b/930b5c17-a7f5-4122-8797-728adb822091/ar_bank_mega_2024_ina.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, share table 2024, Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. AR2025 PDF p. 21 prints the same."
+            }
+        },
+        "2025": {
+            "total_assets": {
+                "v": 140828.044,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/bd/9a/bd9afd4c-1693-4794-a968-dd4b6acb56c4/final_report_pt_bank_mega_tbk_ga_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, Laporan posisi keuangan (statement of financial position), 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Bank Mega has no subsidiaries (AR2025 PDF p. 112; AR2022 PDF p. 100), so its financial statements are the whole reporting entity; stored as 'consolidated'."
+            },
+            "loans_gross": {
+                "v": 67230.534,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/bd/9a/bd9afd4c-1693-4794-a968-dd4b6acb56c4/final_report_pt_bank_mega_tbk_ga_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, Laporan posisi keuangan (statement of financial position), 'Kredit yang diberikan' after 'Pendapatan bunga yang ditangguhkan', before 'Cadangan kerugian penurunan nilai'",
+                "basis": "consolidated",
+                "note": "Gross of loan-loss allowance, net of unearned interest income (Rp8.857 bn); the related + third-party subtotal before unearned interest is 67,239.391. Same figure as 'Kredit yang Diberikan' in the AR financial highlights."
+            },
+            "deposits": {
+                "v": 104130.948,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/bd/9a/bd9afd4c-1693-4794-a968-dd4b6acb56c4/final_report_pt_bank_mega_tbk_ga_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Laporan posisi keuangan (statement of financial position), 'Simpanan dari nasabah': Giro + Tabungan + Deposito berjangka (sum of the three printed subtotals)",
+                "basis": "consolidated",
+                "note": "Third-party funds (DPK) = current accounts 12,475.423 + savings 15,664.957 + time deposits 75,990.568. The AR prints 'Dana Pihak Ketiga'/'Simpanan pihak ketiga' Rp104.131 bn. Excludes deposits from other banks."
+            },
+            "equity_attr": {
+                "v": 25076.358,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/bd/9a/bd9afd4c-1693-4794-a968-dd4b6acb56c4/final_report_pt_bank_mega_tbk_ga_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest (no subsidiaries): equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 25076.358,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/bd/9a/bd9afd4c-1693-4794-a968-dd4b6acb56c4/final_report_pt_bank_mega_tbk_ga_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Laporan posisi keuangan (statement of financial position), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 3364.735,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/bd/9a/bd9afd4c-1693-4794-a968-dd4b6acb56c4/final_report_pt_bank_mega_tbk_ga_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Laporan laba rugi dan penghasilan komprehensif lain, 'LABA BERSIH' / 'LABA TAHUN BERJALAN'",
+                "basis": "consolidated",
+                "note": "Whole profit belongs to owners of the bank (no subsidiaries, no non-controlling interest)."
+            },
+            "eps": {
+                "v": 287,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/bd/9a/bd9afd4c-1693-4794-a968-dd4b6acb56c4/final_report_pt_bank_mega_tbk_ga_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, 'LABA PER SAHAM DASAR (nilai penuh)'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic = diluted; weighted average 11,740,923,365 shares. Pre-2026-bonus basis: the 1:1 bonus issue (ex 2026-04-10) is NOT reflected; the 9M2026 statements restate per-share figures on 23,481,846,730 shares."
+            },
+            "shares_out": {
+                "v": 11740923365,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/bd/9a/bd9afd4c-1693-4794-a968-dd4b6acb56c4/final_report_pt_bank_mega_tbk_ga_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, equity section 'Modal ditempatkan dan disetor penuh 11.740.923.365 saham'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid 11,740,923,365 shares; the statement of financial position has no treasury-share line (Note 25 lists PT Mega Corpora 6,812,223,614 + public 4,928,699,751). Before the 1:1 bonus issue of April 2026."
+            },
+            "car": {
+                "v": 30.49,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Kewajiban Penyediaan Modal Minimum (KPMM)' (CAR incl. credit, market and operational risk), as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "npl_gross": {
+                "v": 1.65,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bruto', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "npl_net": {
+                "v": 1.07,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Rasio Kredit Bermasalah (NPL) - Bersih', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "roa": {
+                "v": 3.1,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Aktiva (ROA)', OJK published-report ratio, as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "roe": {
+                "v": 15.54,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Imbal Hasil Ekuitas (ROE)', OJK published-report ratio, as reported; the AR does not print the formula (not profit / average total equity, which would be lower). Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "nim": {
+                "v": 4.18,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Marjin Bunga Bersih (NIM)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "bopo": {
+                "v": 69.12,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Beban Operasional terhadap Pendapatan Operasional (BOPO)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "cir": {
+                "v": 42.09,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)', as reported (separate line from BOPO). Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "ldr": {
+                "v": 64.48,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (printed p. 16), Ikhtisar Data Keuangan Penting, 'Rasio Keuangan' table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Loan to Deposit Ratio (LDR)', as reported. Bank Mega has no subsidiaries, so bank-only = whole entity."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2025 (checked: ratio table PDF p. 18, Laporan Direksi PDF p. 47 which gives only CASA Rp28.14tn, MD&A funding section) nor in the 2026 public-expose deck (which shows rounded composition Giro 12% / Tabungan 15%). Not computed."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: AR2025 and AR2025 ratio tables, MD&A and the public-expose decks give no cost-of-credit / credit-cost ratio."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in AR2025 (checked ratio table, MD&A, risk-management section) nor in the December published report; only 'CKPN aset keuangan terhadap aset produktif' is printed."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: AR2025 shows only the risk-appetite limit for 'Kredit Kualitas Rendah' (loan at risk); the Dec 2025 and Sep 2025 published reports have no KKR line (it appears in the 30 Sep 2026 report)."
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/48/ee/48ee1f42-26f0-4b7b-96a6-78a0453db06b/laporan_paparan_kinerja_bank_mega_tahun_buku_2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 3, Q&A no. 3 (Bisnis Indonesia), answer of the President Director: 'Bank Mega akan membagikan dividen tunai sebesar 60% dari laba bersih'",
+                "basis": "n/a",
+                "note": "Report of the 31 Mar 2026 public expose on FY2025 performance (published by Bank Mega). AGMS 31 Mar 2026 approved Rp2,018,820,000,000 of the FY2025 profit Rp3,364,735,107,371 (RISALAH 2026 pp. 3-4). No annual report with a FY2025 payout line exists yet."
+            },
+            "year_end_price": {
+                "v": 3280,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/ef/18/ef187143-b4ba-4c3f-ad59-a75704a6b640/ar_2025_bank_mega_ina_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 21 (printed p. 19), Kinerja Perdagangan Saham 2025, Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); the AR does not print the session date. Before the 1:1 bonus issue of April 2026 (ex 2026-04-10)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 301.561,
+            "total": 2100,
+            "cum_date": "2021-03-01",
+            "ex_date": "2021-03-02",
+            "record_date": "2021-03-03",
+            "pay_date": "2021-03-19",
+            "share_basis": "2021-02-23",
+            "source_url": "https://bankmega.com/media/filer_public/2a/67/2a675371-dd45-4a8b-afea-29d956e784a1/bm_ringkasan_risalah_rupst_2021.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-02-23",
+            "loc": "p. 1, Pengumuman Ringkasan Risalah RUPST 19 Feb 2021 (dated 23 Feb 2021), Mata Acara Kedua + 'Jadwal dan Tata Cara Pembagian Dividen Tunai'",
+            "note": "Rp2,100,000,000,000 = Rp301.561 per share (rounded, as printed) on 6,963,775,206 shares (before the 2022 bonus issue). 70% of FY2020 profit."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 402.0807561,
+            "total": 2800,
+            "cum_date": "2022-03-09",
+            "ex_date": "2022-03-10",
+            "record_date": "2022-03-11",
+            "pay_date": "2022-03-23",
+            "share_basis": "2022-03-02",
+            "source_url": "https://bankmega.com/media/filer_public/de/77/de77d61b-8c24-4589-9b24-8b0ad88a2f9d/ringkasan_risalah_rupst_2022.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-03-02",
+            "loc": "pp. 1-2, Pengumuman Ringkasan Risalah RUPST 25 Feb 2022 (dated 2 Mar 2022), Mata Acara Kedua + 'Jadwal dan Tata Cara Pembagian Dividen Tunai'",
+            "note": "Rp2,800,000,000,000 = Rp402.0807561 per share on 6,963,775,206 shares. Same cum/ex/recording dates as the 1,000:686 bonus/stock-dividend issue, so the cash dividend was paid on the PRE-bonus share count. AR2023 PDF p. 166 prints DPS 402,081."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 241.618,
+            "total": 2836.82,
+            "cum_date": "2023-03-06",
+            "ex_date": "2023-03-07",
+            "record_date": "2023-03-08",
+            "pay_date": "2023-03-28",
+            "share_basis": "2023-02-28",
+            "source_url": "https://bankmega.com/media/filer_public/e9/80/e98047a4-d2ab-42f8-90b9-ec789c914a1b/ringkasan_risalah_rupst_2023_ind.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-02-28",
+            "loc": "pp. 1-2, Pengumuman Ringkasan Risalah RUPST 24 Feb 2023 (dated 28 Feb 2023), Mata Acara Kedua + dividend schedule",
+            "note": "Rp2,836,820,000,000 = Rp241.618 per share on 11,740,923,365 shares (the FS/AR record Rp2,836,818 juta paid). 69.99% payout."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 209.30381,
+            "total": 2457.42,
+            "cum_date": "2024-03-13",
+            "ex_date": "2024-03-14",
+            "record_date": "2024-03-15",
+            "pay_date": "2024-03-27",
+            "share_basis": "2024-03-05",
+            "source_url": "https://bankmega.com/media/filer_public/45/67/4567d909-ef0e-4989-a248-453433f1bab0/ringkasan_risalah_ind_05032024_rev.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-03-05",
+            "loc": "pp. 3-4 (Mata Acara Kedua) and pp. 6-7, Pengumuman Ringkasan Risalah RUPST 1 Mar 2024 (dated 5 Mar 2024), 'Jadwal dan Tata Cara Pembayaran Dividen Tunai'",
+            "note": "Rp2,457,420,000,000 = Rp209.303810 per share on 11,740,923,365 shares. 69.99% payout (AR2024 PDF p. 166)."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 89.635198,
+            "total": 1052.4,
+            "cum_date": "2025-04-15",
+            "ex_date": "2025-04-16",
+            "record_date": "2025-04-17",
+            "pay_date": "2025-04-29",
+            "share_basis": "2025-04-09",
+            "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/1a/90/1a905a1e-e4e4-4e97-ad00-f28dbb08c001/ringkasan_risalah_ind_logo.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-04-09",
+            "loc": "pp. 3-4 (Mata Acara Kedua) and pp. 6-7, Pengumuman Ringkasan Risalah RUPST 27 Mar 2025 (dated 9 Apr 2025), 'Jadwal dan Tata Cara Pembayaran Dividen Tunai'",
+            "note": "Rp1,052,400,000,000 = Rp89.635198 per share on 11,740,923,365 shares. 39.99% payout. Dates repeated in AR2025 PDF p. 171."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 171.947293,
+            "total": 2018.82,
+            "cum_date": "2026-04-09",
+            "ex_date": "2026-04-10",
+            "record_date": "2026-04-13",
+            "pay_date": "2026-04-30",
+            "share_basis": "2026-04-02",
+            "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/b5/0f/b50f07b4-b2ef-41aa-a605-53c372d1f32a/ringkasan_risalah_rups_ind_sent.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-02",
+            "loc": "pp. 3-4 (Mata Acara Kedua) and p. 8, Pengumuman Ringkasan Risalah RUPST 31 Mar 2026 (dated 2 Apr 2026), Mata Acara Kedua + 'Jadwal dan Tata Cara Pembayaran Dividen Tunai'",
+            "note": "Rp2,018,820,000,000 = Rp171.947293 per share on 11,740,923,365 shares, i.e. on the PRE-bonus count: the 1:1 bonus issue has the same cum/ex/recording dates (ex 10 Apr 2026). Payout 60% (public-expose report, see fy.2025.payout_ratio). Paid: 9M2026 cash-flow statement 'Pembayaran dividen tunai' (2,018,820) and Note 27."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 1829.022,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/e3/78/e37844eb-d6ff-4264-b677-3db646bffe1e/laporan_keuangan_interim_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Laporan laba rugi, 'LABA BERSIH' (9 months to 30 Sep 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited interim financial statements (no subsidiaries). 1 Jan-30 Sep 2026."
+            },
+            "profit_ytd_prior": {
+                "v": 2199.906,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/e3/78/e37844eb-d6ff-4264-b677-3db646bffe1e/laporan_keuangan_interim_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 6, Laporan laba rugi, comparative column 30 Sep 2025, 'LABA BERSIH'",
+                "basis": "consolidated",
+                "note": "Same figure as the 9M2025 interim FS (PDF p. 6)."
+            },
+            "equity_attr": {
+                "v": 23026.398,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/e3/78/e37844eb-d6ff-4264-b677-3db646bffe1e/laporan_keuangan_interim_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Laporan posisi keuangan, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "No non-controlling interest. Down from 25,076.358 at Dec 2025: FY2025 dividend Rp2,018.82bn and lower OCI; the bonus issue moved Rp5,870.462bn from share premium to share capital (equity-neutral)."
+            },
+            "shares_out": {
+                "v": 23481846730,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/e3/78/e37844eb-d6ff-4264-b677-3db646bffe1e/laporan_keuangan_interim_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, equity section 'Modal ditempatkan dan disetor penuh 23.481.846.730 lembar saham pada tanggal 30 September 2026'; PDF p. 96, Note 37 weighted average",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "After the 1:1 bonus issue (ex 2026-04-10, distributed 30 Apr 2026): 11,740,923,365 -> 23,481,846,730. No treasury shares."
+            },
+            "total_assets": {
+                "v": 145252.982,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/e3/78/e37844eb-d6ff-4264-b677-3db646bffe1e/laporan_keuangan_interim_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Laporan posisi keuangan, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 75627.595,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/e3/78/e37844eb-d6ff-4264-b677-3db646bffe1e/laporan_keuangan_interim_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, 'Kredit yang diberikan' (related 2,000,219 + third parties 73,627,376; unearned interest nil), before allowance (923,004)",
+                "basis": "consolidated"
+            },
+            "loans_gross_prior": {
+                "v": 63910.062,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/e2/2e/e22eca55-168a-41b9-8d7b-5fc7e6397238/laporan_keuangan_interim_30_september_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4, 9M2025 interim FS, 'Kredit yang diberikan' (related 1,895,499 + third parties 62,014,563; unearned interest nil), before allowance",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 90895.384,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/e3/78/e37844eb-d6ff-4264-b677-3db646bffe1e/laporan_keuangan_interim_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, 'Simpanan dari nasabah': Giro 10,959,311 + Tabungan 13,281,768 + Deposito berjangka 66,654,305",
+                "basis": "consolidated"
+            },
+            "deposits_prior": {
+                "v": 106338.461,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/e2/2e/e22eca55-168a-41b9-8d7b-5fc7e6397238/laporan_keuangan_interim_30_september_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 5, 9M2025 interim FS, 'Simpanan dari nasabah': Giro 6,259,325 + Tabungan 17,919,906 + Deposito berjangka 82,159,230",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 11.03,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/a8/c8/a8c8464b-b85e-4929-888b-70c37120e35e/publikasi_triwulanan_30_september_2026_web_a-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 12, 'Laporan Rasio Keuangan per 30 September 2026 dan 2025', column 30-Sep-26 (unaudited)",
+                "basis": "bank_only",
+                "note": "ROE, annualised, as printed in the OJK quarterly published report (bank = whole entity)."
+            },
+            "roa": {
+                "v": 2.19,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/a8/c8/a8c8464b-b85e-4929-888b-70c37120e35e/publikasi_triwulanan_30_september_2026_web_a-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 12, 'Laporan Rasio Keuangan per 30 September 2026 dan 2025', column 30-Sep-26 (unaudited)",
+                "basis": "bank_only",
+                "note": "ROA, annualised, as printed in the OJK quarterly published report (bank = whole entity)."
+            },
+            "nim": {
+                "v": 4.08,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/a8/c8/a8c8464b-b85e-4929-888b-70c37120e35e/publikasi_triwulanan_30_september_2026_web_a-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 12, 'Laporan Rasio Keuangan per 30 September 2026 dan 2025', column 30-Sep-26 (unaudited)",
+                "basis": "bank_only",
+                "note": "NIM, annualised, as printed in the OJK quarterly published report (bank = whole entity)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed in the 9M2026 interim FS or the 30 Sep 2026 published report."
+            },
+            "npl_gross": {
+                "v": 1.63,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/a8/c8/a8c8464b-b85e-4929-888b-70c37120e35e/publikasi_triwulanan_30_september_2026_web_a-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 12, 'Laporan Rasio Keuangan per 30 September 2026 dan 2025', column 30-Sep-26 (unaudited)",
+                "basis": "bank_only",
+                "note": "NPL gross, as printed in the OJK quarterly published report (bank = whole entity)."
+            },
+            "lar": {
+                "v": 10.75,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/a8/c8/a8c8464b-b85e-4929-888b-70c37120e35e/publikasi_triwulanan_30_september_2026_web_a-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 12, 'Laporan Rasio Keuangan per 30 September 2026 dan 2025', column 30-Sep-26 (unaudited)",
+                "basis": "bank_only",
+                "note": "'Kredit Kualitas Rendah (KKR)', the OJK low-quality-loan (loan-at-risk) ratio; the report prints no formula (OJK's loan-at-risk concept = restructured current + special-mention + non-performing loans over total loans). 30-Sep-25 column: 15.77%. The line is new in this report: the Sep 2025 and Dec 2025 published reports have no KKR line, as printed in the OJK quarterly published report (bank = whole entity)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the 30 Sep 2026 published report (only 'CKPN aset keuangan terhadap aset produktif' 0.73%) or the interim FS."
+            },
+            "ldr": {
+                "v": 82.04,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/a8/c8/a8c8464b-b85e-4929-888b-70c37120e35e/publikasi_triwulanan_30_september_2026_web_a-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 12, 'Laporan Rasio Keuangan per 30 September 2026 dan 2025', column 30-Sep-26 (unaudited)",
+                "basis": "bank_only",
+                "note": "LDR, as printed in the OJK quarterly published report (bank = whole entity)."
+            },
+            "car": {
+                "v": 25.52,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/a8/c8/a8c8464b-b85e-4929-888b-70c37120e35e/publikasi_triwulanan_30_september_2026_web_a-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 12, 'Laporan Rasio Keuangan per 30 September 2026 dan 2025', column 30-Sep-26 (unaudited)",
+                "basis": "bank_only",
+                "note": "KPMM, as printed in the OJK quarterly published report (bank = whole entity)."
+            },
+            "cir": {
+                "v": 48.79,
+                "source_url": "https://cdn.bankmega.com/prod.mega.cms.media/filer_public/a8/c8/a8c8464b-b85e-4929-888b-70c37120e35e/publikasi_triwulanan_30_september_2026_web_a-1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "p. 12, 'Laporan Rasio Keuangan per 30 September 2026 dan 2025', column 30-Sep-26 (unaudited)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio (CIR); BOPO is 74.39%, as printed in the OJK quarterly published report (bank = whole entity)."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the 30 Sep 2026 published report or the 9M2026 interim FS. Not computed."
+            }
+        }
+    },
+    "research_notes": [
+        "SOURCE ACCESS: every document came straight from Bank Mega's own servers (bankmega.com/media/filer_public/... and cdn.bankmega.com/prod.mega.cms.media/...), linked from the IR page https://bankmega.com/id/tentang-kami/hubungan-investor-new/ on 2026-11-03; plain curl with a browser User-Agent, no bot challenge, no Internet Archive needed. idx.co.id was not used.",
+        "ENTITY / BASIS: Bank Mega has no subsidiaries in any year 2019-2025 (AR2025 PDF p. 112; AR2022 PDF p. 100; the audited statements are titled 'Laporan Keuangan', not 'konsolidasian'). Its own audited statements are therefore the whole reporting entity: money fields are stored with basis 'consolidated' (the validator requires it for profit/equity), ratios with 'bank_only' as printed in the OJK-format ratio tables. Equity attributable = total equity (no NCI). The parent PT Mega Corpora (58.02%) publishes separate consolidated statements - not used.",
+        "BONUS ISSUES (IMPORTANT FOR THE PAGE CODE): MEGA had two bonus issues in the window and NO split, reverse split or rights issue since 2006 (AR2025 PDF pp. 112-113 share-listing chronology; AR2025 p. 22: no corporate action in 2025). (1) ex 2022-03-10: 1,000 -> 1,686 shares (587 bonus from share premium + 99 stock dividend from retained earnings). (2) ex 2026-04-10: 1 -> 2 shares (1:1 bonus from share premium). Both are recorded as type 'bonus' per SCHEMA.md, so in v1 they do NOT drive the per-share adjustment factor. Consequences: (a) EPS/DPS/price history is discontinuous at both dates (FY2021 EPS 576 vs FY2022 345; FY2025 EPS 287 vs 9M2026 EPS 78 on 23.48bn shares); (b) the daily-price validator's '>35% one-session move' rule will fire on 2022-03-10 (theoretical -40.7%) and 2026-04-10 (about -50%) unless the bonus factor is applied; (c) Yahoo usually books bonus issues as split events, so stocks_prices.php may refuse MEGA ('Yahoo splits != corporate_actions.json'). The owner must decide whether to record these as split-type actions (factors 1.686 and 2) or extend the code to treat 'bonus' like a split; nothing was changed here.",
+        "PER-SHARE BASIS: every FY per-share value and share count is stored as printed in that year's own audited FS / AR with share_basis = the FY end date (the date on which the printed figure and the share count matched; eps x shares_out = profit within 0.2% every year). FY2020-FY2021 figures are on 6,963,775,206 shares (pre-2022-bonus), FY2022-FY2025 on 11,740,923,365 (pre-2026-bonus), the 9M2026 interim on 23,481,846,730. Restated values printed later (not stored): FY2021 EPS 341 (FS2022, AR2025), FY2020 EPS 256 and FY2019 171 (AR2023/AR2024), 9M2025 EPS 187 -> 94 (FS9M2026 comparative).",
+        "SHARE COUNT CONFLICT: the AR share-price tables print 'Jumlah Saham Beredar' of 6,894,138,227 (2020-2021) and 11,623,514,905 (2022-2025) and compute market cap on them, about 1.0% below the issued and fully paid count in the audited FS (6,963,775,206 / 11,740,923,365). The FS show no treasury shares, EPS uses the issued count, and the dividends and the 2026 bonus were distributed on 11,740,923,365 shares; the AR does not explain the lower figure (possibly shares not listed on IDX). shares_out uses the FS count.",
+        "DIVIDENDS: exactly one cash dividend out of each of FY2020-FY2025, the final after the AGMS; no interim or special dividends (each statement of changes in equity / cash-flow statement shows one payment a year: 2,100,000 / 2,800,000 / 2,836,818 / 2,457,420 / 1,052,400 / 2,018,820 Rp juta in 2021-2026). Dividend policy: at least 20% of net profit unless the AGMS decides otherwise (AR2025 PDF p. 171). FY2021 and FY2025 dividends share their recording date with a bonus issue, so both were paid on the pre-bonus share count. The 2022 bonus issue also contained a stock dividend (689,413,745 shares, Rp6,687,304 juta from retained earnings at Rp9,700) - not a cash dividend, recorded only in corporate_actions. Payout ratios as printed: 70 / 70 / 69.99 / 69.99 / 39.99 / 60 (FY2021: AR2023 prints 69.82%).",
+        "NOT DISCLOSED (null): cost of credit (all years and interim), NPL coverage (all years and interim), loan at risk FY2020-FY2025 (the OJK 'Kredit Kualitas Rendah' line only appears from the 30 Sep 2026 published report: 10.75%, stored as interim lar), CASA ratio for FY2025 and 9M2026 (FY2020-FY2024 CASA comes from the AR text). Nothing was computed. The AR2022 'Loan at Risk 15,12%' and 'NPL 2,65%/0,75%' (PDF p. 46, p. 118) describe the Indonesian banking INDUSTRY, not Bank Mega - not used.",
+        "RATIO SOURCES: FY2021-FY2025 from the AR2025 ratio table (PDF p. 18); FY2020 from the AR2024 ratio table (PDF p. 16), which matches AR2020/AR2021 for the overlapping ratios and adds NPL net and CIR. Overlapping years in AR2024 and AR2025 are identical. ROE as reported (OJK published-report definition, not stated in the AR); for FY2025 profit / average total equity would be about 14.5% vs 15.54% printed.",
+        "LOANS / DEPOSITS DEFINITION: loans_gross = 'Kredit yang diberikan' net of unearned interest income but before the loan-loss allowance (the figure the AR highlights print); the tiny unearned-interest amounts are given in each note. deposits = Giro + Tabungan + Deposito berjangka from customers (DPK), matching the AR 'Dana Pihak Ketiga'.",
+        "RESTATEMENTS / RECLASSIFICATIONS: FS2024 marks 2023 comparatives 'as reclassified (Note 50)' with unchanged totals; FS2020 reclassified some 2019 P&L lines (Note 53) - no effect on stored fields. No restatement of total assets, equity or profit was found. FY2020 loans fell 8.5% (53,015 -> 48,487 bn) - a real decline (AR2020 PDF p. 16 highlights: -8.54%).",
+        "AUDITORS: FY2020-FY2022 KAP Kosasih, Nurdiyaman, Mulyadi, Tjahjo & Rekan (KI bonus 2022 p. 3; AR2024 PDF p. 276); FY2023-FY2025 KAP Amir Abadi Jusuf, Aryanto, Mawar & Rekan (RSM Indonesia) (AR2024 PDF p. 274; FY2025 report No. 00055/2.1030/AU.1/07/0499-1/1/II/2026 dated 6 Feb 2026, RISALAH 2026 p. 4). The 9M2026 interim statements are unaudited.",
+        "INTERIM: 9M2026 (30 Sep 2026) unaudited interim FS and the OJK quarterly published report are both on bankmega.com. Interim per-share data is on the post-bonus basis (23,481,846,730 shares, EPS 78 vs restated 94 a year earlier). Interim deposits fell 14.5% YoY (106,338 -> 90,895 bn) while repo borrowings rose to 21,854 bn - real movements, not a unit slip. The OJK LDR (82.04%) differs from loans/deposits on the face statements because of the OJK definition.",
+        "KBMI: 3 - stated in AR2025 MD&A (PDF p. 135): core capital Rp23.97tn, within the Rp14tn-Rp70tn KBMI 3 band (POJK 12/POJK.03/2021)."
+    ]
+}

@@ -278,6 +278,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/pnbn/"
+        },
+        {
+            "code": "MEGA",
+            "name": "PT Bank Mega Tbk",
+            "name_short": "Bank Mega",
+            "sector": "banking",
+            "group": "private_large",
+            "kbmi": 3,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 6,
+            "file": "issuers/MEGA.json",
+            "prices": {
+                "file": "prices/MEGA.json",
+                "first_date": "2019-01-10",
+                "last_date": "2026-10-30",
+                "sessions": 1718,
+                "last_close": 1920,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/mega/"
         }
     ]
 }
