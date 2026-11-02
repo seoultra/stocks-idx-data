@@ -503,6 +503,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbyb/"
+        },
+        {
+            "code": "BBHI",
+            "name": "PT Allo Bank Indonesia Tbk",
+            "name_short": "Allo Bank",
+            "sector": "banking",
+            "group": "digital",
+            "kbmi": 2,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 2,
+            "file": "issuers/BBHI.json",
+            "prices": {
+                "file": "prices/BBHI.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1878,
+                "last_close": 595,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/bbhi/"
         }
     ]
 }

@@ -1,0 +1,1421 @@
+{
+    "schema": 1,
+    "code": "BBHI",
+    "name": "PT Allo Bank Indonesia Tbk",
+    "name_short": "Allo Bank",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.allobank.com",
+    "ir_url": "https://www.allobank.com/about-us/investor-relations",
+    "kbmi": {
+        "v": 2,
+        "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF p. 156 (printed p. 153), capital section: 'masuknya Allo Bank ke dalam Kelompok Bank Berdasarkan Modal Inti 2 (KBMI 2) menyusul dengan Right Issue yang dilakukan pada tahun 2022'",
+        "note": "Core capital (Tier 1) at 31 Dec 2025 Rp7,392,067 juta (FS2025 PDF p. 141), inside the KBMI 2 band (Rp6tn-14tn, POJK 12/POJK.03/2021). AR2025 awards list (PDF p. 126) also cites KBMI 2 categories."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 2527.173,
+                "source_url": "https://www.allobank.com/api/assets/6d925b35-7acd-412a-9a3d-458eaea8cc72",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS 2019, PDF p. 6, Statement of financial position, 'Jumlah/Total Aset'",
+                "basis": "consolidated",
+                "note": "Entity was PT Bank Harda Internasional Tbk (renamed PT Allo Bank Indonesia Tbk on 30 Jun 2021). Same figure is the 2019 comparative in the FY2020 audited FS."
+            },
+            "loans_gross": {
+                "v": 1660.864,
+                "source_url": "https://www.allobank.com/api/assets/6d925b35-7acd-412a-9a3d-458eaea8cc72",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS 2019, PDF p. 60, Note 11c by term 'Jumlah' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 1970.198,
+                "source_url": "https://www.allobank.com/api/assets/6d925b35-7acd-412a-9a3d-458eaea8cc72",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS 2019, PDF p. 7, 'Simpanan nasabah' - 'Jumlah', Statement of financial position, 'Simpanan nasabah' subtotal",
+                "basis": "consolidated",
+                "note": "'Simpanan nasabah' (deposits from customers: giro + tabungan + deposito), related + third parties."
+            },
+            "equity_attr": {
+                "v": 299.766,
+                "source_url": "https://www.allobank.com/api/assets/6d925b35-7acd-412a-9a3d-458eaea8cc72",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS 2019, PDF p. 7, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 299.766,
+                "source_url": "https://www.allobank.com/api/assets/6d925b35-7acd-412a-9a3d-458eaea8cc72",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Audited FS 2019, PDF p. 7, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 37.011,
+                "source_url": "https://www.allobank.com/api/assets/3dbf79cb-ba65-402a-a69b-b682233b80fc",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS 2020, PDF p. 8, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole net income is attributable to owners (no subsidiaries). FY2019 was a loss of Rp36,549,663,189 (FS2019 p. 8); FY2020 is the first profit after two loss years."
+            },
+            "eps": {
+                "v": 8.85,
+                "source_url": "https://www.allobank.com/api/assets/3dbf79cb-ba65-402a-a69b-b682233b80fc",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS 2020, PDF p. 9, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Weighted average 4,184,431,795 shares (FS2020 Note 28, PDF p. 110). Loss years: FY2019 EPS (8.73), FY2018 (30.14)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.allobank.com/api/assets/2e57c8a0-a4b8-4b31-8baa-e66c09016ff3",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "Ringkasan Risalah RUPST 7 May 2021, PDF p. 4 (scanned), Mata Acara Rapat Kedua - Keputusan",
+                "basis": "n/a",
+                "note": "No dividend: the AGMS resolved that the whole FY2020 profit of Rp37,011,391,337 is retained to strengthen capital because retained earnings were still cumulatively negative. AR2022 PDF p. 19 ('the Bank has not distributed dividends for the 2021 and 2020 fiscal years')."
+            },
+            "total_assets": {
+                "v": 2586.663,
+                "source_url": "https://www.allobank.com/api/assets/3dbf79cb-ba65-402a-a69b-b682233b80fc",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS 2020, PDF p. 6, Statement of financial position, 'Jumlah/Total Aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 1275.827,
+                "source_url": "https://www.allobank.com/api/assets/3dbf79cb-ba65-402a-a69b-b682233b80fc",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS 2020, PDF p. 85, Note 10 by term 'Total' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 1468.313,
+                "source_url": "https://www.allobank.com/api/assets/3dbf79cb-ba65-402a-a69b-b682233b80fc",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS 2020, PDF p. 95, Note 16 'Total' simpanan nasabah",
+                "basis": "consolidated",
+                "note": "Face statement prints related (12,852,701,297) and third parties (1,455,460,412,530) only; the total is printed in Note 16."
+            },
+            "equity_attr": {
+                "v": 347.066,
+                "source_url": "https://www.allobank.com/api/assets/3dbf79cb-ba65-402a-a69b-b682233b80fc",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS 2020, PDF p. 7, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 347.066,
+                "source_url": "https://www.allobank.com/api/assets/3dbf79cb-ba65-402a-a69b-b682233b80fc",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS 2020, PDF p. 7, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 4184431795,
+                "source_url": "https://www.allobank.com/api/assets/3dbf79cb-ba65-402a-a69b-b682233b80fc",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Audited FS 2020, PDF p. 7 balance-sheet share capital line; PDF p. 106 ownership table 'Total'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid 4,184,431,795 (unchanged since the 2018 PUT I); no treasury shares."
+            },
+            "year_end_price": {
+                "v": 424,
+                "source_url": "https://www.allobank.com/api/assets/0c683db9-d016-4648-9685-174bedbe948c",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 23, Ikhtisar Saham 2020 'Kuartal IV' Penutupan 424, tanggal 30-12-20",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Same in AR2020 PDF p. 8 (Bank Harda). FY2019 close was 125 (30-12-19, AR2020 p. 8). Q4 closing price as printed (last IDX session of the year); as_of_date is the period end."
+            },
+            "roe": {
+                "v": 13.72,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Rasio-rasio Keuangan, 2020 column, 'Rasio Laba (Rugi) terhadap Ekuitas / Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula. Same value in AR2021 PDF p. 20 and AR2020 PDF p. 6 (as originally reported)."
+            },
+            "roa": {
+                "v": 2.04,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Rasio-rasio Keuangan, 2020 column, 'Rasio Laba (Rugi) terhadap Jumlah Aset / Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average total assets) as printed. Same value in AR2021 PDF p. 20 and AR2020 PDF p. 6 (as originally reported)."
+            },
+            "nim": {
+                "v": 2.44,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Rasio-rasio Keuangan, 2020 column, 'Marjin Bunga Bersih / Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "Same value in AR2021 PDF p. 20 and AR2020 PDF p. 6 (as originally reported)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 pp. 18-19, AR2024 pp. 16-17), MD&A, public-expose decks (2023-2025) or the 3Q25/FY25 analyst presentations. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 2.76,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Rasio-rasio Keuangan, 2020 column, 'NPL Bruto / NPL Gross'",
+                "basis": "bank_only",
+                "note": "Same value in AR2021 PDF p. 20 and AR2020 PDF p. 6 (as originally reported)."
+            },
+            "npl_net": {
+                "v": 1.75,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Rasio-rasio Keuangan, 2020 column, 'NPL Neto / NPL Net'",
+                "basis": "bank_only",
+                "note": "Same value in AR2021 PDF p. 20 and AR2020 PDF p. 6 (as originally reported)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2020: no loan-at-risk ratio in the AR ratio tables, MD&A or decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (Dec-2025 report has no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2020: the AR/published report print 'CKPN aset keuangan terhadap aset produktif' but no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 86.89,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Rasio-rasio Keuangan, 2020 column, 'Rasio Kredit terhadap Dana Pihak Ketiga / Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Same value in AR2021 PDF p. 20 and AR2020 PDF p. 6 (as originally reported)."
+            },
+            "car": {
+                "v": 19.61,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Rasio-rasio Keuangan, 2020 column, 'Rasio Kecukupan Modal / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only",
+                "note": "Same value in AR2021 PDF p. 20 and AR2020 PDF p. 6 (as originally reported)."
+            },
+            "cir": {
+                "v": 174.55,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Rasio-rasio Keuangan, 2020 column, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Printed as 174.55% in AR2022 (PDF p. 15), AR2023 and AR2024 (PDF p. 16); outside the validator's 150% bound but it is the company's printed figure (opex far above operating income in 2020, while BOPO incl. provisions was 82.23%). The AR does not print the CIR formula; treat with caution."
+            },
+            "bopo": {
+                "v": 82.23,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Rasio-rasio Keuangan, 2020 column, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only",
+                "note": "Same value in AR2021 PDF p. 20 and AR2020 PDF p. 6 (as originally reported)."
+            },
+            "casa": {
+                "v": 19.76,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF pp. 16-17 (printed pp. 14-15), Ikhtisar Keuangan - Rasio-rasio Keuangan, 2020 column, 'Rasio Dana Murah (CASA terhadap Dana Pihak Ketiga)'",
+                "basis": "bank_only",
+                "note": "CASA = (current + savings accounts) / third-party funds, as printed. Same value in AR2021 PDF p. 20 and AR2020 PDF p. 6 (as originally reported)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 192.475,
+                "source_url": "https://www.allobank.com/api/assets/54cacf6b-b1cb-4a13-8346-1b5021c7e215",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS 2021, PDF p. 8, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole net income is attributable to owners (no subsidiaries)."
+            },
+            "eps": {
+                "v": 24.26,
+                "source_url": "https://www.allobank.com/api/assets/54cacf6b-b1cb-4a13-8346-1b5021c7e215",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS 2021, PDF p. 9, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic EPS on WEIGHTED-AVERAGE shares 7,933,682,683 (FS2021 Note 28, PDF p. 102; FS2022 PDF p. 104): PUT II added 7,498,501,776 shares in Jul 2021. 192,474,618,193 / 7,933,682,683 = 24.26. (Note 28 of FS2021 itself misprints the profit as 192,188,190,422; the face statement and the FS2022 comparative print 192,474,618,193.)"
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.allobank.com/api/assets/9f19d254-03fb-40a9-b85f-05301a6c5cb6",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "Risalah RUPST 19 May 2022 (English), PDF p. 2, Second Agenda Decision",
+                "basis": "n/a",
+                "note": "No dividend: of FY2021 profit Rp192,474,618,193, Rp24,618,193 to the statutory reserve and Rp192,450,000,000 retained. AR2022 PDF p. 19 confirms."
+            },
+            "total_assets": {
+                "v": 4649.357,
+                "source_url": "https://www.allobank.com/api/assets/54cacf6b-b1cb-4a13-8346-1b5021c7e215",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS 2021, PDF p. 6, Statement of financial position, 'Jumlah/Total Aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 2198.243,
+                "source_url": "https://www.allobank.com/api/assets/54cacf6b-b1cb-4a13-8346-1b5021c7e215",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS 2021, PDF pp. 73-74, Note 9 by term 'Total' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "The face statement shows loans NET of allowance (2,171,312,035,815); the gross total is in the note."
+            },
+            "deposits": {
+                "v": 2124.024,
+                "source_url": "https://www.allobank.com/api/assets/54cacf6b-b1cb-4a13-8346-1b5021c7e215",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS 2021, PDF p. 85, Note 16 'Total' simpanan nasabah",
+                "basis": "consolidated",
+                "note": "Face statement prints related/third parties only; total in Note 16."
+            },
+            "equity_attr": {
+                "v": 1303.271,
+                "source_url": "https://www.allobank.com/api/assets/54cacf6b-b1cb-4a13-8346-1b5021c7e215",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS 2021, PDF p. 7, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 1303.271,
+                "source_url": "https://www.allobank.com/api/assets/54cacf6b-b1cb-4a13-8346-1b5021c7e215",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS 2021, PDF p. 7, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11682933571,
+                "source_url": "https://www.allobank.com/api/assets/54cacf6b-b1cb-4a13-8346-1b5021c7e215",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Audited FS 2021, PDF p. 7 balance-sheet share capital line; PDF p. 98 Note 23 ownership table 'Total'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid 11,682,933,571 after PUT II (4,184,431,795 + 7,498,501,776); no treasury shares."
+            },
+            "year_end_price": {
+                "v": 7075,
+                "source_url": "https://www.allobank.com/api/assets/0c683db9-d016-4648-9685-174bedbe948c",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 23, Ikhtisar Saham 2021 'Kuartal IV' Penutupan 7.075, tanggal 30-12-21",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Same in AR2022 PDF p. 17. Price before the Jan-2022 PUT III rights issue (rights issues are not adjusted). Q4 closing price as printed (last IDX session of the year); as_of_date is the period end."
+            },
+            "roe": {
+                "v": 25.64,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Laba (Rugi) terhadap Ekuitas / Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "roa": {
+                "v": 4.74,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Laba (Rugi) terhadap Jumlah Aset / Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average total assets) as printed."
+            },
+            "nim": {
+                "v": 4.63,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Marjin Bunga Bersih / Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 pp. 18-19, AR2024 pp. 16-17), MD&A, public-expose decks (2023-2025) or the 3Q25/FY25 analyst presentations. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 0.52,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'NPL Bruto / NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.29,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'NPL Neto / NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2021: no loan-at-risk ratio in the AR ratio tables, MD&A or decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (Dec-2025 report has no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2021: the AR/published report print 'CKPN aset keuangan terhadap aset produktif' but no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 103.49,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga / Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 48.82,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Kecukupan Modal / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 27.95,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 52.38,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 12.68,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Dana Murah (CASA terhadap Dana Pihak Ketiga)'",
+                "basis": "bank_only",
+                "note": "CASA = (current + savings accounts) / third-party funds, as printed."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 270.029,
+                "source_url": "https://www.allobank.com/api/assets/b2aaa872-eed4-4489-8e78-1dbabab15c8a",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS 2022, PDF p. 13, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole net income is attributable to owners (no subsidiaries)."
+            },
+            "eps": {
+                "v": 12.43,
+                "source_url": "https://www.allobank.com/api/assets/b2aaa872-eed4-4489-8e78-1dbabab15c8a",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS 2022, PDF p. 14, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "FS2022 Note 29 (PDF p. 104) uses 21,730,256,442 as the weighted average for the whole of 2022 although the 10,047,322,871 PUT III shares were only issued in Jan 2022 (ex-date 10 Jan 2022); stored as printed."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.allobank.com/api/assets/68077189-f0fd-439b-a5ad-ca6207dde201",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "Ringkasan Risalah RUPST 19 May 2023, PDF p. 3 (ID) / p. 8 (EN), Keputusan Mata Acara Kedua",
+                "basis": "n/a",
+                "note": "No dividend: of FY2022 profit Rp270,029,411,193, Rp29,411,193 to the statutory reserve and Rp270,000,000,000 retained."
+            },
+            "total_assets": {
+                "v": 11058.956,
+                "source_url": "https://www.allobank.com/api/assets/b2aaa872-eed4-4489-8e78-1dbabab15c8a",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS 2022, PDF p. 11, Statement of financial position, 'Jumlah/Total Aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 7205.558,
+                "source_url": "https://www.allobank.com/api/assets/b2aaa872-eed4-4489-8e78-1dbabab15c8a",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS 2022, PDF pp. 79-80, Note 9 by term 'Total' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "The face statement shows loans NET of allowance; the gross total is in the note."
+            },
+            "deposits": {
+                "v": 4415.648,
+                "source_url": "https://www.allobank.com/api/assets/b2aaa872-eed4-4489-8e78-1dbabab15c8a",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS 2022, PDF p. 88, Note 17 'Total' simpanan nasabah",
+                "basis": "consolidated",
+                "note": "Face statement prints related/third parties only; total in Note 17."
+            },
+            "equity_attr": {
+                "v": 6411.269,
+                "source_url": "https://www.allobank.com/api/assets/b2aaa872-eed4-4489-8e78-1dbabab15c8a",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS 2022, PDF p. 12, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 6411.269,
+                "source_url": "https://www.allobank.com/api/assets/b2aaa872-eed4-4489-8e78-1dbabab15c8a",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS 2022, PDF p. 12, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 21730256442,
+                "source_url": "https://www.allobank.com/api/assets/b2aaa872-eed4-4489-8e78-1dbabab15c8a",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Audited FS 2022, PDF p. 12, balance-sheet share capital line",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid 21,730,256,442 after PUT III (11,682,933,571 + 10,047,322,871); no treasury shares. 217,302,565 of these (1%, PT Mega Corpora) are not listed on IDX (PP 29/1999), per the PUT III prospectus."
+            },
+            "year_end_price": {
+                "v": 1765,
+                "source_url": "https://www.allobank.com/api/assets/10b5ef0f-0295-4ebc-9cc0-0205587edaf6",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2023 PDF p. 21 (printed p. 19), 2022 'Kuartal IV' Penutupan 1.765",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "AR2022 PDF p. 17 prints the same. Q4 closing price as printed (last IDX session of the year); as_of_date is the period end."
+            },
+            "roe": {
+                "v": 4.36,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Laba (Rugi) terhadap Ekuitas / Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "roa": {
+                "v": 3.55,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Laba (Rugi) terhadap Jumlah Aset / Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average total assets) as printed."
+            },
+            "nim": {
+                "v": 6.7,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Marjin Bunga Bersih / Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 pp. 18-19, AR2024 pp. 16-17), MD&A, public-expose decks (2023-2025) or the 3Q25/FY25 analyst presentations. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 0.01,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'NPL Bruto / NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.01,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'NPL Neto / NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2022: no loan-at-risk ratio in the AR ratio tables, MD&A or decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (Dec-2025 report has no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2022: the AR/published report print 'CKPN aset keuangan terhadap aset produktif' but no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 163.19,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga / Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Real, not a unit slip: above the validator's 160% bound. Loans 7,205.6bn vs deposits 4,415.6bn = 163.2% (FS2022). Lending was funded by the Jan-2022 PUT III equity."
+            },
+            "car": {
+                "v": 79.53,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Kecukupan Modal / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 47.41,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 60.51,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 7.9,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Dana Murah (CASA terhadap Dana Pihak Ketiga)'",
+                "basis": "bank_only",
+                "note": "CASA = (current + savings accounts) / third-party funds, as printed."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 444.566,
+                "source_url": "https://www.allobank.com/api/assets/58a95b3f-f88f-43e2-be99-1f0fa3d46d7b",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS 2023, PDF p. 12, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole net income is attributable to owners (no subsidiaries)."
+            },
+            "eps": {
+                "v": 20.46,
+                "source_url": "https://www.allobank.com/api/assets/58a95b3f-f88f-43e2-be99-1f0fa3d46d7b",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS 2023, PDF p. 13, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Weighted average 21,730,256,442 shares."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.allobank.com/api/assets/f4194cbd-ad47-409d-a302-bee433f4f0c7",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "Ringkasan Risalah RUPST 31 May 2024, PDF p. 3 (ID) / p. 9 (EN), Keputusan Mata Acara Kedua",
+                "basis": "n/a",
+                "note": "No dividend: of FY2023 profit Rp444,566,134,304, Rp6,134,304 to the statutory reserve and Rp444,560,000,000 retained. AR2025 PDF p. 166 dividend chronology: FY2023 'Nihil'."
+            },
+            "total_assets": {
+                "v": 12750.435,
+                "source_url": "https://www.allobank.com/api/assets/58a95b3f-f88f-43e2-be99-1f0fa3d46d7b",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS 2023, PDF p. 10, Statement of financial position, 'Jumlah/Total Aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 7385.708,
+                "source_url": "https://www.allobank.com/api/assets/58a95b3f-f88f-43e2-be99-1f0fa3d46d7b",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS 2023, PDF p. 74, Note 10 'Jumlah' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 4898.666,
+                "source_url": "https://www.allobank.com/api/assets/58a95b3f-f88f-43e2-be99-1f0fa3d46d7b",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS 2023, PDF p. 11, Statement of financial position, 'Simpanan nasabah' subtotal",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 6885.076,
+                "source_url": "https://www.allobank.com/api/assets/58a95b3f-f88f-43e2-be99-1f0fa3d46d7b",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS 2023, PDF p. 11, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 6885.076,
+                "source_url": "https://www.allobank.com/api/assets/58a95b3f-f88f-43e2-be99-1f0fa3d46d7b",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS 2023, PDF p. 11, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 21730256442,
+                "source_url": "https://www.allobank.com/api/assets/58a95b3f-f88f-43e2-be99-1f0fa3d46d7b",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "Audited FS 2023, PDF p. 11, balance-sheet share capital line",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid 21,730,256,442; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 1290,
+                "source_url": "https://www.allobank.com/api/assets/15a5f48d-79c8-420e-a5b9-5622d01760e9",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 20, 2023 'Kuartal IV' Penutupan 1.290 and monthly 'Desember 2023' 1.290",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "AR2023 PDF p. 20 prints the same Q4-2023 close. Q4 closing price as printed (last IDX session of the year); as_of_date is the period end."
+            },
+            "roe": {
+                "v": 6.7,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Laba (Rugi) terhadap Ekuitas / Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "roa": {
+                "v": 4.76,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Laba (Rugi) terhadap Jumlah Aset / Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average total assets) as printed."
+            },
+            "nim": {
+                "v": 9.01,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Marjin Bunga Bersih / Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 pp. 18-19, AR2024 pp. 16-17), MD&A, public-expose decks (2023-2025) or the 3Q25/FY25 analyst presentations. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 0.08,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'NPL Bruto / NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.05,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'NPL Neto / NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: no loan-at-risk ratio in the AR ratio tables, MD&A or decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (Dec-2025 report has no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2023: the AR/published report print 'CKPN aset keuangan terhadap aset produktif' but no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 150.77,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga / Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 83.35,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Kecukupan Modal / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only",
+                "note": "Real, not a unit slip: above the validator's 80% plausibility bound because of the Rp4.8tn PUT III capital raised in Jan 2022 (Tier 1 82.29%)."
+            },
+            "cir": {
+                "v": 46.25,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 59.87,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 10.48,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Dana Murah (CASA terhadap Dana Pihak Ketiga)'",
+                "basis": "bank_only",
+                "note": "CASA = (current + savings accounts) / third-party funds, as printed."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 467.106,
+                "source_url": "https://www.allobank.com/api/assets/0df3f447-65e1-4270-964c-cdc092f4905b",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS 2024, PDF p. 13, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole net income is attributable to owners (no subsidiaries)."
+            },
+            "eps": {
+                "v": 21.5,
+                "source_url": "https://www.allobank.com/api/assets/0df3f447-65e1-4270-964c-cdc092f4905b",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS 2024, PDF p. 14, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Weighted average 21,730,256,442 shares (FS2025 Note 35 comparative)."
+            },
+            "payout_ratio": {
+                "v": 49.96,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 166 (printed p. 163), 'Kronologis Pembagian Dividen', column for FY2024 profit (467.106) - 'Payout Ratio (%) 49,96%'",
+                "basis": "n/a",
+                "note": "First cash dividend in the bank's history covered here: Rp233,382,954,186 = Rp10.74/share (AGMS 10 Apr 2025). The AR column is headed '2025' (payment year) and mislabelled 'Dividen Saham / Stock Dividends'; the amounts are the FY2024 cash dividend. The FY2025 deck (p. 23) rounds it to 50.0%."
+            },
+            "total_assets": {
+                "v": 13984.014,
+                "source_url": "https://www.allobank.com/api/assets/0df3f447-65e1-4270-964c-cdc092f4905b",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS 2024, PDF p. 11, Statement of financial position, 'Jumlah/Total Aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 7478.035,
+                "source_url": "https://www.allobank.com/api/assets/0df3f447-65e1-4270-964c-cdc092f4905b",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS 2024, PDF p. 74, Note 10 'Jumlah' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 6095.118,
+                "source_url": "https://www.allobank.com/api/assets/0df3f447-65e1-4270-964c-cdc092f4905b",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS 2024, PDF p. 12, Statement of financial position, 'Simpanan nasabah' subtotal",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 7265.736,
+                "source_url": "https://www.allobank.com/api/assets/0df3f447-65e1-4270-964c-cdc092f4905b",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS 2024, PDF p. 12, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 7265.736,
+                "source_url": "https://www.allobank.com/api/assets/0df3f447-65e1-4270-964c-cdc092f4905b",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS 2024, PDF p. 12, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 21730256442,
+                "source_url": "https://www.allobank.com/api/assets/0df3f447-65e1-4270-964c-cdc092f4905b",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Audited FS 2024, PDF p. 12, balance-sheet share capital line",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid 21,730,256,442; no treasury shares (balance-sheet treasury line '--' at 31 Dec 2024 in FS2025 p. 12)."
+            },
+            "year_end_price": {
+                "v": 700,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 22 (printed p. 19), 2024 'Kuartal IV' Penutupan 700 and monthly 'Desember 2024' 700",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "AR2024 PDF p. 19 prints the same 700. Q4 closing price as printed (last IDX session of the year); as_of_date is the period end."
+            },
+            "roe": {
+                "v": 6.78,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Laba (Rugi) terhadap Ekuitas / Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "roa": {
+                "v": 4.48,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Laba (Rugi) terhadap Jumlah Aset / Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average total assets) as printed."
+            },
+            "nim": {
+                "v": 8.88,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Marjin Bunga Bersih / Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 pp. 18-19, AR2024 pp. 16-17), MD&A, public-expose decks (2023-2025) or the 3Q25/FY25 analyst presentations. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 0.81,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'NPL Bruto / NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.4,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'NPL Neto / NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: no loan-at-risk ratio in the AR ratio tables, MD&A or decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (Dec-2025 report has no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2024: the AR/published report print 'CKPN aset keuangan terhadap aset produktif' but no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 122.69,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga / Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 82.58,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Kecukupan Modal / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only",
+                "note": "Real, not a unit slip: above the validator's 80% plausibility bound (Tier 1 81.71%); the bank is heavily over-capitalised after PUT III."
+            },
+            "cir": {
+                "v": 50.76,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 66.78,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 12.77,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Dana Murah (CASA terhadap Dana Pihak Ketiga)'",
+                "basis": "bank_only",
+                "note": "CASA = (current + savings accounts) / third-party funds, as printed."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 574.262,
+                "source_url": "https://www.allobank.com/api/assets/4245765f-88f2-4d3e-86d1-a0d3f9ffb8dd",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS 2025 (RSM Indonesia), PDF p. 13, Statement of profit or loss, 'Laba bersih / Laba tahun berjalan'",
+                "basis": "consolidated",
+                "note": "Whole net income is attributable to owners (no subsidiaries)."
+            },
+            "eps": {
+                "v": 26.46,
+                "source_url": "https://www.allobank.com/api/assets/4245765f-88f2-4d3e-86d1-a0d3f9ffb8dd",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS 2025 (RSM Indonesia), PDF p. 14, 'Laba per saham dasar'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Weighted average 21,703,311,507 shares (Note 35, PDF p. 98) - lower than issued because of the 2025 buyback."
+            },
+            "payout_ratio": {
+                "v": 50,
+                "source_url": "https://www.allobank.com/api/assets/0580c363-3030-4ad8-b548-ebc1afd2c0a9",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "Management Presentation FY2025 (26 Feb 2026), PDF p. 5, '50% FY25 dividend payout ratio'",
+                "basis": "n/a",
+                "note": "AGMS 25 Jun 2026 approved Rp286,974,625,358 (Rp13.28/share) of FY2025 profit Rp574,261,563,075 (= 49.97%); Kontan 25 Jun 2026 reports it as 'setara 50% dari laba bersih tahun buku 2025' (https://keuangan.kontan.co.id/news/allo-bank-bbhi-tebar-dividen-rp-28697-miliar-setara-50-dari-laba-2025). The deck figure predates the AGMS (it was the proposed payout)."
+            },
+            "total_assets": {
+                "v": 18470.073,
+                "source_url": "https://www.allobank.com/api/assets/4245765f-88f2-4d3e-86d1-a0d3f9ffb8dd",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS 2025 (RSM Indonesia), PDF p. 11, Statement of financial position, 'Jumlah/Total Aset'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 9140.731,
+                "source_url": "https://www.allobank.com/api/assets/4245765f-88f2-4d3e-86d1-a0d3f9ffb8dd",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS 2025 (RSM Indonesia), PDF p. 74, Note 10 'Jumlah' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 9518.989,
+                "source_url": "https://www.allobank.com/api/assets/4245765f-88f2-4d3e-86d1-a0d3f9ffb8dd",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS 2025 (RSM Indonesia), PDF p. 12, Statement of financial position, 'Simpanan nasabah' subtotal",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 7506.044,
+                "source_url": "https://www.allobank.com/api/assets/4245765f-88f2-4d3e-86d1-a0d3f9ffb8dd",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS 2025 (RSM Indonesia), PDF p. 12, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 7506.044,
+                "source_url": "https://www.allobank.com/api/assets/4245765f-88f2-4d3e-86d1-a0d3f9ffb8dd",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS 2025 (RSM Indonesia), PDF p. 12, Statement of financial position, 'Jumlah/Total Ekuitas'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 21639865642,
+                "source_url": "https://www.allobank.com/api/assets/4245765f-88f2-4d3e-86d1-a0d3f9ffb8dd",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Audited FS 2025 (RSM Indonesia), PDF p. 92, Note 24 share capital",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued 21,730,256,442 less 90,390,800 treasury shares bought back in 2025 (Note 24 ownership table: 21,639,865,642 = 99.58%; treasury cost Rp121,441,674,905). AR2025 PDF p. 21 prints the same 90,390,800 treasury shares."
+            },
+            "year_end_price": {
+                "v": 1490,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 21 (printed p. 18), Ikhtisar Saham, 2025 'Kuartal IV' Penutupan; PDF p. 22 monthly table 'Desember 2025' 1.490",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Market cap printed 32,378,082,098,580 = 1,490 x 21,730,256,442 (issued shares). Q4 closing price as printed (last IDX session of the year); as_of_date is the period end."
+            },
+            "roe": {
+                "v": 7.93,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Laba (Rugi) terhadap Ekuitas / Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "OJK ratio as printed in the AR (bank = whole entity); the AR prints no formula."
+            },
+            "roa": {
+                "v": 4.91,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Laba (Rugi) terhadap Jumlah Aset / Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "OJK ratio (pre-tax profit / average total assets) as printed."
+            },
+            "nim": {
+                "v": 10.11,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Marjin Bunga Bersih / Net Interest Margin (NIM)'",
+                "basis": "bank_only"
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no cost-of-credit / credit-cost ratio in the AR ratio tables (AR2025 pp. 18-19, AR2024 pp. 16-17), MD&A, public-expose decks (2023-2025) or the 3Q25/FY25 analyst presentations. Not computed from the FS."
+            },
+            "npl_gross": {
+                "v": 1.64,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'NPL Bruto / NPL Gross'",
+                "basis": "bank_only"
+            },
+            "npl_net": {
+                "v": 0.6,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'NPL Neto / NPL Net'",
+                "basis": "bank_only"
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: no loan-at-risk ratio in the AR ratio tables, MD&A or decks; the OJK published report adds 'Kredit Kualitas Rendah (KKR)' only from 2026 (Dec-2025 report has no KKR line; see interim)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed for FY2025: the AR/published report print 'CKPN aset keuangan terhadap aset produktif' but no allowance/NPL coverage ratio. Not computed."
+            },
+            "ldr": {
+                "v": 96.03,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Kredit terhadap Dana Pihak Ketiga / Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only"
+            },
+            "car": {
+                "v": 73.94,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Kecukupan Modal / Capital Adequacy Ratio (CAR)'",
+                "basis": "bank_only"
+            },
+            "cir": {
+                "v": 41.29,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only"
+            },
+            "bopo": {
+                "v": 68.87,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Biaya Operasional terhadap Pendapatan Operasional (BOPO)'",
+                "basis": "bank_only"
+            },
+            "casa": {
+                "v": 15.54,
+                "source_url": "https://www.allobank.com/api/assets/24ce4de2-c9e5-4695-bea4-0180b764b35e",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 18-19 (printed pp. 15-16), Ikhtisar Keuangan - Rasio-rasio Keuangan, 'Rasio Dana Murah (CASA terhadap Dana Pihak Ketiga)'",
+                "basis": "bank_only",
+                "note": "CASA = (current + savings accounts) / third-party funds, as printed."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 10.74,
+            "total": 233.383,
+            "cum_date": "2025-04-21",
+            "ex_date": "2025-04-22",
+            "record_date": "2025-04-23",
+            "pay_date": "2025-04-30",
+            "share_basis": "2025-04-14",
+            "source_url": "https://www.allobank.com/api/assets/05cf1bcf-807b-405d-9a17-f946d6688702",
+            "source_type": "company_release",
+            "as_of_date": "2025-04-14",
+            "loc": "Ringkasan Risalah RUPST 10 Apr 2025 (announcement dated 14 Apr 2025), PDF p. 6 Keputusan Mata Acara Kedua (Rp233,382,954,186 as cash dividend) and PDF p. 12 'Jadwal dan Tata Cara Pembayaran Dividen Tunai'",
+            "note": "Rp233,382,954,186 = Rp10.74/share on 21,730,256,442 shares (49.96% of FY2024 profit Rp467,105,739,014; Rp2,784,828 to reserve, Rp233,720,000,000 retained). Cum/ex dates are the regular & negotiated market (cash market cum 23 Apr / ex 24 Apr 2025). First cash dividend since at least 2019. FS2025 equity statement (PDF p. 15) books 'Pembayaran dividen dari laba bersih tahun 2024' 233,382,954,186."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 13.28,
+            "total": 286.975,
+            "cum_date": "2026-07-03",
+            "ex_date": "2026-07-06",
+            "record_date": "2026-07-07",
+            "pay_date": "2026-07-15",
+            "share_basis": "2026-06-29",
+            "source_url": "https://www.allobank.com/api/assets/30f4076c-1cbf-45ba-b2fe-a0cfaa455dae",
+            "source_type": "company_release",
+            "as_of_date": "2026-06-29",
+            "loc": "Ringkasan Risalah RUPST 25 Jun 2026 (announcement dated 29 Jun 2026), PDF p. 6 Keputusan Mata Acara Kedua and PDF p. 13 'Jadwal dan Tata Cara Pembayaran Dividen Tunai'",
+            "note": "Rp286,974,625,358 = Rp13.28/share on 21,609,535,042 shares (issued 21,730,256,442 less treasury shares at the time); 49.97% of FY2025 profit Rp574,261,563,075 (Rp6,937,717 to reserve, Rp287,280,000,000 retained). Cash market cum 7 Jul / ex 8 Jul 2026. The 9M2026 FS cash-flow statement (PDF p. 8) shows dividends paid Rp286,974,489,902."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 338.102,
+                "source_url": "https://www.allobank.com/api/assets/9f30d0d3-a411-4e99-9158-f6c730120a1a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 (unaudited, published 30 Oct 2026), PDF p. 6, Statement of profit or loss, 'LABA BERSIH', 30 September 2026 column",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2026; down 11.0% YoY. No subsidiaries (entity = group)."
+            },
+            "profit_ytd_prior": {
+                "v": 379.878,
+                "source_url": "https://www.allobank.com/api/assets/9f30d0d3-a411-4e99-9158-f6c730120a1a",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Interim FS 30 Sep 2026 (unaudited, published 30 Oct 2026), PDF p. 6, 'LABA BERSIH', 30 September 2025 comparative column",
+                "basis": "consolidated",
+                "note": "Same figure in the 9M2025 interim FS (PDF p. 6)."
+            },
+            "equity_attr": {
+                "v": 7038.058,
+                "source_url": "https://www.allobank.com/api/assets/9f30d0d3-a411-4e99-9158-f6c730120a1a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 (unaudited, published 30 Oct 2026), PDF p. 5, Statement of financial position, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "Down from 7,506.0bn at 31 Dec 2025 after the FY2025 dividend (Rp287.0bn) and Rp477.1bn of 2026 share buybacks (treasury stock at cost 598,493,949,276)."
+            },
+            "shares_out": {
+                "v": 21127114142,
+                "source_url": "https://www.allobank.com/api/assets/9f30d0d3-a411-4e99-9158-f6c730120a1a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 (unaudited, published 30 Oct 2026), PDF p. 85, Note 24 ownership table subtotal (97.22%)",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Issued 21,730,256,442 less 603,142,300 treasury shares (Note 1.c, PDF p. 12). 9M2026 EPS 20.90 uses weighted average 21,565,138,791 (PDF p. 92)."
+            },
+            "total_assets": {
+                "v": 15021.151,
+                "source_url": "https://www.allobank.com/api/assets/9f30d0d3-a411-4e99-9158-f6c730120a1a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 (unaudited, published 30 Oct 2026), PDF p. 4, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Down from 18,470.1bn at 31 Dec 2025 (marketable securities and time deposits fell)."
+            },
+            "loans_gross": {
+                "v": 9225.177,
+                "source_url": "https://www.allobank.com/api/assets/9f30d0d3-a411-4e99-9158-f6c730120a1a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 (unaudited, published 30 Oct 2026), PDF p. 67, Note 10 'Jumlah' (gross, before allowance)",
+                "basis": "consolidated",
+                "note": "Same 9,225,177 (Rp juta) in the published report PDF p. 1 'Kredit yang diberikan'."
+            },
+            "loans_gross_prior": {
+                "v": 8479.026,
+                "source_url": "https://www.allobank.com/api/assets/964ca9a0-2399-47ed-ae75-a83b41ad42d4",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Interim FS 30 Sep 2025 (unaudited), PDF p. 66, Note 10 'Jumlah' (gross, before allowance)",
+                "basis": "consolidated"
+            },
+            "deposits": {
+                "v": 6629.528,
+                "source_url": "https://www.allobank.com/api/assets/9f30d0d3-a411-4e99-9158-f6c730120a1a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Interim FS 30 Sep 2026 (unaudited, published 30 Oct 2026), PDF p. 5, 'Simpanan nasabah' subtotal (Note 18 total PDF p. 75)",
+                "basis": "consolidated",
+                "note": "Deposits from customers fell from 9,519.0bn at 31 Dec 2025 (time deposits 8,040.1 -> 5,152.9bn)."
+            },
+            "deposits_prior": {
+                "v": 8780.254,
+                "source_url": "https://www.allobank.com/api/assets/964ca9a0-2399-47ed-ae75-a83b41ad42d4",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "Interim FS 30 Sep 2025 (unaudited), PDF p. 5, 'Simpanan nasabah' subtotal",
+                "basis": "consolidated"
+            },
+            "roe": {
+                "v": 6.16,
+                "source_url": "https://www.allobank.com/api/assets/fb588a57-fe72-4952-bf08-d46f6d387a8a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 10 'Laporan Rasio Keuangan Triwulanan' (INDIVIDUAL), 30 September 2026 column, '9. Return On Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Annualised, OJK definition (same table family as fy.*.roe). 30 Sep 2025: 7.04%."
+            },
+            "roa": {
+                "v": 3.8,
+                "source_url": "https://www.allobank.com/api/assets/fb588a57-fe72-4952-bf08-d46f6d387a8a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 10 'Laporan Rasio Keuangan Triwulanan' (INDIVIDUAL), 30 September 2026 column, '8. Return On Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "Annualised, pre-tax. 30 Sep 2025: 4.61%."
+            },
+            "nim": {
+                "v": 11.25,
+                "source_url": "https://www.allobank.com/api/assets/fb588a57-fe72-4952-bf08-d46f6d387a8a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 10 'Laporan Rasio Keuangan Triwulanan' (INDIVIDUAL), 30 September 2026 column, '10. Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 10.43%."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: the 30 Sep 2026 published report and interim FS print no cost-of-credit ratio; no 3Q26 analyst deck on allobank.com (checked 2026-11-03). Not computed."
+            },
+            "npl_gross": {
+                "v": 2.06,
+                "source_url": "https://www.allobank.com/api/assets/fb588a57-fe72-4952-bf08-d46f6d387a8a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 10 'Laporan Rasio Keuangan Triwulanan' (INDIVIDUAL), 30 September 2026 column, '5. NPL gross'",
+                "basis": "bank_only",
+                "note": "NPL net 0.67%. 30 Sep 2025: gross 1.52%, net 0.61%."
+            },
+            "lar": {
+                "v": 8.51,
+                "source_url": "https://www.allobank.com/api/assets/fb588a57-fe72-4952-bf08-d46f6d387a8a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 10 'Laporan Rasio Keuangan Triwulanan' (INDIVIDUAL), 30 September 2026 column, '7. Kredit Kualitas Rendah (KKR)'",
+                "basis": "bank_only",
+                "note": "KKR (low-quality loans), the OJK published-report loan-at-risk-type measure newly printed in 2026 reports; no formula printed. 30 Sep 2025 comparative: 14.17%. Not comparable with any FY value (none disclosed)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio in the 30 Sep 2026 published report or interim FS (only 'CKPN aset keuangan terhadap aset produktif' 1.24%). Not computed."
+            },
+            "ldr": {
+                "v": 139.15,
+                "source_url": "https://www.allobank.com/api/assets/fb588a57-fe72-4952-bf08-d46f6d387a8a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 10 'Laporan Rasio Keuangan Triwulanan' (INDIVIDUAL), 30 September 2026 column, '13. Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "30 Sep 2025: 96.57%. Rise reflects the fall in deposits in 2026."
+            },
+            "car": {
+                "v": 65.98,
+                "source_url": "https://www.allobank.com/api/assets/fb588a57-fe72-4952-bf08-d46f6d387a8a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 10 'Laporan Rasio Keuangan Triwulanan' (INDIVIDUAL), 30 September 2026 column, '1. Kewajiban Penyediaan Modal Minimum (KPMM)'",
+                "basis": "bank_only",
+                "note": "Tier 1 65.15% (PDF p. 9). 30 Sep 2025: 78.76%."
+            },
+            "cir": {
+                "v": 44.35,
+                "source_url": "https://www.allobank.com/api/assets/fb588a57-fe72-4952-bf08-d46f6d387a8a",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Laporan Publikasi Triwulanan 30 Sep 2026, PDF p. 10 'Laporan Rasio Keuangan Triwulanan' (INDIVIDUAL), 30 September 2026 column, '12. Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "BOPO 77.86%. 30 Sep 2025: CIR 43.51%, BOPO 70.19%."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not printed as a ratio in the 30 Sep 2026 published report or interim FS (published report PDF p. 2 lists giro 461,330, tabungan 1,015,311, deposito 5,152,887 Rp juta). Not computed (no derived values)."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "Rights issue PUT II (7,498,501,776 new shares, ex-date 9 Jul 2021, completed 26 Jul 2021) means FY2021 basic EPS Rp24.26 is computed on weighted-average shares of 7,933,682,683 (audited FS2021 Note 28, PDF p. 102; FS2022 Note 29, PDF p. 104: 192,474,618,193 / 7,933,682,683 = 24.26), while shares_out is the year-end 11,682,933,571. The ~47% gap is real, not a data error."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: every Allo Bank document was downloaded DIRECTLY from the bank's own public document API https://www.allobank.com/api/assets/<uuid> (no bot challenge). The list of documents (titles -> uuids) comes from the site's own JSON endpoint https://allobank.com/api/investor-relation that feeds the IR page https://www.allobank.com/about-us/investor-relations. The two KSEI rights-issue notices were downloaded from web.ksei.co.id. No Internet Archive copy and no news source was needed for any number except the cross-check quote for the FY2025 payout (Kontan).",
+        "ENTITY / BASIS: PT Allo Bank Indonesia Tbk, formerly PT Bank Harda Internasional Tbk (IPO Aug 2015 as BBHI; acquired by PT Mega Corpora / CT Corp in 2021; renamed effective 30 Jun 2021; KBMI 2 since the 2022 PUT III). It has NO subsidiaries, so its (entity) financial statements are the whole group: money figures are stored with basis 'consolidated' as SCHEMA rule 3 requires, ratios with basis 'bank_only' as reported to OJK ('INDIVIDUAL'). Conventional bank (sharia=false). FY2019 and FY2020 figures are those of Bank Harda before the digital-bank pivot; growth from FY2020 to FY2022 is dominated by the PUT II/PUT III capital raises and the switch to digital lending, not organic growth.",
+        "CORPORATE ACTIONS 2019-now: only two rights issues - PUT II (125:224 at Rp100, ex 9 Jul 2021) and PUT III (100:86 at Rp478, ex 10 Jan 2022). NO stock split, reverse split, bonus issue or stock dividend: the share count reconciles exactly (4,184,431,795 + 7,498,501,776 = 11,682,933,571; + 10,047,322,871 = 21,730,256,442, unchanged through 30 Sep 2026), and AR2023 PDF p. 22, AR2024 PDF p. 22 and AR2025 PDF p. 24 state that no stock split, reverse stock, bonus shares or nominal-value change took place. Per-share history therefore needs no adjustment factor. Pre-2019 (out of scope): 2017 private placement of 365m shares at Rp100, 2018 PUT I of 169,431,795 shares at Rp200.",
+        "SHARE BUYBACKS (not a schema corporate-action type, but they change shares_out): programme of up to Rp200bn under POJK 13/2023 'significantly fluctuating market' rules, disclosed 30 Apr 2025 and extended 29 Jul 2025, 29 Oct 2025 and in 2026 (Phase II/III disclosures on the IR page). Treasury shares: 90,390,800 at 31 Dec 2025 (cost Rp121.4bn), 603,142,300 at 30 Sep 2026 (cost Rp598.5bn). shares_out is net of treasury shares; FY2025 EPS uses 21,703,311,507 weighted shares.",
+        "DIVIDENDS: no dividend out of FY2020, FY2021, FY2022 or FY2023 profit (AGMS resolutions; FY2020 because of accumulated losses, later years to build capital), hence no dividend records for those years and payout_ratio v 0 with the AGMS source; the validator's 'no dividend records' warnings for FY2020-FY2023 are expected. First cash dividend: FY2024 (Rp10.74/share, ex 22 Apr 2025); FY2025: Rp13.28/share (ex 6 Jul 2026). Both are ~50% of profit. NOTE a contradiction inside FS2025 Note 24 (PDF p. 92): it says 99.99% of FY2024 profit was retained, but the same FS's equity statement (PDF p. 15) and the AGMS of 10 Apr 2025 show the Rp233.4bn dividend; the AGMS resolution is used.",
+        "FY2025 AUDITED FS: the 'Laporan Keuangan Audit 2025' PDF on allobank.com carries 'Final Draft / Paraf' footers on every statement page; it contains the directors' statement dated 23 Feb 2026 and the auditor's report (RSM Indonesia, scanned pages). Its figures equal those in AR2025 (e.g. total assets 18,470,073 Rp juta, AR2025 PDF p. 14). A reviewer may want to re-check against the IDX-filed version.",
+        "FY2021 NET PROFIT: FS2021 Note 28 (PDF p. 102) prints net income 192,188,190,422, but the FS2021 face statement (PDF p. 8), the FS2022 comparative, the AGMS 2022 resolution and AR2025 all print 192,474,618,193 (and 192,474,618,193 / 7,933,682,683 = the printed EPS 24.26). The face-statement figure is stored.",
+        "RATIOS: all FY ratios are the bank's OJK ratios as printed in the AR 'Rasio-rasio Keuangan' table - AR2025 for FY2021-FY2025, AR2024 for FY2020 (identical to AR2020/AR2021 for every ratio; AR2021 has no CIR line). No restatements found between AR2022, AR2023, AR2024 and AR2025. Values outside the validator's plausibility ranges are REAL: CAR FY2023 83.35% and FY2024 82.58% (>80), LDR FY2022 163.19% (>160), CIR FY2020 174.55% (>150, printed in three ARs; formula not disclosed, so treat with caution). Cost of credit, loan-at-risk and NPL coverage are not disclosed anywhere for FY2020-FY2025 (null). ROE is the OJK ratio (very high 25.64% in FY2021 because the capital base was still small before PUT III).",
+        "INTERIM: 9M 2026 (30 Sep 2026) from the unaudited interim FS (published 30 Oct 2026) and the OJK quarterly published report. Profit -11% YoY; total assets and deposits fell sharply in 2026 (deposits 9,519bn Dec-25 -> 6,630bn Sep-26) while loans rose slightly, lifting LDR to 139%. Equity fell because of the FY2025 dividend and Rp477bn of 2026 buybacks. lar = OJK 'Kredit Kualitas Rendah' (first printed in 2026).",
+        "YEAR-END PRICES: Q4 closing prices from the AR share tables; all on the 2019-now share basis (no splits). AR2021 prints the session dates (30 Dec 2020, 30 Dec 2021). There is no prices/BBHI.json yet, so the year-end price cross-check could not be run."
+    ]
+}

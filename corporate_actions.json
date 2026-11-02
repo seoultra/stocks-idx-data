@@ -66,6 +66,32 @@
             "note": "1 old share -> 5 new shares; nominal Rp62.50 -> Rp12.50; approved by EGM 2021-09-23. Last regular-market day at old nominal 2021-10-12; recording date 2021-10-14; KSEI distribution and cash-market start 2021-10-15 (the date the annual reports cite as 'stock split on October 15, 2021'). Shares 24,655,010,000 -> 123,275,050,000."
         },
         {
+            "code": "BBHI",
+            "type": "rights",
+            "ratio_old": 125,
+            "ratio_new": 224,
+            "ex_date": "2021-07-09",
+            "exercise_price": 100,
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BBHI_RIGHT_20210712_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-07-05",
+            "loc": "KSEI notice KSEI-12472/JKU/0721 dated 5 Jul 2021, p. 1, 'Jadwal HMETD' ('Tanggal Ex di Pasar Regular dan Pasar Negosiasi: 9 Juli 2021') and 'Keterangan' (125 shares -> 224 HMETD, exercise Rp100)",
+            "note": "PUT II / PMHMETD II of PT Bank Harda Internasional Tbk (renamed PT Allo Bank Indonesia Tbk effective 30 Jun 2021) after PT Mega Corpora (CT Corp) took control. Every holder of 125 shares on the 12 Jul 2021 register received 224 rights; 1 right = 1 new share (nominal Rp100) at Rp100. Approved by the GMS of 7 May 2021; OJK effective 30 Jun 2021 (S-104/D.04/2021); cum (regular & negotiated) 8 Jul, ex 9 Jul 2021; cash market cum 12 / ex 13 Jul; rights listed/traded/exercised 14-21 Jul 2021; allotment 26 Jul 2021; standby buyer PT Mega Corpora. 7,498,501,776 new shares (4,184,431,795 -> 11,682,933,571; FS2021 PDF pp. 7, 99; AR2025 PDF p. 123 (printed p. 120)), proceeds Rp749,850,177,600 (net Rp748,447m, AR2021 p. 99). The short prospectus (https://www.allobank.com/api/assets/4f63b565-3fd6-4ee7-9ee6-358c281d5a79, 'Jadwal Sementara' p. 1) prints the same schedule and ratio but a typo share count 7,498,501,696. Not a split: no per-share adjustment factor."
+        },
+        {
+            "code": "BBHI",
+            "type": "rights",
+            "ratio_old": 100,
+            "ratio_new": 86,
+            "ex_date": "2022-01-10",
+            "exercise_price": 478,
+            "source_url": "https://www.allobank.com/api/assets/b4f3c124-f54d-433b-a4fd-e78d0973f8d8",
+            "source_type": "company_release",
+            "as_of_date": "2022-01-03",
+            "loc": "Prospektus PMHMETD III dated 3 Jan 2022, PDF p. 1 (cover): schedule ('Tanggal mulai perdagangan saham tanpa HMETD (Ex-Right) - Pasar Reguler dan Pasar Negosiasi: 10 Januari 2022') and offer paragraph (100 shares -> 86 HMETD, exercise Rp478)",
+            "note": "PMHMETD III (PUT III): every holder of 100 shares on the 11 Jan 2022 register received 86 rights; 1 right = 1 new share (nominal Rp100) at Rp478. EGMS 15 Oct 2021; OJK effective 30 Dec 2021 (S-245/D.04/2021); cum (regular & negotiated) 7 Jan, ex 10 Jan 2022; cash market cum 11 / ex 12 Jan; rights traded/exercised 13-19 Jan 2022; allotment 24 Jan 2022; completed 26 Jan 2022. PT Mega Corpora exercised ~30% of its rights and transferred the rest to PT Bukalapak.com, Abadi Investments (Grab-linked), PT Indolife Investama Perkasa, H Holdings, Trusty Cars and PT CT Corpora. 10,047,322,871 new shares (11,682,933,571 -> 21,730,256,442), proceeds Rp4,802,620,332,338 (AR2025 PDF p. 123, printed p. 120). Schedule confirmed by KSEI notice KSEI-235/JKU/0122 of 5 Jan 2022 (https://web.ksei.co.id/Announcement/Files/BBHI_RIGHT_20220111_ID.pdf). Not a split: no per-share adjustment factor."
+        },
+        {
             "code": "BBKP",
             "type": "rights",
             "ratio_old": 5,
