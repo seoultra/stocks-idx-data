@@ -453,6 +453,31 @@
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/agro/"
+        },
+        {
+            "code": "BJBR",
+            "name": "PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+            "name_short": "Bank BJB",
+            "sector": "banking",
+            "group": "bpd",
+            "kbmi": 2,
+            "sharia": false,
+            "fy_first": 2020,
+            "fy_latest": 2025,
+            "interim": "9M 2026",
+            "interim_period_end": "2026-09-30",
+            "data_through": "2026-09-30",
+            "dividend_records": 6,
+            "file": "issuers/BJBR.json",
+            "prices": {
+                "file": "prices/BJBR.json",
+                "first_date": "2019-01-02",
+                "last_date": "2026-11-02",
+                "sessions": 1891,
+                "last_close": 715,
+                "today": null
+            },
+            "page": "https://seoultra.id/stocks/idx/bjbr/"
         }
     ]
 }

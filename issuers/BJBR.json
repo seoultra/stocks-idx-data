@@ -1,0 +1,1409 @@
+{
+    "schema": 1,
+    "code": "BJBR",
+    "name": "PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+    "name_short": "Bank BJB",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bankbjb.co.id",
+    "ir_url": "https://ir.bankbjb.co.id",
+    "kbmi": {
+        "v": 2,
+        "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "AR2025 PDF pp. 540-541, Risk Management / capital: 'Per akhir Desember 2025, modal inti bank bjb (audited) mencapai Rp14,89 triliun dan berada pada kategori KBMI 2'; also PDF pp. 474-476",
+        "note": "KBMI 2 (core capital Rp6tn-Rp14tn bracket per the AR's own description). Bank-only basis."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 123536.474,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2021 PDF p. 25 (printed p. 23), Tabel Ikhtisar Keuangan dan Rasio Keuangan, 2019 column, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "FY2019 audited FS / AR2019 could not be retrieved; value from the AR2021 5-year highlight table (same figure in AR2022 and AR2023 tables)."
+            },
+            "loans_gross": {
+                "v": null,
+                "note": "Not stored: no retrievable FY2019 FS. The AR2021 5-year table (PDF p. 24) prints only the two components of 'Kredit yang diberikan' for 2019 (related parties 261,564; third parties 81,625,682 Rp juta) with no subtotal; not summed here (no derived values). Sharia financing 2019: 5,402,059."
+            },
+            "deposits": {
+                "v": null,
+                "note": "Not stored: no retrievable FY2019 FS. The AR2021 5-year table (PDF p. 25) prints only the components of 'Simpanan nasabah' for 2019 (related parties 12,981,015; third parties 70,583,378 Rp juta) with no subtotal; not summed here (no derived values)."
+            },
+            "equity_attr": {
+                "v": 11992.84,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2021 PDF p. 26 (printed p. 24), Tabel Ikhtisar Keuangan, 2019 column, 'Total Ekuitas yang dapat diatribusikan kepada entitas induk'",
+                "basis": "consolidated",
+                "note": "From the AR2021 5-year highlight table (same in AR2022/AR2023). Pre-PSAK 71 (adopted 1 Jan 2020)."
+            },
+            "total_equity": {
+                "v": 12042.629,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2021 PDF p. 26 (printed p. 24), Tabel Ikhtisar Keuangan, 2019 column, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 1687.218,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 1060 (FS p. 5), 2020 comparative column, Laporan Laba Rugi Konsolidasian, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 171.49,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 1060 (FS p. 5), 2020 comparative column, 'LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (NILAI PENUH)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31"
+            },
+            "payout_ratio": {
+                "v": 56,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 440 (printed p. 438), Tabel Pengumuman dan Pembayaran Dividen, 'Dividend Pay Out Ratio' FY2020; AGMS resolution PDF p. 644",
+                "basis": "bank_only",
+                "note": "56% of 'laba bersih Perseroan tahun buku 2020' Rp1,682,122,120,349 (AGMS 6 Apr 2021). That base appears to be bank-only net profit (confirmed for FY2022/FY2023, see research_notes), not the consolidated profit attributable (1,687,218 Rp juta); implied on consolidated attributable: 55.8%."
+            },
+            "total_assets": {
+                "v": 140934.002,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 1056 (FS p. 1), 2020 comparative column, Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Comparative column of the FY2021 audited FS (the FY2020 AR/FS could not be retrieved). The AR2021 highlight table (PDF p. 25) prints TOTAL ASET 140,961,431 for 2020 but 140,934,002 on its own total-liabilities-and-equity line."
+            },
+            "loans_gross": {
+                "v": 89450.934,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 1056 (FS p. 1), 2020 comparative column, Laporan Posisi Keuangan Konsolidasian, 'Kredit yang diberikan' subtotal (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans only: the FS presents sharia financing as a separate caption with no combined total ('Pembiayaan dan piutang syariah', gross 5,761,509 Rp juta), so it is NOT included (no derived sums)."
+            },
+            "deposits": {
+                "v": 99798.476,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 1057 (FS p. 2), 2020 comparative column, 'Simpanan nasabah' subtotal (related + third parties)",
+                "basis": "consolidated",
+                "note": "Conventional customer deposits only. Presented separately and NOT included: 'Simpanan nasabah - Syariah' 480,094 and 'Total dana syirkah temporer' 6,251,318 (Rp juta). The bank's DPK figures in the MD&A are bank-only."
+            },
+            "equity_attr": {
+                "v": 11959.524,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 1058 (FS p. 3), 2020 comparative column, 'Total ekuitas yang dapat diatribusikan kepada entitas induk'",
+                "basis": "consolidated",
+                "note": "Comparative column of the FY2021 audited FS. AR2021 highlight table (PDF p. 26) prints 11,986,953 (NCI 46,328), presumably the AR2020 as-originally-reported figure."
+            },
+            "total_equity": {
+                "v": 12005.8,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 1058 (FS p. 3), 2020 comparative column, 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 9838787161,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 35 'Jumlah Saham Beredar' (Q4 2020) and FS PDF p. 1058",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "No treasury shares reported."
+            },
+            "year_end_price": {
+                "v": 1550,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 35 (printed p. 33), Tabel Harga, Volume dan Kapitalisasi Saham bank bjb 2017-2021, 2020 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 16.96,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF pp. 30-31 (printed pp. 28-29), 'RASIO KEUANGAN BANK SAJA (%) / FINANCIAL RATIOS BANK ONLY (%)'",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK basis), bank only; the AR does not print the formula. AR2022 and AR2023 5-year tables print 16.95 for 2020 (AR2021: 16.96)."
+            },
+            "roa": {
+                "v": 1.66,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF pp. 30-31 (printed pp. 28-29), 'RASIO KEUANGAN BANK SAJA (%) / FINANCIAL RATIOS BANK ONLY (%)'",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK basis), bank only."
+            },
+            "nim": {
+                "v": 5.39,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF pp. 30-31 (printed pp. 28-29), 'RASIO KEUANGAN BANK SAJA (%) / FINANCIAL RATIOS BANK ONLY (%)'",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK basis), bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2021, AR2022, AR2023 or AR2025 (checked: 5-year ratio tables, MD&A 'Rasio Keuangan Penting', FS supplementary Note 57); analyst presentations not retrievable."
+            },
+            "npl_gross": {
+                "v": 1.4,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF pp. 30-31 (printed pp. 28-29), 'RASIO KEUANGAN BANK SAJA (%) / FINANCIAL RATIOS BANK ONLY (%)'",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (conventional loans)."
+            },
+            "npl_net": {
+                "v": 0.41,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF pp. 30-31 (printed pp. 28-29), 'RASIO KEUANGAN BANK SAJA (%) / FINANCIAL RATIOS BANK ONLY (%)'",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: the annual reports mention Loan at Risk only qualitatively (e.g. AR2025 PDF p. 311); no LaR ratio printed (checked 5-year ratio table, MD&A, FS notes). Analyst presentations not retrievable."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio (5-year table prints only 'CKPN aset keuangan terhadap aset produktif'). Not derived from NPL and allowance amounts in the FS notes."
+            },
+            "ldr": {
+                "v": 86.32,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF pp. 30-31 (printed pp. 28-29), 'RASIO KEUANGAN BANK SAJA (%) / FINANCIAL RATIOS BANK ONLY (%)'",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 17.31,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF pp. 30-31 (printed pp. 28-29), 'RASIO KEUANGAN BANK SAJA (%) / FINANCIAL RATIOS BANK ONLY (%)'",
+                "basis": "bank_only",
+                "note": "KPMM (CAR incl. credit, market and operational risk), bank only."
+            },
+            "cir": {
+                "v": 76.7,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF pp. 30-31 (printed pp. 28-29), 'RASIO KEUANGAN BANK SAJA (%) / FINANCIAL RATIOS BANK ONLY (%)'",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed under 'Rasio Lainnya', bank only."
+            },
+            "bopo": {
+                "v": 83.95,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF pp. 30-31 (printed pp. 28-29), 'RASIO KEUANGAN BANK SAJA (%) / FINANCIAL RATIOS BANK ONLY (%)'",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": null,
+                "note": "CASA ratio not disclosed: the AR ratio tables print 'Total CASA (dalam juta Rupiah)' as an amount only (bank only); not derived."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 2031.858,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1060 (FS p. 5), Laporan Laba Rugi Konsolidasian, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 206.52,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1060 (FS p. 5), 'LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (NILAI PENUH)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31"
+            },
+            "payout_ratio": {
+                "v": 51.77,
+                "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 446 (printed p. 444), Tabel Pengumuman dan Pembayaran Dividen, FY2021; AGMS resolution PDF p. 629",
+                "basis": "bank_only",
+                "note": "51.77% of 'laba bersih Perseroan tahun buku 2021' Rp2,014,277,161,078 (AGMS 1 Apr 2022; appears to be bank-only), not the consolidated attributable 2,031,858 Rp juta; implied on consolidated attributable: 51.3%."
+            },
+            "total_assets": {
+                "v": 158356.097,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1056 (FS p. 1), Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 95813.046,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1056 (FS p. 1), Laporan Posisi Keuangan Konsolidasian, 'Kredit yang diberikan' subtotal (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "As originally reported in the FY2021 audited FS (AR2021). The FY2022 FS comparative (AR2022 PDF p. 1069, '2021 *)' reclassified) shows 95,968,071. Conventional loans only: the FS presents sharia financing as a separate caption with no combined total ('Pembiayaan dan piutang syariah', gross 6,418,869 Rp juta), so it is NOT included (no derived sums)."
+            },
+            "deposits": {
+                "v": 113764.51,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1057 (FS p. 2), 'Simpanan nasabah' subtotal (related + third parties)",
+                "basis": "consolidated",
+                "note": "Conventional customer deposits only. Presented separately and NOT included: 'Simpanan nasabah - Syariah' 615,116 and 'Total dana syirkah temporer' 7,316,690 (Rp juta). The bank's DPK figures in the MD&A are bank-only."
+            },
+            "equity_attr": {
+                "v": 13036.374,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1058 (FS p. 3), 'Total ekuitas yang dapat diatribusikan kepada entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 13084.033,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 1058 (FS p. 3), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 9838787161,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 35 'Jumlah Saham Beredar' (Q4 2021) and FS PDF p. 1058 (Seri A 7,414,714,661 + Seri B 2,424,072,500)",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Pre-rights-issue count; PMHMETD I added 682,656,525 Series B shares in Mar 2022."
+            },
+            "year_end_price": {
+                "v": 1335,
+                "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 35 (printed p. 33), Tabel Harga, Volume dan Kapitalisasi Saham bank bjb 2017-2021, 2021 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Same value in AR2022 share table. Q4 closing price as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 19.01,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK basis), bank only; the AR does not print the formula. FY2021 column is marked '2021* As reclassified' in AR2022/AR2023/AR2025; ratios identical to AR2021."
+            },
+            "roa": {
+                "v": 1.73,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK basis), bank only."
+            },
+            "nim": {
+                "v": 5.84,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK basis), bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2021, AR2022, AR2023 or AR2025 (checked: 5-year ratio tables, MD&A 'Rasio Keuangan Penting', FS supplementary Note 57); analyst presentations not retrievable."
+            },
+            "npl_gross": {
+                "v": 1.24,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (conventional loans)."
+            },
+            "npl_net": {
+                "v": 0.41,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: the annual reports mention Loan at Risk only qualitatively (e.g. AR2025 PDF p. 311); no LaR ratio printed (checked 5-year ratio table, MD&A, FS notes). Analyst presentations not retrievable."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio (5-year table prints only 'CKPN aset keuangan terhadap aset produktif'). Not derived from NPL and allowance amounts in the FS notes."
+            },
+            "ldr": {
+                "v": 81.68,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 17.78,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR incl. credit, market and operational risk), bank only."
+            },
+            "cir": {
+                "v": 67,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed under 'Rasio Lainnya', bank only."
+            },
+            "bopo": {
+                "v": 81.94,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": null,
+                "note": "CASA ratio not disclosed: the AR ratio tables print 'Total CASA (dalam juta Rupiah)' as an amount only (bank only); not derived."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 2304.376,
+                "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 1073 (FS p. 5), Laporan Laba Rugi Konsolidasian, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 219.02,
+                "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 1073 (FS p. 5), 'LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (NILAI PENUH)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Rights issue (682,656,525 new shares) completed Mar 2022; EPS x 10,521,443,686 year-end shares = profit, i.e. the printed EPS uses the year-end count."
+            },
+            "payout_ratio": {
+                "v": 49.47,
+                "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2023 PDF p. 442 (printed p. 440), Tabel Pengumuman dan Pembayaran Dividen, FY2022; AGMS resolution PDF p. 639",
+                "basis": "bank_only",
+                "note": "49.47% of 'laba bersih Perseroan tahun buku 2022' Rp2,223,637,871,682 (AGMS 6 Apr 2023; = bank-only profit 2,223,639 in the Dec 2023 published statement), not the consolidated attributable 2,304,376 Rp juta; implied on consolidated attributable: 47.7%."
+            },
+            "total_assets": {
+                "v": 181241.291,
+                "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 1069 (FS p. 1), Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 108339.692,
+                "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 1069 (FS p. 1), Laporan Posisi Keuangan Konsolidasian, 'Kredit yang diberikan' subtotal (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans only: the FS presents sharia financing as a separate caption with no combined total ('Pembiayaan dan piutang syariah', gross 7,415,908 Rp juta), so it is NOT included (no derived sums)."
+            },
+            "deposits": {
+                "v": 122019.343,
+                "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 1070 (FS p. 2), 'Simpanan nasabah' subtotal (related + third parties)",
+                "basis": "consolidated",
+                "note": "Conventional customer deposits only. Presented separately and NOT included: 'Simpanan nasabah - Syariah' 795,979 and 'Total dana syirkah temporer' 8,374,424 (Rp juta). The bank's DPK figures in the MD&A are bank-only."
+            },
+            "equity_attr": {
+                "v": 14759.075,
+                "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 1071 (FS p. 3), 'Total ekuitas yang dapat diatribusikan kepada entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 14745.986,
+                "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 1071 (FS p. 3), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10521443686,
+                "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 36 'Jumlah Saham Beredar' (Q4 2022) and FS PDF p. 1071",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "After PMHMETD I (+682,656,525 Series B shares, Mar 2022). No treasury shares reported."
+            },
+            "year_end_price": {
+                "v": 1345,
+                "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 36 (printed p. 34), Tabel Informasi Saham bank bjb 2021-2022, 2022 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Same value in AR2023 PDF p. 35. Q4 closing price as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 18.63,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK basis), bank only; the AR does not print the formula."
+            },
+            "roa": {
+                "v": 1.75,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK basis), bank only."
+            },
+            "nim": {
+                "v": 5.86,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK basis), bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2021, AR2022, AR2023 or AR2025 (checked: 5-year ratio tables, MD&A 'Rasio Keuangan Penting', FS supplementary Note 57); analyst presentations not retrievable."
+            },
+            "npl_gross": {
+                "v": 1.16,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (conventional loans)."
+            },
+            "npl_net": {
+                "v": 0.46,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: the annual reports mention Loan at Risk only qualitatively (e.g. AR2025 PDF p. 311); no LaR ratio printed (checked 5-year ratio table, MD&A, FS notes). Analyst presentations not retrievable."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio (5-year table prints only 'CKPN aset keuangan terhadap aset produktif'). Not derived from NPL and allowance amounts in the FS notes."
+            },
+            "ldr": {
+                "v": 85.03,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 19.19,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR incl. credit, market and operational risk), bank only."
+            },
+            "cir": {
+                "v": 70.04,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed under 'Rasio Lainnya', bank only."
+            },
+            "bopo": {
+                "v": 80.35,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": null,
+                "note": "CASA ratio not disclosed: the AR ratio tables print 'Total CASA (dalam juta Rupiah)' as an amount only (bank only); not derived."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 1778.395,
+                "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 1190 (FS p. 5), Laporan Laba Rugi Konsolidasian, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "AR2025's 5-year highlight table (PDF p. 28) misprints 2023 attributable profit as 1,875,241; the audited FY2023 FS (and EPS 169.03) give 1,778,395."
+            },
+            "eps": {
+                "v": 169.03,
+                "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 1190 (FS p. 5), 'LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (NILAI PENUH)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31"
+            },
+            "payout_ratio": {
+                "v": 58.27,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 494, Tabel Pengumuman dan Pembayaran Dividen, FY2023; AGMS resolution PDF p. 747",
+                "basis": "bank_only",
+                "note": "58.27% of 'laba bersih Perseroan tahun buku 2023' Rp1,716,269,038,391 (AGMS 2024; = bank-only profit 1,716,269 in the Dec 2023 published statement), not the consolidated attributable 1,778,395 Rp juta; implied on consolidated attributable: 56.2%. The AR2025 table prints 'Laba Bersih 1,778,395,000,000' next to the 58.27% ratio."
+            },
+            "total_assets": {
+                "v": 188295.488,
+                "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 1186 (FS p. 1), Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Audited FS. The AR2023 and AR2025 highlight tables print 188,302,923 (unexplained 7,435 difference); the audited face statement is stored."
+            },
+            "loans_gross": {
+                "v": 116300.069,
+                "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 1186 (FS p. 1), Laporan Posisi Keuangan Konsolidasian, 'Kredit yang diberikan' subtotal (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans only: the FS presents sharia financing as a separate caption with no combined total ('Pembiayaan dan piutang syariah', gross related parties 10,881 + third parties 8,767,233 (no gross subtotal printed) Rp juta), so it is NOT included (no derived sums)."
+            },
+            "deposits": {
+                "v": 126478.387,
+                "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 1187 (FS p. 2), 'Simpanan nasabah' subtotal (related + third parties)",
+                "basis": "consolidated",
+                "note": "Conventional customer deposits only. Presented separately and NOT included: 'Simpanan nasabah - Syariah' 948,316 and 'Total dana syirkah temporer' 9,267,368 (Rp juta). The bank's DPK figures in the MD&A are bank-only."
+            },
+            "equity_attr": {
+                "v": 15559.877,
+                "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 1188 (FS p. 3), 'Total ekuitas yang dapat diatribusikan kepada entitas induk'",
+                "basis": "consolidated",
+                "note": "Audited FS. Highlight tables (AR2023 p. 26, AR2025 p. 26) print 15,559,192."
+            },
+            "total_equity": {
+                "v": 15449.018,
+                "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 1188 (FS p. 3), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10521443686,
+                "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 35 'Jumlah Saham Beredar' (Q4 2023) and FS PDF p. 1188",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "No treasury shares reported."
+            },
+            "year_end_price": {
+                "v": 1150,
+                "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 35 (printed p. 33), Tabel Informasi Saham bank bjb 2022-2023, 2023 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 14.55,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK basis), bank only; the AR does not print the formula. CONFLICT: the audited OJK-format Dec 2023 published statement (ir.bankbjb.co.id/files//2024/03/laporan-keuangan-31-desember-2023-6.pdf, Laporan Rasio Keuangan, bank only) prints 13.37 for FY2023; AR2023 and AR2025 print the stored value."
+            },
+            "roa": {
+                "v": 1.33,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK basis), bank only. CONFLICT: the audited OJK-format Dec 2023 published statement (ir.bankbjb.co.id/files//2024/03/laporan-keuangan-31-desember-2023-6.pdf, Laporan Rasio Keuangan, bank only) prints 1.29 for FY2023; AR2023 and AR2025 print the stored value."
+            },
+            "nim": {
+                "v": 5.18,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK basis), bank only. CONFLICT: the audited OJK-format Dec 2023 published statement (ir.bankbjb.co.id/files//2024/03/laporan-keuangan-31-desember-2023-6.pdf, Laporan Rasio Keuangan, bank only) prints 4.89 for FY2023; AR2023 and AR2025 print the stored value."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2021, AR2022, AR2023 or AR2025 (checked: 5-year ratio tables, MD&A 'Rasio Keuangan Penting', FS supplementary Note 57); analyst presentations not retrievable."
+            },
+            "npl_gross": {
+                "v": 1.21,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (conventional loans). CONFLICT: the audited OJK-format Dec 2023 published statement (ir.bankbjb.co.id/files//2024/03/laporan-keuangan-31-desember-2023-6.pdf, Laporan Rasio Keuangan, bank only) prints 1.35 for FY2023; AR2023 and AR2025 print the stored value."
+            },
+            "npl_net": {
+                "v": 0.65,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only. CONFLICT: the audited OJK-format Dec 2023 published statement (ir.bankbjb.co.id/files//2024/03/laporan-keuangan-31-desember-2023-6.pdf, Laporan Rasio Keuangan, bank only) prints 0.75 for FY2023; AR2023 and AR2025 print the stored value."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: the annual reports mention Loan at Risk only qualitatively (e.g. AR2025 PDF p. 311); no LaR ratio printed (checked 5-year ratio table, MD&A, FS notes). Analyst presentations not retrievable."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio (5-year table prints only 'CKPN aset keuangan terhadap aset produktif'). Not derived from NPL and allowance amounts in the FS notes."
+            },
+            "ldr": {
+                "v": 87.54,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 20.12,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR incl. credit, market and operational risk), bank only. CONFLICT: the audited OJK-format Dec 2023 published statement (ir.bankbjb.co.id/files//2024/03/laporan-keuangan-31-desember-2023-6.pdf, Laporan Rasio Keuangan, bank only) prints 20.05 for FY2023; AR2023 and AR2025 print the stored value."
+            },
+            "cir": {
+                "v": 69.02,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed under 'Rasio Lainnya', bank only."
+            },
+            "bopo": {
+                "v": 85.31,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only. CONFLICT: the audited OJK-format Dec 2023 published statement (ir.bankbjb.co.id/files//2024/03/laporan-keuangan-31-desember-2023-6.pdf, Laporan Rasio Keuangan, bank only) prints 85.65 for FY2023; AR2023 and AR2025 print the stored value."
+            },
+            "casa": {
+                "v": null,
+                "note": "CASA ratio not disclosed: the AR ratio tables print 'Total CASA (dalam juta Rupiah)' as an amount only (bank only); not derived."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 1369.463,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 1288 (FS p. 5), 2024 comparative column, Laporan Laba Rugi Konsolidasian, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Consolidates Bank Bengkulu from 1 Mar 2024 and Bank Jambi from 17 Dec 2024 (KUB)."
+            },
+            "eps": {
+                "v": 130.16,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 1288 (FS p. 5), 2024 comparative column, 'LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (NILAI PENUH)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31"
+            },
+            "payout_ratio": {
+                "v": 65.5,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 494, Tabel Pengumuman dan Pembayaran Dividen, FY2024; AGMS resolution PDF p. 739",
+                "basis": "consolidated",
+                "note": "65.50% of consolidated net profit attributable to owners of the parent Rp1,369,462,904,109 (AGMS 2025)."
+            },
+            "total_assets": {
+                "v": 219960.693,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 1284 (FS p. 1), 2024 comparative column, Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Audited FS comparative, marked '2024*)' on the liabilities page (the footnote text is not in the PDF text layer). AR2025's own 5-year highlight table (PDF p. 25) prints 219,990,827 (probably the AR2024 as-originally-reported figure; AR2024 could not be retrieved). First year with Bank Bengkulu (consolidated from 1 Mar 2024, 15.54% owned) and Bank Jambi (consolidated from 17 Dec 2024, 7.75% owned) under KUB control agreements (AR2025 FS Note 56, PDF pp. 1486-1490); hence the jump in non-controlling interest."
+            },
+            "loans_gross": {
+                "v": 135656.052,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 1284 (FS p. 1), 2024 comparative column, Laporan Posisi Keuangan Konsolidasian, 'Kredit yang diberikan' subtotal (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans only: the FS presents sharia financing as a separate caption with no combined total ('Pembiayaan dan piutang syariah', gross 10,749,693 Rp juta), so it is NOT included (no derived sums)."
+            },
+            "deposits": {
+                "v": 142611.851,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 1285 (FS p. 2), 2024*) comparative column, 'Simpanan nasabah' subtotal (related + third parties)",
+                "basis": "consolidated",
+                "note": "Conventional customer deposits only. Presented separately and NOT included: 'Simpanan nasabah - Syariah' 1,165,075 and 'Total dana syirkah temporer' 10,141,898 (Rp juta). The bank's DPK figures in the MD&A are bank-only."
+            },
+            "equity_attr": {
+                "v": 16290.967,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 1286 (FS p. 3), 2024 comparative column, 'Total ekuitas yang dapat diatribusikan kepada entitas induk'",
+                "basis": "consolidated",
+                "note": "Audited FS comparative. AR2025 highlight table (PDF p. 26) prints 16,287,223."
+            },
+            "total_equity": {
+                "v": 19638.701,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 1286 (FS p. 3), 2024 comparative column, 'TOTAL EKUITAS'",
+                "basis": "consolidated",
+                "note": "Audited FS comparative. AR2025 highlight table (PDF p. 26) prints 19,634,957."
+            },
+            "shares_out": {
+                "v": 10521443686,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 35 'Jumlah Saham Beredar' (Q4 2024) and FS PDF p. 1286",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "No treasury shares reported."
+            },
+            "year_end_price": {
+                "v": 910,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 35, Tabel Informasi Saham bank bjb 2024-2025, 2024 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "AR2024 could not be retrieved; value from the AR2025 two-year share table. As_of_date = period end (session date not printed)."
+            },
+            "roe": {
+                "v": 9.57,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK basis), bank only; the AR does not print the formula."
+            },
+            "roa": {
+                "v": 0.86,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK basis), bank only."
+            },
+            "nim": {
+                "v": 3.83,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK basis), bank only. Large step down from 5.18% (FY2023) to 3.83% (FY2024); the AR2025 does not explain it (no restatement of FY2023 in the AR2025 table). Possibly a change in the OJK NIM computation; reviewer to check."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2021, AR2022, AR2023 or AR2025 (checked: 5-year ratio tables, MD&A 'Rasio Keuangan Penting', FS supplementary Note 57); analyst presentations not retrievable."
+            },
+            "npl_gross": {
+                "v": 2.22,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (conventional loans). FS Note 57 (PDF pp. 1495 and 1498): consolidated 2.16%, parent-only 2.22%."
+            },
+            "npl_net": {
+                "v": 1,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only. FS Note 57: consolidated 0.96%, parent-only 1.01% (table: 1.00)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: the annual reports mention Loan at Risk only qualitatively (e.g. AR2025 PDF p. 311); no LaR ratio printed (checked 5-year ratio table, MD&A, FS notes). Analyst presentations not retrievable."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio (5-year table prints only 'CKPN aset keuangan terhadap aset produktif'). Not derived from NPL and allowance amounts in the FS notes."
+            },
+            "ldr": {
+                "v": 89.49,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 19.7,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR incl. credit, market and operational risk), bank only. AR2025 MD&A (PDF p. 479): consolidated 18.71%. FS Note 57 'parent entity' table prints 18.89%."
+            },
+            "cir": {
+                "v": 71.47,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed under 'Rasio Lainnya', bank only."
+            },
+            "bopo": {
+                "v": 90.2,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": null,
+                "note": "CASA ratio not disclosed: the AR ratio tables print 'Total CASA (dalam juta Rupiah)' as an amount only (bank only); not derived."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 1152.816,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1288 (FS p. 5), Laporan Laba Rugi Konsolidasian, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk'",
+                "basis": "consolidated",
+                "note": "Non-controlling interest share of profit 431,310 Rp juta (Bank Bengkulu / Bank Jambi minorities)."
+            },
+            "eps": {
+                "v": 109.57,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1288 (FS p. 5), 'LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (NILAI PENUH)'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31"
+            },
+            "payout_ratio": {
+                "v": 78.07,
+                "source_url": "https://emitennews.com/news/cum-date-7-mei-bjbr-bagi-dividen-rp900-miliar",
+                "source_type": "news",
+                "as_of_date": "2025-12-31",
+                "loc": "EmitenNews 30 Apr 2026 'Cum Date 7 Mei, BJBR Bagi Dividen Rp900 Miliar', paragraph 1",
+                "basis": "consolidated",
+                "note": "AGMS 28 Apr 2026: Rp900,004,292,900 = 78.07% of FY2025 net profit (Rp1.15tn; consolidated attributable 1,152,816 Rp juta -> 78.07%). The article misstates the year as 'tahun buku 2024' in that sentence but names the FY2025 AGMS. No company/IDX document retrievable (bankbjb.co.id blocks this server; not archived)."
+            },
+            "total_assets": {
+                "v": 221347.288,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1284 (FS p. 1), Laporan Posisi Keuangan Konsolidasian, 'TOTAL ASET'",
+                "basis": "consolidated",
+                "note": "Consolidates bank bjb syariah, PT BPR Intan Jabar, bjb Sekuritas, and (by control under the KUB shareholder agreements) Bank Bengkulu (15.48% owned) and Bank Jambi (7.75% owned)."
+            },
+            "loans_gross": {
+                "v": 128791.142,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1284 (FS p. 1), Laporan Posisi Keuangan Konsolidasian, 'Kredit yang diberikan' subtotal (related + third parties, before allowance)",
+                "basis": "consolidated",
+                "note": "Conventional loans only: the FS presents sharia financing as a separate caption with no combined total ('Pembiayaan dan piutang syariah', gross 11,920,507 Rp juta), so it is NOT included (no derived sums)."
+            },
+            "deposits": {
+                "v": 140104.475,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1285 (FS p. 2), 'Simpanan nasabah' subtotal (related + third parties)",
+                "basis": "consolidated",
+                "note": "Conventional customer deposits only. Presented separately and NOT included: 'Simpanan nasabah - Syariah' 1,304,733 and 'Total dana syirkah temporer' 11,536,693 (Rp juta). The bank's DPK figures in the MD&A are bank-only."
+            },
+            "equity_attr": {
+                "v": 17032.667,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1286 (FS p. 3), 'Total ekuitas yang dapat diatribusikan kepada entitas induk'",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 20820.752,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 1286 (FS p. 3), 'TOTAL EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10521443686,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 35 'Jumlah Saham Beredar' (Q4 2025) and FS PDF p. 1286 (Seri A 7,414,714,661 + Seri B 3,106,729,025)",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "No treasury shares reported."
+            },
+            "year_end_price": {
+                "v": 805,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 35, Tabel Informasi Saham bank bjb 2024-2025, 2025 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed; the AR does not print the session date, so as_of_date is the period end."
+            },
+            "roe": {
+                "v": 7.32,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "ROE as reported (OJK basis), bank only; the AR does not print the formula."
+            },
+            "roa": {
+                "v": 0.7,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK basis), bank only."
+            },
+            "nim": {
+                "v": 3.84,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK basis), bank only."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not disclosed: no cost-of-credit / credit-cost ratio in AR2021, AR2022, AR2023 or AR2025 (checked: 5-year ratio tables, MD&A 'Rasio Keuangan Penting', FS supplementary Note 57); analyst presentations not retrievable."
+            },
+            "npl_gross": {
+                "v": 2.91,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Gross NPL, bank only (conventional loans). FS Note 57 (PDF pp. 1495 and 1498) prints consolidated gross NPL 2.78% and parent-only 2.90% (AR table: 2.91)."
+            },
+            "npl_net": {
+                "v": 1.29,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Net NPL, bank only. FS Note 57: consolidated 1.21%, parent-only 1.28% (table: 1.29)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: the annual reports mention Loan at Risk only qualitatively (e.g. AR2025 PDF p. 311); no LaR ratio printed (checked 5-year ratio table, MD&A, FS notes). Analyst presentations not retrievable."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not disclosed as a ratio (5-year table prints only 'CKPN aset keuangan terhadap aset produktif'). Not derived from NPL and allowance amounts in the FS notes."
+            },
+            "ldr": {
+                "v": 88.13,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "LDR, bank only."
+            },
+            "car": {
+                "v": 21.2,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR incl. credit, market and operational risk), bank only. AR2025 MD&A (PDF p. 479) gives consolidated CAR 19.70% (2024: 18.71%); FS Note 57 (PDF pp. 1500-1501) prints a 'parent entity' CAR of 19.75% (2024: 18.89%) - inconsistent with the 21.20% bank-only figure printed in the AR tables and MD&A (PDF p. 451: '21,20% (bank only)')."
+            },
+            "cir": {
+                "v": 70.89,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "Cost to Income Ratio as printed under 'Rasio Lainnya', bank only."
+            },
+            "bopo": {
+                "v": 92.18,
+                "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF pp. 30-31, Tabel Ikhtisar Keuangan dan Rasio Keuangan, RASIO KEUANGAN (%) (bank only: same values as the '(Bank Only)' Tabel Rasio Keuangan Penting, PDF p. 460, for 2025/2024)",
+                "basis": "bank_only",
+                "note": "BOPO (operating expenses / operating income), bank only."
+            },
+            "casa": {
+                "v": null,
+                "note": "CASA ratio not disclosed: the AR ratio tables print 'Total CASA (dalam juta Rupiah)' as an amount only (bank only); not derived."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 95.74,
+            "total": 941.965482794,
+            "cum_date": "2021-04-14",
+            "ex_date": "2021-04-15",
+            "record_date": "2021-04-16",
+            "pay_date": "2021-05-07",
+            "share_basis": "2021-04-06",
+            "source_url": "https://bankbjb.co.id/files/2022/06/laporan-tahunan-bank-bjb-2021-8.pdf",
+            "source_type": "filing",
+            "as_of_date": "2021-04-06",
+            "loc": "AR2021 PDF pp. 439-442 (printed pp. 437-440), Tabel Pengumuman dan Pembayaran Dividen + Tabel Rincian Jadwal Pembayaran Dividen Tunai (FY2020); AGMS resolution PDF p. 644",
+            "note": "AGMS 6 Apr 2021: 56% of FY2020 net profit = Rp941,965,482,794 = Rp95.74/share on 9,838,787,161 shares. Cum/ex = regular & negotiated market."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 99.11,
+            "total": 1042.780283718,
+            "cum_date": "2022-04-07",
+            "ex_date": "2022-04-08",
+            "record_date": "2022-04-11",
+            "pay_date": "2022-04-27",
+            "share_basis": "2022-04-01",
+            "source_url": "https://bankbjb.co.id/files//2023/03/laporan-tahunan-bank-bjb-2022.pdf",
+            "source_type": "filing",
+            "as_of_date": "2022-04-01",
+            "loc": "AR2022 PDF pp. 446-448 (printed pp. 444-446), Tabel Pengumuman dan Pembayaran Dividen + Tabel Rincian Jadwal Pembayaran Dividen Tunai (FY2021); AGMS resolution PDF p. 629",
+            "note": "AGMS 1 Apr 2022: 51.77% of FY2021 net profit = Rp1,042,780,283,718 = Rp99.11/share. Paid on the post-rights-issue count 10,521,443,686 (99.11 x 10,521,443,686 = Rp1,042.78bn); the AR table's 'Jumlah Lembar Saham 9,838,787,161' is the FY2021 year-end count."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 104.55,
+            "total": 1100.016937371,
+            "cum_date": "2023-04-13",
+            "ex_date": "2023-04-14",
+            "record_date": "2023-04-17",
+            "pay_date": "2023-05-04",
+            "share_basis": "2023-04-06",
+            "source_url": "https://www.bankbjb.co.id/files/2024/03/laporan-tahunan-2023.pdf",
+            "source_type": "filing",
+            "as_of_date": "2023-04-06",
+            "loc": "AR2023 PDF pp. 442-445 (printed pp. 440-443), Tabel Pengumuman dan Pembayaran Dividen + Tabel Rincian Jadwal Pembayaran Dividen Tunai (FY2022); AGMS resolution PDF p. 639",
+            "note": "AGMS 6 Apr 2023: 49.47% of 'laba bersih Perseroan' FY2022 Rp2,223,637,871,682 = Rp1,100,016,937,371 = Rp104.55/share on 10,521,443,686 shares."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 95.05,
+            "total": 1000.063222357,
+            "cum_date": "2024-04-18",
+            "ex_date": "2024-04-19",
+            "record_date": "2024-04-22",
+            "pay_date": "2024-05-02",
+            "share_basis": "2024-04-05",
+            "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+            "source_type": "filing",
+            "as_of_date": "2024-04-05",
+            "loc": "AR2025 PDF pp. 494 and 496, Tabel Pengumuman dan Pembayaran Dividen + Tabel Rincian Jadwal Pembayaran Dividen Tunai (FY2023); AGMS resolution PDF p. 747",
+            "note": "AGMS 2024 (announcement 5 Apr 2024): 58.27% of 'laba bersih Perseroan' FY2023 Rp1,716,269,038,391 = Rp1,000,063,222,357 = Rp95.05/share. AR2024 could not be retrieved; AR2025 reprints the FY2023 dividend."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 85.25,
+            "total": 896.953074238,
+            "cum_date": "2025-04-25",
+            "ex_date": "2025-04-28",
+            "record_date": "2025-04-29",
+            "pay_date": "2025-05-16",
+            "share_basis": "2025-04-17",
+            "source_url": "https://ir.bankbjb.co.id/files//2026/04/laporan-tahunan-2025-8.pdf",
+            "source_type": "filing",
+            "as_of_date": "2025-04-17",
+            "loc": "AR2025 PDF pp. 494 and 496, Tabel Pengumuman dan Pembayaran Dividen + Tabel Rincian Jadwal Pembayaran Dividen Tunai (FY2024); AGMS resolution PDF p. 739",
+            "note": "AGMS 2025 (announcement 17 Apr 2025): 65.50% of consolidated attributable FY2024 profit Rp1,369,462,904,109 = Rp896,953,074,238 = Rp85.25/share. Cash dividend paid in 2025 per FS cash flow: 896,953 Rp juta."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 85.54,
+            "total": 900.0042929,
+            "cum_date": "2026-05-07",
+            "ex_date": "2026-05-08",
+            "record_date": "2026-05-11",
+            "pay_date": "2026-05-26",
+            "share_basis": "2026-04-28",
+            "source_url": "https://emitennews.com/news/bank-bjb-bjbr-tebar-dividen-rp8554-per-saham-simak-jadwalnya",
+            "source_type": "news",
+            "as_of_date": "2026-04-30",
+            "loc": "EmitenNews 30 Apr 2026 'Bank BJB (BJBR) Tebar Dividen Rp85,54 per Saham, Simak Jadwalnya' (cites the IDX information disclosure)",
+            "note": "AGMS 28 Apr 2026 (FY2025): total Rp900,004,292,900 = Rp85.54/share (= 85.54 x 10,521,443,686). Cum 7 May / ex 8 May 2026 (regular & negotiated market), recording 11 May, payment 26 May 2026. NEWS is the only source: the bank's announcement and IDX disclosure could not be retrieved (bankbjb.co.id/ir.bankbjb.co.id block this server and are not archived; idx.co.id blocked). Same figures in EmitenNews 'Cum Date 7 Mei, BJBR Bagi Dividen Rp900 Miliar' and Investortrust 29 Apr 2026 (Rp85.54, Rp900bn)."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "profit_ytd_prior": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "equity_attr": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "shares_out": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "total_assets": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "loans_gross": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "loans_gross_prior": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "deposits": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "deposits_prior": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "roe": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "roa": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "nim": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "coc": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "npl_gross": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "npl_coverage": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "ldr": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "car": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "cir": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            },
+            "casa": {
+                "v": null,
+                "note": "Not available: the 9M 2026 (30 Sep 2026) financial statements were published around 29 Oct 2026 (news), but no bank/IDX document for 2026 could be retrieved: bankbjb.co.id and ir.bankbjb.co.id refuse this server (maintenance page / connection reset) and have no Internet Archive copy of any 2026 interim file; idx.co.id is bot-protected. News figures are not stored (see research_notes)."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "dps_total:2021",
+            "reason": "The FY2021 dividend (Rp99.11/share, total Rp1,042,780,283,718; AR2022 PDF p. 446 and AGMS PDF p. 629) was paid in Apr 2022 on 10,521,443,686 shares, i.e. AFTER the Mar 2022 rights issue added 682,656,525 shares. DPS x the FY2021 year-end count (9,838,787,161) is therefore 6.4% below the stated total; 99.11 x 10,521,443,686 = Rp1,042.78bn matches it exactly."
+        },
+        {
+            "check": "payout_total:2022",
+            "reason": "The 49.47% payout is applied to 'laba bersih Perseroan tahun buku 2022' Rp2,223,637,871,682 (AGMS resolution, AR2023 PDF p. 639), i.e. BANK-ONLY net profit (the bank-only column of the audited Dec 2023 published statement, https://ir.bankbjb.co.id/files//2024/03/laporan-keuangan-31-desember-2023-6.pdf, prints 2,223,639 Rp juta for 2022), not to the consolidated profit attributable to owners (Rp2,304,376 juta, FY2022 FS). 2,223.64 x 49.47% = 1,100.02 = stated total; on the consolidated base the implied payout is 47.7%. Gap is a definition difference, not a data error."
+        },
+        {
+            "check": "payout_total:2023",
+            "reason": "The 58.27% payout is applied to 'laba bersih Perseroan tahun buku 2023' Rp1,716,269,038,391 (AGMS resolution, AR2025 PDF p. 747), i.e. BANK-ONLY net profit (bank-only column of the audited Dec 2023 published statement, https://ir.bankbjb.co.id/files//2024/03/laporan-keuangan-31-desember-2023-6.pdf: 'LABA (RUGI) BERSIH TAHUN BERJALAN' 1,716,269 Rp juta), not to the consolidated profit attributable (Rp1,778,395 juta, FY2023 FS). 1,716.27 x 58.27% = 1,000.06 = stated total; on the consolidated base the implied payout is 56.2%."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: www.bankbjb.co.id / bankbjb.co.id answer this server with a BigIP 'We'll be back' maintenance page (HTTP 200, 1,438 bytes) for every URL, and ir.bankbjb.co.id resets the connection; WebFetch gets the same. idx.co.id returns 403 (Cloudflare). No challenge was bypassed. Every bank document was downloaded from existing Internet Archive snapshots of the exact URLs in source_url (see sources.md for timestamps). Not archived and therefore NOT used: AR2024, AR2020, AR2019, all stand-alone audited FS 2019-2025, all 2025/2026 interim statements and monthly reports, analyst presentations, the 2022 rights-issue prospectus.",
+        "AUDITED FS SOURCE: each FY's figures come from the consolidated financial statements bound into that year's annual report (AR2025 PDF pp. 1274ff; AR2023 pp. 1177ff; AR2022 pp. 1059ff; AR2021 pp. 1052ff). FY2024 = comparative column of the FY2025 FS (AR2024 not retrievable); FY2020 = comparative column of the FY2021 FS (AR2020 not retrievable). The AR2025 FS pages carry the header 'Draft/March 13, 2026 paraf:' and an 'Approval for Printing' footer, and the auditor's report pages are images; the figures agree with the AR2025 MD&A tables (PDF pp. 412-436).",
+        "HIGHLIGHT TABLES vs FS: the AR 5-year highlight tables differ from the audited face statements in places (FY2023 TA 188,302,923 vs FS 188,295,488; FY2024 TA 219,990,827 vs FS comparative 219,960,693; FY2020 TA 140,961,431 vs FS comparative 140,934,002) and AR2025's table misprints FY2023 attributable profit as 1,875,241 (FS: 1,778,395, consistent with EPS 169.03). The audited statements are stored throughout; FY2019 (no FS available) comes from the AR2021 highlight table.",
+        "CONSOLIDATION SCOPE: subsidiaries bank bjb syariah (sharia commercial bank, ~99%), PT BPR Intan Jabar, bjb Sekuritas (93.75%) and - through Bank Business Group (KUB) controlling-shareholder agreements - PT BPD Bengkulu (15.54% at acquisition; consolidated from 1 Mar 2024, goodwill 24,158) and PT BPD Jambi (7.75%; consolidated from 17 Dec 2024, goodwill 23,106) (AR2025 FS Note 56, PDF pp. 1486-1490). This is why non-controlling interest jumps from (110,174) at FY2023 to 3,347,734 at FY2024 and why FY2024/FY2025 assets, loans and deposits are not like-for-like with FY2023. Bank Banten is NOT a subsidiary (no mention in AR2025). All ratios are bank-only and exclude the KUB members.",
+        "LOANS / DEPOSITS DEFINITION: the FS present conventional loans ('Kredit yang diberikan'), sharia financing ('Pembiayaan dan piutang syariah'), conventional deposits ('Simpanan nasabah'), sharia wadiah deposits ('Simpanan nasabah - Syariah') and temporary syirkah funds as separate captions with no combined totals. loans_gross and deposits store only the conventional captions (no derived sums); the sharia amounts are quoted in each datum's note. Computed LDR from these levels will not equal the reported (bank-only) LDR.",
+        "FY2019 loans_gross and deposits are null: no FY2019 FS was retrievable and the AR2021 5-year table prints only related/third-party components (loans 261,564 + 81,625,682; deposits 12,981,015 + 70,583,378 Rp juta) without a subtotal. A reviewer may decide whether the component sum is acceptable; it was not stored.",
+        "RATIOS: all FY ratios are bank-only as printed in the AR 5-year table ('RASIO KEUANGAN BANK SAJA' in AR2021; AR2025 MD&A labels the same set '(Bank Only)'). FY2021-FY2025 from AR2025, FY2020 from AR2021; values cross-checked against AR2021/AR2022/AR2023 (identical except ROE 2020 16.96 in AR2021 vs 16.95 in AR2022/AR2023). CoC, LaR, NPL coverage and CASA ratio are not disclosed in any retrieved document (the ARs print only the CASA amount), so they are null for every year. NIM falls from 5.18 (FY2023) to 3.83 (FY2024) without explanation in AR2025 - possibly a methodology change; flagged for review.",
+        "FY2023 RATIO CONFLICT: the audited OJK-format published statement for 31 Dec 2023 (https://ir.bankbjb.co.id/files//2024/03/laporan-keuangan-31-desember-2023-6.pdf, 'LAPORAN RASIO KEUANGAN', bank only; audit opinion dated 29 Feb 2024) prints FY2023 KPMM 20.05, ROA 1.29, ROE 13.37, NIM 4.89, NPL gross 1.35, NPL net 0.75, BOPO 85.65, LDR 87.54, whereas AR2023 and AR2025 tables print 20.12 / 1.33 / 14.55 / 5.18 / 1.21 / 0.65 / 85.31 / 87.54. Its FY2022 comparatives equal the AR values. The AR series (stored) is used for consistency with FY2021-FY2025 in AR2025; reviewer to decide.",
+        "CAR CONFLICT FY2025: AR tables and MD&A (PDF pp. 30, 451, 460, 479) give bank-only KPMM 21.20% (2024: 19.70%) and consolidated 19.70% (2024: 18.71%); FS Note 57 (PDF pp. 1500-1501) prints 19.75% (2024: 18.89%) labelled 'entitas induk / parent entity'. Stored: 21.20 / 19.70 bank_only.",
+        "PAYOUT BASES: FY2020-FY2023 AGMS resolutions apply the payout percentage to 'laba bersih Perseroan' (2020: 1,682,122; 2021: 2,014,277; 2022: 2,223,638; 2023: 1,716,269 Rp juta), which is the BANK-ONLY net profit (confirmed for 2022 and 2023 by the bank-only column of the audited Dec 2023 published statement, ir.bankbjb.co.id .../laporan-keuangan-31-desember-2023-6.pdf: 2,223,639 and 1,716,269), not the consolidated profit attributable stored in net_profit_attr (1,687,218; 2,031,858; 2,304,376; 1,778,395). FY2024 and FY2025 use consolidated attributable profit. payout_ratio stores the percentage as reported; the 2022 and 2023 cross-check gaps (>3%) are acknowledged in validation_ack.",
+        "DIVIDENDS: one final cash dividend per fiscal year, no interim or special dividends (each year's FS cash-flow statement shows a single 'Pembayaran dividen kas' equal to the prior-year final: 941,965 / 1,042,780 / 1,100,017 / 1,000,063 / 896,953 Rp juta in 2021-2025). FY2020-FY2024 records come from the ARs (amounts, cum/ex/recording/payment dates). Only the FY2025 final (paid 26 May 2026) relies on news for DPS, total, dates and the 78.07% payout. No FY2026 interim dividend found.",
+        "CORPORATE ACTIONS 2019-now: no split, reverse split or bonus issue (AR2025 PDF p. 37: no corporate action affecting share count in 2025; share count 10,521,443,686 unchanged from Mar 2022 to Dec 2025). One rights issue: PMHMETD I, ratio 1,153:80, ex 4 Mar 2022, Rp1,355, 682,656,525 new Series B shares (see corporate_actions; ex-date and ratio from news quoting the IDX disclosure, outcome confirmed by AR2022). The earlier PMTHMETD (non-pre-emptive placement to West Java/Banten regional governments, 142,495,995 Series A shares at Rp1,900 on 26 Dec 2018) predates 2019 and is not a rights issue. A planned PUT II rights issue was dropped in 2023 (AR2022/AR2023 mention plans; news 14 Mar 2023).",
+        "SHARE CLASSES: Series A (7,414,714,661, held by West Java/Banten provincial and regency governments) and Series B (2,424,072,500 until Mar 2022; 3,106,729,025 after the rights issue). shares_out = A + B as printed in the AR share tables ('Jumlah Saham Beredar'); no treasury shares in any year.",
+        "INTERIM: 9M 2026 results were released on 29 Oct 2026. News (not stored): Bisnis.com 29 Oct 2026 reports consolidated net profit Rp1.34tn to Sep 2026 with ROA 0.93% and ROE 9.66%; Katadata/CNN Indonesia report profit attributable ~Rp1.1tn (+37.3% YoY), consolidated assets Rp219.7tn, consolidated DPK Rp155.6tn, loans and financing Rp142.3tn, NPL 2.87%. H1 2026 (Bisnis 29 Jul 2026): profit ~Rp992bn group, assets Rp228.2tn. Q1 2026 (Kontan): profit Rp410.15bn. All interim fields are null because no primary document could be retrieved; re-run when ir.bankbjb.co.id files become reachable or archived.",
+        "SELF-CHECK: eps x shares_out vs net_profit_attr: 2020 +0.00%, 2021 +0.00%, 2022 +0.00%, 2023 +0.00%, 2024 +0.00%, 2025 +0.00% (all within 0.01%). dps x FY-end shares vs total: 0.00% except 2021 (-6.4%, rights issue; acknowledged). profit_attr x payout vs total: 2020 +0.3%, 2021 +0.9%, 2022 +3.6% (ack), 2023 +3.6% (ack), 2024 0.0%, 2025 0.0%.",
+        "WEBSITES: website = https://www.bankbjb.co.id; ir_url = https://ir.bankbjb.co.id (IR sub-site that hosts the AR2025 PDF). Neither could be opened live from this server."
+    ]
+}

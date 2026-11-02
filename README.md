@@ -34,6 +34,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | BBKP | PT Bank KB Indonesia Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BBKP.json](issuers/BBKP.json) | [prices/BBKP.json](prices/BBKP.json) 2019-01-02 → 2026-11-02 |
 | BTPN | PT Bank SMBC Indonesia Tbk | 3 | FY2020–FY2025 | H1 2026 | [issuers/BTPN.json](issuers/BTPN.json) | [prices/BTPN.json](prices/BTPN.json) 2019-01-02 → 2026-11-02 |
 | AGRO | PT Bank Raya Indonesia Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/AGRO.json](issuers/AGRO.json) | [prices/AGRO.json](prices/AGRO.json) 2019-01-02 → 2026-11-02 |
+| BJBR | PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BJBR.json](issuers/BJBR.json) | [prices/BJBR.json](prices/BJBR.json) 2019-01-02 → 2026-11-02 |
 
 Fundamentals through **2026-09-30**. Daily prices through **2026-11-02**.
 <!-- coverage:end -->
