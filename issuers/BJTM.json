@@ -1,0 +1,1618 @@
+{
+    "schema": 1,
+    "code": "BJTM",
+    "name": "PT Bank Pembangunan Daerah Jawa Timur Tbk",
+    "name_short": "Bank Jatim",
+    "sector": "banking",
+    "exchange": "IDX",
+    "sharia": false,
+    "website": "https://www.bankjatim.co.id",
+    "ir_url": "https://www.bankjatim.co.id/id/hubungan-investor/hubungan-investor",
+    "kbmi": {
+        "v": 2,
+        "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+        "source_type": "filing",
+        "as_of_date": "2025-12-31",
+        "loc": "PDF p. 264, Analisis dan Pembahasan Manajemen, Struktur Permodalan ('Berdasarkan POJK tersebut Bank Jatim menjadi Kelompok Bank Berdasarkan Modal Inti (KBMI) 2 (Bank dengan Modal Inti lebih dari Rp6 triliun sampai dengan Rp14 triliun)')",
+        "note": "Bank-only core capital FY2025 Rp12,363bn (AR2025 PDF p. 267). Consolidated core capital (Rp21,452bn incl. the KUB subsidiaries) would exceed the KBMI 2 ceiling, but the AR states KBMI 2; AR2025 awards list (PDF pp. 159-161) also cites KBMI 2 categories."
+    },
+    "label_overrides": [],
+    "fy": {
+        "2019": {
+            "total_assets": {
+                "v": 76715.29,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2019/report_bjtm_31des2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6 (FS p. 1), statement of financial position (bank; no subsidiaries), 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "As originally reported. FS2020 Note 57 (PDF p. 179) restates FY2019 for defined-benefit pension obligations: total assets 76,756.313 (deferred tax +41.023)."
+            },
+            "loans_gross": {
+                "v": 38352.3,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2019/report_bjtm_31des2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6 (FS p. 1), statement of financial position (bank; no subsidiaries), 'Kredit yang diberikan (dan piutang/pembiayaan syariah)' total",
+                "basis": "consolidated",
+                "note": "'Jumlah kredit yang diberikan' gross, includes sharia financing; unchanged by the restatement."
+            },
+            "deposits": {
+                "v": 60545.872,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2019/report_bjtm_31des2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7 (FS p. 2), statement of financial position, 'Jumlah simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "As originally reported (sharia UUS funds inside 'Simpanan dari nasabah'); unchanged in the FY2019 restatement (FS2020 Note 57)."
+            },
+            "equity_attr": {
+                "v": 9185.652,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2019/report_bjtm_31des2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7 (FS p. 2), statement of financial position (bank; no subsidiaries), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "As originally reported (restated to 9,021.558 in FS2020 Note 57, PDF p. 180). No subsidiaries and no non-controlling interest before 23 Oct 2024: total equity is attributable to owners."
+            },
+            "total_equity": {
+                "v": 9185.652,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2019/report_bjtm_31des2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7 (FS p. 2), statement of financial position (bank; no subsidiaries), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "As originally reported. Restated in FS2020 Note 57 (PDF p. 180) to 9,021.558 (pension remeasurement -164.094). No non-controlling interest."
+            }
+        },
+        "2020": {
+            "net_profit_attr": {
+                "v": 1488.962,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2020/bank_pembangunan_daerah_jawa_timur_tbk_31_des_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (FS p. 3), statement of profit or loss",
+                "basis": "consolidated",
+                "note": "'LABA TAHUN BERJALAN' (no subsidiaries)."
+            },
+            "eps": {
+                "v": 99.16,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2020/bank_pembangunan_daerah_jawa_timur_tbk_31_des_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9 (FS p. 3), 'LABA PER SAHAM DASAR (diatribusikan kepada pemilik entitas induk)'",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "Weighted average 15,015,498,082 shares (FS2020 Note 35, PDF p. 123)."
+            },
+            "payout_ratio": {
+                "v": 49.26,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 334, Tabel Pengumuman dan Pembayaran Dividen (Tahun Buku 2020-2024), 'Dividen Payout Ratio (%)'",
+                "basis": "n/a",
+                "note": "Rp733,507,081,305.70 of FY2020 net profit Rp1,488,961,630,120."
+            },
+            "total_assets": {
+                "v": 83619.452,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2020/bank_pembangunan_daerah_jawa_timur_tbk_31_des_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7 (FS p. 1), statement of financial position (bank; no subsidiaries), 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 41480.766,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2020/bank_pembangunan_daerah_jawa_timur_tbk_31_des_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7 (FS p. 1), statement of financial position (bank; no subsidiaries), 'Kredit yang diberikan (dan piutang/pembiayaan syariah)' total",
+                "basis": "consolidated",
+                "note": "Gross before allowance; includes sharia (UUS) financing."
+            },
+            "deposits": {
+                "v": 68468.28,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2020/bank_pembangunan_daerah_jawa_timur_tbk_31_des_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (FS p. 2), statement of financial position, 'Simpanan dari nasabah' subtotal",
+                "basis": "consolidated",
+                "note": "As originally reported (sharia UUS funds inside 'Simpanan dari nasabah'). FS2022 re-presents FY2020 as 66,786.421 conventional + 1,681.859 temporary syirkah customer deposits = 68,468.280 (FS2022 PDF p. 13)."
+            },
+            "equity_attr": {
+                "v": 10004.948,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2020/bank_pembangunan_daerah_jawa_timur_tbk_31_des_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (FS p. 2), statement of financial position (bank; no subsidiaries), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest before 23 Oct 2024: total equity is attributable to owners."
+            },
+            "total_equity": {
+                "v": 10004.948,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2020/bank_pembangunan_daerah_jawa_timur_tbk_31_des_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8 (FS p. 2), statement of financial position (bank; no subsidiaries), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 15015498082,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2020/bank_pembangunan_daerah_jawa_timur_tbk_31_des_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 112, Note 22 Share capital, 'Jumlah'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Issued and fully paid: Series A 11,934,147,982 + Series B 3,081,350,100. No treasury shares. Unchanged since the last MESOP exercise window (3 Feb-16 Mar 2020)."
+            },
+            "year_end_price": {
+                "v": 685,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2020/ar_2020_bank_pembangunan_daerah_jawa_timur_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 24, Table of Prices, Volume and Capitalization of Bank Jatim Shares 2019-2020, 2020 Quarter IV 'Closing'",
+                "basis": "n/a",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); exact session date not printed. No split/bonus since the 2012 IPO."
+            },
+            "roe": {
+                "v": 18.77,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2024/annual_report_bjtm_2024_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 27, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2020-2024)",
+                "basis": "bank_only",
+                "note": "ROE as reported in the OJK published-ratio format (bank only; OJK definition based on core capital). The same values appear in the bank's analyst decks. Same value in AR2020 (PDF p. 23) and the FY2020 analyst deck."
+            },
+            "roa": {
+                "v": 1.95,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2024/annual_report_bjtm_2024_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 27, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2020-2024)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK definition: pre-tax profit / average total assets, bank only). Same value in AR2020 (PDF p. 23) and the FY2020 analyst deck."
+            },
+            "nim": {
+                "v": 5.55,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2024/annual_report_bjtm_2024_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 27, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2020-2024)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK definition, bank only). Same value in AR2020 (PDF p. 23) and the FY2020 analyst deck."
+            },
+            "coc": {
+                "v": 1.37,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2021/bjtm_cp_fy20_audited_dan_3m21.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 2020 Highlight Financial Performance, 'Credit Cost' FY20",
+                "basis": "bank_only",
+                "note": "Credit cost as printed in the analyst deck, bank only."
+            },
+            "npl_gross": {
+                "v": 4,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2024/annual_report_bjtm_2024_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 27, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2020-2024)",
+                "basis": "bank_only",
+                "note": "NPL gross, bank only (KBMI/OJK reporting). For 2024-2025 the consolidated loan-quality tables in the FS supplementary note give different figures (e.g. FS2025 PDF p. 221: 3.42% 2025, 3.09% 2024 consolidated). Same value in AR2020 (PDF p. 23) and the FY2020 analyst deck."
+            },
+            "npl_net": {
+                "v": 0.89,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2020/bank_pembangunan_daerah_jawa_timur_tbk_31_des_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 86, Note 10 Loans, 'Rasio NPL neto'",
+                "basis": "bank_only",
+                "note": "Bank only (no subsidiaries); same value in that year's analyst deck."
+            },
+            "lar": {
+                "v": 6.1,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2021/bjtm_cp_fy20_audited_dan_3m21.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 2020 Highlight Financial Performance, 'Loan at Risk' FY20",
+                "basis": "bank_only",
+                "note": "Loan at risk as printed in the analyst deck, bank only (includes COVID restructured loans in 2020-2022)."
+            },
+            "npl_coverage": {
+                "v": 87.69,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2021/bjtm_cp_fy20_audited_dan_3m21.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 2020 Highlight Financial Performance, 'Coverage Ratio' FY20",
+                "basis": "bank_only",
+                "note": "Coverage ratio (CKPN / NPL), bank only, as printed in the analyst deck."
+            },
+            "ldr": {
+                "v": 60.58,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2024/annual_report_bjtm_2024_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 27, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2020-2024)",
+                "basis": "bank_only",
+                "note": "LDR, bank only. Computed by the bank on third-party funds incl. sharia deposits. Same value in AR2020 (PDF p. 23) and the FY2020 analyst deck."
+            },
+            "car": {
+                "v": 21.64,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2024/annual_report_bjtm_2024_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 27, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2020-2024)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) Individual, bank only. Consolidated KPMM is published from FY2024: 24.36% (2024), 29.09% (2025) (PUB 31 Dec 2025 ratio table). Same value in AR2020 (PDF p. 23) and the FY2020 analyst deck."
+            },
+            "cir": {
+                "v": 36.91,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2024/annual_report_bjtm_2024_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 27, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2020-2024)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed in the AR and in the OJK published-ratio table. This regulatory CIR is far below the conventional opex/(NII+other income) ratio: the analyst decks print a different 'CIR' (FY2020 54.95%, FY2021 55.02%), and the AR's 'Rasio Efisiensi Biaya' is 50.93% (2020) ... 48.18% (2025). Compare with peers with care. Same value in AR2020 (PDF p. 23) and the FY2020 analyst deck."
+            },
+            "bopo": {
+                "v": 77.76,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2024/annual_report_bjtm_2024_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 27, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2020-2024)",
+                "basis": "bank_only",
+                "note": "BOPO, bank only. Same value in AR2020 (PDF p. 23) and the FY2020 analyst deck."
+            },
+            "casa": {
+                "v": 64.27,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2021/bjtm_cp_fy20_audited_dan_3m21.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, 2020 Highlight Financial Performance, Ratio table, 'CASA' FY20",
+                "basis": "bank_only",
+                "note": "Bank only (no subsidiaries). Same value in the FY2021 deck (PDF p. 8)."
+            }
+        },
+        "2021": {
+            "net_profit_attr": {
+                "v": 1523.07,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2021/final_report_softcopy_ga_31_des_2021_pt_bpd_jawa_timur_tbk_ter_update_16.2.22_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9 (FS p. 3), statement of profit or loss",
+                "basis": "consolidated",
+                "note": "'LABA TAHUN BERJALAN' (no subsidiaries)."
+            },
+            "eps": {
+                "v": 101.43,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2021/final_report_softcopy_ga_31_des_2021_pt_bpd_jawa_timur_tbk_ter_update_16.2.22_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9 (FS p. 3), 'LABA PER SAHAM DASAR (diatribusikan kepada pemilik entitas induk)'",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "Basic = diluted; weighted average 15,015,498,082 shares."
+            },
+            "payout_ratio": {
+                "v": 51.37,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 334, Tabel Pengumuman dan Pembayaran Dividen (Tahun Buku 2020-2024), 'Dividen Payout Ratio (%)'",
+                "basis": "n/a",
+                "note": "Rp782,457,605,053.02 of FY2021 net profit Rp1,523,069,838,418."
+            },
+            "total_assets": {
+                "v": 100723.33,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2021/final_report_softcopy_ga_31_des_2021_pt_bpd_jawa_timur_tbk_ter_update_16.2.22_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7 (FS p. 1), statement of financial position (bank; no subsidiaries), 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 42749.559,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2021/final_report_softcopy_ga_31_des_2021_pt_bpd_jawa_timur_tbk_ter_update_16.2.22_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7 (FS p. 1), statement of financial position (bank; no subsidiaries), 'Kredit yang diberikan (dan piutang/pembiayaan syariah)' total",
+                "basis": "consolidated",
+                "note": "Gross before allowance; includes sharia (UUS) financing."
+            },
+            "deposits": {
+                "v": 83201.867,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2021/final_report_softcopy_ga_31_des_2021_pt_bpd_jawa_timur_tbk_ter_update_16.2.22_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8 (FS p. 2), statement of financial position, 'Simpanan dari nasabah' subtotal",
+                "basis": "consolidated",
+                "note": "As originally reported, FS2021 shows sharia (UUS) customer funds inside 'Simpanan dari nasabah' (83,201.867). FS2022 re-presented FY2021 as 81,388.685 conventional + 1,813.182 temporary syirkah customer deposits - the same 83,201.867 in total (FS2022 PDF p. 170). Analyst deck: THIRD PARTY FUND 83,202."
+            },
+            "equity_attr": {
+                "v": 10910.539,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2021/final_report_softcopy_ga_31_des_2021_pt_bpd_jawa_timur_tbk_ter_update_16.2.22_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8 (FS p. 2), statement of financial position (bank; no subsidiaries), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest before 23 Oct 2024: total equity is attributable to owners."
+            },
+            "total_equity": {
+                "v": 10910.539,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2021/final_report_softcopy_ga_31_des_2021_pt_bpd_jawa_timur_tbk_ter_update_16.2.22_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8 (FS p. 2), statement of financial position (bank; no subsidiaries), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 15015498082,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2021/final_report_softcopy_ga_31_des_2021_pt_bpd_jawa_timur_tbk_ter_update_16.2.22_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 112, Note 22 Share capital, 'Jumlah'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Issued and fully paid: Series A 11,934,147,982 + Series B 3,081,350,100. No treasury shares. Unchanged since the last MESOP exercise window (3 Feb-16 Mar 2020)."
+            },
+            "year_end_price": {
+                "v": 750,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2021/ar_2021_pt_bank_pembangunan_daerah_jawa_timur_tbk_eng_lengkap_230222_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 29, Table of Prices, Volume and Capitalization of Bank Jatim Shares 2017-2021, 2021 Quarter IV 'Closing'",
+                "basis": "n/a",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); exact session date not printed. No split/bonus since the 2012 IPO."
+            },
+            "roe": {
+                "v": 17.26,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "ROE as reported in the OJK published-ratio format (bank only; OJK definition based on core capital). The same values appear in the bank's analyst decks."
+            },
+            "roa": {
+                "v": 2.05,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK definition: pre-tax profit / average total assets, bank only)."
+            },
+            "nim": {
+                "v": 5.11,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK definition, bank only)."
+            },
+            "coc": {
+                "v": 1.01,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2021/bjtm_fy21_audited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, FY21 Highlight Financial Performance, 'Credit Cost' FY21",
+                "basis": "bank_only",
+                "note": "Credit cost as printed in the analyst deck, bank only. The FY2022 deck repeats 1.01% in its ratio table (PDF p. 8) but prints 1.10% for FY21 on its highlight slide (PDF p. 3, apparently the 3M22 figure)."
+            },
+            "npl_gross": {
+                "v": 4.48,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "NPL gross, bank only (KBMI/OJK reporting). For 2024-2025 the consolidated loan-quality tables in the FS supplementary note give different figures (e.g. FS2025 PDF p. 221: 3.42% 2025, 3.09% 2024 consolidated)."
+            },
+            "npl_net": {
+                "v": 0.96,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2021/final_report_softcopy_ga_31_des_2021_pt_bpd_jawa_timur_tbk_ter_update_16.2.22_1.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 83, Note 10 Loans, 'Rasio NPL neto'",
+                "basis": "bank_only",
+                "note": "Bank only (no subsidiaries); same value in that year's analyst deck."
+            },
+            "lar": {
+                "v": 6.57,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2021/bjtm_fy21_audited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, FY21 Highlight Financial Performance, 'Loan at Risk' FY21",
+                "basis": "bank_only",
+                "note": "Loan at risk as printed in the analyst deck, bank only (includes COVID restructured loans in 2020-2022)."
+            },
+            "npl_coverage": {
+                "v": 95.57,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2021/bjtm_fy21_audited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, FY21 Highlight Financial Performance, 'Coverage Ratio' FY21",
+                "basis": "bank_only",
+                "note": "Coverage ratio (CKPN / NPL), bank only, as printed in the analyst deck."
+            },
+            "ldr": {
+                "v": 51.38,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "LDR, bank only. Computed by the bank on third-party funds incl. sharia deposits."
+            },
+            "car": {
+                "v": 23.52,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) Individual, bank only. Consolidated KPMM is published from FY2024: 24.36% (2024), 29.09% (2025) (PUB 31 Dec 2025 ratio table)."
+            },
+            "cir": {
+                "v": 38.83,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed in the AR and in the OJK published-ratio table. This regulatory CIR is far below the conventional opex/(NII+other income) ratio: the analyst decks print a different 'CIR' (FY2020 54.95%, FY2021 55.02%), and the AR's 'Rasio Efisiensi Biaya' is 50.93% (2020) ... 48.18% (2025). Compare with peers with care."
+            },
+            "bopo": {
+                "v": 75.95,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "BOPO, bank only."
+            },
+            "casa": {
+                "v": 61.15,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2021/bjtm_fy21_audited.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, FY21 Highlight Financial Performance, Ratio table, 'CASA' FY21",
+                "basis": "bank_only",
+                "note": "Bank only (no subsidiaries). Same value in the FY2022 deck (PDF p. 8)."
+            }
+        },
+        "2022": {
+            "net_profit_attr": {
+                "v": 1542.824,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2022/bjtm_lfr_desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (FS p. 3), statement of profit or loss",
+                "basis": "consolidated",
+                "note": "'LABA TAHUN BERJALAN' (no subsidiaries)."
+            },
+            "eps": {
+                "v": 102.75,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2022/bjtm_lfr_desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14 (FS p. 3), 'LABA PER SAHAM DASAR (diatribusikan kepada pemilik entitas induk)'",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "Basic = diluted; weighted average 15,015,498,082 shares."
+            },
+            "payout_ratio": {
+                "v": 51.67,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 334, Tabel Pengumuman dan Pembayaran Dividen (Tahun Buku 2020-2024), 'Dividen Payout Ratio (%)'",
+                "basis": "n/a",
+                "note": "Rp797,172,793,173.38 of FY2022 net profit Rp1,542,824,394,640."
+            },
+            "total_assets": {
+                "v": 103031.367,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2022/bjtm_lfr_desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12 (FS p. 1), statement of financial position (bank; no subsidiaries), 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 46196.657,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2022/bjtm_lfr_desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12 (FS p. 1), statement of financial position (bank; no subsidiaries), 'Kredit yang diberikan (dan piutang/pembiayaan syariah)' total",
+                "basis": "consolidated",
+                "note": "Gross before allowance; includes sharia (UUS) financing. FS2022 also prints a re-presented 1 Jan 2021 column; FY2021 totals unchanged."
+            },
+            "deposits": {
+                "v": 81767.383,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2022/bjtm_lfr_desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 170, Note 45 Liquidity risk, ratio of net liquid assets to deposits, 'Simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Deposits from customers INCLUDING temporary syirkah customer deposits (DPK). Face lines (PDF p. 13): 79,925.690 + 1,841.692; the note prints the combined 81,767.383. The FY2022 analyst deck prints THIRD PARTY FUND 81,767."
+            },
+            "equity_attr": {
+                "v": 11445.861,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2022/bjtm_lfr_desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13 (FS p. 2), statement of financial position (bank; no subsidiaries), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest before 23 Oct 2024: total equity is attributable to owners."
+            },
+            "total_equity": {
+                "v": 11445.861,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2022/bjtm_lfr_desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13 (FS p. 2), statement of financial position (bank; no subsidiaries), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 15015498082,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2022/bjtm_lfr_desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 128, Note 26 Share capital, 'Jumlah'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Issued and fully paid: Series A 11,934,147,982 + Series B 3,081,350,100. No treasury shares. Unchanged since the last MESOP exercise window (3 Feb-16 Mar 2020)."
+            },
+            "year_end_price": {
+                "v": 710,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2022/ar_2022_bjtm_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23, Tabel Harga, Volume dan Kapitalisasi Saham Bank Jatim 2021-2022, 2022 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); exact session date not printed. No split/bonus since the 2012 IPO."
+            },
+            "roe": {
+                "v": 16.24,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "ROE as reported in the OJK published-ratio format (bank only; OJK definition based on core capital). The same values appear in the bank's analyst decks."
+            },
+            "roa": {
+                "v": 1.95,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK definition: pre-tax profit / average total assets, bank only)."
+            },
+            "nim": {
+                "v": 5.11,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK definition, bank only)."
+            },
+            "coc": {
+                "v": 0.84,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2022/materi_analyst_meeting_fy22.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 8, FINANCIAL RATIOS table, 'Credit Cost' FY22",
+                "basis": "bank_only",
+                "note": "Credit cost as printed in the analyst deck, bank only."
+            },
+            "npl_gross": {
+                "v": 2.83,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "NPL gross, bank only (KBMI/OJK reporting). For 2024-2025 the consolidated loan-quality tables in the FS supplementary note give different figures (e.g. FS2025 PDF p. 221: 3.42% 2025, 3.09% 2024 consolidated)."
+            },
+            "npl_net": {
+                "v": 1.01,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2022/bjtm_lfr_desember_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 94, Note 11 Loans, 'Rasio NPL neto'",
+                "basis": "bank_only",
+                "note": "Bank only (no subsidiaries); same value in that year's analyst deck."
+            },
+            "lar": {
+                "v": 4.81,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2022/materi_analyst_meeting_fy22.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 3, HIGHLIGHT FINANCIAL PERFORMANCE, Ratio, 'Loan at Risk' FY22",
+                "basis": "bank_only",
+                "note": "Loan at risk as printed in the analyst deck, bank only (includes COVID restructured loans in 2020-2022)."
+            },
+            "npl_coverage": {
+                "v": 100.72,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2022/materi_analyst_meeting_fy22.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 8, FINANCIAL RATIOS table, 'Coverage Ratio' FY22",
+                "basis": "bank_only",
+                "note": "Coverage ratio (CKPN / NPL), bank only, as printed in the analyst deck."
+            },
+            "ldr": {
+                "v": 56.5,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "LDR, bank only. Computed by the bank on third-party funds incl. sharia deposits."
+            },
+            "car": {
+                "v": 24.74,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) Individual, bank only. Consolidated KPMM is published from FY2024: 24.36% (2024), 29.09% (2025) (PUB 31 Dec 2025 ratio table)."
+            },
+            "cir": {
+                "v": 38.41,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed in the AR and in the OJK published-ratio table. This regulatory CIR is far below the conventional opex/(NII+other income) ratio: the analyst decks print a different 'CIR' (FY2020 54.95%, FY2021 55.02%), and the AR's 'Rasio Efisiensi Biaya' is 50.93% (2020) ... 48.18% (2025). Compare with peers with care."
+            },
+            "bopo": {
+                "v": 76.15,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "BOPO, bank only."
+            },
+            "casa": {
+                "v": 61.12,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2022/materi_analyst_meeting_fy22.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 8, FINANCIAL RATIOS table, 'CASA' FY22",
+                "basis": "bank_only",
+                "note": "Bank only (no subsidiaries). Same value in the FY2023 deck (slide 7)."
+            }
+        },
+        "2023": {
+            "net_profit_attr": {
+                "v": 1470.105,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2023/bjtm_lfr_des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (FS p. 3), statement of profit or loss",
+                "basis": "consolidated",
+                "note": "'LABA TAHUN BERJALAN' (no NCI; the FS2024 comparative shows the same figure as attributable to owners)."
+            },
+            "eps": {
+                "v": 97.91,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2023/bjtm_lfr_des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15 (FS p. 3), 'LABA PER SAHAM DASAR (diatribusikan kepada pemilik entitas induk)'",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "Basic = diluted; weighted average 15,015,498,082 shares."
+            },
+            "payout_ratio": {
+                "v": 55.55,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 334, Tabel Pengumuman dan Pembayaran Dividen (Tahun Buku 2020-2024), 'Dividen Payout Ratio (%)'",
+                "basis": "n/a",
+                "note": "Rp816,692,940,679.98 of FY2023 net profit Rp1,470,104,932,979 (AGMS 7 Feb 2024)."
+            },
+            "total_assets": {
+                "v": 103854.773,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2023/bjtm_lfr_des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13 (FS p. 1), statement of financial position (bank; no subsidiaries), 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 54760.903,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2023/bjtm_lfr_des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13 (FS p. 1), statement of financial position (bank; no subsidiaries), 'Kredit yang diberikan (dan piutang/pembiayaan syariah)' total",
+                "basis": "consolidated",
+                "note": "Gross before allowance (1,364.905); includes sharia (UUS) financing."
+            },
+            "deposits": {
+                "v": 78196.91,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2023/bjtm_lfr_des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 187, Note 45 Liquidity risk, ratio of net liquid assets to deposits, 'Simpanan dari nasabah'",
+                "basis": "consolidated",
+                "note": "Deposits from customers INCLUDING temporary syirkah customer deposits (DPK). Face lines (PDF p. 14): 75,849.855 + 2,347.055; the note prints the combined 78,196.910. Bank only (no subsidiaries in 2023). The FY2023 analyst deck prints DEPOSIT 78,197 (AMFY23 slide 7)."
+            },
+            "equity_attr": {
+                "v": 12151.069,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2023/bjtm_lfr_des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (FS p. 2), statement of financial position (bank; no subsidiaries), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest before 23 Oct 2024: total equity is attributable to owners."
+            },
+            "total_equity": {
+                "v": 12151.069,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2023/bjtm_lfr_des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (FS p. 2), statement of financial position (bank; no subsidiaries), 'JUMLAH EKUITAS'",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 15015498082,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2023/bjtm_lfr_des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (FS face '2023 : 15.015.498.082 saham') and PDF p. 145, Note 26 Share capital, 'Jumlah'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Issued and fully paid: Series A 11,934,147,982 + Series B 3,081,350,100. No treasury shares. Unchanged since the last MESOP exercise window (3 Feb-16 Mar 2020)."
+            },
+            "year_end_price": {
+                "v": 625,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2023/annual_report_bjtm_2023_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 27, Tabel Harga, Volume dan Kapitalisasi Saham Bank Jatim 2022-2023, 2023 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); exact session date not printed. No split/bonus since the 2012 IPO. The 2023 close is also printed as 'Des 29, 2023 IDR 625' in the FY2023 analyst deck (slide 25)."
+            },
+            "roe": {
+                "v": 13.96,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "ROE as reported in the OJK published-ratio format (bank only; OJK definition based on core capital). The same values appear in the bank's analyst decks."
+            },
+            "roa": {
+                "v": 1.87,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK definition: pre-tax profit / average total assets, bank only)."
+            },
+            "nim": {
+                "v": 5.57,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK definition, bank only)."
+            },
+            "coc": {
+                "v": 1.23,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2026/bjtm_fy2025_rev_ceo_v.4_w_dir_mrus_web_ver.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (image slide), Quarterly Financial Ratio table, 'Credit Cost' FY23",
+                "basis": "bank_only",
+                "note": "Credit cost as printed in the analyst deck, bank only."
+            },
+            "npl_gross": {
+                "v": 2.49,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "NPL gross, bank only (KBMI/OJK reporting). For 2024-2025 the consolidated loan-quality tables in the FS supplementary note give different figures (e.g. FS2025 PDF p. 221: 3.42% 2025, 3.09% 2024 consolidated)."
+            },
+            "npl_net": {
+                "v": 1.21,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2023/bjtm_lfr_des_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 111, Note 11 Loans, 'Rasio NPL neto'",
+                "basis": "bank_only",
+                "note": "Bank only (no subsidiaries); same value in that year's analyst deck."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2023: the FY2023 deck (slide 7), FY2025 deck (slides 12, 14) and the 3Q26 deck stop printing Loan at Risk; AR2023 has only a 'LAR' KPI name without a value (AR2025 PDF pp. 442-447); not in the OJK published ratio table."
+            },
+            "npl_coverage": {
+                "v": 100.08,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2026/bjtm_fy2025_rev_ceo_v.4_w_dir_mrus_web_ver.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14 (image slide), Quarterly Financial Ratio table, 'Coverage Ratio' FY23",
+                "basis": "bank_only",
+                "note": "Coverage ratio (CKPN / NPL), bank only, as printed in the analyst deck. Same in the FY2023 deck (slide 7)."
+            },
+            "ldr": {
+                "v": 70.03,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "LDR, bank only. Computed by the bank on third-party funds incl. sharia deposits."
+            },
+            "car": {
+                "v": 25.71,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) Individual, bank only. Consolidated KPMM is published from FY2024: 24.36% (2024), 29.09% (2025) (PUB 31 Dec 2025 ratio table)."
+            },
+            "cir": {
+                "v": 39.56,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed in the AR and in the OJK published-ratio table. This regulatory CIR is far below the conventional opex/(NII+other income) ratio: the analyst decks print a different 'CIR' (FY2020 54.95%, FY2021 55.02%), and the AR's 'Rasio Efisiensi Biaya' is 50.93% (2020) ... 48.18% (2025). Compare with peers with care."
+            },
+            "bopo": {
+                "v": 77.27,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "BOPO, bank only."
+            },
+            "casa": {
+                "v": 63.61,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2024/annual_report_bjtm_2024_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 166, Tabel Rasio Keuangan Bank Jatim dibandingkan BPD SI dan Perbankan Nasional, Desember 2023, Bank Jatim column, 'CASA'",
+                "basis": "bank_only",
+                "note": "Bank only (no subsidiaries). Same in FY2023 deck slide 7."
+            }
+        },
+        "2024": {
+            "net_profit_attr": {
+                "v": 1281.718,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2024/bjtm_lfr_desember_2024_audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (FS p. 5), statement of profit or loss",
+                "basis": "consolidated",
+                "note": "Attributable to owners of the parent; NCI share 14.100. Parent-entity-only profit (dividend base): 1,281.116."
+            },
+            "eps": {
+                "v": 85.36,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2024/bjtm_lfr_desember_2024_audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23 (FS p. 5), 'LABA PER SAHAM DASAR (diatribusikan kepada pemilik entitas induk)'",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "Basic = diluted; weighted average 15,015,498,082 shares."
+            },
+            "payout_ratio": {
+                "v": 64.12,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 334, Tabel Pengumuman dan Pembayaran Dividen (Tahun Buku 2020-2024), 'Dividen Payout Ratio (%)'",
+                "basis": "n/a",
+                "note": "Rp821,497,900,066.22 of FY2024 parent-entity net profit Rp1,281,116,202,418 (AGMS 22 May 2025; AR2025 PDF p. 397). Consolidated attributable profit is 1,281.718."
+            },
+            "total_assets": {
+                "v": 118142.127,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2024/bjtm_lfr_desember_2024_audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (FS p. 1), statement of financial position (consolidated), 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "First consolidated year: includes NTBS (Bank NTB Syariah) from 23 Oct 2024 (FS2025 Note 42). FY2023 and earlier are Bank Jatim alone."
+            },
+            "loans_gross": {
+                "v": 75352.74,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2024/bjtm_lfr_desember_2024_audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19 (FS p. 1), statement of financial position (consolidated), 'Kredit yang diberikan (dan piutang/pembiayaan syariah)' total",
+                "basis": "consolidated",
+                "note": "Gross before allowance (2,113.224). Includes NTBS financing of 11,147.478 added on acquisition ('Dampak Akuisisi', AR2025 PDF p. 251). The FS2024 face carries an extra 1 Jan 2023 column; values for 2023 are unchanged."
+            },
+            "deposits": {
+                "v": 90015.611,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2024/bjtm_lfr_desember_2024_audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 157, Note 50 maturity table, 'Simpanan dari nasabah' carrying value",
+                "basis": "consolidated",
+                "note": "Deposits from customers INCLUDING temporary syirkah customer deposits (DPK). Face lines (PDF p. 20): 75,056.838 + 14,958.773; the note prints the combined 90,015.611. Includes the sharia subsidiary NTBS (consolidated from 23 Oct 2024)."
+            },
+            "equity_attr": {
+                "v": 12512.592,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2025/bjtm_publikasi_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published statement 31 Dec 2025 (Laporan Keuangan Konsolidasian, OJK format), Laporan Posisi Keuangan, KONSOLIDASI 31 DES 2024 (Audited) column, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "The audited FS prints no attributable subtotal; this equals audited total equity 14,600.039 less NCI 2,087.447. The Dec-2024 published statement itself (bjtm_publikasi_desember_2024_audited.pdf) printed 12,526.689 because it put the full consolidated profit 1,295.816 (incl. NCI share) in parent equity; the 2025 publication's comparative corrects this."
+            },
+            "total_equity": {
+                "v": 14600.039,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2024/bjtm_lfr_desember_2024_audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 21 (FS p. 3), statement of financial position (consolidated), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests of 2,087.447 (NTBS)."
+            },
+            "shares_out": {
+                "v": 15015498082,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2024/bjtm_lfr_desember_2024_audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 113, Note 30 Share capital, 'Jumlah'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Issued and fully paid: Series A 11,934,147,982 + Series B 3,081,350,100. No treasury shares. Unchanged since the last MESOP exercise window (3 Feb-16 Mar 2020)."
+            },
+            "year_end_price": {
+                "v": 540,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2024/annual_report_bjtm_2024_ind.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 28, Tabel Harga, Volume dan Kapitalisasi Saham Bank Jatim 2023-2024, 2024 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); exact session date not printed. No split/bonus since the 2012 IPO."
+            },
+            "roe": {
+                "v": 11.89,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "ROE as reported in the OJK published-ratio format (bank only; OJK definition based on core capital). The same values appear in the bank's analyst decks."
+            },
+            "roa": {
+                "v": 1.6,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK definition: pre-tax profit / average total assets, bank only)."
+            },
+            "nim": {
+                "v": 5.86,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK definition, bank only)."
+            },
+            "coc": {
+                "v": 1.95,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2026/bjtm_fy2025_rev_ceo_v.4_w_dir_mrus_web_ver.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (image slide), Quarterly Financial Ratio table, 'Credit Cost' FY24",
+                "basis": "bank_only",
+                "note": "Credit cost as printed in the analyst deck, bank only. AR2024 MD&A text (PDF p. 31) quotes 'credit cost sebesar 1,48%' - the 9M24 value in the same series."
+            },
+            "npl_gross": {
+                "v": 3.45,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "NPL gross, bank only (KBMI/OJK reporting). For 2024-2025 the consolidated loan-quality tables in the FS supplementary note give different figures (e.g. FS2025 PDF p. 221: 3.42% 2025, 3.09% 2024 consolidated)."
+            },
+            "npl_net": {
+                "v": 1.53,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2025/bjtm_publikasi_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "Single-page published statement 31 Dec 2025, LAPORAN RASIO KEUANGAN (BANK), 31 DES 2024 (Audited) column, row 6 'NPL net'",
+                "basis": "bank_only",
+                "note": "Bank only. The FS supplementary consolidated loan-quality table gives a different consolidated net NPL."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2024: the FY2023 deck (slide 7), FY2025 deck (slides 12, 14) and the 3Q26 deck stop printing Loan at Risk; AR2024 has only a 'LAR' KPI name without a value (AR2025 PDF pp. 442-447); not in the OJK published ratio table."
+            },
+            "npl_coverage": {
+                "v": 90.07,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2026/bjtm_fy2025_rev_ceo_v.4_w_dir_mrus_web_ver.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (image slide), Quarterly Financial Ratio table, 'Coverage Ratio' FY24",
+                "basis": "bank_only",
+                "note": "Coverage ratio (CKPN / NPL), bank only, as printed in the analyst deck. AR2024 MD&A text (PDF p. 31) quotes 'coverage 88,12' next to FY2024 NPL - that is the 9M24 value in the same deck series. Same value in the 3Q26 deck '(Bank Only)' table."
+            },
+            "ldr": {
+                "v": 82.05,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "LDR, bank only. Computed by the bank on third-party funds incl. sharia deposits."
+            },
+            "car": {
+                "v": 23.49,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) Individual, bank only. Consolidated KPMM is published from FY2024: 24.36% (2024), 29.09% (2025) (PUB 31 Dec 2025 ratio table)."
+            },
+            "cir": {
+                "v": 39.21,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed in the AR and in the OJK published-ratio table. This regulatory CIR is far below the conventional opex/(NII+other income) ratio: the analyst decks print a different 'CIR' (FY2020 54.95%, FY2021 55.02%), and the AR's 'Rasio Efisiensi Biaya' is 50.93% (2020) ... 48.18% (2025). Compare with peers with care."
+            },
+            "bopo": {
+                "v": 81.89,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "BOPO, bank only."
+            },
+            "casa": {
+                "v": 65.14,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 170, Tabel Rasio Keuangan Bank Jatim dibandingkan BPD SI dan Perbankan Nasional, Desember 2024, Bank Jatim column, 'CASA'",
+                "basis": "bank_only",
+                "note": "Bank only (the 3Q26 deck labels the same series '(Bank Only)')."
+            }
+        },
+        "2025": {
+            "net_profit_attr": {
+                "v": 1545.518,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2025/bjtm_lfr_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 22 (FS p. 5), statement of profit or loss",
+                "basis": "consolidated",
+                "note": "'Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk'. NCI share 71.675. Parent-entity-only profit (dividend base): 1,545.687."
+            },
+            "eps": {
+                "v": 102.93,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2025/bjtm_lfr_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 22 (FS p. 5), 'LABA PER SAHAM DASAR (diatribusikan kepada pemilik entitas induk)'",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "Basic = diluted; weighted average 15,015,498,082 shares."
+            },
+            "payout_ratio": {
+                "v": 55,
+                "source_url": "https://keuangan.kontan.co.id/news/dividen-bank-jatim-bjtm-naik-lagi-yield-95-usai-laba-melonjak-90",
+                "source_type": "news",
+                "as_of_date": "2025-12-31",
+                "loc": "Kontan article of 8 May 2026 on the AGMS of 6 May 2026 ('sebesar 55% dari laba bersih tahun 2025')",
+                "basis": "n/a",
+                "note": "NEWS SOURCE for the percentage only: the AGMS minutes (company document, https://www.bankjatim.co.id/files/iru/bahan_rups/2026/risalah_rupst_tb_2025.pdf, PDF p. 7) state the amounts, not the %: dividend Rp850,177,501,402.84 + general reserve Rp695,510,382,575.16 = parent-entity FY2025 net profit Rp1,545,687,883,978, i.e. 55.00%. AR2025 was published before this AGMS."
+            },
+            "total_assets": {
+                "v": 168854.843,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2025/bjtm_lfr_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (FS p. 1), statement of financial position (consolidated), 'JUMLAH ASET'",
+                "basis": "consolidated",
+                "note": "Consolidated with four regional banks controlled under the KUB scheme despite small stakes: NTBS (consolidated from 23 Oct 2024) and BNTT, BSTR and BLAM (consolidated from 14, 23 and 24 Dec 2025). Growth 2024->2025 and 2023->2024 is therefore driven by consolidation."
+            },
+            "loans_gross": {
+                "v": 110502.62,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2025/bjtm_lfr_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18 (FS p. 1), statement of financial position (consolidated), 'Kredit yang diberikan (dan piutang/pembiayaan syariah)' total",
+                "basis": "consolidated",
+                "note": "'Jumlah' kredit yang diberikan dan piutang/pembiayaan syariah, gross before allowance (3,713.637). Includes the four consolidated KUB banks (BNTT, BSTR, BLAM added Dec 2025). Bank-only loans FY2025: 67,244 (3Q26 deck slide 18)."
+            },
+            "deposits": {
+                "v": 127249.053,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2025/bjtm_lfr_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 201, Note 51 Liquidity risk, maturity table, 'Simpanan dari nasabah' carrying amount",
+                "basis": "consolidated",
+                "note": "Deposits from customers INCLUDING temporary syirkah (mudharabah) customer deposits = Bank Jatim's third-party funds (DPK). Face lines: 'Simpanan dari nasabah' 109,944.253 + 'Dana syirkah temporer - simpanan dari nasabah' 17,304.800 (PDF p. 19); the note prints the combined 127,249.053. Consolidates NTBS (from 23 Oct 2024) and BNTT, BSTR and BLAM (from 14/23/24 Dec 2025)."
+            },
+            "equity_attr": {
+                "v": 13656.442,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2025/bjtm_publikasi_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published statement 31 Dec 2025 (OJK format), Laporan Posisi Keuangan, KONSOLIDASI 31 DES 2025 (Audited) column, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "The audited FS prints no attributable subtotal. PSAK identity: total equity 22,499.302 - NCI 8,849.073 = 13,650.229; the OJK format moves the 'selisih transaksi dengan kepentingan non-pengendali' (-6.213) into minority interest, hence 13,656.442. Parent-entity-only equity (FS2025 PDF p. 228): 13,657.450."
+            },
+            "total_equity": {
+                "v": 22499.302,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2025/bjtm_lfr_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20 (FS p. 3), statement of financial position (consolidated), 'JUMLAH EKUITAS'",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests of 8,849.073 (Bank Jatim owns only ~3-5% of each KUB subsidiary, so ~95% of their equity is NCI)."
+            },
+            "shares_out": {
+                "v": 15015498082,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2025/bjtm_lfr_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 136, Note 30 Share capital, 'Jumlah'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Issued and fully paid: Series A 11,934,147,982 + Series B 3,081,350,100. No treasury shares. Unchanged since the last MESOP exercise window (3 Feb-16 Mar 2020)."
+            },
+            "year_end_price": {
+                "v": 540,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 26, Tabel Harga, Volume dan Kapitalisasi Saham Bank Jatim 2024-2025, 2025 Triwulan IV 'Penutupan'",
+                "basis": "n/a",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed (last IDX session of the year); exact session date not printed. No split/bonus since the 2012 IPO."
+            },
+            "roe": {
+                "v": 13.35,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "ROE as reported in the OJK published-ratio format (bank only; OJK definition based on core capital). The same values appear in the bank's analyst decks."
+            },
+            "roa": {
+                "v": 1.9,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "ROA as reported (OJK definition: pre-tax profit / average total assets, bank only)."
+            },
+            "nim": {
+                "v": 6.15,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "NIM as reported (OJK definition, bank only)."
+            },
+            "coc": {
+                "v": 2.55,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2026/bjtm_fy2025_rev_ceo_v.4_w_dir_mrus_web_ver.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (image slide), Quarterly Financial Ratio table, 'Credit Cost' FY25",
+                "basis": "bank_only",
+                "note": "Credit cost as printed in the analyst deck, bank only."
+            },
+            "npl_gross": {
+                "v": 3.88,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "NPL gross, bank only (KBMI/OJK reporting). For 2024-2025 the consolidated loan-quality tables in the FS supplementary note give different figures (e.g. FS2025 PDF p. 221: 3.42% 2025, 3.09% 2024 consolidated)."
+            },
+            "npl_net": {
+                "v": 1.91,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2025/bjtm_publikasi_desember_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "Single-page published statement 31 Dec 2025, LAPORAN RASIO KEUANGAN (BANK), 31 DES 2025 (Audited) column, row 6 'NPL net'",
+                "basis": "bank_only",
+                "note": "Bank only. The FS supplementary consolidated loan-quality table gives a different consolidated net NPL."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed for FY2025: the FY2023 deck (slide 7), FY2025 deck (slides 12, 14) and the 3Q26 deck stop printing Loan at Risk; AR2025 has only a 'LAR' KPI name without a value (AR2025 PDF pp. 442-447); not in the OJK published ratio table."
+            },
+            "npl_coverage": {
+                "v": 102.12,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2026/bjtm_fy2025_rev_ceo_v.4_w_dir_mrus_web_ver.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14 (image slide), Quarterly Financial Ratio table, 'Coverage Ratio' FY25",
+                "basis": "bank_only",
+                "note": "Coverage ratio (CKPN / NPL), bank only, as printed in the analyst deck. Same value in the 3Q26 deck '(Bank Only)' table."
+            },
+            "ldr": {
+                "v": 85.39,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "LDR, bank only. Computed by the bank on third-party funds incl. sharia deposits."
+            },
+            "car": {
+                "v": 25.38,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "KPMM (CAR) Individual, bank only. Consolidated KPMM is published from FY2024: 24.36% (2024), 29.09% (2025) (PUB 31 Dec 2025 ratio table)."
+            },
+            "cir": {
+                "v": 36.85,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "'Cost to Income Ratio (CIR)' as printed in the AR and in the OJK published-ratio table. This regulatory CIR is far below the conventional opex/(NII+other income) ratio: the analyst decks print a different 'CIR' (FY2020 54.95%, FY2021 55.02%), and the AR's 'Rasio Efisiensi Biaya' is 50.93% (2020) ... 48.18% (2025). Compare with peers with care."
+            },
+            "bopo": {
+                "v": 79.92,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF pp. 24-25, Ikhtisar Keuangan, RASIO KEUANGAN (%) table (2021-2025)",
+                "basis": "bank_only",
+                "note": "BOPO, bank only."
+            },
+            "casa": {
+                "v": 66.49,
+                "source_url": "https://www.bankjatim.co.id/files/iru/bahan_rups/laporan_tahunan/2025/ar_2025_bjtm_ind_highress.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 170, Tabel Rasio Keuangan Bank Jatim dibandingkan BPD SI dan Perbankan Nasional, Desember 2025, Bank Jatim column, 'CASA'",
+                "basis": "bank_only",
+                "note": "Bank only (the 3Q26 deck labels the same series '(Bank Only)')."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 48.85,
+            "total": 733.5070813057,
+            "cum_date": "2021-05-11",
+            "ex_date": "2021-05-17",
+            "record_date": "2021-05-18",
+            "pay_date": "2021-05-28",
+            "share_basis": "2021-05-06",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BJTM_DIV_20210518_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-05-06",
+            "loc": "KSEI notice KSEI-7713/JKU/0521 dated 2021-05-06, 'Jadwal Pelaksanaan Pembagian Deviden Tunai' items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at the AGMS of 3 May 2021. Total Rp733,507,081,305.70 = 49.26% of FY2020 net profit (AR2025 PDF p. 334; AR2021 PDF p. 241). Ex-date follows the 12-14 May 2021 Idul Fitri market holiday. Dates/DPS = KSEI schedule relaying the issuer's notification. No split/bonus since IPO: DPS is on the current 15,015,498,082-share basis."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 52.11,
+            "total": 782.45760505302,
+            "cum_date": "2022-03-25",
+            "ex_date": "2022-03-28",
+            "record_date": "2022-03-29",
+            "pay_date": "2022-04-14",
+            "share_basis": "2022-03-22",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BJTM_DIV_20220329_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-03-22",
+            "loc": "KSEI notice KSEI-4681/JKU/0322 dated 2022-03-22, 'Jadwal Pelaksanaan Pembagian Deviden Tunai' items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at the AGMS of 17 Mar 2022. Total Rp782,457,605,053.02 = 51.37% (AR2025 PDF p. 334). AR2022 p. 240 gives the announcement date as 21 Mar 2022, AR2023/AR2025 as 29 Mar 2022 (= the recording date). Dates/DPS = KSEI schedule relaying the issuer's notification. No split/bonus since IPO: DPS is on the current 15,015,498,082-share basis."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 53.09,
+            "total": 797.17279317338,
+            "cum_date": "2023-04-27",
+            "ex_date": "2023-04-28",
+            "record_date": "2023-05-02",
+            "pay_date": "2023-05-12",
+            "share_basis": "2023-04-17",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BJTM_DIV_20230502_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-04-17",
+            "loc": "KSEI notice KSEI-6964/JKU/0423 dated 2023-04-17, 'Jadwal Pelaksanaan Pembagian Deviden Tunai' items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at the AGMS of 12 Apr 2023. Total Rp797,172,793,173.38 = 51.67% (AR2025 PDF p. 334). The AR tables print the announcement date as 3 Mar 2023, which conflicts with the notary's AGMS summary (12 Apr 2023, https://www.bankjatim.co.id/files/iru/bahan_rups/2023/cn_bjtm_rupst_tb_22_ind.pdf p. 1). Dates/DPS = KSEI schedule relaying the issuer's notification. No split/bonus since IPO: DPS is on the current 15,015,498,082-share basis."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 54.39,
+            "total": 816.69294067998,
+            "cum_date": "2024-02-20",
+            "ex_date": "2024-02-21",
+            "record_date": "2024-02-22",
+            "pay_date": "2024-03-07",
+            "share_basis": "2024-02-15",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BJTM_DIV_20240222_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-02-15",
+            "loc": "KSEI notice KSEI-3034/JKU/0224 dated 2024-02-15, 'Jadwal Pelaksanaan Pembagian Deviden Tunai' items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at the AGMS of 7 Feb 2024. Total Rp816,692,940,679.98 = 55.55% (AR2025 PDF p. 334; AR2024 PDF p. 288). Dates/DPS = KSEI schedule relaying the issuer's notification. No split/bonus since IPO: DPS is on the current 15,015,498,082-share basis."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 54.71,
+            "total": 821.49790006622,
+            "cum_date": "2025-06-03",
+            "ex_date": "2025-06-04",
+            "record_date": "2025-06-05",
+            "pay_date": "2025-06-19",
+            "share_basis": "2025-05-27",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BJTM_DIV_20250605_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-05-27",
+            "loc": "KSEI notice KSEI-12431/JKU/0525 dated 2025-05-27, 'Jadwal Pelaksanaan Pembagian Deviden Tunai' items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at the AGMS of 22 May 2025. Total Rp821,497,900,066.22 = 64.12% of parent-entity profit (AR2025 PDF pp. 334, 397). Dates/DPS = KSEI schedule relaying the issuer's notification. No split/bonus since IPO: DPS is on the current 15,015,498,082-share basis."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 56.62,
+            "total": 850.17750140284,
+            "cum_date": "2026-05-18",
+            "ex_date": "2026-05-19",
+            "record_date": "2026-05-20",
+            "pay_date": "2026-06-05",
+            "share_basis": "2026-05-11",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BJTM_DIV_20260520_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-05-11",
+            "loc": "KSEI notice KSEI-10473/JKU/0526 dated 2026-05-11, 'Jadwal Pelaksanaan Pembagian Deviden Tunai' items 1-6 and Keterangan (Rp per share)",
+            "note": "Approved at the AGMS of 6 May 2026. Total Rp850,177,501,402.84 from the AGMS minutes (https://www.bankjatim.co.id/files/iru/bahan_rups/2026/risalah_rupst_tb_2025.pdf, PDF p. 7), which also give recording date 20 May 2026 but payment '04 Juni 2026'; the later KSEI schedule (stored) says 5 Jun 2026. Paid amount 850,178 (Rp juta) confirmed in the 9M2026 FS Note 30e (PDF p. 127). DPS also on the 3Q26 deck slide 28. Dates/DPS = KSEI schedule relaying the issuer's notification. No split/bonus since IPO: DPS is on the current 15,015,498,082-share basis."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "profit_ytd": {
+                "v": 1096.061,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2026/bjtm_lfr_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8 (FS p. 5), consolidated statement of profit or loss, 'Laba tahun berjalan yang dapat diatribusikan kepada: Pemilik entitas induk', 30 Sep 2026 column",
+                "basis": "consolidated",
+                "note": "1 Jan-30 Sep 2026, unaudited. Consolidates NTBS, BNTT, BSTR and BLAM for the whole period; NCI share 763.558."
+            },
+            "profit_ytd_prior": {
+                "v": 1060.391,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2026/bjtm_lfr_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 8 (FS p. 5), same line, 30 Sep 2025 comparative column",
+                "basis": "consolidated",
+                "note": "9M2025 consolidated only NTBS (BNTT, BSTR, BLAM joined in Dec 2025); YoY comparisons mix scopes."
+            },
+            "equity_attr": {
+                "v": 13477.839,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2026/bjtm_publikasi_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page published statement 30 Sep 2026 (Bisnis Indonesia, 30 Oct 2026; OJK format), Laporan Posisi Keuangan, KONSOLIDASI 30 SEPT 2026 column, 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK'",
+                "basis": "consolidated",
+                "note": "The interim FS prints no attributable subtotal. PSAK identity: total equity 22,304.199 - NCI 8,857.760 = 13,446.439; the OJK format moves 'selisih transaksi dengan kepentingan non-pengendali' (-31.400) into minority interest. Same basis as fy.2024/2025 equity_attr. 3Q26 deck slide 17 'Equity 13.478'."
+            },
+            "shares_out": {
+                "v": 15015498082,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2026/bjtm_lfr_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 125, Note 30 Share capital, 'Jumlah'",
+                "basis": "n/a",
+                "share_basis": "2026-09-30",
+                "note": "Series A 11,934,147,982 + Series B 3,081,350,100; no treasury shares."
+            },
+            "total_assets": {
+                "v": 163379.012,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2026/bjtm_lfr_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4 (FS p. 1), statement of financial position (consolidated), 'JUMLAH ASET'",
+                "basis": "consolidated"
+            },
+            "loans_gross": {
+                "v": 110820.732,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2026/bjtm_lfr_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4 (FS p. 1), statement of financial position (consolidated), 'Kredit yang diberikan dan piutang/pembiayaan syariah - Jumlah' (gross)",
+                "basis": "consolidated",
+                "note": "Bank-only loans 66,547 (3Q26 deck slide 18, -2.4% YoY)."
+            },
+            "loans_gross_prior": {
+                "v": 80251.626,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2025/bjtm_lfr_september_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4 (FS p. 1), statement of financial position (consolidated, NTBS only), 'Jumlah' kredit yang diberikan dan piutang/pembiayaan syariah, 30 Sep 2025",
+                "basis": "consolidated",
+                "note": "Scope differs from 30 Sep 2026 (BNTT, BSTR and BLAM consolidated only from Dec 2025): YoY loan growth of +38% is mostly consolidation."
+            },
+            "deposits": {
+                "v": 125021.673,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2026/bjtm_lfr_30_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 191, Note 51 Liquidity risk, maturity table 30 Sep 2026, 'Simpanan dari nasabah' carrying amount",
+                "basis": "consolidated",
+                "note": "Customer deposits incl. temporary syirkah customer deposits (face: 107,721.674 + 17,299.999), same definition as fy.*.deposits. 3Q26 deck slide 17 'Deposit 125.022'."
+            },
+            "deposits_prior": {
+                "v": 99324.225,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan%20keuangan/2025/bjtm_lfr_september_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 164, Note 50 maturity table 30 Sep 2025, 'Simpanan dari nasabah' carrying amount",
+                "basis": "consolidated",
+                "note": "Face: 81,464.879 + 17,859.346 temporary syirkah customer deposits. Scope = Bank Jatim + NTBS only."
+            },
+            "roe": {
+                "v": 11.65,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2026/bjtm_publikasi_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Single-page published statement 30 Sep 2026, LAPORAN RASIO KEUANGAN (BANK), 30 SEPT 2026 column, row 9 'Return on Equity (ROE)'",
+                "basis": "bank_only",
+                "note": "Annualised, OJK definition, bank only. 30 Sep 2025: 12.36."
+            },
+            "roa": {
+                "v": 1.83,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2026/bjtm_publikasi_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Same ratio table, row 8 'Return on Asset (ROA)'",
+                "basis": "bank_only",
+                "note": "Annualised, bank only. 30 Sep 2025: 1.76."
+            },
+            "nim": {
+                "v": 6.05,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2026/bjtm_publikasi_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Same ratio table, row 10 'Net Interest Margin (NIM)'",
+                "basis": "bank_only",
+                "note": "Bank only. 30 Sep 2025: 6.09."
+            },
+            "coc": {
+                "v": 2.16,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2026/bjtm_3q26_performances.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 19, Quarterly Financial Ratio (Bank Only), 'Credit Cost' 9M26",
+                "basis": "bank_only",
+                "note": "Bank only; same series as fy.*.coc. 9M25: 2.60."
+            },
+            "npl_gross": {
+                "v": 4.6,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2026/bjtm_publikasi_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Same ratio table, row 5 'NPL gross'",
+                "basis": "bank_only",
+                "note": "Bank only. 30 Sep 2025: 4.10. NPL net 2.78 (row 6). Consolidated (FS9M2026 PDF p. 213): 3.83% gross."
+            },
+            "lar": {
+                "v": null,
+                "note": "Not disclosed: neither the 9M2026 FS, the published statement nor the 3Q26 deck prints Loan at Risk."
+            },
+            "npl_coverage": {
+                "v": 87.95,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2026/bjtm_3q26_performances.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 19, Quarterly Financial Ratio (Bank Only), 'Coverage Ratio' 9M26",
+                "basis": "bank_only",
+                "note": "Bank only. 9M25: 90.94."
+            },
+            "ldr": {
+                "v": 87,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2026/bjtm_publikasi_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Same ratio table, row 13 'Loan to Deposit Ratio (LDR)'",
+                "basis": "bank_only",
+                "note": "Bank only. 30 Sep 2025: 80.29."
+            },
+            "car": {
+                "v": 24.42,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2026/bjtm_publikasi_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Same ratio table, row 1a 'KPMM - Individual'",
+                "basis": "bank_only",
+                "note": "Bank only (KPMM individual); consolidated 27.87. The 3Q26 deck (slide 19) prints 24.60% for 9M26 - conflicts with the published statement; filing value stored."
+            },
+            "cir": {
+                "v": 41.78,
+                "source_url": "https://www.bankjatim.co.id/files/iru/laporan_publikasi_triwulanan/2026/bjtm_publikasi_september_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "Same ratio table, row 12 'Cost to Income Ratio (CIR)'",
+                "basis": "bank_only",
+                "note": "Regulatory CIR, same definition as fy.*.cir (see note there). 30 Sep 2025: 37.49."
+            },
+            "casa": {
+                "v": 64.9,
+                "source_url": "https://www.bankjatim.co.id/files/iru/presentasi_analyst_meeting/2026/bjtm_3q26_performances.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 19, Quarterly Financial Ratio (Bank Only), 'CASA' 9M26",
+                "basis": "bank_only",
+                "note": "Bank only. 9M25: 60.20."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "price_year_end:2020",
+            "reason": "Bank Jatim AR2020 (PDF p. 24, share price table, 2020 Q4 Closing) prints Rp685; the price source last 2020 session (30 Dec 2020) closed at Rp680 (also that day low) and no December session closed at Rp685. A 0.7% gap whose cause is not established (possibly the IDX official closing price from the pre-closing auction); neither source is edited."
+        }
+    ],
+    "research_notes": [
+        "SOURCE ACCESS: every document is from Bank Jatim's own site www.bankjatim.co.id (Sucuri proxy, no challenge; plain curl with a browser User-Agent) except the dividend schedules (KSEI announcements on web.ksei.co.id) and one news item (FY2025 payout %). The Indonesian AR2020 and AR2021 links on the IR page return an empty file; their English editions (linked on the English IR page) were used. No Internet Archive copies were needed.",
+        "SCOPE / KUB CONSOLIDATION (most important): Bank Jatim had no subsidiaries until 2024. Under the OJK KUB (Kelompok Usaha Bank) scheme it took small stakes (new capital of roughly Rp100bn each) and, through shareholder agreements, control of: Bank NTB Syariah (NTBS, 4.09% at entry, consolidated from 23 Oct 2024), Bank NTT (BNTT, 3.23%, from 14 Dec 2025), Bank Sultra (BSTR, from 23 Dec 2025) and Bank Lampung (BLAM, 5.42% at entry, from 24 Dec 2025) (FS2025 Note 42, PDF pp. 142-150; stakes at 30 Sep 2026: 3.80% / 3.23% / 3.26% / 5.28%, FS9M2026 Note 1c PDF p. 14). Bank Banten (BEKS) joined the KUB (capital contribution Nov 2025) but is accounted as an associate, not consolidated (PSAK 110; FS2025 PDF p. 97). Because Bank Jatim owns only ~3-5%, non-controlling interests are huge (NCI 8,849bn vs total equity 22,499bn at FY2025) and most subsidiary profit goes to NCI (9M2026: 763.6bn NCI vs 1,096.1bn parent). FY2019-FY2023 = Bank Jatim alone; FY2024 = + NTBS (balance sheet; ~2 months of P&L); FY2025 = all four on the balance sheet but only ~1 month of BNTT/BSTR/BLAM P&L; 9M2026 = all four for the full period; 9M2025 comparative = NTBS only. Loan/deposit/asset growth 2023->2024, 2024->2025 and 9M25->9M26 is dominated by consolidation (bank-only loans actually FELL 2.4% YoY at 9M26: 66,547 vs 68,180, 3Q26 deck slide 18). The page's computed growth and average-equity ROE should be read with this in mind.",
+        "NO RESTATEMENTS of FY2020-FY2025 headline figures were found: each later FS repeats the prior-year totals (FS2022 and FS2024 carry a third 'opening' column for presentation re-classifications only; FS2022 split sharia funds into 'dana syirkah temporer' without changing totals). FY2019 WAS restated in FS2020 Note 57 (defined-benefit pension): total assets 76,715.290 -> 76,756.313, total equity 9,185.652 -> 9,021.558, profit unchanged; fy.2019 stores the originals (restated in notes).",
+        "DEPOSITS DEFINITION: fy.*.deposits and interim deposits = customer deposits INCLUDING temporary syirkah (mudharabah) customer deposits, i.e. Bank Jatim's own 'Dana Pihak Ketiga' (DPK) - the figure its decks print and its LDR uses. Each value is a printed total (FS face to FY2021, FS liquidity-risk note from FY2022 when the FS began showing syirkah funds separately). This keeps one definition across the 2022 presentation change and includes the sharia subsidiary NTBS's funds. (BBNI/BBTN in this dataset exclude syirkah; PNBN/BTPS include it.) Syirkah amounts: 2019-2021 inside the face line; 2022 1,841.692; 2023 2,347.055; 2024 14,958.773; 2025 17,304.800; 9M2026 17,299.999.",
+        "EQUITY ATTRIBUTABLE: the audited consolidated FS (FY2024, FY2025, 9M2026) print no 'equity attributable to owners' subtotal. equity_attr for those dates is the printed 'TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK' (KONSOLIDASI column) of the OJK-format published statement (same approach as BTPS). It differs from PSAK total equity - NCI by the 'selisih transaksi dengan kepentingan non-pengendali' line: FY2025 13,656.442 vs 13,650.229; 9M2026 13,477.839 vs 13,446.439; FY2024 identical (12,512.592). The Dec-2024 published statement itself printed 12,526.689 (it added the NCI's 14.1bn profit share to parent equity); the FY2025 publication's comparative column (12,512.592, = audited) is stored.",
+        "RATIOS: all ratios are BANK ONLY as Bank Jatim reports them (OJK published-ratio definitions): ROE/ROA/NIM/NPL/LDR/CAR(KPMM individual)/CIR/BOPO from the AR five-year table (AR2025 for 2021-2025, AR2024 for 2020; cross-checked against AR2020, the decks and the OJK published ratio tables - no differences). CASA from the AR peer table (2023-2025) or the FY decks (2020-2022); coverage, credit cost and LaR from the FY analyst decks (FY2023-FY2025 coverage/CoC from the FY2025 deck's quarterly table, which the 3Q26 deck repeats as '(Bank Only)'). Interim ratios from the 9M2026 OJK published ratio table, plus CASA/coverage/CoC from the 3Q26 deck. CIR CAUTION: Bank Jatim's printed 'Cost to Income Ratio' (OJK format; 36.85% FY2025) is far below a conventional CIR; the decks' own 'CIR' was 54.95% (FY2020) and 55.02% (FY2021), and the AR's 'Rasio Efisiensi Biaya' 48-53%. The stored value is the AR/OJK one (consistent FY and interim).",
+        "LOAN AT RISK: printed only in the FY2020-FY2022 decks (6.10 / 6.57 / 4.81). FY2023-FY2025 and 9M2026 are null (not disclosed anywhere checked).",
+        "DIVIDENDS: one final cash dividend per fiscal year, no interim or special dividends (each statement of changes in equity shows one payment per year; AR2025 p. 334 table). Payout base is the PARENT-ENTITY net profit (e.g. FY2024 Rp1,281,116m vs consolidated attributable 1,281,718m); with the consolidated figure the payout check is still within 0.05%. Dates are from KSEI's schedule notices (web.ksei.co.id/Announcement/Files/BJTM_DIV_<recording date>_ID.pdf); totals from AR2025 p. 334 (FY2020-FY2024) and the AGMS 2026 minutes (FY2025). AGMS dates: 3 May 2021, 17 Mar 2022, 12 Apr 2023, 7 Feb 2024, 22 May 2025, 6 May 2026. FY2025 payment: AGMS minutes say 4 Jun 2026, KSEI notice 5 Jun 2026 (stored). FY2025 payout 55% is from news (Kontan); the company documents give only the amounts (55.00% of parent profit). No FY2026 interim dividend announced (none in the 9M2026 FS).",
+        "CORPORATE ACTIONS: none to record for 2019-2026 - no split, reverse split, rights issue or bonus issue since the IPO of 12 Jul 2012 (AR2025 p. 28 'tidak melakukan Aksi Korporasi... pemecahan saham, penggabungan saham, dividen saham, saham bonus...'; p. 154 share-issuance chronology lists only the IPO and MESOP exercises). The only share-count changes were MESOP exercises (13,127,500 new Series B shares 2016-2020; last window 3 Feb-16 Mar 2020): 14,993,772,982 shares at 30 Sep/31 Dec 2019 -> 15,015,498,082 since Q1 2020. MESOP is not a schema corporate-action type. Shares outstanding have been 15,015,498,082 with no treasury shares from FY2020 to 9M2026. No rights/bonus before 2020-12-31, so no fy.2019.year_end_price is stored (AR2020 prints the 2019 Q4 close as 655 for reference).",
+        "SELF-CHECK: eps x shares_out vs net_profit_attr: 2020 -0.00%, 2021 -0.00%, 2022 +0.00%, 2023 +0.01%, 2024 -0.00%, 2025 +0.00%. dps x shares vs total: all within 0.01%. profit x payout vs total: 2020 -0.01%, 2021 -0.01%, 2022 +0.00%, 2023 -0.01%, 2024 +0.04%, 2025 -0.02%.",
+        "MINOR DISCREPANCIES: AR2022 vs AR2023/AR2025 announcement date of the FY2021 dividend (21 vs 29 Mar 2022); AR tables give 3 Mar 2023 for the FY2022 dividend announcement although the AGMS was 12 Apr 2023; 3Q26 deck CAR 24.60% vs published-statement KPMM 24.42% (9M26); FY2022 deck highlight slide shows FY21 credit cost 1.10% vs 1.01% in its own ratio table and in the FY2021 deck; AR2024 MD&A text cites 9M24 coverage/credit cost (88.12% / 1.48%) as if FY2024. All stored values follow the table/filing as noted in each datum.",
+        "KBMI: AR2025 p. 264 states KBMI 2 (core capital Rp6-14tn). Bank-only core capital 12.36tn; consolidated 21.45tn (KUB). Treated as KBMI 2 as stated."
+    ]
+}
