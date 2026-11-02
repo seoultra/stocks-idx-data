@@ -1,16 +1,21 @@
 {
-  "schema": 1,
-  "bi_rate": {
-    "v": 5.75,
-    "source_url": "https://www.bi.go.id/en/statistik/indikator/bi-rate.aspx",
-    "source_type": "official",
-    "as_of_date": "2026-10-21",
-    "loc": "BI-Rate table, row 21 October 2026 (held; decided at the 20–21 Oct 2026 Board of Governors meeting)",
-    "basis": "n/a",
-    "note": "Press release: https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_2823326.aspx. Next meeting 17–18 Nov 2026."
-  },
-  "sbn10y": {
-    "v": null,
-    "note": "Not published yet: no 10-year SBN yield source with redistribution permission. The PHEI IGSYC benchmark requires written permission for redistribution."
-  }
+    "schema": 1,
+    "bi_rate": {
+        "v": 5.75,
+        "source_url": "https://www.bi.go.id/en/statistik/indikator/bi-rate.aspx",
+        "source_type": "official",
+        "as_of_date": "2026-10-21",
+        "loc": "BI-Rate table, row 21 October 2026 (held; decided at the 20–21 Oct 2026 Board of Governors meeting)",
+        "basis": "n/a",
+        "note": "Press release: https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_2823326.aspx. Next meeting 17–18 Nov 2026."
+    },
+    "sbn10y": {
+        "v": 7.54971,
+        "source_url": "https://www.antaranews.com/berita/5815931/pemerintah-serap-rp2065-triliun-dari-lelang-sun-pekan-ini",
+        "source_type": "news",
+        "as_of_date": "2026-10-27",
+        "loc": "ANTARA, 28 Oct 2026, reprinting the DJPPR (Ministry of Finance) press statement on the SUN auction of 27 Oct 2026: series FR0111 (reopening, matures 15 Mar 2037) weighted-average yield won 7.54971%",
+        "basis": "n/a",
+        "note": "10-year benchmark series FR0111: weighted-average yield won at the government SUN auction of 27 Oct 2026 (primary market, not a secondary-market quote). The DJPPR release page itself is not retrievable from this server, so the state news agency ANTARA, quoting the DJPPR statement, is the source. Updated after each SUN auction (every two weeks). The PHEI IGSYC secondary-market curve is not used: it requires written permission for redistribution."
+    }
 }
