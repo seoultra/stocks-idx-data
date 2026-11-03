@@ -88,16 +88,17 @@ which can lag by a few hours. Use a commit SHA instead of `main` for reproducibl
 
 | Code | Company | Subsector | Currency | Fundamentals | Daily prices since |
 |---|---|---|---|---|---|
-| [BYAN](issuers/BYAN.json) | Bayan Resources | Coal | USD | FY2019–25 · 9M 2026 | [2019-01-07](prices/BYAN.json) |
-| [ADRO](issuers/ADRO.json) | Alamtri Resources Indonesia | Coal | USD | FY2019–25 · 9M 2026 | [2019-01-02](prices/ADRO.json) |
-| [PTBA](issuers/PTBA.json) | Bukit Asam | Coal | IDR | FY2019–25 · 9M 2026 | [2019-01-02](prices/PTBA.json) |
-| [MEDC](issuers/MEDC.json) | MedcoEnergi | Oil & gas | USD | FY2019–25 · H1 2026 | [2019-01-02](prices/MEDC.json) |
-| [PGAS](issuers/PGAS.json) | Perusahaan Gas Negara | Oil & gas | USD | FY2019–25 · 9M 2026 | [2019-01-02](prices/PGAS.json) |
-| [BREN](issuers/BREN.json) | Barito Renewables | Geothermal & renewables | USD | FY2019–25 · 9M 2026 | [2023-10-09](prices/BREN.json) |
-| [PGEO](issuers/PGEO.json) | Pertamina Geothermal Energy | Geothermal & renewables | USD | FY2019–25 · H1 2026 | [2023-02-24](prices/PGEO.json) |
-| [PTRO](issuers/PTRO.json) | Petrosea | Energy distribution & services | USD | FY2019–25 · H1 2026 | [2019-01-02](prices/PTRO.json) |
+| [BYAN](issuers/BYAN.json) | Bayan Resources | Coal | USD | FY2020–25 · 9M 2026 | [2019-01-07](prices/BYAN.json) |
+| [ADRO](issuers/ADRO.json) | Alamtri Resources Indonesia | Coal | USD | FY2020–25 · 9M 2026 | [2019-01-02](prices/ADRO.json) |
+| [PTBA](issuers/PTBA.json) | Bukit Asam | Coal | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/PTBA.json) |
+| [MEDC](issuers/MEDC.json) | MedcoEnergi | Oil & gas | USD | FY2020–25 · H1 2026 | [2019-01-02](prices/MEDC.json) |
+| [PGAS](issuers/PGAS.json) | Perusahaan Gas Negara | Oil & gas | USD | FY2020–25 · 9M 2026 | [2019-01-02](prices/PGAS.json) |
+| [BREN](issuers/BREN.json) | Barito Renewables | Geothermal & renewables | USD | FY2020–25 · 9M 2026 | [2023-10-09](prices/BREN.json) |
+| [PGEO](issuers/PGEO.json) | Pertamina Geothermal Energy | Geothermal & renewables | USD | FY2020–25 · H1 2026 | [2023-02-24](prices/PGEO.json) |
+| [AKRA](issuers/AKRA.json) | AKR Corporindo | Energy distribution & services | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/AKRA.json) |
+| [PTRO](issuers/PTRO.json) | Petrosea | Energy distribution & services | USD | FY2020–25 · H1 2026 | [2019-01-02](prices/PTRO.json) |
 
-**38 banks · 8 energy companies** · fundamentals through **2026-09-30** · daily prices through **2026-11-03**
+**38 banks · 9 energy companies** · fundamentals through **2026-09-30** · daily prices through **2026-11-03**
 <!-- coverage:end -->
 
 ## Good to know
