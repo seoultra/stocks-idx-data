@@ -1,0 +1,1537 @@
+{
+    "schema": 1,
+    "code": "ITMG",
+    "name": "PT Indo Tambangraya Megah Tbk",
+    "name_short": "Indo Tambangraya Megah",
+    "sector": "energy",
+    "subsector": "coal",
+    "currency": "USD",
+    "exchange": "IDX",
+    "website": "https://www.itmg.co.id",
+    "ir_url": "https://www.itmg.co.id/investor",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 1715.592,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 323, consolidated statement of profit or loss - Pendapatan bersih / Net revenue",
+                "basis": "consolidated",
+                "note": "audited FY2019 consolidated FS inside AR2019 (Lampiran); USD thousand / 1,000."
+            },
+            "net_profit_attr": {
+                "v": 129.426,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 324, profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 1209.041,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 321, consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 159.209,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 321, Kas dan setara kas / Cash and cash equivalents (Note 4)",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 10.616,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 322, current and non-current liabilities - bank loan lines",
+                "basis": "consolidated",
+                "note": "Short-term bank loan 10,616 USD thousand (AR2019 face: 'Pinjaman jangka pendek / Short-term borrowing'; labelled 'Short-term bank loan' in the AR2020 comparative). No long-term loans, bonds or leases at 31 Dec 2019."
+            },
+            "equity_attr": {
+                "v": 889.775,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 322, equity attributable to owners of the parent entity (subtotal before non-controlling interest)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 884.465,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2019 PDF p. 322, JUMLAH EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 1185.336,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 334, consolidated statement of profit or loss - Pendapatan bersih / Net revenue",
+                "basis": "consolidated",
+                "note": "audited FY2020 consolidated FS inside AR2020 (Lampiran); USD thousand / 1,000."
+            },
+            "net_profit_attr": {
+                "v": 39.469,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 335, profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 1158.629,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 331, consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 231.459,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 331, Kas dan setara kas / Cash and cash equivalents (Note 4)",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; restricted cash is a separate non-current line and is excluded."
+            },
+            "total_debt": {
+                "v": 43.448,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 332, current and non-current liabilities - bank loan lines",
+                "basis": "consolidated",
+                "note": "Sum of current maturities of long-term bank loans 7,726 + long-term bank loans net of current maturities 35,722 = 43,448 USD thousand. No bonds/notes. Lease liabilities excluded (20,532 current + 768 non-current)."
+            },
+            "equity_attr": {
+                "v": 854.136,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 333, equity attributable to owners of the parent entity (subtotal before non-controlling interest)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 846.29,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 333, JUMLAH EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 312.339,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 332, JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.04,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 335, basic and diluted earnings per share attributable to owners of the parent (full amount, US$)",
+                "basis": "consolidated",
+                "share_basis": "2021-02-22",
+                "note": "USD per share, printed to 2 decimals only. Weighted-average shares 1,096,556 thousand (FS EPS note / AR highlights)."
+            },
+            "shares_out": {
+                "v": 1096555900,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 429, Note share capital - shareholder composition table",
+                "share_basis": "2021-02-22",
+                "note": "Issued 1,129,925,000 less 33,369,100 treasury shares (bought back on IDX in 2016) = 1,096,555,900 outstanding (FS share-capital note table)."
+            },
+            "cfo": {
+                "v": 172.743,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 337, consolidated statement of cash flows - net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 27.313,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 337, investing activities",
+                "basis": "consolidated",
+                "note": "Purchases of property, plant and equipment 19,126 + additions of deferred exploration and development expenditures 8,187 = 27,313 USD thousand (ITMG's capitalised mine-development outflow; there is no separate 'mining properties' purchase line). The AR 'Capital expenditure' highlight is a different (accrual) measure and is not used."
+            },
+            "fx_usd_idr": {
+                "v": 14105,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 354, Note 2 foreign currency translation - 'Rupiah per US$' at the reporting date (Bank Indonesia middle rate)",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS."
+            },
+            "operating_profit": {
+                "v": 103.911,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 16, financial highlights 'Information on Consolidated Business Results' - Laba usaha/operasi* / Operating income*",
+                "basis": "consolidated",
+                "note": "AR highlight; footnote: operating income = gross profit less selling expenses and general & administrative expenses. The FS face has no operating-profit subtotal. Same figure as 'EBIT'/'Operating Income' in the analyst decks."
+            },
+            "ebitda": {
+                "v": 187.039,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Analyst%20Presentation%204Q20.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 34, 'Income statement' FY20 vs FY19 table (Unit: US$ thousand), row EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the Q4 analyst presentation. ITM's definition (2Q26 deck note): 'calculated from earnings before income tax, depreciation and amortization excluding amortization of deferred stripping costs'; the decks show it next to EBIT/Operating Income (= gross profit - selling - G&A)."
+            },
+            "payout_ratio": {
+                "v": 90,
+                "source_url": "https://itmg.co.id/files/download/media/Press%20Release%20AGMS%202021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "p. 1, press release 'ITM Distributed Total Dividend of 35.5 Million' (AGMS 6 Apr 2021): 'total final dividend ... USD35.5 million with a payout ratio of 90% of the Company's net profit'",
+                "basis": "consolidated",
+                "note": "Total FY2020 dividend US$35,454k = interim US$22,777k + final US$12,677k (AR2021 FS Note 23, PDF p. 384); 35,454 / 39,469 = 89.8%."
+            },
+            "year_end_price": {
+                "v": 13850,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 21, 'Share Price and Performance Information 2020' - Quarter 4 closing (Rp)",
+                "share_basis": "2021-04-06",
+                "note": "Q4 closing price from the AR share table (last trading day not printed; as_of_date = FY end). share_basis = AGMS date at which this AR was presented; the ARs report no split/bonus issue in 2019-2024 and the FY2025 FS share count is unchanged."
+            },
+            "roe": {
+                "v": 4.5,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 18, 'Financial Ratios' - Ratio of net income to equity",
+                "basis": "consolidated",
+                "note": "As printed: profit for the year (incl. NCI) / year-end total equity (e.g. 2024: 375,601 / 1,933,810 = 19.4%). AR2024 five-year table."
+            },
+            "roa": {
+                "v": 3.3,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 18, 'Financial Ratios' - Ratio of net income to total assets",
+                "basis": "consolidated",
+                "note": "As printed: profit for the year (incl. NCI) / year-end total assets. AR2024 five-year table."
+            },
+            "production": {
+                "v": 18.4,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 130, MD&A Targets and Achievements: 'ITM's actual coal production volume in 2020 was 18.4 million tons'",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes (all ITM mines)."
+            },
+            "sales_volume": {
+                "v": 21.2,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 130: 'sales volume in 2020 was 21.2 million tons'",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes (own + third-party coal)."
+            },
+            "asp": {
+                "v": 53.5,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Analyst%20Presentation%204Q20.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 24, 'Financial Summary - Highlights of 4Q20 and FY20 results': ASP (USD/t) FY20 53.5",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average coal selling price. Analyst presentation 4Q20 (the AR2020 MD&A gives no USD figure)."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 2076.813,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 286, consolidated statement of profit or loss - Pendapatan bersih / Net revenue",
+                "basis": "consolidated",
+                "note": "audited FY2021 consolidated FS inside AR2021 (Lampiran); USD thousand / 1,000."
+            },
+            "net_profit_attr": {
+                "v": 475.57,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 287, profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 1666.239,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 283, consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 690.97,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 283, Kas dan setara kas / Cash and cash equivalents (Note 4)",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; restricted cash is a separate non-current line and is excluded."
+            },
+            "total_debt": {
+                "v": 35.74,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 284, current and non-current liabilities - bank loan lines",
+                "basis": "consolidated",
+                "note": "Sum of current maturities of long-term bank loans 9,934 + long-term bank loans net of current maturities 25,806 = 35,740 USD thousand. No bonds/notes. Lease liabilities excluded (11,640 current + 4,589 non-current)."
+            },
+            "equity_attr": {
+                "v": 1209.306,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 285, equity attributable to owners of the parent entity (subtotal before non-controlling interest)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1201.559,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 285, JUMLAH EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 464.68,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 284, JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.43,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 287, basic and diluted earnings per share attributable to owners of the parent (full amount, US$)",
+                "basis": "consolidated",
+                "share_basis": "2022-02-23",
+                "note": "USD per share, printed to 2 decimals only. Weighted-average shares 1,096,556 thousand (FS EPS note / AR highlights)."
+            },
+            "shares_out": {
+                "v": 1096555900,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 382, Note share capital - shareholder composition table",
+                "share_basis": "2022-02-23",
+                "note": "Issued 1,129,925,000 less 33,369,100 treasury shares (2016 buyback, none bought in 2021) = 1,096,555,900 outstanding."
+            },
+            "cfo": {
+                "v": 617.717,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 290, consolidated statement of cash flows - net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 22.361,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 290, investing activities",
+                "basis": "consolidated",
+                "note": "Purchases of property, plant and equipment 11,817 + additions of deferred exploration and development expenditures 10,544 = 22,361 USD thousand (ITMG's capitalised mine-development outflow; there is no separate 'mining properties' purchase line). The AR 'Capital expenditure' highlight is a different (accrual) measure and is not used."
+            },
+            "fx_usd_idr": {
+                "v": 14269,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 307, Note 2 foreign currency translation - 'Rupiah per US$' at the reporting date (Bank Indonesia middle rate)",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS."
+            },
+            "operating_profit": {
+                "v": 791.182,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 12, financial highlights 'Information on Consolidated Business Results' - Laba usaha/operasi* / Operating income*",
+                "basis": "consolidated",
+                "note": "AR highlight; footnote: operating income = gross profit less selling expenses and general & administrative expenses. The FS face has no operating-profit subtotal. Same figure as 'EBIT'/'Operating Income' in the analyst decks."
+            },
+            "ebitda": {
+                "v": 885.341,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Analyst%20Presentation%204Q21.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 29, 'Income statement - FY21 vs FY20' table (Unit: US$ thousand), row EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the Q4 analyst presentation. ITM's definition (2Q26 deck note): 'calculated from earnings before income tax, depreciation and amortization excluding amortization of deferred stripping costs'; the decks show it next to EBIT/Operating Income (= gross profit - selling - G&A)."
+            },
+            "payout_ratio": {
+                "v": 70,
+                "source_url": "https://itmg.co.id/files/download/media/Press%20Release%20AGMS%202022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "p. 1, press release 'ITM Distributed Total Dividend of USD333 Million' (AGMS 24 Mar 2022): 'USD332.9 million with a payout ratio of 70%'; same in AR2022 PDF p. 168 (AGMS resolution: USD332,921,062 or 70% pay-out ratio)",
+                "basis": "consolidated",
+                "note": "Total FY2021 dividend US$332,921,062 = interim US$94,063,320 + final US$238,857,742."
+            },
+            "year_end_price": {
+                "v": 20400,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 16, 'Ikhtisar Saham / Share Highlights' 2021 - 4th Quarter closing (Rp)",
+                "share_basis": "2022-03-24",
+                "note": "Q4 closing price from the AR share table (last trading day not printed; as_of_date = FY end). share_basis = AGMS date at which this AR was presented; the ARs report no split/bonus issue in 2019-2024 and the FY2025 FS share count is unchanged."
+            },
+            "roe": {
+                "v": 39.6,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 18, 'Financial Ratios' - Ratio of net income to equity",
+                "basis": "consolidated",
+                "note": "As printed: profit for the year (incl. NCI) / year-end total equity (e.g. 2024: 375,601 / 1,933,810 = 19.4%). AR2024 five-year table."
+            },
+            "roa": {
+                "v": 28.5,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 18, 'Financial Ratios' - Ratio of net income to total assets",
+                "basis": "consolidated",
+                "note": "As printed: profit for the year (incl. NCI) / year-end total assets. AR2024 five-year table."
+            },
+            "production": {
+                "v": 18.2,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 102, operational review: 'Total coal production in 2021 reached 18.2 million tons'",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes (all ITM mines)."
+            },
+            "sales_volume": {
+                "v": 20.1,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 136, marketing review: 'ITM's total coal sales in 2021 reached 20.1 million tons' (table total 20.1)",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes (own + third-party coal)."
+            },
+            "asp": {
+                "v": 103.2,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Analyst%20Presentation%204Q21.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 23, 'Profitability - Income statement' chart AVERAGE SELLING PRICE (Unit: US$/t), FY21 103.2",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average coal selling price. Analyst presentation 4Q21."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 3636.213,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 278, consolidated statement of profit or loss - Pendapatan bersih / Net revenue",
+                "basis": "consolidated",
+                "note": "audited FY2022 consolidated FS inside AR2022 (Lampiran); USD thousand / 1,000."
+            },
+            "net_profit_attr": {
+                "v": 1200.071,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 279, profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 2640.177,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 275, consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1430.327,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 275, Kas dan setara kas / Cash and cash equivalents (Note 4)",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; restricted cash is a separate non-current line and is excluded."
+            },
+            "total_debt": {
+                "v": 26.032,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 276, current and non-current liabilities - bank loan lines",
+                "basis": "consolidated",
+                "note": "Sum of current maturities of long-term bank loans 13,245 + long-term bank loans net of current maturities 12,787 = 26,032 USD thousand. No bonds/notes. Lease liabilities excluded (23,422 current + 396 non-current)."
+            },
+            "equity_attr": {
+                "v": 1955.058,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 277, equity attributable to owners of the parent entity (subtotal before non-controlling interest)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1950.28,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 277, JUMLAH EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 689.897,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 276, JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 1.07,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 279, basic and diluted earnings per share attributable to owners of the parent (full amount, US$)",
+                "basis": "consolidated",
+                "share_basis": "2023-02-22",
+                "note": "USD per share, printed to 2 decimals only. Weighted-average shares 1,123,767 thousand (FS EPS note / AR highlights)."
+            },
+            "shares_out": {
+                "v": 1129925000,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 373, Note share capital - shareholder composition table",
+                "share_basis": "2023-02-22",
+                "note": "All 33,369,100 treasury shares were sold in 2022 (POJK transfer obligation: 31,025,500 in March and 2,343,600 in April 2022, AR2023 PDF p. 318), so issued = outstanding 1,129,925,000 at 31 Dec 2022."
+            },
+            "cfo": {
+                "v": 1325.472,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 282, consolidated statement of cash flows - net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 44.396,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 282, investing activities",
+                "basis": "consolidated",
+                "note": "Purchases of property, plant and equipment 28,397 + additions of deferred exploration and development expenditures 15,999 = 44,396 USD thousand (ITMG's capitalised mine-development outflow; there is no separate 'mining properties' purchase line). The AR 'Capital expenditure' highlight is a different (accrual) measure and is not used."
+            },
+            "fx_usd_idr": {
+                "v": 15731,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 301, Note 2 foreign currency translation - 'Rupiah per US$' at the reporting date (Bank Indonesia middle rate)",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS."
+            },
+            "operating_profit": {
+                "v": 1682.716,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 16, financial highlights 'Information on Consolidated Business Results' - Laba usaha/operasi* / Operating income*",
+                "basis": "consolidated",
+                "note": "AR highlight; footnote: operating income = gross profit less selling expenses and general & administrative expenses. The FS face has no operating-profit subtotal. Same figure as 'EBIT'/'Operating Income' in the analyst decks."
+            },
+            "ebitda": {
+                "v": 1783.077,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Analyst%20Presentation%204Q22.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 30, 'Income statement - FY22 vs FY21' table (Unit: US$ thousand), row EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the Q4 analyst presentation. ITM's definition (2Q26 deck note): 'calculated from earnings before income tax, depreciation and amortization excluding amortization of deferred stripping costs'; the decks show it next to EBIT/Operating Income (= gross profit - selling - G&A)."
+            },
+            "payout_ratio": {
+                "v": 65,
+                "source_url": "https://itmg.co.id/files/download/media/Press%20Release%20AGMS%202023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "p. 1, press release 'ITM Determined 2022 Total Cash Dividend of USD774 Million' (AGMS 30 Mar 2023): 'USD774 million, equivalent to a payout ratio of 65%'; AR2023 PDF p. 140 (USD774,150,487 or 65% pay-out ratio)",
+                "basis": "consolidated",
+                "note": "Total FY2022 dividend US$774,150,487 = interim US$299,513,928 + final US$474,636,559."
+            },
+            "year_end_price": {
+                "v": 39025,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 18, share price table 2022 - Quarter IV closing (Rp)",
+                "share_basis": "2023-03-30",
+                "note": "Q4 closing price from the AR share table (last trading day not printed; as_of_date = FY end). share_basis = AGMS date at which this AR was presented; the ARs report no split/bonus issue in 2019-2024 and the FY2025 FS share count is unchanged."
+            },
+            "roe": {
+                "v": 61.5,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 18, 'Financial Ratios' - Ratio of net income to equity",
+                "basis": "consolidated",
+                "note": "As printed: profit for the year (incl. NCI) / year-end total equity (e.g. 2024: 375,601 / 1,933,810 = 19.4%). AR2024 five-year table."
+            },
+            "roa": {
+                "v": 45.4,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2024 PDF p. 18, 'Financial Ratios' - Ratio of net income to total assets",
+                "basis": "consolidated",
+                "note": "As printed: profit for the year (incl. NCI) / year-end total assets. AR2024 five-year table."
+            },
+            "production": {
+                "v": 16.6,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 118, operational review: 'ITM's total coal production in 2022 reached 16.6 million tons'",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes (all ITM mines)."
+            },
+            "sales_volume": {
+                "v": 18.9,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 143: 'Sales volume in 2022 reached 18.9 million tons'",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes (own + third-party coal)."
+            },
+            "asp": {
+                "v": 192,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2023 PDF p. 119, MD&A Net Revenue: 'average selling price, from USD 192 per ton in 2022 to USD 113 per ton in 2023'",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average coal selling price. Same in the 4Q22 deck p. 6 ('ITM FY22 ASP reached $192/ton')."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 2374.315,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 225, consolidated statement of profit or loss - Pendapatan bersih / Net revenue",
+                "basis": "consolidated",
+                "note": "audited FY2023 consolidated FS inside AR2023 (Lampiran); USD thousand / 1,000."
+            },
+            "net_profit_attr": {
+                "v": 500.331,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 226, profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 2187.847,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 222, consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 851.149,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 222, Kas dan setara kas / Cash and cash equivalents (Note 4)",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; restricted cash is a separate non-current line and is excluded."
+            },
+            "total_debt": {
+                "v": 47.953,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 223, current and non-current liabilities - bank loan lines",
+                "basis": "consolidated",
+                "note": "Sum of short-term bank loans 24,500 + current maturities of long-term bank loans 15,831 + long-term bank loans net of current maturities 7,622 = 47,953 USD thousand. No bonds/notes. Lease liabilities excluded (5,919 current + 0 non-current)."
+            },
+            "equity_attr": {
+                "v": 1787.579,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 224, equity attributable to owners of the parent entity (subtotal before non-controlling interest)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1788.54,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 224, JUMLAH EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 399.307,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 223, JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.44,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 226, basic and diluted earnings per share attributable to owners of the parent (full amount, US$)",
+                "basis": "consolidated",
+                "share_basis": "2024-02-21",
+                "note": "USD per share, printed to 2 decimals only. Weighted-average shares 1,129,925 thousand (FS EPS note / AR highlights)."
+            },
+            "shares_out": {
+                "v": 1129925000,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 318, Note share capital - shareholder composition table",
+                "share_basis": "2024-02-21",
+                "note": "Issued = outstanding 1,129,925,000; no treasury shares at 31 Dec 2023."
+            },
+            "cfo": {
+                "v": 221.044,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 229, consolidated statement of cash flows - net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 80.718,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 229, investing activities",
+                "basis": "consolidated",
+                "note": "Purchases of property, plant and equipment 53,633 + additions of deferred exploration and development expenditures 27,085 = 80,718 USD thousand (ITMG's capitalised mine-development outflow; there is no separate 'mining properties' purchase line). The AR 'Capital expenditure' highlight is a different (accrual) measure and is not used."
+            },
+            "fx_usd_idr": {
+                "v": 15416,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 246, Note 2 foreign currency translation - 'Rupiah per US$' at the reporting date (Bank Indonesia middle rate)",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS."
+            },
+            "operating_profit": {
+                "v": 605.464,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 12, financial highlights 'Information on Consolidated Business Results' - Laba usaha/operasi* / Operating income*",
+                "basis": "consolidated",
+                "note": "AR highlight; footnote: operating income = gross profit less selling expenses and general & administrative expenses. The FS face has no operating-profit subtotal. Same figure as 'EBIT'/'Operating Income' in the analyst decks."
+            },
+            "ebitda": {
+                "v": 670.858,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Analyst%20Presentation%204Q23.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 28, 'QoQ and YoY financial performance comparison' (Unit: $ thousand), FY23 column, row EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the Q4 analyst presentation. ITM's definition (2Q26 deck note): 'calculated from earnings before income tax, depreciation and amortization excluding amortization of deferred stripping costs'; the decks show it next to EBIT/Operating Income (= gross profit - selling - G&A)."
+            },
+            "payout_ratio": {
+                "v": 65,
+                "source_url": "https://itmg.co.id/files/download/media/Press%20Release%20on%20ITM%20AGMS%202024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "p. 1, press release 'ITM Determined 2023 Total Cash Dividend of USD325 Million' (AGMS 28 Mar 2024): 'USD325 million, equivalent to a payout ratio of 65%'; AR2024 PDF p. 166 (USD325,215,018 or 65% pay-out ratio)",
+                "basis": "consolidated",
+                "note": "Total FY2023 dividend US$325,215,018 = interim US$199,270,735 + final US$125,944,283."
+            },
+            "year_end_price": {
+                "v": 25650,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 14, 'Ikhtisar Harga Saham / Share Price Overview' 2023 - 4th Quarter closing (Rp)",
+                "share_basis": "2024-03-28",
+                "note": "Q4 closing price from the AR share table (last trading day not printed; as_of_date = FY end). share_basis = AGMS date at which this AR was presented; the ARs report no split/bonus issue in 2019-2024 and the FY2025 FS share count is unchanged."
+            },
+            "roe": {
+                "v": 27.9,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 18, 'Financial Ratios' - Ratio of net income to equity",
+                "basis": "consolidated",
+                "note": "As printed: profit for the year (incl. NCI) / year-end total equity (e.g. 2024: 375,601 / 1,933,810 = 19.4%). AR2024 five-year table."
+            },
+            "roa": {
+                "v": 22.8,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 18, 'Financial Ratios' - Ratio of net income to total assets",
+                "basis": "consolidated",
+                "note": "As printed: profit for the year (incl. NCI) / year-end total assets. AR2024 five-year table."
+            },
+            "production": {
+                "v": 16.9,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 100, '2023 Performance': 'ITM's total coal production reached 16.9 million tons in 2023'",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes (all ITM mines)."
+            },
+            "sales_volume": {
+                "v": 20.9,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 127: 'Sales volume in 2023 reached 20.9 million tons'",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes (own + third-party coal)."
+            },
+            "asp": {
+                "v": 113,
+                "source_url": "https://itmg.co.id/files/download/investor/ITM%20Annual%20Report%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 119, MD&A Net Revenue: 'USD 113 per ton in 2023'",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average coal selling price. Same in the 4Q23 deck p. 23 (FY23 113)."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 2304.497,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 266, consolidated statement of profit or loss - Pendapatan bersih / Net revenue",
+                "basis": "consolidated",
+                "note": "audited FY2024 consolidated FS inside AR2024 (Lampiran); USD thousand / 1,000."
+            },
+            "net_profit_attr": {
+                "v": 374.119,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 267, profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 2406.544,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 263, consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 990.364,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 263, Kas dan setara kas / Cash and cash equivalents (Note 4)",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; restricted cash is a separate non-current line and is excluded."
+            },
+            "total_debt": {
+                "v": 69.492,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 264, current and non-current liabilities - bank loan lines",
+                "basis": "consolidated",
+                "note": "Sum of short-term bank loans 20,800 + current maturities of long-term bank loans 3,828 + long-term bank loans net of current maturities 44,864 = 69,492 USD thousand. No bonds/notes. Lease liabilities excluded (2,171 current + 730 non-current)."
+            },
+            "equity_attr": {
+                "v": 1928.067,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 265, equity attributable to owners of the parent entity (subtotal before non-controlling interest)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1933.81,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 265, JUMLAH EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 472.734,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 264, JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.33,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 267, basic and diluted earnings per share attributable to owners of the parent (full amount, US$)",
+                "basis": "consolidated",
+                "share_basis": "2025-02-26",
+                "note": "USD per share, printed to 2 decimals only. Weighted-average shares 1,129,925 thousand (FS EPS note / AR highlights)."
+            },
+            "shares_out": {
+                "v": 1129925000,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 357, Note share capital - shareholder composition table",
+                "share_basis": "2025-02-26",
+                "note": "Issued = outstanding 1,129,925,000; no treasury shares at 31 Dec 2024."
+            },
+            "cfo": {
+                "v": 452.133,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 270, consolidated statement of cash flows - net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 89.503,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 270, investing activities",
+                "basis": "consolidated",
+                "note": "Purchases of property, plant and equipment 68,050 + additions of deferred exploration and development expenditures 21,453 = 89,503 USD thousand (ITMG's capitalised mine-development outflow; there is no separate 'mining properties' purchase line). The AR 'Capital expenditure' highlight is a different (accrual) measure and is not used."
+            },
+            "fx_usd_idr": {
+                "v": 16162,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 286, Note 2 foreign currency translation - 'Rupiah per US$' at the reporting date (Bank Indonesia middle rate)",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS."
+            },
+            "operating_profit": {
+                "v": 483.432,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 17, financial highlights 'Information on Consolidated Business Results' - Laba usaha/operasi* / Operating income*",
+                "basis": "consolidated",
+                "note": "AR highlight; footnote: operating income = gross profit less selling expenses and general & administrative expenses. The FS face has no operating-profit subtotal. Same figure as 'EBIT'/'Operating Income' in the analyst decks."
+            },
+            "ebitda": {
+                "v": 531.867,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Analyst%20Presentation%204Q24.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 26, 'QoQ and YoY financial performance' (Unit: US$ thousand), FY24 column, row EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the Q4 analyst presentation. ITM's definition (2Q26 deck note): 'calculated from earnings before income tax, depreciation and amortization excluding amortization of deferred stripping costs'; the decks show it next to EBIT/Operating Income (= gross profit - selling - G&A)."
+            },
+            "payout_ratio": {
+                "v": 65,
+                "source_url": "https://itmg.co.id/files/download/media/Press%20Release%20on%20ITM%20AGMS%202025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "p. 1, press release 'ITM Declared 2024 Total Cash Dividend of USD243 Million' (AGMS 9 Apr 2025): 'USD243 million, or equivalent to payout ratio of 65%'",
+                "basis": "consolidated",
+                "note": "Total FY2024 dividend US$243,174k = interim US$90,048k + final US$153,126k (FS2025 Note 22, PDF p. 104)."
+            },
+            "year_end_price": {
+                "v": 26700,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 21, 'Ikhtisar Harga Saham / Share Price Overview' 2024 - 4th Quarter closing (Rp)",
+                "share_basis": "2025-04-09",
+                "note": "Q4 closing price from the AR share table (last trading day not printed; as_of_date = FY end). share_basis = AGMS date at which this AR was presented; the ARs report no split/bonus issue in 2019-2024 and the FY2025 FS share count is unchanged."
+            },
+            "roe": {
+                "v": 19.4,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 18, 'Financial Ratios' - Ratio of net income to equity",
+                "basis": "consolidated",
+                "note": "As printed: profit for the year (incl. NCI) / year-end total equity (e.g. 2024: 375,601 / 1,933,810 = 19.4%). AR2024 five-year table."
+            },
+            "roa": {
+                "v": 15.6,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 18, 'Financial Ratios' - Ratio of net income to total assets",
+                "basis": "consolidated",
+                "note": "As printed: profit for the year (incl. NCI) / year-end total assets. AR2024 five-year table."
+            },
+            "production": {
+                "v": 20.2,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 141, '2024 Targets and Achievements': 'The actual production for the year was 20.2 million tons'",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes (all ITM mines)."
+            },
+            "sales_volume": {
+                "v": 24,
+                "source_url": "https://www.itmg.co.id/files/download/investor/ITM%20Annual%20Report%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 141: 'Sales volume in 2024 reached 24.0 million tons with 4.4 million tons coming from third-party coal sales'",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes (own + third-party coal). Includes 4.4 Mt of third-party (traded) coal."
+            },
+            "asp": {
+                "v": 95,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Analyst%20Presentation%204Q24.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 22, 'Financial performance - profitability': Average selling price ($/ton) FY24 95",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average coal selling price. 4Q24 deck prints 95; the FY2025 news release (25 Feb 2026) quotes the FY24 ASP as '$96/ton' (rounding). The AR2024 MD&A gives only '-16%'."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 1881.107,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, consolidated statement of profit or loss - Pendapatan bersih / Net revenue",
+                "basis": "consolidated",
+                "note": "audited FY2025 consolidated FS; USD thousand / 1,000."
+            },
+            "net_profit_attr": {
+                "v": 190.94,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 2406.063,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 807.946,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, Kas dan setara kas / Cash and cash equivalents (Note 4)",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; restricted cash is a separate non-current line and is excluded."
+            },
+            "total_debt": {
+                "v": 38.532,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, current and non-current liabilities - bank loan lines",
+                "basis": "consolidated",
+                "note": "Sum of current maturities of long-term bank loans 6,433 + long-term bank loans net of current maturities 32,099 = 38,532 USD thousand. No bonds/notes. Lease liabilities excluded (40,351 current + 9,802 non-current)."
+            },
+            "equity_attr": {
+                "v": 1898.388,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, equity attributable to owners of the parent entity (subtotal before non-controlling interest)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1908.331,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, JUMLAH EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 497.732,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.17,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, basic and diluted earnings per share attributable to owners of the parent (full amount, US$)",
+                "basis": "consolidated",
+                "share_basis": "2026-02-25",
+                "note": "USD per share, printed to 2 decimals only. Weighted-average shares 1,129,677 thousand (FS EPS note / AR highlights)."
+            },
+            "shares_out": {
+                "v": 1123887100,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 102, Note share capital - shareholder composition table",
+                "share_basis": "2026-02-25",
+                "note": "Issued 1,129,925,000 less 6,037,900 treasury shares bought back 4 Nov-31 Dec 2025 under the buyback approved by the EGMS of 3 Nov 2025 (POJK 29/2023) = 1,123,887,100 outstanding."
+            },
+            "cfo": {
+                "v": 285.48,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, consolidated statement of cash flows - net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 119.733,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, investing activities",
+                "basis": "consolidated",
+                "note": "Purchases of property, plant and equipment 79,002 + additions of deferred exploration and development expenditures 40,731 = 119,733 USD thousand (ITMG's capitalised mine-development outflow; there is no separate 'mining properties' purchase line). The AR 'Capital expenditure' highlight is a different (accrual) measure and is not used."
+            },
+            "fx_usd_idr": {
+                "v": 16782,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statement%2012M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 30, Note 2 foreign currency translation - 'Rupiah per US$' at the reporting date (Bank Indonesia middle rate)",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "FY2025: the audited FS face has no operating-profit subtotal and AR2025 (whose highlights print 'Laba operasi') could not be retrieved (itmg.co.id bot wall; no Internet Archive copy). Not computed from FS lines."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "FY2025 EBITDA is reported only in the 4Q25 analyst presentation / AR2025, neither of which could be retrieved (itmg.co.id bot wall; not in the Internet Archive). The FS and the FY2025 news release do not print EBITDA. Not computed."
+            },
+            "payout_ratio": {
+                "v": 60,
+                "source_url": "https://stockwatch.id/rupst-indo-tambangraya-itmg-tetapkan-total-dividen-tunai-usd115-juta/",
+                "source_type": "news",
+                "as_of_date": "2025-12-31",
+                "loc": "stockwatch.id 17 Apr 2026, 'RUPST Indo Tambangraya (ITMG) Tetapkan Total Dividen Tunai USD115 Juta': 'rasio pembayaran sebesar 60% dari laba bersih ITMG tahun buku 2025'",
+                "basis": "consolidated",
+                "note": "AGMS of 17 Apr 2026 (company press release not retrievable: itmg.co.id bot wall, no archive copy). Cross-check from company/KSEI documents: interim US$50,041k (FS2025 Note 22) + final US$64,542,973 (KSEI-9054/JKU/0426) = US$114.58m = 60.0% of US$190,940k."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "FY2025 closing price is printed only in AR2025, which could not be retrieved (itmg.co.id bot wall; not in the Internet Archive). No other company/IDX document with the 2025 close was reachable."
+            },
+            "production": {
+                "v": null,
+                "note": "FY2025 production tonnage is printed in the 4Q25 deck / AR2025 (not retrievable); the FY2025 news release gives only '+5% year-on-year'. Not computed.",
+                "unit": "Mt"
+            },
+            "sales_volume": {
+                "v": 24.7,
+                "source_url": "https://itmg.co.id/files/download/media/News%20Release%20on%20Financial%20Results%20and%20Performance%2012M25.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 1, 'Revenue': 'higher sales volume of 24.7 Mt in FY25 compared to 24.0 Mt in FY24'",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes (own + third-party coal). News release of 25 Feb 2026 (AR2025 not retrievable)."
+            },
+            "asp": {
+                "v": 76,
+                "source_url": "https://itmg.co.id/files/download/media/News%20Release%20on%20Financial%20Results%20and%20Performance%2012M25.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "p. 1, Highlights: 'decline in average selling price (ASP) from $96/ton in FY24 to $76/ton in FY25'",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average coal selling price. News release of 25 Feb 2026 (AR2025 not retrievable)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "interim",
+            "dps": 307,
+            "total": 22.777,
+            "cum_date": "2020-11-09",
+            "ex_date": "2020-11-10",
+            "record_date": "2020-11-11",
+            "pay_date": "2020-11-24",
+            "share_basis": "2020-10-27",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20201111_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2020-10-27",
+            "loc": "KSEI notice KSEI-21674/JKU/1120 (2 Nov 2020), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. Declared by Circular Resolution of the Board of Directors of 27 Oct 2020: US$22,777k (US$0.02/share) per AR2021 FS Note 23 (PDF p. 384); IDR total Rp336,642,661,300 (AR2022 PDF p. 145 dividend table)."
+        },
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 167,
+            "total": 12.677,
+            "cum_date": "2021-04-14",
+            "ex_date": "2021-04-15",
+            "record_date": "2021-04-16",
+            "pay_date": "2021-04-29",
+            "share_basis": "2021-04-06",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20210416_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-04-06",
+            "loc": "KSEI notice KSEI-5652/JKU/0421 (8 Apr 2021), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. AGMS 6 Apr 2021: total FY2020 dividend US$35,454k, of which US$12,677k paid as the remaining final (AR2021 FS Note 23, PDF p. 384; press release AGMS 2021: 'USD12.7 million ... IDR167')."
+        },
+        {
+            "fy": 2021,
+            "type": "interim",
+            "dps": 1218,
+            "total": 94.063,
+            "cum_date": "2021-11-10",
+            "ex_date": "2021-11-11",
+            "record_date": "2021-11-12",
+            "pay_date": "2021-11-24",
+            "share_basis": "2021-10-29",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20211112_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-10-29",
+            "loc": "KSEI notice KSEI-20384/JKU/1121 (3 Nov 2021), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. Circular Resolution of 29 Oct 2021 (public announcement 2 Nov 2021): US$94,063,320 = Rp1,218/share (AR2022 PDF p. 168 AGMS resolution; AR2021 FS Note 23)."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 3040,
+            "total": 238.858,
+            "cum_date": "2022-04-01",
+            "ex_date": "2022-04-04",
+            "record_date": "2022-04-05",
+            "pay_date": "2022-04-22",
+            "share_basis": "2022-03-24",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20220405_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-03-24",
+            "loc": "KSEI notice KSEI-4990/JKU/0322 (28 Mar 2022), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. AGMS 24 Mar 2022: remaining US$238,857,742 = Rp3,040/share at the BI middle rate of 23 Mar 2022 (AR2022 PDF p. 168; press release AGMS 2022)."
+        },
+        {
+            "fy": 2022,
+            "type": "interim",
+            "dps": 4128,
+            "total": 299.514,
+            "cum_date": "2022-11-10",
+            "ex_date": "2022-11-11",
+            "record_date": "2022-11-14",
+            "pay_date": "2022-11-22",
+            "share_basis": "2022-10-31",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20221114_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-10-31",
+            "loc": "KSEI notice KSEI-21010/JKU/1122 (3 Nov 2022), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. Board resolution of 31 Oct 2022: US$299,513,928 = Rp4,128/share (AR2023 PDF p. 140 AGMS resolution)."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 6416,
+            "total": 474.637,
+            "cum_date": "2023-04-10",
+            "ex_date": "2023-04-11",
+            "record_date": "2023-04-12",
+            "pay_date": "2023-04-18",
+            "share_basis": "2023-03-30",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20230412_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-03-30",
+            "loc": "KSEI notice KSEI-5943/JKU/0423 (3 Apr 2023), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. AGMS 30 Mar 2023: remaining US$474,636,559 = Rp6,416/share at the BI JISDOR rate of 27 Feb 2023 (AR2023 PDF p. 140). Pay date 18 Apr 2023 per KSEI and AR2023; the AGMS press release says 19 Apr 2023."
+        },
+        {
+            "fy": 2023,
+            "type": "interim",
+            "dps": 2660,
+            "total": 199.271,
+            "cum_date": "2023-09-11",
+            "ex_date": "2023-09-12",
+            "record_date": "2023-09-13",
+            "pay_date": "2023-09-22",
+            "share_basis": "2023-08-31",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/158785_ksei_18800_jku_0923_202309151537.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-08-31",
+            "loc": "KSEI notice KSEI-18800/JKU/0923 (4 Sep 2023), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. Board resolution of 31 Aug 2023: US$199,270,735 = Rp2,660/share (AR2024 PDF p. 166 AGMS resolution)."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 1747,
+            "total": 125.944,
+            "cum_date": "2024-04-16",
+            "ex_date": "2024-04-17",
+            "record_date": "2024-04-18",
+            "pay_date": "2024-04-25",
+            "share_basis": "2024-03-28",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20240418_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-03-28",
+            "loc": "KSEI notice KSEI-6655/JKU/0424 (2 Apr 2024), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. AGMS 28 Mar 2024: remaining US$125,944,283 = Rp1,747/share at the BI JISDOR rate of 28 Feb 2024 (AR2024 PDF p. 166; press release AGMS 2024)."
+        },
+        {
+            "fy": 2024,
+            "type": "interim",
+            "dps": 1228,
+            "total": 90.048,
+            "cum_date": "2024-09-09",
+            "ex_date": "2024-09-10",
+            "record_date": "2024-09-11",
+            "pay_date": "2024-09-25",
+            "share_basis": "2024-08-29",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20240911_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-08-29",
+            "loc": "KSEI notice KSEI-21029/JKU/0924 (2 Sep 2024), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. Board resolution of 26 Aug 2024 approved by the BoC on 29 Aug 2024: US$90,048k (US$0.08/share) per FS2025 Note 22 (PDF p. 105); Rp1,228/share."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 2245,
+            "total": 153.126,
+            "cum_date": "2025-04-17",
+            "ex_date": "2025-04-21",
+            "record_date": "2025-04-22",
+            "pay_date": "2025-05-07",
+            "share_basis": "2025-04-09",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20250422_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-04-09",
+            "loc": "KSEI notice KSEI-7778/JKU/0425 (11 Apr 2025), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. AGMS 9 Apr 2025: remaining US$153,126k (US$0.14/share) per FS2025 Note 22 (PDF p. 104) = Rp2,245/share at the BI middle rate of 8 Apr 2025 (press release AGMS 2025)."
+        },
+        {
+            "fy": 2025,
+            "type": "interim",
+            "dps": 738,
+            "total": 50.041,
+            "cum_date": "2025-11-12",
+            "ex_date": "2025-11-13",
+            "record_date": "2025-11-14",
+            "pay_date": "2025-11-26",
+            "share_basis": "2025-10-31",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20251114_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-10-31",
+            "loc": "KSEI notice KSEI-26591/JKU/1125 (5 Nov 2025), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. Board resolution of 28 Oct 2025 approved by the BoC on 31 Oct 2025: US$50,041k (US$0.04/share) per FS2025 Note 22 (PDF p. 104); Rp738/share also in the company press release of 4 Nov 2025 [https://www.itmg.co.id/files/download/media/Siaran%20Pers_ITM%20Akan%20Bagikan%20Dividen%20Tunai%20Interim%202025.pdf]."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 992,
+            "total": 64.543,
+            "cum_date": "2026-04-27",
+            "ex_date": "2026-04-28",
+            "record_date": "2026-04-29",
+            "pay_date": "2026-05-19",
+            "share_basis": "2026-04-17",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/ITMG_DIV_20260429_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-17",
+            "loc": "KSEI notice KSEI-9054/JKU/0426 (27 Apr 2026), 'Jadwal Pelaksanaan Pembagian Dividen' items 1-6 (regular-market cum/ex, recording, payment) and item 8 (DPS / amount)",
+            "note": "DPS = rupiah per share as paid (ITMG declares in USD and pays in rupiah); total = US$ million as declared. AGMS 17 Apr 2026. KSEI notice: final cash dividend US$64,542,973, paid in rupiah at the BI middle rate of the recording date; KSEI-9408/JKU/0426 (29 Apr 2026) [https://web.ksei.co.id/Announcement/Files/193510_ksei_9408_jku_0426_202604291722.pdf] fixes it at Rp992/share. Total FY2025 US$114.58m = 60% payout (news, see fy.2025.payout_ratio)."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 1000.491,
+                "source_url": "https://www.itmg.co.id/files/investor/ITM%20Analyst%20Presentation%202Q26.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 25, 'QoQ and YoY financial performance' (Unit: US$ thousand), 6M26 column, Net Revenues",
+                "basis": "consolidated",
+                "note": "Analyst presentation 2Q26 (24 Aug 2026). The 6M26 FS could not be retrieved (itmg.co.id bot wall; archive copy is a block page)."
+            },
+            "revenue_ytd_prior": {
+                "v": 919.416,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statements%206M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 9, statement of profit or loss 6M25 - Pendapatan bersih / Net revenue",
+                "basis": "consolidated",
+                "note": "Unaudited 6M25 FS; equals the 6M25 column of the 2Q26 deck."
+            },
+            "ebitda_ytd": {
+                "v": 181.152,
+                "source_url": "https://www.itmg.co.id/files/investor/ITM%20Analyst%20Presentation%202Q26.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 25, 6M26 column, EBITDA",
+                "basis": "consolidated",
+                "note": "As reported; deck note: 'EBITDA is calculated from earnings before income tax, depreciation and amortization excluding amortization of deferred stripping costs'."
+            },
+            "ebitda_ytd_prior": {
+                "v": 163.567,
+                "source_url": "https://www.itmg.co.id/files/investor/ITM%20Analyst%20Presentation%202Q26.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 25, 6M25 column, EBITDA",
+                "basis": "consolidated",
+                "note": "Same figure in the 2Q25 deck."
+            },
+            "profit_ytd": {
+                "v": null,
+                "note": "Profit attributable to owners for 6M26 is printed only in the 6M26 FS, which could not be retrieved. The 2Q26 deck (p. 25) prints only total profit for the period incl. NCI: US$109,514k."
+            },
+            "profit_ytd_prior": {
+                "v": 90.978,
+                "source_url": "https://itmg.co.id/files/investor/ITM%20Consolidated%20Financial%20Statements%206M25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 10, profit for the period attributable to owners of the parent entity (6M25)",
+                "basis": "consolidated",
+                "note": "Attributable profit; total 6M25 profit incl. NCI was 93,993 (deck 'Net Profit')."
+            },
+            "equity_attr": {
+                "v": null,
+                "note": "Not in the 2Q26 deck (it prints total equity US$1,910 mn incl. NCI, p. 23); the 6M26 FS could not be retrieved."
+            },
+            "shares_out": {
+                "v": null,
+                "note": "Exact count at 30 Jun 2026 not retrievable (6M26 FS unavailable). The 2Q26 deck (p. 26 footnote) says ITM held 2.4% of its own shares as treasury shares at 30 Jun 2026."
+            },
+            "total_assets": {
+                "v": 2417,
+                "source_url": "https://www.itmg.co.id/files/investor/ITM%20Analyst%20Presentation%202Q26.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 23, 'Financial position - Balance sheet': TOTAL ASSETS as of 30 Jun 2026 $2,417Mn",
+                "basis": "consolidated",
+                "note": "Printed in US$ million (no decimals)."
+            },
+            "cash": {
+                "v": 738,
+                "source_url": "https://www.itmg.co.id/files/investor/ITM%20Analyst%20Presentation%202Q26.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 23, balance-sheet bar chart 6M26: Cash 738 ($ Mn)",
+                "basis": "consolidated",
+                "note": "Printed in US$ million (no decimals)."
+            },
+            "total_debt": {
+                "v": 18,
+                "source_url": "https://www.itmg.co.id/files/investor/ITM%20Analyst%20Presentation%202Q26.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 23, balance-sheet bar chart 6M26: Borrowing 18 ($ Mn)",
+                "basis": "consolidated",
+                "note": "Deck 'Borrowing' = bank loans excluding leases (its FY25 bar shows 39 vs FS2025 bank loans 38.5). Printed in US$ million (no decimals)."
+            },
+            "fx_usd_idr": {
+                "v": null,
+                "note": "Closing rate at 30 Jun 2026 is printed only in the 6M26 FS (not retrievable)."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2020",
+            "reason": "Rounding of the printed EPS, not a share-basis error: the FY2020 FS (AR2020 PDF p. 335) prints basic EPS as US$0.04 (two decimals only). Attributable profit US$39,469k / weighted 1,096,556k shares = US$0.036; 0.04 x 1,096,555,900 = US$43.9m vs profit US$39.5m (+11%). Shares and profit are exact; no treasury movement in 2020."
+        }
+    ],
+    "research_notes": [
+        "Access: www.itmg.co.id (and itmg.co.id) answers every request from this server with an F5 'TSPD' JavaScript challenge / 'Request Rejected' page; idx.co.id answers Cloudflare 403. No challenge was attempted. Every company document was fetched as an Internet Archive raw capture (web.archive.org/web/<ts>id_/<original URL>); KSEI notices were fetched directly from web.ksei.co.id. source_url always carries the original itmg.co.id / ksei.co.id URL; the capture timestamps are in sources.md.",
+        "Not retrievable (and therefore null): AR2025 (listed on the IR page as 'ITM_Annual Report_2025_full.pdf' but never archived), the 4Q25 and 1Q26 analyst decks, and the 3M26/6M26 FS (the only 6M26 FS capture is a block page). Consequences: FY2025 ebitda, operating_profit, year_end_price and production are null; FY2025 levels come from the audited FY2025 FS (archived 28 Feb 2026) and the FY2025 news release; the H1-2026 interim comes from the 2Q26 analyst deck, so profit_ytd (attributable), equity_attr, shares_out and fx_usd_idr are null.",
+        "Interim period: H1 2026 is the latest published period. ITMG releases 9M results around 11-12 Nov (9M24 on 12 Nov 2024, 9M25 on 11 Nov 2025), so 9M26 was not out on 2026-11-03.",
+        "Units: the FS are in USD thousand; all money values here are USD million (/1,000) and were never converted to rupiah. EPS is US$ per share as printed (two decimals). fx_usd_idr is the Bank Indonesia middle rate the FS use at 31 Dec (Note 2).",
+        "Per-year sources: FY2019-FY2024 levels are from each year's own audited FS as bound into that year's AR (no restatements found: each FS2025/AR comparative equals the prior-year original for revenue, profit, assets and equity; AR2021 reclassified the 2020 current/non-current split but not the total). FY2019 holds base levels only (no rights/bonus issue, so no FY2019 price is needed).",
+        "operating_profit = AR highlight 'Laba usaha/Laba operasi*' (footnote: gross profit less selling and G&A expenses); the FS face has no such subtotal. EBITDA = the analyst-deck figure (company definition quoted in each datum). Both FY2025 values are null rather than computed.",
+        "capex = purchases of PP&E + additions of deferred exploration and development expenditures (both investing outflows). ITMG has no 'purchase of mining properties' line; deferred exploration/development is its capitalised mine-development cost. Reviewers who want PP&E only: 2020 19.126, 2021 11.817, 2022 28.397, 2023 53.633, 2024 68.050, 2025 79.002. The AR 'Belanja modal / Capital expenditure' highlight (e.g. 2024 62.4) is a different measure and was not used.",
+        "total_debt = bank loans only (short-term + current and non-current long-term). ITMG has no bonds. Lease liabilities are excluded (FY2025 jumped to 50.2 after new equipment leases). The AR 'Total debt to total equity' ratio reproduces our sums (2024 3.6%, 2023 2.7%, 2022 1.3%, 2021 3.0%, 2020 5.1%).",
+        "Dividends: ITMG declares in USD and pays in rupiah. Interim = Board resolution out of H1 profit (Sep-Nov); final = AGMS remainder (Mar-May). dps is the rupiah amount from the KSEI notice (for FY2025 final from the follow-up KSEI kurs notice, Rp992); total is the USD amount from the FS dividend note / AGMS resolution. Payout ratios are the AGMS figures (FY2020 90%, FY2021 70%, FY2022-FY2024 65%, FY2025 60%); FY2025's comes from a news report of the 17 Apr 2026 AGMS because the company press release was not retrievable, and is confirmed by the company/KSEI amounts (114.58 / 190.94 = 60.0%). The validator's DPS x shares check does not apply (USD totals vs rupiah DPS).",
+        "Self-check (profit x payout vs sum of totals, USD m): 2020 35.52 vs 35.454; 2021 332.90 vs 332.921; 2022 780.05 vs 774.151 (-0.8%; AGMS rounds to 65%); 2023 325.22 vs 325.215; 2024 243.18 vs 243.174; 2025 114.56 vs 114.584. EPS x year-end shares vs profit: 2021 -0.9%, 2022 +0.7%, 2023 -0.6%, 2024 -0.3%, 2025 +0.1%; 2020 +11% (EPS rounding, acknowledged).",
+        "Treasury shares / buybacks (not schema corporate-action types): 33,369,100 shares bought back in 2016 were held until 2022 and sold through PT CIMB Niaga Sekuritas (plan disclosed 4 Feb 2022; 31,025,500 sold in March and 2,343,600 in April 2022; POJK transfer obligation). A new buyback (max Rp2.49-2.5 tn, up to 10% / 113 m shares, one year) was announced 18 Sep 2025 and approved by the EGMS of 3 Nov 2025; 6,037,900 shares (US$7.8m) were bought by 31 Dec 2025, and the 2Q26 deck says treasury shares were 2.4% of issued shares at 30 Jun 2026. shares_out is net of treasury shares; EPS uses weighted-average shares (FY2025 1,129,677 thousand).",
+        "Corporate actions: none since 2019. Each AR (2020-2024) states there was no stock split, reverse split, stock dividend, bonus share or par-value change; the FY2025 FS share-capital note shows the same 1,129,925,000 issued shares at Rp500; a web search found no split/rights announcement in 2025-2026 (management has publicly declined to commit to a split). corporate_actions is therefore an empty list.",
+        "Operating datums: production and sales_volume (Mt) are from the AR MD&A text (FY2025 sales from the news release; FY2025 production not printed in any retrievable document). asp (USD/t) is from the AR where it prints a figure (2022, 2023) and otherwise from the Q4 deck / FY2025 news release; FY2024 is 95 in the 4Q24 deck but 96 in the FY2025 news release. ITMG publishes no 'cash cost' figure (its decks show total cost per tonne incl. royalty and D&A), so cash_cost is not stored.",
+        "roe/roa (FY2020-FY2024) are the AR2024 'Financial Ratios' values: profit for the year incl. NCI divided by year-end equity / total assets. AR2025 is unavailable, so FY2025 has none.",
+        "Ownership: Banpu Minerals (Singapore) Pte. Ltd. 736,071,000 shares = 65.14% of issued shares (Banpu group); public ~34%. Legal name unchanged (PT Indo Tambangraya Megah Tbk, ticker ITMG, brand 'ITM').",
+        "Out of scope but noted: KSEI-27194/JKU/1126 (3 Nov 2026) schedules an FY2026 interim dividend (cum 10 Nov, ex 11 Nov, recording 12 Nov, payment 18 Nov 2026), amount 'to be announced'. The FY2019 final (Rp570, paid 22 Jun 2020) is FY2019 profit and is not recorded."
+    ]
+}
