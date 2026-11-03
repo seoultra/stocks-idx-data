@@ -1,11 +1,11 @@
 # IDX stocks: open JSON data
 
-Fundamentals and daily prices for the **banks and energy companies listed on the Indonesia Stock
-Exchange (IDX)**, as plain JSON files you can fetch like an API. Every number links to the document
-and page it came from. This is the data behind [seoultra.id/stocks/idx](https://seoultra.id/stocks/idx/)
-(banks) and [seoultra.id/stocks/idx/energi](https://seoultra.id/stocks/idx/energi/) (energy).
+Fundamentals and daily prices for the **banks, energy companies and consumer staples companies listed
+on the Indonesia Stock Exchange (IDX)**, as plain JSON files you can fetch like an API. Every number links
+to the document and page it came from. This is the data behind [seoultra.id/stocks/idx](https://seoultra.id/stocks/idx/)
+(banks), [/energi](https://seoultra.id/stocks/idx/energi/) (energy) and [/konsumen](https://seoultra.id/stocks/idx/konsumen/) (consumer staples).
 
-*Data saham bank dan energi BEI dalam JSON. Setiap angka bersumber. Bukan rekomendasi investasi.*
+*Data saham bank, energi dan barang konsumen primer BEI dalam JSON. Setiap angka bersumber. Bukan rekomendasi investasi.*
 
 | What | Coverage |
 |---|---|
@@ -30,7 +30,7 @@ curl -s $BASE/prices/BBCA.json   | jq -c '.rows[-5:][]'   # [date, open, high, l
 | [index.json](index.json) | Start here: every issuer, its sector, group, currency, periods and file paths |
 | `issuers/<CODE>.json` | Annual and latest-quarter figures, dividends, research notes |
 | `prices/<CODE>.json` | Daily prices, stored as traded |
-| [sectors.json](sectors.json) | The sectors (banking, energy) and their display groups |
+| [sectors.json](sectors.json) | The sectors (banking, energy, consumer) and their display groups |
 | [corporate_actions.json](corporate_actions.json) | Splits, bonus issues and rights issues |
 | [macro.json](macro.json) | BI-Rate and the 10-year SBN yield |
 | [SCHEMA.md](SCHEMA.md) | Every field, unit and rule in detail |
@@ -99,12 +99,27 @@ which can lag by a few hours. Use a commit SHA instead of `main` for reproducibl
 | [AKRA](issuers/AKRA.json) | AKR Corporindo | Energy distribution & services | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/AKRA.json) |
 | [PTRO](issuers/PTRO.json) | Petrosea | Energy distribution & services | USD | FY2020–25 · H1 2026 | [2019-01-02](prices/PTRO.json) |
 
-**38 banks · 10 energy companies** · fundamentals through **2026-09-30** · daily prices through **2026-11-03**
+### Consumer Staples
+
+| Code | Company | Subsector | Currency | Fundamentals | Daily prices since |
+|---|---|---|---|---|---|
+| [ICBP](issuers/ICBP.json) | Indofood CBP | Packaged food | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/ICBP.json) |
+| [INDF](issuers/INDF.json) | Indofood Sukses Makmur | Packaged food | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/INDF.json) |
+| [MYOR](issuers/MYOR.json) | Mayora Indah | Packaged food | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/MYOR.json) |
+| [UNVR](issuers/UNVR.json) | Unilever Indonesia | Household & dairy | IDR | FY2020–25 · H1 2026 | [2019-01-02](prices/UNVR.json) |
+| [CMRY](issuers/CMRY.json) | Cisarua Mountain Dairy (Cimory) | Household & dairy | IDR | FY2020–25 · 9M 2026 | [2021-12-06](prices/CMRY.json) |
+| [ULTJ](issuers/ULTJ.json) | Ultrajaya | Household & dairy | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/ULTJ.json) |
+| [AMRT](issuers/AMRT.json) | Sumber Alfaria Trijaya (Alfamart) | Grocery retail | IDR | FY2020–25 · Q1 2026 | [2019-01-02](prices/AMRT.json) |
+| [MIDI](issuers/MIDI.json) | Midi Utama Indonesia (Alfamidi) | Grocery retail | IDR | FY2020–25 · 9M 2026 | [2019-01-03](prices/MIDI.json) |
+| [CPIN](issuers/CPIN.json) | Charoen Pokphand Indonesia | Poultry & protein | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/CPIN.json) |
+| [JPFA](issuers/JPFA.json) | Japfa Comfeed | Poultry & protein | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/JPFA.json) |
+
+**38 banks · 10 energy companies · 10 consumer staples companies** · fundamentals through **2026-09-30** · daily prices through **2026-11-03**
 <!-- coverage:end -->
 
 ## Good to know
 
-- **Units.** Money in IDR billion, or **USD million** for energy companies that report in dollars
+- **Units.** Money in IDR billion, or **USD million** for companies that report in dollars
   (`currency` in each issuer file; never converted). Per-share values and prices in rupiah, ratios
   in percent (`23.9` = 23.9%), dates `YYYY-MM-DD`.
 - **Every number is a datum**: `{v, source_url, source_type, as_of_date, loc, basis}`. A figure the

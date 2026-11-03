@@ -1,6 +1,6 @@
 # Data schema (v1)
 
-Curated, source-backed data for IDX-listed companies (banks and energy). Plain JSON, one file per issuer.
+Curated, source-backed data for IDX-listed companies (banks, energy and consumer staples). Plain JSON, one file per issuer.
 Every commit is validated before it is published (see "Validation" below), and the
 [seoultra.id](https://seoultra.id/stocks/idx/) pages never contain a typed number: every
 figure on them comes from these files or is computed from them.
@@ -21,7 +21,7 @@ figure on them comes from these files or is computed from them.
 ## Units
 | Kind | Unit | Example |
 |---|---|---|
-| Money (profit, equity, assets, loans, deposits, dividend totals) | IDR **billion** (Rp miliar), number; energy issuers with `currency: "USD"`: USD **million** | `54836.4` |
+| Money (profit, equity, assets, loans, deposits, dividend totals) | IDR **billion** (Rp miliar), number; corporate issuers with `currency: "USD"`: USD **million** | `54836.4` |
 | Per-share (EPS, DPS, prices) | Rupiah per share, as printed | `530` |
 | Share counts | whole shares | `123275050000` |
 | Ratios, growth, payout | percent as a number | `23.9` means 23.9% |
@@ -207,8 +207,9 @@ corporate-action calendar and flagged on the page.
 Corporate actions live only in `corporate_actions.json` — an issuer file must not carry
 its own copy (the validator rejects it), so there is one table and no drift.
 
-## Energy issuers (`sector: "energy"`)
-Coal, oil & gas, geothermal and energy distribution/services companies (added 2026-11-03). Same
+## Energy and consumer issuers (`sector: "energy"` | `"consumer"`)
+Coal, oil & gas, geothermal and energy distribution/services companies (energy, added 2026-11-03) and
+consumer staples — packaged food, household & dairy, grocery retail, poultry (consumer, added 2026-11-04). Same
 datum shape, dividend, interim and corporate-action rules as above; the bank-only keys (`kbmi`,
 `sharia`, `label_overrides`, loans, deposits, NPL, CAR, ...) do not apply.
 
@@ -216,7 +217,10 @@ datum shape, dividend, interim and corporate-action rules as above; the bank-onl
 - `currency`: `"USD"` or `"IDR"` = the currency the audited financial statements are presented in.
   Money values are **USD million** for USD reporters and IDR billion for IDR reporters. Nothing is
   ever converted in the files.
-- `subsector`: `coal` | `oil_gas` | `renewables` | `services` (the display groups in sectors.json).
+- `subsector`: energy `coal` | `oil_gas` | `renewables` | `services`; consumer `food` | `household_dairy` |
+  `retail` | `poultry` (the display groups in sectors.json).
+- Consumer issuers also store `gross_profit` whenever the profit-or-loss statement prints it; many publish no
+  EBITDA (`null` + note). Retailers' large lease liabilities are excluded from `total_debt`, as everywhere.
 
 **`fy.<YEAR>` fields** (datums; FY2020 onward need every key, `null` + note when not disclosed):
 | Key | Meaning |

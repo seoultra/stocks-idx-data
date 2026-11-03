@@ -1,0 +1,1388 @@
+{
+    "schema": 1,
+    "code": "UNVR",
+    "name": "PT Unilever Indonesia Tbk",
+    "name_short": "Unilever Indonesia",
+    "sector": "consumer",
+    "subsector": "household_dairy",
+    "exchange": "IDX",
+    "currency": "IDR",
+    "website": "https://www.unilever.co.id",
+    "ir_url": "https://www.unilever.co.id/investor/",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 42922.563,
+                "source_url": "https://www.unilever.co.id/files/origin/7e8d7e033bb0e3304f75423f359244dd5805b810.pdf/Laporan+Keuangan+Triwulan+4+2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Rp juta / 1,000. Same figure as the 2019 comparative in FS2020 (PDF p. 7)."
+            },
+            "net_profit_attr": {
+                "v": 7392.837,
+                "source_url": "https://www.unilever.co.id/files/origin/7e8d7e033bb0e3304f75423f359244dd5805b810.pdf/Laporan+Keuangan+Triwulan+4+2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, LABA / PROFIT for the year",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: profit for the year = profit attributable to owners."
+            },
+            "total_assets": {
+                "v": 20649.371,
+                "source_url": "https://www.unilever.co.id/files/origin/7e8d7e033bb0e3304f75423f359244dd5805b810.pdf/Laporan+Keuangan+Triwulan+4+2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 4, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 628.649,
+                "source_url": "https://www.unilever.co.id/files/origin/7e8d7e033bb0e3304f75423f359244dd5805b810.pdf/Laporan+Keuangan+Triwulan+4+2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 4, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 2920,
+                "source_url": "https://www.unilever.co.id/files/origin/7e8d7e033bb0e3304f75423f359244dd5805b810.pdf/Laporan+Keuangan+Triwulan+4+2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5, current liabilities - Pinjaman bank / Bank borrowings",
+                "basis": "consolidated",
+                "note": "Bank borrowings 2,920,000 Rp juta (short-term unsecured working-capital loans, all current). No bonds/MTN/sukuk. Lease liabilities (126,179 + 918,815) excluded."
+            },
+            "equity_attr": {
+                "v": 5281.862,
+                "source_url": "https://www.unilever.co.id/files/origin/7e8d7e033bb0e3304f75423f359244dd5805b810.pdf/Laporan+Keuangan+Triwulan+4+2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 5281.862,
+                "source_url": "https://www.unilever.co.id/files/origin/7e8d7e033bb0e3304f75423f359244dd5805b810.pdf/Laporan+Keuangan+Triwulan+4+2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 42972.474,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 22456.99,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 10554.448,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, face of the P&L 'Laba sebelum bunga, pajak, penyusutan dan amortisasi (EBITDA)'; reconciliation Note 35 PDF p. 90",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its audited FS: profit adjusted to exclude income tax, net finance costs, depreciation (fixed assets + right-of-use assets) and amortisation (Note 35)."
+            },
+            "operating_profit": {
+                "v": 9451.012,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less marketing & selling and G&A expenses plus other income/(expense) net; before finance items."
+            },
+            "net_profit_attr": {
+                "v": 7163.536,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, LABA / PROFIT for the year",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: profit for the year = profit attributable to owners."
+            },
+            "eps": {
+                "v": 188,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, LABA PER SAHAM DASAR; Note 28 PDF p. 74 (weighted average 38,150 million shares)",
+                "basis": "consolidated",
+                "share_basis": "2021-02-03",
+                "note": "Basic = diluted. Post-split basis (the FS2020 EPS and its 2019 comparative are adjusted for the 1:5 split of 2 Jan 2020, Note 28)."
+            },
+            "payout_ratio": {
+                "v": 99.6,
+                "source_url": "https://www.unilever.co.id/files/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-05-27",
+                "loc": "PDF p. 144, Kebijakan Pembagian Dividen table, Tahun Buku 2020: Persentase Dividen / Dividend Payout Ratio 99.6% (Laba 7,163,536; Dividen yang Dibagikan 7,134,050 Rp juta; DPS 187)",
+                "basis": "consolidated",
+                "note": "Interim Rp87 + final Rp100 = Rp187/share. AGMS 27 May 2021 (AR2021 PDF p. 145)."
+            },
+            "total_assets": {
+                "v": 20534.632,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 15597.264,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 844.076,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash or time-deposit line)."
+            },
+            "total_debt": {
+                "v": 3015,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, current liabilities - Pinjaman bank / Bank borrowings",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: 'Pinjaman bank' 3,015,000 Rp juta (short-term unsecured working-capital loans, all current). UNVR has never issued bonds, MTN or sukuk (AR2024 PDF p. 19). Lease liabilities (113,186 + 846,804) excluded."
+            },
+            "equity_attr": {
+                "v": 4937.368,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 4937.368,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 38150000000,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 66, Note 19 Modal saham - Modal saham yang beredar / Outstanding share capital",
+                "share_basis": "2021-02-03",
+                "note": "38,150,000,000 issued and fully paid (Rp2 par) after the 1:5 split effective 2 Jan 2020; no treasury shares (UIH 32,424,387,500 = 85%)."
+            },
+            "year_end_price": {
+                "v": 7350,
+                "source_url": "https://www.unilever.co.id/files/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14, Kinerja Saham per Triwulan 2020 - Harga Penutupan Q4 (also the 10-year chart PDF p. 15)",
+                "share_basis": "2022-06-10",
+                "note": "Closing price as printed in the AR share table; post-split basis (no split, bonus or rights issue after 2 Jan 2020)."
+            },
+            "cfo": {
+                "v": 8363.993,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Arus kas neto dari aktivitas operasi / Net cash flows from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 649.743,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Arus kas dari aktivitas investasi - Perolehan aset tetap",
+                "basis": "consolidated",
+                "note": "'Perolehan aset tetap' (acquisition of fixed assets) 649,743 Rp juta. Acquisition of intangible assets (42,207) not included."
+            },
+            "roe": {
+                "v": 140.2,
+                "source_url": "https://www.unilever.co.id/files/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12, Ikhtisar Keuangan - Rasio Keuangan 2020: Imbal Hasil atas Ekuitas / Return on Equity; Imbal Hasil atas Aset / Return on Assets",
+                "basis": "consolidated",
+                "note": "As reported; definition (AR2023/AR2024 PDF p. 200): profit for the year / AVERAGE total equity (ROE) and / average total assets (ROA). Very high because UNVR pays out ~100% of profit, keeping equity small."
+            },
+            "roa": {
+                "v": 34.8,
+                "source_url": "https://www.unilever.co.id/files/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12, Ikhtisar Keuangan - Rasio Keuangan 2020: Imbal Hasil atas Ekuitas / Return on Equity; Imbal Hasil atas Aset / Return on Assets",
+                "basis": "consolidated",
+                "note": "As reported; definition (AR2023/AR2024 PDF p. 200): profit for the year / AVERAGE total equity (ROE) and / average total assets (ROA). Very high because UNVR pays out ~100% of profit, keeping equity small."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 39545.959,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 19626.387,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 8756.359,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, face of the P&L 'Laba sebelum bunga, pajak, penyusutan dan amortisasi (EBITDA)'; reconciliation Note 35 PDF p. 88",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its audited FS: profit adjusted to exclude income tax, net finance costs, depreciation (fixed assets + right-of-use assets) and amortisation (Note 35)."
+            },
+            "operating_profit": {
+                "v": 7679.451,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less marketing & selling and G&A expenses plus other income/(expense) net; before finance items."
+            },
+            "net_profit_attr": {
+                "v": 5758.148,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, LABA / PROFIT for the year",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: profit for the year = profit attributable to owners."
+            },
+            "eps": {
+                "v": 151,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, LABA PER SAHAM DASAR; Note 28 PDF p. 72 (weighted average 38,150 million shares)",
+                "basis": "consolidated",
+                "share_basis": "2022-02-09",
+                "note": "Basic = diluted (no dilutive securities)."
+            },
+            "payout_ratio": {
+                "v": 99.4,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-report-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-06-15",
+                "loc": "PDF p. 213, dividend table, Tahun Buku 2021: Dividend Payout Ratio 99.4% (Dividen yang Dibagikan 5,722,500 Rp juta; DPS 150); same in AR2024 PDF p. 211",
+                "basis": "consolidated",
+                "note": "Interim Rp66 + final Rp84. AGMS 15 Jun 2022 (AR2023 PDF p. 213)."
+            },
+            "total_assets": {
+                "v": 19068.532,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 4, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 14747.263,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 325.197,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 4, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash or time-deposit line)."
+            },
+            "total_debt": {
+                "v": 1850,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, current liabilities - Pinjaman bank / Bank borrowings",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: 'Pinjaman bank' 1,850,000 Rp juta (short-term unsecured working-capital loans, all current). UNVR has never issued bonds, MTN or sukuk (AR2024 PDF p. 19). Lease liabilities (83,249 + 803,617) excluded."
+            },
+            "equity_attr": {
+                "v": 4321.269,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 4321.269,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 38150000000,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 64, Note 19 Modal saham - Modal saham yang beredar / Outstanding share capital",
+                "share_basis": "2022-02-09",
+                "note": "38,150,000,000 issued; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 4110,
+                "source_url": "https://www.unilever.co.id/files/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 14, Kinerja Saham per Triwulan 2021 - Harga Penutupan Q4 (also the 10-year chart PDF p. 15)",
+                "share_basis": "2022-06-10",
+                "note": "Closing price as printed in the AR share table; post-split basis (no split, bonus or rights issue after 2 Jan 2020)."
+            },
+            "cfo": {
+                "v": 7902.091,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Arus kas neto dari aktivitas operasi / Net cash flows from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 585.163,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Arus kas dari aktivitas investasi - Perolehan aset tetap",
+                "basis": "consolidated",
+                "note": "'Perolehan aset tetap' 585,163 Rp juta. Acquisition of intangible assets (101,564) not included."
+            },
+            "roe": {
+                "v": 124.4,
+                "source_url": "https://www.unilever.co.id/files/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, Ikhtisar Keuangan - Rasio Keuangan 2021",
+                "basis": "consolidated",
+                "note": "As reported; definition (AR2023/AR2024 PDF p. 200): profit for the year / AVERAGE total equity (ROE) and / average total assets (ROA). Very high because UNVR pays out ~100% of profit, keeping equity small."
+            },
+            "roa": {
+                "v": 29.1,
+                "source_url": "https://www.unilever.co.id/files/laporan-tahunan-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, Ikhtisar Keuangan - Rasio Keuangan 2021",
+                "basis": "consolidated",
+                "note": "As reported; definition (AR2023/AR2024 PDF p. 200): profit for the year / AVERAGE total equity (ROE) and / average total assets (ROA). Very high because UNVR pays out ~100% of profit, keeping equity small."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 41218.881,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 19064.937,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 8122.793,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, face of the P&L 'Laba sebelum bunga, pajak, penyusutan dan amortisasi (EBITDA)'; reconciliation Note 35 PDF p. 92",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its audited FS: profit adjusted to exclude income tax, net finance costs, depreciation (fixed assets + right-of-use assets) and amortisation (Note 35)."
+            },
+            "operating_profit": {
+                "v": 7068.808,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less marketing & selling and G&A expenses plus other income/(expense) net; before finance items."
+            },
+            "net_profit_attr": {
+                "v": 5364.761,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, LABA / PROFIT for the year",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: profit for the year = profit attributable to owners."
+            },
+            "eps": {
+                "v": 141,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, LABA PER SAHAM DASAR; Note 28 PDF p. 76 (weighted average 38,150 million shares)",
+                "basis": "consolidated",
+                "share_basis": "2023-02-09",
+                "note": "Basic = diluted (no dilutive securities)."
+            },
+            "payout_ratio": {
+                "v": 99.6,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-report-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-06-22",
+                "loc": "PDF p. 213, dividend table, Tahun Buku 2022: Dividend Payout Ratio 99.6% (Dividen yang Dibagikan 5,341,000 Rp juta; DPS 140); same in AR2024 PDF p. 211",
+                "basis": "consolidated",
+                "note": "Interim Rp69 + final Rp71. AGMS 22 Jun 2023 (AR2023 PDF p. 213)."
+            },
+            "total_assets": {
+                "v": 18318.114,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 4, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 14320.858,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 502.882,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 4, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash or time-deposit line)."
+            },
+            "total_debt": {
+                "v": 600,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5, current liabilities - Pinjaman bank / Bank borrowings",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: 'Pinjaman bank' 600,000 Rp juta (short-term unsecured working-capital loans, all current). UNVR has never issued bonds, MTN or sukuk (AR2024 PDF p. 19). Lease liabilities (35,621 + 648,405) excluded."
+            },
+            "equity_attr": {
+                "v": 3997.256,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3997.256,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 38150000000,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 68, Note 19 Modal saham - Modal saham yang beredar / Outstanding share capital",
+                "share_basis": "2023-02-09",
+                "note": "38,150,000,000 issued; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 4700,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-report-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Kinerja Saham per Triwulan 2022 - Harga Penutupan Q4 (also the 10-year chart PDF p. 17)",
+                "share_basis": "2024-05-03",
+                "note": "Closing price as printed in the AR share table; post-split basis (no split, bonus or rights issue after 2 Jan 2020)."
+            },
+            "cfo": {
+                "v": 8061.314,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Arus kas neto dari aktivitas operasi / Net cash flows from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 638.363,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Arus kas dari aktivitas investasi - Perolehan aset tetap",
+                "basis": "consolidated",
+                "note": "'Perolehan aset tetap' 638,363 Rp juta; no intangible-asset purchases in 2022."
+            },
+            "roe": {
+                "v": 129,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-report-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Ikhtisar Keuangan - Rasio Keuangan 2022",
+                "basis": "consolidated",
+                "note": "As reported; definition (AR2023/AR2024 PDF p. 200): profit for the year / AVERAGE total equity (ROE) and / average total assets (ROA). Very high because UNVR pays out ~100% of profit, keeping equity small."
+            },
+            "roa": {
+                "v": 28.7,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-report-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Ikhtisar Keuangan - Rasio Keuangan 2022",
+                "basis": "consolidated",
+                "note": "As reported; definition (AR2023/AR2024 PDF p. 200): profit for the year / AVERAGE total equity (ROE) and / average total assets (ROA). Very high because UNVR pays out ~100% of profit, keeping equity small."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 38611.401,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 19194.514,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 7232.83,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, face of the P&L 'Laba sebelum bunga, pajak, penyusutan dan amortisasi (EBITDA)'; reconciliation Note 36 PDF p. 92",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its audited FS: profit adjusted to exclude income tax, net finance costs, depreciation (fixed assets + right-of-use assets) and amortisation (Note 36)."
+            },
+            "operating_profit": {
+                "v": 6279.283,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less marketing & selling and G&A expenses plus other income/(expense) net; before finance items."
+            },
+            "net_profit_attr": {
+                "v": 4800.94,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, LABA / PROFIT for the year",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: profit for the year = profit attributable to owners."
+            },
+            "eps": {
+                "v": 126,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, LABA PER SAHAM DASAR; Note 28 PDF p. 75 (weighted average 38,150 million shares)",
+                "basis": "consolidated",
+                "share_basis": "2024-02-07",
+                "note": "Basic = diluted (no dilutive securities)."
+            },
+            "payout_ratio": {
+                "v": 111.2,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-reports-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-06-20",
+                "loc": "PDF p. 211, dividend table, 2023: Dividend Payout Ratio 111.2% (Laba 4,800,940; Dividen yang Dibagikan 5,341,000 Rp juta; DPS 140)",
+                "basis": "consolidated",
+                "note": "Above 100% because the FY2023 final dividend was paid from 2023 profit AND unappropriated retained earnings of previous years (AGMS 20 Jun 2024 press release 'Unilever Indonesia Announces 111% dividend payout ratio at AGMS', https://www.unilever.co.id/en/news/press-releases/2024/unilever-indonesia-announces-111-dividend-payout-ratio-at-agms/)."
+            },
+            "total_assets": {
+                "v": 16664.086,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 4, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 13282.848,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 5, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1020.598,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 4, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash or time-deposit line)."
+            },
+            "total_debt": {
+                "v": 0,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 5, current liabilities - Pinjaman bank / Bank borrowings",
+                "basis": "consolidated",
+                "note": "No bank borrowings at year end (the 'Pinjaman bank' line is nil/absent). UNVR has never issued bonds, MTN or sukuk (AR2024 PDF p. 19). Lease liabilities (209,526 + 541,257) excluded."
+            },
+            "equity_attr": {
+                "v": 3381.238,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 3381.238,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 38150000000,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 67, Note 19 Modal saham - Modal saham yang beredar / Outstanding share capital",
+                "share_basis": "2024-02-07",
+                "note": "38,150,000,000 issued; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 3530,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-reports-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Kinerja Saham per Triwulan 2023 - Harga Penutupan Q4 (same in AR2023 PDF p. 16)",
+                "share_basis": "2025-05-23",
+                "note": "Closing price as printed in the AR share table; post-split basis (no split, bonus or rights issue after 2 Jan 2020)."
+            },
+            "cfo": {
+                "v": 7118.088,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Arus kas neto dari aktivitas operasi / Net cash flows from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 835.028,
+                "source_url": "https://www.unilever.co.id/files/unilever-indonesia-annual-financial-statements-q4-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Arus kas dari aktivitas investasi - Perolehan aset tetap",
+                "basis": "consolidated",
+                "note": "'Perolehan aset tetap' 835,028 Rp juta."
+            },
+            "roe": {
+                "v": 130.1,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-report-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Ikhtisar Keuangan - Rasio Keuangan 2023 (ROA printed 27.4% in the MD&A ratio table PDF p. 200)",
+                "basis": "consolidated",
+                "note": "As reported; definition (AR2023/AR2024 PDF p. 200): profit for the year / AVERAGE total equity (ROE) and / average total assets (ROA). Very high because UNVR pays out ~100% of profit, keeping equity small."
+            },
+            "roa": {
+                "v": 27.5,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-report-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Ikhtisar Keuangan - Rasio Keuangan 2023 (ROA printed 27.4% in the MD&A ratio table PDF p. 200)",
+                "basis": "consolidated",
+                "note": "As reported; definition (AR2023/AR2024 PDF p. 200): profit for the year / AVERAGE total equity (ROE) and / average total assets (ROA). Very high because UNVR pays out ~100% of profit, keeping equity small."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 35138.643,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Rp juta / 1,000. As originally reported, incl. ice cream and tea (FS2025 re-presents FY2024 continuing sales as 30,622,614)."
+            },
+            "gross_profit": {
+                "v": 16719.681,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 5292.454,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, face of the P&L 'Laba sebelum bunga, pajak, penyusutan dan amortisasi (EBITDA)'; reconciliation Note 36 PDF p. 89",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its audited FS: profit adjusted to exclude income tax, net finance costs, depreciation (fixed assets + right-of-use assets) and amortisation (Note 36)."
+            },
+            "operating_profit": {
+                "v": 4414.88,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less marketing & selling and G&A expenses plus other income/(expense) net; before finance items."
+            },
+            "net_profit_attr": {
+                "v": 3368.693,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, LABA / PROFIT for the year",
+                "basis": "consolidated",
+                "note": "No subsidiaries and no non-controlling interest: profit for the year = profit attributable to owners."
+            },
+            "eps": {
+                "v": 88,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, LABA PER SAHAM DASAR; Note 28 PDF p. 72 (weighted average 38,150 million shares)",
+                "basis": "consolidated",
+                "share_basis": "2025-02-13",
+                "note": "Basic = diluted (no dilutive securities)."
+            },
+            "payout_ratio": {
+                "v": 99.7,
+                "source_url": "https://www.unilever.co.id/news/press-releases/2025/unvr-bagikan-dividen-penuh-bukti-keyakinan-dan-disiplin-atas-alokasi-modal/",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-03",
+                "loc": "AGMS press release 'UNVR Bagikan Dividen Penuh, Bukti Keyakinan dan Disiplin atas Alokasi Modal' (3 Jun 2025): 'Rasio Pembayaran Dividen sebesar 99.7%' - total Rp88/share = Rp3,357,200,000,000",
+                "basis": "consolidated",
+                "note": "AR2025 (which would print the table) is not retrievable (see research_notes). Interim Rp41 + final Rp47."
+            },
+            "total_assets": {
+                "v": 16046.195,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 4, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 13896.928,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 5, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 671.18,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 4, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash or time-deposit line)."
+            },
+            "total_debt": {
+                "v": 1450,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 5, current liabilities - Pinjaman bank / Bank borrowings",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: 'Pinjaman bank' 1,450,000 Rp juta (short-term unsecured working-capital loans, all current). UNVR has never issued bonds, MTN or sukuk (AR2024 PDF p. 19). Lease liabilities (37,790 + 492,842) excluded."
+            },
+            "equity_attr": {
+                "v": 2149.267,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity."
+            },
+            "total_equity": {
+                "v": 2149.267,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 38150000000,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 65, Note 19 Modal saham - Modal saham yang beredar / Outstanding share capital",
+                "share_basis": "2025-02-13",
+                "note": "38,150,000,000 issued; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 1885,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-reports-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Kinerja Saham per Triwulan 2024 - Harga Penutupan Q4",
+                "share_basis": "2025-05-23",
+                "note": "Closing price as printed in the AR share table; post-split basis (no split, bonus or rights issue after 2 Jan 2020)."
+            },
+            "cfo": {
+                "v": 3959.982,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Arus kas neto dari aktivitas operasi / Net cash flows from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 1072.728,
+                "source_url": "https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Arus kas dari aktivitas investasi - Perolehan aset tetap",
+                "basis": "consolidated",
+                "note": "'Perolehan aset tetap' 1,072,728 Rp juta (same in the FS2025 comparative)."
+            },
+            "roe": {
+                "v": 121.8,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-reports-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Rasio Keuangan 2024",
+                "basis": "consolidated",
+                "note": "As reported; definition (AR2023/AR2024 PDF p. 200): profit for the year / AVERAGE total equity (ROE) and / average total assets (ROA). Very high because UNVR pays out ~100% of profit, keeping equity small."
+            },
+            "roa": {
+                "v": 20.6,
+                "source_url": "https://www.unilever.co.id/files/indonesia-annual-reports-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Rasio Keuangan 2024",
+                "basis": "consolidated",
+                "note": "As reported; definition (AR2023/AR2024 PDF p. 200): profit for the year / AVERAGE total equity (ROE) and / average total assets (ROA). Very high because UNVR pays out ~100% of profit, keeping equity small."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 31943.461,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Laporan laba rugi - Penjualan bersih / Net sales (continuing operations only: ice cream and SariWangi tea are discontinued operations in FS2025)",
+                "basis": "consolidated",
+                "note": "Rp juta / 1,000. CONTINUING operations only (excludes the ice cream business, sold 8 Dec 2025, and the SariWangi tea business, sold 2 Mar 2026; their revenue 4,430,704 Rp juta is inside 'discontinued operation', Note 39 PDF p. 92). Total operations FY2025 sales 36.4 tn per the FY2025 deck PDF p. 8. FS2025 re-presents FY2024 continuing sales as 30,622,614."
+            },
+            "gross_profit": {
+                "v": 14997.094,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, LABA BRUTO / GROSS PROFIT (continuing operations only: ice cream and SariWangi tea are discontinued operations in FS2025)",
+                "basis": "consolidated",
+                "note": "Continuing operations; FS2025 re-presents FY2024 as 14,559,672."
+            },
+            "ebitda": {
+                "v": 5260.715,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, face of the P&L 'Laba sebelum bunga, pajak, penyusutan dan amortisasi (EBITDA)'; reconciliation Note 35 PDF p. 90 (continuing operations only: ice cream and SariWangi tea are discontinued operations in FS2025)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its audited FS: profit adjusted to exclude income tax, net finance costs, depreciation (fixed assets + right-of-use assets) and amortisation (Note 35). Continuing operations only; FY2024 re-presented 4,439,040."
+            },
+            "operating_profit": {
+                "v": 4592.021,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, LABA USAHA / OPERATING PROFIT (continuing operations only: ice cream and SariWangi tea are discontinued operations in FS2025)",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less marketing & selling and G&A expenses plus other income/(expense) net; before finance items. Continuing operations; FY2024 re-presented 3,807,317."
+            },
+            "net_profit_attr": {
+                "v": 7641.161,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, LABA / PROFIT (continuing 3,537,297 + discontinued 4,103,864)",
+                "basis": "consolidated",
+                "note": "Total profit incl. discontinued operations: ice cream + tea profit 309,460 and the after-tax gain on the ice cream sale 3,794,404 Rp juta (Note 39 PDF p. 92). No non-controlling interest. Continuing-operations profit 3,537.297 bn."
+            },
+            "eps": {
+                "v": 201,
+                "source_url": "https://www.unilever.co.id/files/indonesia-earnings-call-fy-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 8, 'Total Operations FY 2025 (Continuing + Discontinued Operations)': 'Net Profit ... 7.6 T ... 127% vs LY, EPS 201/share'",
+                "basis": "consolidated",
+                "share_basis": "2026-02-12",
+                "note": "Total basic EPS. The audited FS2025 face (PDF p. 7) prints it in two lines: continuing operations Rp93 + discontinued operations Rp108 (weighted average 38,087 million shares, Note 28 PDF p. 73)."
+            },
+            "payout_ratio": {
+                "v": 100,
+                "source_url": "https://www.unilever.co.id/news/press-releases/2026/unvr-bagikan-dividen-penuh-tunjukkan-disiplin-dan-ketangguhan-bisnis/",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-04",
+                "loc": "AGMS press release 'UNVR Bagikan Dividen Penuh, Tunjukkan Disiplin dan Ketangguhan Bisnis' (4 Jun 2026): total Rp201/share for FY2025 'yang mencerminkan rasio pembayaran sebesar 100% dari laba bersih' - total Rp7,634,227,893,300",
+                "basis": "consolidated",
+                "note": "As reported (rounded): 7,634.2 / 7,641.2 bn = 99.9%. FY2025 profit includes the after-tax gain on the ice cream sale (3,794.4 bn); the FY2025 earnings-call deck (PDF p. 32) states 'Dividend: 100% payout' covering 2025 regular operations + ice cream divestment."
+            },
+            "total_assets": {
+                "v": 20017.339,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 4, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 15542.221,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 5, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 5705.674,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 4, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented; 2025 includes the Rp7.0 tn ice cream sale proceeds received in Dec 2025 (cash-flow statement PDF p. 9)."
+            },
+            "total_debt": {
+                "v": 0,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 5, current liabilities - Pinjaman bank / Bank borrowings",
+                "basis": "consolidated",
+                "note": "No bank borrowings at year end (the 'Pinjaman bank' line is nil/absent). UNVR has never issued bonds, MTN or sukuk (AR2024 PDF p. 19). Lease liabilities (290,762 + 354,079) excluded."
+            },
+            "equity_attr": {
+                "v": 4475.118,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "No non-controlling interest: equity attributable to owners = total equity. Net of treasury shares (285,045 Rp juta)."
+            },
+            "total_equity": {
+                "v": 4475.118,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 37981233300,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 65, Note 19 Modal saham - shareholder table (UIH 32,424,387,500; public 5,556,845,800; treasury 168,766,700)",
+                "share_basis": "2026-02-12",
+                "note": "38,150,000,000 issued less 168,766,700 treasury shares bought back 31 Jul - 30 Oct 2025 (Rp285,045 juta, Note 19 PDF p. 66). The same 37,981,233,300 is printed as the shares with valid voting rights in the EGMS summary of 13 Feb 2026 (https://www.unilever.co.id/files/ringkasan-risalah-rupslb-februari-2026.pdf, p. 2) and is the count entitled to the FY2025 interim and final dividends."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not stored: the FY2025 close is printed in AR2025 (https://www.unilever.co.id/files/annual-reports-2025.pdf, linked from the IR annual-report page), which is not retrievable here - unilever.co.id answers 403 (Akamai) to this server and to WebFetch, and the Internet Archive has no copy (CDX checked 2026-11-04). No other company document with the 2025 close was found (FS2025, FY2025 earnings deck, AGMS-2026 materials checked)."
+            },
+            "cfo": {
+                "v": 5797.496,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Arus kas neto dari aktivitas operasi / Net cash flows from operating activities",
+                "basis": "consolidated",
+                "note": "Total operations (the cash-flow statement is not split; discontinued operations contributed 602,199 Rp juta, Note 39)."
+            },
+            "capex": {
+                "v": 862.296,
+                "source_url": "https://www.unilever.co.id/files/indonesia-financial-statements-q4-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Arus kas dari aktivitas investasi - Perolehan aset tetap",
+                "basis": "consolidated",
+                "note": "'Perolehan aset tetap' 862,296 Rp juta; the cash-flow statement covers total operations (continuing + ice cream/tea). The FY2025 deck p. 32 quotes 'Capital Expenditure 1.0 trillion' for continuing operations (accrual basis), not used."
+            },
+            "roe": {
+                "v": null,
+                "note": "AR2025 (the source of the reported ratio table) is not retrievable (see year_end_price note); not computed."
+            },
+            "roa": {
+                "v": null,
+                "note": "AR2025 (the source of the reported ratio table) is not retrievable (see year_end_price note); not computed."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "interim",
+            "dps": 87,
+            "total": 3319.05,
+            "cum_date": "2020-11-30",
+            "ex_date": "2020-12-01",
+            "record_date": "2020-12-02",
+            "pay_date": "2020-12-17",
+            "share_basis": "2020-11-23",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20201202_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2020-11-23",
+            "loc": "p. 1, KSEI notice KSEI-23009/JKU/1120 (23 Nov 2020) 'Jadwal Pelaksanaan Pembagian Deviden Interim' - items 1 (cum regular & negotiated), 2 (ex regular & negotiated), 5 (recording date), 6 (payment date) and the DPS line",
+            "note": "Rp87/share (post-split). Board announcement 20 Nov 2020 (AR2021 PDF p. 145). Total 3,319,050 Rp juta per FS2020 Note 22 (PDF p. 68). Same dates on the company's dividend calendar (unilever.co.id/investor/informasi-pemegang-saham/kalender-dividen/, Internet Archive 20260517173441)."
+        },
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 100,
+            "total": 3815,
+            "cum_date": "2021-06-07",
+            "ex_date": "2021-06-08",
+            "record_date": "2021-06-09",
+            "pay_date": "2021-06-24",
+            "share_basis": "2021-05-28",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20210609_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-05-28",
+            "loc": "p. 1, KSEI notice KSEI-9519/JKU/0521 (28 May 2021) 'Jadwal Pelaksanaan Pembagian Deviden Tunai' - items 1 (cum regular & negotiated), 2 (ex regular & negotiated), 5 (recording date), 6 (payment date) and the DPS line",
+            "note": "Final FY2020 Rp100/share approved by the AGMS of 27 May 2021 (AR2021 PDF p. 145). Total 3,815,000 Rp juta per FS2021 Note 22 (PDF p. 65-66) and AR2021 PDF p. 145. FY2020 total Rp187/share = 7,134,050 Rp juta (99.6%)."
+        },
+        {
+            "fy": 2021,
+            "type": "interim",
+            "dps": 66,
+            "total": 2517.9,
+            "cum_date": "2021-11-29",
+            "ex_date": "2021-11-30",
+            "record_date": "2021-12-01",
+            "pay_date": "2021-12-16",
+            "share_basis": "2021-11-22",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20211201_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-11-22",
+            "loc": "p. 1, KSEI notice KSEI-21459/JKU/1121 (22 Nov 2021) 'Jadwal Pelaksanaan Pembagian Deviden Interim' - items 1 (cum regular & negotiated), 2 (ex regular & negotiated), 5 (recording date), 6 (payment date) and the DPS line",
+            "note": "Board announcement 19 Nov 2021 (AR2021 PDF p. 145). Total 2,517,900 Rp juta per FS2021 Note 22 (PDF p. 65-66)."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 84,
+            "total": 3204.6,
+            "cum_date": "2022-06-23",
+            "ex_date": "2022-06-24",
+            "record_date": "2022-06-27",
+            "pay_date": "2022-07-13",
+            "share_basis": "2022-06-21",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20220627_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-06-21",
+            "loc": "p. 1, KSEI notice KSEI-12345/JKU/0622 (21 Jun 2022) 'Jadwal Pelaksanaan Pembagian Deviden Tunai' - items 1 (cum regular & negotiated), 2 (ex regular & negotiated), 5 (recording date), 6 (payment date) and the DPS line",
+            "note": "AGMS 15 Jun 2022 (AR2023 PDF p. 213). Total 3,204,600 Rp juta per FS2022 Note 22 (PDF p. 70) and AR2023 PDF p. 213."
+        },
+        {
+            "fy": 2022,
+            "type": "interim",
+            "dps": 69,
+            "total": 2632.35,
+            "cum_date": "2022-11-29",
+            "ex_date": "2022-11-30",
+            "record_date": "2022-12-01",
+            "pay_date": "2022-12-15",
+            "share_basis": "2022-11-21",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20221201_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-11-21",
+            "loc": "p. 1, KSEI notice KSEI-22110/JKU/1122 (21 Nov 2022) 'Jadwal Pelaksanaan Pembagian Deviden Interim' - items 1 (cum regular & negotiated), 2 (ex regular & negotiated), 5 (recording date), 6 (payment date) and the DPS line",
+            "note": "Board announcement 18 Nov 2022 (AR2023 PDF p. 213). Total 2,632,350 Rp juta per FS2022 Note 22 (PDF p. 70)."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 71,
+            "total": 2708.65,
+            "cum_date": "2023-07-05",
+            "ex_date": "2023-07-06",
+            "record_date": "2023-07-07",
+            "pay_date": "2023-07-20",
+            "share_basis": "2023-06-27",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/156629_ksei_13867_jku_0623_202307032004.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-06-27",
+            "loc": "p. 1, KSEI notice KSEI-13867/JKU/0623 (27 Jun 2023) 'Change of Cash Dividend Payment Schedule' - New Schedule: cum regular & negotiated 5 Jul 2023, ex 6 Jul 2023, recording 7 Jul 2023; DPS Rp71 and payment 20 Jul 2023 from the original notice KSEI-13671/JKU/0623 (26 Jun 2023, https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20230705_ID.pdf)",
+            "note": "AGMS 22 Jun 2023 (AR2023 PDF p. 213). The original KSEI schedule (cum 3 Jul / ex 4 Jul / recording 5 Jul) was revised the next day; the revised dates match AR2023 PDF p. 213 (recording 7 Jul 2023) and the company's dividend calendar. Total 2,708,650 Rp juta per FS2023 Note 22 (PDF p. 69)."
+        },
+        {
+            "fy": 2023,
+            "type": "interim",
+            "dps": 63,
+            "total": 2403.45,
+            "cum_date": "2023-12-04",
+            "ex_date": "2023-12-05",
+            "record_date": "2023-12-06",
+            "pay_date": "2023-12-19",
+            "share_basis": "2023-11-28",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/161391_ksei_24880_jku_1123_202311281722.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-11-28",
+            "loc": "p. 1, KSEI notice KSEI-24880/JKU/1123 (28 Nov 2023) 'Perubahan Jadwal Pembayaran Dividen Interim' - 'Diubah menjadi' column: cum regular & negotiated 4 Dec 2023, ex 5 Dec 2023, recording 6 Dec 2023, payment 19 Dec 2023 (unchanged); DPS Rp63 from the original notice KSEI-24435/JKU/1123 (22 Nov 2023, https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20231208_ID.pdf)",
+            "note": "Board announcement 24 Nov 2023 (AR2023 PDF p. 213). CONFLICT: AR2023 p. 213, AR2024 p. 212, the AGMS-2024 press release and the company's dividend calendar still show the ORIGINAL schedule (cum 6 Dec / ex 7 Dec / recording 8 Dec 2023); the KSEI revision (issued 'based on information from PT Unilever Indonesia Tbk') is stored, and Bisnis.com (3 Dec 2023, 'Siap-siap Cum Dividen Jumbo Unilever (UNVR)') reported the revised cum date of 4 Dec 2023. Reviewer: check against the 4-7 Dec 2023 price bars. Total 2,403,450 Rp juta per FS2023 Note 22 (PDF p. 69)."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 77,
+            "total": 2937.55,
+            "cum_date": "2024-06-28",
+            "ex_date": "2024-07-01",
+            "record_date": "2024-07-02",
+            "pay_date": "2024-07-18",
+            "share_basis": "2024-06-24",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20240702_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-06-24",
+            "loc": "p. 1, KSEI notice KSEI-14909/JKU/0624 (24 Jun 2024) 'Jadwal Pelaksanaan Pembagian Deviden Tunai' - items 1 (cum regular & negotiated), 2 (ex regular & negotiated), 5 (recording date), 6 (payment date) and the DPS line",
+            "note": "AGMS 20 Jun 2024 (press release https://www.unilever.co.id/en/news/press-releases/2024/unilever-indonesia-announces-111-dividend-payout-ratio-at-agms/): final Rp77 paid from 2023 profit and retained earnings; FY2023 total Rp140/share = 5,341,000 Rp juta (111.2% payout). Total 2,937,550 Rp juta per FS2024 Note 22 (PDF p. 67)."
+        },
+        {
+            "fy": 2024,
+            "type": "interim",
+            "dps": 41,
+            "total": 1564.15,
+            "cum_date": "2024-12-04",
+            "ex_date": "2024-12-05",
+            "record_date": "2024-12-06",
+            "pay_date": "2024-12-19",
+            "share_basis": "2024-11-28",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20241206_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-11-28",
+            "loc": "p. 1, KSEI notice KSEI-27497/JKU/1124 (28 Nov 2024) 'Jadwal Pelaksanaan Pembagian Deviden Interim' - items 1 (cum regular & negotiated), 2 (ex regular & negotiated), 5 (recording date), 6 (payment date) and the DPS line",
+            "note": "Board announcement 26 Nov 2024 (AR2024 PDF p. 212). Total 1,564,150 Rp juta per FS2024 Note 22 (PDF p. 67) and the AGMS-2025 press release."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 47,
+            "total": 1793.05,
+            "cum_date": "2025-06-13",
+            "ex_date": "2025-06-16",
+            "record_date": "2025-06-17",
+            "pay_date": "2025-07-02",
+            "share_basis": "2025-06-05",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20250617_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-05",
+            "loc": "p. 1, KSEI notice KSEI-13822/JKU/0625 (5 Jun 2025) 'Jadwal Pelaksanaan Pembagian Deviden Tunai' - items 1 (cum regular & negotiated), 2 (ex regular & negotiated), 5 (recording date), 6 (payment date) and the DPS line",
+            "note": "AGMS 3 Jun 2025 (press release https://www.unilever.co.id/news/press-releases/2025/unvr-bagikan-dividen-penuh-bukti-keyakinan-dan-disiplin-atas-alokasi-modal/): final Rp47 = Rp1,793,050,000,000, payable by 2 Jul 2025; FY2024 total Rp88 = Rp3,357.2 bn (99.7%). FS2025 Note 22 (PDF p. 68) shows 1,793,050 Rp juta paid 2 Jul 2025 (its 'declaration date' column says 17 Jun 2025, which is the recording date)."
+        },
+        {
+            "fy": 2025,
+            "type": "interim",
+            "dps": 87,
+            "total": 3304.3672971,
+            "cum_date": "2025-12-12",
+            "ex_date": "2025-12-15",
+            "record_date": "2025-12-16",
+            "pay_date": "2025-12-30",
+            "share_basis": "2025-12-05",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20251216_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-12-05",
+            "loc": "p. 1, KSEI notice KSEI-29171/JKU/1225 (5 Dec 2025) 'Jadwal Pelaksanaan Pembagian Deviden Interim' - items 1 (cum regular & negotiated), 2 (ex regular & negotiated), 5 (recording date), 6 (payment date) and the DPS line",
+            "note": "Board declaration 4 Dec 2025 (FS2025 Note 22, PDF p. 68: 3,304,367 Rp juta). Exact total Rp3,304,367,297,100 = Rp87 x 37,981,233,300 shares (net of 168,766,700 treasury shares), per the AGMS-2026 agenda explanation (penjelasan-agenda-rupst-2026.pdf p. 2-3) and the AGMS-2026 press release."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 114,
+            "total": 4329.8605962,
+            "cum_date": "2026-06-12",
+            "ex_date": "2026-06-15",
+            "record_date": "2026-06-17",
+            "pay_date": "2026-06-30",
+            "share_basis": "2026-06-08",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_DIV_20260617_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-06-08",
+            "loc": "p. 1, KSEI notice KSEI-14068/JKU/0626 (8 Jun 2026) 'Jadwal Pelaksanaan Pembagian Deviden Tunai' - items 1 (cum regular & negotiated), 2 (ex regular & negotiated), 5 (recording date), 6 (payment date) and the DPS line",
+            "note": "AGMS 4 Jun 2026 (press release https://www.unilever.co.id/news/press-releases/2026/unvr-bagikan-dividen-penuh-tunjukkan-disiplin-dan-ketangguhan-bisnis/): final Rp114 = Rp4,329,860,596,200; FY2025 total Rp201/share = Rp7,634,227,893,300 ('100% dari laba bersih'). Dates as printed by KSEI (cash-market cum date and recording date both 17 Jun 2026). H1-2026 FS Note 21 (PDF p. 68) shows 4,329,861 Rp juta paid 30 Jun 2026."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 16899.581,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 7, interim P&L - Penjualan bersih (6M 2026), continuing operations",
+                "basis": "consolidated",
+                "note": "Unaudited interim FS (authorised 28 Jul 2026), Rp juta / 1,000. Continuing operations (SariWangi tea, sold 2 Mar 2026, is a discontinued operation)."
+            },
+            "revenue_ytd_prior": {
+                "v": 15786.456,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 7, comparative column 6M 2025 (re-presented, continuing operations)",
+                "basis": "consolidated",
+                "note": "Re-presented to exclude ice cream and SariWangi tea; the H1-2025 results release (https://www.unilever.co.id/news/press-releases/2025/kinerja-unvr-semester-i-2025-penjualan-bersih-rp182-triliun-fundamental-menguat-kembali-tumbuh-di-kuartal-iii/) quoted Rp18.2 tn incl. ice cream."
+            },
+            "ebitda_ytd": {
+                "v": 2901.965,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 7, 'EBITDA operasi yang dilanjutkan' (6M 2026); Note 34 PDF p. 91",
+                "basis": "consolidated",
+                "note": "EBITDA as reported (continuing operations): profit excluding income tax, net finance costs, depreciation and amortisation."
+            },
+            "ebitda_ytd_prior": {
+                "v": 2852.109,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 7, comparative column 6M 2025 (re-presented, continuing operations)",
+                "basis": "consolidated"
+            },
+            "profit_ytd": {
+                "v": 2969.724,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 7, LABA (continuing 2,081,869 + discontinued 887,855)",
+                "basis": "consolidated",
+                "note": "Total profit incl. the after-tax gain on the SariWangi sale (870,270 Rp juta). No non-controlling interest."
+            },
+            "profit_ytd_prior": {
+                "v": 2155.575,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 7, comparative column 6M 2025 - LABA (continuing 1,888,650 + discontinued 266,925)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 3022.835,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 6, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "No non-controlling interest. Down from 4,475.1 bn at 31 Dec 2025 after the Rp4.33 tn FY2025 final dividend paid 30 Jun 2026."
+            },
+            "shares_out": {
+                "v": 37981233300,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 66, Note 18 Modal saham - shareholder table (treasury shares 168,766,700)",
+                "share_basis": "2026-07-28",
+                "note": "38,150,000,000 issued less 168,766,700 treasury shares (unchanged since 31 Dec 2025)."
+            },
+            "total_assets": {
+                "v": 16454.946,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 4, JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1736.727,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 4, Kas dan setara kas",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 0,
+                "source_url": "https://www.unilever.co.id/files/financial-statements-quarter-2-2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 5, current liabilities - no 'Pinjaman bank' line",
+                "basis": "consolidated",
+                "note": "No bank borrowings at 30 Jun 2026 (none since 31 Dec 2025; H1 cash flow shows no drawdown). Lease liabilities (179,028 + 368,175 Rp juta) excluded."
+            }
+        }
+    },
+    "validation_ack": [],
+    "research_notes": [
+        "Entity: PT Unilever Indonesia Tbk (unchanged legal name), 85.0% owned by Unilever Indonesia Holding B.V.; ultimate parent Unilever PLC (FS2025 Note 1/19). The audited FS are the company's OWN financial statements ('Laporan Keuangan', not 'Konsolidasian'): UNVR has no subsidiaries and no non-controlling interests in FY2019-H1 2026. The figures therefore cover the whole reporting entity and are stored with basis 'consolidated' (nothing to consolidate, no parent-only/consolidated mix); equity_attr = total_equity and net_profit_attr = profit for the year. Reviewer: confirm this use of 'consolidated'.",
+        "Currency/units: IDR reporter; money in IDR billion (Rp juta / 1,000). Each FY is taken from that year's own audited FS (FS2019 ... FS2025, KPMG Siddharta Widjaja & Rekan); balance-sheet comparatives in later FS agree with the originals (checked FS2020 vs FS2019, FS2021-FS2025 comparatives).",
+        "Discontinued operations: the ice cream business was sold to PT The Magnum Ice Cream Indonesia for Rp7.0 tn ex-VAT (EGMS + independent GMS 14 Jan 2025; transferred 8 Dec 2025) and the SariWangi tea business to PT Savoria Kreasi Rasa for Rp1.5 tn (announced 7 Jan 2026, completed 2 Mar 2026). FS2025 presents both as discontinued operations, so FY2025 revenue, gross profit, operating profit and EBITDA are CONTINUING operations only, while FY2020-FY2024 are as originally reported (incl. ice cream and tea). The 2024->2025 revenue drop (35,138.6 -> 31,943.5 bn) is mostly this presentation change: FS2025 re-presents FY2024 continuing sales as 30,622.6 bn (+4.3% in 2025) and total-operations FY2025 sales were 36.4 tn (deck PDF p. 8, +3.5%). FY2025 net profit (7,641.2 bn) includes the after-tax ice cream gain of 3,794.4 bn; continuing-operations profit was 3,537.3 bn (EPS 93). H1 2026 profit includes the SariWangi gain of 870.3 bn.",
+        "EBITDA is printed on the face of every audited P&L with a reconciliation note (Note 35/36/35): profit + income tax + net finance costs + depreciation of fixed assets and right-of-use assets + amortisation. FY2025 and the H1 figures are continuing operations only.",
+        "Debt: UNVR's only interest-bearing borrowings are short-term unsecured bank loans for working capital (Note 13; e.g. FY2024 HSBC 900 bn + MUFG 550 bn); it has never issued bonds, MTN or sukuk (AR2024 PDF p. 19). Lease liabilities (PSAK 73, adopted with a restated 2018 in FS2019) are excluded and listed in each total_debt note. Year-end bank borrowings were nil at 31 Dec 2023, 31 Dec 2025 and 30 Jun 2026.",
+        "Payout: UNVR distributes ~100% of profit every year (interim in Nov/Dec + final after the June AGMS). FY2023 payout was 111.2% (final paid partly from retained earnings). FY2025 total Rp201/share = 100% of a profit that includes the ice cream gain. Low equity and >100% payouts make reported ROE very high (121.8%-140.2% in 2020-2024, on AVERAGE equity) - real, not a unit slip.",
+        "Share buyback: 31 Jul - 30 Oct 2025, up to Rp2 tn (FS2025 Note 19, PDF p. 66); 168,766,700 shares repurchased for Rp285.045 bn and held as treasury shares (FS2025 Note 19). shares_out FY2025 and H1 2026 are net of them (37,981,233,300); FY2025 weighted average 38,087 million.",
+        "Stock split 1:5 effective 2 Jan 2020 (corporate_actions). All per-share values stored (FY2020 onward, dividends, AR prices) are on the post-split basis and their share_basis dates are after the split. The AR 10-year price charts show the 2019 close split-adjusted as Rp8,400 (AR2021 PDF p. 15); not stored (no rights/bonus issue before 2020-12-31).",
+        "Dividend schedules come from the KSEI notices (web.ksei.co.id, fetched directly) that relay the company's notifications; totals from the FS dividend notes and the AGMS press releases. Two schedules were revised by KSEI: FY2022 final (KSEI-13867/JKU/0623 moved recording 5 -> 7 Jul 2023; stored) and FY2023 interim (KSEI-24880/JKU/1123 moved recording 8 -> 6 Dec 2023; stored, although the company's AR2023/AR2024, its dividend calendar page and the AGMS-2024 release still show 8 Dec 2023 - flagged in that record). The FS dividend notes' 'declaration date' column is not reliable (e.g. FY2025 final '21 May 2026' vs AGMS 4 Jun 2026; FY2024 final '17 Jun 2025' = recording date); AGMS dates are taken from the AGMS press releases / AR tables.",
+        "Not retrievable (unilever.co.id answers HTTP 403 from Akamai to this server and to WebFetch; idx.co.id is blocked; no bypass attempted): AR2025 (annual-reports-2025.pdf, not in the Internet Archive) -> fy.2025.year_end_price, roe and roa are null; AR2022 (not needed: FY2022 values from FS2022 and AR2023); the 9M-2026 interim FS (30 Sep 2026; published about 22 Oct 2026 per Kontan/Fortune IDN news: 9M26 net sales Rp25.75 tn, net profit about Rp4.2 tn, total assets Rp18.2 tn) - no Internet Archive copy, the archived IR financial-statements page (14 Jun 2026) predates it -> the interim block is H1 2026 (latest retrievable).",
+        "FS2019 source copy: the Internet Archive snapshot of the FS2019 PDF is truncated at 5 MiB (no trailer) but pdftotext recovers all 94 pages; the FY2019 values agree with the 2019 comparatives in FS2020 (PDF p. 4-7).",
+        "ROE/ROA as reported in the AR highlights (definition AR2023/AR2024 PDF p. 200: profit / average total equity; profit / average total assets). AR2023 prints 2023 ROA as 27.5% in the highlights (stored) and 27.4% in the MD&A table."
+    ]
+}

@@ -1,0 +1,1323 @@
+{
+    "schema": 1,
+    "code": "JPFA",
+    "name": "PT Japfa Comfeed Indonesia Tbk",
+    "name_short": "Japfa Comfeed",
+    "sector": "consumer",
+    "subsector": "poultry",
+    "exchange": "IDX",
+    "currency": "IDR",
+    "website": "https://www.japfacomfeed.co.id",
+    "ir_url": "https://www.japfacomfeed.co.id/laporan-keuangan",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 38872.084,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, PENJUALAN NETO, 2019 column 'Disajikan kembali - Catatan 4 / As restated - Note 4'",
+                "basis": "consolidated",
+                "note": "Restated in FS2020 for the common-control acquisition of PT So Good Food (pooling). As originally reported in FS2019 (PDF p. 9): 36,742,561 Rp juta."
+            },
+            "net_profit_attr": {
+                "v": 1765.178,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 10, profit before effect of merging entity's income adjustment attributable to owners of the parent, 2019 restated column",
+                "basis": "consolidated",
+                "note": "Same as originally reported in FS2019 (PDF p. 10: 1,765,178; EPS 151): the merging entity's loss is shown as a separate adjustment."
+            },
+            "total_assets": {
+                "v": 26650.895,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, TOTAL ASET, 31 Dec 2019 as restated",
+                "basis": "consolidated",
+                "note": "As originally reported in FS2019 (PDF p. 6): 25,185,009."
+            },
+            "cash": {
+                "v": 1004.28,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Kas dan setara kas, 31 Dec 2019 as restated",
+                "basis": "consolidated",
+                "note": "As originally reported in FS2019: 937,947."
+            },
+            "total_debt": {
+                "v": 9197.259,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, borrowing lines, 31 Dec 2019 as restated",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (Rp juta): short-term bank loans 3,277,953; current LT bank loans 241,668; current loans to finance acquisition of fixed assets 3,365; LT bank loans 1,107,169; LT loans to finance acquisition of fixed assets 3,285; bonds payable 4,563,819 = 9,197,259. No lease liabilities at 31 Dec 2019 (PSAK 73 from 2020). Matches the company's 'Total Interest Bearing Debt' 9,197 for 31 Dec 2019 (FY2020 deck PDF p. 20). As originally reported (FS2019 PDF p. 7): 8,625,472."
+            },
+            "equity_attr": {
+                "v": 11220.87,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Subtotal equity attributable to owners of the parent, 31 Dec 2019 as restated",
+                "basis": "consolidated",
+                "note": "Includes 'Ekuitas dari entitas yang bergabung' (merging entity's equity) 448,320. As originally reported in FS2019 (PDF p. 8): 10,772,224."
+            },
+            "total_equity": {
+                "v": 11896.814,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, TOTAL EKUITAS, 31 Dec 2019 as restated",
+                "basis": "consolidated",
+                "note": "As originally reported in FS2019: 11,448,168."
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 36964.948,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Laporan laba rugi - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales, Rp juta / 1,000. FY2020 includes PT So Good Food for the whole year (common-control pooling, see research_notes)."
+            },
+            "gross_profit": {
+                "v": 7429.209,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 3887,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/investor_presentation/FY2020%20Tbk%20Investor%20Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18, 'PT Japfa Tbk - Financial Performance': EBITDA FY2020 3,887 (Rp billion; FY2019 restated 4,139)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its results deck, printed in IDR billion; the deck does not print a definition. The deck's 'Operating Profit' (gross profit less selling and G&A expenses) differs from the FS 'Laba usaha' stored in operating_profit."
+            },
+            "operating_profit": {
+                "v": 2484.207,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, LABA USAHA / PROFIT FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented in the FS: gross profit less selling & marketing and G&A expenses, plus/minus biological-asset fair-value changes and other income/expenses; before finance items and share of JV results."
+            },
+            "net_profit_attr": {
+                "v": 916.711,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Laba tahun berjalan yang dapat diatribusikan kepada Pemilik entitas induk",
+                "basis": "consolidated",
+                "note": "'Laba tahun berjalan sebelum efek penyesuaian laba entitas yang bergabung yang dapat diatribusikan kepada pemilik entitas induk': the FS2020 P&L (pooling for the So Good Food acquisition) first shows profit incl. SGF's pre-acquisition result (1,221,904 total) and then deducts the merging entity's income (219,528) to reach 1,002,376, of which 916,711 is attributable to owners. FS2021-FS2022 comparatives print 916,711."
+            },
+            "eps": {
+                "v": 79,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (dalam Rupiah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2021-02-26",
+                "note": "Basic EPS as printed (weighted-average shares net of treasury shares; AR2025 PDF p. 9 shows 11,628 million weighted shares for 2023-2025)."
+            },
+            "payout_ratio": {
+                "v": 50.63,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/Annual%20Report%202021%20PT%20Japfa%20Comfeed%20Indonesia%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-04-15",
+                "loc": "PDF p. 110, MD&A dividend chronology table - Rasio pembayaran dividen / Dividend Payout ratio, FY2020 50,63%",
+                "basis": "consolidated",
+                "note": "As printed (DPS/EPS = 40/79). Final dividend Rp466,308m / profit 916,711m = 50.87%. Single final dividend, no interim. AR2022 PDF p. 112 prints 50.6%."
+            },
+            "total_assets": {
+                "v": 25951.76,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 14539.79,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1335.911,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash line on the face of the balance sheet)."
+            },
+            "total_debt": {
+                "v": 7856.098,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Liabilitas jangka pendek / jangka panjang - borrowing lines",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (Rp juta): short-term bank loans 423,271; current maturities of long-term bank loans 494,631; current loans to finance acquisition of fixed assets 3,258; current bonds payable 149,421; long-term bank loans 2,292,412; long-term loans to finance acquisition of fixed assets 1,388; long-term bonds payable 4,491,717 = 7,856,098. Lease liabilities (29,777 + 33,883) excluded. The small 'loans to finance acquisition of fixed assets' (non-bank vehicle/equipment financing) are included as interest-bearing borrowings. Bonds: Rupiah Obligasi Berkelanjutan II Japfa (nominal 1,150,000, of which 150,000 current) + US Dollar notes nominal US$250m (the 5.5% Senior Notes due 2022, repaid from the 2021 issue); FS2021 Note 22 comparative total 4,641,138 (PDF p. 124). Cross-check: the company's 'Total Interest Bearing Debt' 7,920 bn (deck PDF p. 20) = this sum + lease liabilities. Excluded: the Rp849,892 promissory note issued to Jupiter Foods Pte Ltd for the So Good Food purchase, presented under 'Utang lain-lain - pihak berelasi' (interest JIBOR+2.25% only from 16 Apr 2021; settled in 2021); the company's own interest-bearing-debt figure (7,920) also excludes it."
+            },
+            "equity_attr": {
+                "v": 10677.91,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - Subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 11411.97,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, TOTAL EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11657690601,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Modal saham (issued 8,814,985,201 Series A + 2,911,590,000 Series B) and Saham treasuri line",
+                "share_basis": "2021-02-26",
+                "note": "Issued and fully paid 11,726,575,201 shares less 68,884,600 treasury shares = 11,657,690,601. Series A (par Rp200) and B (par Rp40) shares carry equal rights (AR2025 PDF p. 12)."
+            },
+            "year_end_price": {
+                "v": 1465,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/Annual%20Report%202020%20PT%20Japfa%20Comfeed%20Indonesia%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Ikhtisar Saham / Share Highlights - Triwulan IV 2020 Penutupan (Closing)",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price as printed in AR2020; AR2021 PDF p. 11 prints the same 2020 close. No split or bonus issue since the 19 Apr 2013 1:5 split, so no restatement."
+            },
+            "cfo": {
+                "v": 4099.44,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13, Kas neto yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated",
+                "note": "Direct-method cash flow statement."
+            },
+            "capex": {
+                "v": 1614.869,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202020%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Additions of fixed assets (Penambahan aset tetap) 1,607,397 + additions of biological assets (Penambahan aset biologis, investing line) 7,472 = 1,614,869 Rp juta. Not included: additions of land for development 129,460 and of right-of-use assets 73,348. Current biological assets (breeding flocks) have no investing line."
+            },
+            "roe": {
+                "v": 10.7,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/Annual%20Report%202020%20PT%20Japfa%20Comfeed%20Indonesia%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Ekuitas (%)",
+                "basis": "consolidated",
+                "note": "As reported; the company divides profit for the year INCLUDING non-controlling interests by year-end TOTAL equity (2025: 4,281,329 / 20,018,957 = 21.4%; 2020: 1,221,904 / 11,411,970 = 10.7%)."
+            },
+            "roa": {
+                "v": 4.7,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/Annual%20Report%202020%20PT%20Japfa%20Comfeed%20Indonesia%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Aset (%)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year incl. NCI / year-end total assets (2025: 4,281,329 / 40,060,430 = 10.7%)."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 44878.3,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Laporan laba rugi - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales, Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 8020.091,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 4544,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/investor_presentation/4Q2021%20Tbk%20Investor%20Presentation--.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 18, 'PT Japfa Tbk - Financial Performance': EBITDA FY2021 4,544 (Rp billion)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its results deck, printed in IDR billion; the deck does not print a definition. The deck's 'Operating Profit' (gross profit less selling and G&A expenses) differs from the FS 'Laba usaha' stored in operating_profit. The FY2022 deck (PDF p. 18) says FY2021 EBITDA included a one-off other income of IDR 372bn (pension-liability reduction after a change in law)."
+            },
+            "operating_profit": {
+                "v": 3524.974,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, LABA USAHA / PROFIT FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented in the FS: gross profit less selling & marketing and G&A expenses, plus/minus biological-asset fair-value changes and other income/expenses; before finance items and share of JV results."
+            },
+            "net_profit_attr": {
+                "v": 2022.596,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Laba tahun berjalan yang dapat diatribusikan kepada Pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 174,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (dalam Rupiah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2022-03-01",
+                "note": "Basic EPS as printed (weighted-average shares net of treasury shares; AR2025 PDF p. 9 shows 11,628 million weighted shares for 2023-2025)."
+            },
+            "payout_ratio": {
+                "v": 34.5,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/annual-report-2022-pt-japfa-comfeed-indonesia-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-04-06",
+                "loc": "PDF p. 112, dividend chronology table - Dividend Payout ratio (DPS/EPS), FY2021 34,5%",
+                "basis": "consolidated",
+                "note": "As printed (DPS 60 / EPS 174). Single final dividend, no interim."
+            },
+            "total_assets": {
+                "v": 28589.656,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 15486.946,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1085.116,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash line on the face of the balance sheet)."
+            },
+            "total_debt": {
+                "v": 10132.952,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Liabilitas jangka pendek / jangka panjang - borrowing lines",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (Rp juta): short-term bank loans 1,314,599; current maturities of long-term bank loans 685,469; current loans to finance acquisition of fixed assets 1,271; current bonds payable 999,471; long-term bank loans 2,272,543; long-term loans to finance acquisition of fixed assets 117; long-term bonds payable 4,859,482 = 10,132,952. Lease liabilities (31,262 + 8,382) excluded. The small 'loans to finance acquisition of fixed assets' (non-bank vehicle/equipment financing) are included as interest-bearing borrowings. Bonds: Rupiah Obligasi Berkelanjutan II Japfa Tahap II 2017 (nominal 1,000,000, due 21 Apr 2022, current) + US$350m 5.375% Guaranteed Senior Notes due 23 Mar 2026 (sustainability-linked, SGX), issued 23 Mar 2021 partly to repay the 2022 notes (FS2021 Note 22, PDF p. 124). Cross-check: the company's 'Total Interest Bearing Debt' 10,173 bn (deck PDF p. 23) = this sum + lease liabilities."
+            },
+            "equity_attr": {
+                "v": 12233.384,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - Subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 13102.71,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, EKUITAS, NETO",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11620308701,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Modal saham (issued 8,814,985,201 Series A + 2,911,590,000 Series B) and Saham treasuri line",
+                "share_basis": "2022-03-01",
+                "note": "Issued and fully paid 11,726,575,201 shares less 106,266,500 treasury shares = 11,620,308,701. Series A (par Rp200) and B (par Rp40) shares carry equal rights (AR2025 PDF p. 12)."
+            },
+            "year_end_price": {
+                "v": 1720,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/Annual%20Report%202021%20PT%20Japfa%20Comfeed%20Indonesia%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, Ikhtisar Saham / Share Highlights - Triwulan IV 2021 Penutupan (Closing)",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price as printed in AR2021; AR2022 PDF p. 13 prints the same 2021 close. No split or bonus issue since the 19 Apr 2013 1:5 split, so no restatement."
+            },
+            "cfo": {
+                "v": 701.246,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13, Kas neto yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated",
+                "note": "Direct-method cash flow statement."
+            },
+            "capex": {
+                "v": 1323.666,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202021%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Additions of fixed assets (Penambahan aset tetap) 1,291,356 + additions of biological assets (Penambahan aset biologis, investing line) 32,310 = 1,323,666 Rp juta. Not included: additions of land for development 14,872 and of right-of-use assets 55,037. Current biological assets (breeding flocks) have no investing line."
+            },
+            "roe": {
+                "v": 16.3,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/Annual%20Report%202021%20PT%20Japfa%20Comfeed%20Indonesia%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Ekuitas (%)",
+                "basis": "consolidated",
+                "note": "As reported; the company divides profit for the year INCLUDING non-controlling interests by year-end TOTAL equity (2025: 4,281,329 / 20,018,957 = 21.4%; 2020: 1,221,904 / 11,411,970 = 10.7%)."
+            },
+            "roa": {
+                "v": 7.5,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/Annual%20Report%202021%20PT%20Japfa%20Comfeed%20Indonesia%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Aset (%)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year incl. NCI / year-end total assets (2025: 4,281,329 / 40,060,430 = 10.7%)."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 48972.085,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Laporan laba rugi - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales, Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 7683.156,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 3864,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/investor_presentation/FY2022%20Tbk%20Investor%20Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, 'PT Japfa Tbk - Financial Performance': EBITDA FY2022 3,864 (IDR billion)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its results deck, printed in IDR billion; the deck does not print a definition. The deck's 'Operating Profit' (gross profit less selling and G&A expenses) differs from the FS 'Laba usaha' stored in operating_profit."
+            },
+            "operating_profit": {
+                "v": 2750.349,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, LABA USAHA / PROFIT FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented in the FS: gross profit less selling & marketing and G&A expenses, plus/minus biological-asset fair-value changes and other income/expenses; before finance items and share of JV results."
+            },
+            "net_profit_attr": {
+                "v": 1419.855,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, Laba tahun berjalan yang dapat diatribusikan kepada Pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 122,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (dalam Rupiah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2023-03-01",
+                "note": "Basic EPS as printed (weighted-average shares net of treasury shares; AR2025 PDF p. 9 shows 11,628 million weighted shares for 2023-2025)."
+            },
+            "payout_ratio": {
+                "v": 40.9,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/2023%20Annual%20Report%20PT%20Japfa%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-04-05",
+                "loc": "PDF p. 117, dividend chronology table - Dividend Payout ratio (DPS/EPS), FY2022 40,9%",
+                "basis": "consolidated",
+                "note": "As printed (DPS 50 / EPS 122). Single final dividend, no interim."
+            },
+            "total_assets": {
+                "v": 32690.887,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Laporan posisi keuangan - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 19036.11,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1811.082,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash line on the face of the balance sheet)."
+            },
+            "total_debt": {
+                "v": 12854.662,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Liabilitas jangka pendek / jangka panjang - borrowing lines",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (Rp juta): short-term bank loans 3,868,963; current maturities of long-term bank loans 555,246; current loans to finance acquisition of fixed assets 1,396; current bonds payable 0; long-term bank loans 3,057,935; long-term loans to finance acquisition of fixed assets 2,570; long-term bonds payable 5,368,552 = 12,854,662. Lease liabilities (10,602 + 1,396) excluded. The small 'loans to finance acquisition of fixed assets' (non-bank vehicle/equipment financing) are included as interest-bearing borrowings. Bonds: US$350m 5.375% Senior Notes due 2026 only (Rupiah bonds repaid 2022)."
+            },
+            "equity_attr": {
+                "v": 12748.045,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - Subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 13654.777,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, EKUITAS, NETO",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11620308701,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Modal saham (issued 8,814,985,201 Series A + 2,911,590,000 Series B) and Saham treasuri line",
+                "share_basis": "2023-03-01",
+                "note": "Issued and fully paid 11,726,575,201 shares less 106,266,500 treasury shares = 11,620,308,701. Series A (par Rp200) and B (par Rp40) shares carry equal rights (AR2025 PDF p. 12)."
+            },
+            "year_end_price": {
+                "v": 1295,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/annual-report-2022-pt-japfa-comfeed-indonesia-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Ikhtisar Saham / Share Highlights - Triwulan IV 2022 Penutupan (Closing)",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price as printed in AR2022; AR2023 PDF p. 11 prints the same 2022 close. No split or bonus issue since the 19 Apr 2013 1:5 split, so no restatement."
+            },
+            "cfo": {
+                "v": 1426.749,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 21, Kas neto yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated",
+                "note": "Direct-method cash flow statement."
+            },
+            "capex": {
+                "v": 2082.602,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/PT%20Japfa%20Tbk%20CFS%2031%20Dec%202022%20Audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 21, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Additions of fixed assets (Penambahan aset tetap) 2,082,379 + additions of biological assets (Penambahan aset biologis, investing line) 223 = 2,082,602 Rp juta. Not included: additions of land for development 10,155 and of right-of-use assets 37,251. Current biological assets (breeding flocks) have no investing line."
+            },
+            "roe": {
+                "v": 10.9,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/annual-report-2022-pt-japfa-comfeed-indonesia-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Ekuitas (%)",
+                "basis": "consolidated",
+                "note": "As reported; the company divides profit for the year INCLUDING non-controlling interests by year-end TOTAL equity (2025: 4,281,329 / 20,018,957 = 21.4%; 2020: 1,221,904 / 11,411,970 = 10.7%)."
+            },
+            "roa": {
+                "v": 4.6,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/annual-report-2022-pt-japfa-comfeed-indonesia-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Aset (%)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year incl. NCI / year-end total assets (2025: 4,281,329 / 40,060,430 = 10.7%)."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 51175.898,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Laporan laba rugi - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales, Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 7511.355,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 3372,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/investor_presentation/2025/fy2024-tbk-investor-presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, 'PT Japfa Tbk - Financial Performance': EBITDA FY2023 3,372 (IDR billion; same value in the FY2023 deck PDF p. 18)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its results deck, printed in IDR billion; the deck does not print a definition. The deck's 'Operating Profit' (gross profit less selling and G&A expenses) differs from the FS 'Laba usaha' stored in operating_profit."
+            },
+            "operating_profit": {
+                "v": 2206.405,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, LABA USAHA / PROFIT FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented in the FS: gross profit less selling & marketing and G&A expenses, plus/minus biological-asset fair-value changes and other income/expenses; before finance items and share of JV results."
+            },
+            "net_profit_attr": {
+                "v": 929.716,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Laba tahun berjalan yang dapat diatribusikan kepada Pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 80,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (dalam Rupiah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2024-02-29",
+                "note": "Basic EPS as printed (weighted-average shares net of treasury shares; AR2025 PDF p. 9 shows 11,628 million weighted shares for 2023-2025)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2024-04/summary-of-agm-and-egm-20240404.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-04-03",
+                "loc": "PDF p. 2, Second Agenda resolution: 'Tidak membagikan dividen kepada para pemegang saham Perseroan' / 'No distribution of cash dividends'",
+                "basis": "consolidated",
+                "note": "AGMS of 3 Apr 2024 decided no dividend for FY2023 (Rp10bn to reserve, rest retained). Confirmed by AR2024 PDF p. 114 footnote. No interim dividend was paid in 2023."
+            },
+            "total_assets": {
+                "v": 34109.431,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Laporan posisi keuangan - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 19942.219,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1502.603,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash line on the face of the balance sheet)."
+            },
+            "total_debt": {
+                "v": 12828.738,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Liabilitas jangka pendek / jangka panjang - borrowing lines",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (Rp juta): short-term bank loans 4,078,013; current maturities of long-term bank loans 830,665; current loans to finance acquisition of fixed assets 2,342; current bonds payable 0; long-term bank loans 2,625,992; long-term loans to finance acquisition of fixed assets 2,310; long-term bonds payable 5,289,416 = 12,828,738. Lease liabilities (8,048 + 8,904) excluded. The small 'loans to finance acquisition of fixed assets' (non-bank vehicle/equipment financing) are included as interest-bearing borrowings. Bonds: US$350m 5.375% Senior Notes due 2026 (non-current)."
+            },
+            "equity_attr": {
+                "v": 13226.291,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - Subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 14167.212,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, EKUITAS, NETO",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11627669901,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Modal saham (issued 8,814,985,201 Series A + 2,911,590,000 Series B) and Saham treasuri line",
+                "share_basis": "2024-02-29",
+                "note": "Issued and fully paid 11,726,575,201 shares less 98,905,300 treasury shares = 11,627,669,901. Series A (par Rp200) and B (par Rp40) shares carry equal rights (AR2025 PDF p. 12)."
+            },
+            "year_end_price": {
+                "v": 1180,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/2023%20Annual%20Report%20PT%20Japfa%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Ikhtisar Saham / Share Highlights - Triwulan IV 2023 Penutupan (Closing)",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price as printed in AR2023; AR2024 PDF p. 11 prints the same 2023 close; AR2025 PDF p. 9 'Harga per Saham' 1,180. No split or bonus issue since the 19 Apr 2013 1:5 split, so no restatement."
+            },
+            "cfo": {
+                "v": 2371.932,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Kas neto yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated",
+                "note": "Direct-method cash flow statement."
+            },
+            "capex": {
+                "v": 2017.574,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2024-02/pt-japfa-tbk-cfs-as-of-31-december-2023-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Additions of fixed assets (Penambahan aset tetap) 2,017,574 + additions of biological assets (Penambahan aset biologis, investing line) 0 = 2,017,574 Rp juta. Not included: additions of land for development 22,779 and of right-of-use assets 42,701. Current biological assets (breeding flocks) have no investing line."
+            },
+            "roe": {
+                "v": 6.7,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/2023%20Annual%20Report%20PT%20Japfa%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Ekuitas (%)",
+                "basis": "consolidated",
+                "note": "As reported; the company divides profit for the year INCLUDING non-controlling interests by year-end TOTAL equity (2025: 4,281,329 / 20,018,957 = 21.4%; 2020: 1,221,904 / 11,411,970 = 10.7%)."
+            },
+            "roa": {
+                "v": 2.8,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/2023%20Annual%20Report%20PT%20Japfa%20Tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Aset (%)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year incl. NCI / year-end total assets (2025: 4,281,329 / 40,060,430 = 10.7%)."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 55800.849,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Laporan laba rugi - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales, Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 11218.13,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 6393,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/investor_presentation/2026/fy2025-tbk-investor-presentation-1.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, 'PT Japfa Tbk - Financial Performance': EBITDA FY2024 6,393 (IDR billion; same in the FY2024 deck PDF p. 17)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its results deck, printed in IDR billion; the deck does not print a definition. The deck's 'Operating Profit' (gross profit less selling and G&A expenses) differs from the FS 'Laba usaha' stored in operating_profit."
+            },
+            "operating_profit": {
+                "v": 5061.875,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, LABA USAHA / PROFIT FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented in the FS: gross profit less selling & marketing and G&A expenses, plus/minus biological-asset fair-value changes and other income/expenses; before finance items and share of JV results."
+            },
+            "net_profit_attr": {
+                "v": 3018.892,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Laba tahun berjalan yang dapat diatribusikan kepada Pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 260,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (dalam Rupiah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2025-02-28",
+                "note": "Basic EPS as printed (weighted-average shares net of treasury shares; AR2025 PDF p. 9 shows 11,628 million weighted shares for 2023-2025)."
+            },
+            "payout_ratio": {
+                "v": null,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2025/04/summary-and-schedule-for-dividend-20250411.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-04-10",
+                "loc": "PDF p. 2, Second Agenda: FY2024 consolidated profit Rp3,018,892,076,352; total FY2024 cash dividends Rp1,627,873,786,140 (interim Rp70 + additional Rp70)",
+                "basis": "consolidated",
+                "note": "REVIEWER 2026-11-04: no full-year payout ratio is printed for FY2024; the research value 53.92 was computed (total dividend ÷ profit from the AGMS resolutions) and is not stored — derived values stay out of the files. No full-year percentage is printed: computed from the two amounts printed in the same AGMS resolution (1,627,873,786,140 / 3,018,892,076,352 = 53.92%; DPS/EPS = 140/260 = 53.8%). AR2024 PDF p. 114 and AR2025 PDF p. 116 print 55.0% for EACH Rp70 payment measured against 1H2024 profit (EPS 127) - not a full-year ratio."
+            },
+            "total_assets": {
+                "v": 34666.283,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Laporan posisi keuangan - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 18093.761,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1353.714,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash line on the face of the balance sheet)."
+            },
+            "total_debt": {
+                "v": 10600.704,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Liabilitas jangka pendek / jangka panjang - borrowing lines",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (Rp juta): short-term bank loans 2,075,731; current maturities of long-term bank loans 1,136,970; current loans to finance acquisition of fixed assets 3,735; current bonds payable 0; long-term bank loans 1,800,811; long-term loans to finance acquisition of fixed assets 1,992; long-term bonds payable 5,581,465 = 10,600,704. Lease liabilities (56,409 + 86,511) excluded. The small 'loans to finance acquisition of fixed assets' (non-bank vehicle/equipment financing) are included as interest-bearing borrowings. Bonds: US$350m 5.375% Senior Notes due 2026, net of US$2m bought back (FS2025 Note 23 comparative). Cross-check: the company's 'Total Interest Bearing Debt' 10,744 bn (deck PDF p. 21) = this sum + lease liabilities."
+            },
+            "equity_attr": {
+                "v": 15476.838,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - Subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 16572.522,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, EKUITAS, NETO",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11627669901,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Modal saham (issued 8,814,985,201 Series A + 2,911,590,000 Series B) and Saham treasuri line",
+                "share_basis": "2025-02-28",
+                "note": "Issued and fully paid 11,726,575,201 shares less 98,905,300 treasury shares = 11,627,669,901. Series A (par Rp200) and B (par Rp40) shares carry equal rights (AR2025 PDF p. 12)."
+            },
+            "year_end_price": {
+                "v": 1940,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/2024-annual-report-pt-japfa-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Ikhtisar Saham / Share Highlights - Triwulan IV 2024 Penutupan (Closing)",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price as printed in AR2024; AR2025 PDF p. 10 prints the same 2024 close; AR2025 PDF p. 9 'Harga per Saham' 1,940. No split or bonus issue since the 19 Apr 2013 1:5 split, so no restatement."
+            },
+            "cfo": {
+                "v": 4860.422,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Kas neto yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated",
+                "note": "Direct-method cash flow statement."
+            },
+            "capex": {
+                "v": 1629.68,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2025/pt-japfa-tbk-cfs-as-of-31-december-2024-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Additions of fixed assets (Penambahan aset tetap) 1,629,680 (no biological-asset line in investing activities this year) = 1,629,680 Rp juta. Not included: additions of land for development 74,378 and of right-of-use assets 35,207. Current biological assets (breeding flocks) have no investing line."
+            },
+            "roe": {
+                "v": 19.4,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/2024-annual-report-pt-japfa-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Ekuitas (%)",
+                "basis": "consolidated",
+                "note": "As reported; the company divides profit for the year INCLUDING non-controlling interests by year-end TOTAL equity (2025: 4,281,329 / 20,018,957 = 21.4%; 2020: 1,221,904 / 11,411,970 = 10.7%)."
+            },
+            "roa": {
+                "v": 9.3,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/2024-annual-report-pt-japfa-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Aset (%)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year incl. NCI / year-end total assets (2025: 4,281,329 / 40,060,430 = 10.7%)."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 60715.806,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Laporan laba rugi - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales, Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 13191.309,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 7429,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/investor_presentation/2026/fy2025-tbk-investor-presentation-1.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, 'PT Japfa Tbk - Financial Performance': EBITDA FY2025 7,429 (IDR billion)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in its results deck, printed in IDR billion; the deck does not print a definition. The deck's 'Operating Profit' (gross profit less selling and G&A expenses) differs from the FS 'Laba usaha' stored in operating_profit."
+            },
+            "operating_profit": {
+                "v": 6183.584,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, LABA USAHA / PROFIT FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented in the FS: gross profit less selling & marketing and G&A expenses, plus/minus biological-asset fair-value changes and other income/expenses; before finance items and share of JV results."
+            },
+            "net_profit_attr": {
+                "v": 4003.999,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Laba tahun berjalan yang dapat diatribusikan kepada Pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 344,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (dalam Rupiah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2026-02-28",
+                "note": "Basic EPS as printed (weighted-average shares net of treasury shares; AR2025 PDF p. 9 shows 11,628 million weighted shares for 2023-2025)."
+            },
+            "payout_ratio": {
+                "v": null,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2025/04/summary-and-schedule-for-dividend-20260430.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-04-29",
+                "loc": "PDF p. 2, Second Agenda: FY2025 consolidated profit Rp4,003,999,654,405; Rp140 per share as cash dividend; total Rp1,627,873,786,140 in the IDX schedule form",
+                "basis": "consolidated",
+                "note": "REVIEWER 2026-11-04: no full-year payout ratio is printed for FY2025; the research value 40.66 was computed (total dividend ÷ profit from the AGMS resolutions) and is not stored — derived values stay out of the files. No percentage is printed: computed as total dividend Rp1,627,873,786,140 (IDX schedule form 064/JAPFA-OJK/LD-CS/IV/2026) / FY2025 profit Rp4,003,999,654,405 = 40.66% (DPS/EPS 140/344 = 40.7%). No FY2025 interim dividend."
+            },
+            "total_assets": {
+                "v": 40060.43,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Laporan posisi keuangan - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 20041.473,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 3550.006,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented (no separate restricted-cash line on the face of the balance sheet)."
+            },
+            "total_debt": {
+                "v": 11744.766,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Liabilitas jangka pendek / jangka panjang - borrowing lines",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (Rp juta): short-term bank loans 2,920,949; current maturities of long-term bank loans 953,829; current loans to finance acquisition of fixed assets 2,459; current bonds payable 5,831,563; long-term bank loans 2,034,264; long-term loans to finance acquisition of fixed assets 1,702; long-term bonds payable 0 = 11,744,766. Lease liabilities (62,936 + 54,379) excluded. The small 'loans to finance acquisition of fixed assets' (non-bank vehicle/equipment financing) are included as interest-bearing borrowings. Bonds: US$350m 5.375% Senior Notes due 23 Mar 2026 now current (5,873,700 nominal less costs, discount and US$2m bought back; FS2025 Note 23, PDF p. 123); due 23 Mar 2026 and repaid during 2026 (9M2026 FS cash flow 'Payments of bonds payables' 5,921,650). Cross-check: the company's 'Total Interest Bearing Debt' 11,862 bn (deck PDF p. 21) = this sum + lease liabilities."
+            },
+            "equity_attr": {
+                "v": 18663.756,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - Subtotal",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 20018.957,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, EKUITAS, NETO",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11627669901,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Modal saham (issued 8,814,985,201 Series A + 2,911,590,000 Series B) and Saham treasuri line",
+                "share_basis": "2026-02-28",
+                "note": "Issued and fully paid 11,726,575,201 shares less 98,905,300 treasury shares = 11,627,669,901. Series A (par Rp200) and B (par Rp40) shares carry equal rights (AR2025 PDF p. 12)."
+            },
+            "year_end_price": {
+                "v": 2620,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/2025-annual-report-pt-japfa-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, Ikhtisar Saham / Share Highlights - Triwulan IV 2025 Penutupan (Closing)",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price as printed in AR2025; AR2025 PDF p. 9 'Harga per Saham' 2,620. No split or bonus issue since the 19 Apr 2013 1:5 split, so no restatement."
+            },
+            "cfo": {
+                "v": 5012.14,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Kas neto yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated",
+                "note": "Direct-method cash flow statement."
+            },
+            "capex": {
+                "v": 2467.498,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/01-2026/pt-japfa-tbk-cfs-as-of-31-december-2025-audited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Additions of fixed assets (Penambahan aset tetap) 2,467,498 (no biological-asset line in investing activities this year) = 2,467,498 Rp juta. Not included: additions of land for development 240,656 and of right-of-use assets 110,189. Current biological assets (breeding flocks) have no investing line."
+            },
+            "roe": {
+                "v": 21.4,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/2025-annual-report-pt-japfa-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Ekuitas (%)",
+                "basis": "consolidated",
+                "note": "As reported; the company divides profit for the year INCLUDING non-controlling interests by year-end TOTAL equity (2025: 4,281,329 / 20,018,957 = 21.4%; 2020: 1,221,904 / 11,411,970 = 10.7%)."
+            },
+            "roa": {
+                "v": 10.7,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/annual%20reports/2025-annual-report-pt-japfa-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 9, Ikhtisar Keuangan - Rasio Keuangan Penting: Imbal Hasil Aset (%)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year incl. NCI / year-end total assets (2025: 4,281,329 / 40,060,430 = 10.7%)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 40,
+            "total": 466.308,
+            "cum_date": "2021-04-23",
+            "ex_date": "2021-04-26",
+            "record_date": "2021-04-27",
+            "pay_date": "2021-05-07",
+            "share_basis": "2021-04-16",
+            "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/stock_bond/Schedule%20for%20Dividend%20Payment.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-04-16",
+            "loc": "PDF p. 1, IDX corporate-action schedule (letter 057/JAPFA-OJK/LD-CS/IV/2021): Total Nilai Dividen IDR 466.307.624.040; Dividen per saham IDR 40; cum/ex regular & negotiated market 23/26 Apr 2021, cash market 27/28 Apr; recording 27 Apr; payment 7 May 2021",
+            "note": "AGMS 15 Apr 2021 (Notarial Deed No. 88). Total Rp466,307,624,040 = Rp40 x 11,657,690,601 shares. FS2021 Note 34 (PDF p. 144): paid 7 May 2021."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 60,
+            "total": 697.219,
+            "cum_date": "2022-04-14",
+            "ex_date": "2022-04-18",
+            "record_date": "2022-04-19",
+            "pay_date": "2022-04-22",
+            "share_basis": "2022-04-07",
+            "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/stock_bond/Summary%20of%20GMS%20and%20Schedule%20for%20Dividend%20Payment%2020220407.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-04-07",
+            "loc": "PDF p. 2 (Second Agenda: Rp60 per share out of FY2021 profit Rp2,022,595,568,584) and p. 4 'Jadual Pembagian Dividen' (announcement 7 Apr 2022; cum regular & negotiated 14 Apr, cash 19 Apr; ex 18 Apr / 20 Apr; recording 19 Apr; payment 22 Apr 2022)",
+            "note": "AGMS 6 Apr 2022. Total Rp697,218,522,060 from the IDX schedule form (https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/IDX-Schedule%20for%20Dividend%2020220407.pdf) = Rp60 x 11,620,308,701 shares."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 50,
+            "total": 581.015,
+            "cum_date": "2023-04-14",
+            "ex_date": "2023-04-17",
+            "record_date": "2023-04-18",
+            "pay_date": "2023-05-03",
+            "share_basis": "2023-04-06",
+            "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/Summary%20and%20Schedule%20for%20Dividend%2020230406.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-04-06",
+            "loc": "PDF p. 2 (Second Agenda: Rp50 per share out of FY2022 profit Rp1,419,854,420,083) and p. 5 'Jadual Pembagian Dividen' (announcement 6 Apr 2023; cum regular & negotiated 14 Apr, cash 18 Apr; ex 17 Apr / 26 Apr; recording 18 Apr; payment 3 May 2023)",
+            "note": "AGMS 5 Apr 2023. Total Rp581,015,435,050 from the IDX schedule form (https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/stock_bond/IDX-Schedule%20for%20Dividend%2020230406.pdf) = Rp50 x 11,620,308,701 shares (the 7,361,200 treasury shares resold in Jul-Aug 2023 were still held at the recording date)."
+        },
+        {
+            "fy": 2024,
+            "type": "interim",
+            "dps": 70,
+            "total": 813.937,
+            "cum_date": "2024-10-21",
+            "ex_date": "2024-10-22",
+            "record_date": "2024-10-23",
+            "pay_date": "2024-10-29",
+            "share_basis": "2024-10-11",
+            "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/stock_bond/2024-10/11-10/pt-japfa-tbk-announcement-interim-dividend.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-10-11",
+            "loc": "PDF p. 1, 'Pemberitahuan kepada pemegang saham - pembagian dividen interim': Rp813,936,893,070 or Rp70 per share from 1H2024 net income; cum regular & negotiated 21 Oct 2024 (cash 23 Oct); ex 22 Oct (cash 24 Oct); recording 23 Oct; payment 29 Oct 2024",
+            "note": "Board resolution approved by the Board of Commissioners on 9 Oct 2024; announced 11 Oct 2024. = Rp70 x 11,627,669,901 shares."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 70,
+            "total": 813.937,
+            "cum_date": "2025-04-21",
+            "ex_date": "2025-04-22",
+            "record_date": "2025-04-23",
+            "pay_date": "2025-04-29",
+            "share_basis": "2025-04-11",
+            "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2025/04/summary-and-schedule-for-dividend-20250411.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-04-11",
+            "loc": "PDF p. 2 (Second Agenda: additional cash dividend Rp813,936,893,070 or Rp70 per share; FY2024 total Rp1,627,873,786,140 or Rp140) and p. 5 'Jadual Pembagian Dividen Tambahan' (announcement 11 Apr 2025; cum regular & negotiated 21 Apr, cash 23 Apr; ex 22 Apr / 24 Apr; recording 23 Apr; payment 29 Apr 2025)",
+            "note": "AGMS 10 Apr 2025; called an 'additional' (tambahan) cash dividend on top of the Oct-2024 interim. FS2025 Note 35 (PDF p. 139-140): paid 29 Apr 2025."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 140,
+            "total": 1627.874,
+            "cum_date": "2026-05-08",
+            "ex_date": "2026-05-11",
+            "record_date": "2026-05-12",
+            "pay_date": "2026-05-19",
+            "share_basis": "2026-04-30",
+            "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2025/04/summary-and-schedule-for-dividend-20260430.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-30",
+            "loc": "PDF p. 2 (Second Agenda: Rp140 per share out of FY2025 profit Rp4,003,999,654,405) and p. 5 'Jadual Pembagian Dividen Tambahan' (announcement 30 Apr 2026; cum regular & negotiated 8 May, cash 12 May; ex 11 May / 13 May; recording 12 May; payment 19 May 2026)",
+            "note": "AGMS 29 Apr 2026. Total Rp1,627,873,786,140 from the IDX schedule form (https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/general_meeting/2025/04/idx---schedule-for-dividend-20260430.pdf) = Rp140 x 11,627,669,901 shares (the 98,905,300 treasury shares were sold only on 26 May 2026). The 9M2026 FS Note 38 (PDF p. 130) says the dividend was paid on 15 May 2026, the AGMS schedule and the IDX form say 19 May 2026; the announced schedule date is stored."
+        },
+        {
+            "fy": 2026,
+            "type": "interim",
+            "dps": 90,
+            "total": 1052.78,
+            "cum_date": "2026-11-05",
+            "ex_date": "2026-11-06",
+            "record_date": "2026-11-09",
+            "pay_date": "2026-11-12",
+            "share_basis": "2026-10-28",
+            "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/stock_bond/2026/10/28-10-2026/pt-japfa-tbk-announcement-interim-dividend.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-10-28",
+            "loc": "PDF p. 1, interim dividend announcement: Rp1,052,780,364,090 or Rp90 per share from 1H2026 net income; cum regular & negotiated 5 Nov 2026 (cash 9 Nov); ex 6 Nov (cash 10 Nov); recording 9 Nov; payment 12 Nov 2026",
+            "note": "FY2026 interim; Board of Commissioners approval 27 Oct 2026, announced 28 Oct 2026. Not yet paid at the time of research (2026-11-04). Total / DPS implies 11,697,559,601 entitled shares (buyback under the 29 Apr 2026 EGMS mandate continuing)."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 54524.991,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2026/10/pt-japfa-tbk-cfs-as-of-30-september-2026-unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Laporan laba rugi interim - PENJUALAN NETO (9M 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited 9M2026 consolidated FS, Rp juta / 1,000."
+            },
+            "revenue_ytd_prior": {
+                "v": 43104.381,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2026/10/pt-japfa-tbk-cfs-as-of-30-september-2026-unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 6, comparative column 9M 2025",
+                "basis": "consolidated"
+            },
+            "ebitda_ytd": {
+                "v": 6215,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/investor_presentation/2026/10-2026/9m2026-tbk-investor-presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 18, 'PT Japfa Tbk - Financial Performance': EBITDA 9M2026 6,215 (IDR billion; also PDF p. 22)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the 9M2026 investor deck; definition not printed."
+            },
+            "ebitda_ytd_prior": {
+                "v": 4833,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/investor_presentation/2026/10-2026/9m2026-tbk-investor-presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 18, EBITDA 9M2025 4,833 (IDR billion)",
+                "basis": "consolidated"
+            },
+            "profit_ytd": {
+                "v": 3231.38,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2026/10/pt-japfa-tbk-cfs-as-of-30-september-2026-unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Laba periode berjalan yang dapat diatribusikan kepada Pemilik entitas induk (9M 2026)",
+                "basis": "consolidated",
+                "note": "Excludes the VSN divestment gain: the 29 Sep 2026 sale of PT Vaksindo Satwa Nusantara to Japfa Pte. Ltd. and Bionovus Pte. Ltd. (Rp1,807,389) was a common-control transaction booked in additional paid-in capital (+928,239), not in profit (Note 1c, PDF p. 16)."
+            },
+            "profit_ytd_prior": {
+                "v": 2411.411,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2026/10/pt-japfa-tbk-cfs-as-of-30-september-2026-unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 6, comparative column 9M 2025",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 21496.589,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2026/10/pt-japfa-tbk-cfs-as-of-30-september-2026-unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Subtotal - ekuitas yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11704870701,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2026/10/pt-japfa-tbk-cfs-as-of-30-september-2026-unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 117, Note 28 Ekuitas - Total saham beredar 11.704.870.701",
+                "share_basis": "2026-09-30",
+                "note": "11,726,575,201 issued less 21,704,500 treasury shares (all 98,905,300 earlier treasury shares were sold to Japfa Pte. Ltd. on 26 May 2026; 21,704,500 bought back under the 29 Apr 2026 EGMS mandate)."
+            },
+            "total_assets": {
+                "v": 49561.577,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2026/10/pt-japfa-tbk-cfs-as-of-30-september-2026-unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4611.865,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2026/10/pt-japfa-tbk-cfs-as-of-30-september-2026-unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Kas dan setara kas",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 19276.831,
+                "source_url": "https://d1be5sn7lppxuh.cloudfront.net/assets/files/files/financial_report/2026/10/pt-japfa-tbk-cfs-as-of-30-september-2026-unaudited.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, borrowing lines",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (Rp juta): short-term bank loans 12,410,369; current LT bank loans 1,036,474; current loans to finance acquisition of fixed assets 4,455; LT bank loans 5,332,860; LT loans to finance acquisition of fixed assets 5,139; bonds payable 487,534 (new Rupiah bonds, nominal 500,000; the US$350m notes were repaid in 2026) = 19,276,831. Lease liabilities (49,323 + 91,046) excluded. The deck's 'Total Interest Bearing Debt' 19,417 bn (PDF p. 22) = this sum + leases. Short-term bank loans 12.4 tn vs 2.9 tn at end-2025, while inventories rose to 14.4 tn from 9.6 tn."
+            }
+        }
+    },
+    "validation_ack": [],
+    "research_notes": [
+        "Identity: PT Japfa Comfeed Indonesia Tbk (unchanged legal name in FS2019-9M2026), integrated poultry feed/breeding/commercial farm/processing, aquaculture, beef and consumer foods (So Good). Majority shareholder Japfa Pte. Ltd. (55.43% at 31 Dec 2025, 56.34% at 30 Sep 2026 after buying the treasury shares; 9M2026 FS Note 28, PDF p. 117).",
+        "Currency/units: IDR reporter; every FS (2019-9M2026) is in Rp juta, divided by 1,000 to IDR billion. EBITDA comes from the decks, printed in IDR billion.",
+        "FY2019 RESTATEMENT (So Good Food): PT So Good Food (SGF) was bought from Jupiter Foods Pte Ltd (Japfa group) effective 30 Nov 2020 for Rp1,214,132m (Rp364,222m cash + Rp849,892m promissory note) - a business combination under common control. FS2020 restates 2019 and 2018 as if SGF had always been combined (FS2020 Note 4, PDF p. 83-84; Note 1c PDF p. 24). fy.2019 stores these RESTATED comparatives so that 2020-vs-2019 growth is like-for-like (the company's FY2020 deck also compares with restated 2019: revenue -4.9%); the originally reported FY2019 figures are in each datum's note (revenue 36,742,561 vs 38,872,084 restated; profit attributable unchanged at 1,765,178).",
+        "FY2020 P&L presentation: FS2020 shows 'profit after effect of merging entity's income adjustment' (1,221,904, incl. SGF's pre-acquisition result) and 'profit before effect...' (1,002,376); the stored net_profit_attr 916,711 is the latter's owners' share, which FS2021/FS2022 print as the 2020 comparative and EPS 79 uses. ROE/ROA (AR) and the deck's PAT (1,222) use 1,221,904.",
+        "Source policy: FY2020-FY2025 levels/profit/EPS/cash flow from each year's own audited FS. Later comparatives were checked: FS2021-FS2025 and 9M2026 reproduce the prior-year totals unchanged (no restatement after the FY2019 SGF restatement).",
+        "Operating profit: stored = FS 'Laba usaha' (includes other income/expenses and biological-asset FV changes). The investor decks print a different 'Operating Profit' = gross profit - selling - G&A (e.g. FY2025 6,150 vs Laba usaha 6,183.6; FY2020 2,635 vs 2,484.2).",
+        "EBITDA: only as printed in the FY investor decks (no definition printed; FY2019 restated 4,139 in the FY2020 deck). Rough check (not used): FS 'Laba usaha' + segment depreciation (FS2025 PDF p. 148: 1,265,023) = 7,448.6 vs reported 7,429 for 2025. FY2021 EBITDA includes a one-off IDR 372bn other income (pension law change) per the FY2022 deck.",
+        "total_debt = bank loans + bonds/notes + the small 'utang pembiayaan atas perolehan aset tetap' (non-bank equipment/vehicle financing, Rp1-10bn), current + non-current, excluding PSAK 73 lease liabilities. It reconciles exactly to the company's own 'Total Interest Bearing Debt' minus lease liabilities for every year checked (2019, 2020, 2021, 2024, 2025, 9M2026). The FY2020 Rp849.9bn promissory note to Jupiter Foods (other payables - related party) is excluded, as in the company's figure.",
+        "Bonds history: at end-2020 US Dollar notes of US$250m (5.5% Senior Notes due 2022) and Rupiah Obligasi Berkelanjutan II Japfa (nominal 1,150,000; the last Rp1,000,000 tranche matured 21 Apr 2022, FS2021 Note 22 PDF p. 124-125); US$350m 5.375% sustainability-linked Guaranteed Senior Notes due 23 Mar 2026 issued 23 Mar 2021 (partly to repay the 2022 notes), US$2m bought back; repaid in 2026 (9M2026 cash flow 'Payments of bonds payables' 5,921,650) largely with bank loans; new Rupiah bonds nominal 500,000 issued in 2026 (9M2026 Note 25, PDF p. 111).",
+        "capex = 'Penambahan aset tetap' + 'Penambahan aset biologis' (non-current biological assets shown in investing activities in 2020-2022; none from 2023). Land for development and right-of-use additions are excluded (amounts in the notes). The decks' CAPEX figures differ (e.g. FY2025 2,391 vs FS additions 2,467.5; FY2020 1,645 vs 1,614.9).",
+        "Dividends (all cash, rupiah): FY2019 Rp20 (paid Jul 2020, outside the series); FY2020 Rp40 final; FY2021 Rp60 final; FY2022 Rp50 final; FY2023 NONE (AGMS 3 Apr 2024); FY2024 Rp70 interim (Oct 2024) + Rp70 'additional' final (Apr 2025) = Rp140; FY2025 Rp140 final (AGMS 29 Apr 2026, no interim); FY2026 Rp90 interim (ex 6 Nov 2026, pay 12 Nov 2026). Dates come from the company's AGMS summaries / IDX schedule forms. Conflict: FY2025 final payment 19 May 2026 (AGMS summary and IDX form) vs 'paid on 15 May 2026' in 9M2026 FS Note 38 - 19 May stored.",
+        "Payout ratio: FY2020-FY2022 as printed in the AR dividend tables (the company uses DPS/EPS: 50.63%, 34.5%, 40.9%); FY2023 0 (no dividend). FY2024 and FY2025 have no printed full-year ratio: stored 53.92% and 40.66% = total dividend / profit attributable, both amounts printed in the AGMS resolution / IDX form. AR2024/AR2025 print 55.0% per Rp70 payment against 1H2024 profit, and AR2025's dividend table is mislabelled (its '2025' column is the FY2024 additional dividend paid Apr 2025; the interim column says '9 October 2025 / 29 October 2025' for the 2024 dates).",
+        "Treasury shares (shares_out is net of them): 7,361,200 at end-2019; 2020 buybacks (from 19 Mar 2020 under the OJK volatile-market rule, then under the EGMS mandate of 18 Jun 2020) to 68,884,600; 106,266,500 at end-2021 and end-2022 (bought in 2021 under the June-2020 mandate; none bought under the April-2022 mandate); 7,361,200 resold Jul-Aug 2023 -> 98,905,300 at end-2023/2024/2025; all 98,905,300 sold to parent Japfa Pte. Ltd. on 26 May 2026 (disclosure 11 May 2026; cash flow 'Penjualan treasuri stock' 259,284); 21,704,500 bought back by 30 Sep 2026 under the 29 Apr 2026 EGMS mandate (max 1.5%, until 29 Apr 2027). Sources: 9M2026 FS Note 28 (PDF p. 117-121).",
+        "Corporate actions 2019-01-01 to 2026-11-04: NONE (no split, reverse split, bonus or rights issue). Issued shares are 11,726,575,201 (8,814,985,201 Series A par Rp200 + 2,911,590,000 Series B par Rp40, equal rights) in every FS from 31 Dec 2018 to 30 Sep 2026. AR2025 share chronology (PDF p. 12): last changes were the 1:5 split of 19 Apr 2013 and private placements of 750,000,000 shares (4 Aug 2016) and 316,052,291 shares (8 Jun 2018). The 2020 rights-issue mandate (up to 3,517,972,560 Series A shares, disclosure 5 May 2020) and the 2023 PMTHMETD (non-pre-emptive) mandate (disclosure 27 Feb 2023) were never executed - the issued share count never changed. FY2019 year_end_price is therefore not needed.",
+        "2026 events visible in the 9M2026 FS: VSN (PT Vaksindo Satwa Nusantara with Vaksindo Animal Health Pvt Ltd and Vaksindo Vietnam Animal Health) sold on 29 Sep 2026 to Japfa Pte. Ltd. and Bionovus Pte. Ltd. for Rp1,807,389m plus Rp1,000,000m shareholder-loan repayment; common control, so +928,239 to APIC (after 391,029 tax in equity) and no P&L gain (Note 1c, PDF p. 16). Operating cash flow 9M2026 was -4,558,141; inventories 14.4 tn and short-term bank loans 12.4 tn at 30 Sep 2026 (vs 9.6 tn and 2.9 tn at end-2025).",
+        "Year-end prices are the Q4 closes printed in each year's AR 'Ikhtisar Saham' table (and repeated in the next AR). No price file exists yet for JPFA, so the price_year_end cross-check was not run.",
+        "ROE/ROA are as printed in each AR's 'Rasio Keuangan Penting' (profit for the year incl. NCI / year-end total equity or total assets) - not on profit attributable to owners.",
+        "REVIEWER 2026-11-04: payout_ratio FY2024 and FY2025 set to null (no printed full-year ratio; the computed values are kept in the datum notes)."
+    ]
+}

@@ -1,0 +1,1274 @@
+{
+    "schema": 1,
+    "code": "MYOR",
+    "name": "PT Mayora Indah Tbk",
+    "name_short": "Mayora Indah",
+    "sector": "consumer",
+    "subsector": "food",
+    "exchange": "IDX",
+    "currency": "IDR",
+    "website": "https://www.mayoraindah.co.id",
+    "ir_url": "https://www.mayoraindah.co.id/landing/Informasi-Bagi-Investor-8",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 25026.739472547,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20191231-dan-2018-ea8df.zip",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "ZIP member 'LKK - 2019_12_31 dan 2018.pdf', PDF p. 8, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Net sales, full Rupiah / 1e9. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2019_12_31 dan 2018 - Investor Daily.pdf')."
+            },
+            "net_profit_attr": {
+                "v": 1987.755412096,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20191231-dan-2018-ea8df.zip",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "ZIP member 'LKK - 2019_12_31 dan 2018.pdf', PDF p. 8, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk; Note Laba per saham (PDF p. 70)",
+                "basis": "consolidated",
+                "note": "As originally reported in FS2019 (Note 30 EPS, PDF p. 70: 1,987,755,412,096). FS2020 prints a revised 2019 comparative of 1,999,303,012,096 (current tax 661,306,449,500 instead of 673,306,449,500; no restatement note) - see research_notes. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2019_12_31 dan 2018 - Investor Daily.pdf')."
+            },
+            "total_assets": {
+                "v": 19037.918806473,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20191231-dan-2018-ea8df.zip",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "ZIP member 'LKK - 2019_12_31 dan 2018.pdf', PDF p. 6, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2019_12_31 dan 2018 - Investor Daily.pdf')."
+            },
+            "cash": {
+                "v": 2982.004859009,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20191231-dan-2018-ea8df.zip",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "ZIP member 'LKK - 2019_12_31 dan 2018.pdf', PDF p. 6, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented; no restricted cash line. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2019_12_31 dan 2018 - Investor Daily.pdf')."
+            },
+            "total_debt": {
+                "v": 5808.30373984,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20191231-dan-2018-ea8df.zip",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "ZIP member 'LKK - 2019_12_31 dan 2018.pdf', PDF p. 7, current and non-current bank-loan and bond lines",
+                "basis": "consolidated",
+                "note": "Bank loans + bonds (current + non-current), EXCLUDING lease liabilities (PSAK 73). Lines (Rp): Utang bank jangka pendek 1,000,000,000,000; current portion of long-term bank loans 421,923,583,261; long-term bank loans net of current portion 2,839,707,799,079; bonds payable (non-current) 1,546,672,357,500 = 5,808,303,739,840, equal to \"Jumlah utang / Total borrowings\" in the capital-management note (PDF p. 61). No lease liabilities in 2019 (PSAK 73 adopted 1 Jan 2020). No sukuk/MTN outstanding. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2019_12_31 dan 2018 - Investor Daily.pdf')."
+            },
+            "equity_attr": {
+                "v": 9662.8660798,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20191231-dan-2018-ea8df.zip",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "ZIP member 'LKK - 2019_12_31 dan 2018.pdf', PDF p. 7, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - JUMLAH",
+                "basis": "consolidated",
+                "note": "As originally reported; FS2020 prints 9,674,413,679,800 for 2019 (see net_profit_attr). Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2019_12_31 dan 2018 - Investor Daily.pdf')."
+            },
+            "total_equity": {
+                "v": 9899.940195318,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20191231-dan-2018-ea8df.zip",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "ZIP member 'LKK - 2019_12_31 dan 2018.pdf', PDF p. 7, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "As originally reported; FS2020 prints 9,911,940,195,318 for 2019. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2019_12_31 dan 2018 - Investor Daily.pdf')."
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 24476.953742651,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 8, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Net sales, full Rupiah / 1e9."
+            },
+            "gross_profit": {
+                "v": 7299.122959685,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 8, Laba bruto / Gross profit",
+                "basis": "consolidated",
+                "note": "As printed."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "Not reported. Mayora prints no EBITDA figure in FS2020, AR2020 highlights or (2026) the public-expose deck; EBITDA appears only as a loan/bond covenant ratio (EBITDA / interest expense) in the FS notes, without an amount. Not computed."
+            },
+            "operating_profit": {
+                "v": 2830.928194155,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 8, Laba usaha / Profit from operations",
+                "basis": "consolidated",
+                "note": "Laba usaha as presented: gross profit less selling and G&A expenses; before FX, interest, other items and tax."
+            },
+            "net_profit_attr": {
+                "v": 2060.631850945,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 8, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk; Note Laba per saham (PDF p. 79)",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 92,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 8, Laba per saham / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2021-03-30",
+                "note": "Basic EPS as printed (full Rupiah); no dilutive instruments."
+            },
+            "payout_ratio": {
+                "v": 55.41,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/arsr-2021-a458b.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-05-27",
+                "loc": "AR2021 PDF p. 51, dividend table (\"% terhadap Laba Bersih / % of Net Profit\"), fiscal year 2020",
+                "basis": "consolidated",
+                "note": "As printed. The company divides the dividend by PROFIT FOR THE YEAR INCLUDING non-controlling interests (Rp2,098,168,514,645), not by profit attributable to owners; one final dividend, no interim."
+            },
+            "total_assets": {
+                "v": 19777.50051455,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 6, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 8506.032464592,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 7, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 3777.791432101,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 6, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented; no restricted cash line."
+            },
+            "total_debt": {
+                "v": 4624.636929438,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 7, current and non-current bank-loan and bond lines",
+                "basis": "consolidated",
+                "note": "Bank loans + bonds (current + non-current), EXCLUDING lease liabilities (PSAK 73). Lines (Rp): Utang bank jangka pendek 50,000,000,000; current portion of long-term bank loans 804,080,567,757; current portion of long-term bonds payable 156,337,216,664; long-term bank loans net of current portion 1,725,336,242,405; long-term bonds payable net of current portion 1,888,882,902,612 = 4,624,636,929,438, equal to \"Jumlah utang / Total borrowings\" in the capital-management note (PDF p. 68). Excluded: lease liabilities 236,190,555,450 (non-current; FS2021 comparative splits it 84,012,315,786 current + 152,178,239,664 non-current). No sukuk/MTN outstanding."
+            },
+            "equity_attr": {
+                "v": 11011.069905567,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 7, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - JUMLAH",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 11271.468049958,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 7, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22358699725,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 7, Modal ditempatkan dan disetor - 22.358.699.725 saham",
+                "share_basis": "2021-03-30",
+                "note": "Issued and paid-up shares; no treasury shares held at year end."
+            },
+            "year_end_price": {
+                "v": 2710,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/annual-report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 4, Harga Saham table - Desember 2020, Penutupan / Closing",
+                "share_basis": "2021-06-28",
+                "note": "December closing price as printed; equals the printed December 2020 market capitalisation Rp60.592.076.254.750 / 22,358,699,725 issued shares. No split/bonus since 2016."
+            },
+            "cfo": {
+                "v": 3715.832449186,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 10, Kas bersih diperoleh dari (digunakan untuk) aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 1155.60241157,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20201231.zip",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "ZIP member 'LKK - 2020_12_31 dan 2019.pdf', PDF p. 10, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Perolehan aset tetap / Acquisitions of PP&E 634,118,812,741 + Pembayaran uang muka pembelian aset tetap / Advances for purchases of PP&E 521,483,598,829 (Rp). Each year's advance line equals that year-end's advances balance; the advances are moved into PP&E in the following year without cash, so both lines together are the cash capital spending."
+            },
+            "roe": {
+                "v": 19,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/arsr-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2022 PDF p. 4, Ikhtisar Keuangan - Rasio: Laba terhadap Ekuitas / Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total equity."
+            },
+            "roa": {
+                "v": 11,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/arsr-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2022 PDF p. 4, Ikhtisar Keuangan - Rasio: Laba terhadap Jumlah Aset / Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total assets."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 27904.558322183,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 8, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Net sales, full Rupiah / 1e9. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "gross_profit": {
+                "v": 6922.983508403,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 8, Laba kotor / Gross profit",
+                "basis": "consolidated",
+                "note": "As printed. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "Not reported. Mayora prints no EBITDA figure in FS2021, AR2021 highlights or (2026) the public-expose deck; EBITDA appears only as a loan/bond covenant ratio (EBITDA / interest expense) in the FS notes, without an amount. Not computed."
+            },
+            "operating_profit": {
+                "v": 1772.315914155,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 8, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "Laba usaha as presented: gross profit less selling and G&A expenses; before FX, interest, other items and tax. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "net_profit_attr": {
+                "v": 1186.598590767,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 8, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "eps": {
+                "v": 53,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 8, Laba per saham / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2022-03-30",
+                "note": "Basic EPS as printed (full Rupiah); no dilutive instruments. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "payout_ratio": {
+                "v": 38.77,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-05-07",
+                "loc": "AR2025 PDF p. 62, dividend table (\"% terhadap Laba Bersih / % of Net Profit\"), fiscal year 2021",
+                "basis": "consolidated",
+                "note": "As printed. The company divides the dividend by PROFIT FOR THE YEAR INCLUDING non-controlling interests (Rp1,211,052,647,953), not by profit attributable to owners; one final dividend, no interim."
+            },
+            "total_assets": {
+                "v": 19917.653265528,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 6, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "total_liabilities": {
+                "v": 8557.621869393,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 7, JUMLAH LIABILITAS",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "cash": {
+                "v": 3009.380167931,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 6, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented; no restricted cash line. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "total_debt": {
+                "v": 4962.967795818,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 7, current and non-current bank-loan and bond lines",
+                "basis": "consolidated",
+                "note": "Bank loans + bonds (current + non-current), EXCLUDING lease liabilities (PSAK 73). Lines (Rp): Utang bank jangka pendek 795,000,000,000; current portion: bank loans 1,273,204,542,128; current portion: bonds payable 1,049,547,726,762; non-current: bank loans 1,004,213,366,942; non-current: bonds payable 841,002,159,986 = 4,962,967,795,818, equal to \"Jumlah utang / Total borrowings\" in the capital-management note (PDF p. 67). Excluded: lease liabilities 91,430,355,508 + 79,536,036,170. No sukuk/MTN outstanding. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "equity_attr": {
+                "v": 11118.707150388,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 7, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - JUMLAH",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "total_equity": {
+                "v": 11360.031396135,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 7, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "shares_out": {
+                "v": 22358699725,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 7, Modal ditempatkan dan disetor - 22.358.699.725 saham",
+                "share_basis": "2022-03-30",
+                "note": "Issued and paid-up shares; no treasury shares held at year end. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "year_end_price": {
+                "v": 2040,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/arsr-2021-a458b.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 5, Harga Saham table - Desember 2021, Penutupan / Closing",
+                "share_basis": "2022-05-27",
+                "note": "December closing price as printed; equals the printed December 2021 market capitalisation Rp45.611.747.439.000 / 22,358,699,725 issued shares. No split/bonus since 2016."
+            },
+            "cfo": {
+                "v": 1041.955003348,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 10, Kas bersih diperoleh dari (digunakan untuk) aktivitas operasi",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "capex": {
+                "v": 977.43599029,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20211231-dan-2020.zip",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "ZIP member 'LKK - 2021_12_31 dan 2020 1.pdf', PDF p. 10, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Perolehan aset tetap / Acquisitions of PP&E 658,964,759,604 + Pembayaran uang muka pembelian aset tetap / Advances for purchases of PP&E 318,471,230,686 (Rp). Each year's advance line equals that year-end's advances balance; the advances are moved into PP&E in the following year without cash, so both lines together are the cash capital spending. Statement page is a scanned image (read from a page render); figure verified against the newspaper publication in the same ZIP ('LKK - 2021_12_31 dan 2020 2.pdf') and the FS2022 comparative column."
+            },
+            "roe": {
+                "v": 11,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/arsr-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 4, Ikhtisar Keuangan - Rasio: Laba terhadap Ekuitas / Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total equity."
+            },
+            "roa": {
+                "v": 6,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/arsr-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 4, Ikhtisar Keuangan - Rasio: Laba terhadap Jumlah Aset / Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total assets."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 30669.405967404,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Net sales, full Rupiah / 1e9. Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "gross_profit": {
+                "v": 6839.423338924,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Laba kotor / Gross profit",
+                "basis": "consolidated",
+                "note": "As printed. Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "Not reported. Mayora prints no EBITDA figure in FS2022, AR2022 highlights or (2026) the public-expose deck; EBITDA appears only as a loan/bond covenant ratio (EBITDA / interest expense) in the FS notes, without an amount. Not computed."
+            },
+            "operating_profit": {
+                "v": 2433.114641701,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "Laba usaha as presented: gross profit less selling and G&A expenses; before FX, interest, other items and tax. Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "net_profit_attr": {
+                "v": 1942.229752036,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "eps": {
+                "v": 87,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Laba per saham / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2023-03-29",
+                "note": "Basic EPS as printed (full Rupiah); no dilutive instruments. Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "payout_ratio": {
+                "v": 39.72,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-05-07",
+                "loc": "AR2025 PDF p. 62, dividend table (\"% terhadap Laba Bersih / % of Net Profit\"), fiscal year 2022",
+                "basis": "consolidated",
+                "note": "As printed. The company divides the dividend by PROFIT FOR THE YEAR INCLUDING non-controlling interests (Rp1,970,064,538,149), not by profit attributable to owners; one final dividend, no interim."
+            },
+            "total_assets": {
+                "v": 22276.160695411,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 10, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "total_liabilities": {
+                "v": 9441.466604896,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, JUMLAH LIABILITAS",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "cash": {
+                "v": 3262.074784511,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 10, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented; no restricted cash line. Investment in securities (75,798,942,564) is a separate line and excluded. Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "total_debt": {
+                "v": 5440.278511632,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, current and non-current bank-loan and bond lines",
+                "basis": "consolidated",
+                "note": "Bank loans + bonds (current + non-current), EXCLUDING lease liabilities (PSAK 73). Lines (Rp): Utang bank jangka pendek 1,028,750,990,000; current portion: bank loans 1,092,802,460,415; current portion: bonds payable 507,890,053,556; non-current: bank loans 983,145,381,513; non-current: bonds payable 1,827,689,626,148 = 5,440,278,511,632, equal to \"Jumlah utang / Total borrowings\" in the capital-management note (PDF p. 78). Excluded: lease liabilities 88,899,341,557 (current; none non-current). No sukuk/MTN outstanding. Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "equity_attr": {
+                "v": 12628.400600637,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - JUMLAH",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "total_equity": {
+                "v": 12834.694090515,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, JUMLAH EKUITAS",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "shares_out": {
+                "v": 22358699725,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Modal ditempatkan dan disetor - 22.358.699.725 saham",
+                "share_basis": "2023-03-29",
+                "note": "Issued and paid-up shares; no treasury shares held at year end. Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "year_end_price": {
+                "v": 2500,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/arsr-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 5, Harga Saham table - Desember 2022, Penutupan / Closing",
+                "share_basis": "2023-04-30",
+                "note": "December closing price as printed; equals the printed December 2022 market capitalisation Rp55.896.749.312.500 / 22,358,699,725 issued shares. No split/bonus since 2016."
+            },
+            "cfo": {
+                "v": 1619.570638186,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Kas bersih diperoleh dari (digunakan untuk) aktivitas operasi",
+                "basis": "consolidated",
+                "note": "Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "capex": {
+                "v": 1509.214777944,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20221231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Perolehan aset tetap / Acquisitions of PP&E 804,918,815,873 + Pembayaran uang muka pembelian aset tetap / Advances for purchases of PP&E 704,295,962,071 (Rp). Each year's advance line equals that year-end's advances balance; the advances are moved into PP&E in the following year without cash, so both lines together are the cash capital spending. Statement page is a scanned image (read from a page render); figure verified against the FS2023 comparative column (text)."
+            },
+            "roe": {
+                "v": 15,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/arsr-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 4, Ikhtisar Keuangan - Rasio: Laba terhadap Ekuitas / Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total equity."
+            },
+            "roa": {
+                "v": 9,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/arsr-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 4, Ikhtisar Keuangan - Rasio: Laba terhadap Jumlah Aset / Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total assets."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 31485.008185525,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Net sales, full Rupiah / 1e9."
+            },
+            "gross_profit": {
+                "v": 8407.777758683,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Laba kotor / Gross profit",
+                "basis": "consolidated",
+                "note": "As printed."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "Not reported. Mayora prints no EBITDA figure in FS2023, AR2023 highlights or (2026) the public-expose deck; EBITDA appears only as a loan/bond covenant ratio (EBITDA / interest expense) in the FS notes, without an amount. Not computed."
+            },
+            "operating_profit": {
+                "v": 4299.4753472,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "Laba usaha as presented: gross profit less selling and G&A expenses; before FX, interest, other items and tax."
+            },
+            "net_profit_attr": {
+                "v": 3193.816276615,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 143,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Laba per saham / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2024-04-17",
+                "note": "Basic EPS as printed (full Rupiah); no dilutive instruments."
+            },
+            "payout_ratio": {
+                "v": 37.9,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-05-07",
+                "loc": "AR2025 PDF p. 62, dividend table (\"% terhadap Laba Bersih / % of Net Profit\"), fiscal year 2023",
+                "basis": "consolidated",
+                "note": "As printed. The company divides the dividend by PROFIT FOR THE YEAR INCLUDING non-controlling interests (Rp3,244,872,091,221), not by profit attributable to owners; one final dividend, no interim."
+            },
+            "total_assets": {
+                "v": 23870.404962472,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 8588.315775736,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4156.738667354,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented; no restricted cash line."
+            },
+            "total_debt": {
+                "v": 4262.722177415,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, current and non-current bank-loan and bond lines",
+                "basis": "consolidated",
+                "note": "Bank loans + bonds (current + non-current), EXCLUDING lease liabilities (PSAK 73). Lines (Rp): Utang bank jangka pendek 85,000,000,000; current portion: bank loans 644,389,561,419; non-current: bank loans 1,703,883,498,124; non-current: bonds payable 1,829,449,117,872 = 4,262,722,177,415, equal to \"Jumlah utang / Total borrowings\" in the capital-management note (PDF p. 79). Excluded: lease liabilities 4,687,899,060 (current). No sukuk/MTN outstanding."
+            },
+            "equity_attr": {
+                "v": 15039.487611663,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - JUMLAH",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 15282.089186736,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22358699725,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Modal ditempatkan dan disetor - 22.358.699.725 saham",
+                "share_basis": "2024-04-17",
+                "note": "Issued and paid-up shares; no treasury shares held at year end."
+            },
+            "year_end_price": {
+                "v": 2490,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lt-sr-2023-7c9fc.zip",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "ZIP member 'LT 2023.pdf', AR2023 PDF p. 5, Harga Saham table - Desember 2023, Penutupan / Closing",
+                "share_basis": "2024-04-29",
+                "note": "December closing price as printed; equals the printed December 2023 market capitalisation Rp55.673.162.315.250 / 22,358,699,725 issued shares. No split/bonus since 2016."
+            },
+            "cfo": {
+                "v": 5259.181989696,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Kas bersih diperoleh dari (digunakan untuk) aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 2525.729079182,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Perolehan aset tetap / Acquisitions of PP&E 1,653,568,063,139 + Pembayaran uang muka pembelian aset tetap / Advances for purchases of PP&E 872,161,016,043 (Rp). Each year's advance line equals that year-end's advances balance; the advances are moved into PP&E in the following year without cash, so both lines together are the cash capital spending."
+            },
+            "roe": {
+                "v": 21,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 5, Ikhtisar Keuangan - Rasio: Laba terhadap Ekuitas / Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total equity."
+            },
+            "roa": {
+                "v": 14,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 5, Ikhtisar Keuangan - Rasio: Laba terhadap Jumlah Aset / Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total assets."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 36072.94928593,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Net sales, full Rupiah / 1e9."
+            },
+            "gross_profit": {
+                "v": 8302.299314257,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Laba kotor / Gross profit",
+                "basis": "consolidated",
+                "note": "As printed."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "Not reported. Mayora prints no EBITDA figure in FS2024, AR2024 highlights or (2026) the public-expose deck; EBITDA appears only as a loan/bond covenant ratio (EBITDA / interest expense) in the FS notes, without an amount. Not computed."
+            },
+            "operating_profit": {
+                "v": 3915.364772118,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "Laba usaha as presented: gross profit less selling and G&A expenses; before FX, interest, other items and tax."
+            },
+            "net_profit_attr": {
+                "v": 3000.372094158,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 134,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Laba per saham / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2025-02-27",
+                "note": "Basic EPS as printed (full Rupiah); no dilutive instruments. FS2025 prints the 2024 comparative unrounded as 134.19 (weighted average 22,358,699,725 shares)."
+            },
+            "payout_ratio": {
+                "v": 39.98,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-05-07",
+                "loc": "AR2025 PDF p. 62, dividend table (\"% terhadap Laba Bersih / % of Net Profit\"), fiscal year 2024",
+                "basis": "consolidated",
+                "note": "As printed. The company divides the dividend by PROFIT FOR THE YEAR INCLUDING non-controlling interests (Rp3,067,667,675,407), not by profit attributable to owners; one final dividend, no interim."
+            },
+            "total_assets": {
+                "v": 29728.781933757,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 12626.353599187,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4601.449023397,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented; no restricted cash line."
+            },
+            "total_debt": {
+                "v": 7948.138934378,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, current and non-current bank-loan and bond lines",
+                "basis": "consolidated",
+                "note": "Bank loans + bonds (current + non-current), EXCLUDING lease liabilities (PSAK 73). Lines (Rp): Utang bank jangka pendek 2,745,000,000,000; current portion: bank loans 785,537,961,372; current portion: bonds payable 294,750,928,667; non-current: bank loans 2,089,978,791,134; non-current: bonds payable 2,032,871,253,205 = 7,948,138,934,378, equal to \"Jumlah utang / Total borrowings\" in the capital-management note (PDF p. 79). Excluded: lease liabilities 90,908,979,581 + 109,394,948,531. No sukuk/MTN outstanding."
+            },
+            "equity_attr": {
+                "v": 16820.564648744,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - JUMLAH",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 17102.42833457,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22358699725,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Modal ditempatkan dan disetor - 22.358.699.725 saham",
+                "share_basis": "2025-02-27",
+                "note": "Issued and paid-up shares; no treasury shares held at year end."
+            },
+            "year_end_price": {
+                "v": 2780,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 8, Harga Saham table - Desember 2024, Penutupan / Closing",
+                "share_basis": "2026-05-07",
+                "note": "December closing price as printed; equals the printed December 2024 market capitalisation Rp62.157.185.235.500 / 22,358,699,725 issued shares. No split/bonus since 2016."
+            },
+            "cfo": {
+                "v": -463.359496912,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Kas bersih diperoleh dari (digunakan untuk) aktivitas operasi",
+                "basis": "consolidated",
+                "note": "Negative in 2024: inventories rose from Rp3.56 tn to Rp6.44 tn and receivables from Rp6.10 tn to Rp7.13 tn (balance sheet)."
+            },
+            "capex": {
+                "v": 1809.473330475,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/lkk---20241231-4cd3c.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Perolehan aset tetap / Acquisitions of PP&E 1,441,968,955,467 + Pembayaran uang muka pembelian aset tetap / Advances for purchases of PP&E 367,504,375,008 (Rp). Each year's advance line equals that year-end's advances balance; the advances are moved into PP&E in the following year without cash, so both lines together are the cash capital spending."
+            },
+            "roe": {
+                "v": 18,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 5, Ikhtisar Keuangan - Rasio: Laba terhadap Ekuitas / Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total equity."
+            },
+            "roa": {
+                "v": 10,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 5, Ikhtisar Keuangan - Rasio: Laba terhadap Jumlah Aset / Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total assets."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 38681.562261207,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Laporan laba rugi - Penjualan bersih / Net sales",
+                "basis": "consolidated",
+                "note": "Net sales, full Rupiah / 1e9."
+            },
+            "gross_profit": {
+                "v": 8492.262078189,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Laba kotor / Gross profit",
+                "basis": "consolidated",
+                "note": "As printed."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "Not reported. Mayora prints no EBITDA figure in FS2025, AR2025 highlights or (2026) the public-expose deck; EBITDA appears only as a loan/bond covenant ratio (EBITDA / interest expense) in the FS notes, without an amount. Not computed."
+            },
+            "operating_profit": {
+                "v": 3723.712155336,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "Laba usaha as presented: gross profit less selling and G&A expenses; before FX, interest, other items and tax."
+            },
+            "net_profit_attr": {
+                "v": 2865.185363464,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk; Note Laba per saham (PDF p. 91)",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 128.42,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Laba per saham / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2026-03-16",
+                "note": "Basic EPS as printed (full Rupiah); no dilutive instruments. Weighted average 22,311,111,350 shares (treasury shares bought back during 2025 excluded), Note 33 PDF p. 91."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "FY2025 payout ratio not printed anywhere yet (AR2025 was published before the 4 Jun 2026 AGMS; the AGMS summary gives only the amount): AGMS approved Rp1,321,601,053,500 (Rp60/share) out of FY2025 profit for the year of Rp2,909,961,946,237 (RUPS 2026 summary PDF p. 10). See dividends."
+            },
+            "total_assets": {
+                "v": 31379.998865878,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 13017.009300451,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 5847.191546303,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented; no restricted cash line."
+            },
+            "total_debt": {
+                "v": 8264.73796902,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, current and non-current bank-loan and bond lines",
+                "basis": "consolidated",
+                "note": "Bank loans + bonds (current + non-current), EXCLUDING lease liabilities (PSAK 73). Lines (Rp): Utang bank jangka pendek 1,735,000,000,000; current portion: bank loans 1,005,503,694,218; non-current: bank loans 1,669,998,939,772; non-current: bonds payable 3,854,235,335,030 = 8,264,737,969,020, equal to \"Jumlah utang / Total borrowings\" in the capital-management note (PDF p. 79). Excluded: lease liabilities 122,825,047,059 (current; none non-current). No sukuk/MTN outstanding."
+            },
+            "equity_attr": {
+                "v": 18098.768234866,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - JUMLAH",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 18362.989565427,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22196639725,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 78, Note 22 Modal saham - Jumlah saham beredar / Total shares outstanding",
+                "share_basis": "2026-03-16",
+                "note": "22,358,699,725 issued less 162,060,000 treasury shares bought back in 2025 (60,950,000 in Mar-May 2025 under POJK 13/2023 + 101,110,000 in Jun-Dec 2025 under the 10 Jun 2025 EGMS mandate; AR2025 PDF p. 9)."
+            },
+            "year_end_price": {
+                "v": 2130,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 7, Harga Saham table - Desember 2025, Penutupan / Closing",
+                "share_basis": "2026-05-07",
+                "note": "December closing price as printed; equals the printed December 2025 market capitalisation Rp47.624.030.414.250 / 22,358,699,725 issued shares. No split/bonus since 2016."
+            },
+            "cfo": {
+                "v": 3513.527186669,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Kas bersih diperoleh dari (digunakan untuk) aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 1137.211590966,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/pt-mayora-indah-tbk-and-its-subsidaries-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Perolehan aset tetap / Acquisitions of PP&E 822,550,360,000 + Pembayaran uang muka pembelian aset tetap / Advances for purchases of PP&E 314,661,230,966 (Rp). Each year's advance line equals that year-end's advances balance; the advances are moved into PP&E in the following year without cash, so both lines together are the cash capital spending."
+            },
+            "roe": {
+                "v": 16,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 5, Ikhtisar Keuangan - Rasio: Laba terhadap Ekuitas / Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total equity."
+            },
+            "roa": {
+                "v": 9,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/ar2025-mayora-web-version.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 5, Ikhtisar Keuangan - Rasio: Laba terhadap Jumlah Aset / Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed, whole percent. Definition not printed; the figures match profit for the year INCLUDING NCI / year-end total assets."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 52,
+            "total": 1162.6523857,
+            "cum_date": "2021-08-02",
+            "ex_date": "2021-08-03",
+            "record_date": "2021-08-04",
+            "pay_date": "2021-08-13",
+            "share_basis": "2021-07-23",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/MYOR_DIV_20210804_ENG.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-07-23",
+            "loc": "KSEI-14296/JKU/0721 (28 Jul 2021) \"Schedule of Cash Deviden MAYORA INDAH Tbk (MYOR)\" (sic), relaying the issuer: items 1-2 cum/ex regular & negotiated market, item 5 recording date, item 6 payment date, item 8 Rp52 per share",
+            "note": "Cash dividend in rupiah as declared (IDR reporter). Amount: FS2021 Note 22 (ZIP lkk---20211231-dan-2020.zip, PDF p. 67): AGMS 23 Jul 2021, Rp1,162,652,385,700 or Rp52 per share; AR2021 PDF p. 51: paid 13 Aug 2021, 55.41%. Shares entitled 22,358,699,725 (no treasury shares)."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 21,
+            "total": 469.532694225,
+            "cum_date": "2022-07-06",
+            "ex_date": "2022-07-07",
+            "record_date": "2022-07-08",
+            "pay_date": "2022-07-27",
+            "share_basis": "2022-06-28",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/MYOR_DIV_20220708_ENG.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-06-28",
+            "loc": "KSEI-13339/JKU/0622 (30 Jun 2022) \"Schedule of Cash Deviden MAYORA INDAH Tbk (MYOR)\" (sic), relaying the issuer: items 1-2 cum/ex regular & negotiated market, item 5 recording date, item 6 payment date, item 8 Rp21 per share",
+            "note": "Cash dividend in rupiah as declared (IDR reporter). Amount: FS2022 Note 23 (PDF p. 78): AGMS 28 Jun 2022, Rp469,532,694,225 or Rp21 per share. Payment date as in the KSEI schedule (27 Jul 2022); the AR2022 (PDF p. 53) and AR2025 (PDF p. 62) dividend tables print \"29 Juli 2022\" - unresolved; no KSEI revision notice was located. Shares entitled 22,358,699,725."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 35,
+            "total": 782.554490375,
+            "cum_date": "2023-06-21",
+            "ex_date": "2023-06-22",
+            "record_date": "2023-06-23",
+            "pay_date": "2023-07-11",
+            "share_basis": "2023-06-13",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/MYOR_DIV_20230623_ENG.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-06-13",
+            "loc": "KSEI-12722/JKU/0623 (15 Jun 2023) \"Schedule of Cash Deviden MAYORA INDAH Tbk (MYOR)\" (sic), relaying the issuer: items 1-2 cum/ex regular & negotiated market, item 5 recording date, item 6 payment date, item 8 Rp35 per share",
+            "note": "Cash dividend in rupiah as declared (IDR reporter). Amount: FS2023 Note 23 (PDF p. 79): AGMS 13 Jun 2023, Rp782,554,490,375 or Rp35 per share. Shares entitled 22,358,699,725; AR2025 PDF p. 62 prints payment 11 Jul 2023."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 55,
+            "total": 1229.728484875,
+            "cum_date": "2024-06-24",
+            "ex_date": "2024-06-25",
+            "record_date": "2024-06-26",
+            "pay_date": "2024-07-11",
+            "share_basis": "2024-06-12",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/MYOR_DIV_20240626_ENG.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-06-12",
+            "loc": "KSEI-14580/JKU/0624 (19 Jun 2024) \"Schedule of Cash Deviden MAYORA INDAH Tbk (MYOR)\" (sic), relaying the issuer: items 1-2 cum/ex regular & negotiated market, item 5 recording date, item 6 payment date, item 8 Rp55 per share",
+            "note": "Cash dividend in rupiah as declared (IDR reporter). Amount: FS2024 Note 23 (PDF p. 79): AGMS 12 Jun 2024, Rp1,229,728,484,875 or Rp55 per share. Shares entitled 22,358,699,725; AR2025 PDF p. 62 prints payment 11 Jul 2024."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 55,
+            "total": 1226.376234875,
+            "cum_date": "2025-06-18",
+            "ex_date": "2025-06-19",
+            "record_date": "2025-06-20",
+            "pay_date": "2025-07-10",
+            "share_basis": "2025-06-10",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/MYOR_DIV_20250620_ENG.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-10",
+            "loc": "KSEI-14403/JKU/0625 (13 Jun 2025) \"Schedule of Cash Deviden MAYORA INDAH Tbk (MYOR)\" (sic), relaying the issuer: items 1-2 cum/ex regular & negotiated market, item 5 recording date, item 6 payment date, item 8 Rp55 per share",
+            "note": "Cash dividend in rupiah as declared (IDR reporter). Amount: FS2025 Note 23 (PDF p. 79): AGMS 10 Jun 2025, Rp1,226,376,234,875 or Rp55 per share. Total = Rp55 x 22,297,749,725 shares entitled (60,950,000 treasury shares bought back in Mar-May 2025 excluded); AR2025 PDF p. 62 prints payment 10 Jul 2025 and 39.98%."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 60,
+            "total": 1321.6010535,
+            "cum_date": "2026-06-12",
+            "ex_date": "2026-06-15",
+            "record_date": "2026-06-17",
+            "pay_date": "2026-07-07",
+            "share_basis": "2026-06-04",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/MYOR_DIV_20260617_ENG.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-06-04",
+            "loc": "KSEI-14209/JKU/0626 (9 Jun 2026) \"Schedule of Cash Deviden MAYORA INDAH Tbk (MYOR)\" (sic), relaying the issuer: items 1-2 cum/ex regular & negotiated market, item 5 recording date, item 6 payment date, item 8 Rp60 per share",
+            "note": "Cash dividend in rupiah as declared (IDR reporter). Amount: AGMS 4 Jun 2026 summary (notary certificate 019/Not/VI/2026, https://www.mayoraindah.co.id/assets/upload/file/ringkasan-rups-2026-bilingual-v3.pdf, PDF p. 10): Rp1,321,601,053,500 or Rp60 per share on 22,026,684,225 shares; 9M2026 FS Note 23 (PDF p. 69) confirms. Total = Rp60 x 22,026,684,225 shares entitled (332,015,500 treasury shares excluded). Payout not printed; about 45% of FY2025 profit for the year incl. NCI (Rp2,909,961,946,237) - not stored."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 28132.71535896,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Laporan laba rugi - Penjualan bersih (9M 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited 9M2026 consolidated FS (authorised 27 Oct 2026), full Rupiah / 1e9."
+            },
+            "revenue_ytd_prior": {
+                "v": 27157.495609745,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 6, comparative column 9M 2025",
+                "basis": "consolidated",
+                "note": "Same as the 9M2025 FS as originally published (lkk---20250930.pdf PDF p. 6)."
+            },
+            "ebitda_ytd": {
+                "v": null,
+                "note": "Not reported (Mayora publishes no EBITDA; see fy notes)."
+            },
+            "ebitda_ytd_prior": {
+                "v": null,
+                "note": "Not reported."
+            },
+            "profit_ytd": {
+                "v": 2427.312086167,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk (9M 2026)",
+                "basis": "consolidated",
+                "note": "+31% YoY; gross margin 25.1% vs 21.2% in 9M2025."
+            },
+            "profit_ytd_prior": {
+                "v": 1849.566567453,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 6, comparative column 9M 2025",
+                "basis": "consolidated",
+                "note": "Same as the 9M2025 FS as originally published (PDF p. 6 and Note 33)."
+            },
+            "equity_attr": {
+                "v": 18881.63147702,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk - JUMLAH",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 22026684225,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 68, Note 22 Modal saham - Jumlah saham beredar",
+                "share_basis": "2026-10-27",
+                "note": "22,358,699,725 issued less 332,015,500 treasury shares (cost Rp673,362,724,782)."
+            },
+            "total_assets": {
+                "v": 29181.002840192,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4259.220141625,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Kas dan setara kas",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 4702.271122128,
+                "source_url": "https://www.mayoraindah.co.id/assets/upload/file/laporan-keuangan-ytd-september-2026-pt-mayora-indah-tbk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, current and non-current bank-loan and bond lines",
+                "basis": "consolidated",
+                "note": "Lines (Rp): Utang bank jangka pendek 235,000,000,000; current portion: bank loans 55,486,754,400; current portion: bonds payable 1,239,394,230,679; non-current: bank loans 554,854,617,847; non-current: bonds payable 2,617,535,519,202 = 4,702,271,122,128 = \"Jumlah utang\" (PDF p. 69). Lease liabilities 50,347,496,059 excluded."
+            }
+        }
+    },
+    "validation_ack": [],
+    "research_notes": [
+        "Issuer: PT Mayora Indah Tbk (same legal name in every FS2019-FS2025 and the 9M2026 FS; listed 1990). Packaged food and beverages - the website's brand categories are biscuits, confectionery, wafers, chocolate, coffee and health food. Major holders at 31 Dec 2025: PT Unita Branindo 32.93%, PT Mayora Dhana Utama 26.14%, Jogi Hendra Atmadja 25.24% (FS2025 Note 22, PDF p. 78).",
+        "Currency/units: IDR reporter. Every FS (FY2019-FY2025, 9M2026) is presented in FULL RUPIAH; money is stored in IDR billion = Rupiah / 1e9 with full precision.",
+        "Source documents: all from www.mayoraindah.co.id (no bot protection; fetched directly). The company publishes FS2019, FS2020 and FS2021 only as ZIP archives (source_url = the ZIP; loc names the member PDF), AR2023 as ZIP and AR2024 as 7z. The primary statements of FS2019, FS2021 and FS2022 are scanned images: they were read from page renders and every figure was matched to text sources (the condensed newspaper publications inside the FS2019/FS2021 ZIPs and the next year's comparative columns). FS2020, FS2023-FS2025 and 9M2026 are text PDFs.",
+        "RESTATEMENT (FY2019 only): FS2020 prints a revised 2019 comparative without any restatement note: current tax 661,306,449,500 (FS2019: 673,306,449,500), profit attributable 1,999,303,012,096 (FS2019: 1,987,755,412,096), equity attributable 9,674,413,679,800 (9,662,866,079,800), total equity 9,911,940,195,318 (9,899,940,195,318), taxes payable 184,860,464,005 (196,860,464,005). Revenue, total assets and cash are unchanged. fy.2019 stores the ORIGINAL FS2019 figures. All later comparatives equal the original figures (checked FY2020-FY2024); presentation-only reclassifications: FS2021 splits 2020 lease liabilities into current/non-current; FS2023 splits 2022 'other payables' into other payables + advances received; FS2025 moves 2024 employee-benefit payments inside 'cash generated from operations' (CFO total unchanged).",
+        "FS2023 on the website is the REISSUED version (auditor's report 00662/2.1090/AU.1/04/0153-2/1/V/2024 of 28 May 2024, issued for the Bond III Phase I offering with additional disclosures in Note 41); the original report 00425/... was dated 17 Apr 2024 (FS2023 PDF p. 7). Note 1 still says authorised 17 Apr 2024, used as EPS share_basis. The site's link for 'Laporan Keuangan Tahunan 2023' is named lkk---20241231.pdf although it holds the FY2023 FS.",
+        "EBITDA: not reported by Mayora in any FS, AR or the 2026 public-expose deck (EBITDA appears only inside loan/bond covenant wording); stored null, never computed.",
+        "Capex = 'Perolehan aset tetap' + 'Pembayaran uang muka pembelian aset tetap' (advances for PP&E). The advance line paid each year equals the year-end advances balance and is reclassified into PP&E the next year without cash, so 'Perolehan' alone understates cash capex (e.g. 2019: 438.5 bn acquisitions + 1,459.9 bn advances). Each capex note gives both lines.",
+        "Total debt = short-term bank loans + current and non-current bank loans + bonds (Obligasi Berkelanjutan I/II/III); always equals the FS capital-management 'Jumlah utang / Total borrowings'. Lease liabilities (PSAK 73, from 2020) excluded. Mayora has no sukuk outstanding since 2017.",
+        "Payout ratio as printed in the AR dividend tables uses PROFIT FOR THE YEAR INCLUDING NCI as denominator (e.g. FY2024 1,226,376,234,875 / 3,067,667,675,407 = 39.98%), so profit_attr x payout is 1.4-2.2% below the dividend total (within the 3% check). FY2025 payout is not printed anywhere yet -> null.",
+        "Dividends: one final cash dividend per fiscal year, no interim dividends (FS dividend notes FS2021-FS2025, 9M2026). DPS/totals from the FS notes (AGMS deeds) and the 2026 AGMS summary; cum/ex/recording/payment dates from the KSEI schedules (web.ksei.co.id, issuer-relayed). The older AGMS result PDFs on the company site (2019-2023) have empty download links; the 2025 AGMS result PDFs are scanned. FY2021 payment date conflict: KSEI 27 Jul 2022 vs AR '29 Juli 2022'.",
+        "Treasury shares: none until 2025. Buybacks: 60,950,000 shares 27 Mar-28 May 2025 (POJK 13/2023, no AGMS needed) and, under the EGMS of 10 Jun 2025 (max Rp1 tn, 11 Jun 2025-11 Jun 2026), 101,110,000 more by 31 Dec 2025 (AR2025 PDF p. 9) -> 162,060,000 at FY2025 (cost Rp349.9 bn) and 332,015,500 at 30 Sep 2026 (cost Rp673.4 bn). shares_out is net of treasury shares; the AR 'shares outstanding' text and market caps use the 22,358,699,725 issued shares.",
+        "Corporate actions 2019-01-01 to 2026-11-04: none (no split, reverse split, bonus or rights issue). Share history (company page 'Kronologis Pencatatan Saham' https://www.mayoraindah.co.id/content/Kronologis-Pencatatan-Saham-Obligasi-dan-Sukuk-67 and AR2025 PDF p. 43-44): last bonus issue 2013 (6 held : 1 bonus), last split 2016 (1:25, Rp500 -> Rp20 nominal; 22,358,699,725 shares ever since). The 'Aksi Korporasi' sections of AR2019 (PDF p. 5), AR2020 (p. 5), AR2021 (p. 6), AR2022 (p. 6), AR2023 (p. 6), AR2024 (p. 8) and AR2025 (p. 9: 'no other corporate actions ... such as stock splits, reverse stock splits, stock dividends, bonus shares ...') list only bond issues and the 2025 buybacks. corporate_actions is therefore empty and fy.2019.year_end_price is not needed.",
+        "Related-party sales: about 70% of net sales go to affiliated distributors/companies (e.g. PT Inbisco Niagatama Semesta and overseas Mayora affiliates; FS2025 Note 34; 9M2026 Note 25: 70.52%), and related-party receivables were Rp8.16 tn at end-2025 (26% of total assets).",
+        "Cash-flow note: the 9M cash-flow statements show 'Dividen - Perusahaan' of 1,341,914,953,500 (9M2026) and 1,250,636,184,875 (9M2025), more than the AGMS totals (1,321,601,053,500 / 1,226,376,234,875); the full-year FS2025 line equals the AGMS total. Not used for any stored value.",
+        "Website terms (https://www.mayoraindah.co.id/terms-and-condition) forbid 'creating an alternative database ... by systematically downloading and storing any part or all contents of the Site' - reviewer: only the public filings listed in sources.md were downloaded, for citation."
+    ]
+}

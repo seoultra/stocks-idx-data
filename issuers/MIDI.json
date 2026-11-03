@@ -1,0 +1,1313 @@
+{
+    "schema": 1,
+    "code": "MIDI",
+    "name": "PT Midi Utama Indonesia Tbk",
+    "name_short": "Midi Utama Indonesia (Alfamidi)",
+    "sector": "consumer",
+    "subsector": "retail",
+    "exchange": "IDX",
+    "currency": "IDR",
+    "website": "https://alfamidiku.com",
+    "ir_url": "https://alfamidiku.com/menu-korporasi/hubungan--investor",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 11625.313,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_1912.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 10, Consolidated statement of profit or loss - PENDAPATAN NETO / Net revenues",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 203.061,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_1912.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 11, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 4990.309,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_1912.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 241.125,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_1912.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 1910.274,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_1912.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Utang bank jangka pendek + current and non-current Utang bank jangka panjang",
+                "basis": "consolidated",
+                "note": "Bank loans only: short-term bank loans 561,000 + current maturities of long-term bank loans 642,106 + long-term bank loans 707,168 (Rp juta) = 1,910,274. Consumer financing payables (Rp253 juta, vehicle financing) excluded; AR2020 PDF p. 6 prints interest-bearing debt 1,910,527 = the same lines incl. that payable. No bonds. PSAK 73 not yet applied in 2019."
+            },
+            "equity_attr": {
+                "v": 1220.49,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_1912.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1220.999,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_1912.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, TOTAL EKUITAS",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 12659.705,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Statement of profit or loss - PENDAPATAN NETO / Net revenues",
+                "basis": "consolidated",
+                "note": "Net revenues (merchandise sales net of returns/discounts, plus display rental, promotion and franchise income as presented), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 3150.608,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1142.197,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Ikhtisar Keuangan / Financial Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the AR financial highlights (\"Ikhtisar Keuangan\"), Rp juta / 1,000. No definition is printed; the MD&A explains its movement by depreciation and amortisation, i.e. operating profit before depreciation (fixed assets and right-of-use) and amortisation. Not computed here. AR2022 PDF p. 6 prints 1,239,279 for 2020 (\"as restated\"); the 2023 deck and AR2021 keep 1,142,197 - unexplained, the original is kept."
+            },
+            "operating_profit": {
+                "v": 456.585,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, LABA USAHA / Income (profit) from operations",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less selling & distribution and G&A expenses plus other income less other expenses; before finance income/costs and final tax."
+            },
+            "net_profit_attr": {
+                "v": 200.272,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 69.48,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Laba per saham dasar (Rupiah penuh) / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2021-03-29",
+                "note": "Basic EPS as printed, on 2,882,353,000 shares (Rp100 nominal, pre-split)."
+            },
+            "payout_ratio": {
+                "v": 30.01,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-05-06",
+                "loc": "PDF p. 109, Kebijakan Dividen - Pembayaran Dividen table, Rasio Pembayaran Dividen / Dividend Payout Ratio",
+                "basis": "consolidated",
+                "note": "Total cash dividend / profit attributable to owners of the parent, as printed. Single final dividend per year; no interim dividend was paid out of FY2020-FY2024 profit."
+            },
+            "total_assets": {
+                "v": 5923.693,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Statement of financial position - TOTAL ASET",
+                "basis": "consolidated",
+                "note": "FS2022 restates 31 Dec 2020 to 5,911,970 (PSAK 24 attribution change, see research_notes)."
+            },
+            "total_liabilities": {
+                "v": 4524.99,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, TOTAL LIABILITAS",
+                "basis": "consolidated",
+                "note": "FS2022 restates 31 Dec 2020 to 4,457,824 (PSAK 24 attribution change)."
+            },
+            "cash": {
+                "v": 238.324,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Kas dan setara kas / Cash and cash equivalents."
+            },
+            "total_debt": {
+                "v": 2049.943,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Utang bank jangka pendek / jangka panjang lines (current and non-current)",
+                "basis": "consolidated",
+                "note": "Bank loans only (Rp juta): short-term bank loans 809,000 + current maturities of long-term bank loans 516,449 + long-term bank loans 724,494 = 2,049,943. Lease liabilities (PSAK 73) are excluded (71,682 current + 244,040 non-current). No bonds, MTN or sukuk. Equals the AR2020 key-ratio line \"Pinjaman yang dikenakan bunga\"."
+            },
+            "equity_attr": {
+                "v": 1398.186,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated",
+                "note": "FS2022 restates 31 Dec 2020 to 1,453,621 (PSAK 24 attribution change)."
+            },
+            "total_equity": {
+                "v": 1398.703,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, TOTAL EKUITAS",
+                "basis": "consolidated",
+                "note": "FS2022 restates 31 Dec 2020 to 1,454,146 (PSAK 24 attribution change)."
+            },
+            "shares_out": {
+                "v": 2882353000,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Modal ditempatkan dan disetor penuh (issued and fully paid shares)",
+                "share_basis": "2021-03-29",
+                "note": "Issued = outstanding (no treasury shares). Rp100 nominal, pre-split."
+            },
+            "year_end_price": {
+                "v": 1925,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Ikhtisar Saham / Shares Highlights - quarterly table, Q4 Penutupan / Closing",
+                "share_basis": "2021-04-14",
+                "note": "Closing price in rupiah on the last trading day of the year as printed in the AR share table. Q4-2020 close (pre-split, Rp100 nominal)."
+            },
+            "cfo": {
+                "v": 1132.508,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13, Kas Neto Diperoleh dari Aktivitas Operasi / Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 526.267,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisitions of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisitions of fixed assets 526,267 (Rp juta), stored positive. Not included: additions to advances for purchase of fixed assets 46,668 (reclassified into fixed assets later, non-cash) and additions to right-of-use assets 350,718."
+            },
+            "roe": {
+                "v": 14.32,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Rasio Keuangan Utama / Key Financial Ratio - Return on Equity",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Ekuitas\"): profit for the year INCLUDING non-controlling interests / year-end total equity."
+            },
+            "roa": {
+                "v": 3.38,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Rasio Keuangan Utama / Key Financial Ratio - Return on Assets",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Aset\"): profit for the year INCLUDING non-controlling interests / year-end total assets."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 13584.036,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Statement of profit or loss - PENDAPATAN NETO / Net revenues",
+                "basis": "consolidated",
+                "note": "Net revenues (merchandise sales net of returns/discounts, plus display rental, promotion and franchise income as presented), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 3422.215,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1243.752,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Ikhtisar Keuangan / Financial Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the AR financial highlights (\"Ikhtisar Keuangan\"), Rp juta / 1,000. No definition is printed; the MD&A explains its movement by depreciation and amortisation, i.e. operating profit before depreciation (fixed assets and right-of-use) and amortisation. Not computed here. AR2022/AR2023 restate FY2021 to 1,242,273 (= the 1,479 PSAK 24 cut in operating profit)."
+            },
+            "operating_profit": {
+                "v": 488.132,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, LABA USAHA / Income (profit) from operations",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less selling & distribution and G&A expenses plus other income less other expenses; before finance income/costs and final tax. FS2022 restates FY2021 to 486,653 (PSAK 24 attribution change)."
+            },
+            "net_profit_attr": {
+                "v": 275.217,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated",
+                "note": "As originally reported (the base of the FY2021 dividend and payout). FS2022 restates FY2021 to 269,687 (PSAK 24 attribution change)."
+            },
+            "eps": {
+                "v": 95.48,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, Laba per saham dasar (Rupiah penuh) / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2022-03-30",
+                "note": "Basic EPS as printed, on 2,882,353,000 shares (Rp100 nominal, pre-split). As originally reported. FS2022 restates FY2021 EPS to 93.56."
+            },
+            "payout_ratio": {
+                "v": 30.01,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-05-25",
+                "loc": "PDF p. 109, Kebijakan Dividen - Pembayaran Dividen table, Rasio Pembayaran Dividen / Dividend Payout Ratio",
+                "basis": "consolidated",
+                "note": "Total cash dividend / profit attributable to owners of the parent, as printed. Single final dividend per year; no interim dividend was paid out of FY2020-FY2024 profit."
+            },
+            "total_assets": {
+                "v": 6344.016,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Statement of financial position - TOTAL ASET",
+                "basis": "consolidated",
+                "note": "FS2022 restates to 6,329,539 (PSAK 24 attribution change, see research_notes)."
+            },
+            "total_liabilities": {
+                "v": 4727.699,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, TOTAL LIABILITAS",
+                "basis": "consolidated",
+                "note": "FS2022 restates to 4,661,895 (PSAK 24 attribution change)."
+            },
+            "cash": {
+                "v": 243.492,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Kas dan setara kas / Cash and cash equivalents."
+            },
+            "total_debt": {
+                "v": 1850.459,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Utang bank jangka pendek / jangka panjang lines (current and non-current)",
+                "basis": "consolidated",
+                "note": "Bank loans only (Rp juta): short-term bank loans 779,000 + current maturities of long-term bank loans 464,834 + long-term bank loans 606,625 = 1,850,459. Lease liabilities (PSAK 73) are excluded (99,561 current + 266,676 non-current). No bonds, MTN or sukuk. Equals the AR2021 key-ratio line \"Pinjaman yang dikenakan bunga\"."
+            },
+            "equity_attr": {
+                "v": 1615.794,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated",
+                "note": "FS2022 restates to 1,667,111 (PSAK 24 attribution change)."
+            },
+            "total_equity": {
+                "v": 1616.317,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, TOTAL EKUITAS",
+                "basis": "consolidated",
+                "note": "FS2022 restates to 1,667,644 (PSAK 24 attribution change)."
+            },
+            "shares_out": {
+                "v": 2882353000,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Modal ditempatkan dan disetor penuh (issued and fully paid shares)",
+                "share_basis": "2022-03-30",
+                "note": "Issued = outstanding (no treasury shares). Rp100 nominal, pre-split."
+            },
+            "year_end_price": {
+                "v": 2210,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Ikhtisar Saham / Shares Highlights - quarterly table, Q4 Penutupan / Closing",
+                "share_basis": "2022-04-28",
+                "note": "Closing price in rupiah on the last trading day of the year as printed in the AR share table. Q4-2021 close (pre-split, Rp100 nominal)."
+            },
+            "cfo": {
+                "v": 1141.971,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13, Kas Neto Diperoleh dari Aktivitas Operasi / Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 379.033,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisitions of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisitions of fixed assets 379,033 (Rp juta), stored positive. Not included: additions to advances for purchase of fixed assets 43,729 (reclassified into fixed assets later, non-cash) and additions to right-of-use assets 194,754."
+            },
+            "roe": {
+                "v": 17.03,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Rasio Keuangan Utama / Key Financial Ratio - Return on Equity",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Ekuitas\"): profit for the year INCLUDING non-controlling interests / year-end total equity. AR2022 restates 2021 to 16.17% (PSAK 24)."
+            },
+            "roa": {
+                "v": 4.34,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Rasio Keuangan Utama / Key Financial Ratio - Return on Assets",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Aset\"): profit for the year INCLUDING non-controlling interests / year-end total assets. AR2022 restates 2021 to 4.26% (PSAK 24)."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 15623.654,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Statement of profit or loss - PENDAPATAN NETO / Net revenues",
+                "basis": "consolidated",
+                "note": "Net revenues (merchandise sales net of returns/discounts, plus display rental, promotion and franchise income as presented), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 3953.33,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1434.317,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 6, Ikhtisar Keuangan / Financial Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the AR financial highlights (\"Ikhtisar Keuangan\"), Rp juta / 1,000. No definition is printed; the MD&A explains its movement by depreciation and amortisation, i.e. operating profit before depreciation (fixed assets and right-of-use) and amortisation. Not computed here."
+            },
+            "operating_profit": {
+                "v": 637.902,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, LABA USAHA / Income (profit) from operations",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less selling & distribution and G&A expenses plus other income less other expenses; before finance income/costs and final tax."
+            },
+            "net_profit_attr": {
+                "v": 398.918,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 138.4,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, Laba per saham dasar (Rupiah penuh) / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2023-03-01",
+                "note": "Basic EPS as printed in FS2022 (authorised 1 Mar 2023, before the 1:10 split went ex on 6 Mar 2023): pre-split basis, 2,882,353,000 shares. FS2023 restates FY2022 EPS to 13.84 on the post-split 28,823,530,000 shares."
+            },
+            "payout_ratio": {
+                "v": 30.06,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-05-17",
+                "loc": "PDF p. 109, Kebijakan Dividen - Pembayaran Dividen table, Rasio Pembayaran Dividen / Dividend Payout Ratio",
+                "basis": "consolidated",
+                "note": "Total cash dividend / profit attributable to owners of the parent, as printed. Single final dividend per year; no interim dividend was paid out of FY2020-FY2024 profit."
+            },
+            "total_assets": {
+                "v": 6905.148,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Statement of financial position - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 4918.421,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 416.766,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Kas dan setara kas / Cash and cash equivalents."
+            },
+            "total_debt": {
+                "v": 1565.476,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Utang bank jangka pendek / jangka panjang lines (current and non-current)",
+                "basis": "consolidated",
+                "note": "Bank loans only (Rp juta): short-term bank loans 446,000 + current maturities of long-term bank loans 353,710 + long-term bank loans 765,766 = 1,565,476. Lease liabilities (PSAK 73) are excluded (150,160 current + 276,336 non-current). No bonds, MTN or sukuk. Equals the AR2022 key-ratio line \"Pinjaman yang dikenakan bunga\"."
+            },
+            "equity_attr": {
+                "v": 1985.991,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1986.727,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, TOTAL EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 2882353000,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Modal ditempatkan dan disetor penuh (issued and fully paid shares)",
+                "share_basis": "2023-03-01",
+                "note": "Issued = outstanding (no treasury shares). Rp100 nominal, pre-split."
+            },
+            "year_end_price": {
+                "v": 2970,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Ikhtisar Saham / Shares Highlights - quarterly table, Q4 Penutupan / Closing",
+                "share_basis": "2022-12-30",
+                "note": "Closing price in rupiah on the last trading day of the year as printed in the AR share table. Q4-2022 close as traded (pre-split). AR2022 was published (Apr 2023) after the 1:10 split went ex on 6 Mar 2023 but prints the price NOT restated (AR2023 PDF p. 9 repeats 2,970), so share_basis is the price date."
+            },
+            "cfo": {
+                "v": 1587.139,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20, Kas Neto Diperoleh dari Aktivitas Operasi / Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 457.122,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisitions of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisitions of fixed assets 457,122 (Rp juta), stored positive. Not included: additions to advances for purchase of fixed assets 83,210 (reclassified into fixed assets later, non-cash) and additions to right-of-use assets 246,239."
+            },
+            "roe": {
+                "v": 20.09,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Rasio Keuangan Utama / Key Financial Ratio - Return on Equity",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Ekuitas\"): profit for the year INCLUDING non-controlling interests / year-end total equity."
+            },
+            "roa": {
+                "v": 5.78,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Rasio Keuangan Utama / Key Financial Ratio - Return on Assets",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Aset\"): profit for the year INCLUDING non-controlling interests / year-end total assets."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 17351.152,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Statement of profit or loss - PENDAPATAN NETO / Net revenues",
+                "basis": "consolidated",
+                "note": "Net revenues (merchandise sales net of returns/discounts, plus display rental, promotion and franchise income as presented), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 4508.59,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1598.37,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 8, Ikhtisar Keuangan / Financial Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the AR financial highlights (\"Ikhtisar Keuangan\"), Rp juta / 1,000. No definition is printed; the MD&A explains its movement by depreciation and amortisation, i.e. operating profit before depreciation (fixed assets and right-of-use) and amortisation. Not computed here."
+            },
+            "operating_profit": {
+                "v": 742.828,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, LABA USAHA / Income (profit) from operations",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less selling & distribution and G&A expenses plus other income less other expenses; before finance income/costs and final tax."
+            },
+            "net_profit_attr": {
+                "v": 516.658,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 16.73,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Laba per saham dasar (Rupiah penuh) / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2024-03-22",
+                "note": "Basic EPS on the weighted average of 30,883,030,445 shares (FS2023 Note 24, PDF p. 94): the 4,611,764,800 rights shares were listed on 21 Jul 2023, so year-end shares (33,435,294,800) are higher - see validation_ack."
+            },
+            "payout_ratio": {
+                "v": 30.09,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-05-16",
+                "loc": "PDF p. 109, Kebijakan Dividen - Pembayaran Dividen table, Rasio Pembayaran Dividen / Dividend Payout Ratio",
+                "basis": "consolidated",
+                "note": "Total cash dividend / profit attributable to owners of the parent, as printed. Single final dividend per year; no interim dividend was paid out of FY2020-FY2024 profit."
+            },
+            "total_assets": {
+                "v": 7786.109,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Statement of financial position - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 3873.675,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 326.785,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Kas dan setara kas / Cash and cash equivalents."
+            },
+            "total_debt": {
+                "v": 62.792,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Utang bank jangka pendek / jangka panjang lines (current and non-current)",
+                "basis": "consolidated",
+                "note": "Bank loans only (Rp juta): short-term bank loans 62,792 = 62,792. Long-term bank-loan lines are \"-\". Lease liabilities (PSAK 73) are excluded (181,095 current + 391,447 non-current). No bonds, MTN or sukuk. Equals the AR2023 key-ratio line \"Pinjaman yang dikenakan bunga\" (62,792)."
+            },
+            "equity_attr": {
+                "v": 3739.874,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 3912.434,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, TOTAL EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 33435294800,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Modal ditempatkan dan disetor penuh (issued and fully paid shares)",
+                "share_basis": "2024-03-22",
+                "note": "Issued = outstanding (no treasury shares). Rp10 nominal after the 1:10 split (6 Mar 2023) and the 4,611,764,800-share rights issue (listed 21 Jul 2023)."
+            },
+            "year_end_price": {
+                "v": 430,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Ikhtisar Saham / Shares Highlights - quarterly table, Q4 Penutupan / Closing",
+                "share_basis": "2024-04-19",
+                "note": "Closing price in rupiah on the last trading day of the year as printed in the AR share table. Q4-2023 close (post-split, Rp10 nominal)."
+            },
+            "cfo": {
+                "v": 1310.502,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20, Kas Neto Diperoleh dari Aktivitas Operasi / Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "FS2024 re-presents FY2023 operating cash flow as 1,315,327 (interest received moved into operating activities)."
+            },
+            "capex": {
+                "v": 563.445,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisitions of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisitions of fixed assets 563,445 (Rp juta), stored positive. Not included: additions to advances for purchase of fixed assets 129,667 (reclassified into fixed assets later, non-cash) and additions to right-of-use assets 201,939."
+            },
+            "roe": {
+                "v": 13.2,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Rasio Keuangan Utama / Key Financial Ratio - Return on Equity",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Ekuitas\"): profit for the year INCLUDING non-controlling interests / year-end total equity."
+            },
+            "roa": {
+                "v": 6.63,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Rasio Keuangan Utama / Key Financial Ratio - Return on Assets",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Aset\"): profit for the year INCLUDING non-controlling interests / year-end total assets."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 19888.091,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Statement of profit or loss - PENDAPATAN NETO / Net revenues",
+                "basis": "consolidated",
+                "note": "Net revenues (merchandise sales net of returns/discounts, plus display rental, promotion and franchise income as presented), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 5232.322,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1741.404,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 8, Ikhtisar Keuangan / Financial Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the AR financial highlights (\"Ikhtisar Keuangan\"), Rp juta / 1,000. No definition is printed; the MD&A explains its movement by depreciation and amortisation, i.e. operating profit before depreciation (fixed assets and right-of-use) and amortisation. Not computed here. Includes 12 months of PT Lancar Wiguna Sejahtera (Lawson)."
+            },
+            "operating_profit": {
+                "v": 719.173,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, LABA USAHA / Income (profit) from operations",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less selling & distribution and G&A expenses plus other income less other expenses; before finance income/costs and final tax."
+            },
+            "net_profit_attr": {
+                "v": 546.407,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 16.34,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Laba per saham dasar (Rupiah penuh) / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2025-03-21",
+                "note": "Basic EPS on 33,435,294,800 weighted shares (FS2024 Note 23). No dilutive instruments."
+            },
+            "payout_ratio": {
+                "v": 44.98,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-05-22",
+                "loc": "PDF p. 129, Kebijakan Dividen - Pembayaran Dividen table, Rasio Pembayaran Dividen / Dividend Payout Ratio",
+                "basis": "consolidated",
+                "note": "Total cash dividend / profit attributable to owners of the parent, as printed. Single final dividend per year; no interim dividend was paid out of FY2020-FY2024 profit."
+            },
+            "total_assets": {
+                "v": 8732.951,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Statement of financial position - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 4441.894,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 378.119,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Kas dan bank",
+                "basis": "consolidated",
+                "note": "Kas dan bank / Cash on hand and in banks (the line was renamed from \"cash and cash equivalents\" in FS2024; no separate deposits)."
+            },
+            "total_debt": {
+                "v": 0,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Utang bank jangka pendek / jangka panjang lines (current and non-current)",
+                "basis": "consolidated",
+                "note": "Short-term bank loans \"-\" on the statement of financial position (62,792 repaid in 2024). FS2025 Note 9 (PDF p. 57) shows the BCA and Mandiri facilities (Rp1,500,000 juta in total) undrawn at 31 Dec 2025 and 31 Dec 2024. Lease liabilities (PSAK 73) are excluded (230,766 current + 433,233 non-current). No bonds, MTN or sukuk."
+            },
+            "equity_attr": {
+                "v": 4129.252,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 4291.057,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, TOTAL EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 33435294800,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Modal ditempatkan dan disetor penuh (issued and fully paid shares)",
+                "share_basis": "2025-03-21",
+                "note": "Issued = outstanding (no treasury shares). Rp10 nominal after the 1:10 split (6 Mar 2023) and the 4,611,764,800-share rights issue (listed 21 Jul 2023)."
+            },
+            "year_end_price": {
+                "v": 430,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, Ikhtisar Saham / Shares Highlights - quarterly table, Q4 Penutupan / Closing",
+                "share_basis": "2025-04-23",
+                "note": "Closing price in rupiah on the last trading day of the year as printed in the AR share table. Q4-2024 close."
+            },
+            "cfo": {
+                "v": 1597.642,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Kas Neto Diperoleh dari Aktivitas Operasi / Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 651.304,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisitions of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisitions of fixed assets 651,304 (Rp juta), stored positive. Not included: additions to advances for purchase of fixed assets 138,399 (reclassified into fixed assets later, non-cash) and additions to right-of-use assets 370,734."
+            },
+            "roe": {
+                "v": 11.08,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Rasio Keuangan Utama / Key Financial Ratio - Return on Equity",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Ekuitas\"): profit for the year INCLUDING non-controlling interests / year-end total equity."
+            },
+            "roa": {
+                "v": 5.45,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Rasio Keuangan Utama / Key Financial Ratio - Return on Assets",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Aset\"): profit for the year INCLUDING non-controlling interests / year-end total assets."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 20642.155,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Statement of profit or loss - PENDAPATAN NETO / Net revenues",
+                "basis": "consolidated",
+                "note": "Net revenues (merchandise sales net of returns/discounts, plus display rental, promotion and franchise income as presented), Rp juta / 1,000. FY2025 statements are the Company's own (no subsidiary at year end) but include PT Lancar Wiguna Sejahtera (Lawson) consolidated from 1 Jan 2025 to its divestment on 14 May 2025 (FS2025 footnote *)."
+            },
+            "gross_profit": {
+                "v": 5395.501,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1909.7,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, Ikhtisar Keuangan / Financial Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the AR financial highlights (\"Ikhtisar Keuangan\"), Rp juta / 1,000. No definition is printed; the MD&A explains its movement by depreciation and amortisation, i.e. operating profit before depreciation (fixed assets and right-of-use) and amortisation. Not computed here. Includes LWS only to 14 May 2025 (AR2025 MD&A PDF p. 119)."
+            },
+            "operating_profit": {
+                "v": 967.994,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, LABA USAHA / Income (profit) from operations",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less selling & distribution and G&A expenses plus other income less other expenses; before finance income/costs and final tax."
+            },
+            "net_profit_attr": {
+                "v": 792.36,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated",
+                "note": "Profit attributable to owners; no NCI at year end (LWS loss to 14 May 2025 attributed partly to NCI: -19,869)."
+            },
+            "eps": {
+                "v": 23.7,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Laba per saham dasar (Rupiah penuh) / Basic earnings per share",
+                "basis": "consolidated",
+                "share_basis": "2026-03-20",
+                "note": "Basic EPS on 33,435,294,800 shares. No dilutive instruments."
+            },
+            "payout_ratio": {
+                "v": 50,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI%20-%20Mgt%20Presentation%20-%202026%20-%20Q3.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-04",
+                "loc": "PDF p. 26, Trend of Dividend Payout Ratio (9M 2026 management presentation): FY2025 50.00%, Rp11.85/share, Rp396,208 million",
+                "basis": "consolidated",
+                "note": "Final cash dividend Rp396,208,243,380 approved by the AGMS of 4 Jun 2026 = 50.00% of FY2025 profit attributable (792,360). AR2025 predates the AGMS. The deck notes the policy step-up: 25% (2011-2012), 30% (2013-2023), 45% (2024), 50% (2025). Single final dividend; no interim was paid out of FY2025 profit."
+            },
+            "total_assets": {
+                "v": 9129.694,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Statement of financial position - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 4587.801,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 576.196,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Kas dan bank",
+                "basis": "consolidated",
+                "note": "Kas dan bank / Cash on hand and in banks (the line was renamed from \"cash and cash equivalents\" in FS2024; no separate deposits)."
+            },
+            "total_debt": {
+                "v": 0,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Utang bank jangka pendek / jangka panjang lines (current and non-current)",
+                "basis": "consolidated",
+                "note": "No bank-loan line on the statement of financial position. FS2025 Note 9 (PDF p. 57) shows the BCA and Mandiri facilities (Rp1,500,000 juta in total) undrawn at 31 Dec 2025 and 31 Dec 2024. Lease liabilities (PSAK 73) are excluded (109,435 current + 450,856 non-current). No bonds, MTN or sukuk."
+            },
+            "equity_attr": {
+                "v": 4541.893,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Total ekuitas yang dapat diatribusikan kepada pemilik entitas induk (= total equity; no NCI after the LWS divestment)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 4541.893,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, TOTAL EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 33435294800,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Modal ditempatkan dan disetor penuh (issued and fully paid shares)",
+                "share_basis": "2026-03-20",
+                "note": "Issued = outstanding (no treasury shares). Rp10 nominal after the 1:10 split (6 Mar 2023) and the 4,611,764,800-share rights issue (listed 21 Jul 2023)."
+            },
+            "year_end_price": {
+                "v": 390,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Ikhtisar Saham / Shares Highlights - quarterly table, Q4 Penutupan / Closing",
+                "share_basis": "2026-04-28",
+                "note": "Closing price in rupiah on the last trading day of the year as printed in the AR share table. Q4-2025 close."
+            },
+            "cfo": {
+                "v": 1657.238,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Kas Neto Diperoleh dari Aktivitas Operasi / Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 691.143,
+                "source_url": "https://alfamidiku.com/medias/uploads/MIDI_LKTW_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisitions of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisitions of fixed assets 691,143 (Rp juta), stored positive. Not included: additions to advances for purchase of fixed assets 86,873 (reclassified into fixed assets later, non-cash) and additions to right-of-use assets 363,878."
+            },
+            "roe": {
+                "v": 17.01,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, Rasio Keuangan Utama / Key Financial Ratio - Return on Equity",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Ekuitas\"): profit for the year INCLUDING non-controlling interests / year-end total equity."
+            },
+            "roa": {
+                "v": 8.46,
+                "source_url": "https://alfamidiku.com/medias/uploads/AR2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, Rasio Keuangan Utama / Key Financial Ratio - Return on Assets",
+                "basis": "consolidated",
+                "note": "As reported (\"Rasio Laba Tahun Berjalan terhadap Aset\"): profit for the year INCLUDING non-controlling interests / year-end total assets."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 20.85,
+            "total": 60.09706005,
+            "cum_date": "2021-05-18",
+            "ex_date": "2021-05-19",
+            "record_date": "2021-05-20",
+            "pay_date": "2021-06-09",
+            "share_basis": "2021-05-06",
+            "source_url": "https://alfamidiku.com/medias/uploads/MIDI_Resolution%20Summary%20of%20AGMS%2020210506.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-05-06",
+            "loc": "PDF p. 1, Resolutions summary of the AGMS of 6 May 2021, Second Agenda 1.b (amount, DPS, cum/ex regular & negotiation market, recording 20 May 2021, payment)",
+            "note": "Rp20.85 per share on 2,882,353,000 pre-split shares; total Rp60,097,060,050. Cash market cum 20 May / ex 21 May 2021. AR2024 PDF p. 109: payout 30.01%, paid 9 Jun 2021."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 28.65,
+            "total": 82.57941345,
+            "cum_date": "2022-06-06",
+            "ex_date": "2022-06-07",
+            "record_date": "2022-06-08",
+            "pay_date": "2022-06-24",
+            "share_basis": "2022-05-25",
+            "source_url": "https://alfamidiku.com/medias/uploads/MIDI_Resolution%20Summary%20of%20AGMS%2020220525.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-05-25",
+            "loc": "PDF p. 1, Resolutions summary of the AGMS of 25 May 2022, Second Agenda 1.b",
+            "note": "Rp28.65 per share on 2,882,353,000 pre-split shares; total Rp82,579,413,450. Cash market cum 8 Jun / ex 9 Jun 2022. AR2024 PDF p. 109: payout 30.01%."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 4.16,
+            "total": 119.9058848,
+            "cum_date": "2023-05-26",
+            "ex_date": "2023-05-29",
+            "record_date": "2023-05-30",
+            "pay_date": "2023-06-21",
+            "share_basis": "2023-05-17",
+            "source_url": "https://alfamidiku.com/medias/uploads/MIDI_Resolution%20Summary%20of%20AGMS%20MIDI%202023.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-05-17",
+            "loc": "PDF p. 1, Resolutions summary of the AGMS of 17 May 2023, Second Agenda 1.b (maximum Rp119,905,884,800; schedule)",
+            "note": "The summary states only the total (\"maximum Rp119,905,884,800\"); DPS Rp4.16 is from FS2023 Note 16 (PDF p. 85: \"Rp119,906 or Rp4.16 (full amount) per share\") and AR2024 PDF p. 109 (payout 30.06%). Paid on the POST-split share count (28,823,530,000 shares; the split went ex 6 Mar 2023, the rights shares were issued only in Jul 2023): 28,823,530,000 x 4.16 = Rp119,905,884,800. Payment date: AGMS summary and AR2024 say 21 Jun 2023; AR2023 PDF p. 110 says 16 Jun 2023 and AR2025 PDF p. 129 prints both 16 Jun and 23 Jun (typos) - the AGMS date is used."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 4.65,
+            "total": 155.47412082,
+            "cum_date": "2024-05-28",
+            "ex_date": "2024-05-29",
+            "record_date": "2024-05-30",
+            "pay_date": "2024-06-13",
+            "share_basis": "2024-05-16",
+            "source_url": "https://alfamidiku.com/medias/uploads/MIDI_Resolution%20Summary%20of%20AGMS%20MIDI%202024.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-05-16",
+            "loc": "PDF p. 1, Resolutions summary of the AGMS of 16 May 2024, Second Agenda 1.b",
+            "note": "Rp4.65 per share on 33,435,294,800 shares; total Rp155,474,120,820. Cash market cum 30 May / ex 31 May 2024. AR2024 PDF p. 109: payout 30.09%."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 7.35,
+            "total": 245.74941678,
+            "cum_date": "2025-06-03",
+            "ex_date": "2025-06-04",
+            "record_date": "2025-06-05",
+            "pay_date": "2025-06-18",
+            "share_basis": "2025-05-22",
+            "source_url": "https://alfamidiku.com/medias/uploads/MIDI_Resolution%20Summary%20of%20AGMS%20MIDI%202025.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-05-22",
+            "loc": "PDF p. 1, Resolutions summary of the AGMS of 22 May 2025, Second Agenda 1.b",
+            "note": "Rp7.35 per share on 33,435,294,800 shares; total Rp245,749,416,780. Cash market cum 5 Jun / ex 10 Jun 2025. AR2025 PDF p. 129: payout 44.98%."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 11.85,
+            "total": 396.20824338,
+            "cum_date": "2026-06-12",
+            "ex_date": "2026-06-15",
+            "record_date": "2026-06-17",
+            "pay_date": "2026-06-25",
+            "share_basis": "2026-06-04",
+            "source_url": "https://www.alfamidiku.com/medias/uploads/MIDI_Resolution%20Summary%20of%20AGMS%20MIDI%202026.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-06-04",
+            "loc": "PDF p. 1, Resolutions summary of the AGMS of 4 Jun 2026, Second Agenda 1.b",
+            "note": "Rp11.85 per share on 33,435,294,800 shares; total Rp396,208,243,380 (50.00% payout per the 9M 2026 management presentation PDF p. 26). Cash market cum 17 Jun / ex 18 Jun 2026."
+        },
+        {
+            "fy": 2026,
+            "type": "interim",
+            "dps": 3.8,
+            "total": 127.05412024,
+            "cum_date": "2026-11-11",
+            "ex_date": "2026-11-12",
+            "record_date": "2026-11-13",
+            "pay_date": "2026-12-01",
+            "share_basis": "2026-11-03",
+            "source_url": "https://alfamidiku.com/medias/uploads/MIDI%20-%20Pemberitahuan%20Pembagian%20Dividen%20Interim%202026.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-11-03",
+            "loc": "PDF p. 1 (amount, DPS, schedule) and p. 4 (dated Tangerang, 3 November 2026), announcement \"Jadwal dan Tata Cara Pelaksanaan Pembagian Dividen Interim\"",
+            "note": "First interim dividend in the period covered, out of FY2026 profit: Board of Directors decision 27 Oct 2026, approved by the Board of Commissioners 2 Nov 2026. Rp3.8 per share x 33,435,294,800 shares = Rp127,054,120,240. Cash market ex 16 Nov 2026."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 16676.316,
+                "source_url": "https://alfamidiku.com/medias/uploads/2026_Q3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Interim statement of profit or loss - PENDAPATAN NETO (9M 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited 9M2026 financial statements (authorised 27 Oct 2026), Rp juta / 1,000. The Company has had no subsidiary since the LWS divestment (14 May 2025), so these are its own statements, equal to the group. From 2026 the top-up of mobile airtime/data is recognised as fee-based income (net), not revenue (9M26 deck PDF p. 23), which lowers revenue growth."
+            },
+            "revenue_ytd_prior": {
+                "v": 15274.965,
+                "source_url": "https://alfamidiku.com/medias/uploads/2026_Q3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 7, comparative column 9M 2025",
+                "basis": "consolidated",
+                "note": "Same as originally reported in the 9M2025 interim FS (2025_Q3.pdf PDF p. 7). In both interim FS, LWS (Jan-14 May 2025) is NOT consolidated but shown as \"share of loss of subsidiary\" (-46,360), unlike FY2025 annual FS which consolidate its revenue (357,805) to 14 May 2025."
+            },
+            "ebitda_ytd": {
+                "v": null,
+                "note": "Not reported for 9M 2026: the interim FS print no EBITDA and the 9M 2026 management presentation (PDF p. 23) shows EBIT (Rp743 bn) and net income only. Not computed."
+            },
+            "ebitda_ytd_prior": {
+                "v": null,
+                "note": "Not reported for 9M 2025 in the 9M 2026 or 9M 2025 materials (EBIT only). Not computed."
+            },
+            "profit_ytd": {
+                "v": 705.568,
+                "source_url": "https://alfamidiku.com/medias/uploads/2026_Q3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, LABA PERIODE BERJALAN (9M 2026) - all attributable to owners (no NCI)",
+                "basis": "consolidated",
+                "note": "Unaudited 9M2026 financial statements (authorised 27 Oct 2026), Rp juta / 1,000. The Company has had no subsidiary since the LWS divestment (14 May 2025), so these are its own statements, equal to the group."
+            },
+            "profit_ytd_prior": {
+                "v": 590.721,
+                "source_url": "https://alfamidiku.com/medias/uploads/2026_Q3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 7, comparative column 9M 2025; equals \"Pemilik entitas induk\" 590,721 in the 9M2025 interim FS (PDF p. 8)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 4851.253,
+                "source_url": "https://alfamidiku.com/medias/uploads/2026_Q3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, TOTAL EKUITAS (= equity attributable to owners; no NCI)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 33435294800,
+                "source_url": "https://alfamidiku.com/medias/uploads/2026_Q3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Modal ditempatkan dan disetor penuh",
+                "share_basis": "2026-10-27",
+                "note": "Issued = outstanding; no treasury shares."
+            },
+            "total_assets": {
+                "v": 9500.634,
+                "source_url": "https://alfamidiku.com/medias/uploads/2026_Q3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 320.565,
+                "source_url": "https://alfamidiku.com/medias/uploads/2026_Q3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Kas dan bank / Cash on hand and in banks",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 0,
+                "source_url": "https://alfamidiku.com/medias/uploads/2026_Q3.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 44, Note 9 Utang bank - facility table (BCA Rp500,000 + Rp500,000, Mandiri Rp500,000; outstanding \"-\" at 30 Sep 2026 and 31 Dec 2025)",
+                "basis": "consolidated",
+                "note": "No bank loans drawn; no bonds. Lease liabilities (100,753 current + 580,017 non-current, PDF p. 5) excluded."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2023",
+            "reason": "Rights issue I (625:100 at Rp270, ex 6 Jul 2023) added 4,611,764,800 shares listed on 21 Jul 2023, so FY2023 basic EPS 16.73 uses the weighted average of 30,883,030,445 shares (FS2023 Note 24, PDF p. 94: 516,658 / 30,883,030,445 = Rp16.73), not the 33,435,294,800 year-end shares; source https://alfamidiku.com/medias/uploads/MIDI_LKTW_2023.pdf"
+        }
+    ],
+    "research_notes": [
+        "Identity: PT Midi Utama Indonesia Tbk (established 28 Jun 2007 as PT Midimart Utama; IPO 30 Nov 2010, ticker MIDI) operates the Alfamidi minimarkets, Alfamidi Super supermarkets and Midi Fresh fruit stores (2,587 stores at end-2025: 2,333 own + 170 franchised minimarkets, 79 + 1 supermarkets, 4 fruit stores; FS2025 PDF p. 21). Parent PT Sumber Alfaria Trijaya Tbk (AMRT, 77.09%, 25,775,473,000 shares; FS2025 PDF p. 74); ultimate parent PT Perdana Mulia Fajar. No rename found: FS2019-FS2025 and the 9M2026 FS all use the current name.",
+        "Sources: all figures come from the company website alfamidiku.com (Korporasi menu: audited FS \"Laporan Keuangan Tahunan\", AR, quarterly FS, AGMS resolution summaries, disclosures, management presentations), fetched directly with curl (no bot protection). idx.co.id was not needed. No news or aggregator source used for any value.",
+        "Currency/units: IDR reporter; FS in Rp juta (millions), divided by 1,000 to IDR billion. Basis: FY2019-FY2024 are consolidated FS (MIDI + PT Lancar Wiguna Sejahtera, \"LWS\", the Lawson convenience-store franchisee). FY2025 FS are titled \"Laporan Keuangan\" (not consolidated) because LWS was sold on 14 May 2025, but they consolidate LWS from 1 Jan to 14 May 2025 (FS2025 Note 25, PDF p. 86: LWS contributed revenue 357,805, operating loss 64,516, and -46,360 to profit attributable). The 9M2026 FS (and the 9M2025 comparative) are the Company's own statements with LWS (Jan-May 2025) shown as \"share of loss of subsidiary\". basis is set to \"consolidated\" throughout.",
+        "LWS divestment (not a spin-off of MIDI shares): MIDI sold its 70% of LWS to its parent AMRT for Rp200,455 million (affiliated-transaction disclosures of 9 Apr 2025 and 14 May 2025 on alfamidiku.com; deed of sale 14 May 2025). As a common-control transaction the Rp126,123 million difference between the sale price and the LWS carrying amount was charged to additional paid-in capital, not to profit (FS2025 Note 25, PDF p. 86; equity statement PDF p. 18: APIC 1,260,626 -> 1,134,503). FY2024 figures include 12 months of LWS (FY2024 profit attributable 546,407 after a LWS-driven NCI loss of -70,830).",
+        "Restatement: FS2022 changed the attribution of employee benefits to periods of service (DSAK IAI press release of Apr 2022 on PSAK 24 / IFRIC agenda decision IAS 19) and restated 2020-2021 (FS2022 Note 2o, PDF p. 54-56): FY2021 profit attributable 275,217 -> 269,687, equity attributable 1,615,794 -> 1,667,111 (31 Dec 2021) and 1,398,186 -> 1,453,621 (31 Dec 2020), total assets 6,344,016 -> 6,329,539 and 5,923,693 -> 5,911,970. This file keeps FY2019-FY2021 AS ORIGINALLY REPORTED (consistent with the FY2020/FY2021 dividends and payout ratios); each affected datum names the restated value. FY2019 was not restated (FS2022 restates only from 1 Jan 2021). FS2024 also re-presents FY2023 operating cash flow (1,310,502 -> 1,315,327, interest received reclassified).",
+        "Corporate actions 2019-01-01 to 2026-11-04: (1) 1:10 stock split, ex 6 Mar 2023 (nominal Rp100 -> Rp10); (2) rights issue I (PMHMETD I) 625:100 at Rp270, ex 6 Jul 2023, 4,611,764,800 new shares listed 21 Jul 2023. No other split, reverse split, bonus or rights issue: the AR2025 share-listing chronology (PDF p. 81) lists only the 2010 IPO, the 2023 split and the 2023 rights issue. No rights/bonus issue went ex before 2020-12-31, so fy.2019.year_end_price is not stored. Per-share history: FY2020-FY2022 EPS/shares/prices are printed on the pre-split basis (share_basis before 6 Mar 2023); FY2022 dividend (paid Jun 2023) is on the post-split basis.",
+        "Dividends: one final cash dividend per year out of FY2020-FY2025 profit, paid after the AGMS (AR2024 PDF p. 109, AR2025 PDF p. 129 dividend tables; 9M2026 deck PDF p. 26). Payout policy 30% until FY2023, 45% for FY2024, 50% for FY2025. The first interim dividend (Rp3.8/share out of FY2026 profit, ex 12 Nov 2026, paid 1 Dec 2026) was announced on 3 Nov 2026 and is recorded as fy 2026. Dividend totals are the exact rupiah amounts of the AGMS resolutions (FY2022: \"maximum Rp119,905,884,800\"; FS2023 Note 16 shows 119,906 juta).",
+        "EBITDA: taken from each year's own AR highlights (Rp juta); MIDI prints no definition. Reconciliation hint (not stored): FY2025 operating profit 967,994 + fixed-asset depreciation 484,320 (FS2025 PDF p. 53) + right-of-use depreciation 422,437 (PDF p. 69) = 1,874,751 vs reported EBITDA 1,909,700, the rest presumably amortisation of other non-current assets. AR2022 prints a restated 2020 EBITDA of 1,239,279 (ratio 9.79%) that does not match AR2020/AR2021 (1,142,197) or the 2023 deck chart (1,142); the original is stored and the conflict noted. The 9M 2026 materials report EBIT, not EBITDA, so interim EBITDA is null.",
+        "Debt: MIDI's interest-bearing debt was bank loans only (BCA money-market/overdraft, Mandiri working-capital, investment loans); all were repaid in 2023-2024 (62,792 left at end-2023, nil since end-2024; facilities of Rp1.5 tn stay undrawn at 30 Sep 2026). total_debt equals the AR line \"Pinjaman yang dikenakan bunga\" for 2020-2023. Large lease liabilities (store rents, PSAK 73 from 2020) are excluded as the brief requires: 315.7 bn (2020) to 680.8 bn (9M2026).",
+        "Cash flow: capex = \"Perolehan aset tetap\" only. MIDI also pays advances for fixed assets (46.7-138.4 bn a year) that are reclassified into fixed assets later (non-cash), and adds right-of-use assets (prepaid rents, 194.8-370.7 bn); both are listed in each capex note but not added. From FY2024 the cash line is \"Kas dan bank\" (cash on hand and in banks).",
+        "Ratios: roe/roa are as printed in the AR key-ratio tables: profit for the year INCLUDING non-controlling interests divided by YEAR-END total equity / total assets (e.g. FY2025 772,491 / 4,541,893 = 17.01%). They differ from profit-attributable/equity-attributable ratios in FY2023-FY2024 when LWS losses were shared with the 30% NCI.",
+        "Year-end prices: Q4 closes from each AR's quarterly share table (AR2020 PDF p. 7, AR2021 p. 8, AR2022 p. 7, AR2023 p. 9, AR2024 p. 10, AR2025 p. 12). The ARs do not print the exact last trading date; as_of_date is set to 31 Dec. AR2022/AR2023 print a Q4-2022 HIGH of 4,890 (Q3 high 2,900, close 2,970) - looks like a spike or typo, not used. AR publication dates (share_basis) are the PDF metadata dates; the ARs carry no printed release date.",
+        "Store count / sales mix are not stored. 2026: the 9M 2026 deck (PDF p. 23) reports SSSG +4.2% (Alfamidi, 9M) and notes that from 2026 mobile airtime/data top-ups are booked as fee income, depressing reported revenue growth (+9.2% YoY for 9M)."
+    ]
+}

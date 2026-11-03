@@ -208,6 +208,73 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "consumer",
+            "name": {
+                "id": "Barang Konsumen Primer",
+                "en": "Consumer Staples"
+            },
+            "tickers": [
+                "ICBP",
+                "INDF",
+                "MYOR",
+                "UNVR",
+                "CMRY",
+                "ULTJ",
+                "AMRT",
+                "MIDI",
+                "CPIN",
+                "JPFA"
+            ],
+            "groups": [
+                {
+                    "id": "food",
+                    "name": {
+                        "id": "Makanan kemasan",
+                        "en": "Packaged food"
+                    },
+                    "tickers": [
+                        "ICBP",
+                        "INDF",
+                        "MYOR"
+                    ]
+                },
+                {
+                    "id": "household_dairy",
+                    "name": {
+                        "id": "Rumah tangga & susu",
+                        "en": "Household & dairy"
+                    },
+                    "tickers": [
+                        "UNVR",
+                        "CMRY",
+                        "ULTJ"
+                    ]
+                },
+                {
+                    "id": "retail",
+                    "name": {
+                        "id": "Ritel kebutuhan pokok",
+                        "en": "Grocery retail"
+                    },
+                    "tickers": [
+                        "AMRT",
+                        "MIDI"
+                    ]
+                },
+                {
+                    "id": "poultry",
+                    "name": {
+                        "id": "Unggas & protein",
+                        "en": "Poultry & protein"
+                    },
+                    "tickers": [
+                        "CPIN",
+                        "JPFA"
+                    ]
+                }
+            ]
         }
     ]
 }

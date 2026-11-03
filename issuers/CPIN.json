@@ -1,0 +1,1152 @@
+{
+    "schema": 1,
+    "code": "CPIN",
+    "name": "PT Charoen Pokphand Indonesia Tbk",
+    "name_short": "Charoen Pokphand Indonesia",
+    "sector": "consumer",
+    "subsector": "poultry",
+    "exchange": "IDX",
+    "currency": "IDR",
+    "website": "https://cp.co.id",
+    "ir_url": "https://cp.co.id/en/?p=72",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 42501.146,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2020 PDF p. 8, Penjualan neto, 2019 column (as restated)",
+                "basis": "consolidated",
+                "note": "As restated for the full-retrospective adoption of PSAK 72 (partnership transactions with contract broiler farmers, FS2020 Note 2b and Note 43 PDF p. 154). FS2019 as originally published (https://cp.co.id/wp-content/uploads/2020/04/CPIN-191231IE.pdf, PDF p. 8) showed 58,634,502 Rp juta; the restatement removes 16,133,356. The restated figure is stored so that FY2020 growth is like-for-like."
+            },
+            "net_profit_attr": {
+                "v": 3644.672,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2020 PDF p. 9, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk, 2019 column (as restated)",
+                "basis": "consolidated",
+                "note": "FY2019 comparative 'Disajikan Kembali - Catatan 43 / As Restated - Note 43' in the audited FS2020; originally 3,634,620 Rp juta (FS2019 PDF p. 9), restatement +10,052 (Note 43 PDF p. 154)."
+            },
+            "total_assets": {
+                "v": 29109.408,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2020 PDF p. 6, Total Aset, 31 Desember 2019 column (as restated)",
+                "basis": "consolidated",
+                "note": "FY2019 comparative 'Disajikan Kembali - Catatan 43 / As Restated - Note 43' in the audited FS2020; originally 29,353,041 Rp juta (FS2019 PDF p. 6), restatement -243,633 (Note 43 PDF p. 153)."
+            },
+            "cash": {
+                "v": 1961.373,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2020 PDF p. 6, Kas dan setara kas, 31 Desember 2019 column",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents (cash on hand, cash in banks, time deposits <= 3 months, not restricted); unchanged by the restatement (FS2019 PDF p. 6 shows the same 1,961,373)."
+            },
+            "total_debt": {
+                "v": 5048.038,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2020 PDF p. 7, Utang bank jangka pendek + Utang bank jangka panjang, 31 Desember 2019 column",
+                "basis": "consolidated",
+                "note": "Bank loans only: short-term bank loans 2,770,000 + long-term bank loans 2,278,038 (Rp juta; no current-maturity line, the whole syndicated loan is presented as non-current). No bonds/MTN. Pre-PSAK 73: no lease liabilities. Unchanged by the restatement (FS2019 PDF p. 7)."
+            },
+            "equity_attr": {
+                "v": 20882.907,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2020 PDF p. 7, Ekuitas yang Dapat Diatribusikan kepada Pemilik Entitas Induk, 31 Desember 2019 column (as restated)",
+                "basis": "consolidated",
+                "note": "FY2019 comparative 'Disajikan Kembali - Catatan 43 / As Restated - Note 43' in the audited FS2020; originally 21,058,649 Rp juta (FS2019 PDF p. 7), retained earnings restated -175,742 (Note 43 PDF p. 153)."
+            },
+            "total_equity": {
+                "v": 20895.858,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "FS2020 PDF p. 7, Total Ekuitas, 31 Desember 2019 column (as restated)",
+                "basis": "consolidated",
+                "note": "FY2019 comparative 'Disajikan Kembali - Catatan 43 / As Restated - Note 43' in the audited FS2020; originally 21,071,600 Rp juta (FS2019 PDF p. 7)."
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 42518.782,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laporan laba rugi - Penjualan neto / Net sales",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (feed, day-old chicks, broilers, processed food and others), Rp juta / 1,000. First year under PSAK 72 (FY2019 comparative restated, see fy.2019.revenue)."
+            },
+            "gross_profit": {
+                "v": 8254.983,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laba bruto / Gross profit",
+                "basis": "consolidated",
+                "note": "Net sales less cost of goods sold, before the fair-value change of biological assets, as printed."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "CPIN does not report EBITDA: it is not in the AR2020-AR2025 financial highlights (Ikhtisar Data Keuangan Penting) or MD&A, the company publishes no results releases or analyst presentations on cp.co.id, and the term appears only in bank-loan covenant descriptions (e.g. AR2025 PDF p. 156 'Rasio EBITDA terhadap beban bunga minimal 2'). Not computed."
+            },
+            "operating_profit": {
+                "v": 5137.882,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit +/- fair-value change of biological assets - selling, G&A + other operating income - other operating expenses; before finance costs, FX gain/loss and finance income."
+            },
+            "net_profit_attr": {
+                "v": 3842.083,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 234,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Laba per saham dasar yang dapat diatribusikan kepada pemilik entitas induk (Rupiah penuh); PDF p. 121 EPS note",
+                "basis": "consolidated",
+                "share_basis": "2021-05-28",
+                "note": "Basic EPS as printed (weighted-average 16,398,000,000 shares; no treasury shares, no dilutive instruments)."
+            },
+            "payout_ratio": {
+                "v": 47.8,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/07/Web-CPIN-Ringkasan-Risalah-RUPST-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-07-26",
+                "loc": "PDF p. 2, Mata Acara Kedua Rapat: dividen tunai Rp112 per saham 'atau 47,80% dari laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk untuk tahun buku 2020' (Rp1,836,576,000,000)",
+                "basis": "consolidated",
+                "note": "Share of FY profit attributable to owners of the parent paid as the single final cash dividend; no interim dividend for this year."
+            },
+            "total_assets": {
+                "v": 31159.291,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan - Total Aset",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 7809.608,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Total Liabilitas",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 2677.813,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as on the balance sheet (cash, bank, time deposits <= 3 months, not restricted)."
+            },
+            "total_debt": {
+                "v": 4098.132,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Utang bank jangka pendek (current) + Utang bank jangka panjang (non-current)",
+                "basis": "consolidated",
+                "note": "Bank loans only: Utang bank jangka pendek 2,770,000 + Utang bank jangka panjang 1,328,132 (Rp juta); the syndicated long-term loans (Note 18, carried net of unamortised transaction costs) have no current-maturity line (presented wholly non-current). Lease liabilities (72,209 + 284,155) excluded. No bonds, MTN or sukuk; due to related parties (royalty payables) excluded."
+            },
+            "equity_attr": {
+                "v": 23333.031,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Ekuitas yang Dapat Diatribusikan kepada Pemilik Entitas Induk (sub-total)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 23349.683,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 16398000000,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Modal ditempatkan dan disetor penuh - 16.398.000.000 saham; PDF p. 105, Note 20 Modal saham",
+                "share_basis": "2021-05-28",
+                "note": "Issued and fully paid 16,398,000,000 shares (Rp10 par); no treasury shares. Unchanged since the 2010 share redemption."
+            },
+            "year_end_price": {
+                "v": 6525,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/06/Annual-Report-CPIN-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4, Informasi Saham / Stock Information - Harga Saham Penutupan, Kuartal IV 2020",
+                "share_basis": "2021-06-29",
+                "note": "Q4 2020 closing price as printed in the AR share table (market cap Rp106.996.950.000.000 = 6,525 x 16,398,000,000 shares). No split or bonus issue since 2010, so no restatement."
+            },
+            "cfo": {
+                "v": 4845.575,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Kas Neto yang Diperoleh dari Aktivitas Operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 1798.829,
+                "source_url": "https://cp.co.id/wp-content/uploads/2021/05/CPIN-201231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisition of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisition of fixed assets 1,798,829 (Rp juta), positive. Not included: advances for purchase of fixed assets (13,365) and additions to right-of-use assets (leases). Breeder flocks (biological assets) are not shown as an investing outflow; their cost runs through operating cash flow."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 51698.249,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laporan laba rugi - Penjualan neto / Net sales",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (feed, day-old chicks, broilers, processed food and others), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 8138.825,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laba bruto / Gross profit",
+                "basis": "consolidated",
+                "note": "Net sales less cost of goods sold, before the fair-value change of biological assets, as printed."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "CPIN does not report EBITDA: it is not in the AR2020-AR2025 financial highlights (Ikhtisar Data Keuangan Penting) or MD&A, the company publishes no results releases or analyst presentations on cp.co.id, and the term appears only in bank-loan covenant descriptions (e.g. AR2025 PDF p. 156 'Rasio EBITDA terhadap beban bunga minimal 2'). Not computed."
+            },
+            "operating_profit": {
+                "v": 4934.364,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit +/- fair-value change of biological assets - selling, G&A + other operating income - other operating expenses; before finance costs, FX gain/loss and finance income."
+            },
+            "net_profit_attr": {
+                "v": 3620.961,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 221,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Laba per saham dasar yang dapat diatribusikan kepada pemilik entitas induk (Rupiah penuh); PDF p. 115 EPS note",
+                "basis": "consolidated",
+                "share_basis": "2022-04-08",
+                "note": "Basic EPS as printed (weighted-average 16,398,000,000 shares; no treasury shares, no dilutive instruments)."
+            },
+            "payout_ratio": {
+                "v": 48.91,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/05/Web-CPIN-Ringkasan-Risalah-RUPST-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-05-23",
+                "loc": "PDF p. 2, Mata Acara Kedua Rapat: dividen tunai Rp108 per saham 'atau 48,91% dari laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk untuk tahun buku 2021' (Rp1,770,984,000,000)",
+                "basis": "consolidated",
+                "note": "Share of FY profit attributable to owners of the parent paid as the single final cash dividend; no interim dividend for this year."
+            },
+            "total_assets": {
+                "v": 35446.051,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan - Total Aset",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 10296.052,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Total Liabilitas",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1803.188,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as on the balance sheet (cash, bank, time deposits <= 3 months, not restricted). The cash-flow statement's year-end cash (1,666.307 bn) is net of a 136,881 Rp juta JP Morgan Chase overdraft that the balance sheet presents inside short-term bank loans."
+            },
+            "total_debt": {
+                "v": 5944.517,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Utang bank jangka pendek (current) + Utang bank jangka panjang (non-current)",
+                "basis": "consolidated",
+                "note": "Bank loans only: Utang bank jangka pendek 4,586,881 + Utang bank jangka panjang 1,357,636 (Rp juta); the syndicated long-term loans (Note 18, carried net of unamortised transaction costs) have no current-maturity line (presented wholly non-current). Lease liabilities (58,997 + 278,931) excluded. No bonds, MTN or sukuk; due to related parties (royalty payables) excluded. Short-term bank loans include a 136,881 Rp juta JP Morgan Chase overdraft (Note 14)."
+            },
+            "equity_attr": {
+                "v": 25135.288,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Ekuitas yang Dapat Diatribusikan kepada Pemilik Entitas Induk (sub-total)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 25149.999,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 16398000000,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Modal ditempatkan dan disetor penuh - 16.398.000.000 saham; PDF p. 98, Note 20 Modal saham",
+                "share_basis": "2022-04-08",
+                "note": "Issued and fully paid 16,398,000,000 shares (Rp10 par); no treasury shares. Unchanged since the 2010 share redemption."
+            },
+            "year_end_price": {
+                "v": 5950,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/Annual-Report-CPIN-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 4, Informasi Saham / Stock Information - Harga Saham Penutupan, Kuartal IV 2021",
+                "share_basis": "2022-04-27",
+                "note": "Q4 2021 closing price as printed in the AR share table (market cap Rp97.568.100.000.000 = 5,950 x 16,398,000,000 shares). No split or bonus issue since 2010, so no restatement."
+            },
+            "cfo": {
+                "v": 2121.905,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, Kas Neto yang Diperoleh dari Aktivitas Operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 2751.874,
+                "source_url": "https://cp.co.id/wp-content/uploads/2022/04/CPIN-211231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisition of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisition of fixed assets 2,751,874 (Rp juta), positive. Not included: advances for purchase of fixed assets (55,426) and additions to right-of-use assets (leases). Breeder flocks (biological assets) are not shown as an investing outflow; their cost runs through operating cash flow."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 56867.544,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Laporan laba rugi - Penjualan neto / Net sales",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (feed, day-old chicks, broilers, processed food and others), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 8144.04,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Laba bruto / Gross profit",
+                "basis": "consolidated",
+                "note": "Net sales less cost of goods sold, before the fair-value change of biological assets, as printed."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "CPIN does not report EBITDA: it is not in the AR2020-AR2025 financial highlights (Ikhtisar Data Keuangan Penting) or MD&A, the company publishes no results releases or analyst presentations on cp.co.id, and the term appears only in bank-loan covenant descriptions (e.g. AR2025 PDF p. 156 'Rasio EBITDA terhadap beban bunga minimal 2'). Not computed."
+            },
+            "operating_profit": {
+                "v": 3984.4,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit +/- fair-value change of biological assets - selling, G&A + other operating income - other operating expenses; before finance costs, FX gain/loss and finance income."
+            },
+            "net_profit_attr": {
+                "v": 2928.342,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 179,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Laba per saham dasar yang dapat diatribusikan kepada pemilik entitas induk (Rupiah penuh); PDF p. 118 EPS note",
+                "basis": "consolidated",
+                "share_basis": "2023-03-30",
+                "note": "Basic EPS as printed (weighted-average 16,398,000,000 shares; no treasury shares, no dilutive instruments)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/05/Web-CPIN-Ringkasan-Risalah-RUPST-2023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-05-22",
+                "loc": "PDF p. 2, Mata Acara Kedua Rapat: 'Menyetujui penggunaan laba bersih Perseroan untuk tahun buku 2022 untuk dimasukkan seluruhnya sebagai laba ditahan. Dengan demikian, untuk tahun buku 2022, Perseroan tidak membagikan dividen.'",
+                "basis": "consolidated",
+                "note": "No dividend for FY2022: the whole FY2022 profit was retained (AGMS 22 May 2023). FY2022 has no dividend record."
+            },
+            "total_assets": {
+                "v": 39847.545,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Laporan posisi keuangan - Total Aset",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 13520.331,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Total Liabilitas",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 2041.946,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as on the balance sheet (cash, bank, time deposits <= 3 months, not restricted). The cash-flow statement's year-end cash (1,692.730 bn) is net of a 349,216 Rp juta JP Morgan Chase overdraft that the balance sheet presents inside short-term bank loans."
+            },
+            "total_debt": {
+                "v": 8961.131,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Utang bank jangka pendek (current) + Utang bank jangka panjang (non-current)",
+                "basis": "consolidated",
+                "note": "Bank loans only: Utang bank jangka pendek 6,649,216 + Utang bank jangka panjang 2,311,915 (Rp juta); the syndicated long-term loans (Note 18, carried net of unamortised transaction costs) have no current-maturity line (presented wholly non-current). Lease liabilities (83,094 + 299,025) excluded. No bonds, MTN or sukuk; due to related parties (royalty payables) excluded. Short-term bank loans include a 349,216 Rp juta JP Morgan Chase overdraft (Note 14)."
+            },
+            "equity_attr": {
+                "v": 26310.473,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Ekuitas yang Dapat Diatribusikan kepada Pemilik Entitas Induk (sub-total)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 26327.214,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 16398000000,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Modal ditempatkan dan disetor penuh - 16.398.000.000 saham; PDF p. 102, Note 20 Modal saham",
+                "share_basis": "2023-03-30",
+                "note": "Issued and fully paid 16,398,000,000 shares (Rp10 par); no treasury shares. Unchanged since the 2010 share redemption."
+            },
+            "year_end_price": {
+                "v": 5650,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/05/Annual-Report-CPIN-2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5, Informasi Saham / Stock Information - Harga Saham Penutupan, Kuartal IV 2022",
+                "share_basis": "2023-05-19",
+                "note": "Q4 2022 closing price as printed in the AR share table (market cap Rp92.648.700.000.000 = 5,650 x 16,398,000,000 shares). No split or bonus issue since 2010, so no restatement."
+            },
+            "cfo": {
+                "v": 1673.887,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Kas Neto yang Diperoleh dari Aktivitas Operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 2530.464,
+                "source_url": "https://cp.co.id/wp-content/uploads/2023/03/CPIN-221231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisition of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisition of fixed assets 2,530,464 (Rp juta), positive. Not included: advances for purchase of fixed assets (5,635) and additions to right-of-use assets (leases). Breeder flocks (biological assets) are not shown as an investing outflow; their cost runs through operating cash flow."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 61615.85,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Laporan laba rugi - Penjualan neto / Net sales",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (feed, day-old chicks, broilers, processed food and others), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 8274.512,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Laba bruto / Gross profit",
+                "basis": "consolidated",
+                "note": "Net sales less cost of goods sold, before the fair-value change of biological assets, as printed."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "CPIN does not report EBITDA: it is not in the AR2020-AR2025 financial highlights (Ikhtisar Data Keuangan Penting) or MD&A, the company publishes no results releases or analyst presentations on cp.co.id, and the term appears only in bank-loan covenant descriptions (e.g. AR2025 PDF p. 156 'Rasio EBITDA terhadap beban bunga minimal 2'). Not computed."
+            },
+            "operating_profit": {
+                "v": 3654.606,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit +/- fair-value change of biological assets - selling, G&A + other operating income - other operating expenses; before finance costs, FX gain/loss and finance income."
+            },
+            "net_profit_attr": {
+                "v": 2318.584,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 141,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Laba per saham dasar yang dapat diatribusikan kepada pemilik entitas induk (Rupiah penuh); PDF p. 110 EPS note",
+                "basis": "consolidated",
+                "share_basis": "2024-03-25",
+                "note": "Basic EPS as printed (weighted-average 16,398,000,000 shares; no treasury shares, no dilutive instruments)."
+            },
+            "payout_ratio": {
+                "v": 91.94,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/05/Web-CPIN-Ringkasan-Risalah-RUPST-2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-05-21",
+                "loc": "PDF p. 2, Mata Acara Kedua Rapat: dividen tunai Rp130 per saham 'atau 91,94% dari laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk untuk tahun buku 2023' (Rp2,131,740,000,000 = interim Rp100 paid 29 Nov 2023 + final Rp30)",
+                "basis": "consolidated",
+                "note": "Total FY2023 dividend (interim + final) as a share of FY2023 profit attributable to owners of the parent."
+            },
+            "total_assets": {
+                "v": 40970.8,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Laporan posisi keuangan - Total Aset",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 13942.042,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Total Liabilitas",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 2328.025,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as on the balance sheet (cash, bank, time deposits <= 3 months, not restricted). The cash-flow statement's year-end cash (2,235.177 bn) is net of a 92,848 Rp juta JP Morgan Chase overdraft that the balance sheet presents inside short-term bank loans."
+            },
+            "total_debt": {
+                "v": 9233.381,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Utang bank jangka pendek (current) + Utang bank jangka panjang (non-current)",
+                "basis": "consolidated",
+                "note": "Bank loans only: Utang bank jangka pendek 7,392,848 + Utang bank jangka panjang 1,840,533 (Rp juta); the syndicated long-term loans (Note 18, carried net of unamortised transaction costs) have no current-maturity line (presented wholly non-current). Lease liabilities (90,789 + 252,850) excluded. No bonds, MTN or sukuk; due to related parties (royalty payables) excluded. Short-term bank loans include a 92,848 Rp juta JP Morgan Chase overdraft (Note 14)."
+            },
+            "equity_attr": {
+                "v": 27012.497,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Ekuitas yang Dapat Diatribusikan kepada Pemilik Entitas Induk (sub-total)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 27028.758,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 16398000000,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Modal ditempatkan dan disetor penuh - 16.398.000.000 saham; PDF p. 96, Note 20 Modal saham",
+                "share_basis": "2024-03-25",
+                "note": "Issued and fully paid 16,398,000,000 shares (Rp10 par); no treasury shares. Unchanged since the 2010 share redemption."
+            },
+            "year_end_price": {
+                "v": 5025,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/04/Annual-Report-CPIN-2023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 4, Informasi Saham / Stock Information - Harga Saham Penutupan, Kuartal IV 2023",
+                "share_basis": "2024-04-26",
+                "note": "Q4 2023 closing price as printed in the AR share table (market cap Rp82.399.950.000.000 = 5,025 x 16,398,000,000 shares). No split or bonus issue since 2010, so no restatement."
+            },
+            "cfo": {
+                "v": 3146.254,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Kas Neto yang Diperoleh dari Aktivitas Operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 1293.755,
+                "source_url": "https://cp.co.id/wp-content/uploads/2024/03/CPIN-231231IE-compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisition of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisition of fixed assets 1,293,755 (Rp juta), positive. Not included: advances for purchase of fixed assets (26,822) and additions to right-of-use assets (leases). Breeder flocks (biological assets) are not shown as an investing outflow; their cost runs through operating cash flow."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 67477.992,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Laporan laba rugi - Penjualan neto / Net sales",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (feed, day-old chicks, broilers, processed food and others), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 10420.157,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Laba bruto / Gross profit",
+                "basis": "consolidated",
+                "note": "Net sales less cost of goods sold, before the fair-value change of biological assets, as printed."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "CPIN does not report EBITDA: it is not in the AR2020-AR2025 financial highlights (Ikhtisar Data Keuangan Penting) or MD&A, the company publishes no results releases or analyst presentations on cp.co.id, and the term appears only in bank-loan covenant descriptions (e.g. AR2025 PDF p. 156 'Rasio EBITDA terhadap beban bunga minimal 2'). Not computed."
+            },
+            "operating_profit": {
+                "v": 5987.419,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit +/- fair-value change of biological assets - selling, G&A + other operating income - other operating expenses; before finance costs, FX gain/loss and finance income."
+            },
+            "net_profit_attr": {
+                "v": 3712.926,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 226,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Laba per saham dasar yang dapat diatribusikan kepada pemilik entitas induk (Rupiah penuh); PDF p. 107 EPS note",
+                "basis": "consolidated",
+                "share_basis": "2025-03-18",
+                "note": "Basic EPS as printed (weighted-average 16,398,000,000 shares; no treasury shares, no dilutive instruments)."
+            },
+            "payout_ratio": {
+                "v": 47.7,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/05/Web-CPIN-Ringkasan-Risalah-RUPST-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-05-21",
+                "loc": "PDF p. 2, Mata Acara Kedua Rapat: dividen tunai Rp108 per saham 'atau 47,70% dari laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk untuk tahun buku 2024' (Rp1,770,984,000,000)",
+                "basis": "consolidated",
+                "note": "Share of FY profit attributable to owners of the parent paid as the single final cash dividend; no interim dividend for this year."
+            },
+            "total_assets": {
+                "v": 42791,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Laporan posisi keuangan - Total Aset",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 12502.078,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Total Liabilitas",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4446.488,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as on the balance sheet (cash, bank, time deposits <= 3 months, not restricted)."
+            },
+            "total_debt": {
+                "v": 8193.736,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Utang bank jangka pendek (current) + Utang bank jangka panjang (non-current)",
+                "basis": "consolidated",
+                "note": "Bank loans only: Utang bank jangka pendek 5,400,000 + Utang bank jangka panjang 2,793,736 (Rp juta); the syndicated long-term loans (Note 18, carried net of unamortised transaction costs) have no current-maturity line (presented wholly non-current). Lease liabilities (38,143 + 301,384) excluded. No bonds, MTN or sukuk; due to related parties (royalty payables) excluded."
+            },
+            "equity_attr": {
+                "v": 30273.959,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Ekuitas yang Dapat Diatribusikan kepada Pemilik Entitas Induk (sub-total)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 30288.922,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 16398000000,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Modal ditempatkan dan disetor penuh - 16.398.000.000 saham; PDF p. 91, Note 20 Modal saham",
+                "share_basis": "2025-03-18",
+                "note": "Issued and fully paid 16,398,000,000 shares (Rp10 par); no treasury shares. Unchanged since the 2010 share redemption."
+            },
+            "year_end_price": {
+                "v": 4760,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/04/Annual-Report-CPIN-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 4, Informasi Saham / Stock Information - Harga Saham Penutupan, Kuartal IV 2024",
+                "share_basis": "2025-05-02",
+                "note": "Q4 2024 closing price as printed in the AR share table (market cap Rp78.054.480.000.000 = 4,760 x 16,398,000,000 shares). No split or bonus issue since 2010, so no restatement."
+            },
+            "cfo": {
+                "v": 4305.814,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Kas Neto yang Diperoleh dari Aktivitas Operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 761.972,
+                "source_url": "https://cp.co.id/wp-content/uploads/2025/03/CPIN-241231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisition of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisition of fixed assets 761,972 (Rp juta), positive. Not included: advances for purchase of fixed assets (12,570) and additions to right-of-use assets (leases). Breeder flocks (biological assets) are not shown as an investing outflow; their cost runs through operating cash flow."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 70704.988,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Laporan laba rugi - Penjualan neto / Net sales",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (feed, day-old chicks, broilers, processed food and others), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 12420.457,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Laba bruto / Gross profit",
+                "basis": "consolidated",
+                "note": "Net sales less cost of goods sold, before the fair-value change of biological assets, as printed."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "CPIN does not report EBITDA: it is not in the AR2020-AR2025 financial highlights (Ikhtisar Data Keuangan Penting) or MD&A, the company publishes no results releases or analyst presentations on cp.co.id, and the term appears only in bank-loan covenant descriptions (e.g. AR2025 PDF p. 156 'Rasio EBITDA terhadap beban bunga minimal 2'). Not computed."
+            },
+            "operating_profit": {
+                "v": 8133.111,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit +/- fair-value change of biological assets - selling, G&A + other operating income - other operating expenses; before finance costs, FX gain/loss and finance income."
+            },
+            "net_profit_attr": {
+                "v": 5643.863,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 344,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Laba per saham dasar yang dapat diatribusikan kepada pemilik entitas induk (Rupiah penuh); PDF p. 101 EPS note",
+                "basis": "consolidated",
+                "share_basis": "2026-03-16",
+                "note": "Basic EPS as printed (weighted-average 16,398,000,000 shares; no treasury shares, no dilutive instruments)."
+            },
+            "payout_ratio": {
+                "v": 52.3,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/05/Web-CPIN-Ringkasan-Risalah-RUPST-2026.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-05-20",
+                "loc": "PDF p. 2, Mata Acara Kedua Rapat: dividen tunai Rp180 per saham 'atau 52,30% dari laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk untuk tahun buku 2025' (Rp2,951,640,000,000)",
+                "basis": "consolidated",
+                "note": "Share of FY profit attributable to owners of the parent paid as the single final cash dividend; no interim dividend for this year."
+            },
+            "total_assets": {
+                "v": 45857.963,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Laporan posisi keuangan - Total Aset",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 11706.869,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Total Liabilitas",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4460.703,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as on the balance sheet (cash, bank, time deposits <= 3 months, not restricted)."
+            },
+            "total_debt": {
+                "v": 6304.115,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Utang bank jangka pendek (current) + Utang bank jangka panjang (non-current)",
+                "basis": "consolidated",
+                "note": "Bank loans only: Utang bank jangka pendek 3,480,000 + Utang bank jangka panjang 2,824,115 (Rp juta); the syndicated long-term loans (Note 18, carried net of unamortised transaction costs) have no current-maturity line (presented wholly non-current). Lease liabilities (96,499 + 261,527) excluded. No bonds, MTN or sukuk; due to related parties (royalty payables) excluded. The 9M2026 interim FS (Note 42) reclassified 450,000 of the 31 Dec 2025 short-term loans to long-term (3,030,000 + 3,274,115); the total is unchanged."
+            },
+            "equity_attr": {
+                "v": 34136.37,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Ekuitas yang Dapat Diatribusikan kepada Pemilik Entitas Induk (sub-total)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 34151.094,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 16398000000,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Modal ditempatkan dan disetor penuh - 16.398.000.000 saham; PDF p. 86, Note 20 Modal saham",
+                "share_basis": "2026-03-16",
+                "note": "Issued and fully paid 16,398,000,000 shares (Rp10 par); no treasury shares. Unchanged since the 2010 share redemption."
+            },
+            "year_end_price": {
+                "v": 4510,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/04/Annual-Report-CPIN-2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 4, Informasi Saham / Stock Information - Harga Saham Penutupan, Kuartal IV 2025",
+                "share_basis": "2026-04-28",
+                "note": "Q4 2025 closing price as printed in the AR share table (market cap Rp73.954.980.000.000 = 4,510 x 16,398,000,000 shares). No split or bonus issue since 2010, so no restatement."
+            },
+            "cfo": {
+                "v": 5773.901,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Kas Neto yang Diperoleh dari Aktivitas Operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 1704.081,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/03/CPIN-251231IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Arus kas dari aktivitas investasi - Perolehan aset tetap / Acquisition of fixed assets",
+                "basis": "consolidated",
+                "note": "Acquisition of fixed assets 1,704,081 (Rp juta), positive. Not included: advances for purchase of fixed assets (26,995) and additions to right-of-use assets (leases). Breeder flocks (biological assets) are not shown as an investing outflow; their cost runs through operating cash flow."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 112,
+            "total": 1836.576,
+            "cum_date": "2021-08-03",
+            "ex_date": "2021-08-04",
+            "record_date": "2021-08-05",
+            "pay_date": "2021-08-13",
+            "share_basis": "2021-07-26",
+            "source_url": "https://cp.co.id/wp-content/uploads/2021/07/Web-CPIN-Jadwal-Dividen-2021.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-07-26",
+            "loc": "PDF p. 1, Jadwal Pembagian Dividen Tunai: cum (regular & negotiated) 3 Aug 2021, ex 4 Aug 2021 (cash market 5/6 Aug), recording 5 Aug 2021, payment 13 Aug 2021",
+            "note": "Rupiah per share as declared (IDR reporter). AGMS 26 Jul 2021 (summary: https://cp.co.id/wp-content/uploads/2021/07/Web-CPIN-Ringkasan-Risalah-RUPST-2021.pdf): Rp112 per share on 16,398,000,000 shares = Rp1,836,576,000,000 (47.80% of FY2020 profit attributable). Notice dated 27 Jul 2021. Cross-check: dividend history table on https://cp.co.id/?p=80 lists the same DPS, total and payment date."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 108,
+            "total": 1770.984,
+            "cum_date": "2022-06-02",
+            "ex_date": "2022-06-03",
+            "record_date": "2022-06-06",
+            "pay_date": "2022-06-14",
+            "share_basis": "2022-05-23",
+            "source_url": "https://cp.co.id/wp-content/uploads/2022/05/Web-CPIN-Jadwal-Dividen-2021.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-05-23",
+            "loc": "PDF p. 1, Jadwal Pembagian Dividen Tunai: cum (regular & negotiated) 2 Jun 2022, ex 3 Jun 2022 (cash market 6/7 Jun), recording 6 Jun 2022, payment 14 Jun 2022",
+            "note": "Rupiah per share as declared (IDR reporter). AGMS 23 May 2022 (summary: https://cp.co.id/wp-content/uploads/2022/05/Web-CPIN-Ringkasan-Risalah-RUPST-2022.pdf): Rp108 per share = Rp1,770,984,000,000 (48.91% of FY2021 profit attributable). Notice dated 25 May 2022 (file name says 2021). Cross-check: dividend history table on https://cp.co.id/?p=80 lists the same DPS, total and payment date."
+        },
+        {
+            "fy": 2023,
+            "type": "interim",
+            "dps": 100,
+            "total": 1639.8,
+            "cum_date": "2023-11-16",
+            "ex_date": "2023-11-17",
+            "record_date": "2023-11-20",
+            "pay_date": "2023-11-29",
+            "share_basis": "2023-11-08",
+            "source_url": "https://cp.co.id/wp-content/uploads/2023/11/Web-CPIN-Jadwal-Dividen-Interim-2023.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-11-08",
+            "loc": "PDF p. 1, Jadwal Pembagian Dividen Interim: cum (regular & negotiated) 16 Nov 2023, ex 17 Nov 2023 (cash market 20/21 Nov), recording 20 Nov 2023, payment 29 Nov 2023",
+            "note": "Rupiah per share as declared (IDR reporter). Interim dividend out of FY2023 profit approved by circular resolutions of the Board of Directors (3 Nov 2023) and Board of Commissioners (6 Nov 2023): Rp100 per share = Rp1,639,800,000,000. Notice dated 8 Nov 2023. Cross-check: dividend history table on https://cp.co.id/?p=80 lists the same DPS, total and payment date."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 30,
+            "total": 491.94,
+            "cum_date": "2024-05-31",
+            "ex_date": "2024-06-03",
+            "record_date": "2024-06-04",
+            "pay_date": "2024-06-13",
+            "share_basis": "2024-05-21",
+            "source_url": "https://cp.co.id/wp-content/uploads/2024/05/Web-CPIN-Jadwal-Dividen-Final-2024.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-05-21",
+            "loc": "PDF p. 1, Jadwal Pembagian Dividen Final: cum (regular & negotiated) 31 May 2024, ex 3 Jun 2024 (cash market 4/5 Jun), recording 4 Jun 2024, payment 13 Jun 2024",
+            "note": "Rupiah per share as declared (IDR reporter). AGMS 21 May 2024 (summary: https://cp.co.id/wp-content/uploads/2024/05/Web-CPIN-Ringkasan-Risalah-RUPST-2024.pdf): total FY2023 dividend Rp130 per share (91.94%), less the Rp100 interim already paid = final Rp30 per share, Rp491,940,000,000. Notice dated 27 May 2024. Cross-check: dividend history table on https://cp.co.id/?p=80 lists the same DPS, total and payment date."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 108,
+            "total": 1770.984,
+            "cum_date": "2025-06-02",
+            "ex_date": "2025-06-03",
+            "record_date": "2025-06-04",
+            "pay_date": "2025-06-13",
+            "share_basis": "2025-05-21",
+            "source_url": "https://cp.co.id/wp-content/uploads/2025/05/Web-CPIN-Jadwal-Dividen-2025.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-05-21",
+            "loc": "PDF p. 1, Jadwal Pembagian Dividen Tunai: cum (regular & negotiated) 2 Jun 2025, ex 3 Jun 2025 (cash market 4/5 Jun), recording 4 Jun 2025, payment 13 Jun 2025",
+            "note": "Rupiah per share as declared (IDR reporter). AGMS 21 May 2025 (summary: https://cp.co.id/wp-content/uploads/2025/05/Web-CPIN-Ringkasan-Risalah-RUPST-2025.pdf): Rp108 per share = Rp1,770,984,000,000 (47.70% of FY2024 profit attributable). Notice dated 22 May 2025. Cross-check: dividend history table on https://cp.co.id/?p=80 lists the same DPS, total and payment date."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 180,
+            "total": 2951.64,
+            "cum_date": "2026-06-02",
+            "ex_date": "2026-06-03",
+            "record_date": "2026-06-04",
+            "pay_date": "2026-06-12",
+            "share_basis": "2026-05-20",
+            "source_url": "https://cp.co.id/wp-content/uploads/2026/05/Web-CPIN-Jadwal-Dividen-2026.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-05-20",
+            "loc": "PDF p. 1, Jadwal Pembagian Dividen Tunai: cum (regular & negotiated) 2 Jun 2026, ex 3 Jun 2026 (cash market 4/5 Jun), recording 4 Jun 2026, payment 12 Jun 2026",
+            "note": "Rupiah per share as declared (IDR reporter). AGMS 20 May 2026 (summary: https://cp.co.id/wp-content/uploads/2026/05/Web-CPIN-Ringkasan-Risalah-RUPST-2026.pdf): Rp180 per share = Rp2,951,640,000,000 (52.30% of FY2025 profit attributable). Notice dated 21 May 2026; 9M2026 FS Note 22 confirms. Cross-check: dividend history table on https://cp.co.id/?p=80 lists the same DPS, total and payment date."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 60203.663,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/10/CPIN-260930IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Laporan laba rugi interim - Penjualan neto (9M 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited 9M2026 consolidated FS, Rp juta / 1,000."
+            },
+            "revenue_ytd_prior": {
+                "v": 50604.542,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/10/CPIN-260930IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4, comparative column 9M 2025",
+                "basis": "consolidated"
+            },
+            "ebitda_ytd": {
+                "v": null,
+                "note": "CPIN does not report EBITDA: it is not in the AR2020-AR2025 financial highlights (Ikhtisar Data Keuangan Penting) or MD&A, the company publishes no results releases or analyst presentations on cp.co.id, and the term appears only in bank-loan covenant descriptions (e.g. AR2025 PDF p. 156 'Rasio EBITDA terhadap beban bunga minimal 2'). Not computed."
+            },
+            "ebitda_ytd_prior": {
+                "v": null,
+                "note": "CPIN does not report EBITDA: it is not in the AR2020-AR2025 financial highlights (Ikhtisar Data Keuangan Penting) or MD&A, the company publishes no results releases or analyst presentations on cp.co.id, and the term appears only in bank-loan covenant descriptions (e.g. AR2025 PDF p. 156 'Rasio EBITDA terhadap beban bunga minimal 2'). Not computed."
+            },
+            "profit_ytd": {
+                "v": 5182.169,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/10/CPIN-260930IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk (9M 2026)",
+                "basis": "consolidated",
+                "note": "+54% YoY; 9M2026 basic EPS Rp316 (9M2025: Rp205), PDF p. 4."
+            },
+            "profit_ytd_prior": {
+                "v": 3365.043,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/10/CPIN-260930IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4, comparative column 9M 2025",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 36373.079,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/10/CPIN-260930IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Ekuitas yang Dapat Diatribusikan kepada Pemilik Entitas Induk (Subtotal)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 16398000000,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/10/CPIN-260930IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Modal ditempatkan dan disetor penuh - 16.398.000.000 saham; PDF p. 65, Note 20 Modal saham",
+                "share_basis": "2026-10-30",
+                "note": "Issued and fully paid; no treasury shares."
+            },
+            "total_assets": {
+                "v": 53269.263,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/10/CPIN-260930IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, Total Aset",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4875.46,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/10/CPIN-260930IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 2, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Equals the period-end cash in the cash-flow statement (PDF p. 7); no overdraft."
+            },
+            "total_debt": {
+                "v": 11197.735,
+                "source_url": "https://cp.co.id/wp-content/uploads/2026/10/CPIN-260930IE.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Utang bank jangka pendek 5,975,000 + Utang bank jangka panjang 5,222,735 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Bank loans only; lease liabilities (61,115 + 335,852) excluded. No bonds/MTN. Up from 6,304,115 at 31 Dec 2025 (new short-term draws 5,395,000 and long-term draws 2,405,000 in 9M2026, PDF p. 6)."
+            }
+        }
+    },
+    "validation_ack": [],
+    "research_notes": [
+        "Name and business: legal name PT Charoen Pokphand Indonesia Tbk (unchanged through the 9M2026 FS, authorised 30 Oct 2026). Integrated poultry: animal feed, day-old chicks, broilers and processed chicken (Golden Fiesta, Fiesta, Champ, Okey...). Parent PT Charoen Pokphand Indonesia Group holds 55.53% (FS2025 Note 20). Listed on IDX since 18 Mar 1991. IDR reporter; FS in Rp juta, all money here IDR billion (/1,000), exact to the printed figure.",
+        "Source policy: FY2020-FY2025 levels, profit, EPS and cash flows from each year's own audited consolidated FS (auditor Purwantono, Sungkoro & Surja / EY); all documents downloaded directly from cp.co.id (no bot protection; the server omits its TLS intermediate certificate, so curl was given the RapidSSL TLS RSA CA G1 intermediate from the certificate's own AIA URL - see sources.md). Comparatives in later FS agree with the originals for 2020-2024 (FS2023 reclassified some 2022 current assets, total assets unchanged; 9M2026 Note 42 moved 450 bn of the 2025 bank loans from short- to long-term, total unchanged).",
+        "FY2019 restatement (doubt for reviewer): FS2020 adopted PSAK 72 fully retrospectively (Note 2b, Note 43 PDF p. 153-155: partnership transactions with contract broiler farmers). FY2019 net sales fell from 58,634.5 bn to 42,501.1 bn, profit attributable rose 10.1 bn, total assets fell 243.6 bn, equity attributable fell 175.7 bn. fy.2019 stores the AS RESTATED figures from FS2020 so that FY2020 growth is like-for-like; the originally published FS2019 values are quoted in each fy.2019 note. FY2020 onward are on the PSAK 72 basis throughout.",
+        "EBITDA is not reported by CPIN (no EBITDA in any AR highlights/MD&A, no results releases or decks on cp.co.id; only loan covenants mention it), so every ebitda datum is null. ROE/ROA are not stored: the AR highlights print them only as two-decimal fractions (AR2025 PDF p. 3: ROA 0,12 / ROE 0,16 for 2025, where profit/total equity = 0.165), too coarse to be useful.",
+        "total_debt = short-term bank loans + long-term (syndicated) bank loans. Short-term loans include a JP Morgan Chase overdraft in 2021-2023 (136.9 / 349.2 / 92.8 bn), which is why the cash-flow statement's closing cash is lower than balance-sheet cash in those years. Lease liabilities (PSAK 73, from 2020) are excluded; royalty payables to the CP Group IP holder ('Utang pihak berelasi') are not debt. No bonds/MTN/sukuk outstanding in any year.",
+        "capex = 'Perolehan aset tetap' (acquisition of fixed assets) only. Advances for purchase of fixed assets (13-55 bn a year) and right-of-use additions are excluded; breeder flocks (biological assets) are not an investing line in CPIN's cash-flow statement.",
+        "Corporate actions 2019-01-01 to 2026-11-04: none. The share chronology (AR2025 PDF p. 28; FS2025 Note 1b; cp.co.id/?p=78) ends with the 2010 par-value split Rp50 -> Rp10 and the 2010 redemption of 24,807,040 shares, leaving 16,398,000,000 shares, which is the count in every FS from 2019 to 9M2026. No treasury shares. corporate_actions is therefore an empty list and fy.2019.year_end_price is not needed.",
+        "Dividends: FY2020 final Rp112, FY2021 final Rp108, FY2022 none (AGMS 22 May 2023 retained the whole profit; payout_ratio 0), FY2023 interim Rp100 (Nov 2023) + final Rp30 (Jun 2024) = Rp130 / 91.94%, FY2024 final Rp108, FY2025 final Rp180. The FY2019 final (Rp81, paid 16 Sep 2020) is out of scope. Dates from the company's schedule notices; DPS/totals also in the dividend history page cp.co.id/?p=80 and FS equity statements. No FY2026 interim dividend had been announced as of the 9M2026 FS (30 Oct 2026).",
+        "Year-end prices are the Q4 closes in each year's AR 'Informasi Saham' table (AR2020: 6,525; AR2021: 5,950; AR2022: 5,650; AR2023: 5,025; AR2024: 4,760; AR2025: 4,510); each matches the printed market capitalisation / 16,398,000,000. share_basis = the AR PDF creation date (publication proxy); irrelevant for adjustment since there was no split after 2010.",
+        "9M2026: operating cash flow was only 113.9 bn (9M2025: 4,015.1 bn) while inventories rose to 17,789.6 bn (31 Dec 2025: 11,406.2 bn, PDF p. 2) and bank debt to 11,197.7 bn (6,304.1 bn); total assets 53,269 bn vs 45,858 bn at end-2025; profit attributable +54% YoY."
+    ]
+}

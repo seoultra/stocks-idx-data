@@ -1,0 +1,1190 @@
+{
+    "schema": 1,
+    "code": "ULTJ",
+    "name": "PT Ultrajaya Milk Industry & Trading Company Tbk",
+    "name_short": "Ultrajaya",
+    "sector": "consumer",
+    "subsector": "household_dairy",
+    "exchange": "IDX",
+    "currency": "IDR",
+    "website": "https://www.ultrajaya.co.id",
+    "ir_url": "https://www.ultrajaya.co.id/investor-relation/annual-report/eng",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 6223.057,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Exhibit B, comparative column 2019 - PENJUALAN / Sales",
+                "basis": "consolidated",
+                "note": "Comparative as presented in FS2020 (Rp juta / 1,000). FS2019 and AR2019 p. 7 originally printed net sales of 6,241,419; FS2020 Note 30 (PDF p. 86) now deducts the 18,362 'bonus kinerja' (performance bonus) from sales, so this figure is on the same basis as FY2020 onward."
+            },
+            "net_profit_attr": {
+                "v": 1032.277,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Exhibit B/2, comparative 2019 - Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated",
+                "note": "Same as originally reported (AR2019 PDF p. 196, EPS note)."
+            },
+            "total_assets": {
+                "v": 6608.422,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4, Exhibit A, comparative 2019 - TOTAL ASET",
+                "basis": "consolidated",
+                "note": "Same as AR2019 p. 7 (6,608,422)."
+            },
+            "cash": {
+                "v": 2040.591,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4, Exhibit A, comparative 2019 - Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents; government bonds (708,869) are a separate non-current line."
+            },
+            "total_debt": {
+                "v": 19.291,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Exhibit A/2, comparative 2019 - Utang bank jangka pendek + current Utang bank",
+                "basis": "consolidated",
+                "note": "Short-term bank loans 2,705 + current maturities of long-term bank loans 16,586 (Rp juta). Excluded: lease payable 1,788 and the liability for purchases of machinery 30,110 (20,196 + 9,914; a supplier loan, FS2020 Note 24). No bonds/MTN at end-2019."
+            },
+            "equity_attr": {
+                "v": 5548.439,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Exhibit A/3, comparative 2019 - Ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 5655.139,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Exhibit A/3, comparative 2019 - Total Ekuitas",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 5967.362,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Exhibit B - PENJUALAN / Sales",
+                "basis": "consolidated",
+                "note": "Net sales (after VAT and performance bonus), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 2228.527,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Exhibit B - LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1552.978,
+                "source_url": "https://www.ultrajaya.co.id/uploads/Public_Expose_2022_English.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 32, Income Statement table, FY2020 column - EBITDA 1,552,978 (IDR million)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the Public Expose deck of Dec 2022; definition (deck p. 26): 'Earning (Net Income) except costs/expense interest, Tax, Depreciation and Amortization'. CONFLICT: the Dec 2021 deck (Public-Expose-2021-English.pdf p. 32) printed FY2020 EBITDA 1,529,646. The 2022 value is used because it is the later presentation and matches the 1.55 tn in the Dec 2024/Dec 2025 decks' 10-year chart."
+            },
+            "operating_profit": {
+                "v": 1364.261,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Exhibit B - LABA DARI USAHA / Profit from operations",
+                "basis": "consolidated",
+                "note": "'Laba dari usaha' as presented: gross profit less selling and G&A expenses, plus FX gain/loss, gain/loss on fixed-asset sales, livestock fair-value changes and other income; before finance items and associates."
+            },
+            "net_profit_attr": {
+                "v": 1099.696,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Exhibit B/2 - Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 100,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Exhibit B/2 (and Note 37, PDF p. 95) - Laba per saham dasar (jumlah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2021-04-01",
+                "note": "Basic EPS as printed (no dilutive instruments). Weighted-average shares 11,048,942,070 (Note 37) because 1,155,352,800 shares were bought back 25 Jun-5 Aug 2020; note 37 divides total profit 1,109,668 by that count - both 1,099,696 and 1,109,668 round to Rp100."
+            },
+            "payout_ratio": {
+                "v": 79.65,
+                "source_url": "https://www.ultrajaya.co.id/uploads/Risalah-RUPS-Summary-AGMS-ULTJ-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-08-23",
+                "loc": "PDF p. 3, agenda 2a: 79.65% or approx. Rp883.84 bn as cash dividend, Rp85/share",
+                "basis": "consolidated",
+                "note": "AGMS 23 Aug 2021. 79.65% of FY2020 profit for the year incl. NCI (1,109,666 x 79.65% = 883.8 bn); also AR2021 p. 9."
+            },
+            "total_assets": {
+                "v": 8754.116,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4, Exhibit A - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 3972.379,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Exhibit A/2 - TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1649.669,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 4, Exhibit A - Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; FVOCI government-bond investments (2,346,825 current + 660,585 non-current) are separate lines."
+            },
+            "total_debt": {
+                "v": 2984.755,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Exhibit A/2 - bank loan and Medium-Term Notes lines",
+                "basis": "consolidated",
+                "note": "Bank loans + MTN only: Utang bank jangka pendek 2,236 + Medium-Term Notes current 1,488,880 + non-current 1,493,639 (Rp juta). MTN Ultrajaya 2020, Rp3 trillion issued 16 Nov 2020 (Series A 1.5 tn 7.5% due Nov 2021, B 0.9 tn 8% due Nov 2022, C 0.6 tn 8.5% due Nov 2023; Note 22, PDF p. 77). Excluded: lease payable 17,609 + 26,790 and liability for purchases of machinery 11,022 (supplier loan, Note 24)."
+            },
+            "equity_attr": {
+                "v": 4685.904,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Exhibit A/3 - Ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 4781.737,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Exhibit A/3 - Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10398175200,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 82, Note 26 Modal saham - Total saham beredar / Total outstanding shares",
+                "share_basis": "2021-04-01",
+                "note": "11,553,528,000 issued less 1,155,352,800 treasury shares (bought back 25 Jun-5 Aug 2020 for Rp1,854,411 juta)."
+            },
+            "year_end_price": {
+                "v": 1600,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ-AR-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-30",
+                "loc": "PDF p. 8, 'Harga Saham Perseroan Tahun 2020 dan 2019', Q4-2020 Harga Penutupan 1,600",
+                "share_basis": "2021-06-22",
+                "note": "Closing price on the last trading day as printed in the AR share table (source: IDX). Same in AR2021 p. 9. No split/bonus since the 1:4 split of Jun-Jul 2017, so no restatement."
+            },
+            "cfo": {
+                "v": 1217.063,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Exhibit D - Kas neto diperoleh dari aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 401.835,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2020-UJ-Group-Audited-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Exhibit D - Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Pembelian aset tetap (fixed assets purchase) 401,835 (Rp juta); no livestock-investment line in 2020 (2019: 60,509). Intangibles 421 and right-of-use additions 10,485 excluded."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 6616.642,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Exhibit B (scanned page, read from a 130-dpi render) - PENJUALAN / Sales",
+                "basis": "consolidated",
+                "note": "Net sales (after VAT and performance bonus), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 2374.946,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Exhibit B (scanned page, read from a 130-dpi render) - LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1807.536,
+                "source_url": "https://www.ultrajaya.co.id/uploads/Public_Expose_2022_English.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 32, Income Statement table, FY2021 column - EBITDA 1,807,536 (IDR million)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company (definition on deck p. 26: net income before interest, tax, depreciation and amortization). The Dec 2023 deck (p. 12 chart) rounds it to 1,808 bn."
+            },
+            "operating_profit": {
+                "v": 1627.958,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Exhibit B (scanned page, read from a 130-dpi render) - LABA DARI USAHA / Profit from operations",
+                "basis": "consolidated",
+                "note": "'Laba dari usaha' as presented: gross profit less selling and G&A expenses, plus FX gain/loss, gain/loss on fixed-asset sales, livestock fair-value changes and other income; before finance items and associates. FY2021 includes other income-net of 224,675 (FS2021 Note 33)."
+            },
+            "net_profit_attr": {
+                "v": 1271.638,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Exhibit B/2 (scanned page, read from a 130-dpi render) - Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 122,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 95, Note 37 Laba per saham - Laba per saham dasar (jumlah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2022-03-30",
+                "note": "Basic EPS as printed, whole rupiah (no dilutive instruments); weighted-average shares 10,398,175,200."
+            },
+            "payout_ratio": {
+                "v": 20,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2022_Risalah_AGMS_ULTJ.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-07-26",
+                "loc": "PDF p. 4, agenda 2a: Rp25/share, total Rp259,954,380,000 'or approximately 20%'",
+                "basis": "consolidated",
+                "note": "AGMS 26 Jul 2022. Printed as 'approximately 20%' (AR2022 p. 9: 20.0%); 259.95 / 1,271.6 = 20.4% of attributable profit."
+            },
+            "total_assets": {
+                "v": 7406.856,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Exhibit A (scanned page, read from a 130-dpi render) - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 2268.73,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Exhibit A/2 (scanned page, read from a 130-dpi render) - TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1598.901,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Exhibit A (scanned page, read from a 130-dpi render) - Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; FVOCI government-bond investments of 1,838,524 are a separate current line."
+            },
+            "total_debt": {
+                "v": 1494.978,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Exhibit A/2 (scanned page, read from a 130-dpi render) - bank loan and Medium-Term Notes lines",
+                "basis": "consolidated",
+                "note": "Bank loans + MTN only: Utang bank jangka pendek 1,339 + Medium-Term Notes current 895,320 + non-current 598,319 (Rp juta). Series A (Rp1.5 tn) repaid Nov 2021 (cash flow statement). Excluded: lease payables 16,380 + 10,406; no machinery liability left."
+            },
+            "equity_attr": {
+                "v": 5047.176,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Exhibit A/3 (scanned page, read from a 130-dpi render) - Ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 5138.126,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Exhibit A/3 (scanned page, read from a 130-dpi render) - Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10398175200,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 82, Note 26 Modal saham - Total saham beredar / Total outstanding shares",
+                "share_basis": "2022-03-30",
+                "note": "11,553,528,000 issued less 1,155,352,800 treasury shares."
+            },
+            "year_end_price": {
+                "v": 1570,
+                "source_url": "https://www.ultrajaya.co.id/uploads/AR_2021_Ultrajaya.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-30",
+                "loc": "PDF p. 9, share price table, Q4-2021 closing 1,570",
+                "share_basis": "2022-05-24",
+                "note": "Closing price on the last trading day as printed in the AR share table (source: IDX). Same in AR2022 p. 9. No split/bonus since the 1:4 split of Jun-Jul 2017, so no restatement."
+            },
+            "cfo": {
+                "v": 1414.447,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, Exhibit D - Kas neto diperoleh dari aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 252.085,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audited_2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, Exhibit D - Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Pembelian aset tetap 252,085 (Rp juta). Right-of-use additions 3,200 excluded."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 7656.252,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Exhibit B - PENJUALAN / Sales",
+                "basis": "consolidated",
+                "note": "Net sales (after VAT and performance bonus), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 2457.088,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Exhibit B - LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1458,
+                "source_url": "https://www.ultrajaya.co.id/uploads/Material_Pubex_ULTJ_2023_Eng_update.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, 'Financial Highlights' chart 'EBITDA and margin (IDR bn, %)' - 2022: 1.458 (19.0%) (chart image, read from render)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported (footnote: Earning before interest, tax, depreciation, amortization), printed in IDR bn without decimals."
+            },
+            "operating_profit": {
+                "v": 1302.854,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 7, Exhibit B - LABA DARI USAHA / Profit from operations",
+                "basis": "consolidated",
+                "note": "'Laba dari usaha' as presented: gross profit less selling and G&A expenses, plus FX gain/loss, gain/loss on fixed-asset sales, livestock fair-value changes and other income; before finance items and associates."
+            },
+            "net_profit_attr": {
+                "v": 960.786,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 93, Note 36 Laba per saham (Exhibit B/2 PDF p. 8 is scanned) - Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 92,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 93, Note 36 Laba per saham - Laba per saham dasar (jumlah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2023-03-30",
+                "note": "Basic EPS as printed, whole rupiah (no dilutive instruments); weighted-average shares 10,398,175,200."
+            },
+            "payout_ratio": {
+                "v": 32,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023_Risalah_RUPS_Summary_GMS_ULTJ_REV2.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-06-19",
+                "loc": "PDF p. 4, AGMS agenda 2a: Rp30/share, approx. Rp311.95 bn 'or approximately 32%'",
+                "basis": "consolidated",
+                "note": "AGMS 19 Jun 2023 (remainder approx. Rp653 bn retained, i.e. % of the 965.5 bn profit for the year incl. NCI); also AR2023 p. 11."
+            },
+            "total_assets": {
+                "v": 7376.375,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 4, Exhibit A (scanned page, read from a 130-dpi render) - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 1553.696,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5, Exhibit A/2 (scanned page, read from a 130-dpi render) - TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1248.642,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 4, Exhibit A (scanned page, read from a 130-dpi render) - Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only (also FS2022 Exhibit D/2 PDF p. 12, and FS2023 PDF p. 4 comparative); FVOCI investments of 828,403 are a separate line."
+            },
+            "total_debt": {
+                "v": 599.768,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 5, Exhibit A/2 (scanned page, read from a 130-dpi render) - bank loan and Medium-Term Notes lines",
+                "basis": "consolidated",
+                "note": "Bank loans + MTN only: Utang bank jangka pendek 1,449 + Medium-Term Notes current 598,319 (Rp juta); also in FS2023 PDF p. 5 comparative. Series B (Rp0.9 tn) repaid Nov 2022. Excluded: lease payables 7,138 + 3,918."
+            },
+            "equity_attr": {
+                "v": 5738.735,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 6, Exhibit A/3 (scanned page, read from a 130-dpi render) - Ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 5822.679,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 6, Exhibit A/3 (scanned page, read from a 130-dpi render) - Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10398175200,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 79, Note 25 Modal saham - Total saham beredar / Total outstanding shares",
+                "share_basis": "2023-03-30",
+                "note": "11,553,528,000 issued less 1,155,352,800 treasury shares."
+            },
+            "year_end_price": {
+                "v": 1475,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_AR_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-30",
+                "loc": "PDF p. 9, share price table, Q4-2022 closing 1,475",
+                "share_basis": "2023-04-27",
+                "note": "Closing price on the last trading day as printed in the AR share table (source: IDX). Same in AR2023 p. 11. No split/bonus since the 1:4 split of Jun-Jul 2017, so no restatement."
+            },
+            "cfo": {
+                "v": 259.846,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Exhibit D - Kas neto diperoleh dari aktivitas operasi",
+                "basis": "consolidated",
+                "note": "Low year: cash received from operations 631,938 after a large inventory build (inventories 681,983 -> 1,637,361); real, not a unit slip."
+            },
+            "capex": {
+                "v": 374.366,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_Audit_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Exhibit D - Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Pembelian aset tetap 374,366 (Rp juta) as presented in FS2022. FS2023 (PDF p. 11) re-presents the same 2022 outflow as fixed-asset purchases 254,771 + addition to advances for purchase of assets 119,595. Right-of-use additions 4,276 excluded."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 8302.741,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Exhibit B (scanned page, read from a 130-dpi render) - PENJUALAN / Sales",
+                "basis": "consolidated",
+                "note": "Net sales (after VAT and performance bonus), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 2691.571,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Exhibit B (scanned page, read from a 130-dpi render) - LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1646,
+                "source_url": "https://www.ultrajaya.co.id/uploads/Material_Public_Expose_2026_1.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, 'Financial Highlights' chart 'EBITDA 1 & Margin (IDR Bn, % of Sales)' - 2023: 1.646 (19.8%)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the Public Expose deck dated 9 Mar 2026; footnote 1: 'EBITDA (Earning before interest, tax, depreciation, amortization)'. Printed in IDR bn without decimals."
+            },
+            "operating_profit": {
+                "v": 1474.777,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 7, Exhibit B (scanned page, read from a 130-dpi render) - LABA DARI USAHA / Profit from operations",
+                "basis": "consolidated",
+                "note": "'Laba dari usaha' as presented: gross profit less selling and G&A expenses, plus FX gain/loss, gain/loss on fixed-asset sales, livestock fair-value changes and other income; before finance items and associates. FS2024 (PDF p. 7) re-presents 2023 as 1,473,215 (1,562 of other income moved to finance items); the FS2023 figure is kept."
+            },
+            "net_profit_attr": {
+                "v": 1169.212,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 92, Note 36 Laba per saham (Exhibit B/2 PDF p. 8 is scanned) - Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 112,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 92, Note 36 Laba per saham - Laba per saham dasar (jumlah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2024-03-26",
+                "note": "Basic EPS as printed, whole rupiah (no dilutive instruments); weighted-average shares 10,398,175,200."
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.ultrajaya.co.id/uploads/20240619_Summary_MoM_AGMS_2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-06-19",
+                "loc": "PDF p. 4 (English summary, scanned), resolution 2a: Rp40/share, approx. Rp415.9 bn 'or approximately 35%'",
+                "basis": "consolidated",
+                "note": "AGMS 19 Jun 2024; also AR2024 p. 12 ('sekitar 35% dari laba bersih')."
+            },
+            "total_assets": {
+                "v": 7523.956,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 4, Exhibit A - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 836.988,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 5, Exhibit A/2 - TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 2174.324,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 4, Exhibit A - Kas dan setara kas",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 1.567,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 5, Exhibit A/2 - Utang bank jangka pendek",
+                "basis": "consolidated",
+                "note": "Bank loans + MTN only: Utang bank jangka pendek 1,567 (Rp juta). Last MTN series (C, Rp0.6 tn) repaid in Nov 2023, so only small bank balances remain. Excluded: lease payables 10,358 + 18,976."
+            },
+            "equity_attr": {
+                "v": 6600.809,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 6, Exhibit A/3 - Ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 6686.968,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 6, Exhibit A/3 - Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10398175200,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 79-80, Note 25 Modal saham - Total saham beredar / Total outstanding shares",
+                "share_basis": "2024-03-26",
+                "note": "Issued capital reduced from 11,553,528,000 to 10,398,175,200 shares by cancelling the 1,155,352,800 treasury shares (EGMS 19 Jun 2023, MoLHR approval AHU-0049934.AH.01.02 of 24 Aug 2023); no treasury shares remain, so shares outstanding are unchanged."
+            },
+            "year_end_price": {
+                "v": 1600,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_ULTJ_Annual_Report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-29",
+                "loc": "PDF p. 12, Ikhtisar Saham, 2023 Q-IV Harga Penutupan 1.600",
+                "share_basis": "2024-04-29",
+                "note": "Closing price on the last trading day as printed in the AR share table (source: IDX). AR2023's own table (PDF p. 11) wrongly repeats the 2022 rows for 2023 (Q4 1,475); AR2023 PDF p. 45 share-price chart is labelled 'IDR Rp1.600,00 29 Des 2023', which agrees with AR2024. AR2024's 2023 market caps use 11,553,528,000 shares (e.g. 1,600 x 11.55 bn = 18,486 bn), the closes themselves are consistent. No split/bonus since the 1:4 split of Jun-Jul 2017, so no restatement."
+            },
+            "cfo": {
+                "v": 1399.842,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Exhibit D - Kas neto diperoleh dari aktivitas operasi",
+                "basis": "consolidated",
+                "note": "As presented in FS2023. FS2024 (PDF p. 11) re-presents 2023 as 1,396,298 (interest paid 45,168 instead of 46,730 and receipts 1,589,836); the FS2023 figure is kept."
+            },
+            "capex": {
+                "v": 385.714,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2023-AUDIT-ULTJGroup.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Exhibit D - Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Pembelian aset tetap 236,503 + Penambahan uang muka pembelian aset (advances for asset purchases) 149,211 (Rp juta). Advances are included because FS2022 presented them inside 'Pembelian aset tetap' (see FY2022 note). Intangibles 6,194 and right-of-use additions 32,873 excluded."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 8874.202,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Exhibit B - PENJUALAN / Sales",
+                "basis": "consolidated",
+                "note": "Net sales (after VAT and performance bonus), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 3021.777,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Exhibit B - LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1622,
+                "source_url": "https://www.ultrajaya.co.id/uploads/Material_Public_Expose_2026_1.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, 'Financial Highlights' chart 'EBITDA 1 & Margin' - 2024: 1.622 (18.3%)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported (same definition as FY2023); IDR bn without decimals."
+            },
+            "operating_profit": {
+                "v": 1448.325,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 7, Exhibit B - LABA DARI USAHA / Profit from operations",
+                "basis": "consolidated",
+                "note": "'Laba dari usaha' as presented: gross profit less selling and G&A expenses, plus FX gain/loss, gain/loss on fixed-asset sales, livestock fair-value changes and other income; before finance items and associates."
+            },
+            "net_profit_attr": {
+                "v": 1136.624,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 91, Note 34 Laba per saham (Exhibit B/2 PDF p. 8 is scanned) - Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 109,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 91, Note 34 Laba per saham - Laba per saham dasar (jumlah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2025-02-28",
+                "note": "Basic EPS as printed, whole rupiah (no dilutive instruments); weighted-average shares 10,398,175,200."
+            },
+            "payout_ratio": {
+                "v": 40.6,
+                "source_url": "https://www.ultrajaya.co.id/uploads/20250502R_Ringkasan_Risalah_RUPS_2025_Summary_AGMS.PDF",
+                "source_type": "company_release",
+                "as_of_date": "2025-05-02",
+                "loc": "PDF p. 9 (English summary, scanned), resolution 1.2a: Rp45/share, approx. Rp467.9 bn 'or approximately 40,6%'",
+                "basis": "consolidated",
+                "note": "AGMS 2 May 2025 (remainder approx. Rp685.9 bn retained: 467.9 + 685.9 = profit for the year incl. NCI 1,153.9 bn). AR2025 p. 12 says '33.97% of net profit' for this dividend - that divides it by FY2025 profit (467.5 / 1,377.5) and is not used."
+            },
+            "total_assets": {
+                "v": 8461.365,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 4, Exhibit A - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 1034.447,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 5, Exhibit A/2 - TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 2434.322,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 4, Exhibit A - Kas dan setara kas",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 1.694,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 5, Exhibit A/2 - Utang bank",
+                "basis": "consolidated",
+                "note": "Bank loans + MTN only: Utang bank 1,694 (Rp juta; Bank Mandiri 873 + BCA 821, FS2025 Note 17). No bonds/MTN. Excluded: lease payables 9,093 + 27,061."
+            },
+            "equity_attr": {
+                "v": 7339.23,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, Exhibit C/2 'Saldo pada tanggal 31 Desember 2024' (Exhibit A/3 PDF p. 6 is scanned) - Ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 7426.918,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, Exhibit C/2 'Saldo pada tanggal 31 Desember 2024' (Exhibit A/3 PDF p. 6 is scanned) - Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10398175200,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 76, Note 23 Modal saham - Total saham beredar / Total outstanding shares",
+                "share_basis": "2025-02-28",
+                "note": "Issued = outstanding; no treasury shares."
+            },
+            "year_end_price": {
+                "v": 1805,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_ULTJ_Annual_Report.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-30",
+                "loc": "PDF p. 12, Ikhtisar Saham, 2024 Q-IV Harga Penutupan 1.805",
+                "share_basis": "2025-03-26",
+                "note": "Closing price on the last trading day as printed in the AR share table (source: IDX). Same in AR2025 p. 12; market cap 31 Dec 2024 Rp18,768,706,236,000 = 1,805 x 10,398,175,200. No split/bonus since the 1:4 split of Jun-Jul 2017, so no restatement."
+            },
+            "cfo": {
+                "v": 1261.583,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Exhibit D - Kas neto diperoleh dari aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 578.986,
+                "source_url": "https://www.ultrajaya.co.id/uploads/2024_Audit_Report_ULTJ_Group.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Exhibit D - Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Pembelian aset tetap 255,385 + Penambahan uang muka pembelian aset 323,601 (Rp juta). Intangibles 2,150 excluded."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 8767.854,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Exhibit B (scanned page, read from a 130-dpi render) - PENJUALAN / Sales",
+                "basis": "consolidated",
+                "note": "Net sales (after VAT and performance bonus), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 2869.311,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Exhibit B (scanned page, read from a 130-dpi render) - LABA BRUTO / Gross profit",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1873,
+                "source_url": "https://www.ultrajaya.co.id/uploads/Material_Public_Expose_2026_1.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, 'Financial Highlights' chart 'EBITDA 1 & Margin' - 2025: 1.873 (21.4%)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported (same definition); IDR bn without decimals. AR2025 (p. 10) prints only an EBITDA/interest coverage ratio, no EBITDA level."
+            },
+            "operating_profit": {
+                "v": 1685.315,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 7, Exhibit B (scanned page, read from a 130-dpi render) - LABA DARI USAHA / Profit from operations",
+                "basis": "consolidated",
+                "note": "'Laba dari usaha' as presented: gross profit less selling and G&A expenses, plus FX gain/loss, gain/loss on fixed-asset sales, livestock fair-value changes and other income; before finance items and associates."
+            },
+            "net_profit_attr": {
+                "v": 1353.297,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 8, Exhibit B/2 (scanned page, read from a 130-dpi render) - Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 130,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 8, Exhibit B/2 (and Note 34, PDF p. 76) - Laba per saham dasar (jumlah penuh)",
+                "basis": "consolidated",
+                "share_basis": "2026-02-28",
+                "note": "Basic EPS as printed, whole rupiah (no dilutive instruments); weighted-average shares 10,398,175,200."
+            },
+            "payout_ratio": {
+                "v": 98,
+                "source_url": "https://www.ultrajaya.co.id/uploads/20260424_Risalah_CN_RUPST_Summary_CN_AGMS_ULTJ.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-04-22",
+                "loc": "PDF p. 2, resolution 2.1: Rp130/share, approx. Rp1.351 tn 'atau setara dengan sekitar 98% dari Laba Bersih Perseroan'",
+                "basis": "consolidated",
+                "note": "AGMS 22 Apr 2026 (remainder approx. Rp26 bn retained: 1,351 + 26 = profit for the year incl. NCI 1,377.5 bn). An EGMS on 6 Nov 2026 is asked to approve an additional final cash dividend from retained earnings at 31 Dec 2025 (not yet approved; not included)."
+            },
+            "total_assets": {
+                "v": 9253.47,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 4, Exhibit A (scanned page, read from a 130-dpi render) - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 937.01,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 5, Exhibit A/2 (scanned page, read from a 130-dpi render) - TOTAL LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 3163.368,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 4, Exhibit A (scanned page, read from a 130-dpi render) - Kas dan setara kas",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 1.622,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 5, Exhibit A/2 (scanned page, read from a 130-dpi render) - Utang bank",
+                "basis": "consolidated",
+                "note": "Bank loans + MTN only: Utang bank 1,622 (Rp juta; Bank Mandiri 838 + BCA 784, Note 17 PDF p. 55) (scanned page, read from a 130-dpi render). No bonds/MTN. Excluded: lease payables 12,154 + 29,748. Same figures in FS9M2026 PDF p. 6 comparative."
+            },
+            "equity_attr": {
+                "v": 8220.575,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, Exhibit A/3 (scanned page, read from a 130-dpi render) - Ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 8316.46,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 6, Exhibit A/3 (scanned page, read from a 130-dpi render) - Total Ekuitas",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10398175200,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 63-64, Note 23 Modal saham - Total saham beredar / Total outstanding shares",
+                "share_basis": "2026-02-28",
+                "note": "Issued = outstanding; no treasury shares (the buyback plans disclosed in Mar and Jun 2025 were not executed: no treasury shares in FS2025 or FS9M2026)."
+            },
+            "year_end_price": {
+                "v": 1510,
+                "source_url": "https://www.ultrajaya.co.id/uploads/AR_Ultrajaya_2025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-30",
+                "loc": "PDF p. 12, Ikhtisar Saham, 2025 Q-IV Harga Penutupan 1.510",
+                "share_basis": "2026-04-16",
+                "note": "Closing price on the last trading day as printed in the AR share table (source: IDX). Market cap 31 Dec 2025 Rp15,701 bn = 1,510 x 10,398,175,200. No split/bonus since the 1:4 split of Jun-Jul 2017, so no restatement."
+            },
+            "cfo": {
+                "v": 1693.909,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, Exhibit D - Kas neto diperoleh dari aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 474.741,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Group_2025_Audit_R2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, Exhibit D - Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Pembelian aset tetap 424,203 + Pengurangan (penambahan) uang muka pembelian aset 50,538 (Rp juta). Placement of new shares 8,200 and intangibles 8,009 excluded."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 85,
+            "total": 883.845,
+            "cum_date": "2021-08-31",
+            "ex_date": "2021-09-01",
+            "record_date": "2021-09-02",
+            "pay_date": "2021-09-23",
+            "share_basis": "2021-08-23",
+            "source_url": "https://www.ultrajaya.co.id/uploads/Risalah-RUPS-Summary-AGMS-ULTJ-2021.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-08-23",
+            "loc": "PDF p. 3-4: agenda 2a (Rp85/share on 10,398,175,200 shares, approx. Rp883.84 bn) and 'Jadwal serta tata cara pembagian dividen' (cum regular/negotiated 31 Aug 2021, ex 1 Sep, cash-market cum 2 Sep / ex 3 Sep, recording 2 Sep, payment 23 Sep 2021)",
+            "note": "AGMS 23 Aug 2021 (summary dated 24 Aug 2021). Total = FS2021 Exhibit C/2 (PDF p. 11) 'Dividen yang diumumkan' 883,845 Rp juta."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 25,
+            "total": 259.954,
+            "cum_date": "2022-08-03",
+            "ex_date": "2022-08-04",
+            "record_date": "2022-08-05",
+            "pay_date": "2022-08-26",
+            "share_basis": "2022-07-26",
+            "source_url": "https://www.ultrajaya.co.id/uploads/2022_Risalah_AGMS_ULTJ.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-07-26",
+            "loc": "PDF p. 4: agenda 2a (Rp25/share, total Rp259,954,380,000) and dividend schedule (cum regular/negotiated 3 Aug 2022, ex 4 Aug, cash-market cum 5 Aug / ex 8 Aug, recording 5 Aug, payment 26 Aug 2022)",
+            "note": "AGMS 26 Jul 2022 (summary dated 27 Jul 2022). FS2022 Exhibit C/2 (PDF p. 10): 259,954 Rp juta."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 30,
+            "total": 311.945,
+            "cum_date": "2023-06-27",
+            "ex_date": "2023-07-03",
+            "record_date": "2023-07-04",
+            "pay_date": "2023-07-21",
+            "share_basis": "2023-06-19",
+            "source_url": "https://www.ultrajaya.co.id/uploads/2023_Risalah_RUPS_Summary_GMS_ULTJ_REV2.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-06-19",
+            "loc": "PDF p. 4-5: AGMS agenda 2a (Rp30/share, approx. Rp311.95 bn) and dividend schedule (cum regular/negotiated 27 Jun 2023, ex 3 Jul 2023, cash-market cum 4 Jul / ex 5 Jul, recording 4 Jul, payment 21 Jul 2023)",
+            "note": "AGMS 19 Jun 2023 (summary dated 21 Jun 2023); the gap between cum (27 Jun) and ex (3 Jul) is the 28-30 Jun 2023 Idul Adha exchange holidays. FS2023 Exhibit C/2 (PDF p. 10): 311,945 Rp juta."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 40,
+            "total": 415.927,
+            "cum_date": "2024-06-27",
+            "ex_date": "2024-06-28",
+            "record_date": "2024-07-01",
+            "pay_date": "2024-07-19",
+            "share_basis": "2024-06-19",
+            "source_url": "https://www.ultrajaya.co.id/uploads/20240619_Summary_MoM_AGMS_2024.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-06-19",
+            "loc": "PDF p. 4-5 (English summary by the notary, scanned, read from render): resolution 2a (Rp40/share, approx. Rp415.9 bn) and schedule (cum regular/negotiated 27 Jun 2024, ex 28 Jun, cash-market cum 1 Jul / ex 2 Jul, recording 1 Jul, payment 19 Jul 2024)",
+            "note": "AGMS 19 Jun 2024. FS2024 Exhibit C (PDF p. 10) and FS2025 Exhibit C (PDF p. 9): 415,927 Rp juta; FS2025 Note 25 confirms Rp40 per share."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 45,
+            "total": 467.918,
+            "cum_date": "2025-05-14",
+            "ex_date": "2025-05-15",
+            "record_date": "2025-05-16",
+            "pay_date": "2025-05-28",
+            "share_basis": "2025-05-02",
+            "source_url": "https://www.ultrajaya.co.id/uploads/20250502R_Ringkasan_Risalah_RUPS_2025_Summary_AGMS.PDF",
+            "source_type": "company_release",
+            "as_of_date": "2025-05-02",
+            "loc": "PDF p. 9-10 (English summary, scanned, read from render): resolution 1.2a (Rp45/share, approx. Rp467.9 bn) and schedule (cum regular/negotiated 14 May 2025, ex 15 May, cash-market cum 16 May / ex 19 May, recording 16 May, payment 28 May 2025)",
+            "note": "AGMS 2 May 2025. FS2025 Exhibit C/2 (PDF p. 10): 467,918 Rp juta; FS2025 Note 25 confirms Rp45 per share."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 130,
+            "total": 1351.763,
+            "cum_date": "2026-04-30",
+            "ex_date": "2026-05-04",
+            "record_date": "2026-05-05",
+            "pay_date": "2026-05-22",
+            "share_basis": "2026-04-22",
+            "source_url": "https://www.ultrajaya.co.id/uploads/20260424_Risalah_CN_RUPST_Summary_CN_AGMS_ULTJ.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-22",
+            "loc": "PDF p. 2-3: resolution 2.1 (Rp130/share on 10,398,175,200 shares, approx. Rp1.351 tn) and 'Jadwal serta tata cara pembagian dividen' (cum regular/negotiated 30 Apr 2026, ex 4 May 2026, cash-market cum 5 May / ex 6 May, recording 5 May, payment 22 May 2026)",
+            "note": "AGMS 22 Apr 2026 (summary dated 24 Apr 2026). FS9M2026 Exhibit C/2 (PDF p. 11): 1,351,763 Rp juta. The summary's lead sentence names 22 May 2026 (the payment date) as the register date; the schedule's recording date 5 May 2026 is used. A further 'additional final cash dividend' from retained earnings is on the agenda of the EGMS of 6 Nov 2026 (not approved as of 4 Nov 2026)."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 8179.187,
+                "source_url": "https://www.ultrajaya.co.id/uploads/202609_ULTJ_Group_Q3_FR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Exhibit B - PENJUALAN, 9M 2026",
+                "basis": "consolidated",
+                "note": "Unaudited interim consolidated FS (authorised 30 Oct 2026), Rp juta / 1,000. +31.1% YoY; Note 27 (PDF p. 76): local beverage sales incl. VAT 9,024,746 vs 6,871,244."
+            },
+            "revenue_ytd_prior": {
+                "v": 6237.682,
+                "source_url": "https://www.ultrajaya.co.id/uploads/202609_ULTJ_Group_Q3_FR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 8, Exhibit B, comparative 9M 2025",
+                "basis": "consolidated",
+                "note": "Same as the 9M2025 interim FS as originally published (ULTJ_Group_2025_Q3_FR.pdf PDF p. 8)."
+            },
+            "ebitda_ytd": {
+                "v": null,
+                "note": "Not reported: no 9M2026 results release or analyst deck with EBITDA found on ultrajaya.co.id as of 2026-11-04 (the company shows EBITDA only in its Public Expose decks)."
+            },
+            "ebitda_ytd_prior": {
+                "v": 1331,
+                "source_url": "https://www.ultrajaya.co.id/uploads/ULTJ_Materials_Pubex_2025rr_Eng.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 12, 'Result 3Q2025' - EBITDA IDR 1,331 (vs LY 1,231)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported in the Public Expose deck of 19 Dec 2025 (definition: earning before interest, tax, depreciation, amortization); the slide labels it 'Trillion' but the figure is Rp1,331 bn (9M2025 net profit is 974 bn on the same slide)."
+            },
+            "profit_ytd": {
+                "v": 1430.567,
+                "source_url": "https://www.ultrajaya.co.id/uploads/202609_ULTJ_Group_Q3_FR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 9, Exhibit B/2 - Laba yang dapat diatribusikan kepada pemilik entitas induk, 9M 2026",
+                "basis": "consolidated",
+                "note": "+48.9% YoY; EPS Rp138 (9M2025: Rp92)."
+            },
+            "profit_ytd_prior": {
+                "v": 960.882,
+                "source_url": "https://www.ultrajaya.co.id/uploads/202609_ULTJ_Group_Q3_FR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 9, Exhibit B/2, comparative 9M 2025",
+                "basis": "consolidated",
+                "note": "Same as the 9M2025 interim FS as originally published."
+            },
+            "equity_attr": {
+                "v": 8309.138,
+                "source_url": "https://www.ultrajaya.co.id/uploads/202609_ULTJ_Group_Q3_FR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Exhibit A/3 - Ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 10398175200,
+                "source_url": "https://www.ultrajaya.co.id/uploads/202609_ULTJ_Group_Q3_FR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 73, Note 23 Modal saham - Total",
+                "share_basis": "2026-10-30",
+                "note": "Issued = outstanding, no treasury shares. The planned PMHMETD IV rights issue (EGMS 6 Nov 2026) had not happened."
+            },
+            "total_assets": {
+                "v": 9398.017,
+                "source_url": "https://www.ultrajaya.co.id/uploads/202609_ULTJ_Group_Q3_FR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Exhibit A - TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 2573.394,
+                "source_url": "https://www.ultrajaya.co.id/uploads/202609_ULTJ_Group_Q3_FR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Exhibit A - Kas dan setara kas",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 1.507,
+                "source_url": "https://www.ultrajaya.co.id/uploads/202609_ULTJ_Group_Q3_FR.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Exhibit A/2 - Utang bank",
+                "basis": "consolidated",
+                "note": "Short-term bank loans only (Rp juta 1,507). No bonds/MTN; lease payables 13,150 + 22,806 excluded."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2020",
+            "reason": "FY2020 EPS (Rp100) uses the weighted-average 11,048,942,070 shares (FS2020 Note 37, PDF p. 95) because 1,155,352,800 shares were bought back between 25 Jun and 5 Aug 2020 (Note 26, PDF p. 83); year-end shares outstanding are 10,398,175,200, so EPS x year-end shares is ~5% below profit. Real, not a share_basis error."
+        },
+        {
+            "check": "price_year_end:2025",
+            "reason": "REVIEWER 2026-11-04: AR2025 p. 12 (Ikhtisar Saham) prints a Q-IV 2025 close of Rp1,510 and a 31 Dec 2025 market cap consistent with it (Rp15,701 bn = 1,510 x 10,398,175,200), but the daily regular-market series has the 30 Dec 2025 close at Rp1,440 (day range 1,415-1,455; 1,510 was last seen mid-December). No corporate action explains the gap. The AR value is stored as printed; the price chart uses the daily series."
+        }
+    ],
+    "research_notes": [
+        "Name/identity: PT Ultrajaya Milk Industry & Trading Company Tbk (unchanged in all documents FY2019-9M2026), Bandung Barat, West Java. Controlling shareholder Sabana Prawirawidjaja (53.17%) with PT Prawirawidjaja Prakarsa (23.78%) and family members; public 13.99% (shareholder register of 17 Sep 2026 in the rights-issue disclosure of 18 Sep 2026, Keterbukaan_Informasi_ULTJ_ENG.pdf PDF p. 9). Dairy (UHT milk) and tea (Teh Kotak) maker; subsector household_dairy.",
+        "Currency/units: IDR reporter; FS in Rp juta, all money stored in IDR billion (Rp juta / 1,000). Auditor: KAP Tanubrata Sutanto Fahmi Bambang & Rekan (BDO) for every year.",
+        "Source policy: each FY's own audited consolidated FS (ultrajaya.co.id 'Annual Financial Report Audited'). Many primary-statement pages in these PDFs are signed scans without a text layer (FS2021 balance sheet and P&L, FS2022 balance sheet and B/2, FS2023 P&L, FS2024 A/3 and B/2, FS2025 balance sheet and P&L); those values were read from page renders and cross-checked against the text-layer comparatives in the following year's FS (FS2022 p. 7, FS2023 p. 4-6, FS2024 p. 7, FS9M2026 p. 5-7) and the AR2025 highlights (p. 9-10) - all agree except the re-presentations noted on FY2023 operating profit and CFO and the FY2019 revenue reclassification.",
+        "FY2019 base levels come from the FS2020 comparative column (text layer); FS2019's own statements are scanned. Only revenue differs from the original (6,241,419 originally vs 6,223,057 after FS2020 moved the 18,362 performance bonus out of sales).",
+        "Corporate actions 2019-01-01 to 2026-11-04: none (no split, reverse split, bonus or rights issue). Share-listing chronology (AR2025 PDF p. 50): IPO 1990, share dividend 1992, rights I 1994, bonus 1995, rights II 1999, split 1:5 Jan 2001, rights III Apr 2004, split 1:4 26 Jun 2017, then only the 24 Aug 2023 cancellation of treasury shares. corporate_actions is therefore empty and fy.2019.year_end_price is not needed.",
+        "Share buyback and capital reduction (not splits; no per-share adjustment): 1,155,352,800 shares (10%) bought back 25 Jun-5 Aug 2020 at Rp1,600 for Rp1,854.4 bn incl. costs (FS2020 Note 26), funded by the Rp3 tn MTN issued Nov 2020; cancelled by capital reduction approved by the EGMS of 19 Jun 2023, effective with MoLHR approval AHU-0049934.AH.01.02 of 24 Aug 2023 (issued shares 11,553,528,000 -> 10,398,175,200). Shares outstanding have been 10,398,175,200 since Aug 2020. Buyback plans disclosed 21 Mar 2025 (up to 10%, Rp1.67 tn budget) and Jun 2025 were not executed (no treasury shares in FS2025 / FS9M2026).",
+        "PENDING (not a corporate action yet): 'PMHMETD IV' rights issue of up to 7,878,669,985 new shares at Rp2,150 (about 0.758 rights per existing share; disclosure of 18 Sep 2026, https://www.ultrajaya.co.id/uploads/Keterbukaan_Informasi_ULTJ_ENG.pdf PDF p. 5-10). The controlling holders' rights are to be transferred to FrieslandCampina International Holding B.V. (FCIH), Blue Waves Group Ventures and PT Bahtera Wiraniaga Internusa, who pay in kind (inbreng) with 100% of PT Frisian Flag Indonesia (contribution value Rp14,569,997 mn; appraised market value Rp14,570,193 mn at 31 Jul 2026, PDF p. 23); 6,776,742,153 new shares go to them and FCIH becomes the controlling shareholder (28.95-30.81%) with a mandatory tender offer to follow. The EGMS was moved from 27 Oct to 6 Nov 2026 after OJK letter S-370/PM.212/2026 asked for more information (announcement of 23 Oct 2026, https://www.ultrajaya.co.id/uploads/20261023_Pengumuman_Perubahan_Jadwal_RUPSLB.pdf); after approval the registration statement must still become effective. When it goes ex, add a 'rights' record (ratio from the prospectus, price 2150) and expect FFI to be consolidated (series break).",
+        "Dividends: one final cash dividend a year out of each FY's profit, no interims; dates from the AGMS summaries (ringkasan risalah) published on ultrajaya.co.id (FY2023 and FY2024 summaries are scanned notary documents, read from renders). AGMS were held late in 2020-2022 (Aug 2020, Aug 2021, Jul 2022). The company states payout as a % of consolidated profit for the year INCLUDING non-controlling interest; payout_ratio stores that figure as printed (approximate, e.g. 'sekitar 32%'). FY2025 payout ~98% (Rp130/share) is a step-up from 20-41% in FY2021-FY2024.",
+        "EBITDA: reported only in the annual Public Expose decks (definition: earning before interest, tax, depreciation, amortization). FY2020-FY2021 are exact (IDR million tables, Dec 2022 deck); FY2022-FY2025 are chart values in IDR bn. FY2020 conflicts between decks (Dec 2021: 1,529,646; Dec 2022: 1,552,978 IDR million) - the later one is stored. AR highlight tables give only EBITDA coverage ratios.",
+        "Liquidity: large holdings of government bonds/FVOCI investments sat outside 'cash' in 2019-2022 (e.g. 2,346.8 bn current + 660.6 bn non-current at end-2020, 1,838.5 bn end-2021, 828.4 bn end-2022). total_debt excludes lease payables and, in FY2019-FY2020, the small liability for purchases of machinery (supplier loan: 30.1 bn end-2019, 11.0 bn end-2020).",
+        "Validation: eps_shares:2020 is a real gap (reported EPS uses the 11,048,942,070 weighted-average shares of the buyback year; see validation_ack). AR2023's share-price table (PDF p. 11) wrongly repeats the 2022 rows for 2023; the 2023 close 1,600 comes from AR2024 p. 12 and the AR2023 p. 45 chart label. No ULTJ daily price file existed in the dataset yet to cross-check year-end closes.",
+        "9M2026: net sales +31.1% and attributable profit +48.9% YoY (FS9M2026). The FS does not explain the jump; the Mar 2026 Public Expose deck (p. 22) shows direct school-milk sales for the government's free-meal programme (MBG) starting Jul 2025 (2.1% of Dec 2025 sales) and a new MM2100 plant (p. 23). Reviewer: treat the YoY growth as real (both columns from the same unaudited FS, prior column equal to the 9M2025 FS as published)."
+    ]
+}

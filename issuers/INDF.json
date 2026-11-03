@@ -1,0 +1,1308 @@
+{
+    "schema": 1,
+    "code": "INDF",
+    "name": "PT Indofood Sukses Makmur Tbk",
+    "name_short": "Indofood Sukses Makmur",
+    "sector": "consumer",
+    "subsector": "food",
+    "exchange": "IDX",
+    "currency": "IDR",
+    "website": "https://www.indofood.com",
+    "ir_url": "https://www.indofood.com/menu/financial-statements",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 76592.955,
+                "source_url": "https://www.indofood.com/uploads/statement/Indofood%20sukses%20makmur%20tbk-billingual%2031Dec2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (penjualan neto), Rp juta / 1,000."
+            },
+            "net_profit_attr": {
+                "v": 4908.172,
+                "source_url": "https://www.indofood.com/uploads/statement/Indofood%20sukses%20makmur%20tbk-billingual%2031Dec2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 10, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Income for the year attributable to equity holders of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 96198.559,
+                "source_url": "https://www.indofood.com/uploads/statement/Indofood%20sukses%20makmur%20tbk-billingual%2031Dec2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 13745.118,
+                "source_url": "https://www.indofood.com/uploads/statement/Indofood%20sukses%20makmur%20tbk-billingual%2031Dec2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented in the statement of financial position; short-term investments are a separate line and excluded."
+            },
+            "total_debt": {
+                "v": 22977.157,
+                "source_url": "https://www.indofood.com/uploads/statement/Indofood%20sukses%20makmur%20tbk-billingual%2031Dec2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, current liabilities (short-term bank loans; current maturities of long-term debts) + 'Total utang jangka panjang' (non-current)",
+                "basis": "consolidated",
+                "note": "Short-term bank loans and overdraft 13,005,567 + trust receipts payable nil + current maturities of long-term bank loans 1,016,614 + total long-term debts 8,954,976 (bank loans 6,953,533 + bonds payable 1,994,153 + others 7,290) (Rp juta). No current bonds (Bond VII repaid June 2019). No lease liabilities in 2019 (pre-PSAK 73). Equals the company's own 'Funded Debt' (Pinjaman yang Dikenakan Bunga) 22,977.2 (AR2020 p. 6). 'Others' = 'utang jangka panjang lainnya' (other long-term debt; FS2020 Note 20c, PDF p. 161: an unsecured interest-bearing Rupiah loan to subsidiary TSP from PT Daya Usaha Abadi; not described in later FS). Amounts due to related parties are not included (as in Funded Debt)."
+            },
+            "equity_attr": {
+                "v": 37777.948,
+                "source_url": "https://www.indofood.com/uploads/statement/Indofood%20sukses%20makmur%20tbk-billingual%2031Dec2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to equity holders of the parent entity",
+                "basis": "consolidated",
+                "note": "Excludes the large non-controlling interests (minorities of ICBP, SIMP, IFAR/Lonsum etc.)."
+            },
+            "total_equity": {
+                "v": 54202.488,
+                "source_url": "https://www.indofood.com/uploads/statement/Indofood%20sukses%20makmur%20tbk-billingual%2031Dec2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, TOTAL EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests."
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 81731.469,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (penjualan neto), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 26752.044,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 16543.8,
+                "source_url": "https://www.indofood.com/uploads/annual/ism_2020ar_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 6, Financial Highlights / Ikhtisar Keuangan - EBITDA 2020 column (in billions of Rupiah)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in the AR financial highlights (Rp billion as printed), shown directly below 'Income from Operations (EBIT)'. The AR prints no definition and the FS have no EBITDA line; the company does not publish EBITDA for interim periods."
+            },
+            "operating_profit": {
+                "v": 12889.087,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, LABA USAHA / INCOME FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented (the AR calls it EBIT): gross profit less selling & distribution and G&A expenses, +/- fair-value gain/loss on biological assets and other operating income/expenses; before finance income/expenses, final tax on interest and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 6455.632,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Income for the year attributable to equity holders of the parent entity",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 735,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (angka penuh) / Basic EPS (full amount)",
+                "basis": "consolidated",
+                "share_basis": "2021-03-19",
+                "note": "Basic EPS as printed (Rp, full amount); no diluted EPS line. No share issue, buyback or split since 2008, so weighted-average shares = 8,780,426,500."
+            },
+            "payout_ratio": {
+                "v": 38,
+                "source_url": "https://www.indofood.com/uploads/annual/INDF_AR2021_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-08-27",
+                "loc": "PDF p. 43, Shareholders/Dividend and Market Capitalization: 'a total dividend of Rp2.44 trillion or Rp278 per share, representing around 38% dividend payout' (AGM 27 Aug 2021)",
+                "basis": "consolidated",
+                "note": "Dividend payout as reported (single final cash dividend; no interim dividend for FY2020-FY2025), 'around' as printed. Approved by the AGMS of 2021-08-27."
+            },
+            "total_assets": {
+                "v": 163136.516,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Originally reported figure from the FY2020 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 163,011,780 (1 Jan 2021))."
+            },
+            "total_liabilities": {
+                "v": 83998.472,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "Originally reported figure from the FY2020 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 83,357,830)."
+            },
+            "cash": {
+                "v": 17336.96,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented in the statement of financial position; short-term investments are a separate line and excluded. The cash-flow statement closing balance (17,329,459) is net of bank overdrafts; the balance-sheet figure is stored."
+            },
+            "total_debt": {
+                "v": 53286.284,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, current liabilities (short-term bank loans; current maturities of long-term debts) + 'Total utang jangka panjang' (non-current)",
+                "basis": "consolidated",
+                "note": "Short-term bank loans and overdraft 13,800,300 + current maturities of long-term bank loans 912,918 + total long-term debts 38,573,066 (bank loans 36,568,706 + bonds payable 1,996,572 + others 7,788) (Rp juta). Excluded: lease liabilities (99,787 + 134,355) and 'other long-term liabilities' 9,168,257 = the US$650 m retention amount payable for ICBP's Pinehill (PCL) acquisition (deferred purchase consideration, FS Note 1), not a borrowing. Equals the company's own 'Funded Debt' (Pinjaman yang Dikenakan Bunga) 53,286.3 (AR2020 p. 6). 'Others' = 'utang jangka panjang lainnya' (other long-term debt; FS2020 Note 20c, PDF p. 161: an unsecured interest-bearing Rupiah loan to subsidiary TSP from PT Daya Usaha Abadi; not described in later FS). Amounts due to related parties are not included (as in Funded Debt)."
+            },
+            "equity_attr": {
+                "v": 42374.298,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to equity holders of the parent entity",
+                "basis": "consolidated",
+                "note": "Excludes the large non-controlling interests (minorities of ICBP, SIMP, IFAR/Lonsum etc.). Originally reported figure from the FY2020 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 42,775,704 (1 Jan 2021))."
+            },
+            "total_equity": {
+                "v": 79138.044,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, TOTAL EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests. Originally reported figure from the FY2020 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 79,653,950 (1 Jan 2021))."
+            },
+            "shares_out": {
+                "v": 8780426500,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 167, Note Modal saham / Capital stock - Total 8.780.426.500 shares issued and fully paid",
+                "share_basis": "2021-03-19",
+                "note": "Issued and fully paid shares; the Company holds no treasury shares (last treasury shares redeemed/sold 27 Jun 2008, FS Note 1d chronology)."
+            },
+            "year_end_price": {
+                "v": 6850,
+                "source_url": "https://www.indofood.com/uploads/annual/ism_2020ar_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 20, Share Price Information - text 'closing at Rp6,850' and quarterly table (Q4-2020 / During the Year closing 6.850)",
+                "share_basis": "2021-06-30",
+                "note": "Closing price as printed in the AR share table (source cited by the AR: IDX). No split or bonus issue since the 1:5 par-value split of 20 Jul 2000, so no restatement."
+            },
+            "cfo": {
+                "v": 13855.497,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12, Kas neto yang diperoleh dari aktivitas operasi / Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "Direct-method cash-flow statement."
+            },
+            "capex": {
+                "v": 4398.3,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_Bilingual_December%2031%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12, investing activities - 'Penambahan aset tetap, tanaman perkebunan dan pembayaran uang muka aset tetap' / Additions to fixed assets, plantations and payments of advances for fixed assets",
+                "basis": "consolidated",
+                "note": "One combined line: fixed assets + plantations (bearer plants) + advances for fixed assets (4,398,300 Rp juta); equals 'Capital Expenditures (including advance for purchases of assets)' in the AR highlights. 'Additions to biological assets' (194,004 Rp juta) is a separate line and NOT included."
+            },
+            "roe": {
+                "v": 13.1,
+                "source_url": "https://www.indofood.com/uploads/annual/ism_2020ar_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 6, Financial Highlights - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: 'Return represents total return including Non-Controlling Interests' - i.e. income for the year incl. NCI over (average) total equity incl. NCI (2025: 15,556.4 / avg(120,235.2; 108,991.3) = 13.6%). NOT a return on equity attributable to owners."
+            },
+            "roa": {
+                "v": 6.7,
+                "source_url": "https://www.indofood.com/uploads/annual/ism_2020ar_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 6, Financial Highlights - Return on Assets (%) - Net Income",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: total income for the year incl. NCI over (average) total assets (2025: 15,556.4 / avg(217,981.8; 201,713.3) = 7.4%). AR2022 restates FY2020 to 6.8%."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 99345.618,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (penjualan neto), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 32464.061,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated",
+                "note": "Originally reported figure from the FY2021 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 32,474,104)."
+            },
+            "ebitda": {
+                "v": 20753.2,
+                "source_url": "https://www.indofood.com/uploads/annual/INDF_AR2021_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 6, Financial Highlights / Ikhtisar Keuangan - EBITDA 2021 column (in billions of Rupiah)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in the AR financial highlights (Rp billion as printed), shown directly below 'Income from Operations (EBIT)'. The AR prints no definition and the FS have no EBITDA line; the company does not publish EBITDA for interim periods. AR2022/AR2023/AR2024 restate FY2021 to 20,785.7 (PSAK 24 restatement); the originally reported AR2021 figure is stored."
+            },
+            "operating_profit": {
+                "v": 16882.324,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, LABA USAHA / INCOME FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented (the AR calls it EBIT): gross profit less selling & distribution and G&A expenses, +/- fair-value gain/loss on biological assets and other operating income/expenses; before finance income/expenses, final tax on interest and share of associates/JVs. Originally reported figure from the FY2021 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 16,914,849)."
+            },
+            "net_profit_attr": {
+                "v": 7642.197,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Income for the year attributable to equity holders of the parent entity",
+                "basis": "consolidated",
+                "note": "Originally reported figure from the FY2021 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 7,662,254; EPS 873)."
+            },
+            "eps": {
+                "v": 870,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (angka penuh) / Basic EPS (full amount)",
+                "basis": "consolidated",
+                "share_basis": "2022-03-29",
+                "note": "Basic EPS as printed (Rp, full amount); no diluted EPS line. No share issue, buyback or split since 2008, so weighted-average shares = 8,780,426,500. FS2022 restates FY2021 EPS to 873 (PSAK 24)."
+            },
+            "payout_ratio": {
+                "v": 32,
+                "source_url": "https://www.indofood.com/uploads/annual/ISM_AR_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-07-22",
+                "loc": "PDF p. 41, Dividend and Market Capitalization: 'Rp2.44 trillion or Rp278 per share, representing around 32% dividend payout' (AGM 22 Jul 2022)",
+                "basis": "consolidated",
+                "note": "Dividend payout as reported (single final cash dividend; no interim dividend for FY2020-FY2025), 'around' as printed. Approved by the AGMS of 2022-07-22."
+            },
+            "total_assets": {
+                "v": 179356.193,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Laporan posisi keuangan - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Originally reported figure from the FY2021 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 179,271,840)."
+            },
+            "total_liabilities": {
+                "v": 92724.082,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "Originally reported figure from the FY2021 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 92,285,331)."
+            },
+            "cash": {
+                "v": 29478.126,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented in the statement of financial position; short-term investments are a separate line and excluded."
+            },
+            "total_debt": {
+                "v": 61780.344,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, current liabilities (short-term bank loans; current maturities of long-term debts) + 'Total utang jangka panjang' (non-current)",
+                "basis": "consolidated",
+                "note": "Short-term bank loans and overdraft 13,305,721 + current maturities: bank loans 2,012,532 + bonds payable 1,998,992 (Indofood Bond VIII, due May 2022) + total long-term debts 44,463,099 (bank loans 5,503,779 + bonds payable 38,951,532 + others 7,788) (Rp juta). Excluded: lease liabilities (78,005 + 172,219) and 'other short-term liabilities' 9,274,857 (PCL retention amount, FS Note 1). Equals the company's own 'Funded Debt' (Pinjaman yang Dikenakan Bunga) 61,780.3 (AR2021 p. 6). 'Others' = 'utang jangka panjang lainnya' (other long-term debt; FS2020 Note 20c, PDF p. 161: an unsecured interest-bearing Rupiah loan to subsidiary TSP from PT Daya Usaha Abadi; not described in later FS). Amounts due to related parties are not included (as in Funded Debt)."
+            },
+            "equity_attr": {
+                "v": 48264.727,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to equity holders of the parent entity",
+                "basis": "consolidated",
+                "note": "Excludes the large non-controlling interests (minorities of ICBP, SIMP, IFAR/Lonsum etc.). Originally reported figure from the FY2021 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 48,535,675)."
+            },
+            "total_equity": {
+                "v": 86632.111,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, TOTAL EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests. Originally reported figure from the FY2021 audited FS; FS2022 Note 4 restated it for the PSAK 24 benefit-attribution change (restated: 86,986,509)."
+            },
+            "shares_out": {
+                "v": 8780426500,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 148, Note Modal saham / Capital stock - Total 8.780.426.500 shares issued and fully paid",
+                "share_basis": "2022-03-29",
+                "note": "Issued and fully paid shares; the Company holds no treasury shares (last treasury shares redeemed/sold 27 Jun 2008, FS Note 1d chronology)."
+            },
+            "year_end_price": {
+                "v": 6325,
+                "source_url": "https://www.indofood.com/uploads/annual/INDF_AR2021_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 20-21, Share Price Information - 'closing at Rp6,325'; table Q4-2021 / During the Year closing 6.325",
+                "share_basis": "2022-05-30",
+                "note": "Closing price as printed in the AR share table (source cited by the AR: IDX). No split or bonus issue since the 1:5 par-value split of 20 Jul 2000, so no restatement."
+            },
+            "cfo": {
+                "v": 14692.641,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, Kas neto yang diperoleh dari aktivitas operasi / Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "Direct-method cash-flow statement."
+            },
+            "capex": {
+                "v": 4594.593,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, investing activities - 'Penambahan aset tetap, tanaman perkebunan dan pembayaran uang muka aset tetap' / Additions to fixed assets, plantations and payments of advances for fixed assets",
+                "basis": "consolidated",
+                "note": "One combined line: fixed assets + plantations (bearer plants) + advances for fixed assets (4,594,593 Rp juta); equals 'Capital Expenditures (including advance for purchases of assets)' in the AR highlights. 'Additions to biological assets' (190,075 Rp juta) is a separate line and NOT included."
+            },
+            "roe": {
+                "v": 13.5,
+                "source_url": "https://www.indofood.com/uploads/annual/INDF_AR2021_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 6, Financial Highlights - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: 'Return represents total return including Non-Controlling Interests' - i.e. income for the year incl. NCI over (average) total equity incl. NCI (2025: 15,556.4 / avg(120,235.2; 108,991.3) = 13.6%). NOT a return on equity attributable to owners."
+            },
+            "roa": {
+                "v": 6.5,
+                "source_url": "https://www.indofood.com/uploads/annual/INDF_AR2021_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 6, Financial Highlights - Return on Assets (%) - Net Income",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: total income for the year incl. NCI over (average) total assets (2025: 15,556.4 / avg(217,981.8; 201,713.3) = 7.4%)."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 110830.272,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Consolidated statement of profit or loss - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (penjualan neto), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 33971.679,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 23604.4,
+                "source_url": "https://www.indofood.com/uploads/annual/ISM_AR_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 6, Financial Highlights / Ikhtisar Keuangan - EBITDA 2022 column (in billions of Rupiah)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in the AR financial highlights (Rp billion as printed), shown directly below 'Income from Operations (EBIT)'. The AR prints no definition and the FS have no EBITDA line; the company does not publish EBITDA for interim periods."
+            },
+            "operating_profit": {
+                "v": 19693.11,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, LABA USAHA / INCOME FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented (the AR calls it EBIT): gross profit less selling & distribution and G&A expenses, +/- fair-value gain/loss on biological assets and other operating income/expenses; before finance income/expenses, final tax on interest and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 6359.094,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Income for the year attributable to equity holders of the parent entity",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 724,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (angka penuh) / Basic EPS (full amount)",
+                "basis": "consolidated",
+                "share_basis": "2023-03-23",
+                "note": "Basic EPS as printed (Rp, full amount); no diluted EPS line. No share issue, buyback or split since 2008, so weighted-average shares = 8,780,426,500."
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.indofood.com/uploads/annual/AR%20Indofood%202023_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-06-23",
+                "loc": "PDF p. 38, Dividend and Market Capitalization: 'Rp2.26 trillion or Rp257 per share, representing around 35% dividend payout' (AGM 23 Jun 2023)",
+                "basis": "consolidated",
+                "note": "Dividend payout as reported (single final cash dividend; no interim dividend for FY2020-FY2025), 'around' as printed. Approved by the AGMS of 2023-06-23."
+            },
+            "total_assets": {
+                "v": 180433.3,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Laporan posisi keuangan - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 86810.262,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 25945.916,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented in the statement of financial position; short-term investments are a separate line and excluded."
+            },
+            "total_debt": {
+                "v": 66063.975,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, current liabilities (short-term bank loans; current maturities of long-term debts) + 'Total utang jangka panjang' (non-current)",
+                "basis": "consolidated",
+                "note": "Short-term bank loans, overdrafts and trust receipts payable 15,254,754 + current maturities of long-term bank loans 1,627,501 + total long-term debts 49,181,720 (bank loans 6,205,281 + bonds payable 42,967,686 + others 8,753) (Rp juta). Lease liabilities (94,350 + 90,732) excluded. Equals the company's own 'Funded Debt' (Pinjaman yang Dikenakan Bunga) 66,064.0 (AR2022 p. 6). 'Others' = 'utang jangka panjang lainnya' (other long-term debt; FS2020 Note 20c, PDF p. 161: an unsecured interest-bearing Rupiah loan to subsidiary TSP from PT Daya Usaha Abadi; not described in later FS). Amounts due to related parties are not included (as in Funded Debt)."
+            },
+            "equity_attr": {
+                "v": 53843.836,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to equity holders of the parent entity",
+                "basis": "consolidated",
+                "note": "Excludes the large non-controlling interests (minorities of ICBP, SIMP, IFAR/Lonsum etc.)."
+            },
+            "total_equity": {
+                "v": 93623.038,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, TOTAL EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests."
+            },
+            "shares_out": {
+                "v": 8780426500,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 154, Note Modal saham / Capital stock - Total 8.780.426.500 shares issued and fully paid",
+                "share_basis": "2023-03-23",
+                "note": "Issued and fully paid shares; the Company holds no treasury shares (last treasury shares redeemed/sold 27 Jun 2008, FS Note 1d chronology)."
+            },
+            "year_end_price": {
+                "v": 6725,
+                "source_url": "https://www.indofood.com/uploads/annual/ISM_AR_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20-21, Share Price Information - 'closing at Rp6,725'; table Q4-2022 / During the Year closing 6.725",
+                "share_basis": "2023-05-02",
+                "note": "Closing price as printed in the AR share table (source cited by the AR: IDX). No split or bonus issue since the 1:5 par-value split of 20 Jul 2000, so no restatement."
+            },
+            "cfo": {
+                "v": 13587.686,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, Kas neto yang diperoleh dari aktivitas operasi / Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "Direct-method cash-flow statement. FS2023 re-presents FY2022 CFO as 13,624,195 (and additions to biological assets as 237,362); the original FS2022 figure is stored."
+            },
+            "capex": {
+                "v": 3741.651,
+                "source_url": "https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, investing activities - 'Penambahan aset tetap, tanaman perkebunan dan pembayaran uang muka aset tetap' / Additions to fixed assets, plantations and payments of advances for fixed assets",
+                "basis": "consolidated",
+                "note": "One combined line: fixed assets + plantations (bearer plants) + advances for fixed assets (3,741,651 Rp juta); equals 'Capital Expenditures (including advance for purchases of assets)' in the AR highlights. 'Additions to biological assets' (200,853 Rp juta) is a separate line and NOT included."
+            },
+            "roe": {
+                "v": 10.2,
+                "source_url": "https://www.indofood.com/uploads/annual/ISM_AR_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 6, Financial Highlights - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: 'Return represents total return including Non-Controlling Interests' - i.e. income for the year incl. NCI over (average) total equity incl. NCI (2025: 15,556.4 / avg(120,235.2; 108,991.3) = 13.6%). NOT a return on equity attributable to owners."
+            },
+            "roa": {
+                "v": 5.1,
+                "source_url": "https://www.indofood.com/uploads/annual/ISM_AR_2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 6, Financial Highlights - Return on Assets (%) - Net Income",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: total income for the year incl. NCI over (average) total assets (2025: 15,556.4 / avg(217,981.8; 201,713.3) = 7.4%)."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 111703.611,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Consolidated statement of profit or loss - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (penjualan neto), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 36050.469,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 23572.3,
+                "source_url": "https://www.indofood.com/uploads/annual/AR%20Indofood%202023_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 6, Financial Highlights / Ikhtisar Keuangan - EBITDA 2023 column (in billions of Rupiah)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in the AR financial highlights (Rp billion as printed), shown directly below 'Income from Operations (EBIT)'. The AR prints no definition and the FS have no EBITDA line; the company does not publish EBITDA for interim periods."
+            },
+            "operating_profit": {
+                "v": 19663.598,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, LABA USAHA / INCOME FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented (the AR calls it EBIT): gross profit less selling & distribution and G&A expenses, +/- fair-value gain/loss on biological assets and other operating income/expenses; before finance income/expenses, final tax on interest and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 8147.019,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Income for the year attributable to equity holders of the parent entity",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 928,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (angka penuh) / Basic EPS (full amount)",
+                "basis": "consolidated",
+                "share_basis": "2024-03-25",
+                "note": "Basic EPS as printed (Rp, full amount); no diluted EPS line. No share issue, buyback or split since 2008, so weighted-average shares = 8,780,426,500."
+            },
+            "payout_ratio": {
+                "v": 29,
+                "source_url": "https://www.indofood.com/uploads/annual/AR%20ISM%202024_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-06-28",
+                "loc": "PDF p. 38, Dividend and Market Capitalization: 'Rp2.34 trillion or Rp267 per share, representing a dividend payout of around 29%' (AGM 28 Jun 2024)",
+                "basis": "consolidated",
+                "note": "Dividend payout as reported (single final cash dividend; no interim dividend for FY2020-FY2025), 'around' as printed. Approved by the AGMS of 2024-06-28."
+            },
+            "total_assets": {
+                "v": 186587.957,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Laporan posisi keuangan - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 86123.066,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 28575.968,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented in the statement of financial position; short-term investments are a separate line and excluded."
+            },
+            "total_debt": {
+                "v": 64458.623,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, current liabilities (short-term bank loans; current maturities of long-term debts) + 'Total utang jangka panjang' (non-current)",
+                "basis": "consolidated",
+                "note": "Short-term bank loans, overdrafts and trust receipts payable 16,240,377 + current maturities of long-term bank loans 2,025,757 + total long-term debts 46,192,489 (bank loans 4,058,609 + bonds payable 42,125,127 + others 8,753) (Rp juta). Lease liabilities (119,559 + 114,483) excluded. Equals the company's own 'Funded Debt' (Pinjaman yang Dikenakan Bunga) 64,458.6 (AR2023 p. 6). 'Others' = 'utang jangka panjang lainnya' (other long-term debt; FS2020 Note 20c, PDF p. 161: an unsecured interest-bearing Rupiah loan to subsidiary TSP from PT Daya Usaha Abadi; not described in later FS). Amounts due to related parties are not included (as in Funded Debt)."
+            },
+            "equity_attr": {
+                "v": 59193.013,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to equity holders of the parent entity",
+                "basis": "consolidated",
+                "note": "Excludes the large non-controlling interests (minorities of ICBP, SIMP, IFAR/Lonsum etc.)."
+            },
+            "total_equity": {
+                "v": 100464.891,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, TOTAL EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests."
+            },
+            "shares_out": {
+                "v": 8780426500,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 134, Note Modal saham / Capital stock - Total 8.780.426.500 shares issued and fully paid",
+                "share_basis": "2024-03-25",
+                "note": "Issued and fully paid shares; the Company holds no treasury shares (last treasury shares redeemed/sold 27 Jun 2008, FS Note 1d chronology)."
+            },
+            "year_end_price": {
+                "v": 6450,
+                "source_url": "https://www.indofood.com/uploads/annual/AR%20Indofood%202023_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20-21, Share Price Information - 'closing at Rp6,450'; table Q4-2023 / During the Year closing 6.450",
+                "share_basis": "2024-04-30",
+                "note": "Closing price as printed in the AR share table (source cited by the AR: IDX). No split or bonus issue since the 1:5 par-value split of 20 Jul 2000, so no restatement."
+            },
+            "cfo": {
+                "v": 18460.624,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19, Kas neto yang diperoleh dari aktivitas operasi / Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "Direct-method cash-flow statement."
+            },
+            "capex": {
+                "v": 3687.802,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19, investing activities - 'Penambahan aset tetap, tanaman perkebunan dan pembayaran uang muka aset tetap' / Additions to fixed assets, plantations and payments of advances for fixed assets",
+                "basis": "consolidated",
+                "note": "One combined line: fixed assets + plantations (bearer plants) + advances for fixed assets (3,687,802 Rp juta); equals 'Capital Expenditures (including advance for purchases of assets)' in the AR highlights. 'Additions to biological assets' (280,062 Rp juta) is a separate line and NOT included."
+            },
+            "roe": {
+                "v": 11.8,
+                "source_url": "https://www.indofood.com/uploads/annual/AR%20Indofood%202023_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 6, Financial Highlights - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: 'Return represents total return including Non-Controlling Interests' - i.e. income for the year incl. NCI over (average) total equity incl. NCI (2025: 15,556.4 / avg(120,235.2; 108,991.3) = 13.6%). NOT a return on equity attributable to owners."
+            },
+            "roa": {
+                "v": 6.3,
+                "source_url": "https://www.indofood.com/uploads/annual/AR%20Indofood%202023_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 6, Financial Highlights - Return on Assets (%) - Net Income",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: total income for the year incl. NCI over (average) total assets (2025: 15,556.4 / avg(217,981.8; 201,713.3) = 7.4%)."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 115786.525,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Consolidated statement of profit or loss - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (penjualan neto), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 40136.529,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 27105.5,
+                "source_url": "https://www.indofood.com/uploads/annual/AR%20ISM%202024_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 6, Financial Highlights / Ikhtisar Keuangan - EBITDA 2024 column (in billions of Rupiah)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in the AR financial highlights (Rp billion as printed), shown directly below 'Income from Operations (EBIT)'. The AR prints no definition and the FS have no EBITDA line; the company does not publish EBITDA for interim periods."
+            },
+            "operating_profit": {
+                "v": 23088.184,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, LABA USAHA / INCOME FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented (the AR calls it EBIT): gross profit less selling & distribution and G&A expenses, +/- fair-value gain/loss on biological assets and other operating income/expenses; before finance income/expenses, final tax on interest and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 8641.612,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Income for the year attributable to equity holders of the parent entity",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 984,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (angka penuh) / Basic EPS (full amount)",
+                "basis": "consolidated",
+                "share_basis": "2025-03-25",
+                "note": "Basic EPS as printed (Rp, full amount); no diluted EPS line. No share issue, buyback or split since 2008, so weighted-average shares = 8,780,426,500."
+            },
+            "payout_ratio": {
+                "v": 28,
+                "source_url": "https://www.indofood.com/uploads/annual/AR_ISM_2025_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-20",
+                "loc": "PDF p. 35, Dividend and Market Capitalization: 'Rp2.46 trillion or Rp280 per share, representing a dividend payout of around 28%' (AGM 20 Jun 2025)",
+                "basis": "consolidated",
+                "note": "Dividend payout as reported (single final cash dividend; no interim dividend for FY2020-FY2025), 'around' as printed. Approved by the AGMS of 2025-06-20."
+            },
+            "total_assets": {
+                "v": 201713.313,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Laporan posisi keuangan - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 92722.03,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 38710.056,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented in the statement of financial position; short-term investments are a separate line and excluded."
+            },
+            "total_debt": {
+                "v": 70808.34,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, current liabilities (short-term bank loans; current maturities of long-term debts) + 'Total utang jangka panjang' (non-current)",
+                "basis": "consolidated",
+                "note": "Short-term bank loans, overdrafts and trust receipts payable 20,951,159 + current maturities of long-term bank loans 621,682 + total long-term debts 49,235,499 (bank loans 5,015,530 + bonds payable 44,211,216 + others 8,753) (Rp juta). Lease liabilities (79,787 + 137,277) excluded. Equals the company's own 'Funded Debt' (Pinjaman yang Dikenakan Bunga) 70,808.3 (AR2024 p. 6). 'Others' = 'utang jangka panjang lainnya' (other long-term debt; FS2020 Note 20c, PDF p. 161: an unsecured interest-bearing Rupiah loan to subsidiary TSP from PT Daya Usaha Abadi; not described in later FS). Amounts due to related parties are not included (as in Funded Debt)."
+            },
+            "equity_attr": {
+                "v": 65113.504,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to equity holders of the parent entity",
+                "basis": "consolidated",
+                "note": "Excludes the large non-controlling interests (minorities of ICBP, SIMP, IFAR/Lonsum etc.)."
+            },
+            "total_equity": {
+                "v": 108991.283,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, TOTAL EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests."
+            },
+            "shares_out": {
+                "v": 8780426500,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 126, Note Modal saham / Capital stock - Total 8.780.426.500 shares issued and fully paid",
+                "share_basis": "2025-03-25",
+                "note": "Issued and fully paid shares; the Company holds no treasury shares (last treasury shares redeemed/sold 27 Jun 2008, FS Note 1d chronology)."
+            },
+            "year_end_price": {
+                "v": 7700,
+                "source_url": "https://www.indofood.com/uploads/annual/AR%20ISM%202024_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20-21, Share Price Information - 'closing at Rp7,700'; table Q4-2024 / During the Year closing 7.700",
+                "share_basis": "2025-04-30",
+                "note": "Closing price as printed in the AR share table (source cited by the AR: IDX). No split or bonus issue since the 1:5 par-value split of 20 Jul 2000, so no restatement."
+            },
+            "cfo": {
+                "v": 17507.956,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, Kas neto yang diperoleh dari aktivitas operasi / Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "Direct-method cash-flow statement."
+            },
+            "capex": {
+                "v": 5417.096,
+                "source_url": "https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, investing activities - 'Penambahan aset tetap, tanaman perkebunan dan pembayaran uang muka aset tetap' / Additions to fixed assets, plantations and payments of advances for fixed assets",
+                "basis": "consolidated",
+                "note": "One combined line: fixed assets + plantations (bearer plants) + advances for fixed assets (5,417,096 Rp juta); equals 'Capital Expenditures (including advance for purchases of assets)' in the AR highlights. 'Additions to biological assets' (272,326 Rp juta) is a separate line and NOT included."
+            },
+            "roe": {
+                "v": 12.5,
+                "source_url": "https://www.indofood.com/uploads/annual/AR%20ISM%202024_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 6, Financial Highlights - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: 'Return represents total return including Non-Controlling Interests' - i.e. income for the year incl. NCI over (average) total equity incl. NCI (2025: 15,556.4 / avg(120,235.2; 108,991.3) = 13.6%). NOT a return on equity attributable to owners."
+            },
+            "roa": {
+                "v": 6.7,
+                "source_url": "https://www.indofood.com/uploads/annual/AR%20ISM%202024_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 6, Financial Highlights - Return on Assets (%) - Net Income",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: total income for the year incl. NCI over (average) total assets (2025: 15,556.4 / avg(217,981.8; 201,713.3) = 7.4%)."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 123493.214,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Consolidated statement of profit or loss - PENJUALAN NETO / NET SALES",
+                "basis": "consolidated",
+                "note": "Consolidated net sales (penjualan neto), Rp juta / 1,000."
+            },
+            "gross_profit": {
+                "v": 41192.355,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, LABA BRUTO / GROSS PROFIT",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 28735.5,
+                "source_url": "https://www.indofood.com/uploads/annual/AR_ISM_2025_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 6, Financial Highlights / Ikhtisar Keuangan - EBITDA 2025 column (in billions of Rupiah)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company in the AR financial highlights (Rp billion as printed), shown directly below 'Income from Operations (EBIT)'. The AR prints no definition and the FS have no EBITDA line; the company does not publish EBITDA for interim periods."
+            },
+            "operating_profit": {
+                "v": 24569.137,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, LABA USAHA / INCOME FROM OPERATIONS",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented (the AR calls it EBIT): gross profit less selling & distribution and G&A expenses, +/- fair-value gain/loss on biological assets and other operating income/expenses; before finance income/expenses, final tax on interest and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 10684.653,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Income for the year attributable to equity holders of the parent entity",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 1217,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, LABA PER SAHAM DASAR YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK ENTITAS INDUK (angka penuh) / Basic EPS (full amount)",
+                "basis": "consolidated",
+                "share_basis": "2026-03-27",
+                "note": "Basic EPS as printed (Rp, full amount); no diluted EPS line. No share issue, buyback or split since 2008, so weighted-average shares = 8,780,426,500."
+            },
+            "payout_ratio": {
+                "v": 24,
+                "source_url": "https://www.indofood.com/investor-relation/dividend-history",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-26",
+                "loc": "IR page 'Dividends' table: Financial Year 2025 - Rp290 per share - payment 2026-07-29 - Payout Ratio 24% (page fetched 2026-11-04)",
+                "basis": "consolidated",
+                "note": "Dividend payout as reported (single final cash dividend; no interim dividend for FY2020-FY2025), 'around' as printed. The AR2026 is not published yet; the IR page prints 24%. Approved by the AGMS of 2026-06-26."
+            },
+            "total_assets": {
+                "v": 217981.765,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Laporan posisi keuangan - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 97746.518,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 47470.705,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents as presented in the statement of financial position; short-term investments are a separate line and excluded."
+            },
+            "total_debt": {
+                "v": 74568.395,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, current liabilities (short-term bank loans; current maturities of long-term debts) + 'Total utang jangka panjang' (non-current)",
+                "basis": "consolidated",
+                "note": "Short-term bank loans, overdrafts and trust receipts payable 21,302,945 + current maturities of long-term bank loans 4,021,304 + total long-term debts 49,244,146 (bank loans 3,299,113 + bonds payable 45,936,280 + others 8,753) (Rp juta). Lease liabilities (248,213 + 141,909) excluded. Bonds = ICBP's four USD global bonds (US$2.75 bn face, FS Note 19b p. 116). Equals the company's own 'Funded Debt' (Pinjaman yang Dikenakan Bunga) 74,568.4 (AR2025 p. 6). 'Others' = 'utang jangka panjang lainnya' (other long-term debt; FS2020 Note 20c, PDF p. 161: an unsecured interest-bearing Rupiah loan to subsidiary TSP from PT Daya Usaha Abadi; not described in later FS). Amounts due to related parties are not included (as in Funded Debt)."
+            },
+            "equity_attr": {
+                "v": 73147.337,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to equity holders of the parent entity",
+                "basis": "consolidated",
+                "note": "Excludes the large non-controlling interests (minorities of ICBP, SIMP, IFAR/Lonsum etc.)."
+            },
+            "total_equity": {
+                "v": 120235.247,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, TOTAL EKUITAS / TOTAL EQUITY",
+                "basis": "consolidated",
+                "note": "Includes non-controlling interests."
+            },
+            "shares_out": {
+                "v": 8780426500,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 126, Note Modal saham / Capital stock - Total 8.780.426.500 shares issued and fully paid",
+                "share_basis": "2026-03-27",
+                "note": "Issued and fully paid shares; the Company holds no treasury shares (last treasury shares redeemed/sold 27 Jun 2008, FS Note 1d chronology)."
+            },
+            "year_end_price": {
+                "v": 6775,
+                "source_url": "https://www.indofood.com/uploads/annual/AR_ISM_2025_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20-21, Share Price Information - 'closing at Rp6,775'; table Q4-2025 / During the Year closing 6.775 (market cap 59,487,390 Rp juta)",
+                "share_basis": "2026-04-29",
+                "note": "Closing price as printed in the AR share table (source cited by the AR: IDX). No split or bonus issue since the 1:5 par-value split of 20 Jul 2000, so no restatement."
+            },
+            "cfo": {
+                "v": 19540.729,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Kas neto yang diperoleh dari aktivitas operasi / Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "Direct-method cash-flow statement."
+            },
+            "capex": {
+                "v": 5295.206,
+                "source_url": "https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, investing activities - 'Penambahan aset tetap, tanaman perkebunan dan pembayaran uang muka aset tetap' / Additions to fixed assets, plantations and payments of advances for fixed assets",
+                "basis": "consolidated",
+                "note": "One combined line: fixed assets + plantations (bearer plants) + advances for fixed assets (5,295,206 Rp juta); equals 'Capital Expenditures (including advance for purchases of assets)' in the AR highlights. 'Additions to biological assets' (306,346 Rp juta) is a separate line and NOT included."
+            },
+            "roe": {
+                "v": 13.6,
+                "source_url": "https://www.indofood.com/uploads/annual/AR_ISM_2025_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 6, Financial Highlights - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: 'Return represents total return including Non-Controlling Interests' - i.e. income for the year incl. NCI over (average) total equity incl. NCI (2025: 15,556.4 / avg(120,235.2; 108,991.3) = 13.6%). NOT a return on equity attributable to owners."
+            },
+            "roa": {
+                "v": 7.4,
+                "source_url": "https://www.indofood.com/uploads/annual/AR_ISM_2025_web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 6, Financial Highlights - Return on Assets (%) - Net Income",
+                "basis": "consolidated",
+                "note": "As reported; footnote 4: total income for the year incl. NCI over (average) total assets (2025: 15,556.4 / avg(217,981.8; 201,713.3) = 7.4%)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 278,
+            "total": 2440.959,
+            "cum_date": "2021-09-06",
+            "ex_date": "2021-09-07",
+            "record_date": "2021-09-08",
+            "pay_date": "2021-09-29",
+            "share_basis": "2021-08-27",
+            "source_url": "https://www.indofood.com/uploads/shareholder/Resolutions-RUPST-RUPSLB-(ISM)-2021.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-08-27",
+            "loc": "AGMS resolutions summary (AGMS 2021-08-27, announced 2021-08-31), PDF p. 1, Third agenda + Schedule of Cash Dividend Payment: Rp278 per share; cum/ex regular & negotiated market 2021-09-06/2021-09-07; recording 2021-09-08; payment 2021-09-29",
+            "note": "Final cash dividend for FY2020 in rupiah as declared (IDR reporter). The summary states only the DPS; total Rp2,440,959 juta (= DPS x 8,780,426,500 shares; no treasury shares) from FS2021 PDF p. 150, Note 24, https://www.indofood.com/uploads/statement/INDF_billingual_31_Dec_2021_released.pdf. Cash-market cum date = recording date, cash-market ex date the next trading day (per the summary). No interim or special dividend for FY2020."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 278,
+            "total": 2440.959,
+            "cum_date": "2022-08-01",
+            "ex_date": "2022-08-02",
+            "record_date": "2022-08-03",
+            "pay_date": "2022-08-24",
+            "share_basis": "2022-07-22",
+            "source_url": "https://www.indofood.com/uploads/shareholder/Resolutions-RUPST-ISM%20English-2022.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-07-22",
+            "loc": "AGMS resolutions summary (AGMS 2022-07-22, announced 2022-07-26), PDF p. 1, Third agenda + Schedule of Cash Dividend Payment: Rp278 per share; cum/ex regular & negotiated market 2022-08-01/2022-08-02; recording 2022-08-03; payment 2022-08-24",
+            "note": "Final cash dividend for FY2021 in rupiah as declared (IDR reporter). The summary states only the DPS; total Rp2,440,959 juta (= DPS x 8,780,426,500 shares; no treasury shares) from FS2022 PDF p. 156, Note 24, https://www.indofood.com/uploads/statement/indofood%20_billingual_31_december_2022_released.pdf. Cash-market cum date = recording date, cash-market ex date the next trading day (per the summary). No interim or special dividend for FY2021."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 257,
+            "total": 2256.57,
+            "cum_date": "2023-07-06",
+            "ex_date": "2023-07-07",
+            "record_date": "2023-07-10",
+            "pay_date": "2023-07-26",
+            "share_basis": "2023-06-23",
+            "source_url": "https://www.indofood.com/uploads/shareholder/ISM%20Hasil%20RUPST%202023%20(Eng)%20final.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-06-23",
+            "loc": "AGMS resolutions summary (AGMS 2023-06-23, announced 2023-06-27), PDF p. 2, Third agenda + Schedule of Cash Dividend Payment: Rp257 per share; cum/ex regular & negotiated market 2023-07-06/2023-07-07; recording 2023-07-10; payment 2023-07-26",
+            "note": "Final cash dividend for FY2022 in rupiah as declared (IDR reporter). The summary states only the DPS; total Rp2,256,570 juta (= DPS x 8,780,426,500 shares; no treasury shares) from FS2023 PDF p. 136, Note 23, https://www.indofood.com/uploads/statement/INDF_billingual_31_december_2023_released.pdf. Cash-market cum date = recording date, cash-market ex date the next trading day (per the summary). No interim or special dividend for FY2022."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 267,
+            "total": 2344.374,
+            "cum_date": "2024-07-08",
+            "ex_date": "2024-07-09",
+            "record_date": "2024-07-10",
+            "pay_date": "2024-07-26",
+            "share_basis": "2024-06-28",
+            "source_url": "https://www.indofood.com/uploads/shareholder/ISM%20Ringkasan%20Risalah%20RUPST%202024%20(Eng)%20final.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-06-28",
+            "loc": "AGMS resolutions summary (AGMS 2024-06-28, announced 2024-07-02), PDF p. 2, Third agenda + Schedule of Cash Dividend Payment: Rp267 per share; cum/ex regular & negotiated market 2024-07-08/2024-07-09; recording 2024-07-10; payment 2024-07-26",
+            "note": "Final cash dividend for FY2023 in rupiah as declared (IDR reporter). The summary states only the DPS; total Rp2,344,374 juta (= DPS x 8,780,426,500 shares; no treasury shares) from FS2024 PDF p. 127, Note 23, https://www.indofood.com/uploads/statement/INDF_billingual_31_desember_2024_released%20unlock.pdf. Cash-market cum date = recording date, cash-market ex date the next trading day (per the summary). No interim or special dividend for FY2023."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 280,
+            "total": 2458.52,
+            "cum_date": "2025-07-01",
+            "ex_date": "2025-07-02",
+            "record_date": "2025-07-03",
+            "pay_date": "2025-07-23",
+            "share_basis": "2025-06-20",
+            "source_url": "https://www.indofood.com/uploads/shareholder/ISM%20Ringkasan%20Risalah%20RUPST%202025%20(Eng)%20final.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-20",
+            "loc": "AGMS resolutions summary (AGMS 2025-06-20, announced 2025-06-24), PDF p. 2, Third agenda + Schedule of Cash Dividend Payment: Rp280 per share; cum/ex regular & negotiated market 2025-07-01/2025-07-02; recording 2025-07-03; payment 2025-07-23",
+            "note": "Final cash dividend for FY2024 in rupiah as declared (IDR reporter). The summary states only the DPS; total Rp2,458,520 juta (= DPS x 8,780,426,500 shares; no treasury shares) from FS2025 PDF p. 127, Note 23, https://www.indofood.com/uploads/statement/ISM_billingual_31_december_2025_released.pdf. Cash-market cum date = recording date, cash-market ex date the next trading day (per the summary). No interim or special dividend for FY2024."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 290,
+            "total": 2546.324,
+            "cum_date": "2026-07-06",
+            "ex_date": "2026-07-07",
+            "record_date": "2026-07-08",
+            "pay_date": "2026-07-29",
+            "share_basis": "2026-06-26",
+            "source_url": "https://www.indofood.com/uploads/shareholder/ISM%20Ringkasan%20Risalah%20RUPST%202026%20(Eng)%20final.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-06-26",
+            "loc": "AGMS resolutions summary (AGMS 2026-06-26, announced 2026-06-30), PDF p. 2, Third agenda + Schedule of Cash Dividend Payment: Rp290 per share; cum/ex regular & negotiated market 2026-07-06/2026-07-07; recording 2026-07-08; payment 2026-07-29",
+            "note": "Final cash dividend for FY2025 in rupiah as declared (IDR reporter). The summary states only the DPS; total Rp2,546,324 juta (= DPS x 8,780,426,500 shares; no treasury shares) from 9M2026 interim FS PDF p. 103, Note 23, https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf. Cash-market cum date = recording date, cash-market ex date the next trading day (per the summary). No interim or special dividend for FY2025."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 101489.953,
+                "source_url": "https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Interim statement of profit or loss - PENJUALAN NETO (nine months 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited interim consolidated FS as of 30 Sep 2026 (authorised 30 Oct 2026), Rp juta / 1,000."
+            },
+            "revenue_ytd_prior": {
+                "v": 90981.09,
+                "source_url": "https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 7, comparative column nine months 2025",
+                "basis": "consolidated"
+            },
+            "ebitda_ytd": {
+                "v": null,
+                "note": "Not reported: INDF prints EBITDA only in the annual-report financial highlights. Checked the 9M2026 interim FS (no EBITDA in statements or segment note), the 8-page 9M2026 financial-results summary on indofood.com, and the IR 'Financial Press Releases' page (empty). Not computed."
+            },
+            "ebitda_ytd_prior": {
+                "v": null,
+                "note": "Not reported: the 9M2025 comparative column of the 9M2026 interim FS has no EBITDA, and INDF publishes EBITDA only in the AR highlights. Not computed."
+            },
+            "profit_ytd": {
+                "v": 7865.768,
+                "source_url": "https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk (nine months 2026)",
+                "basis": "consolidated",
+                "note": "Flat YoY (-0.2%) despite +11.5% sales and +14.9% income from operations: finance expenses include a net forex loss from financing activities of 3,824,737 (9M2025: 1,599,154) Rp juta (Note 30, PDF p. 111), i.e. the USD bonds as the rupiah weakened."
+            },
+            "profit_ytd_prior": {
+                "v": 7881.347,
+                "source_url": "https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 8, comparative column nine months 2025",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 79860.441,
+                "source_url": "https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 8780426500,
+                "source_url": "https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 102, Note 21 Modal saham - Total 8.780.426.500",
+                "share_basis": "2026-10-30",
+                "note": "No treasury shares at 30 Sep 2026. A buyback of up to Rp750 bn under POJK 13/2023 was announced on 23 Oct 2026 for 26 Oct-31 Dec 2026 (after the period end)."
+            },
+            "total_assets": {
+                "v": 231365.786,
+                "source_url": "https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 51450.612,
+                "source_url": "https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Kas dan setara kas",
+                "basis": "consolidated"
+            },
+            "total_debt": {
+                "v": 77537.328,
+                "source_url": "https://www.indofood.com/uploads/statement/Indf_Billingual_30_September_2026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, current: short-term bank loans/overdrafts/trust receipts 22,360,933 + current maturities of bank loans 2,962,991 + current 'others' 8,753; non-current: total long-term debts 52,204,651 (bank loans 2,908,840 + bonds payable 49,295,811) (Rp juta)",
+                "basis": "consolidated",
+                "note": "Same definition as the FY figures (= the company's 'funded debt' lines); lease liabilities (101,886 + 148,943) excluded. The bonds rose from 45,936,280 at end-2025 mainly on the rupiah translation of ICBP's USD bonds."
+            }
+        }
+    },
+    "validation_ack": [],
+    "research_notes": [
+        "Name and group: PT Indofood Sukses Makmur Tbk (unchanged; founded 1990 as PT Panganjaya Intikusuma, FS2025 Note 1a). Parent First Pacific Investment Management Ltd 50.07%, ultimate parent First Pacific Company Ltd, Hong Kong (FS2025 Note 1c, Note 21). Holding company: INDF consolidates PT Indofood CBP Sukses Makmur Tbk (ICBP, 80.5% effective), PT Salim Ivomas Pratama Tbk (SIMP, 61.6%), Indofood Agri Resources Ltd (IFAR, 74.3%) and others (FS2025 Note 1e, PDF p. 24). All figures are INDF's own consolidated FS; equity_attr excludes the large non-controlling interests (Rp47.1 tn at end-2025). Do not add ICBP figures on top (ICBP would be double-counted).",
+        "Currency/units: IDR reporter (FS 'Disajikan dalam Jutaan Rupiah'); all money in IDR billion = Rp juta / 1,000. EBITDA, ROE and ROA come from the AR financial highlights (printed in Rp billion / percent).",
+        "Source policy: each FY's figures come from that year's own audited consolidated FS (FS2019-FS2025, all downloaded from indofood.com/uploads/statement/), i.e. as originally reported. FS2022 Note 4 (PDF p. 95-97) restated 31 Dec 2020/1 Jan 2021 and FY2021 for the PSAK 24 'attributing benefit to periods of service' change (employee-benefit liabilities down, equity up): FY2021 net profit attributable 7,642,197 -> 7,662,254 (EPS 870 -> 873), equity attributable 48,264,727 -> 48,535,675, total equity 86,632,111 -> 86,986,509, total assets 179,356,193 -> 179,271,840, total liabilities 92,724,082 -> 92,285,331; 31 Dec 2020 equity attributable 42,374,298 -> 42,775,704, total equity 79,138,044 -> 79,653,950 (Rp juta). Revenue and debt were not affected. The original figures are stored; restated values are in each datum's note. FS2023 re-presents FY2022 CFO (13,587,686 -> 13,624,195); original stored. FY2019 levels in FS2019 equal the FS2020 comparatives.",
+        "total_debt = short-term bank loans/overdrafts/trust receipts + current maturities of long-term debts + total long-term debts (bank loans, bonds, a small 'other' interest-bearing loan of Rp7.3-8.8 bn); for every year it equals the 'Funded Debt / Pinjaman yang Dikenakan Bunga' line of the AR financial highlights. Excluded: lease liabilities (PSAK 73), amounts due to related parties, and the US$650 m retention amount payable for ICBP's Aug-2020 acquisition of Pinehill Company Ltd (PCL) shown as 'other long-term liabilities' 9,168,257 (2020) and 'other short-term liabilities' 9,274,857 (2021) - deferred purchase consideration, not a borrowing (FS2020 Note 1, PDF p. 30-33). The 2020 jump in bank loans (36.6 tn) financed the PCL acquisition and was refinanced in 2021 by ICBP's USD global bonds (US$1.15 bn 2031, US$600 m 2051, US$600 m 2032, US$400 m 2052; FS2025 Note 19b, IR 'Bond Issuance' page). INDF's own Rupiah Bond VIII (Rp2 tn, 8.70%) matured 26 May 2022.",
+        "EBITDA: reported only in the AR 'Financial Highlights' (PDF p. 6 of every AR, Rp billion, directly under 'Income from Operations (EBIT)'), without a printed definition; the FS, interim FS, results summaries and IR pages carry none, so interim EBITDA is null. Each year's own AR value is stored; AR2022 onwards restate FY2021 EBITDA 20,753.2 -> 20,785.7 (PSAK 24).",
+        "Capex = the single cash-flow line 'Additions to fixed assets, plantations and payments of advances for fixed assets' (includes bearer plants and capex advances), which the AR highlights call 'Capital Expenditures (including advance for purchases of assets)'. 'Additions to biological assets' (Rp194-306 bn a year) is a separate investing line and is not included.",
+        "ROE/ROA are stored exactly as printed in the AR highlights; per AR footnote 4 they are TOTAL returns including non-controlling interests (income for the year incl. NCI / average total equity or total assets), so they differ from a return on equity attributable to owners computed from net_profit_attr and equity_attr.",
+        "Dividends: one final cash dividend per year, approved at the AGMS and paid in Jul-Sep; no interim or special dividends for FY2020-FY2025 (FS dividend notes FS2021 p. 150, FS2022 p. 156, FS2023 p. 136, FS2024 p. 127, FS2025 p. 127, 9M2026 p. 103; the 'Payments of cash dividends' cash-flow line equals DPS x 8,780,426,500 in every year). DPS and regular-market cum/ex/recording/payment dates from the English AGMS resolutions summaries on indofood.com; totals from the FS dividend notes. The FY2020 AGMS was held on 27 Aug 2021 (later than the June meetings of 2023-2026), so the FY2020 dividend was paid on 29 Sep 2021. The IR 'Dividends' page (https://www.indofood.com/investor-relation/dividend-history) agrees on every DPS and payment date and prints payout ratios 38/32/35/29/28/24% for FY2020-FY2025.",
+        "Corporate actions 2019-01-01 to 2026-11-04: none (no split, reverse split, bonus or rights issue). FS Note 1d share chronology (FS2025 PDF p. 22-23; also 9M2026 PDF p. 14) and the IR 'Share Listings' page end with the 27 Jun 2008 redemption of 663,762,500 treasury shares; issued shares have been 8,780,426,500 (par Rp100) ever since, with no treasury shares. The last split was the 1:5 par-value split of 20 Jul 2000. corporate_actions is therefore an empty list and fy.2019.year_end_price is not needed.",
+        "Share buyback: on 23 Oct 2026 INDF disclosed a buyback of up to Rp750 bn through the IDX between 26 Oct and 31 Dec 2026 under POJK 13/2023 (fluctuating-market rules, no AGMS needed), not exceeding 20% of paid-in capital (disclosure: https://www.indofood.com/uploads/document/ISM_KI_Rencana%20Pembelian%20Kembali%20Saham%202026_final.pdf). Nothing was executed by 30 Sep 2026; any treasury shares bought from 26 Oct 2026 will reduce shares_out from the FY2026 FS onward (execution reports are on IDX, which blocks this server - not checked).",
+        "9M2026: net sales +11.5% YoY but profit attributable -0.2% YoY (7,865.8 vs 7,881.3 bn) because of a 3.82 tn net forex loss from financing activities (9M2025: 1.60 tn; 9M2026 FS Note 30, PDF p. 111); bonds payable rose to 49.3 tn as ICBP's USD bonds were translated at a weaker rupiah. H1 2026 net profit attributable was 4,724.3 bn (buyback disclosure pro forma table, based on the 30 Jun 2026 FS).",
+        "Year-end prices are the AR share-table closes (each AR's own year; AR2020 also gives Q4-2019 close 7,925, not stored). Dec-2025 close 6,775 = market cap Rp59.49 tn / 8,780,426,500 shares (AR2025 PDF p. 21, p. 35).",
+        "AR2022 (https://www.indofood.com/uploads/annual/ISM_AR_2022.pdf) is no longer on the live site (404 on 2026-11-04; the AR page links it but the file is gone); it was fetched from the Internet Archive snapshot 20230607193548 (7,086,363 bytes). Everything else was fetched directly from www.indofood.com (no bot challenge)."
+    ]
+}

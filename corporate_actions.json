@@ -698,6 +698,31 @@
             "note": "1 old share -> 1 bonus share (total 2 per old share; factor 2 if treated like a split), from capitalisation of share premium Rp5,870,461,682,500 at par Rp500. Issued shares 11,740,923,365 -> 23,481,846,730 (confirmed by the 30 Sep 2026 interim FS PDF p. 5 and Note 26 'Saham bonus Tahun 2026' (5,870,462)). Plan: information disclosure of 20 Feb 2026 (https://cdn.bankmega.com/prod.mega.cms.media/filer_public/48/47/4847219e-0358-4ac4-b471-99dd3bf25ec7/keterbukaan_informasi_rencana_pembagian_saham_bonus_eng_final.pdf, pp. 4-8). The FY2025 cash dividend has the same cum/ex/recording dates."
         },
         {
+            "code": "MIDI",
+            "type": "split",
+            "ratio_old": 1,
+            "ratio_new": 10,
+            "ex_date": "2023-03-06",
+            "source_url": "https://alfamidiku.com/medias/uploads/20230228_MIDI_%20Pengumuman%20Jadwal%20dan%20Tata%20Cara%20SS_Eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-02-28",
+            "loc": "Announcement \"Schedule and Procedure of Stock Split\" (Tangerang, 28 Feb 2023), schedule items 2-7",
+            "note": "1 old share -> 10 new shares; nominal Rp100 -> Rp10; 2,882,353,000 -> 28,823,530,000 shares. Approved by the EGMS of 17 Feb 2023 (resolutions summary, https://alfamidiku.com/medias/uploads/MIDI_Resolution%20Summary%20of%20EGMS%202023.pdf, First Agenda: \"stock split ratio of 1 : 10\"); MoLHR approval AHU-0011431.AH.01.02.Tahun 2023 of 20 Feb 2023. Last regular/negotiation-market trading at the old nominal 3 Mar 2023; first at the new nominal 6 Mar 2023 (= ex_date); recording date 7 Mar 2023; cash market suspended 6-7 Mar, new nominal from 8 Mar 2023. Confirmed by FS2023 Note 24 (PDF p. 94: split \"in March 6, 2023 which is applied retrospectively\") and the AR2025 share-listing chronology (PDF p. 81)."
+        },
+        {
+            "code": "MIDI",
+            "type": "rights",
+            "ratio_old": 625,
+            "ratio_new": 100,
+            "ex_date": "2023-07-06",
+            "price": 270,
+            "source_url": "https://alfamidiku.com/medias/uploads/Keterbukaan%20Informasi%20MIDI%20Prospektus%20Ringkas%20220623.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-06-22",
+            "loc": "Short prospectus PMHMETD I (\"Keterbukaan Informasi ... Prospektus Ringkas\", effective 22 Jun 2023), PDF p. 2 JADWAL and PMHMETD I terms",
+            "note": "PMHMETD I (rights issue I): each holder of 625 shares on the 7 Jul 2023 register received 100 HMETD; 1 right = 1 new share (Rp10 nominal) at the exercise price of Rp270. Cum-rights regular & negotiation market 5 Jul 2023, ex 6 Jul 2023 (cash market cum 7 / ex 10 Jul); rights trading and exercise 11-17 Jul 2023. 4,611,764,800 new shares (28,823,530,000 -> 33,435,294,800; listed 21 Jul 2023), proceeds Rp1,245,176,496,000 (net Rp1,232.9 bn, AR2025 PDF p. 148). The parent PT Sumber Alfaria Trijaya Tbk (89.43%) did not exercise and transferred its rights to PT BCA Sekuritas as selling agent to raise the free float. Approved by the EGMS of 17 Feb 2023 (Second Agenda). Full prospectus: https://alfamidiku.com/medias/uploads/MIDI_Prospektus%20PMHMETD%20I_202306.pdf. Not a split: no per-share adjustment factor."
+        },
+        {
             "code": "NOBU",
             "type": "rights",
             "ratio_old": 27,
@@ -764,6 +789,18 @@
             "as_of_date": "2024-12-24",
             "loc": "AR2024 PDF p. 19 (Stock Split box: ratio 1:10, 1,008,605,000 -> 10,086,050,000 shares, nominal Rp50 -> Rp5; EGMS 16 Dec 2024; IDX principle approval S-11477/BEI.PP1/10-2024) and PDF p. 20 (schedule: last regular/negotiated-market trading at the old nominal Thu 2 Jan 2025; first trading at the new nominal Fri 3 Jan 2025; recording date 6 Jan 2025; distribution 7 Jan 2025)",
             "note": "Stock split 1 old share -> 10 new shares (nominal Rp50 -> Rp5). Approved by the EGMS of 16 Dec 2024 (summary of minutes dated 17 Dec 2024, PDF p. 2: https://petrosea.com/wp-content/uploads/2024/12/PTRO-Ringkasan-Hasil-RUPSLB-16-Desember-2024__Eng.pdf); implementation disclosure 24 Dec 2024. AR2025 PDF p. 32 confirms: 3 Jan 2025 was the first regular-market day at Rp5 nominal; last close at Rp50 nominal on 2 Jan 2025 Rp27,500, first open at Rp5 nominal on 3 Jan 2025 Rp2,820. Cash market had no trading 3-6 Jan 2025. FS2025 calls the split 'effective 7 January 2025' (distribution date). No other split, reverse split, bonus or rights issue had an ex-date from 2019-01-01 to 2026-11-03 (AR2020-AR2025 'corporate actions' sections)."
+        },
+        {
+            "code": "UNVR",
+            "type": "split",
+            "ratio_old": 1,
+            "ratio_new": 5,
+            "ex_date": "2020-01-02",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/UNVR_MCONV_20200103_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2019-12-23",
+            "loc": "p. 1, KSEI notice KSEI-26119/JKU/1219 (23 Dec 2019) 'Jadwal Pelaksanaan Pemecahan Saham (Stock Split)': ratio 1:5, nominal Rp10 -> Rp2; item 1 last regular & negotiated-market trading at the old nominal 30 Dec 2019; item 2 first trading at the new nominal 2 Jan 2020; item 3 recording date 3 Jan 2020; item 4 distribution / cash-market start 6 Jan 2020",
+            "note": "1 old share -> 5 new shares; 7,630,000,000 -> 38,150,000,000 shares. Approved by the EGMS of 20 Nov 2019; IDX approval S-08264/BEI.PP3/12-2019 of 20 Dec 2019; 'effective from 2 January 2020' (FS2020 Note 1, PDF p. 11, https://www.unilever.co.id/files/laporan-keuangan-triwulan-4-2020.pdf). Share listing chronology: AR2021 PDF p. 83 and AR2024 PDF p. 87 ('2 Januari 2020 Pemecahan Saham Rp2 ... 38,150,000,000'). No other split, reverse split, bonus or rights issue had an ex-date from 2019-01-01 to 2026-11-04: issued shares are 38,150,000,000 in every FS from FY2020 to H1 2026, and AR2021 p. 15, AR2023 p. 17 and AR2024 p. 19 state no corporate action in those years. The 2025 buyback (168,766,700 treasury shares) is not a corporate action of these types."
         }
     ]
 }
