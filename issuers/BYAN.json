@@ -1,0 +1,1575 @@
+{
+    "schema": 1,
+    "code": "BYAN",
+    "name": "PT Bayan Resources Tbk",
+    "name_short": "Bayan Resources",
+    "sector": "energy",
+    "subsector": "coal",
+    "currency": "USD",
+    "exchange": "IDX",
+    "website": "https://www.bayan.com.sg",
+    "ir_url": "https://www.bayan.com.sg/investor-update",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 1391.589834,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/fs-bayan-resources-1219-combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ / 1e6. Coal + non-coal revenue."
+            },
+            "net_profit_attr": {
+                "v": 223.394384,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/fs-bayan-resources-1219-combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 1278.040123,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/fs-bayan-resources-1219-combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 174.489542,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/fs-bayan-resources-1219-combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents; restricted cash is a separate line and is excluded."
+            },
+            "total_debt": {
+                "v": 363.611574,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/fs-bayan-resources-1219-combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, liabilities: Short-term bank loans (Note 16b) US$363,611,574",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings at carrying amount (bank loans + Senior Notes); no lease liabilities included."
+            },
+            "equity_attr": {
+                "v": 595.608662,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/fs-bayan-resources-1219-combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Equity attributable to the owners of the parent entity (subtotal)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 619.080163,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/fs-bayan-resources-1219-combined.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, TOTAL EQUITY",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 1395.113268,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ / 1e6. Coal + non-coal revenue."
+            },
+            "net_profit_attr": {
+                "v": 328.738867,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 1619.725022,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 758.171248,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 383.81,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents; restricted cash is a separate line and is excluded."
+            },
+            "total_debt": {
+                "v": 394.74319,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, liabilities: Senior Notes, non-current (Note 18) US$394,743,190; Short-term bank loans (Note 17) US$0",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings at carrying amount (bank loans + Senior Notes); no lease liabilities included. The US$400m 6.125% Senior Notes due 2023 (issued 24 Jan 2020, Note 18) are carried net of issuance costs; redeemed early in 2021."
+            },
+            "equity_attr": {
+                "v": 831.441671,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Equity attributable to the owners of the parent entity (subtotal)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 861.553774,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 356.7,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q_2020.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "Investor Update 4Q2020, PDF p. 3, full-year 2020 column - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it in its 4Q investor update (US$ mn, 1 dp). The update gives no definition; the FS capital-risk note (e.g. FS2025 Note 35b, PDF p. 115) defines EBITDA as consolidated profit before tax added back with interest, depreciation and amortisation, excluding gains/losses on disposal of fixed assets, one-off items, investment write-offs and FX gains/losses. The 2020 figure excludes the US$165.8m net reversal of mining-property impairment (IU footnote *1 relates it to NPAT only)."
+            },
+            "operating_profit": {
+                "v": 296.725565,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report-byan-2021-final-ok.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 6 (printed p. 4), Financial Highlights and Ratios - Laba Usaha / Operating Profit",
+                "basis": "consolidated",
+                "note": "The FS face has no operating-profit line (gross profit -> selling, G&A, finance, other -> profit before tax); this is the AR 'Laba Usaha / Operating Profit'. Arithmetic check on the FS: it equals profit before tax plus finance expenses and also excludes the US$165,864,761 reversal of mining-property impairment, so it includes finance income, FX and other items (it is NOT gross profit less selling and G&A)."
+            },
+            "eps": {
+                "v": 0.1,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Basic and diluted earnings per share attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "share_basis": "2021-03-30",
+                "note": "US$ per share as printed (2 decimals). Pre-split basis (3,333,333,500 shares, Rp100 nominal); FS2022 restates it as 0.01 after the 1:10 split."
+            },
+            "payout_ratio": {
+                "v": 91.3,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report-byan-2021-final-ok.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2021 PDF p. 99, Dividends table (Year 2020: profit attributable US$328,738,867, total dividend US$300,000,015, 91.3%)",
+                "basis": "consolidated",
+                "note": "Single final dividend (AGMS 2021-05-19). Same table in AR2022 PDF p. 84."
+            },
+            "shares_out": {
+                "v": 3333333500,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Share capital - issued and fully paid 3,333,333,500 shares",
+                "share_basis": "2021-03-30",
+                "note": "Pre-split count (Rp100 nominal); the 1:10 split of 2022-12-02 is applied by the adjuster."
+            },
+            "year_end_price": {
+                "v": 15475,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report-byan-2021-final-ok.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-30",
+                "loc": "AR2021 PDF p. 8 (printed p. 6), Quarterly Share Price Movement - Q4-2020 Closing",
+                "share_basis": "2022-05-13",
+                "note": "Pre-split price (Rp100 nominal, 3,333,333,500 shares); AR2021 was published before the Dec-2022 1:10 split, so the adjuster divides by 10."
+            },
+            "cfo": {
+                "v": 360.975001,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Consolidated statement of cash flows - Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 90.289514,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, investing activities: Acquisitions of fixed assets US$87,682,310; Payments for additions to mining properties US$2,607,204",
+                "basis": "consolidated",
+                "note": "Sum of the two investing-activity outflows (fixed assets + mining properties), shown positive."
+            },
+            "fx_usd_idr": {
+                "v": 14105,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 127, Note 34 Assets and liabilities denominated in foreign currencies: 'US$1 = Rp14,105 based on the Bank Indonesia middle rate'",
+                "basis": "n/a",
+                "note": "Closing rate used to translate Rupiah monetary items at FY end (BI middle rate)."
+            },
+            "roe": {
+                "v": 40,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2022 PDF p. 8 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Ekuitas' (English label 'Return of Capital Employed')",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests / year-end total equity (checks to the FS). The English label says 'Return of Capital Employed' but the Indonesian label and arithmetic are profit/equity."
+            },
+            "roa": {
+                "v": 21.3,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2022 PDF p. 8 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Total Aset / Return of Assets'",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year including NCI / year-end total assets."
+            },
+            "production": {
+                "v": 30.2,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q_2020.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "Investor Update 4Q2020, PDF p. 3, Operational Statistics, full-year 2020 column - Coal Production",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes."
+            },
+            "sales_volume": {
+                "v": 36.3,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q_2020.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "Investor Update 4Q2020, PDF p. 3, Operational Statistics, full-year 2020 column - Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes."
+            },
+            "asp": {
+                "v": 38.4,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q_2020.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "Investor Update 4Q2020, PDF p. 3, Operational Statistics, full-year 2020 column - Average Selling Price (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average selling price as reported."
+            },
+            "cash_cost": {
+                "v": 28.8,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q_2020.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "Investor Update 4Q2020, PDF p. 3, Operational Statistics, full-year 2020 column - Average Cash Costs (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Company definition (IU 4Q25 p. 14): 'Average Cash Costs include Royalty, Barging and SGA'; per tonne."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 2852.219928,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ / 1e6. Coal + non-coal revenue."
+            },
+            "net_profit_attr": {
+                "v": 1212.763808,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 2433.712191,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 570.805817,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 980.507356,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents; restricted cash is a separate line and is excluded."
+            },
+            "total_debt": {
+                "v": 0,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, liabilities: Short-term bank loans (Note 17) US$0; Senior Notes (Note 18) US$0",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings at carrying amount (bank loans + Senior Notes); no lease liabilities included. Nil: no bank loans or notes outstanding at year end."
+            },
+            "equity_attr": {
+                "v": 1800.17892,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Equity attributable to the owners of the parent entity (subtotal)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1862.906374,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1743,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "Investor Update 4Q2021, PDF p. 3, full-year 2021 column - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it in its 4Q investor update (US$ mn, 1 dp). The update gives no definition; the FS capital-risk note (e.g. FS2025 Note 35b, PDF p. 115) defines EBITDA as consolidated profit before tax added back with interest, depreciation and amortisation, excluding gains/losses on disposal of fixed assets, one-off items, investment write-offs and FX gains/losses."
+            },
+            "operating_profit": {
+                "v": 1678.123277,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report-byan-2021-final-ok.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 6 (printed p. 4), Financial Highlights and Ratios - Laba Usaha / Operating Profit",
+                "basis": "consolidated",
+                "note": "The FS face has no operating-profit line (gross profit -> selling, G&A, finance, other -> profit before tax); this is the AR 'Laba Usaha / Operating Profit'. Arithmetic check on the FS: it equals profit before tax plus finance expenses, so it includes finance income, FX and other items (it is NOT gross profit less selling and G&A)."
+            },
+            "eps": {
+                "v": 0.36,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Basic and diluted earnings per share attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "share_basis": "2022-03-30",
+                "note": "US$ per share as printed (2 decimals). Pre-split basis (3,333,333,500 shares); FS2022 restates it as 0.04 after the 1:10 split."
+            },
+            "payout_ratio": {
+                "v": 82.5,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 84, Dividends: 'The total dividend was 82.5% of the profit for the year attributable to owners of the parent entity of the 2021 financial year'",
+                "basis": "consolidated",
+                "note": "Single final dividend US$1,000,000,050 (AGMS 2022-05-18)."
+            },
+            "shares_out": {
+                "v": 3333333500,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Share capital - issued and fully paid 3,333,333,500 shares",
+                "share_basis": "2022-03-30",
+                "note": "Pre-split count (Rp100 nominal); the 1:10 split of 2022-12-02 is applied by the adjuster."
+            },
+            "year_end_price": {
+                "v": 27000,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report-byan-2021-final-ok.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-30",
+                "loc": "AR2021 PDF p. 8 (printed p. 6), Q4-2021 Closing; PDF p. 72 'end of 2021 closing price of IDR27,000/share'",
+                "share_basis": "2022-05-13",
+                "note": "Pre-split price (Rp100 nominal); AR2021 published before the Dec-2022 1:10 split."
+            },
+            "cfo": {
+                "v": 1510.090932,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, Consolidated statement of cash flows - Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 177.204425,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, investing activities: Acquisitions of fixed assets US$174,142,189; Payments for additions to mining properties US$3,062,236",
+                "basis": "consolidated",
+                "note": "Sum of the two investing-activity outflows (fixed assets + mining properties), shown positive."
+            },
+            "fx_usd_idr": {
+                "v": 14269,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 119, Note 35 Assets and liabilities denominated in foreign currencies: 'US$1 = Rp14,269 based on the Bank Indonesia middle rate'",
+                "basis": "n/a",
+                "note": "Closing rate used to translate Rupiah monetary items at FY end (BI middle rate)."
+            },
+            "roe": {
+                "v": 68,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 8 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Ekuitas' (English label 'Return of Capital Employed')",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests / year-end total equity (checks to the FS). The English label says 'Return of Capital Employed' but the Indonesian label and arithmetic are profit/equity."
+            },
+            "roa": {
+                "v": 52,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 8 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Total Aset / Return of Assets'",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year including NCI / year-end total assets."
+            },
+            "production": {
+                "v": 37.6,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "Investor Update 4Q2021, PDF p. 3, Operational Statistics, full-year 2021 column - Coal Production",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes."
+            },
+            "sales_volume": {
+                "v": 40.4,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "Investor Update 4Q2021, PDF p. 3, Operational Statistics, full-year 2021 column - Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes."
+            },
+            "asp": {
+                "v": 70.7,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "Investor Update 4Q2021, PDF p. 3, Operational Statistics, full-year 2021 column - Average Selling Price (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average selling price as reported."
+            },
+            "cash_cost": {
+                "v": 27.5,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q-2021.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "Investor Update 4Q2021, PDF p. 3, Operational Statistics, full-year 2021 column - Average Cash Costs (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Company definition (IU 4Q25 p. 14): 'Average Cash Costs include Royalty, Barging and SGA'; per tonne."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 4703.622038,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ / 1e6. Coal + non-coal revenue."
+            },
+            "net_profit_attr": {
+                "v": 2178.474621,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 3945.458865,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 1950.168318,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 10, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1826.87678,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 9, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents; restricted cash is a separate line and is excluded."
+            },
+            "total_debt": {
+                "v": 0,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 10, liabilities: Bank loans (Note 16) US$0; Senior Notes (Note 17) US$0",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings at carrying amount (bank loans + Senior Notes); no lease liabilities included. Nil: no bank loans or notes outstanding at year end."
+            },
+            "equity_attr": {
+                "v": 1894.546941,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Equity attributable to the owners of the parent entity (subtotal)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1995.290547,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 3026.4,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "Investor Update 4Q2022, PDF p. 3, full-year 2022 column - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it in its 4Q investor update (US$ mn, 1 dp). The update gives no definition; the FS capital-risk note (e.g. FS2025 Note 35b, PDF p. 115) defines EBITDA as consolidated profit before tax added back with interest, depreciation and amortisation, excluding gains/losses on disposal of fixed assets, one-off items, investment write-offs and FX gains/losses."
+            },
+            "operating_profit": {
+                "v": 2947.983999,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 8 (printed p. 6), Financial Highlights and Ratios - Laba Usaha / Operating Profit",
+                "basis": "consolidated",
+                "note": "The FS face has no operating-profit line (gross profit -> selling, G&A, finance, other -> profit before tax); this is the AR 'Laba Usaha / Operating Profit'. Arithmetic check on the FS: it equals profit before tax plus finance expenses, so it includes finance income, FX and other items (it is NOT gross profit less selling and G&A)."
+            },
+            "eps": {
+                "v": 0.07,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Basic and diluted earnings per share attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "share_basis": "2023-03-09",
+                "note": "US$ per share as printed, rounded to 2 decimals (profit / 33,333,335,000 = 0.0654); no more precise figure is printed in any FS/AR (see validation_ack). Post-split basis."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Not reported as a single FY2022 ratio. AR2023 PDF pp. 94-95 prints the interim (US$1,000,000,050) as 61.4% of the 9M-2022 attributable profit (US$1,627,466,165) and the final (US$800,000,040) as 36.7% of the FY2022 attributable profit; the AGMS 2023-04-27 approved US$1,800,000,090 in total for FY2022. No combined percentage is printed, so none is stored."
+            },
+            "shares_out": {
+                "v": 33333335000,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Share capital - issued and fully paid 33,333,335,000 shares",
+                "share_basis": "2023-03-09",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 21000,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-30",
+                "loc": "AR2022 PDF p. 10, Q4-2022 Closing; PDF p. 58 'closing price at the trading on 30 December 2022 of IDR21,000/share'",
+                "share_basis": "2023-04-03",
+                "note": "Post-split price (Rp10 nominal, 33,333,335,000 shares); Q4-2022 market cap Rp700.0 tn."
+            },
+            "cfo": {
+                "v": 2129.632026,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Consolidated statement of cash flows - Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 198.000135,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, investing activities: Acquisitions of fixed assets US$193,514,292; Payments for additions to mining properties US$4,485,843",
+                "basis": "consolidated",
+                "note": "Sum of the two investing-activity outflows (fixed assets + mining properties), shown positive."
+            },
+            "fx_usd_idr": {
+                "v": 15731,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/lkfs-pt-bayan-resources-tbk_1222.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 120, Note 34 Monetary assets and liabilities denominated in foreign currencies: 'US$1 = Rp15,731 based on the Bank Indonesia middle rate'",
+                "basis": "n/a",
+                "note": "Closing rate used to translate Rupiah monetary items at FY end (BI middle rate)."
+            },
+            "roe": {
+                "v": 115.4,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 8 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Ekuitas' (English label 'Return of Capital Employed')",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests / year-end total equity (checks to the FS). The English label says 'Return of Capital Employed' but the Indonesian label and arithmetic are profit/equity."
+            },
+            "roa": {
+                "v": 58.3,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 8 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Total Aset / Return of Assets'",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year including NCI / year-end total assets."
+            },
+            "production": {
+                "v": 38.9,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "Investor Update 4Q2022, PDF p. 3, Operational Statistics, full-year 2022 column - Coal Production",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes."
+            },
+            "sales_volume": {
+                "v": 39.9,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "Investor Update 4Q2022, PDF p. 3, Operational Statistics, full-year 2022 column - Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes."
+            },
+            "asp": {
+                "v": 117.9,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "Investor Update 4Q2022, PDF p. 3, Operational Statistics, full-year 2022 column - Average Selling Price (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average selling price as reported."
+            },
+            "cash_cost": {
+                "v": 42.5,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor-update-4q-2022.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "Investor Update 4Q2022, PDF p. 3, Operational Statistics, full-year 2022 column - Average Cash Costs (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Company definition (IU 4Q25 p. 14): 'Average Cash Costs include Royalty, Barging and SGA'; per tonne."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 3581.375403,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ / 1e6. Coal + non-coal revenue."
+            },
+            "net_profit_attr": {
+                "v": 1238.583086,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 3444.319816,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 1465.501614,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 917.343776,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9 comparative column '2023*)' Cash and cash equivalents; PDF p. 127 Note 38 Reclassification of accounts",
+                "basis": "consolidated",
+                "note": "As reclassified in FS2024: FS2023 (PDF p. 9) printed cash and cash equivalents US$734,954,930 plus US$182,388,846 'restricted cash and cash equivalents, current portion' (export proceeds/DHE placements, FS2023 PDF p. 60); FS2024 Note 38 moved the US$182.4m into cash and cash equivalents. The reclassified figure is stored so that 2023 is on the same basis as 2024-2025. Excludes the non-current restricted cash (US$21.7m)."
+            },
+            "total_debt": {
+                "v": 396.874323,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, liabilities: Bank loans (Note 16) US$396,874,323",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings at carrying amount (bank loans + Senior Notes); no lease liabilities included."
+            },
+            "equity_attr": {
+                "v": 1881.336966,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Equity attributable to the owners of the parent entity (subtotal)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1978.818202,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1718.9,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2023-min.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "Investor Update 4Q2023, PDF p. 3, full-year 2023 column - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it in its 4Q investor update (US$ mn, 1 dp). The update gives no definition; the FS capital-risk note (e.g. FS2025 Note 35b, PDF p. 115) defines EBITDA as consolidated profit before tax added back with interest, depreciation and amortisation, excluding gains/losses on disposal of fixed assets, one-off items, investment write-offs and FX gains/losses."
+            },
+            "operating_profit": {
+                "v": 1639.598949,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2023_v2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 8 (printed p. 6), Financial Highlights and Ratios - Laba Usaha / Operating Profit",
+                "basis": "consolidated",
+                "note": "The FS face has no operating-profit line (gross profit -> selling, G&A, finance, other -> profit before tax); this is the AR 'Laba Usaha / Operating Profit'. Arithmetic check on the FS: it equals profit before tax plus finance expenses, so it includes finance income, FX and other items (it is NOT gross profit less selling and G&A)."
+            },
+            "eps": {
+                "v": 0.037,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 7 (printed p. 6), Financial Highlights - Basic Earnings per Share, 2023 column",
+                "basis": "consolidated",
+                "share_basis": "2026-05-07",
+                "note": "US$ per share. AR2025 prints 3 decimals (0.037); FS2023 PDF p. 12 and FS2024 print the same EPS rounded to 0.04. Weighted shares 33,333,335,000."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Not reported as a single FY2023 ratio. AR2025 PDF p. 86 (and AR2023 p. 95) prints the interim (US$500,000,025) as 54.9% of the 9M-2023 attributable profit (US$910,509,255) and the final (US$300,000,015) as 24.2% of the FY2023 attributable profit; AGMS 2024-06-27 approved US$800,000,040 in total. No combined percentage is printed."
+            },
+            "shares_out": {
+                "v": 33333335000,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Share capital - issued and fully paid 33,333,335,000 shares",
+                "share_basis": "2024-02-29",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 19900,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2023_v2.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-29",
+                "loc": "AR2023 PDF p. 10, Q4-2023 Closing; PDF p. 66 'closing price at the trading on 29 December 2023 of IDR19,900/share'",
+                "share_basis": "2024-05-03"
+            },
+            "cfo": {
+                "v": 731.403991,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Consolidated statement of cash flows - Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 215.769322,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, investing activities: Acquisitions of fixed assets US$204,492,815; Payments for additions to mining properties US$11,276,507",
+                "basis": "consolidated",
+                "note": "Sum of the two investing-activity outflows (fixed assets + mining properties), shown positive. Excludes the US$9.2m payment for acquisition of an entity under common control."
+            },
+            "fx_usd_idr": {
+                "v": 15416,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1223.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 120, Note 33 Monetary assets and liabilities denominated in foreign currencies: 'US$1 = Rp15,416 based on the Bank Indonesia middle rate'",
+                "basis": "n/a",
+                "note": "Closing rate used to translate Rupiah monetary items at FY end (BI middle rate)."
+            },
+            "roe": {
+                "v": 64.7,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 7 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Ekuitas' (English label 'Return of Capital Employed')",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests / year-end total equity (checks to the FS). The English label says 'Return of Capital Employed' but the Indonesian label and arithmetic are profit/equity."
+            },
+            "roa": {
+                "v": 37.2,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 7 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Total Aset / Return of Assets'",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year including NCI / year-end total assets."
+            },
+            "production": {
+                "v": 49.7,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2023-min.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "Investor Update 4Q2023, PDF p. 3, Operational Statistics, full-year 2023 column - Coal Production",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes."
+            },
+            "sales_volume": {
+                "v": 47.2,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2023-min.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "Investor Update 4Q2023, PDF p. 3, Operational Statistics, full-year 2023 column - Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes."
+            },
+            "asp": {
+                "v": 75.8,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2023-min.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "Investor Update 4Q2023, PDF p. 3, Operational Statistics, full-year 2023 column - Average Selling Price (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average selling price as reported."
+            },
+            "cash_cost": {
+                "v": 40.2,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2023-min.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "Investor Update 4Q2023, PDF p. 3, Operational Statistics, full-year 2023 column - Average Cash Costs (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Company definition (IU 4Q25 p. 14): 'Average Cash Costs include Royalty, Barging and SGA'; per tonne."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 3446.214954,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ / 1e6. Coal + non-coal revenue."
+            },
+            "net_profit_attr": {
+                "v": 922.642869,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 3521.455934,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 1207.613523,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 912.152046,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents; restricted cash is a separate line and is excluded."
+            },
+            "total_debt": {
+                "v": 337.541757,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, liabilities: Bank loans (Note 16) US$337,541,757",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings at carrying amount (bank loans + Senior Notes); no lease liabilities included."
+            },
+            "equity_attr": {
+                "v": 2204.125323,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Equity attributable to the owners of the parent entity (subtotal)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 2313.842411,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1355,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "Investor Update 4Q2024, PDF p. 3, full-year 2024 column - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it in its 4Q investor update (US$ mn, 1 dp). The update gives no definition; the FS capital-risk note (e.g. FS2025 Note 35b, PDF p. 115) defines EBITDA as consolidated profit before tax added back with interest, depreciation and amortisation, excluding gains/losses on disposal of fixed assets, one-off items, investment write-offs and FX gains/losses."
+            },
+            "operating_profit": {
+                "v": 1223.360771,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-byan-2024-final-ojk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 7, Financial Highlights and Ratios - Laba Usaha / Operating Profit",
+                "basis": "consolidated",
+                "note": "The FS face has no operating-profit line (gross profit -> selling, G&A, finance, other -> profit before tax); this is the AR 'Laba Usaha / Operating Profit'. Arithmetic check on the FS: it equals profit before tax plus finance expenses, so it includes finance income, FX and other items (it is NOT gross profit less selling and G&A)."
+            },
+            "eps": {
+                "v": 0.028,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2025 PDF p. 13 comparative column 2024 and PDF p. 88 Note 28 - Basic and diluted EPS",
+                "basis": "consolidated",
+                "share_basis": "2026-02-27",
+                "note": "US$ per share, from the audited FS2025 comparative (3 decimals); FS2024 PDF p. 12 prints it rounded to 0.03. Weighted shares 33,333,335,000."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Not reported as a single FY2024 ratio. AR2025 PDF pp. 85-86 prints the interim (US$300,000,015) as 48.3% of the 9M-2024 attributable profit (US$620,808,256) and the final (US$400,000,020) as 43.4% of the FY2024 attributable profit. No combined percentage is printed."
+            },
+            "shares_out": {
+                "v": 33333335000,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Share capital - issued and fully paid 33,333,335,000 shares",
+                "share_basis": "2025-02-28",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 20250,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-byan-2024-final-ojk.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-30",
+                "loc": "AR2024 PDF p. 9, Q4-2024 Closing; PDF p. 65 'closing price at the trading on 30 December 2024 of IDR20,250/share'",
+                "share_basis": "2025-04-30"
+            },
+            "cfo": {
+                "v": 1059.843624,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Consolidated statement of cash flows - Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 179.606254,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, investing activities: Acquisitions of fixed assets US$163,942,800; Payments for additions to mining properties US$15,663,454",
+                "basis": "consolidated",
+                "note": "Sum of the two investing-activity outflows (fixed assets + mining properties), shown positive. Excludes the US$6.8m cash payment for business acquisition."
+            },
+            "fx_usd_idr": {
+                "v": 16162,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-1224.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 114, Note 33 Monetary assets and liabilities denominated in foreign currencies: 'US$1 = Rp16,162 based on the Bank Indonesia middle rate'",
+                "basis": "n/a",
+                "note": "Closing rate used to translate Rupiah monetary items at FY end (BI middle rate)."
+            },
+            "roe": {
+                "v": 40.8,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 7 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Ekuitas' (English label 'Return of Capital Employed')",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests / year-end total equity (checks to the FS). The English label says 'Return of Capital Employed' but the Indonesian label and arithmetic are profit/equity."
+            },
+            "roa": {
+                "v": 26.8,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 7 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Total Aset / Return of Assets'",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year including NCI / year-end total assets."
+            },
+            "production": {
+                "v": 56.9,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "Investor Update 4Q2024, PDF p. 3, Operational Statistics, full-year 2024 column - Coal Production",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes."
+            },
+            "sales_volume": {
+                "v": 56.2,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "Investor Update 4Q2024, PDF p. 3, Operational Statistics, full-year 2024 column - Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes."
+            },
+            "asp": {
+                "v": 61.3,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "Investor Update 4Q2024, PDF p. 3, Operational Statistics, full-year 2024 column - Average Selling Price (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average selling price as reported."
+            },
+            "cash_cost": {
+                "v": 37.8,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "Investor Update 4Q2024, PDF p. 3, Operational Statistics, full-year 2024 column - Average Cash Costs (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Company definition (IU 4Q25 p. 14): 'Average Cash Costs include Royalty, Barging and SGA'; per tonne."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 3427.576485,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ / 1e6. Coal + non-coal revenue."
+            },
+            "net_profit_attr": {
+                "v": 767.915514,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 3375.044444,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 680.46016,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 574.566067,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 10, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents; restricted cash is a separate line and is excluded. Excludes US$14.2m of cash in the disposal group held for sale (Note 30q)."
+            },
+            "total_debt": {
+                "v": 0,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11, liabilities: Bank loans (Note 17) US$0",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings at carrying amount (bank loans + Senior Notes); no lease liabilities included. Nil: no bank loans or notes outstanding at year end."
+            },
+            "equity_attr": {
+                "v": 2571.634289,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Equity attributable to the owners of the parent entity (subtotal)",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 2694.584284,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 1160.9,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "Investor Update 4Q2025, PDF p. 3, full-year 2025 column (p. 19: 'Full years EBITDA reached US$ 1,160.9 million') - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it in its 4Q investor update (US$ mn, 1 dp). The update gives no definition; the FS capital-risk note (e.g. FS2025 Note 35b, PDF p. 115) defines EBITDA as consolidated profit before tax added back with interest, depreciation and amortisation, excluding gains/losses on disposal of fixed assets, one-off items, investment write-offs and FX gains/losses."
+            },
+            "operating_profit": {
+                "v": 1020.718367,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 7 (printed p. 6), Financial Highlights and Ratios - Laba Usaha / Operating Profit",
+                "basis": "consolidated",
+                "note": "The FS face has no operating-profit line (gross profit -> selling, G&A, finance, other -> profit before tax); this is the AR 'Laba Usaha / Operating Profit'. Arithmetic check on the FS: it equals profit before tax plus finance expenses, so it includes finance income, FX and other items (it is NOT gross profit less selling and G&A)."
+            },
+            "eps": {
+                "v": 0.023,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13, Basic and diluted earnings per share attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "share_basis": "2026-02-27",
+                "note": "US$ per share as printed (3 decimals; Note 28 PDF p. 88: weighted 33,333,335,000 shares)."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Not printed by the company: the AGMS of 2026-06-10 (summary of minutes p. 4) approved a single cash dividend of US$500,000,025 out of the FY2025 attributable profit of US$767,915,514 without stating a percentage; AR2025 (May 2026) predates the AGMS. News reports call it about 65% (e.g. emitennews.com) - not stored."
+            },
+            "shares_out": {
+                "v": 33333335000,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12, Share capital - issued and fully paid 33,333,335,000 shares",
+                "share_basis": "2026-02-27",
+                "note": "No treasury shares."
+            },
+            "year_end_price": {
+                "v": 15700,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-30",
+                "loc": "AR2025 PDF p. 9, Q4-2025 Closing; PDF p. 61 'closing price at the trading on 30 December 2025 of IDR15,700/share'",
+                "share_basis": "2026-05-07",
+                "note": "KSEI's BYAN price history also shows a 30 Dec 2025 close of 15,700."
+            },
+            "cfo": {
+                "v": 977.555562,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Consolidated statement of cash flows - Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 170.933653,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, investing activities: Acquisitions of fixed assets US$165,404,387; Payments for additions to mining properties US$5,529,266",
+                "basis": "consolidated",
+                "note": "Sum of the two investing-activity outflows (fixed assets + mining properties), shown positive. Excludes the US$179.1m placement in investment bonds (Patriot Bonds)."
+            },
+            "fx_usd_idr": {
+                "v": 16782,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-report/lkfs-pt-bayan-resources-tbk-1225.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 107, Note 33 Monetary assets and liabilities denominated in foreign currencies: 'US$1 = Rp16,782 based on the Bank Indonesia middle rate'",
+                "basis": "n/a",
+                "note": "Closing rate used to translate Rupiah monetary items at FY end (BI middle rate)."
+            },
+            "roe": {
+                "v": 29.1,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 7 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Ekuitas' (English label 'Return of Capital Employed')",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests / year-end total equity (checks to the FS). The English label says 'Return of Capital Employed' but the Indonesian label and arithmetic are profit/equity."
+            },
+            "roa": {
+                "v": 23.2,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 7 (printed p. 6), Main Financial Ratios - 'Laba Tahun Berjalan terhadap Total Aset / Return of Assets'",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year including NCI / year-end total assets."
+            },
+            "production": {
+                "v": 68,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "Investor Update 4Q2025, PDF p. 3, Operational Statistics, full-year 2025 column - Coal Production",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production, million tonnes. AR2025 PDF p. 15 gives the same 68.0 million MT."
+            },
+            "sales_volume": {
+                "v": 70.8,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "Investor Update 4Q2025, PDF p. 3, Operational Statistics, full-year 2025 column - Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume, million tonnes."
+            },
+            "asp": {
+                "v": 48.4,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "Investor Update 4Q2025, PDF p. 3, Operational Statistics, full-year 2025 column - Average Selling Price (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Average selling price as reported. AR2025 is not consistent: MD&A PDF p. 69 says US$48.4/MT, the Director's report p. 16 'coal' ASP US$48.1/MT, the marketing section p. 85 US$47.93/MT."
+            },
+            "cash_cost": {
+                "v": 32.5,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-4q-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "Investor Update 4Q2025, PDF p. 3, Operational Statistics, full-year 2025 column - Average Cash Costs (US$/MT)",
+                "basis": "consolidated",
+                "unit": "USD/t",
+                "note": "Company definition (IU 4Q25 p. 14): 'Average Cash Costs include Royalty, Barging and SGA'; per tonne."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 1286.28,
+            "total": 300.000015,
+            "cum_date": "2021-05-28",
+            "ex_date": "2021-05-31",
+            "record_date": "2021-06-02",
+            "pay_date": "2021-06-15",
+            "share_basis": "2021-05-19",
+            "source_url": "https://www.bayan.com.sg/cfind/source/files/0521-21-r4-rups-pt-bayan-4x30-media-indo.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-05-19",
+            "loc": "Ringkasan Risalah RUPST 19 Mei 2021, p. 1: agenda 2 (US$300,000,015.00 = US$0.09 per share) and section G 'Jadwal dan Tata Cara Pembayaran Dividen Tunai' (cum regular 28 Mei, ex regular 31 Mei, recording 2 Juni, payment 15 Juni 2021)",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate on the recording date; dps = rupiah per share as paid. Rp1,286.28 = US$0.09 x Rp14,292 (BI middle rate 2 June 2021) per KSEI notice KSEI-9824/JKU/0621 of 2021-06-03 [https://web.ksei.co.id/Announcement/Files/128656_ksei_9824_jku_0621_202106032029.pdf] and the company dividend page [https://www.bayan.com.sg/dividend] (IDR 4,287.6 bn). AR2021 PDF p. 99 and AR2022 PDF p. 84 print IDR1,284.84 instead (conflict; KSEI figure stored). Pre-split (Rp100 nominal) DPS as originally paid; = Rp128.63 after the 1:10 split."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 4363.2,
+            "total": 1000.00005,
+            "cum_date": "2022-05-27",
+            "ex_date": "2022-05-30",
+            "record_date": "2022-05-31",
+            "pay_date": "2022-06-15",
+            "share_basis": "2022-05-18",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BYAN_DIV_20220531_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-05-18",
+            "loc": "KSEI notice KSEI-9158/JKU/0522 (23 May 2022, relaying the issuer's notification): cum regular 27 Mei, ex regular 30 Mei, recording 31 Mei, payment 15 Juni 2022, USD 0.30 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate on the recording date; dps = rupiah per share as paid. Rp4,363.20 (IDR 14,544,000,727,200 in total) per AR2022 PDF p. 84 [https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf] and the company dividend page. AGMS 2022-05-18 approved US$1,000,000,050 = US$0.30 per share (summary of minutes, https://www.bayan.com.sg/cfind/source/files/resume-rupst-pt-bayan-resources-180522.pdf p. 4). Pre-split DPS as originally paid; = Rp436.32 after the 1:10 split."
+        },
+        {
+            "fy": 2022,
+            "type": "interim",
+            "dps": 468.24,
+            "total": 1000.00005,
+            "cum_date": "2022-12-19",
+            "ex_date": "2022-12-20",
+            "record_date": "2022-12-21",
+            "pay_date": "2023-01-05",
+            "share_basis": "2022-12-09",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BYAN_DIV_20221221_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-12-09",
+            "loc": "KSEI notice KSEI-23503/JKU/1222 (9 Dec 2022, relaying the issuer's notification): cum regular 19 Des, ex regular 20 Des, recording 21 Des 2022, payment 5 Januari 2023, USD 0.03 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate on the recording date; dps = rupiah per share as paid. Rp468.24 (IDR 15,608,000,780,400) per AR2022 PDF p. 84 ('On 9 December 2022, the Company announced ... interim dividend ... US$0.03 (IDR468.24)/share') [https://www.bayan.com.sg/cfind/source/files/ar-2022-byan-final.pdf]. Declared after the 2022-12-02 split, so already on the post-split basis."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 354.168,
+            "total": 800.00004,
+            "cum_date": "2023-05-08",
+            "ex_date": "2023-05-09",
+            "record_date": "2023-05-10",
+            "pay_date": "2023-05-23",
+            "share_basis": "2023-04-27",
+            "source_url": "https://www.bayan.com.sg/cfind/source/files/jadwal-dividen-final-byan.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-04-27",
+            "loc": "Letter 439/BR-OJK/V/2023 (2 Mei 2023) 'Jadwal Rencana Pembagian Dividen Tunai Final', p. 1 items 1-2 (US$800,000,040 = US$0.024 per share; cum regular 8 Mei, ex regular 9 Mei, recording 10 Mei, payment 23 Mei 2023)",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate on the recording date; dps = rupiah per share as paid. Rp354.168 per the company dividend page [https://www.bayan.com.sg/dividend] (IDR 11,805.6 bn) and KSEI's BYAN corporate-action list [https://web.ksei.co.id/services/registered-securities/shares/lc/BYAN]; AR2023 PDF p. 94 rounds it to IDR354.17. AGMS 2023-04-27 approved US$1,800,000,090 for FY2022 including the interim."
+        },
+        {
+            "fy": 2023,
+            "type": "interim",
+            "dps": 232.74,
+            "total": 500.000025,
+            "cum_date": "2023-12-15",
+            "ex_date": "2023-12-18",
+            "record_date": "2023-12-19",
+            "pay_date": "2024-01-05",
+            "share_basis": "2023-12-05",
+            "source_url": "https://www.bayan.com.sg/cfind/source/files/disclosure-information/peng-jadwal-dividen-interim-byan-fs2023.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-12-05",
+            "loc": "Pengumuman Jadwal dan Tata Cara Pembagian Dividen Interim Tahun Buku 2023, p. 1 (Board decision 5 Desember 2023, USD 500,000,025 = USD 0.015 per share; A. Jadwal: cum regular 15 Des, ex regular 18 Des, recording 19 Des 2023, payment 5 Januari 2024)",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate on the recording date; dps = rupiah per share as paid. Rp232.74 (IDR 7,758.0 bn) per AR2025 PDF p. 86 table [https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf] and the company dividend page."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 146.385,
+            "total": 300.000015,
+            "cum_date": "2024-07-05",
+            "ex_date": "2024-07-08",
+            "record_date": "2024-07-09",
+            "pay_date": "2024-07-24",
+            "share_basis": "2024-06-27",
+            "source_url": "https://www.bayan.com.sg/cfind/source/files/general-meeting-shareholders/gms-minute-of-meeting/jadwal-dividen-tunai-byan-hasil-rups-270624.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-06-27",
+            "loc": "Letter 511/BR-OJK/VII/2024 (1 Juli 2024), p. 1 items 1-2 (AGMS 27 Juni 2024: US$800,000,040 for FY2023 of which US$300,000,015 = US$0.009 per share final; cum regular 5 Juli, ex regular 8 Juli, recording 9 Juli, payment 24 Juli 2024)",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate on the recording date; dps = rupiah per share as paid. Rp146.385 (IDR 4,879.5 bn) per AR2025 PDF p. 86 table [https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf] and the company dividend page."
+        },
+        {
+            "fy": 2024,
+            "type": "interim",
+            "dps": 144.9,
+            "total": 300.000015,
+            "cum_date": "2024-12-17",
+            "ex_date": "2024-12-18",
+            "record_date": "2024-12-19",
+            "pay_date": "2025-01-08",
+            "share_basis": "2024-12-05",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BYAN_DIV_20241219_ID.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-12-05",
+            "loc": "KSEI notice KSEI-28616/JKU/1224 (10 Dec 2024, relaying the issuer's notification): cum regular 17 Des, ex regular 18 Des, recording 19 Des 2024, payment 8 Januari 2025, USD 0.009 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate on the recording date; dps = rupiah per share as paid. Declared by the joint Board meeting of 5 Dec 2024 (FS 9M2026 Note 21, PDF p. 78). Rp144.90 (IDR 4,830,000,241,500) per AR2025 PDF p. 85 [https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf]."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 194.84,
+            "total": 400.00002,
+            "cum_date": "2025-07-04",
+            "ex_date": "2025-07-07",
+            "record_date": "2025-07-08",
+            "pay_date": "2025-07-23",
+            "share_basis": "2025-06-25",
+            "source_url": "https://www.bayan.com.sg/cfind/source/files/general-meeting-shareholders/gms-minute-of-meeting/jadwal-dividen-tunai-web.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-25",
+            "loc": "Jadwal dan Tata Cara Pembagian Dividen Tunai (final), p. 1 item 1 (cum regular 4 Juli, ex regular 7 Juli, recording 8 Juli, payment 23 Juli 2025)",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate on the recording date; dps = rupiah per share as paid. AGMS 2025-06-25. US$400,000,020 = US$0.012 (IDR194.84)/share, IDR 6,494,666,991,400 in total, per AR2025 PDF p. 86 [https://www.bayan.com.sg/cfind/source/files/annual-report/ar-bayan-2025-website-070526.pdf]."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 267.285,
+            "total": 500.000025,
+            "cum_date": "2026-06-19",
+            "ex_date": "2026-06-22",
+            "record_date": "2026-06-23",
+            "pay_date": "2026-07-08",
+            "share_basis": "2026-06-10",
+            "source_url": "https://www.bayan.com.sg/cfind/source/files/general-meeting-shareholders/gms-minute-of-meeting/jadwal-dividen-byan-web.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-06-10",
+            "loc": "Jadwal dan Tata Cara Pembagian Dividen Tunai, p. 1 item 1 (cum regular 19 Juni, ex regular 22 Juni, recording 23 Juni, payment 8 Juli 2026)",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate on the recording date; dps = rupiah per share as paid. AGMS 2026-06-10 approved US$500,000,025 = US$0.015 per share (summary of minutes p. 4 [https://www.bayan.com.sg/cfind/source/files/general-meeting-shareholders/gms-minute-of-meeting/resume-rupst-byan-10-juni26-english.pdf]); FS 9M2026 Note 21 (PDF p. 78) confirms payment on 8 July 2026. The rupiah amount (Rp267.285) is from KSEI's BYAN corporate-action list ('Cash Dividend (1 BYAN : 267.285 IDR)', record 23 Jun 2026) [https://web.ksei.co.id/services/registered-securities/shares/lc/BYAN]; no company document with the rupiah figure was found (pre-record-date news estimates of Rp268.81 are not used). No interim dividend was paid out of FY2025 profit (FS2025: no dividend payable at 31 Dec 2025; 9M2026 cash flow: US$500,000,025 paid)."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 2434.231644,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-0926.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Interim consolidated statement of profit or loss - Revenue (9M 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited 9M2026 interim FS (authorised 2026-10-30)."
+            },
+            "revenue_ytd_prior": {
+                "v": 2439.921045,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-0926.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 6, comparative column 30 September 2025 - Revenue",
+                "basis": "consolidated"
+            },
+            "ebitda_ytd": {
+                "v": null,
+                "note": "Not yet reported: the 9M2026 interim FS print no EBITDA and the 3Q26 investor update was not on bayan.com.sg on 2026-11-03 (the 3Q25 update was posted 26 Nov 2025). The 2Q26 update gives 1H26 EBITDA US$627.6m (PDF p. 3) for reference."
+            },
+            "ebitda_ytd_prior": {
+                "v": 805.3,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/investor/investor-update/investor-update-3q-2025.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "Investor Update 3Q25, PDF p. 3, 'YTD 3Q25' column - EBITDA",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it in its 4Q investor update (US$ mn, 1 dp). The update gives no definition; the FS capital-risk note (e.g. FS2025 Note 35b, PDF p. 115) defines EBITDA as consolidated profit before tax added back with interest, depreciation and amortisation, excluding gains/losses on disposal of fixed assets, one-off items, investment write-offs and FX gains/losses."
+            },
+            "profit_ytd": {
+                "v": 589.675654,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-0926.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Profit for the period attributable to owners of the parent entity (9M 2026)",
+                "basis": "consolidated"
+            },
+            "profit_ytd_prior": {
+                "v": 522.154915,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-0926.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 6, comparative column 30 September 2025",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 2661.04657,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-0926.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Equity attributable to the owners of the parent entity (subtotal)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 33333335000,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-0926.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Share capital - issued and fully paid 33,333,335,000 shares",
+                "share_basis": "2026-10-30",
+                "note": "No treasury shares."
+            },
+            "total_assets": {
+                "v": 3491.122644,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-0926.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 768.986129,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-0926.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash and the cash of the disposal group held for sale."
+            },
+            "total_debt": {
+                "v": 148.575179,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-0926.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, current liabilities: Bank loans (Note 17) US$148,575,179 (only borrowing line)",
+                "basis": "consolidated",
+                "note": "Short-term bank loans drawn in 2026 (US$280m drawn, US$130m repaid, cash flow PDF p. 9)."
+            },
+            "fx_usd_idr": {
+                "v": 17998,
+                "source_url": "https://www.bayan.com.sg/cfind/source/files/financial-statement/lkfs-pt-bayan-resources-tbk-0926.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 101, Note 33 Monetary assets and liabilities denominated in foreign currencies: 'US$1 = Rp17,998 based on the Bank Indonesia middle rate'",
+                "basis": "n/a"
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2022",
+            "reason": "Rounding, not a share-basis error: FY2022 basic EPS is printed only to 2 decimals (US$0.07 in FS2022 PDF p. 12, FS2023 and AR2022-AR2024). 0.07 x 33,333,335,000 = US$2,333m vs attributable profit US$2,178.5m; unrounded EPS = 0.0654 (weighted shares 33,333,335,000, FS2022 Note 29). No document prints FY2022 EPS with more decimals."
+        }
+    ],
+    "research_notes": [
+        "Reporting currency: the audited consolidated FS are presented in US dollars ('Expressed in United States Dollars'); all money values are USD million (US$ as printed / 1e6). DPS values are rupiah as paid (declared in US$, converted at the BI middle rate on each recording date); dividend 'total' is in USD million as approved.",
+        "Name: no rename since listing (12 Aug 2008); the current legal name in FS 9M2026 and AR2025 is PT Bayan Resources Tbk. Controlling shareholder: Dato' Dr. Low Tuck Kwong.",
+        "Source policy: revenue, profit, balance-sheet levels, cash flows, shares and FX rate come from each year's own audited FS (bayan.com.sg). Exceptions: FY2023 cash uses the FS2024 reclassified comparative (DHE export-proceeds placements moved from restricted cash into cash and cash equivalents, FS2024 Note 38); FY2023 EPS (0.037) is from AR2025 and FY2024 EPS (0.028) from the FS2025 comparative because the own-year FS round EPS to 2 decimals (0.04 / 0.03), which would break the EPS x shares check by 7-8%.",
+        "Operating profit: the FS face has no 'laba usaha' line. The stored values are the AR Financial Highlights 'Laba Usaha / Operating Profit'; on the FS figures this equals profit before tax plus finance expenses (2020 additionally excludes the US$165.9m reversal of mining-property impairment). It therefore includes finance income, FX and other items and is not comparable with a 'gross profit less opex' definition. A reviewer who prefers the strict 'FS line only' rule should null these six values.",
+        "EBITDA comes from the 4Q investor updates (company releases, US$ mn with 1 decimal); the FS capital-risk note gives the definition (PBT + interest + D&A, excluding disposal gains/losses, one-offs, investment write-offs and FX). FY2021 EBITDA (1,743.0) is the same in the 4Q21 and 4Q22 updates.",
+        "Restatement/reclassification: FS2022 reclassified barging expense from selling expenses to cost of revenue for 2021 (2021 gross profit 1,901.1 -> 1,746.5, IU 4Q22 footnote); revenue, profit, operating profit and EBITDA are unaffected. FS2024 reclassified 2023 cash (see above).",
+        "Stock split 1:10, ex-date (first regular-market day at Rp10 nominal) 2022-12-02 (KSEI-22755/JKU/1122; AR2022 p. 11). share_basis: FY2020-FY2021 EPS, shares and year-end prices (AR2021, published May 2022) and the FY2020-FY2021 final dividends are pre-split; everything from FY2022 on is post-split. No rights issue, bonus issue or reverse split since 2019 (share count 3,333,333,500 until the split, 33,333,335,000 after; KSEI corporate-action list shows only cash dividends and the 'Mandatory Conversion 1 BYAN : 10 BYAN').",
+        "Dividends: FY2020 and FY2021 single finals; FY2022, FY2023 and FY2024 an interim (declared in December out of 9M profit, paid in January) plus a final; FY2025 a single final of US$500,000,025 (AGMS 2026-06-10, paid 2026-07-08). Payout ratios are null for FY2022-FY2025 because the company prints only per-payment percentages on different bases (interim vs 9M profit, final vs full-year profit) or none at all; FY2020 91.3% and FY2021 82.5% are as printed.",
+        "FY2020 DPS conflict: KSEI (BI rate Rp14,292 on 2021-06-02) and the company dividend page give Rp1,286.28; AR2021 and AR2022 print Rp1,284.84. The KSEI/dividend-page value is stored.",
+        "FY2020 profit includes a US$165.9m net reversal of mining-property impairment (FS2020 PDF p. 8); EBITDA and AR operating profit exclude it.",
+        "Debt history: US$400m 6.125% Senior Notes due 2023 issued Jan 2020 (FS2020 Note 18) and redeemed early in 2021 (US$26.5m early-redemption cost, FS2021 cash flow); otherwise only short-term bank loans/working-capital facilities (2019 US$363.6m, 2023 US$396.9m, 2024 US$337.5m, 30 Sep 2026 US$148.6m; nil at YE 2021, 2022, 2025).",
+        "FY2025 and 9M2026: a disposal group is classified as held for sale (FS2025 Note 30q: MoU of 11 Dec 2025 to sell a Company asset, US$80m deposit received); its assets (US$73.6m incl. US$14.2m cash) are outside the stored cash. In Oct 2025 Bayan placed US$179.1m in IDR 'Patriot Bonds' (2% coupon), shown as investment in bonds, not cash.",
+        "Operating statistics (production, sales volume, ASP, cash cost) are from the 4Q investor update summary tables; 'MT' there means million tonnes. Cash costs include royalty, barging and SG&A (IU 4Q25 p. 14). AR2025 prints three different 2025 ASPs (48.4 / 48.1 / 47.93 US$/MT); the investor-update 48.4 (= AR MD&A) is stored.",
+        "ROE/ROA are the AR ratios 'Laba Tahun Berjalan terhadap Ekuitas / Total Aset': profit for the year including NCI over year-end (not average) equity/assets. The AR's English label for the equity ratio is 'Return of Capital Employed'.",
+        "Interim: 9M2026 (FS authorised 2026-10-30). ebitda_ytd is null because the 3Q26 investor update had not been published on 2026-11-03.",
+        "Upcoming: EGMS on 2026-11-23 to change members of the Boards of Directors and Commissioners (invitation 30 Oct 2026) - no capital or dividend agenda."
+    ]
+}

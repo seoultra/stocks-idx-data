@@ -1,0 +1,1415 @@
+{
+    "schema": 1,
+    "code": "PGAS",
+    "name": "PT Perusahaan Gas Negara (Persero) Tbk",
+    "name_short": "Perusahaan Gas Negara",
+    "sector": "energy",
+    "subsector": "oil_gas",
+    "exchange": "IDX",
+    "currency": "USD",
+    "website": "https://www.pgn.co.id",
+    "ir_url": "https://www.pgn.co.id/investor-relations",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 3848.717684,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49990",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - Pendapatan / Revenues",
+                "basis": "consolidated",
+                "note": "Consolidated revenues as presented (full USD / 1e6)."
+            },
+            "net_profit_attr": {
+                "v": 67.58409,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49990",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 10, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 7373.713156,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49990",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1040.376489,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49990",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5, Kas dan setara kas / Cash and cash equivalents (current assets)",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash, which the FS shows separately (current USD 18.000 mn + non-current USD 76.572 mn)."
+            },
+            "total_debt": {
+                "v": 2750.42806,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49990",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, 7, Consolidated statement of financial position - borrowing lines (liabilities)",
+                "basis": "consolidated",
+                "note": "Sum of printed interest-bearing borrowing lines (full USD): short-term bank loans 164,387,454; current portion of long-term bank loans 21,364,208; current portion of shareholder loan 35,630,439; long-term bank loans 357,077,074; shareholder loan 210,577,308; bonds payable 1,961,391,577 = 2,750,428,060. Lease liabilities excluded. The 'shareholder loan' is Pertagas' interest-bearing capex loan from Pertamina (FS2020 note 19c, PDF p. 124: 2020 rates 1.39%-5.23%), grouped with bank loans under the FS note 'Pinjaman/Loans'; it is included as an interest-bearing borrowing (it was fully repaid in 2022). Bonds = carrying value of PGN's USD 1.35 bn 5.125% senior notes due May 2024 and Saka Energi's (SEI) USD 625 mn senior notes (FS2022 note 20), reduced by buybacks in 2022-2023 and fully repaid in 2024."
+            },
+            "equity_attr": {
+                "v": 2560.866153,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49990",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to owners of the parent",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 3234.300881,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49990",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, TOTAL EKUITAS / EKUITAS NETO (incl. non-controlling interests)",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 2885.536105,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - Pendapatan / Revenues",
+                "basis": "consolidated",
+                "note": "Consolidated revenues as presented (full USD / 1e6)."
+            },
+            "ebitda": {
+                "v": 696.855138,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50076",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 18, Ikhtisar Data Keuangan Penting / Important Financial Data Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "AR2020 'Ikhtisar Data Keuangan Penting' - EBITDA 696,855,137.55. EBITDA as the company reports it in the AR financial-highlights table; the AR gives no formula. For 2022-2023 the footnote says the figure includes FX gain/loss and the share of profit of joint ventures; not computed by us."
+            },
+            "operating_profit": {
+                "v": 303.714911,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - LABA OPERASI / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "PGN's 'Laba operasi' = gross profit + other income - G&A - other expenses; it is BEFORE share of JV profit, finance income/costs, FX, impairments and tax-dispute/onerous-contract provisions, which the FS shows below it."
+            },
+            "net_profit_attr": {
+                "v": -264.773584,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FY2020 loss driven by a USD 278.4 mn provision for tax disputes (FS2020 PDF p. 9)."
+            },
+            "eps": {
+                "v": -0.011,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Laba bersih per saham - dasar dan dilusian / Earnings per share - basic and diluted (2020 column)",
+                "basis": "consolidated",
+                "share_basis": "2021-04-08",
+                "note": "Basic and diluted loss per share as printed (3 dp) in FS2020. USD per share."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50467",
+                "source_type": "company_release",
+                "as_of_date": "2021-05-05",
+                "loc": "p. 2, Ringkasan Risalah RUPS Tahunan TB2020 (letter 015100.S/OT.02.00/COS/2021, 5 May 2021), Mata Acara Rapat 3",
+                "basis": "consolidated",
+                "note": "AGMS of 3 May 2021: 'tidak ada pembagian laba Perseroan Tahun Buku 2020 karena Perseroan membukukan rugi tahun berjalan' - no dividend for FY2020 (loss year). Also FS2022 note 26 and AR2022 dividend table (payout 0)."
+            },
+            "total_assets": {
+                "v": 7533.986395,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 4578.54754,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position - TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1179.044518,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Kas dan setara kas / Cash and cash equivalents (current assets)",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash, which the FS shows separately (current USD 3.000 mn + non-current USD 92.248 mn)."
+            },
+            "total_debt": {
+                "v": 2559.348357,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, 7, Consolidated statement of financial position - borrowing lines (liabilities)",
+                "basis": "consolidated",
+                "note": "Sum of printed interest-bearing borrowing lines (full USD): short-term bank loans 10,563,630; current portion of long-term bank loans 19,465,027; current portion of shareholder loan 71,260,879; long-term bank loans 354,419,502; shareholder loan 139,316,428; bonds payable 1,964,322,891 = 2,559,348,357. Lease liabilities excluded. The 'shareholder loan' is Pertagas' interest-bearing capex loan from Pertamina (FS2020 note 19c, PDF p. 124: 2020 rates 1.39%-5.23%), grouped with bank loans under the FS note 'Pinjaman/Loans'; it is included as an interest-bearing borrowing (it was fully repaid in 2022). Bonds = carrying value of PGN's USD 1.35 bn 5.125% senior notes due May 2024 and Saka Energi's (SEI) USD 625 mn senior notes (FS2022 note 20), reduced by buybacks in 2022-2023 and fully repaid in 2024."
+            },
+            "equity_attr": {
+                "v": 2233.1367,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to owners of the parent",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 2955.438855,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, TOTAL EKUITAS / EKUITAS NETO (incl. non-controlling interests)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24241508196,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Share capital - issued and fully paid 24,241,508,196 shares (1 Series A Dwiwarna + 24,241,508,195 Series B)",
+                "share_basis": "2021-04-08",
+                "note": "No treasury shares (EPS note: weighted average = 24,241,508,196). FS2020 note 1c: authorised by the Directors on 8 April 2021."
+            },
+            "year_end_price": {
+                "v": 1655,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50076",
+                "source_type": "filing",
+                "as_of_date": "2020-12-30",
+                "loc": "PDF p. 24, Kinerja Saham: 'Rp1.655 pada 30 Desember 2020'; table Q4 closing 1655",
+                "basis": "n/a",
+                "share_basis": "2021-04-29",
+                "note": "Close on the last trading day of 2020 (30 Dec 2020). AR2021 PDF p. 29 prints the same Q4-2020 close (1.655)."
+            },
+            "cfo": {
+                "v": 416.87463,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12, Consolidated statement of cash flows - Kas neto yang diperoleh dari aktivitas operasi / Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 279.028521,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12, Consolidated statement of cash flows (investing) - Penambahan aset tetap + Penambahan properti minyak dan gas",
+                "basis": "consolidated",
+                "note": "Sum of the two investing outflows: additions of fixed assets 159,151,003 + additions of oil and gas properties 119,877,518 (full USD). Excludes additions of exploration & evaluation assets (3,884,960) and anything not in those two lines. The AR 'Belanja Modal' (capital expenditure) figure is a different, larger company measure."
+            },
+            "fx_usd_idr": {
+                "v": 14105,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/49999",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 37, note 2 foreign currency translation - closing rate '1 Dolar AS/Rupiah'",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS at the balance-sheet date."
+            },
+            "roe": {
+                "v": -8.96,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50076",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 19, Rasio Keuangan / Financial Ratios - Return on Equity (ROE) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end TOTAL equity (incl. NCI) - recomputed check, not a stated definition."
+            },
+            "roa": {
+                "v": -3.51,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50076",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 19, Rasio Keuangan / Financial Ratios - Return on Assets (ROA) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end total assets - recomputed check."
+            },
+            "sales_volume": {
+                "v": 828,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50078",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 27, Kinerja Operasional table - Volume Niaga (BBTUD) 2020",
+                "basis": "n/a",
+                "unit": "BBTUD",
+                "note": "Gas trading (niaga/distribution) volume, billion BTU per day, as printed. Gas transmission volume (not stored, no slot): 1,314 MMSCFD (AR2021 p. 27, 'without elimination'; AR2020 p. 22 printed 1,255 excl. TGI). AR2020 p. 22 prints the same 828 as 'Distribusi (exclude processed gas)'."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 3036.100956,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - Pendapatan / Revenues",
+                "basis": "consolidated",
+                "note": "Consolidated revenues as presented (full USD / 1e6)."
+            },
+            "ebitda": {
+                "v": 855.00152,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50078",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 23, Ikhtisar Data Keuangan Penting / Important Financial Data Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "AR2021 highlights - EBITDA 855,001,519.87 (unchanged in AR2022-AR2025). EBITDA as the company reports it in the AR financial-highlights table; the AR gives no formula. For 2022-2023 the footnote says the figure includes FX gain/loss and the share of profit of joint ventures; not computed by us."
+            },
+            "operating_profit": {
+                "v": 420.31563,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - LABA OPERASI / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "PGN's 'Laba operasi' = gross profit + other income - G&A - other expenses; it is BEFORE share of JV profit, finance income/costs, FX, impairments and tax-dispute/onerous-contract provisions, which the FS shows below it."
+            },
+            "net_profit_attr": {
+                "v": 303.823865,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.013,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Laba bersih per saham - dasar dan dilusian / Earnings per share - basic and diluted (2021 column)",
+                "basis": "consolidated",
+                "share_basis": "2022-03-14",
+                "note": "Basic and diluted EPS as printed in FS2021 - rounded to 3 dp; no source prints more digits (AR2021-AR2025 also 0.013). Exact = 303,823,865 / 24,241,508,196 = 0.01253, see validation_ack. USD per share."
+            },
+            "payout_ratio": {
+                "v": 68,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50080",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 222, dividend distribution table, column Tahun Buku 2021 - Dividen Pay Out Ratio (%) 68",
+                "basis": "consolidated",
+                "note": "Printed as 68 (integer). Exact: USD 205,955,966 / 303,823,865 = 67.79%, which AR2025 PDF p. 35 prints as 67.79 in its 2022 (payment-year) column."
+            },
+            "total_assets": {
+                "v": 7510.948902,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Consolidated statement of financial position - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 4226.024344,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position - TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1503.293693,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Kas dan setara kas / Cash and cash equivalents (current assets)",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash, which the FS shows separately (current USD 1.000 mn + non-current USD 101.850 mn)."
+            },
+            "total_debt": {
+                "v": 2440.357078,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, 7, Consolidated statement of financial position - borrowing lines (liabilities)",
+                "basis": "consolidated",
+                "note": "Sum of printed interest-bearing borrowing lines (full USD): current portion of long-term bank loans 18,540,657; long-term bank loans 404,457,661; shareholder loan 49,999,999; bonds payable 1,967,358,761 = 2,440,357,078. Lease liabilities excluded. The 'shareholder loan' is Pertagas' interest-bearing capex loan from Pertamina (FS2020 note 19c, PDF p. 124: 2020 rates 1.39%-5.23%), grouped with bank loans under the FS note 'Pinjaman/Loans'; it is included as an interest-bearing borrowing (it was fully repaid in 2022). Bonds = carrying value of PGN's USD 1.35 bn 5.125% senior notes due May 2024 and Saka Energi's (SEI) USD 625 mn senior notes (FS2022 note 20), reduced by buybacks in 2022-2023 and fully repaid in 2024."
+            },
+            "equity_attr": {
+                "v": 2525.349902,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to owners of the parent",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 3284.924558,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, TOTAL EKUITAS / EKUITAS NETO (incl. non-controlling interests)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24241508196,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Share capital - issued and fully paid 24,241,508,196 shares (1 Series A Dwiwarna + 24,241,508,195 Series B)",
+                "share_basis": "2022-03-14",
+                "note": "No treasury shares (EPS note: weighted average = 24,241,508,196). FS2021 note 1c: authorised by the Directors on 14 March 2022."
+            },
+            "year_end_price": {
+                "v": 1375,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2021-12-30",
+                "loc": "PDF p. 35, Kinerja Saham 5 Tahun Terakhir - Harga Saham Penutupan Q4 2021",
+                "basis": "n/a",
+                "share_basis": "2026-04-30",
+                "note": "Q4 closing price as printed (AR2021 PDF p. 29 also 1.375). No split since 2008."
+            },
+            "cfo": {
+                "v": 582.705258,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, Consolidated statement of cash flows - Kas neto yang diperoleh dari aktivitas operasi / Net cash generated from operating activities",
+                "basis": "consolidated",
+                "note": "FS2022 restated the FY2021 figure to USD 581.705 mn (reclassification of restricted-cash placement, FS2022 PDF p. 23); own-year FS2021 value stored."
+            },
+            "capex": {
+                "v": 220.904339,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, Consolidated statement of cash flows (investing) - Penambahan aset tetap + Penambahan properti minyak dan gas",
+                "basis": "consolidated",
+                "note": "Sum of the two investing outflows: additions of fixed assets 115,827,626 + additions of oil and gas properties 105,076,713 (full USD). Excludes additions of exploration & evaluation assets (996,645) and anything not in those two lines. The AR 'Belanja Modal' (capital expenditure) figure is a different, larger company measure."
+            },
+            "fx_usd_idr": {
+                "v": 14269,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50007",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 32, note 2 foreign currency translation - closing rate '1 Dolar AS/Rupiah'",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS at the balance-sheet date."
+            },
+            "roe": {
+                "v": 9.25,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 28, Rasio Keuangan / Financial Ratios - Return on Equity (ROE) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end TOTAL equity (incl. NCI) - recomputed check, not a stated definition."
+            },
+            "roa": {
+                "v": 4.05,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 28, Rasio Keuangan / Financial Ratios - Return on Assets (ROA) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end total assets - recomputed check."
+            },
+            "sales_volume": {
+                "v": 871,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 31, Kinerja Operasional - Volume Niaga (BBTUD) chart labels '21-'25",
+                "basis": "n/a",
+                "unit": "BBTUD",
+                "note": "Gas trading (niaga/distribution) volume, billion BTU per day, as printed. Gas transmission volume (not stored, no slot): 1,352 MMSCFD."
+            },
+            "production": {
+                "v": 24086,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 31, Kinerja Operasional - Volume Lifting (BOEPD) chart labels '21-'25",
+                "basis": "n/a",
+                "unit": "BOEPD",
+                "note": "Oil and gas lifting of the upstream subsidiary (PT Saka Energi Indonesia), barrels of oil equivalent per day, as printed."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 3568.594775,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20, Consolidated statement of profit or loss - Pendapatan / Revenues",
+                "basis": "consolidated",
+                "note": "Consolidated revenues as presented (full USD / 1e6)."
+            },
+            "ebitda": {
+                "v": 1216.837069,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50080",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23, Ikhtisar Data Keuangan Penting / Important Financial Data Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "AR2022 highlights prints 1,216,837,069 with footnote '*Taking into account the loss on foreign exchange and profits from joint ventures'. AR2023, AR2024 and AR2025 later print 1,218,815,618 for 2022 (same footnote) - a 0.16% revision; the own-year AR value is stored. EBITDA as the company reports it in the AR financial-highlights table; the AR gives no formula. For 2022-2023 the footnote says the figure includes FX gain/loss and the share of profit of joint ventures; not computed by us."
+            },
+            "operating_profit": {
+                "v": 592.175354,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20, Consolidated statement of profit or loss - LABA OPERASI / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "PGN's 'Laba operasi' = gross profit + other income - G&A - other expenses; it is BEFORE share of JV profit, finance income/costs, FX, impairments and tax-dispute/onerous-contract provisions, which the FS shows below it."
+            },
+            "net_profit_attr": {
+                "v": 326.239697,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 21, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.0135,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20, Laba bersih per saham - dasar dan dilusian / Earnings per share - basic and diluted (2022 column)",
+                "basis": "consolidated",
+                "share_basis": "2024-03-08",
+                "note": "Taken from the FS2023 comparative column (audited), which prints 4 dp; FS2022 itself prints 0.013 (PDF p. 21). USD per share."
+            },
+            "payout_ratio": {
+                "v": 70,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50082",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 233, dividend distribution table, column 2022 - Dividen Pay Out Ratio (%) 70",
+                "basis": "consolidated",
+                "note": "USD 228,367,788 / 326,239,697 = 70.0%."
+            },
+            "total_assets": {
+                "v": 7194.859982,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 3753.089344,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, Consolidated statement of financial position - TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1447.650817,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Kas dan setara kas / Cash and cash equivalents (current assets)",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash, which the FS shows separately (current USD 0.213 mn + non-current USD 115.022 mn)."
+            },
+            "total_debt": {
+                "v": 1675.147966,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, 18, Consolidated statement of financial position - borrowing lines (liabilities)",
+                "basis": "consolidated",
+                "note": "Sum of printed interest-bearing borrowing lines (full USD): current portion of long-term bank loans 16,718,211; long-term bank loans 335,314,805; bonds payable 1,323,114,950 = 1,675,147,966. Lease liabilities excluded. Bonds = carrying value of PGN's USD 1.35 bn 5.125% senior notes due May 2024 and Saka Energi's (SEI) USD 625 mn senior notes (FS2022 note 20), reduced by buybacks in 2022-2023 and fully repaid in 2024."
+            },
+            "equity_attr": {
+                "v": 2634.197277,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to owners of the parent",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 3441.770638,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, TOTAL EKUITAS / EKUITAS NETO (incl. non-controlling interests)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24241508196,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, Share capital - issued and fully paid 24,241,508,196 shares (1 Series A Dwiwarna + 24,241,508,195 Series B)",
+                "share_basis": "2023-04-13",
+                "note": "No treasury shares (EPS note: weighted average = 24,241,508,196). Auditor's report dated 13 April 2023 (cited in the AGMS 2023 minutes summary)."
+            },
+            "year_end_price": {
+                "v": 1760,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2022-12-30",
+                "loc": "PDF p. 35, Kinerja Saham 5 Tahun Terakhir - Harga Saham Penutupan Q4 2022",
+                "basis": "n/a",
+                "share_basis": "2026-04-30",
+                "note": "Q4 closing price as printed."
+            },
+            "cfo": {
+                "v": 969.699872,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23, Consolidated statement of cash flows - Kas neto yang diperoleh dari aktivitas operasi / Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 130.310103,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 23, Consolidated statement of cash flows (investing) - Penambahan aset tetap + Penambahan properti minyak dan gas",
+                "basis": "consolidated",
+                "note": "Sum of the two investing outflows: additions of fixed assets 75,123,791 + additions of oil and gas properties 55,186,312 (full USD). Excludes additions of exploration & evaluation assets (2,389,909) and anything not in those two lines. The AR 'Belanja Modal' (capital expenditure) figure is a different, larger company measure."
+            },
+            "fx_usd_idr": {
+                "v": 15731,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50017",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 50, note 2 foreign currency translation - closing rate '1 Dolar AS/Rupiah'",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS at the balance-sheet date."
+            },
+            "roe": {
+                "v": 9.48,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 28, Rasio Keuangan / Financial Ratios - Return on Equity (ROE) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end TOTAL equity (incl. NCI) - recomputed check, not a stated definition."
+            },
+            "roa": {
+                "v": 4.53,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 28, Rasio Keuangan / Financial Ratios - Return on Assets (ROA) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end total assets - recomputed check."
+            },
+            "sales_volume": {
+                "v": 896,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 31, Kinerja Operasional - Volume Niaga (BBTUD) chart labels '21-'25",
+                "basis": "n/a",
+                "unit": "BBTUD",
+                "note": "Gas trading (niaga/distribution) volume, billion BTU per day, as printed. Gas transmission volume (not stored, no slot): 1,349 MMSCFD."
+            },
+            "production": {
+                "v": 28870,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 31, Kinerja Operasional - Volume Lifting (BOEPD) chart labels '21-'25",
+                "basis": "n/a",
+                "unit": "BOEPD",
+                "note": "Oil and gas lifting of the upstream subsidiary (PT Saka Energi Indonesia), barrels of oil equivalent per day, as printed."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 3646.304165,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19, Consolidated statement of profit or loss - Pendapatan / Revenues",
+                "basis": "consolidated",
+                "note": "Consolidated revenues as presented (full USD / 1e6)."
+            },
+            "ebitda": {
+                "v": 1085.552739,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50082",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 22, Ikhtisar Data Keuangan Penting / Important Financial Data Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "AR2023 highlights - 1,085,552,739 with footnote '*) accounting for foreign exchange profit/(loss) and the share of profit from joint ventures'. EBITDA as the company reports it in the AR financial-highlights table; the AR gives no formula. For 2022-2023 the footnote says the figure includes FX gain/loss and the share of profit of joint ventures; not computed by us."
+            },
+            "operating_profit": {
+                "v": 542.417614,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19, Consolidated statement of profit or loss - LABA OPERASI / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "PGN's 'Laba operasi' = gross profit + other income - G&A - other expenses; it is BEFORE share of JV profit, finance income/costs, FX, impairments and tax-dispute/onerous-contract provisions, which the FS shows below it."
+            },
+            "net_profit_attr": {
+                "v": 278.091179,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.0115,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20, Laba bersih per saham - dasar dan dilusian / Earnings per share - basic and diluted (2023 column)",
+                "basis": "consolidated",
+                "share_basis": "2024-03-08",
+                "note": "Basic and diluted EPS as printed in FS2023. USD per share."
+            },
+            "payout_ratio": {
+                "v": 80,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50084",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 239, dividend distribution table, column 2023 - Dividen Pay Out Ratio (%) 80",
+                "basis": "consolidated",
+                "note": "USD 222,472,943.20 / 278,091,179 = 80.0%."
+            },
+            "total_assets": {
+                "v": 6599.238469,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Consolidated statement of financial position - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 3058.83509,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17, Consolidated statement of financial position - TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1244.731682,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Kas dan setara kas / Cash and cash equivalents (current assets)",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash, which the FS shows separately (current USD 14.401 mn + non-current USD 128.772 mn)."
+            },
+            "total_debt": {
+                "v": 1114.871736,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, 17, Consolidated statement of financial position - borrowing lines (liabilities)",
+                "basis": "consolidated",
+                "note": "Sum of printed interest-bearing borrowing lines (full USD): short-term bank loans 2,590,841; bonds payable (current) 552,633,015; current portion of long-term bank loans 39,689,089; long-term bank loans 519,958,791 = 1,114,871,736. Lease liabilities excluded. Bonds = carrying value of PGN's USD 1.35 bn 5.125% senior notes due May 2024 and Saka Energi's (SEI) USD 625 mn senior notes (FS2022 note 20), reduced by buybacks in 2022-2023 and fully repaid in 2024."
+            },
+            "equity_attr": {
+                "v": 2698.854805,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to owners of the parent",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 3540.403379,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, TOTAL EKUITAS / EKUITAS NETO (incl. non-controlling interests)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24241508196,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Share capital - issued and fully paid 24,241,508,196 shares (1 Series A Dwiwarna + 24,241,508,195 Series B)",
+                "share_basis": "2024-03-08",
+                "note": "No treasury shares (EPS note: weighted average = 24,241,508,196). Auditor's report dated 8 March 2024 (cited in the AGMS 2024 minutes summary)."
+            },
+            "year_end_price": {
+                "v": 1130,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2023-12-29",
+                "loc": "PDF p. 35, Kinerja Saham 5 Tahun Terakhir - Harga Saham Penutupan Q4 2023",
+                "basis": "n/a",
+                "share_basis": "2026-04-30",
+                "note": "Q4 closing price as printed."
+            },
+            "cfo": {
+                "v": 723.688604,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 22, Consolidated statement of cash flows - Kas neto yang diperoleh dari aktivitas operasi / Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 121.2282,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 22, Consolidated statement of cash flows (investing) - Penambahan aset tetap + Penambahan properti minyak dan gas",
+                "basis": "consolidated",
+                "note": "Sum of the two investing outflows: additions of fixed assets 52,055,522 + additions of oil and gas properties 69,172,678 (full USD). Excludes additions of exploration & evaluation assets (1,054,564) and anything not in those two lines. The AR 'Belanja Modal' (capital expenditure) figure is a different, larger company measure."
+            },
+            "fx_usd_idr": {
+                "v": 15439,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50032",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 51, note 2 foreign currency translation - closing rate '1 Dolar AS/Rupiah'",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS at the balance-sheet date."
+            },
+            "roe": {
+                "v": 7.85,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 28, Rasio Keuangan / Financial Ratios - Return on Equity (ROE) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end TOTAL equity (incl. NCI) - recomputed check, not a stated definition."
+            },
+            "roa": {
+                "v": 4.21,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 28, Rasio Keuangan / Financial Ratios - Return on Assets (ROA) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end total assets - recomputed check."
+            },
+            "sales_volume": {
+                "v": 923,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 31, Kinerja Operasional - Volume Niaga (BBTUD) chart labels '21-'25",
+                "basis": "n/a",
+                "unit": "BBTUD",
+                "note": "Gas trading (niaga/distribution) volume, billion BTU per day, as printed. Gas transmission volume (not stored, no slot): 1,458 MMSCFD."
+            },
+            "production": {
+                "v": 25086,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 31, Kinerja Operasional - Volume Lifting (BOEPD) chart labels '21-'25",
+                "basis": "n/a",
+                "unit": "BOEPD",
+                "note": "Oil and gas lifting of the upstream subsidiary (PT Saka Energi Indonesia), barrels of oil equivalent per day, as printed."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 3788.619187,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Consolidated statement of profit or loss - Pendapatan / Revenues",
+                "basis": "consolidated",
+                "note": "Consolidated revenues as presented (full USD / 1e6)."
+            },
+            "ebitda": {
+                "v": 1076.683217,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50084",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Ikhtisar Data Keuangan Penting / Important Financial Data Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "AR2024 highlights - 1,076,683,217 (no footnote). EBITDA as the company reports it in the AR financial-highlights table; the AR gives no formula. For 2022-2023 the footnote says the figure includes FX gain/loss and the share of profit of joint ventures; not computed by us."
+            },
+            "operating_profit": {
+                "v": 522.657112,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Consolidated statement of profit or loss - LABA OPERASI / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "PGN's 'Laba operasi' = gross profit + other income - G&A - other expenses; it is BEFORE share of JV profit, finance income/costs, FX, impairments and tax-dispute/onerous-contract provisions, which the FS shows below it."
+            },
+            "net_profit_attr": {
+                "v": 339.427774,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 21, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.014,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 21, Laba bersih per saham - dasar dan dilusian / Earnings per share - basic and diluted (2024 column)",
+                "basis": "consolidated",
+                "share_basis": "2025-03-25",
+                "note": "Basic and diluted EPS as printed in FS2024. USD per share."
+            },
+            "payout_ratio": {
+                "v": 80,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 313, Announcement and Payments of Dividends: 'USD271,542,219 ... or 80% of net profit'; table column 2024 payout 80",
+                "basis": "consolidated",
+                "note": "Also AGMS 28 May 2025 minutes summary: 'Sebesar 80% atau sejumlah USD271,542,219'."
+            },
+            "total_assets": {
+                "v": 6415.94973,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 2744.422446,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Consolidated statement of financial position - TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1383.182362,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Kas dan setara kas / Cash and cash equivalents (current assets)",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash, which the FS shows separately (current USD 21.223 mn + non-current USD 148.413 mn)."
+            },
+            "total_debt": {
+                "v": 876.140671,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, 18, Consolidated statement of financial position - borrowing lines (liabilities)",
+                "basis": "consolidated",
+                "note": "Sum of printed interest-bearing borrowing lines (full USD): short-term bank loan 100,000,000; current portion of long-term bank loans 72,449,958; long-term bank loans 703,690,713 = 876,140,671. Lease liabilities excluded."
+            },
+            "equity_attr": {
+                "v": 2826.045922,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to owners of the parent",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 3671.527284,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, TOTAL EKUITAS / EKUITAS NETO (incl. non-controlling interests)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24241508196,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, Share capital - issued and fully paid 24,241,508,196 shares (1 Series A Dwiwarna + 24,241,508,195 Series B)",
+                "share_basis": "2025-03-25",
+                "note": "No treasury shares (EPS note: weighted average = 24,241,508,196). Auditor's report dated 25 March 2025 (cited in the AGMS 2025 minutes summary)."
+            },
+            "year_end_price": {
+                "v": 1590,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2024-12-30",
+                "loc": "PDF p. 35, Kinerja Saham 5 Tahun Terakhir - Harga Saham Penutupan Q4 2024",
+                "basis": "n/a",
+                "share_basis": "2026-04-30",
+                "note": "Q4 closing price as printed."
+            },
+            "cfo": {
+                "v": 785.214989,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23, Consolidated statement of cash flows - Kas neto yang diperoleh dari aktivitas operasi / Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 84.77545,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 23, Consolidated statement of cash flows (investing) - Penambahan aset tetap + Penambahan properti minyak dan gas",
+                "basis": "consolidated",
+                "note": "Sum of the two investing outflows: additions of fixed assets 62,753,331 + additions of oil and gas properties 22,022,119 (full USD). Excludes additions of exploration & evaluation assets (54,103,744) and anything not in those two lines. The AR 'Belanja Modal' (capital expenditure) figure is a different, larger company measure."
+            },
+            "fx_usd_idr": {
+                "v": 16157,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50040",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 49, note 2 foreign currency translation - closing rate '1 Dolar AS/Rupiah'",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS at the balance-sheet date."
+            },
+            "roe": {
+                "v": 9.24,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 28, Rasio Keuangan / Financial Ratios - Return on Equity (ROE) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end TOTAL equity (incl. NCI) - recomputed check, not a stated definition."
+            },
+            "roa": {
+                "v": 5.29,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 28, Rasio Keuangan / Financial Ratios - Return on Assets (ROA) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end total assets - recomputed check."
+            },
+            "sales_volume": {
+                "v": 852,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 31, Kinerja Operasional - Volume Niaga (BBTUD) chart labels '21-'25",
+                "basis": "n/a",
+                "unit": "BBTUD",
+                "note": "Gas trading (niaga/distribution) volume, billion BTU per day, as printed. Gas transmission volume (not stored, no slot): 1,543 MMSCFD."
+            },
+            "production": {
+                "v": 20181,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 31, Kinerja Operasional - Volume Lifting (BOEPD) chart labels '21-'25",
+                "basis": "n/a",
+                "unit": "BOEPD",
+                "note": "Oil and gas lifting of the upstream subsidiary (PT Saka Energi Indonesia), barrels of oil equivalent per day, as printed."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 3975.918206,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Consolidated statement of profit or loss - Pendapatan / Revenues",
+                "basis": "consolidated",
+                "note": "Consolidated revenues as presented (full USD / 1e6)."
+            },
+            "ebitda": {
+                "v": 971.196992,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 26, Ikhtisar Data Keuangan Penting / Important Financial Data Highlights - EBITDA",
+                "basis": "consolidated",
+                "note": "AR2025 highlights - 971,196,992 (no footnote). The AR2025 MD&A text (PDF p. 114) says 'USD971.24 million' and the FY2025 results deck says USD 971 million. EBITDA as the company reports it in the AR financial-highlights table; the AR gives no formula. For 2022-2023 the footnote says the figure includes FX gain/loss and the share of profit of joint ventures; not computed by us."
+            },
+            "operating_profit": {
+                "v": 519.634233,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Consolidated statement of profit or loss - LABA OPERASI / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "PGN's 'Laba operasi' = gross profit + other income - G&A - other expenses; it is BEFORE share of JV profit, finance income/costs, FX, impairments and tax-dispute/onerous-contract provisions, which the FS shows below it."
+            },
+            "net_profit_attr": {
+                "v": 215.364799,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 21, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk / Owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.0089,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 21, Laba bersih per saham - dasar dan dilusian / Earnings per share - basic and diluted (2025 column)",
+                "basis": "consolidated",
+                "share_basis": "2026-03-04",
+                "note": "Basic and diluted EPS as printed in FS2025 (note 32 PDF p. 183: weighted average shares 24,241,508,196). USD per share."
+            },
+            "payout_ratio": {
+                "v": 80,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51808",
+                "source_type": "company_release",
+                "as_of_date": "2026-05-25",
+                "loc": "p. 2, Pengumuman Ringkasan Risalah RUPST TB2025, Mata Acara Rapat 2: 'Sebesar 80% ... USD172,291,839 ditetapkan sebagai Dividen Tunai'",
+                "basis": "consolidated",
+                "note": "AGMS of 22 May 2026; 80% of FY2025 profit attributable (USD 215,364,799); 20% (USD 43,072,960) retained."
+            },
+            "total_assets": {
+                "v": 6232.384211,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position - TOTAL ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 2624.548641,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18, Consolidated statement of financial position - TOTAL LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1336.288104,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, Kas dan setara kas / Cash and cash equivalents (current assets)",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash, which the FS shows separately (current USD 27.316 mn + non-current USD 158.745 mn)."
+            },
+            "total_debt": {
+                "v": 742.370861,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, 18, Consolidated statement of financial position - borrowing lines (liabilities)",
+                "basis": "consolidated",
+                "note": "Sum of printed interest-bearing borrowing lines (full USD): short-term bank loans 35,000,000; current portion of long-term bank loans 148,042,600; non-current bank loans 559,328,261 = 742,370,861. Lease liabilities excluded."
+            },
+            "equity_attr": {
+                "v": 2740.417316,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Ekuitas yang dapat diatribusikan kepada pemilik entitas induk / Equity attributable to owners of the parent",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 3607.83557,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, TOTAL EKUITAS / EKUITAS NETO (incl. non-controlling interests)",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24241508196,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Share capital - issued and fully paid 24,241,508,196 shares (1 Series A Dwiwarna + 24,241,508,195 Series B)",
+                "share_basis": "2026-03-04",
+                "note": "No treasury shares (EPS note: weighted average = 24,241,508,196). FS2025 note 1c: authorised by the Directors on 4 March 2026."
+            },
+            "year_end_price": {
+                "v": 1910,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2025-12-30",
+                "loc": "PDF p. 34-35, Kinerja Saham: 'Saham PGAS ditutup pada harga Rp1.910'; table Q4 closing 2025",
+                "basis": "n/a",
+                "share_basis": "2026-04-30",
+                "note": "Q4 closing price as printed (market cap Rp46,301 bn)."
+            },
+            "cfo": {
+                "v": 657.096215,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23, Consolidated statement of cash flows - Kas neto yang diperoleh dari aktivitas operasi / Net cash generated from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 198.550571,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23, Consolidated statement of cash flows (investing) - Penambahan aset tetap + Penambahan properti minyak dan gas",
+                "basis": "consolidated",
+                "note": "Sum of the two investing outflows: additions of fixed assets 97,700,806 + additions of oil and gas properties 100,849,765 (full USD). Excludes additions of exploration & evaluation assets (9,203,819) and anything not in those two lines. The AR 'Belanja Modal' (capital expenditure) figure is a different, larger company measure."
+            },
+            "fx_usd_idr": {
+                "v": 16720,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51552",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 49, note 2 foreign currency translation - closing rate '1 Dolar AS/Rupiah'",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the FS at the balance-sheet date."
+            },
+            "roe": {
+                "v": 5.97,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 28, Rasio Keuangan / Financial Ratios - Return on Equity (ROE) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end TOTAL equity (incl. NCI) - recomputed check, not a stated definition."
+            },
+            "roa": {
+                "v": 3.46,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 28, Rasio Keuangan / Financial Ratios - Return on Assets (ROA) (%)",
+                "basis": "consolidated",
+                "note": "As reported. The printed values equal profit attributable to owners / year-end total assets - recomputed check."
+            },
+            "sales_volume": {
+                "v": 836,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 31, Kinerja Operasional - Volume Niaga (BBTUD) chart labels '21-'25",
+                "basis": "n/a",
+                "unit": "BBTUD",
+                "note": "Gas trading (niaga/distribution) volume, billion BTU per day, as printed. Gas transmission volume (not stored, no slot): 1,609 MMSCFD."
+            },
+            "production": {
+                "v": 17581,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51749",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 31, Kinerja Operasional - Volume Lifting (BOEPD) chart labels '21-'25",
+                "basis": "n/a",
+                "unit": "BOEPD",
+                "note": "Oil and gas lifting of the upstream subsidiary (PT Saka Energi Indonesia), barrels of oil equivalent per day, as printed."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 124.42,
+            "total": 205.955966,
+            "cum_date": "2022-06-07",
+            "ex_date": "2022-06-08",
+            "record_date": "2022-06-09",
+            "pay_date": "2022-06-29",
+            "share_basis": "2022-05-30",
+            "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50458",
+            "source_type": "company_release",
+            "as_of_date": "2022-05-30",
+            "loc": "p. 2-3, Pengumuman Ringkasan Risalah RUPST TB2021 - Mata Acara Rapat 3 (Rp3,016,128,449,746.32 or Rp124.42/share) and 'Jadwal Pembayaran Dividen Tunai Tahun Buku 2021'",
+            "note": "AGMS 27 May 2022 declared USD 205,955,966 paid in rupiah: Rp3,016,128,449,746.32 = Rp124.42 per share (dps is rupiah as paid; total is the USD amount). Schedule: cum regular/negotiated 7 Jun 2022, ex 8 Jun 2022 (cash market cum 9 / ex 10 Jun), recording date 9 Jun 2022, payment 29 Jun 2022. The PDF's fonts carry no usable text layer (glyph substitution); text was recovered by decoding the substitution and checked against FS2022 note 26 (PDF p. 172: 'IDR3.016.128.449.746 (setara USD205.955.966) atau IDR124,42 per saham'). as_of_date = PDF creation date (30 May 2022) of the published summary."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 141.053554179777,
+            "total": 228.367788,
+            "cum_date": "2023-06-09",
+            "ex_date": "2023-06-12",
+            "record_date": "2023-06-13",
+            "pay_date": "2023-06-27",
+            "share_basis": "2023-06-21",
+            "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50443",
+            "source_type": "company_release",
+            "as_of_date": "2023-06-21",
+            "loc": "p. 1-2, Keterbukaan Informasi terkait Aksi Korporasi - Dividen Tunai (letter 060500.S/KU.06.01/COS/2023, 21 Jun 2023): total, DPS and schedule",
+            "note": "AGMS 30 May 2023: USD 228,367,788 (= Rp3,419,350,889,793 per FS2023 note 26, PDF p. 172), paid in rupiah. First notice 31 May 2023 (letter 055700.S, DPS IDR 141,05355, pay 28 Jun); corrected 8 Jun 2023 (letter 058600.S, DPS IDR 141,053554179777) and 21 Jun 2023 (payment moved to 27 Jun 2023 after an IDX holiday change). Final values stored. AR2023/AR2024 print the payment date as 28 Jun 2023 (the pre-correction date)."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 148.3060679659,
+            "total": 222.4729432,
+            "cum_date": "2024-06-07",
+            "ex_date": "2024-06-10",
+            "record_date": "2024-06-11",
+            "pay_date": "2024-06-28",
+            "share_basis": "2024-05-31",
+            "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50420",
+            "source_type": "company_release",
+            "as_of_date": "2024-05-31",
+            "loc": "p. 1-2, Keterbukaan Informasi Terkait Aksi Korporasi - Dividen Tunai (letter 040800.S/KU.06.01/COS/2024, 31 May 2024): total, DPS and schedule",
+            "note": "AGMS 30 May 2024: USD 222,472,943.20 (= Rp3,595,162,762,112, FS2024 note 26 PDF p. 177 'IDR148,31 per saham'), paid in rupiah. The notice is an image-only PDF (read visually); the same schedule is in the AGMS minutes summary (pgn.co.id download 50423). AR2024/AR2025 print payment 26 Jun 2024 and AR2025 text says Rp148.21 (typo; its table says 148.31) - the notice values are stored."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 182.081029670601,
+            "total": 271.542219,
+            "cum_date": "2025-06-11",
+            "ex_date": "2025-06-12",
+            "record_date": "2025-06-13",
+            "pay_date": "2025-07-02",
+            "share_basis": "2025-06-02",
+            "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/50407",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-02",
+            "loc": "p. 1-2, Keterbukaan Informasi Terkait Aksi Korporasi - Dividen Tunai (letter 037500.S/KU.06.01/COS/2025, 2 Jun 2025): total, DPS and schedule",
+            "note": "AGMS 28 May 2025: 80% = USD 271,542,219 (= Rp4,413,918,773,096, FS2025 note 26 PDF p. 177 'IDR182,08 per saham'), paid in rupiah. Image-only PDF (read visually); same schedule in the AGMS minutes summary (download 50408). AR2025 PDF p. 313 prints payment 1 Jul 2025; the notice (2 Jul 2025) is stored."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 125.607435231667,
+            "total": 172.291839,
+            "cum_date": "2026-06-04",
+            "ex_date": "2026-06-05",
+            "record_date": "2026-06-08",
+            "pay_date": "2026-06-24",
+            "share_basis": "2026-05-25",
+            "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52054",
+            "source_type": "company_release",
+            "as_of_date": "2026-05-25",
+            "loc": "p. 1-2, Keterbukaan Informasi Terkait Aksi Korporasi - Dividen Tunai (letter 033400.S/KU.06.01/COS/2026, 25 May 2026): total, DPS and schedule",
+            "note": "AGMS 22 May 2026: 80% of FY2025 profit = USD 172,291,839, paid in rupiah at the BI middle rate of the AGMS date; DPS IDR 125,607435231667. Cash market cum 8 Jun / ex 9 Jun 2026."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 3019.216814,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 9, Interim consolidated statement of profit or loss - PENDAPATAN (9M 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited 9M 2026 interim FS."
+            },
+            "revenue_ytd_prior": {
+                "v": 2922.901281,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 9, comparative column nine months ended 30 Sep 2025",
+                "basis": "consolidated"
+            },
+            "ebitda_ytd": {
+                "v": 785,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52195",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10, Summary of 9M-2026 Performance - Financial Highlight: 'USD 785 Million EBITDA'; p. 12 chart 729 -> 785",
+                "basis": "consolidated",
+                "note": "Rounded to USD 1 mn as printed in the 9M-2026 results presentation; the interim FS has no EBITDA line. Same company EBITDA concept as the AR (no formula given)."
+            },
+            "ebitda_ytd_prior": {
+                "v": 729,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/51384",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 4, Executive Summary - Financial Highlight: 'USD 729 Million EBITDA' (9M-2025)",
+                "basis": "consolidated",
+                "note": "As printed in the 9M-2025 presentation (rounded); the 9M-2026 deck p. 12 shows the same 729."
+            },
+            "profit_ytd": {
+                "v": 292.950759,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 10, Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk (9M 2026)",
+                "basis": "consolidated"
+            },
+            "profit_ytd_prior": {
+                "v": 237.89251,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 10, comparative column nine months ended 30 Sep 2025",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 2847.207368,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Ekuitas neto yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24241508196,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Share capital - issued and fully paid 24,241,508,196 shares",
+                "share_basis": "2026-09-30",
+                "note": "Unchanged; no treasury shares."
+            },
+            "total_assets": {
+                "v": 6016.408353,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, TOTAL ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1277.511332,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash (current USD 17.696 mn + non-current USD 163.126 mn)."
+            },
+            "total_debt": {
+                "v": 625.713876,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6-7, borrowing lines",
+                "basis": "consolidated",
+                "note": "Current portion of long-term bank loans 175,178,144 + non-current bank loans 450,535,732 = 625,713,876 (full USD); short-term bank loans nil (USD 35.0 mn at 31 Dec 2025 repaid). No bonds. Lease liabilities excluded."
+            },
+            "fx_usd_idr": {
+                "v": 17877,
+                "source_url": "https://corporateweb-api.pgn.co.id/api/media/minio/download/52183",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 35, note 2 foreign currency translation - closing rate '1 dolar AS/Rupiah' 30 Sep 2026",
+                "basis": "n/a",
+                "note": "Closing IDR per 1 USD used in the interim FS."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2021",
+            "reason": "FS2021 (PDF p. 10) prints basic EPS rounded to 3 dp as USD 0.013; no PGN document prints more digits (AR2021-AR2025 all show 0.013). 0.013 x 24,241,508,196 shares = USD 315.1 mn vs profit attributable USD 303.8 mn (3.7% gap) is pure rounding: 303,823,865 / 24,241,508,196 = USD 0.01253. Share count is unchanged since 2008 and there are no treasury shares."
+        }
+    ],
+    "research_notes": [
+        "Source policy: every FY money figure, EPS and share count comes from that year's own audited consolidated FS (pgn.co.id 'Laporan Keuangan' downloads), except FY2022 EPS which uses the 4-dp comparative in FS2023. EBITDA comes from each year's own AR highlights table; ROE/ROA from AR2025 (2021-2025) and AR2020 (2020); year-end prices from AR2025 (2021-2025) and AR2020 (2020); operating volumes from AR2025 (2021-2025) and AR2021 (2020). Dividends from the company's own IDX/OJK disclosure letters and AGMS minutes summaries published on pgn.co.id. Interim = unaudited 9M 2026 FS (PDF dated 28 Oct 2026) + the 9M results decks for EBITDA.",
+        "Currency/units: the FS are presented in full US dollars; all money values here are USD million (exact, 6 dp). DPS is rupiah per share as paid (PGN declares in USD and pays in IDR at the BI middle rate); dividend 'total' is the declared USD amount.",
+        "Legal name: EGMS of 29 Dec 2025 (deed 26 Jan 2026, Ministry of Law approval AHU-0004617.AH.01.02.TAHUN 2026 of 29 Jan 2026) changed the name from 'PT Perusahaan Gas Negara Tbk' to 'PT Perusahaan Gas Negara (Persero) Tbk' (9M 2026 FS note 1a, PDF p. 15). FS2025 and AR2025 still carry the old name. The 2018-2025 name without '(Persero)' followed GR 6/2018 (inbreng of the State's shares into Pertamina). Immediate parent PT Pertamina (Persero) holds 56.97%; ultimate parent the Republic of Indonesia (Series A Dwiwarna share).",
+        "No corporate actions since 2019-01-01: issued shares are 24,241,508,196 in every FS from FY2019 to 9M 2026; the ARs (e.g. AR2021 p. 30, AR2024 p. 30, AR2025 p. 37) state no stock split, reverse split, bonus, rights issue or buyback. The last split was 13 Jun 2008 (Rp500 -> Rp100 nominal, 1:5), outside the window.",
+        "total_debt = printed bank loans + bonds + (2019-2021) Pertagas' interest-bearing shareholder loan from Pertamina (FS note 'Pinjaman/Loans' groups it with bank loans; USD 246.2 mn at end-2019, 210.6 mn end-2020, 50.0 mn end-2021, repaid 2022). Without it total_debt would be 2,504.2 (2019), 2,348.8 (2020) and 2,390.4 (2021) USD mn. The USD senior notes (PGN 5.125% due May 2024, nominal USD 1.35 bn; SEI notes, nominal USD 625 mn; FS2022 note 20) were bought back/repaid in 2022 (cash USD 644.3 mn), 2023 (773.3 mn) and 2024 (553.0 mn): no bonds from FY2024. The 'proceeds of loans from joint ventures' lines in the 2022-2024 cash-flow statements are repayments of a loan receivable from PDG, not borrowings.",
+        "EBITDA is never defined beyond footnotes: AR2022 marks its 2022 figure, and AR2023-AR2025 mark 2022 and 2023, as including FX gain/loss and the share of JV profit. AR2022 printed FY2022 EBITDA 1,216.837 while AR2023-AR2025 print 1,218.816 (own-year AR stored). FY2025: table 971.197 vs MD&A text 971.24.",
+        "FY2020 was a loss year (attributable loss USD 264.8 mn) because of a USD 278.4 mn provision for tax disputes (FS2020 PDF p. 9); the AGMS of 3 May 2021 approved no FY2020 dividend, so payout_ratio 0 and no dividend record. FY2021 profit includes a USD 65.2 mn reversal of that provision.",
+        "Presentation changes (operating profit unchanged in each case): FS2021 reclassified FY2020 'beban niaga dan infrastruktur' into cost of revenues (FY2020 gross profit 854.4 in FS2020 vs 470.0 in FS2021; Note 43); FS2022 reclassified FY2021 current/non-current liabilities (deferred revenue) and restated FY2021 CFO 582.705 -> 581.705; FS2024 re-split FY2023 G&A and other expenses. Own-year values are stored throughout.",
+        "operating_profit is PGN's 'Laba operasi', which sits ABOVE share of JV profit (USD 76.4 mn in 2025), finance items, FX, oil & gas impairments (USD 99.5 mn in 2025) and tax/onerous-contract provisions - so it can move very differently from net profit.",
+        "capex = cash-flow additions of fixed assets + additions of oil and gas properties only (brief definition). Additions of exploration & evaluation assets are excluded (USD 54.1 mn in 2024, 9.2 mn in 2025 - see each note). PGN's own AR 'Belanja Modal' (e.g. USD 282.4 mn 2025, 255.4 mn 2024) is a broader, accrual-based measure and is not stored.",
+        "Operating data: sales_volume = gas trading (niaga) volume in BBTUD; production = oil & gas lifting of PT Saka Energi Indonesia in BOEPD (AR2025 chart labels, 2021-2025). AR2020/AR2021 print FY2020 lifting only as 7.5 MMBOE (annual) - not stored for 2020 because it would need a unit conversion. Gas transmission volume (MMSCFD) has no slot and is recorded in each sales_volume note. 9M 2026 deck: trading 827 BBTUD, transmission 1,623 MMSCFD, lifting 16,476 BOEPD.",
+        "Dividend dates: the payment dates in the ARs' dividend tables differ by a day or two from the company's own schedule notices (FY2022: AR 28 Jun vs corrected notice 27 Jun 2023; FY2023: AR 26 Jun vs notice 28 Jun 2024; FY2024: AR 1 Jul vs notice 2 Jul 2025). The notice dates are stored. The FY2023 and FY2024 notices are image-only PDFs, read visually from rendered pages; their DPS agree with FS2024/FS2025 note 26 (IDR148.31 / IDR182.08).",
+        "Large non-controlling interests (total equity 3,607.8 vs equity attributable 2,740.4 USD mn at end-2025) largely reflect the 49% of PT Pertamina Gas (Pertagas) that PGN does not own (FS2025 PDF p. 266 lists Pertagas at 51.00%; PGN bought the 51% from Pertamina in 2018 and repaid the related promissory notes in 2019, FS2020 cash flow PDF p. 12). ROE as printed in the AR uses TOTAL equity as denominator (recomputed), so it is lower than profit / equity_attr.",
+        "Exchange rates (FS closing IDR per USD): 2019 13,901; 2020 14,105; 2021 14,269; 2022 15,731; 2023 15,439; 2024 16,157; 2025 16,720; 30 Sep 2026 17,877."
+    ]
+}

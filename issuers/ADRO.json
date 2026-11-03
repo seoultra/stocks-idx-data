@@ -1,0 +1,1514 @@
+{
+    "schema": 1,
+    "code": "ADRO",
+    "name": "PT Alamtri Resources Indonesia Tbk",
+    "name_short": "Alamtri Resources Indonesia",
+    "sector": "energy",
+    "subsector": "coal",
+    "exchange": "IDX",
+    "currency": "USD",
+    "website": "https://www.alamtri.com",
+    "ir_url": "https://www.alamtri.com/pages/read/10/41/Kinerja%20Perusahaan",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 3457.154,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/1878/ADRO%2020200303%20FS%20AE%20FY19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - Revenue (Pendapatan usaha)",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 404.19,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/1878/ADRO%2020200303%20FS%20AE%20FY19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 10, Profit attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ thousands / 1,000."
+            },
+            "total_assets": {
+                "v": 7217.105,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/1878/ADRO%2020200303%20FS%20AE%20FY19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1576.191,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/1878/ADRO%2020200303%20FS%20AE%20FY19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash and time deposits, which the balance sheet shows on separate lines."
+            },
+            "total_debt": {
+                "v": 1791.676,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/1878/ADRO%2020200303%20FS%20AE%20FY19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, sum of printed lines: bank loans, current maturity 506,060 + bank loans, non-current 551,602 + Senior Notes 734,014 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Bank loans + Senior Notes (current + non-current), excluding lease liabilities. Excluded: finance lease payables (42,883 + 111,015), loans from a third party (1,926 + 9,046) and derivative liabilities."
+            },
+            "equity_attr": {
+                "v": 3730.072,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/1878/ADRO%2020200303%20FS%20AE%20FY19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Total equity attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 3983.395,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/1878/ADRO%2020200303%20FS%20AE%20FY19.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, TOTAL EQUITY",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 2534.842,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - Revenue (Pendapatan usaha)",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 883,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 20, Five-Year Financial & Operational Highlights - Operational EBITDA (also AR2020 PDF p. 12: 883)",
+                "basis": "consolidated",
+                "note": "Operational EBITDA = EBITDA excluding prior-year tax assessments, allowance for uncollectible receivables, decommissioning-provision changes, derivative losses and impairments (AR2023 footnote). Whole group incl. the thermal-coal business later spun off."
+            },
+            "operating_profit": {
+                "v": 284.897,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Operating income (Laba usaha)",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 146.927,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Profit attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ thousands / 1,000."
+            },
+            "eps": {
+                "v": 0.00459,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Basic earnings per share attributable to owners of the parent entity (US$, full amount)",
+                "basis": "consolidated",
+                "share_basis": "2021-03-04",
+                "note": "Basic EPS in US$ (full amount) as printed."
+            },
+            "payout_ratio": {
+                "v": 99.92,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2044/ADRO%2020210428%20Ringkasan%20Risalah%20RUPST%20English.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-04-28",
+                "loc": "PDF p. 6, Second agenda resolution: 'US$146,815,565.58 ... or 99.92% from the net income for final cash dividend'",
+                "basis": "consolidated",
+                "note": "FY2020 dividend = final only (no interim was paid out of 2020 profit)."
+            },
+            "total_assets": {
+                "v": 6381.566,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 2429.852,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1173.703,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash and time deposits, which the balance sheet shows on separate lines."
+            },
+            "total_debt": {
+                "v": 1367.283,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, sum of printed lines: bank loans, current maturity 587,717 + bank loans, non-current 42,603 + Senior Notes 736,963 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Bank loans + Senior Notes (current + non-current), excluding lease liabilities. Excluded: lease liabilities (54,890 + 76,858) and the non-current loan from a third party (9,046)."
+            },
+            "equity_attr": {
+                "v": 3712.08,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Total equity attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 3951.714,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 31985962000,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 114 (Note 24 Share capital)",
+                "share_basis": "2021-03-04",
+                "note": "Issued and fully paid 31,985,962,000 shares; no treasury shares at 31 Dec 2020 (the share register in Note 24 sums to the full issued count; no treasury line on the balance sheet)."
+            },
+            "year_end_price": {
+                "v": 1430,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2036/ADRO%2020210401%20Laporan%20Tahunan%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-30",
+                "loc": "PDF p. 15, ADRO Share Price 2020 - Quarter 4 'Period End'",
+                "share_basis": "2021-04-01",
+                "note": "Close of the last 2020 session. The AR2020 text on PDF p. 246 says 'ADRO closed at Rp1,445' — a typo: the share table, AR2021 p. 240 ('closing price of Rp1,430 at the end of 2020') and the market data all give 1,430."
+            },
+            "cfo": {
+                "v": 736.431,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13, Net cash flows provided from operating activities",
+                "basis": "consolidated",
+                "note": "As originally reported; the FY2021 FS restate the 2020 comparative to 738.753."
+            },
+            "capex": {
+                "v": 177.273,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2020/ADRO%2020210304%20FS%20AE%2031%20December%202020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13, investing activities: Purchase of fixed assets 134,350 + Payment for addition of mining properties 42,923 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Sum of the two printed investing outflows (fixed assets + mining properties), positive."
+            },
+            "fx_usd_idr": {
+                "v": 14105,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2020-12-31&enddate=2020-12-31",
+                "source_type": "official",
+                "as_of_date": "2020-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2020-12-31",
+                "basis": "n/a",
+                "note": "ADRO's FS state the closing rate only as 'Rupiah 10,000 = US$0.xx' and say it is the Bank Indonesia middle rate; the BI middle rate itself is stored. Bank Indonesia middle rate (kurs tengah) for 2020-12-31: BI publishes kurs beli 14,034.48 and kurs jual 14,175.53; their mean is 14,105.005, i.e. Rp14,105 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000071' (https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf PDF p. 39); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "roe": {
+                "v": 4,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 21, Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%)."
+            },
+            "roa": {
+                "v": 2.5,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 21, Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%)."
+            },
+            "production": {
+                "v": 54.53,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 21, Operating Statistics - Coal Production / Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production. Whole group (thermal + metallurgical coal) before the AADI spin-off."
+            },
+            "sales_volume": {
+                "v": 54.14,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 21, Operating Statistics - Coal Production / Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume. Whole group (thermal + metallurgical coal) before the AADI spin-off."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 3992.718,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Consolidated statement of profit or loss - Revenue (Pendapatan usaha)",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 2104,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 20, Five-Year Financial & Operational Highlights - Operational EBITDA (also AR2021 PDF p. 12: 2,104)",
+                "basis": "consolidated",
+                "note": "Operational EBITDA (definition as for 2020). Whole group incl. thermal coal."
+            },
+            "operating_profit": {
+                "v": 1528.279,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Operating income (Laba usaha)",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 933.492,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Profit attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ thousands / 1,000."
+            },
+            "eps": {
+                "v": 0.02927,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Basic earnings per share attributable to owners of the parent entity (US$, full amount)",
+                "basis": "consolidated",
+                "share_basis": "2022-03-02",
+                "note": "Basic EPS in US$ (full amount) as printed."
+            },
+            "payout_ratio": {
+                "v": 70,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2128/ADRO%2020220509%20Ringkasan%20Risalah%20RUPST%202022%20Eng.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-05-09",
+                "loc": "PDF p. 6, Second agenda resolution: 'US$650,000,000 ... or 70% ... of the Company's net income FY21 for cash dividend'",
+                "basis": "consolidated",
+                "note": "As stated by the AGMS (rounded). The IR dividend page prints 69.63% (650 / 933.49) [https://www.alamtri.com/pages/read/10/44/Informasi%20Dividen]."
+            },
+            "total_assets": {
+                "v": 7586.936,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 3128.621,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1811.141,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash and time deposits, which the balance sheet shows on separate lines."
+            },
+            "total_debt": {
+                "v": 1509.683,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, sum of printed lines: bank loans, current maturity 218,971 + bank loans, non-current 550,594 + Senior Notes 740,118 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Bank loans + Senior Notes (current + non-current), excluding lease liabilities. Excluded: lease liabilities (51,765 + 42,271) and loans from third parties (3,614)."
+            },
+            "equity_attr": {
+                "v": 4136.78,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Total equity attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 4458.315,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 31202734000,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 118 (Note 25 Share capital and treasury shares)",
+                "share_basis": "2022-03-02",
+                "note": "Shares outstanding 31,202,734,000 = issued 31,985,962,000 less 783,228,000 treasury shares (buyback programme 2021)."
+            },
+            "year_end_price": {
+                "v": 2250,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2117/ADRO%2020220405%20Laporan%20Tahunan%20AEI%2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-30",
+                "loc": "PDF p. 15, ADRO Share Price 2021 - Quarter 4 period-end price; text p. 240",
+                "share_basis": "2022-04-05"
+            },
+            "cfo": {
+                "v": 1436.332,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13, Net cash flows provided from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 179.966,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2110/ADRO%2020220302%20LK%20AEI%20FY2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13, investing activities: Purchase of fixed assets 152,911 + Payment for addition of mining properties 27,055 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Sum of the two printed investing outflows (fixed assets + mining properties), positive."
+            },
+            "fx_usd_idr": {
+                "v": 14269,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2021-12-31&enddate=2021-12-31",
+                "source_type": "official",
+                "as_of_date": "2021-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2021-12-31",
+                "basis": "n/a",
+                "note": "ADRO's FS state the closing rate only as 'Rupiah 10,000 = US$0.xx' and say it is the Bank Indonesia middle rate; the BI middle rate itself is stored. Bank Indonesia middle rate (kurs tengah) for 2021-12-31: BI publishes kurs beli 14,197.66 and kurs jual 14,340.35; their mean is 14,269.005, i.e. Rp14,269 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000070' (https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf PDF p. 42); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "roe": {
+                "v": 23.1,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 21, Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%)."
+            },
+            "roa": {
+                "v": 13.6,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 21, Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%)."
+            },
+            "production": {
+                "v": 52.7,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 21, Operating Statistics - Coal Production / Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production. Whole group (thermal + metallurgical coal)."
+            },
+            "sales_volume": {
+                "v": 51.58,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 21, Operating Statistics - Coal Production / Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume. Whole group (thermal + metallurgical coal)."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 8102.399,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Consolidated statement of profit or loss - Revenue (Pendapatan usaha)",
+                "basis": "consolidated"
+            },
+            "ebitda": {
+                "v": 5030,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20, Five-Year Financial & Operational Highlights - Operational EBITDA (also AR2022 PDF p. 18: 5,030)",
+                "basis": "consolidated",
+                "note": "Operational EBITDA (definition as for 2020). Whole group incl. thermal coal."
+            },
+            "operating_profit": {
+                "v": 4308.347,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 15, Operating income (Laba usaha)",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 2493.08,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Profit attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ thousands / 1,000."
+            },
+            "eps": {
+                "v": 0.08032,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Basic earnings per share attributable to owners of the parent entity (US$, full amount)",
+                "basis": "consolidated",
+                "share_basis": "2023-03-02",
+                "note": "Basic EPS in US$ (full amount) as printed."
+            },
+            "payout_ratio": {
+                "v": 40.11,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2205/Summary%20Minutes%20AGMS%202023.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-05-15",
+                "loc": "PDF p. 7, Second agenda resolution: '$1,000,000,000 ... or 40.11% ... of the Company's net income of the fiscal year 2022'",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 10782.307,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 4254.969,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4067.358,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash and time deposits, which the balance sheet shows on separate lines."
+            },
+            "total_debt": {
+                "v": 1511.739,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 13, sum of printed lines: bank loans, current maturity 142,945 + bank loans, non-current 667,904 + Senior Notes 700,890 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Bank loans + Senior Notes (current + non-current), excluding lease liabilities. Excluded: lease liabilities (32,755 + 34,895) and loans from third parties (3,256)."
+            },
+            "equity_attr": {
+                "v": 6024.6,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, Total equity attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 6527.338,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 30985962000,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 125 (Note 24 Share capital and treasury shares)",
+                "share_basis": "2023-03-02",
+                "note": "Shares outstanding 30,985,962,000 = issued 31,985,962,000 less 1,000,000,000 treasury shares."
+            },
+            "year_end_price": {
+                "v": 3850,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2198/AR%20BOOK%20ADARO%20ENERGY%202022%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-30",
+                "loc": "PDF p. 24, Stocks Highlights - Quarter 4 period end; text p. 302",
+                "share_basis": "2023-04-19"
+            },
+            "cfo": {
+                "v": 3864.254,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, Net cash flows provided from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 401.985,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2197/FS%20AEI%2031%20DECEMBER%202022%20-%20Final.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, investing activities: Payments for addition of fixed assets 382,379 + Payments for addition of mining properties 19,606 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Sum of the two printed investing outflows (fixed assets + mining properties), positive."
+            },
+            "fx_usd_idr": {
+                "v": 15731,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2022-12-30&enddate=2022-12-30",
+                "source_type": "official",
+                "as_of_date": "2022-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2022-12-30",
+                "basis": "n/a",
+                "note": "ADRO's FS state the closing rate only as 'Rupiah 10,000 = US$0.xx' and say it is the Bank Indonesia middle rate; the BI middle rate itself is stored. Bank Indonesia middle rate (kurs tengah) for 2022-12-30: BI publishes kurs beli 15,652.34 and kurs jual 15,809.66; their mean is 15,731.000, i.e. Rp15,731 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000064' (https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf PDF p. 54); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "roe": {
+                "v": 43.4,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 21, Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%)."
+            },
+            "roa": {
+                "v": 26.3,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 21, Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%)."
+            },
+            "production": {
+                "v": 62.88,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 21, Operating Statistics - Coal Production / Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production. Whole group (thermal + metallurgical coal)."
+            },
+            "sales_volume": {
+                "v": 61.34,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 21, Operating Statistics - Coal Production / Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume. Whole group (thermal + metallurgical coal)."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 6517.556,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Consolidated statement of profit or loss - Revenue (Pendapatan usaha)",
+                "basis": "consolidated",
+                "note": "As originally reported (whole group incl. the thermal-coal business AADI). The FY2024 FS re-present FY2023 for continuing operations: revenue 2,135.412 (FS2024 PDF p. 15); AADI's 2023 revenue 4,382.144 moved to discontinued operations (FS2024 Note 40)."
+            },
+            "ebitda": {
+                "v": 2554,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20, Five-Year Financial & Operational Highlights - Operational EBITDA 2023",
+                "basis": "consolidated",
+                "note": "Operational EBITDA as originally reported for the whole group incl. thermal coal (39.2% margin on revenue 6,518). AR2024 re-presents FY2023 for continuing operations only: 1,057 (AR2024 p. 26); AR2025 gives 1,055 on its new EBITDA definition."
+            },
+            "operating_profit": {
+                "v": 2155.498,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Operating income (Laba usaha)",
+                "basis": "consolidated",
+                "note": "As originally reported (whole group). Re-presented for continuing operations in FS2024: 764.935."
+            },
+            "net_profit_attr": {
+                "v": 1641.437,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Profit attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited FS, US$ thousands / 1,000."
+            },
+            "eps": {
+                "v": 0.05309,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Basic earnings per share attributable to owners of the parent entity (US$, full amount)",
+                "basis": "consolidated",
+                "share_basis": "2024-02-29",
+                "note": "Basic EPS in US$ (full amount) as printed."
+            },
+            "payout_ratio": {
+                "v": 48.74,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2259/Ringkasan%20Risalah%20RUPST%202024%20-%20English.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-05-16",
+                "loc": "PDF p. 6, Second agenda resolution: 'US$800,000,000 ... or 48.74%' of FY2023 net income",
+                "basis": "consolidated",
+                "note": "Covers the interim (400) + final (400) only. The US$2,629.4m 'additional final cash dividend for 2023' approved by the 18-Nov-2024 EGMS out of retained earnings is NOT in this ratio (see dividends and validation_ack)."
+            },
+            "total_assets": {
+                "v": 10472.711,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 3063.961,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 3311.232,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash and time deposits, which the balance sheet shows on separate lines."
+            },
+            "total_debt": {
+                "v": 1324.332,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, sum of printed lines: bank loans, current maturity 222,782 + bank loans, non-current 404,361 + Senior Notes - current portion 697,189 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Bank loans + Senior Notes (current + non-current), excluding lease liabilities. Excluded: lease liabilities (28,794 + 83,117) and loans from third parties (3,013). The Senior Notes (US$750m, due Oct 2024) were current at end-2023 and repaid in 2024."
+            },
+            "equity_attr": {
+                "v": 6772.664,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Total equity attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 7408.75,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 30881205900,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 126 (Note 23 Share capital and treasury shares)",
+                "share_basis": "2024-02-29",
+                "note": "Shares outstanding 30,881,205,900 = issued 31,985,962,000 less 1,104,756,100 treasury shares."
+            },
+            "year_end_price": {
+                "v": 2380,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-29",
+                "loc": "PDF p. 26, Stocks Highlights 2023 - Quarter 4 period end; text p. 330",
+                "share_basis": "2024-04-23"
+            },
+            "cfo": {
+                "v": 1152.758,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19, Net cash flows provided from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 585.282,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2241/FS%20Final%20AEI%2031%20December%202023.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19, investing activities: Payments for addition of fixed assets 560,301 + Payments for addition of mining properties 24,981 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Sum of the two printed investing outflows (fixed assets + mining properties), positive."
+            },
+            "fx_usd_idr": {
+                "v": 15416,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2023-12-29&enddate=2023-12-29",
+                "source_type": "official",
+                "as_of_date": "2023-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2023-12-29",
+                "basis": "n/a",
+                "note": "ADRO's FS state the closing rate only as 'Rupiah 10,000 = US$0.xx' and say it is the Bank Indonesia middle rate; the BI middle rate itself is stored. Bank Indonesia middle rate (kurs tengah) for 2023-12-29: BI publishes kurs beli 15,338.92 and kurs jual 15,493.08; their mean is 15,416.000, i.e. Rp15,416 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000065' (https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf PDF p. 48); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "roe": {
+                "v": 25,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%)."
+            },
+            "roa": {
+                "v": 17.7,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%)."
+            },
+            "production": {
+                "v": 65.88,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Operating Statistics - Coal Production / Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production. Whole group as originally reported. AR2024/AR2025 re-present FY2023 for continuing operations only: production 5.11 Mt, sales 4.46 Mt."
+            },
+            "sales_volume": {
+                "v": 65.71,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2250/AR%20ADARO_23%20FINAL.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Operating Statistics - Coal Production / Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume. Whole group as originally reported. AR2024/AR2025 re-present FY2023 for continuing operations only: production 5.11 Mt, sales 4.46 Mt."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 2078.689,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Consolidated statement of profit or loss - Revenue (Pendapatan usaha)",
+                "basis": "consolidated",
+                "note": "CONTINUING operations only: AADI (thermal coal, deconsolidated 9 Dec 2024) is presented as a discontinued operation (Note 40). AADI's revenue for 1 Jan-9 Dec 2024 was 3,554.212 (FS2024 PDF p. 148), not included here."
+            },
+            "ebitda": {
+                "v": 982.3,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2327/AR%20AlamTri%202024%20-%20web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 26, Five-Year Financial & Operational Highlights - Operational EBITDA 2024",
+                "basis": "consolidated",
+                "note": "Operational EBITDA of CONTINUING operations only (the thermal-coal business AADI is a discontinued operation in FY2024). AR2024 defines it as EBITDA excluding prior-year tax assessments and decommissioning-provision changes (its footnotes 1 and 2 are printed in swapped order). AR2025 restates FY2024 as 986 on its new plain-EBITDA definition."
+            },
+            "operating_profit": {
+                "v": 711.401,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Operating income (Laba usaha)",
+                "basis": "consolidated",
+                "note": "Continuing operations only (AADI presented as discontinued)."
+            },
+            "net_profit_attr": {
+                "v": 1380.013,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Profit attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "TOTAL profit attributable incl. discontinued operations: continuing 569.880 + discontinued (AADI to 9 Dec 2024, incl. a 26.4 loss on the sale) 810.133 (FS2024 PDF p. 17). AR2025 highlights show only the continuing 570."
+            },
+            "eps": {
+                "v": 0.04491,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Basic earnings per share attributable to owners of the parent entity (US$, full amount)",
+                "basis": "consolidated",
+                "share_basis": "2025-03-04",
+                "note": "Basic EPS in US$ on total profit (continuing + discontinued); continuing-only basic EPS 0.01855 (same page)."
+            },
+            "payout_ratio": {
+                "v": 36.23,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2340/Ringkasan%20Risalah%20RUPST%202025-English.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-03",
+                "loc": "PDF p. 7, Second agenda resolution: 'A total of US$500,000,000 ... or 36.23% of the net income'",
+                "basis": "consolidated",
+                "note": "On total FY2024 profit attributable (1,380.0, incl. the discontinued thermal-coal business)."
+            },
+            "total_assets": {
+                "v": 6702.127,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Post-spin-off balance sheet (AADI deconsolidated 9 Dec 2024; the retained 15.37% AADI stake is an FVOCI investment)."
+            },
+            "total_liabilities": {
+                "v": 1331.295,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1405.918,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash and time deposits, which the balance sheet shows on separate lines."
+            },
+            "total_debt": {
+                "v": 462.338,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, sum of printed lines: bank loans, current maturity 29,682 + bank loans, non-current 432,656 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Bank loans + Senior Notes (current + non-current), excluding lease liabilities. Excluded: lease liabilities (29,057 + 88,450). No Senior Notes outstanding after the US$750m repayment in 2024."
+            },
+            "equity_attr": {
+                "v": 4926.856,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, Total equity attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 5370.832,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 30244918400,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 124 (Note 23 Share capital and treasury shares)",
+                "share_basis": "2025-03-04",
+                "note": "Shares outstanding 30,244,918,400 = issued 30,758,665,900 (after the 2024 cancellation of 1,227,296,100 treasury shares) less 513,747,500 treasury shares from the 2024 buyback."
+            },
+            "year_end_price": {
+                "v": 2430,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2327/AR%20AlamTri%202024%20-%20web.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-30",
+                "loc": "PDF p. 370, 'ADRO closed at Rp2,430 at the end of 2024' (also AR2025 p. 32 share table, 2024 Q4 period end 2,430)",
+                "share_basis": "2025-04-23"
+            },
+            "cfo": {
+                "v": 2016.146,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Net cash flows provided from operating activities",
+                "basis": "consolidated",
+                "note": "The cash-flow statement is NOT split by continuing/discontinued: it includes AADI's operating cash flows up to 9 Dec 2024 (FS2024 Note 40 PDF p. 148: net operating inflow of the discontinued operation 1,537.850)."
+            },
+            "capex": {
+                "v": 836.585,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2317/Laporan%20Keuangan%20PT%20Alamtri%20Resources%20Indonesia%20Tbk%2031%20December%202024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, investing activities: Payments for addition of fixed assets 813,451 + Payments for addition of mining properties 23,134 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Sum of the two printed investing outflows (fixed assets + mining properties), positive. Includes AADI's capex up to 9 Dec 2024 (cash-flow statement not re-presented). AR2024 p. 27 gives its own capex definition: 514 continuing / 840 incl. discontinued."
+            },
+            "fx_usd_idr": {
+                "v": 16162,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2024-12-31&enddate=2024-12-31",
+                "source_type": "official",
+                "as_of_date": "2024-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2024-12-31",
+                "basis": "n/a",
+                "note": "ADRO's FS state the closing rate only as 'Rupiah 10,000 = US$0.xx' and say it is the Bank Indonesia middle rate; the BI middle rate itself is stored. Bank Indonesia middle rate (kurs tengah) for 2024-12-31: BI publishes kurs beli 16,081.19 and kurs jual 16,242.81; their mean is 16,162.000, i.e. Rp16,162 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000062' (https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf PDF p. 46); no IDR-per-USD figure is printed in the FS or AR. Cross-check: FS2025 Note 45 (PDF p. 263) 2024 trade receivables Rp295,083 million = US$18,257,842, i.e. 16,162."
+            },
+            "roe": {
+                "v": 11.87,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2355/ADRO%20Annual%20Report%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 27, Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%). For 2024 the AR uses profit from CONTINUING operations (637.5 / total equity 5,370.8 = 11.87%); on total profit incl. the discontinued thermal-coal business it would be much higher."
+            },
+            "roa": {
+                "v": 9.51,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2355/ADRO%20Annual%20Report%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 27, Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%). For 2024 the AR uses profit from CONTINUING operations (637.5 / total equity 5,370.8 = 11.87%); on total profit incl. the discontinued thermal-coal business it would be much higher."
+            },
+            "production": {
+                "v": 6.63,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2355/ADRO%20Annual%20Report%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 27, Operating Statistics - Production Volume / Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production. Continuing operations only (metallurgical coal of PT Alamtri Minerals Indonesia Tbk/ADMR); thermal coal left with AADI."
+            },
+            "sales_volume": {
+                "v": 5.62,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2355/ADRO%20Annual%20Report%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 27, Operating Statistics - Production Volume / Sales Volume",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume. Continuing operations only (metallurgical coal of PT Alamtri Minerals Indonesia Tbk/ADMR); thermal coal left with AADI."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 1873.528,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Consolidated statement of profit or loss - Revenue (Pendapatan usaha)",
+                "basis": "consolidated",
+                "note": "Continuing business only (no discontinued operation in 2025)."
+            },
+            "ebitda": {
+                "v": 799,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2355/ADRO%20Annual%20Report%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 26, Three-Year Financial & Operational Highlights - EBITDA 2025 (also p. 85 MD&A: 'EBITDA decreased by 19% to $799 million')",
+                "basis": "consolidated",
+                "note": "EBITDA (AR2025 footnote 1): profit for the year excluding depreciation & amortisation, income tax expense, finance cost, finance income and forex. AR2025 dropped the 'operational EBITDA' label; continuing operations only (metallurgical coal, mining services, other)."
+            },
+            "operating_profit": {
+                "v": 517.575,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Operating income (Laba usaha)",
+                "basis": "consolidated"
+            },
+            "net_profit_attr": {
+                "v": 447.694,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Profit attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Continuing operations = total (no discontinued operation in 2025)."
+            },
+            "eps": {
+                "v": 0.01526,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Basic earnings per share attributable to owners of the parent entity (US$, full amount)",
+                "basis": "consolidated",
+                "share_basis": "2026-03-06",
+                "note": "Basic EPS in US$ (full amount) as printed."
+            },
+            "payout_ratio": {
+                "v": 99.96,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2359/ADRO-Ringkasan%20Risalah%20RUPST%202026_english.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-04-17",
+                "loc": "PDF p. 7, Second agenda resolution: 'A total of US$447,500,000 ... or 99,96% of the net income'",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 6816.993,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 1813.04,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, TOTAL LIABILITIES",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1044.123,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash and time deposits, which the balance sheet shows on separate lines."
+            },
+            "total_debt": {
+                "v": 745.043,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, sum of printed lines: bank loans, current maturity 40,676 + bank loans, non-current 704,367 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Bank loans + Senior Notes (current + non-current), excluding lease liabilities. Excluded: lease liabilities (19,651 + 56,570)."
+            },
+            "equity_attr": {
+                "v": 4485.423,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Total equity attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 5003.953,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, TOTAL EQUITY",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 28800494200,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 111 (Note 22 Share capital and treasury shares)",
+                "share_basis": "2026-03-06",
+                "note": "Shares outstanding 28,800,494,200 = issued 29,389,689,400 (after the 2025 cancellation of 1,368,976,500 treasury shares) less 589,195,200 treasury shares; the 2026 AGMS then cancelled those, so issued = outstanding = 28,800,494,200 from 2026."
+            },
+            "year_end_price": {
+                "v": 1810,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2355/ADRO%20Annual%20Report%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-30",
+                "loc": "PDF p. 32, Share Price Movements 2025 - Quarter 4 period end; text p. 282",
+                "share_basis": "2026-03-26"
+            },
+            "cfo": {
+                "v": 594.125,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 22, Net cash flows provided from operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 801.567,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2347/FS%20ADRO%20FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 22, investing activities: Payments for addition of fixed assets 790,104 + Payments for addition of mining properties 11,463 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Sum of the two printed investing outflows (fixed assets + mining properties), positive."
+            },
+            "fx_usd_idr": {
+                "v": 16782,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2025-12-31&enddate=2025-12-31",
+                "source_type": "official",
+                "as_of_date": "2025-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2025-12-31",
+                "basis": "n/a",
+                "note": "ADRO's FS state the closing rate only as 'Rupiah 10,000 = US$0.xx' and say it is the Bank Indonesia middle rate; the BI middle rate itself is stored. Bank Indonesia middle rate (kurs tengah) for 2025-12-31: BI publishes kurs beli 16,698.09 and kurs jual 16,865.91; their mean is 16,782.000, i.e. Rp16,782 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000060' (https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf PDF p. 49); no IDR-per-USD figure is printed in the FS or AR. Cross-check: FS2025 Note 45 (PDF p. 263) trade receivables Rp362,838 million = US$21,620,647, i.e. 16,782."
+            },
+            "roe": {
+                "v": 9.79,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2355/ADRO%20Annual%20Report%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 27, Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%)."
+            },
+            "roa": {
+                "v": 7.19,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2355/ADRO%20Annual%20Report%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 27, Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "ROE as printed = profit for the year (incl. NCI) / year-end total equity; ROA = profit for the year / year-end total assets (checked: e.g. FY2023 1,854.9 / 7,408.8 = 25.0%)."
+            },
+            "production": {
+                "v": 7.41,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2355/ADRO%20Annual%20Report%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 27, Operating Statistics - Production Volume / Sales Volume (also p. 76)",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production. Metallurgical coal (AMI/ADMR) only."
+            },
+            "sales_volume": {
+                "v": 6.28,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2355/ADRO%20Annual%20Report%202025.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 27, Operating Statistics - Production Volume / Sales Volume (also p. 76)",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal sales volume. Metallurgical coal (AMI/ADMR) only."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 66.28,
+            "total": 146.816,
+            "cum_date": "2021-05-04",
+            "ex_date": "2021-05-05",
+            "record_date": "2021-05-06",
+            "pay_date": "2021-05-25",
+            "share_basis": "2021-05-06",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2051/ADRO%2020200506%20Kurs%20Konversi%20Dividen%20Final%20FY20%20Eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-05-06",
+            "loc": "p. 1-2, item 3: BI middle rate of 6 May 2021 IDR14,439/USD; IDR2,120,029,561,360 for 31,985,962,000 shares = IDR66.28 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. AGMS 26 Apr 2021 approved US$146,815,565.58 (US$0.00459/share, 99.92% of FY2020 profit) as final dividend; no interim was paid for 2020. Dates (regular-market cum/ex, record, payment) from the AGMS summary minutes section I, PDF p. 8 [https://www.alamtri.com/files/news/berkas_eng/2044/ADRO%2020210428%20Ringkasan%20Risalah%20RUPST%20English.pdf]; payment 25 May 2021 also in FS2021 Note 28."
+        },
+        {
+            "fy": 2021,
+            "type": "interim",
+            "dps": 160.16,
+            "total": 350,
+            "cum_date": "2021-12-29",
+            "ex_date": "2021-12-30",
+            "record_date": "2022-01-03",
+            "pay_date": "2022-01-14",
+            "share_basis": "2022-01-03",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2092/ADRO%2020220103%20Kurs%20Konversi%20Div%20Interim%20English.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-01-03",
+            "loc": "p. 1-2, item 3: BI middle rate of 3 Jan 2022 IDR14,278/USD; IDR4,997,429,877,440 for 31,202,734,000 shares = IDR160.16 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. Board resolution 20 Dec 2021, US$350m (US$0.01122/share) out of 9M2021 profit. Dates from the schedule notice of 21 Dec 2021 [https://www.alamtri.com/files/news/berkas_eng/2088/ADRO%2020211221%20Pengumuman%20Dividen%20Interim%209M21%20English.pdf]."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 141.39,
+            "total": 300,
+            "cum_date": "2022-05-13",
+            "ex_date": "2022-05-17",
+            "record_date": "2022-05-18",
+            "pay_date": "2022-06-08",
+            "share_basis": "2022-05-18",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2133/ADRO%2020220518%20Kurs%20Konversi%20Div%20Final%20FY2021%20Eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-05-18",
+            "loc": "p. 1-2, item 3: BI middle rate of 18 May 2022 IDR14,651/USD; IDR4,395,305,940,471 for 31,086,398,900 shares = IDR141.39 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. AGMS 27 Apr 2022: FY2021 total US$650m (70%) = 350 interim + 300 final. Dates from the AGMS summary minutes section I, PDF p. 7 [https://www.alamtri.com/files/news/berkas_eng/2128/ADRO%2020220509%20Ringkasan%20Risalah%20RUPST%202022%20Eng.pdf]; paid 8 June 2022 (FS2023 Note 27)."
+        },
+        {
+            "fy": 2022,
+            "type": "interim",
+            "dps": 251.28,
+            "total": 500,
+            "cum_date": "2022-12-30",
+            "ex_date": "2023-01-02",
+            "record_date": "2023-01-03",
+            "pay_date": "2023-01-13",
+            "share_basis": "2023-01-03",
+            "source_url": "https://www.ksei.co.id/Announcement/Files/150822_ksei_0079_jku_0123_202301031737.pdf",
+            "source_type": "official",
+            "as_of_date": "2023-01-03",
+            "loc": "p. 1, KSEI letter KSEI-0079/JKU/0123 'Kurs Tengah Pelaksanaan Dividen Interim PT Adaro Energy Tbk': BI middle rate 3 Jan 2023 Rp15,572/US$, Rp251.28 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. The company's own Jan-2023 conversion-rate notice is not on alamtri.com, so the rupiah DPS is from the KSEI (central depository) letter, fetched via the Internet Archive; IDX Channel 2023-01-04 reports the same Rp251.28. Board resolution 21 Dec 2022, US$500m (US$0.01613/share). Dates from the company's schedule notice of 22 Dec 2022 [https://www.alamtri.com/files/news/berkas_eng/2159/Pengumuman%20Dividen%20Interim%209M22%20English.pdf]."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 240.78,
+            "total": 500,
+            "cum_date": "2023-05-22",
+            "ex_date": "2023-05-23",
+            "record_date": "2023-05-24",
+            "pay_date": "2023-06-06",
+            "share_basis": "2023-05-24",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2207/Conversion%20rate%20for%20the%20final%20cash%20dividend.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-05-24",
+            "loc": "p. 1-2, item 3: BI middle rate of 24 May 2023 Rp14,878/USD; Rp7,439,062,576,818 for 30,895,683,100 shares = Rp240.78 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. AGMS 11 May 2023: FY2022 total US$1,000m (40.11%) = 500 interim + 500 final (US$0.01618/share). Dates from the AGMS summary minutes section H, PDF p. 14 [https://www.alamtri.com/files/news/berkas_eng/2205/Summary%20Minutes%20AGMS%202023.pdf]. Payment date: the AGMS schedule says 6 June 2023 (stored); FS2023/FS2024 Note 27 say 'paid on 5 June 2023'."
+        },
+        {
+            "fy": 2023,
+            "type": "interim",
+            "dps": 199.98,
+            "total": 400,
+            "cum_date": "2023-12-28",
+            "ex_date": "2023-12-29",
+            "record_date": "2024-01-02",
+            "pay_date": "2024-01-12",
+            "share_basis": "2024-01-02",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2232/Kurs%20Konversi%20Dividen%20Tunai%20Interim%20-%20English.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-01-02",
+            "loc": "p. 1-2, item 3: BI middle rate of 2 Jan 2024 Rp15,439/US$; Rp6,175,623,555,882 for 30,881,205,900 shares = Rp199.98 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. Board resolution 14 Dec 2023, US$400m (US$0.01295/share) out of 9M2023 profit. Dates from the schedule notice of 18 Dec 2023 [https://www.alamtri.com/files/news/berkas_eng/2229/ADRO_Interim%20Dividend%20Schedule%202023.pdf]."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 209.31,
+            "total": 400,
+            "cum_date": "2024-05-27",
+            "ex_date": "2024-05-28",
+            "record_date": "2024-05-29",
+            "pay_date": "2024-06-05",
+            "share_basis": "2024-05-29",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2261/Kurs%20Konversi%20Dividen%20Tunai%20Final%20-%20English.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-05-29",
+            "loc": "p. 1-2, item 3: BI middle rate of 29 May 2024 Rp16,095/US$; Rp6,438,096,359,529 for 30,758,665,900 shares = Rp209.31 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. AGMS 15 May 2024: FY2023 total US$800m (48.74%) = 400 interim + 400 final (US$0.013/share). Dates from the AGMS summary minutes section G, PDF p. 14-15 [https://www.alamtri.com/files/news/berkas_eng/2259/Ringkasan%20Risalah%20RUPST%202024%20-%20English.pdf]."
+        },
+        {
+            "fy": 2023,
+            "type": "special",
+            "dps": 1358.18,
+            "total": 2629.396,
+            "cum_date": "2024-11-26",
+            "ex_date": "2024-11-28",
+            "record_date": "2024-11-29",
+            "pay_date": "2024-12-06",
+            "share_basis": "2024-11-29",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2310/Informasi%20Kurs%20Tambahan%20Dividen%20Tunai%20Final.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-11-29",
+            "loc": "p. 1-2, item 3: BI middle rate of 18 Nov 2024 Rp15,888/US$; Rp41,775,804,852,062 for 30,758,665,900 shares = Rp1,358.18 per share",
+            "note": "Approved by the EGMS of 18 Nov 2024 as an 'additional final cash dividend' (tambahan dividen tunai final) out of unappropriated retained earnings at 31 Dec 2023, up to US$2,629,396,000 (US$0.08548/share per FS2024 Note 27); stored as type 'special' because it is an extraordinary distribution outside the FY2023 payout ratio (48.74%). It equals the maximum POES value given in the material-transaction disclosure (US$2,629,396 thousand if all 7,008,202,240 offered AADI shares are bought) and funded shareholders' purchase of AADI shares (see research_notes). Paid in rupiah at the BI middle rate of the EGMS date. Dates (regular-market cum 26 Nov / ex 28 Nov 2024, record 29 Nov, payment 6 Dec 2024) from the EGMS summary minutes section G, PDF p. 8 [https://www.alamtri.com/files/news/berkas_eng/2307/ADRO-Ringkasan%20Risalah%20RUPSLB%20181124-English.pdf]."
+        },
+        {
+            "fy": 2024,
+            "type": "interim",
+            "dps": 106.84,
+            "total": 200,
+            "cum_date": "2024-12-27",
+            "ex_date": "2024-12-30",
+            "record_date": "2025-01-02",
+            "pay_date": "2025-01-15",
+            "share_basis": "2025-01-02",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2316/Pengumuman%20kurs%20konversi%20dividen%20interim_eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-01-02",
+            "loc": "p. 1-2, item 3: BI middle rate of 2 Jan 2025 Rp16,157/US$; Rp3,231,367,081,856 for 30,244,918,400 shares = Rp106.84 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. Board resolution 16 Dec 2024, US$200m (US$0.00661/share) out of 9M2024 profit. Dates from the schedule notice of 17 Dec 2024 [https://www.alamtri.com/files/news/berkas_eng/2312/Pengumuman%20Dividen%20Interim%209M24-%20English.pdf]."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 166.69,
+            "total": 300,
+            "cum_date": "2025-06-12",
+            "ex_date": "2025-06-13",
+            "record_date": "2025-06-16",
+            "pay_date": "2025-06-26",
+            "share_basis": "2025-06-16",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2342/Pengumuman%20kurs%20konversi%20dividen%20tunai%20final-English.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-16",
+            "loc": "p. 1-2, item 3: BI middle rate of 16 Jun 2025 Rp16,293/US$; Rp4,887,885,324,823 for 29,323,206,700 shares = Rp166.69 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. AGMS 2 Jun 2025: FY2024 total US$500m (36.23%) = 200 interim + 300 final (US$0.01023/share). Dates from the AGMS summary minutes section G, PDF p. 19 [https://www.alamtri.com/files/news/berkas_eng/2340/Ringkasan%20Risalah%20RUPST%202025-English.pdf]."
+        },
+        {
+            "fy": 2025,
+            "type": "interim",
+            "dps": 145.14,
+            "total": 250,
+            "cum_date": "2025-12-29",
+            "ex_date": "2025-12-30",
+            "record_date": "2026-01-02",
+            "pay_date": "2026-01-15",
+            "share_basis": "2026-01-02",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2346/ADRO%20-%20Exchange%20Rate%20for%20the%20Interim%20Cash%20Dividend%202025.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-01-02",
+            "loc": "p. 1-2, item 3: BI middle rate of 2 Jan 2026 Rp16,720/US$; Rp4,180,103,728,188 for 28,800,494,200 shares = Rp145.14 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. Board resolution 17 Dec 2025, US$250m (US$0.00868/share) out of 9M2025 profit (the notice's words say 'two hundred million' but the figure and FS2025 Note 25 say US$250,000,000). Dates from the schedule notice of 17 Dec 2025 [https://www.alamtri.com/files/news/berkas_eng/2345/20251217_ADRO_Jadwal%20Aksi%20Korporasi%20(Khusus%20Penyampaian%20Dividen%20Interim)_English.pdf]."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 118.26,
+            "total": 197.5,
+            "cum_date": "2026-04-27",
+            "ex_date": "2026-04-28",
+            "record_date": "2026-04-29",
+            "pay_date": "2026-05-08",
+            "share_basis": "2026-04-29",
+            "source_url": "https://www.alamtri.com/files/news/berkas_eng/2360/ADRO_KI%20Kurs%20Dividen%20Tunai%20Final%20TB2025_english.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-29",
+            "loc": "p. 1-2, item 3: BI middle rate of 29 Apr 2026 Rp17,245/US$; Rp3,405,946,444,092 for 28,800,494,200 shares = Rp118.26 per share",
+            "note": "Declared in US$ and paid in rupiah at the Bank Indonesia middle rate of the record date; dps = rupiah per share as paid; total in US$ million as approved. AGMS 17 Apr 2026: FY2025 total US$447.5m (99.96%) = 250 interim + 197.5 final (US$0.00685/share). Dates from the AGMS summary minutes section G, PDF p. 16 [https://www.alamtri.com/files/news/berkas_eng/2359/ADRO-Ringkasan%20Risalah%20RUPST%202026_english.pdf]."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 1901.504,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Interim consolidated statement of profit or loss - Revenue, 9M 2026",
+                "basis": "consolidated",
+                "note": "Unaudited interim FS (released 30 Oct 2026)."
+            },
+            "revenue_ytd_prior": {
+                "v": 1348.178,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 7, comparative column 30 September 2025",
+                "basis": "consolidated"
+            },
+            "ebitda_ytd": {
+                "v": null,
+                "note": "Not reported: the 9M2026 FS do not present EBITDA and no 9M2026 press release or analyst deck is on alamtri.com as of 2026-11-03 (press-release page's latest item is FY24, presentations' latest is the FY25 Public Expose)."
+            },
+            "ebitda_ytd_prior": {
+                "v": null,
+                "note": "Not reported for 9M2025 either (no 9M25 release/deck on alamtri.com; the FS do not present EBITDA)."
+            },
+            "profit_ytd": {
+                "v": 516.555,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Profit for the period attributable to owners of the parent entity, 9M 2026",
+                "basis": "consolidated"
+            },
+            "profit_ytd_prior": {
+                "v": 301.59,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 8, comparative column 9M 2025",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 5031.405,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Total equity attributable to owners of the parent entity",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 28800494200,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6 (share capital caption) and PDF p. 99 (Note 22)",
+                "share_basis": "2026-10-30",
+                "note": "28,800,494,200 issued = outstanding: the 2026 AGMS cancelled the 589,195,200 treasury shares (no treasury line at 30 Sep 2026)."
+            },
+            "total_assets": {
+                "v": 8188.614,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1165.037,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash and time deposits."
+            },
+            "total_debt": {
+                "v": 1091.568,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, sum of printed lines: bank loans current maturity 127,569 + bank loans non-current 963,999 (US$ thousands)",
+                "basis": "consolidated",
+                "note": "Bank loans only (no bonds outstanding); excludes lease liabilities 116,721 + 619,301, which rose sharply in 2026."
+            },
+            "fx_usd_idr": {
+                "v": 17998,
+                "source_url": "https://www.alamtri.com/files/news/berkas_eng/2365/FS%20Alamtri%20Resources%20Indonesia%20Tbk%2030%20Sep%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 26 (Note 2: Rupiah 10,000 = US$0.56) and PDF p. 119 (Note 35 net monetary assets: Rp20,042,044,789 thousand = US$1,113,570 thousand)",
+                "basis": "n/a",
+                "note": "DERIVED, not printed: the FS state the rate only as 'Rupiah 10,000 = US$0.56' (BI middle rate). Note 35: Rp20,042,044,789 thousand / US$1,113,570 thousand = Rp17,998.0 per US$; trade receivables and other investments give 17,998.0 too."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "payout_total:2023",
+            "reason": "Real gap. The FY2023 payout of 48.74% (AGMS 15 May 2024) covers only the US$400m interim + US$400m final. The EGMS of 18 Nov 2024 then approved a US$2,629.396m 'additional final cash dividend for 2023' out of retained earnings at 31 Dec 2023 (Rp1,358.18/share, ex 28 Nov 2024), which funded shareholders' purchase of the AADI shares in the POES. FY2023 dividend records therefore total US$3,429.4m vs profit x payout US$800m. Sources: AGMS 2024 summary minutes [https://www.alamtri.com/files/news/berkas_eng/2259/Ringkasan%20Risalah%20RUPST%202024%20-%20English.pdf], EGMS summary minutes [https://www.alamtri.com/files/news/berkas_eng/2307/ADRO-Ringkasan%20Risalah%20RUPSLB%20181124-English.pdf], FS2024 Note 27 PDF p. 127."
+        }
+    ],
+    "research_notes": [
+        "Identity: PT Alamtri Resources Indonesia Tbk (ticker ADRO), formerly PT Adaro Energy Tbk (to Feb 2022: EGMS 9 Feb 2022 renamed it PT Adaro Energy Indonesia Tbk) and PT Adaro Energy Indonesia Tbk (renamed by the EGMS of 18 Nov 2024, second agenda). IR site moved from adaro.com to alamtri.com; document paths are unchanged (www.adaro.com/files/news/... = www.alamtri.com/files/news/...). Reporting/functional currency US$; all money in US$ million (FS print US$ thousands; divided by 1,000).",
+        "Business after the spin-off (subsector 'coal'): AlamTri keeps metallurgical coal through PT Alamtri Minerals Indonesia Tbk (ADMR, formerly PT Adaro Minerals Indonesia Tbk; 'Enviromet' hard coking coal, 7.41 Mt produced in 2025), mining contracting (SIS), and 'green' projects - the ~500,000 t/yr aluminium smelter of its subsidiary (commissioning started end-2025) and hydropower/renewables. The thermal-coal business (PT Adaro Indonesia, Envirocoal) went to PT Adaro Andalan Indonesia Tbk (AADI). Revenue mix is still overwhelmingly metallurgical coal, so 'coal' remains the right subsector; reviewers may want a note on the page that this is met coal, not thermal coal, from FY2024.",
+        "AADI spin-off mechanics (FS2024 Note 40, POES prospectus [https://www.alamtri.com/files/news/berkas_eng/2309/Prospektus%20PUPS%20Alamtri.pdf], final-price disclosure [https://www.alamtri.com/files/news/berkas_eng/2311/Keterbukaan%20Informasi%20Harga%20Final%20PUPS_english.pdf], EGMS minutes 18 Oct and 18 Nov 2024): AADI (formerly PT Alam Tri Abadi, 99.9999% owned by ADRO) did an IPO of new shares on 5 Dec 2024 (ADRO's stake diluted to ~90%; ADRO's CF shows US$272.2m 'receipts from subsidiary's IPO'), and ADRO sold 5,811,178,298 AADI shares (74.63% of AADI's issued shares, i.e. 82.9% of the 7,008,202,240 shares offered - not every right was exercised) to its own shareholders through a Public Offering by Existing Shareholders (POES/PUPS, POJK 76/2017) on 9-11 Dec 2024. ADRO holders on the 29 Nov 2024 record date received NON-TRANSFERABLE purchase rights: 1,000 rights per 4,389 ADRO shares, each right buying 1 AADI share at Rp5,960 (107.5% of the appraised value; AADI's listing-day VWAP was Rp6,560). ADRO lost control on 9 Dec 2024, received US$2,181.0m cash, booked a US$68.7m loss to APIC and US$26.4m to other expenses, and keeps 15.37% of AADI as an FVOCI investment (US$449.0m retained interest).",
+        "The cash for that purchase came from the US$2,629.396m 'additional final cash dividend for 2023' = Rp1,358.18 per ADRO share (EGMS 18 Nov 2024; regular-market cum 26 Nov, EX 28 Nov 2024, record 29 Nov, paid 6 Dec 2024). The POES purchase-right entitlement had the SAME cum/ex/record dates (POES schedule disclosure 22 Nov 2024 [https://www.alamtri.com/files/news/berkas_eng/2308/Informasi%20Indikasi%20Jadwal%20PUPS%20-%20English.pdf]: cum 26 Nov, ex 28 Nov 2024 regular market, record 29 Nov). 1,000/4,389 x Rp5,960 = Rp1,357.9 per ADRO share, i.e. the dividend exactly funds full take-up. Economically this is a spin-off; legally it is a cash dividend plus a non-transferable right to buy AADI shares. No shares were distributed in kind and there was no split, bonus or rights issue of ADRO shares, so NOTHING goes into corporate_actions.json.",
+        "Price-fetcher check (2026-11-03, Yahoo chart API, used only to see what the fetcher will receive, not as a data source): Yahoo lists NO split events for ADRO.JK, so the fetcher's split reconciliation passes with an empty corporate-action list. Yahoo treats 28 Nov 2024 as an ordinary cash dividend of 1,358.18 (no price scaling of the chart closes). The traded price fell in two limit-down sessions - close 3,670 (26 Nov 2024; 27 Nov was a holiday) -> 2,760 (28 Nov, -24.8%) -> 2,080 (29 Nov, -24.6%) - so the validator's 35% one-session check does not fire, but anyone building a continuous price series should treat 2024-11-28 as a ~Rp1,358 cash distribution (about 37% of the cum price), not as a crash. Yahoo's year-end closes 2020-2025 equal the AR prices stored here.",
+        "Presentation of the spun-off business: FY2024 FS (and FY2025 FS comparatives) present AADI as a discontinued operation under PSAK 58 (SFAS 105 in the AR's wording): income statement = continuing operations + one line 'profit from discontinued operations' (918.648 incl. a 26.4 reclassification loss; 810.133 attributable). FY2023 income statement is re-presented in FS2024 (continuing revenue 2,135.412, operating income 764.935, continuing attributable profit 578.129, discontinued 1,063.308); the 2023 balance sheet and the cash-flow statements are NOT restated (the 2024 cash-flow statement includes AADI to 9 Dec 2024; AADI's cash at deconsolidation 1,681.054 is a separate line).",
+        "Series policy (READ BEFORE CHARTING): FY2020-FY2023 revenue, operating profit, EBITDA, production and sales are the whole group AS ORIGINALLY REPORTED (thermal + met coal). FY2024 and FY2025 revenue, operating profit, EBITDA, production and sales are CONTINUING operations only (met coal etc.). So FY2023 -> FY2024 revenue (6,517.6 -> 2,078.7) and production (65.88 -> 6.63 Mt) are a structural break, not a collapse. FY2024 net_profit_attr (1,380.0) and EPS (0.04491) are TOTAL incl. the discontinued AADI part; continuing-only were 569.9 and 0.01855. FY2024 cfo and capex include AADI to 9 Dec 2024. Balance-sheet items are as at each year end (post-spin-off from FY2024). Re-presented FY2023 continuing figures are given in the FY2023 notes.",
+        "EBITDA definition drift: AR2020-AR2024 report 'operational EBITDA' (EBITDA excluding prior-year tax assessments, decommissioning-provision changes and, from AR2023, allowances, derivative losses and impairments). AR2025 switched to plain 'EBITDA' (profit excl. D&A, tax, finance cost/income and forex) and restates FY2024 to 986 (vs 982.3 operational) and FY2023 continuing to 1,055 (vs 1,057). Each year stores the figure first reported for it. The FS never present EBITDA, so the 9M interim EBITDA is null.",
+        "Dividends: all declared in US$ and paid in rupiah at the BI middle rate of the record date (EGMS date for the Nov-2024 special); dps = rupiah per share as paid, total = US$ million. FY2020: final only (US$146.8m, 99.92%) - no 2020 interim. FY2021: 350 interim + 300 final. FY2022: 500 + 500. FY2023: 400 + 400 + the 2,629.4 special. FY2024: 200 + 300 (36.23% of total profit incl. discontinued). FY2025: 250 + 197.5 (99.96%). The IR dividend page's per-share column mixes interim/final amounts (e.g. FY2023 US$0.01300 = final only) and is not used. FY2022 interim rupiah DPS is from KSEI (the company's own Jan-2023 FX notice is not on its website).",
+        "fx_usd_idr: the FS print the BI closing rate only as 'Rupiah 10,000 = US$0.xx' (two decimals), which is too coarse to store. For FY2022-FY2025 and 9M2026 the stored value is DERIVED from the FS's own foreign-currency note (net Rupiah monetary position in Rp'000 / its printed US$ equivalent), where every Rupiah line gives the same rate to 0.1 rupiah (15,731 / 15,416 / 16,162 / 16,782 / 17,998). FY2020 and FY2021 are null because the lines of those notes imply different rates (14,105-14,228 and 14,269-14,294). A reviewer may prefer null for all years (golden rule: not printed) - the derivation is in each note so it is easy to revert.",
+        "Share count: buybacks 2021-2025 and two capital reductions by cancelling treasury shares (2024 AGMS: 1,227,296,100 shares, issued 31,985,962,000 -> 30,758,665,900; 2025 AGMS: 1,368,976,500 shares -> 29,389,689,400; 2026 AGMS: the remaining 589,195,200 -> 28,800,494,200). These are not splits/bonus/rights and are not schema corporate actions; shares_out is net of treasury shares at each year end. Basic EPS uses weighted-average shares, which explains EPS x year-end shares differing from profit by up to ~2% in 2021, 2024 and 2025 (within tolerance).",
+        "No stock split, reverse split, bonus issue or rights issue of ADRO shares since 2019 (checked: ARs 2020-2025 share-information sections and the OJK checklist, the IR shareholder-information page, FS share-capital notes). The only rights issue on the website is the 2008-era 'Adaro Rights Issue' document and a 2016 rights issue of the subsidiary PT Adaro Indonesia, both before 2019. corporate_actions is therefore empty.",
+        "Doubts / typos found in sources (not used): AR2020 text p. 246 says the 2020 close was Rp1,445 (share table and AR2021 say 1,430). The FY2025 interim schedule notice says 'US$250,000,000 (two hundred million ...)' in words. The 2024 AGMS minutes print the cash-market ex date as 'May 30, 2023' (2024 meant). FY2022 final payment date: AGMS schedule 6 Jun 2023 vs FS 'paid on 5 June 2023' (6 Jun stored). AR2024's highlight footnotes 1 and 2 (core earnings vs operational EBITDA definitions) are swapped. The FY2020 comparatives were restated slightly in FS2021 (CFO 736.431 -> 738.753; current assets 1,731.619 -> 1,731.867); original values stored.",
+        "REVIEWER 2026-11-03: fx_usd_idr FY2020-FY2025 replaced by the Bank Indonesia middle rate (official BI web service, the rate the FS say they use); the agent's derived FY2022-FY2025 values were identical, FY2020-FY2021 had been null because the FS's 2-decimal rate is too coarse. The 9M 2026 interim rate stays the derived 17,998 (the FS's own Rupiah lines all translate at it)."
+    ]
+}

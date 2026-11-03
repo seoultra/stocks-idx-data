@@ -1,0 +1,1390 @@
+{
+    "schema": 1,
+    "code": "PGEO",
+    "name": "PT Pertamina Geothermal Energy Tbk",
+    "name_short": "Pertamina Geothermal Energy",
+    "sector": "energy",
+    "subsector": "renewables",
+    "exchange": "IDX",
+    "currency": "USD",
+    "website": "https://pge.pertamina.com",
+    "ir_url": "https://pge.pertamina.com/en/financial-highlight",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 666.876,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 370-371 (printed 336-337) statement of profit or loss, column FY2019 - PENDAPATAN (USAHA) / REVENUE",
+                "basis": "consolidated",
+                "note": "As presented in the re-issued FY2019 FS: includes revenue earned by JOC (KOB) contractors gross (cost of revenue 486,093). From 2020 the Group changed its accounting policy for JOC contractor revenue; the prospectus (PDF p. 32, footnote 5) computes 2019 margins on an 'adjusted revenue of USD328,208 thousand'. Not comparable with 2020+. FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "net_profit_attr": {
+                "v": 95.588,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 370-371 (printed 336-337) statement of profit or loss, column FY2019 - Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_assets": {
+                "v": 2573.431,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2019 - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "cash": {
+                "v": 125.852,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2019 - Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash (shown separately: 10,064 non-current). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_debt": {
+                "v": 1179.893,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2019 - borrowing lines (see note)",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (USD thousand): Long-term loans from Pertamina: current maturities 213,261 + non-current 966,632 = 1,179,893 (USD thousand). No bank loans or bonds. Excludes 'other payables - related parties' 285,178 (non-loan payables to Pertamina, mostly accrued interest settled in 2021) and lease liabilities (nil). Stored in USD million."
+            },
+            "equity_attr": {
+                "v": 939.478,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2019 - Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_equity": {
+                "v": 939.367,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2019 - JUMLAH EKUITAS / TOTAL EQUITY (incl. NCI)",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 353.961,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 370-371 (printed 336-337) statement of profit or loss, column FY2020 - PENDAPATAN (USAHA) / REVENUE",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "ebitda": {
+                "v": 292.335,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 31-32 (printed xxix-xxx), Ikhtisar Data Keuangan Penting - Informasi dan Rasio Keuangan Lainnya: EBITDA and its reconciliation to profit",
+                "basis": "consolidated",
+                "note": "Company-reported EBITDA. Definition (IPO prospectus PDF p. 31, footnote 1): profit for the year before interest expense (finance costs net of finance income), income tax, depreciation and amortisation and other (income)/expense, net (other items incl. FX and impairment). The ARs print EBITDA without restating the definition. USD thousand / 1,000."
+            },
+            "operating_profit": {
+                "v": 133.809,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 370-371 (printed 336-337) statement of profit or loss, column FY2020 - LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "Old presentation: includes finance income (1,130) and other income/(expense), net (-55,790). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "net_profit_attr": {
+                "v": 72.866,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 370-371 (printed 336-337) statement of profit or loss, column FY2020 - Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "eps": {
+                "v": 0.0023,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 371 (printed 337), Basic earnings per share attributable to owners of the parent (full amount), column FY2020",
+                "basis": "consolidated",
+                "share_basis": "2022-11-04",
+                "note": "USD per share. Pre-IPO year: the re-issued FS compute EPS on 31,046,142,000 weighted shares, i.e. the post-June-2021 capitalisation and post-10-Feb-2022 Rp1,000,000->Rp500 nominal split share count, applied retrospectively (FS2021 Note 26). Printed to 4 decimals only."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://drive.google.com/file/d/1CarbN0hIGcgTmyO9_M8nf-0w6SHEOxGU/view",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2022 PDF p. 172 (printed 171), MD&A - Description of Dividend: 'For the financial years ended December 31, 2019, and December 31, 2020, there was no distribution of dividends'",
+                "basis": "consolidated",
+                "note": "No dividend out of FY2019 or FY2020 profit (pre-IPO; also FS2021 Note 25: no dividend declared in 2021)."
+            },
+            "total_assets": {
+                "v": 2551.366,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2020 - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_liabilities": {
+                "v": 1528.548,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2020 - JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "cash": {
+                "v": 154.863,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2020 - Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash (shown separately: 10,085 non-current). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_debt": {
+                "v": 1041.988,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2020 - borrowing lines (see note)",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (USD thousand): Long-term loans from Pertamina: current 228,304 + non-current 813,684 = 1,041,988. Excludes other payables to related parties 315,719 and lease liabilities 458 + 393. Stored in USD million."
+            },
+            "equity_attr": {
+                "v": 1022.963,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2020 - Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_equity": {
+                "v": 1022.818,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2020 - JUMLAH EKUITAS / TOTAL EQUITY (incl. NCI)",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "shares_out": {
+                "v": null,
+                "note": "Not stored: at 31 Dec 2020 the company was unlisted and had 775,256 shares of Rp1,000,000 (prospectus FS Note 17a; FS2021 PDF p. 97). Before listing it capitalised retained earnings (US$908,341 thousand) and converted US$111,421 thousand of Pertamina debt into equity (June 2021: 775,256 -> 15,523,071 shares) and changed the nominal value Rp1,000,000 -> Rp500 (10 Feb 2022: x2,000 -> 31,046,142,000 shares). That count has no listed-share equivalent, so it is left null. The FS report FY2020 EPS on the 31,046,142,000 basis. Neither pre-listing step is a corporate_actions entry (see research_notes)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed at the end of FY2020: PGEO listed on the IDX on 24 Feb 2023 (IPO at Rp875; prospectus cover, PDF p. 1)."
+            },
+            "cfo": {
+                "v": 227.521,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 374 (printed 340) statement of cash flows, column FY2020 - Net cash flows provided by operating activities",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "capex": {
+                "v": 47.757,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 374 (printed 340) statement of cash flows, column FY2020 - Penambahan aset tetap / Additions to fixed assets (investing activities), shown as a positive outflow",
+                "basis": "consolidated",
+                "note": "Only capex line in the cash-flow statement (geothermal wells, power plants and other fixed assets; PGE has no separate mining or oil & gas property line). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "fx_usd_idr": {
+                "v": 14105,
+                "source_url": "https://www.bi.go.id/id/statistik/informasi-kurs/jisdor/default.aspx",
+                "source_type": "official",
+                "as_of_date": "2020-12-30",
+                "loc": "JISDOR table, row '30 Desember 2020 - Rp 14.105,00' (query 24/12/2020-31/12/2020; no JISDOR fixing on 31 Dec 2020)",
+                "basis": "n/a",
+                "note": "IDR per USD, Bank Indonesia JISDOR. FS2021 Note 3 (PDF p. 46): monetary items are translated at the JISDOR rate at the reporting date, but the FS print the rate only as '1,000 Rupiah/US Dollar 0.07'. Check: FS2021 Note 31 (PDF p. 138) Rupiah cash Rp127,345,799,822 and USD cash 145,834,911 vs balance-sheet cash 154,863 thousand imply ~14,106."
+            },
+            "production": {
+                "v": 4618.27,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-tahunan/AR%20PGE_Laporan%20Keuangan.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 16, Operational Performance Highlights - Electricity Equivalent Geothermal Steam Production Volume - Total Production 2020",
+                "basis": "n/a",
+                "unit": "GWh",
+                "note": "Own-operation steam + electricity production expressed in GWh (steam sold at the wellhead converted to electricity equivalent). Own-operation areas (Kamojang, Lahendong, Ulubelu, Karaha, Lumut Balai). Own-operated installed capacity 672 MW (AR2020 PDF p. 72); JOC capacity not included."
+            },
+            "roe": {
+                "v": 7.12,
+                "source_url": "https://drive.google.com/file/d/1CarbN0hIGcgTmyO9_M8nf-0w6SHEOxGU/view",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2022 PDF p. 17 (printed 16), Financial Highlights - Key Financial Ratios, column 2020 - Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            },
+            "roa": {
+                "v": 2.85,
+                "source_url": "https://drive.google.com/file/d/1CarbN0hIGcgTmyO9_M8nf-0w6SHEOxGU/view",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2022 PDF p. 17 (printed 16), Financial Highlights - Key Financial Ratios, column 2020 - Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 368.824,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 370-371 (printed 336-337) statement of profit or loss, column FY2021 - PENDAPATAN (USAHA) / REVENUE",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "ebitda": {
+                "v": 290.125,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 31-32 (printed xxix-xxx), Ikhtisar Data Keuangan Penting - EBITDA and reconciliation; AR2022 PDF p. 161 prints the same 290,125",
+                "basis": "consolidated",
+                "note": "Company-reported EBITDA. Definition (IPO prospectus PDF p. 31, footnote 1): profit for the year before interest expense (finance costs net of finance income), income tax, depreciation and amortisation and other (income)/expense, net (other items incl. FX and impairment). The ARs print EBITDA without restating the definition. USD thousand / 1,000."
+            },
+            "operating_profit": {
+                "v": 144.078,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 370-371 (printed 336-337) statement of profit or loss, column FY2021 - LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "Old presentation: includes finance income (809) and other income/(expense), net (-38,506, incl. FX and impairment). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "net_profit_attr": {
+                "v": 85.076,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 370-371 (printed 336-337) statement of profit or loss, column FY2021 - Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "eps": {
+                "v": 0.0027,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 371 (printed 337), Basic earnings per share (full amount), column FY2021",
+                "basis": "consolidated",
+                "share_basis": "2022-11-04",
+                "note": "USD per share, on 31,046,142,000 weighted shares (post 10-Feb-2022 nominal split, applied retrospectively; FS2021 Note 26). Printed to 4 decimals only."
+            },
+            "payout_ratio": {
+                "v": 35.27,
+                "source_url": "https://drive.google.com/file/d/1bfIIN6cRGrxZzmSqMzj7XzQ1fqKmFwru/view",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2024 PDF p. 278, MD&A - PGE Dividend Payment History - Dividend Pay Out Ratio, column 2022 (Dividend for Financial Year 2021); AR2023 PDF p. 257 prints the same 35.27%",
+                "basis": "consolidated",
+                "note": "Pre-IPO dividend of USD30 mn to PT Pertamina Power Indonesia and PT Pertamina Pedeve Indonesia; the AR ratio uses profit for the year (85.04) as base."
+            },
+            "total_assets": {
+                "v": 2397.481,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2021 - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_liabilities": {
+                "v": 1168.428,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2021 - JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "Prospectus re-issue (Nov 2022) = FS2022 comparative. The March-2022 re-issue of FS2021 (on the IR 'Financial Statements 2021' page) printed 1,168,266 (lease liabilities non-current 1,944 instead of 2,106). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "cash": {
+                "v": 125.335,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2021 - Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash (shown separately: 10,098 non-current). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_debt": {
+                "v": 954.382,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2021 - borrowing lines (see note)",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (USD thousand): Long-term bank loan 600,000 + long-term loans from Pertamina current 16,277 + non-current 338,105 = 954,382. Excludes lease liabilities 2,156 + 2,106. Stored in USD million."
+            },
+            "equity_attr": {
+                "v": 1229.232,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2021 - Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Prospectus re-issue (Nov 2022) = FS2022 comparative; FS2021 (re-issued 29 Mar 2022) printed 1,229,394. FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_equity": {
+                "v": 1229.053,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 367-369 (printed 333-335) statement of financial position, column 31 Dec 2021 - JUMLAH EKUITAS / TOTAL EQUITY (incl. NCI)",
+                "basis": "consolidated",
+                "note": "Prospectus re-issue (Nov 2022) = FS2022 comparative; FS2021 (re-issued 29 Mar 2022) printed 1,229,215. FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "shares_out": {
+                "v": 31046142000,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/pertamina_geothermal_energy_bilingual_dec_2021_released_revisi.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 141, Note 35 Events after the reporting period - change of nominal value from Rp1,000,000 to Rp500 'from 15,523,071 shares into 31,046,142,000 shares'; PDF p. 115 Note 26 (EPS on 31,046,142,000 shares)",
+                "share_basis": "2022-03-29",
+                "note": "Shares at 31 Dec 2021 were 15,523,071 of Rp1,000,000 (FS2021 Note 17a, PDF p. 97; the face of the balance sheet misprints 15,532,071). Stored on the post-split basis printed in the same FS (x2,000 nominal split of 10 Feb 2022, pre-listing). No treasury shares."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed at the end of FY2021: PGEO listed on the IDX on 24 Feb 2023 (IPO at Rp875; prospectus cover, PDF p. 1)."
+            },
+            "cfo": {
+                "v": 248.392,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 374 (printed 340) statement of cash flows, column FY2021 - Net cash flows provided by operating activities",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "capex": {
+                "v": 26.203,
+                "source_url": "https://pge.pertamina.com/media/Uploads/investor/prostektus/file/Prospektus_Final_PGE_compressed.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Prospectus Ch. XIX audited consolidated FS (re-issued, auditor's reports 4 Nov 2022): PDF p. 374 (printed 340) statement of cash flows, column FY2021 - Penambahan aset tetap / Additions to fixed assets (investing activities), shown as a positive outflow",
+                "basis": "consolidated",
+                "note": "Only capex line in the cash-flow statement (geothermal wells, power plants and other fixed assets; PGE has no separate mining or oil & gas property line). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "fx_usd_idr": {
+                "v": 14278,
+                "source_url": "https://www.bi.go.id/id/statistik/informasi-kurs/jisdor/default.aspx",
+                "source_type": "official",
+                "as_of_date": "2021-12-31",
+                "loc": "JISDOR table, row '31 Desember 2021 - Rp 14.278,00' (query 24/12/2021-31/12/2021)",
+                "basis": "n/a",
+                "note": "IDR per USD, Bank Indonesia JISDOR. FS2021 Note 3 (PDF p. 46): JISDOR at the reporting date; the FS print only '1,000 Rupiah/US Dollar 0.07'. Check: FS2021 Note 31 (PDF p. 138) Rupiah cash Rp365,158,525,964 vs the Rupiah part of balance-sheet cash implies ~14,278."
+            },
+            "production": {
+                "v": 4660.48,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-tahunan/AR%20PGE_Laporan%20Keuangan.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 16, Total Production 2021",
+                "basis": "n/a",
+                "unit": "GWh",
+                "note": "Own-operation steam + electricity production expressed in GWh (steam sold at the wellhead converted to electricity equivalent). Own operations; installed capacity 672 MW own-operated + 1,205 MW JOC (AR2021 PDF p. 58). AR2023 p. 197 prints 4,660.79 for 2021."
+            },
+            "roe": {
+                "v": 6.92,
+                "source_url": "https://drive.google.com/file/d/1CarbN0hIGcgTmyO9_M8nf-0w6SHEOxGU/view",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 17 (printed 16), Key Financial Ratios, column 2021 - Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            },
+            "roa": {
+                "v": 3.55,
+                "source_url": "https://drive.google.com/file/d/1CarbN0hIGcgTmyO9_M8nf-0w6SHEOxGU/view",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 17 (printed 16), Key Financial Ratios, column 2021 - Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 386.068,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2022 - PENDAPATAN (USAHA) / REVENUE",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "ebitda": {
+                "v": 308.087,
+                "source_url": "https://drive.google.com/file/d/1CarbN0hIGcgTmyO9_M8nf-0w6SHEOxGU/view",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 161 (printed 160), MD&A - Comparison of financial performance between 2022 target and realization - EBITDA (Realisasi 2022)",
+                "basis": "consolidated",
+                "note": "Company-reported EBITDA. Definition (IPO prospectus PDF p. 31, footnote 1): profit for the year before interest expense (finance costs net of finance income), income tax, depreciation and amortisation and other (income)/expense, net (other items incl. FX and impairment). The ARs print EBITDA without restating the definition. USD thousand / 1,000."
+            },
+            "operating_profit": {
+                "v": 209.583,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2022 - LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "Old presentation: includes finance income (1,202) and other income/(expense), net (7,322). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "net_profit_attr": {
+                "v": 127.34,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2022 - Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "eps": {
+                "v": 0.0041,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, Basic earnings per share attributable to owners of the parent entity (full amount)",
+                "basis": "consolidated",
+                "share_basis": "2023-03-20",
+                "note": "USD per share (31,046,142,000 shares, pre-IPO). Printed to 4 decimals only."
+            },
+            "payout_ratio": {
+                "v": 78.54,
+                "source_url": "https://drive.google.com/file/d/1B4Czjai2bkYYXc7_nu3esBevXu-lARkH/view",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 238 (printed 236), PGE Dividend Payment History - Dividend Pay Out Ratio, column 2023 (Dividend for Fiscal Year 2022); AR2024 PDF p. 278 prints the same",
+                "basis": "consolidated",
+                "note": "USD100 mn total = USD70 mn interim (paid 27 Jan 2023, pre-IPO holders) + USD30 mn final (AGMS 5 Jun 2023)."
+            },
+            "total_assets": {
+                "v": 2475.138,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2022 - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_liabilities": {
+                "v": 1219.597,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2022 - JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "cash": {
+                "v": 262.302,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2022 - Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash (shown separately: nil). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_debt": {
+                "v": 943.284,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2022 - borrowing lines (see note)",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (USD thousand): Short-term bank loan 600,000 (the 2021 bank loan, now due; repaid 2023 from IPO and bond proceeds) + long-term loans from Pertamina current 15,580 + non-current 327,704 = 943,284. Excludes lease liabilities 1,864 + 160. Stored in USD million."
+            },
+            "equity_attr": {
+                "v": 1255.741,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2022 - Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_equity": {
+                "v": 1255.541,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2022 - JUMLAH EKUITAS / TOTAL EQUITY (incl. NCI)",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "shares_out": {
+                "v": 31046142000,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position - Issued and paid-up capital 31,046,142,000 shares (Rp500 par)",
+                "share_basis": "2023-03-20",
+                "note": "Pre-IPO; no treasury shares."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed at the end of FY2022: PGEO listed on the IDX on 24 Feb 2023 (IPO at Rp875; prospectus cover, PDF p. 1)."
+            },
+            "cfo": {
+                "v": 220.298,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20, Consolidated statement of cash flows, FY2022 - Net cash flows provided by operating activities",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "capex": {
+                "v": 30.932,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20, Consolidated statement of cash flows, FY2022 - Penambahan aset tetap / Additions to fixed assets (investing activities), shown as a positive outflow",
+                "basis": "consolidated",
+                "note": "Only capex line in the cash-flow statement (geothermal wells, power plants and other fixed assets; PGE has no separate mining or oil & gas property line). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "fx_usd_idr": {
+                "v": 15592,
+                "source_url": "https://www.bi.go.id/id/statistik/informasi-kurs/jisdor/default.aspx",
+                "source_type": "official",
+                "as_of_date": "2022-12-30",
+                "loc": "JISDOR table, row '30 Desember 2022 - Rp 15.592,00' (query 23/12/2022-31/12/2022)",
+                "basis": "n/a",
+                "note": "IDR per USD, Bank Indonesia JISDOR. FS2022 Note 3 (PDF p. 46): JISDOR at the reporting date; the FS print only a 2-decimal USD-per-1,000-Rupiah figure. Check: FS2022 Note 31 (PDF p. 133) Rupiah cash Rp43,853,117,065 vs the Rupiah part of balance-sheet cash implies ~15,58x."
+            },
+            "production": {
+                "v": 4629.595,
+                "source_url": "https://drive.google.com/file/d/1CarbN0hIGcgTmyO9_M8nf-0w6SHEOxGU/view",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 18 (printed 17), Operational Highlights - Table of Electricity Equivalent Geothermal Steam Production Performance - Total Production 2022",
+                "basis": "n/a",
+                "unit": "GWh",
+                "note": "Own-operation steam + electricity production expressed in GWh (steam sold at the wellhead converted to electricity equivalent). Own operations; installed capacity 672 MW own-operated + 1,205 MW JOC (AR2022 PDF p. 50). AR2024 p. 21 prints 4,629.60."
+            },
+            "roe": {
+                "v": 10.14,
+                "source_url": "https://drive.google.com/file/d/1CarbN0hIGcgTmyO9_M8nf-0w6SHEOxGU/view",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 17 (printed 16), Key Financial Ratios, column 2022 - Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            },
+            "roa": {
+                "v": 5.14,
+                "source_url": "https://drive.google.com/file/d/1CarbN0hIGcgTmyO9_M8nf-0w6SHEOxGU/view",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 17 (printed 16), Key Financial Ratios, column 2022 - Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 406.288,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2023 - PENDAPATAN (USAHA) / REVENUE",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "ebitda": {
+                "v": 332.416,
+                "source_url": "https://drive.google.com/file/d/1ln76-83MJgemiz9Zpr5e7iWdjB1B_JD3/view",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 250, MD&A - target vs realization table - EBITDA (Realization 2023); AR2024 PDF p. 264 prints the same",
+                "basis": "consolidated",
+                "note": "Company-reported EBITDA. Definition (IPO prospectus PDF p. 31, footnote 1): profit for the year before interest expense (finance costs net of finance income), income tax, depreciation and amortisation and other (income)/expense, net (other items incl. FX and impairment). The ARs print EBITDA without restating the definition. USD thousand / 1,000."
+            },
+            "operating_profit": {
+                "v": 265.176,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2023 - LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "As originally reported in FS2023, where operating profit still included finance income (22,171) and other income incl. FX gain (21,220). FS2024 (PDF p. 17; Note 38 'Reclassification of accounts', PDF p. 139) restated FY2023 operating profit to 226,055 (finance income and FX gain moved below operating profit, cost of revenue reclassified). 2020-2023 values are on the old presentation, 2024-2025 on the new one. FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "net_profit_attr": {
+                "v": 163.594,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2023 - Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "eps": {
+                "v": 0.004,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Basic earnings per share attributable to owners of the parent entity (full amount)",
+                "basis": "consolidated",
+                "share_basis": "2024-02-29",
+                "note": "USD per share; weighted average shares reflect the IPO of 10,350,000,000 new shares listed 24 Feb 2023. Printed to 4 decimals only."
+            },
+            "payout_ratio": {
+                "v": 78.5,
+                "source_url": "https://pge.pertamina.com/Media/Uploads/investor/rups/Announcement%20of%20Summary%20of%20Minutes%20of%20AGMS%20PGEO%202024.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-05-28",
+                "loc": "PDF p. 5, Second Agenda resolution: 'USD128,400,000 ... or 78.5% of the Company's net profit for 2023 Fiscal Year would be distributed as cash dividends'",
+                "basis": "consolidated",
+                "note": "As approved by the AGMS of 28 May 2024 (AR2024 p. 277 prints 78.50%)."
+            },
+            "total_assets": {
+                "v": 2964.141,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2023 - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_liabilities": {
+                "v": 992.885,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2023 - JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "cash": {
+                "v": 677.717,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2023 - Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash (shown separately: nil). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_debt": {
+                "v": 728.819,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2023 - borrowing lines (see note)",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (USD thousand): Bonds payable 398,236 (USD400 mn 5.15% green notes due 27 Apr 2028, issued 27 Apr 2023) + long-term loans from Pertamina (JICA/World Bank two-step loans on-lent by Pertamina, Note 26j) current 15,500 + non-current 315,083 = 728,819. Excludes lease liabilities 910 + 1,113. Stored in USD million."
+            },
+            "equity_attr": {
+                "v": 1971.48,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2023 - Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_equity": {
+                "v": 1971.256,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2023 - JUMLAH EKUITAS / TOTAL EQUITY (incl. NCI)",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "shares_out": {
+                "v": 41396142000,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position - Issued and paid-up capital 41,396,142,000 shares",
+                "share_basis": "2024-02-29",
+                "note": "31,046,142,000 + 10,350,000,000 IPO shares (offer price Rp875, listed 24 Feb 2023). No treasury shares (AR2023 p. 20 prints the same outstanding count)."
+            },
+            "year_end_price": {
+                "v": 1170,
+                "source_url": "https://drive.google.com/file/d/1ln76-83MJgemiz9Zpr5e7iWdjB1B_JD3/view",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 20, Ikhtisar Saham / Shares highlights - 'By the end of 2023, PGEO stocks closed at Rp1,170'; Q4 closing price 1.170",
+                "share_basis": "2024-05-14",
+                "note": "Q4/year-end closing price from the AR share table; exact trading date not printed, as_of_date set to FY end. No split since listing."
+            },
+            "cfo": {
+                "v": 253.006,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20, Consolidated statement of cash flows, FY2023 - Net cash flows provided by operating activities",
+                "basis": "consolidated",
+                "note": "As originally reported in FS2023. FS2024 (PDF p. 20) restated FY2023 operating cash flow to 255,190 (lease payments 2,184 moved to financing). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "capex": {
+                "v": 68.114,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202023%20released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20, Consolidated statement of cash flows, FY2023 - Penambahan aset tetap / Additions to fixed assets (investing activities), shown as a positive outflow",
+                "basis": "consolidated",
+                "note": "Only capex line in the cash-flow statement (geothermal wells, power plants and other fixed assets; PGE has no separate mining or oil & gas property line). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "fx_usd_idr": {
+                "v": 15439,
+                "source_url": "https://www.bi.go.id/id/statistik/informasi-kurs/jisdor/default.aspx",
+                "source_type": "official",
+                "as_of_date": "2023-12-29",
+                "loc": "JISDOR table, row '29 Desember 2023 - Rp 15.439,00' (query 22/12/2023-31/12/2023; last fixing of 2023)",
+                "basis": "n/a",
+                "note": "IDR per USD, Bank Indonesia JISDOR. FS2023 Note 3 (PDF p. 44): JISDOR at the reporting date. Checks: FS2023 Note 33 (PDF p. 126) Rupiah lease liabilities Rp31,231,860,645 = USD2,023 thousand on the balance sheet -> 15,439; the AGMS 2024 converted the FY2023 dividend USD128.4 mn 'using the middle exchange rate of Bank Indonesia as of December 31, 2023' into Rp1,982,367,600,000 -> 15,439."
+            },
+            "production": {
+                "v": 4734.57,
+                "source_url": "https://drive.google.com/file/d/1ln76-83MJgemiz9Zpr5e7iWdjB1B_JD3/view",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 197, MD&A production table - total 2023 (also PDF p. 10 and p. 45: 4,734.57 GWh)",
+                "basis": "n/a",
+                "unit": "GWh",
+                "note": "Own-operation steam + electricity production expressed in GWh (steam sold at the wellhead converted to electricity equivalent). Own operations; installed capacity 672 MW own-operated (Own Operations 672 MW & JOC 1,205 MW, AR2023 PDF p. 94)."
+            },
+            "roe": {
+                "v": 8.3,
+                "source_url": "https://drive.google.com/file/d/1ln76-83MJgemiz9Zpr5e7iWdjB1B_JD3/view",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 18, Key Financial Ratios, column 2023 - Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            },
+            "roa": {
+                "v": 5.52,
+                "source_url": "https://drive.google.com/file/d/1ln76-83MJgemiz9Zpr5e7iWdjB1B_JD3/view",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 18, Key Financial Ratios, column 2023 - Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 407.12,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2024 - PENDAPATAN (USAHA) / REVENUE",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "ebitda": {
+                "v": 324.512,
+                "source_url": "https://drive.google.com/file/d/1bfIIN6cRGrxZzmSqMzj7XzQ1fqKmFwru/view",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 264, MD&A - target vs realization table - EBITDA (Realization 2024)",
+                "basis": "consolidated",
+                "note": "Company-reported EBITDA. Definition (IPO prospectus PDF p. 31, footnote 1): profit for the year before interest expense (finance costs net of finance income), income tax, depreciation and amortisation and other (income)/expense, net (other items incl. FX and impairment). The ARs print EBITDA without restating the definition. USD thousand / 1,000. AR2025 p. 223 and the FY25 deck restate FY2024 EBITDA to 324,061."
+            },
+            "operating_profit": {
+                "v": 210.271,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2024 - LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "New presentation (from FS2024): excludes finance income, FX gain/loss and share of JV profit. FS2025 reclassified some FY2024 cost of revenue to G&A but operating profit is unchanged (210,271). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "net_profit_attr": {
+                "v": 160.494,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2024 - Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "eps": {
+                "v": 0.0039,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Basic earnings per share attributable to owners of the parent entity (full amount)",
+                "basis": "consolidated",
+                "share_basis": "2025-03-24",
+                "note": "USD per share (weighted average 41,508,024,149 per FS2025 Note 28). Printed to 4 decimals only."
+            },
+            "payout_ratio": {
+                "v": 85,
+                "source_url": "https://pge.pertamina.com/Media/Uploads/investor/rups/Pengumuman%20Ringkasan%20Risalah%20RUPST%20TB%202024_Eng_v6.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-03",
+                "loc": "PDF p. 3, Second Agenda resolution: 'USD136,400,000 ... or 85% of the Company's net profit for 2024 Fiscal Year would be distributed as cash dividends'",
+                "basis": "consolidated",
+                "note": "As approved by the AGMS of 3 Jun 2025 (AR2025 p. 237-238 prints 85%)."
+            },
+            "total_assets": {
+                "v": 2997.402,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2024 - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_liabilities": {
+                "v": 988.65,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2024 - JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "cash": {
+                "v": 655.191,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2024 - Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash (shown separately: 123 current + 185 non-current). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_debt": {
+                "v": 741.862,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2024 - borrowing lines (see note)",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (USD thousand): Bonds payable 398,643 + long-term loans from Pertamina current 15,172 + non-current 328,047 = 741,862. Excludes lease liabilities 1,402 + 2,549. Stored in USD million."
+            },
+            "equity_attr": {
+                "v": 2009.168,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2024 - Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_equity": {
+                "v": 2008.752,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2024 - JUMLAH EKUITAS / TOTAL EQUITY (incl. NCI)",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "shares_out": {
+                "v": 41508024149,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position - Issued and paid-up capital 41,508,024,149 shares; FS2025 Note 18a PDF p. 87 shareholder table",
+                "share_basis": "2025-03-24",
+                "note": "Includes 111,882,149 new shares issued under MESOP Phases I and II in 2024 (FS2025 Note 18a). No treasury shares."
+            },
+            "year_end_price": {
+                "v": 935,
+                "source_url": "https://drive.google.com/file/d/1bfIIN6cRGrxZzmSqMzj7XzQ1fqKmFwru/view",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 22, Stock Highlights - Kinerja Saham PGEO, 2024 Q4 closing 935 and 'closed at Rp935 per share'",
+                "share_basis": "2025-05-22",
+                "note": "Q4/year-end closing price from the AR share table; exact trading date not printed, as_of_date set to FY end. No split since listing."
+            },
+            "cfo": {
+                "v": 258.284,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Consolidated statement of cash flows, FY2024 - Net cash flows provided by operating activities",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "capex": {
+                "v": 103.408,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Pertamina%20Geothermal%20Energy%2031%20Des%202024%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 20, Consolidated statement of cash flows, FY2024 - Penambahan aset tetap / Additions to fixed assets (investing activities), shown as a positive outflow",
+                "basis": "consolidated",
+                "note": "Only capex line in the cash-flow statement (geothermal wells, power plants and other fixed assets; PGE has no separate mining or oil & gas property line). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "fx_usd_idr": {
+                "v": 16157,
+                "source_url": "https://www.bi.go.id/id/statistik/informasi-kurs/jisdor/default.aspx",
+                "source_type": "official",
+                "as_of_date": "2024-12-31",
+                "loc": "JISDOR table, row '31 Desember 2024 - Rp 16.157,00' (query 23/12/2024-31/12/2024)",
+                "basis": "n/a",
+                "note": "IDR per USD, Bank Indonesia JISDOR. FS2024 Note 3 (PDF p. 45): JISDOR rate prevailing at 31 Dec. Checks: FS2024 Note 33 (PDF p. 134) Rupiah lease liabilities Rp63,824,075,666 vs USD3,951 thousand -> ~16,154; the FY2024 dividend USD136.4 mn became Rp2,203,814,800,000 (AR2025 p. 237) -> 16,157."
+            },
+            "production": {
+                "v": 4827.22,
+                "source_url": "https://drive.google.com/file/d/1bfIIN6cRGrxZzmSqMzj7XzQ1fqKmFwru/view",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 21, Operational Highlights - Steam and Electricity Production Performance - Grand Total 2024",
+                "basis": "n/a",
+                "unit": "GWh",
+                "note": "Own-operation steam + electricity production expressed in GWh (steam sold at the wellhead converted to electricity equivalent). Own operations; installed capacity 673 MW own-operated + 1,205 MW JOC per AR2024 PDF p. 100 (the FY25 deck p. 10 shows 672 MW for 2024)."
+            },
+            "roe": {
+                "v": 7.98,
+                "source_url": "https://drive.google.com/file/d/1bfIIN6cRGrxZzmSqMzj7XzQ1fqKmFwru/view",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 20, Key Financial Ratios, column 2024 - Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            },
+            "roa": {
+                "v": 5.35,
+                "source_url": "https://drive.google.com/file/d/1bfIIN6cRGrxZzmSqMzj7XzQ1fqKmFwru/view",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 20, Key Financial Ratios, column 2024 - Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 432.726,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2025 - PENDAPATAN (USAHA) / REVENUE",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "ebitda": {
+                "v": 330.353,
+                "source_url": "https://drive.google.com/file/d/1B4Czjai2bkYYXc7_nu3esBevXu-lARkH/view",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 223 (printed 221), MD&A - Comparison of Financial Performance (RKAP vs Realization) - EBITDA 2025 Realization; FY25 earnings-call deck p. 13 prints 330.35",
+                "basis": "consolidated",
+                "note": "Company-reported EBITDA. Definition (IPO prospectus PDF p. 31, footnote 1): profit for the year before interest expense (finance costs net of finance income), income tax, depreciation and amortisation and other (income)/expense, net (other items incl. FX and impairment). The ARs print EBITDA without restating the definition. USD thousand / 1,000."
+            },
+            "operating_profit": {
+                "v": 205.571,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2025 - LABA USAHA / OPERATING PROFIT",
+                "basis": "consolidated",
+                "note": "New presentation: excludes finance income (28,221), FX loss (-7,634) and JV share. FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "net_profit_attr": {
+                "v": 137.697,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17-18, Consolidated statement of profit or loss, FY2025 - Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "eps": {
+                "v": 0.0033,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18, Basic earnings per share attributable to owners of the parent entity (full amount)",
+                "basis": "consolidated",
+                "share_basis": "2026-03-06",
+                "note": "USD per share (weighted average 41,815,763,396 per FS2025 Note 28, PDF p. 109). Printed to 4 decimals only; AR2025 p. 22 converts it to Rp54.23."
+            },
+            "payout_ratio": {
+                "v": 90,
+                "source_url": "https://pge.pertamina.com/Media/Uploads/investor/rups/(ENG)%20Ringkasan%20Risalah%20RUPST%20PGEO%20TB%202025%20(2).pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-04-21",
+                "loc": "PDF p. 4, Second Meeting Agenda decision: 'USD123.900.000 or 90% of the Company's net profit attributable to the owners of the parent entity for the 2025 Financial Year shall be distributed as cash dividends'",
+                "basis": "consolidated",
+                "note": "As approved by the AGMS of 21 Apr 2026."
+            },
+            "total_assets": {
+                "v": 3034.451,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2025 - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_liabilities": {
+                "v": 988.888,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2025 - JUMLAH LIABILITAS / TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "cash": {
+                "v": 718.499,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2025 - Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash (shown separately: 489 current). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_debt": {
+                "v": 749.431,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2025 - borrowing lines (see note)",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (USD thousand): Bonds payable 399,050 + long-term loans from Pertamina (Note 26j: USD and JPY tranches) current 15,621 + non-current 334,760 = 749,431. Excludes lease liabilities 1,712 + 1,735. Stored in USD million."
+            },
+            "equity_attr": {
+                "v": 2046.009,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2025 - Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_equity": {
+                "v": 2045.563,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14-16, Consolidated statement of financial position, 31 Dec 2025 - JUMLAH EKUITAS / TOTAL EQUITY (incl. NCI)",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "shares_out": {
+                "v": 41815763396,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16 face and PDF p. 87, Note 18a Share capital - shareholder table total 41,815,763,396",
+                "share_basis": "2026-03-06",
+                "note": "Includes MESOP Phase I-III shares issued in 2025 (FS2025 Note 18a, PDF p. 88). No treasury shares (also the monthly registry report for Dec 2025: 'Jumlah saham tercatat di Bursa per akhir bulan 41.815.763.396')."
+            },
+            "year_end_price": {
+                "v": 1125,
+                "source_url": "https://drive.google.com/file/d/1B4Czjai2bkYYXc7_nu3esBevXu-lARkH/view",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 22 (printed 20), Stock Highlights - 2025 Q4 closing 1.125 and 'PGEO shares closed at Rp1,125'",
+                "share_basis": "2026-04-06",
+                "note": "Q4/year-end closing price from the AR share table; exact trading date not printed, as_of_date set to FY end. No split since listing."
+            },
+            "cfo": {
+                "v": 313.523,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Consolidated statement of cash flows, FY2025 - Net cash flows provided by operating activities",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "capex": {
+                "v": 84.401,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy%2031%20Des%202025%20Released.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Consolidated statement of cash flows, FY2025 - Penambahan aset tetap / Additions to fixed assets (investing activities), shown as a positive outflow",
+                "basis": "consolidated",
+                "note": "Only capex line in the cash-flow statement (geothermal wells, power plants and other fixed assets; PGE has no separate mining or oil & gas property line). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "fx_usd_idr": {
+                "v": 16720,
+                "source_url": "https://www.bi.go.id/id/statistik/informasi-kurs/jisdor/default.aspx",
+                "source_type": "official",
+                "as_of_date": "2025-12-31",
+                "loc": "JISDOR table, row '31 Desember 2025 - Rp 16.720,00' (query 26/12/2025-31/12/2025)",
+                "basis": "n/a",
+                "note": "IDR per USD, Bank Indonesia JISDOR. FS2025 Note 3l (PDF p. 44): monetary items translated 'using the JISDOR rate prevailing as of December 31, 2025'; the FS print only '1,000 Rupiah/US Dollar 0.06'. Checks: FS2025 Note 33 (PDF p. 131) Rupiah lease liabilities Rp57,639,962,864 vs USD3,447 thousand -> ~16,722 (30 Dec 2025 JISDOR was 16,782); FY2025 dividend USD123.9 mn at 'JISDOR as of December 31, 2025' = Rp49.4423 x 41,899,535,623 shares (AGMS 2026 minutes p. 4, p. 12)."
+            },
+            "production": {
+                "v": 5095.49,
+                "source_url": "https://drive.google.com/file/d/1B4Czjai2bkYYXc7_nu3esBevXu-lARkH/view",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 21 (printed 19), Operational Highlights - Steam and Electricity Production Performance - Grand Total 2025",
+                "basis": "n/a",
+                "unit": "GWh",
+                "note": "Own-operation steam + electricity production expressed in GWh (steam sold at the wellhead converted to electricity equivalent). Own operations; installed capacity 727 MW own-operated + 1,216 MW JOC (AR2025 PDF p. 80) after Lumut Balai Unit 2 (55 MW) reached COD on 30 Jun 2025."
+            },
+            "roe": {
+                "v": 6.73,
+                "source_url": "https://drive.google.com/file/d/1B4Czjai2bkYYXc7_nu3esBevXu-lARkH/view",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 20 (printed 18), Key Financial Ratios (Rasio Keuangan Penting), column 2025 - Return on Equity",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            },
+            "roa": {
+                "v": 4.54,
+                "source_url": "https://drive.google.com/file/d/1B4Czjai2bkYYXc7_nu3esBevXu-lARkH/view",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 20 (printed 18), Key Financial Ratios (Rasio Keuangan Penting), column 2025 - Return on Assets",
+                "basis": "consolidated",
+                "note": "As printed; the figures equal profit for the year (incl. NCI) / year-end total equity (ROE) and / year-end total assets (ROA), e.g. 2025: 137.667 / 2,045.563 = 6.73%, 137.667 / 3,034.451 = 4.54%."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": null,
+            "total": 30,
+            "cum_date": null,
+            "ex_date": null,
+            "record_date": null,
+            "pay_date": "2022-05-17",
+            "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+            "source_type": "filing",
+            "as_of_date": "2022-03-29",
+            "loc": "FS2022 PDF p. 108, Note 25 Dividends per share: AGMS (Notarial Deed No. 17, 5 Apr 2022) approved a cash dividend from 2021 net profit of US$30,000 thousand or US$0.001 per share, paid 17 May 2022",
+            "note": "Pre-IPO dividend to the two Pertamina-group shareholders (PT Pertamina Power Indonesia, PT Pertamina Pedeve Indonesia); declared in USD (US$0.001 per share), no rupiah DPS published and no exchange trading, so dps and market dates are null. AR2022 PDF p. 172 dates the decision to the Circular Shareholders Resolution of 29 Mar 2022 (used as as_of_date). Total USD million."
+        },
+        {
+            "fy": 2022,
+            "type": "interim",
+            "dps": null,
+            "total": 70,
+            "cum_date": null,
+            "ex_date": null,
+            "record_date": null,
+            "pay_date": "2023-01-27",
+            "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/file/Laporan%20Keuangan%202022.pdf",
+            "source_type": "filing",
+            "as_of_date": "2022-12-30",
+            "loc": "FS2022 PDF p. 108, Note 25: on 30 Dec 2022 the Board of Directors, with Board of Commissioners approval (letter 629/PGE000/2022-S0), announced an interim dividend from 2022 net profit of US$70,000 thousand or US$0.002 per share; FS2023 PDF p. 104 Note 27: paid 27 Jan 2023",
+            "note": "Paid before the IPO to PT Pertamina Power Indonesia and PT Pertamina Pedeve only (AGMS 2023 minutes p. 3, item 1a). Declared in USD; no rupiah DPS or market dates. Total USD million."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 10.8727523448924,
+            "total": 30,
+            "cum_date": "2023-06-13",
+            "ex_date": "2023-06-14",
+            "record_date": "2023-06-15",
+            "pay_date": "2023-07-07",
+            "share_basis": "2023-06-07",
+            "source_url": "https://pge.pertamina.com/Media/Uploads/investor/Pengumuman%20Ringkasan%20Risalah%20RUPST%20PGEO%20TB%202022.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-06-07",
+            "loc": "AGMS FY2022 summary of minutes (Jakarta, 7 Jun 2023): PDF p. 3 Agenda 2 resolution (USD100 mn total = USD70 mn interim + USD30 mn additional dividend paid in Rupiah at the BI middle rate of the meeting date); PDF p. 7 'USD 30.000.000 ... atau Rp 10,8727523448924/lembar saham' and Jadwal Pembagian Dividen Tunai",
+            "note": "First dividend after the IPO, paid to all 41,396,142,000 shares. Declared in USD, paid in rupiah: DPS is the rupiah amount per share announced. Schedule: cum regular/negotiated 13 Jun 2023, ex 14 Jun 2023 (cash market cum 15 Jun / ex 16 Jun), recording 15 Jun 2023, payment 7 Jul 2023 per the announcement (FS2024 Note 27 PDF p. 112 says 'paid on July 5, 2023'). Total USD million as approved by the AGMS of 5 Jun 2023."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 47.7736410977296,
+            "total": 128.4,
+            "cum_date": "2024-06-05",
+            "ex_date": "2024-06-06",
+            "record_date": "2024-06-07",
+            "pay_date": "2024-06-28",
+            "share_basis": "2024-05-30",
+            "source_url": "https://pge.pertamina.com/Media/Uploads/investor/rups/Announcement%20of%20Summary%20of%20Minutes%20of%20AGMS%20PGEO%202024.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-05-30",
+            "loc": "AGMS FY2023 summary of minutes (Jakarta, 30 May 2024): PDF p. 5 Second Agenda resolution (USD128,400,000 = 78.5% of FY2023 net profit, paid in Rupiah at the BI middle rate of 31 Dec 2023); PDF p. 10-11 'Rp 1,982,367,600,000 ... or Rp 47,7736410977296 per share' and Distribution Schedule of Cash Dividends",
+            "note": "Declared in USD, paid in rupiah (DPS = rupiah per share as announced; AR2024 p. 277 rounds it to Rp47.76). Cash market cum 7 Jun / ex 10 Jun 2024. Total USD million as approved by the AGMS of 28 May 2024."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 53.093705,
+            "total": 136.4,
+            "cum_date": "2025-06-13",
+            "ex_date": "2025-06-16",
+            "record_date": "2025-06-17",
+            "pay_date": "2025-07-04",
+            "share_basis": "2025-06-05",
+            "source_url": "https://pge.pertamina.com/Media/Uploads/investor/rups/Pengumuman%20Ringkasan%20Risalah%20RUPST%20TB%202024_BIndo_v5.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-05",
+            "loc": "AGMS FY2024 summary of minutes, Indonesian edition (Jakarta, 05 Juni 2025): dividend paragraph 'USD136.400.000 ... atau sebesar Rp 53,093705 ... per lembar saham' and schedule table; English edition PDF p. 3 (resolution: 85% of FY2024 net profit, paid in Rupiah at the BI middle rate of 31 Dec 2024) and PDF p. 8 (schedule)",
+            "note": "Declared in USD, paid in rupiah. The English edition misprints the DPS as 'Rp 53,093,705 (fifty-three million ...)'; the Indonesian edition prints Rp53,093705 (= Rp53.093705) and AR2025 p. 237 prints Rp53.09 and a total of Rp2,203,814,800,000. Cash market cum 17 Jun / ex 18 Jun 2025. English edition: https://pge.pertamina.com/Media/Uploads/investor/rups/Pengumuman%20Ringkasan%20Risalah%20RUPST%20TB%202024_Eng_v6.pdf. Total USD million as approved by the AGMS of 3 Jun 2025."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 49.4423,
+            "total": 123.9,
+            "cum_date": "2026-04-29",
+            "ex_date": "2026-04-30",
+            "record_date": "2026-05-04",
+            "pay_date": "2026-05-22",
+            "share_basis": "2026-04-23",
+            "source_url": "https://pge.pertamina.com/Media/Uploads/investor/rups/(ENG)%20Ringkasan%20Risalah%20RUPST%20PGEO%20TB%202025%20(2).pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-04-23",
+            "loc": "AGMS FY2025 summary of minutes (Jakarta, April 23, 2026): PDF p. 4 Second Agenda decision (USD123.900.000 = 90% of FY2025 net profit attributable to owners, paid in Rupiah at BI JISDOR of 31 Dec 2025); PDF p. 12 'USD123,900,000 ... or Rp49,4423 ... per share' and the dividend schedule table",
+            "note": "Declared in USD, paid in rupiah. DOUBT ON DATES: the schedule table (English and Indonesian editions, https://pge.pertamina.com/Media/Uploads/investor/rups/(IND)%20Ringkasan%20Risalah%20RUPST%20PGEO%20TB%202025%20(2).pdf) prints cum regular 'Thursday, April 29, 2026', ex 'Monday, April 30, 2026', recording 'Tuesday, May 4, 2026', but 29 Apr 2026 is a Wednesday, 30 Apr a Thursday and 4 May a Monday, and the procedures paragraph (PDF p. 13) gives the recording date as 5 May 2026. The printed dates are stored. They match the '8 trading days after the AGMS' rule if 1 May is a holiday. If the weekday names are the correct ones, the schedule is instead cum 30 Apr, ex 4 May, recording 5 May. Payment 22 May 2026 (FS H1-2026 statement of cash flows: dividend paid 123,900). Total USD million."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 235.027,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy_Bilingual_Q2%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 7, Interim consolidated statement of profit or loss - PENDAPATAN / REVENUE, 30 Jun 2026",
+                "basis": "consolidated",
+                "note": "PGE unaudited interim consolidated FS 30 Jun 2026 (authorised 28 Jul 2026). FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "revenue_ytd_prior": {
+                "v": 204.85,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy_Bilingual_Q2%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 7, comparative column 30 Jun 2025",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "ebitda_ytd": {
+                "v": 184.02,
+                "source_url": "https://pge.pertamina.com/Media/Uploads/investor/Keterbukaan%20Informasi/PGEO%206M2026%20Results%20Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "6M2026 results presentation, PDF p. 5 'Financial Performances (1/4)' - Profit & Loss table, EBITDA 6M2026 (USD million)",
+                "basis": "consolidated",
+                "note": "Company-reported EBITDA (same definition as the FY series; deck margin 78.30%). Deck prints USD million to 2 decimals."
+            },
+            "ebitda_ytd_prior": {
+                "v": 168.19,
+                "source_url": "https://pge.pertamina.com/Media/Uploads/investor/Keterbukaan%20Informasi/PGEO%206M2026%20Results%20Presentation.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "6M2026 results presentation, PDF p. 5 - EBITDA 6M2025 column (the FY25 earnings-call deck p. 13 prints the same 168.19)",
+                "basis": "consolidated",
+                "note": "Company-reported EBITDA, USD million."
+            },
+            "profit_ytd": {
+                "v": 79.621,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy_Bilingual_Q2%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 8, Profit for the period attributable to owners of the parent entity, 30 Jun 2026",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "profit_ytd_prior": {
+                "v": 68.956,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy_Bilingual_Q2%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 8, comparative column 30 Jun 2025",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "equity_attr": {
+                "v": 2006.153,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy_Bilingual_Q2%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 6, Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "shares_out": {
+                "v": 41899535623,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy_Bilingual_Q2%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 77, Note 18a Share capital - shareholder table 'Jumlah 41.899.535.623' (IDR value Rp20,949,767,811,500 at Rp500 par)",
+                "share_basis": "2026-07-28",
+                "note": "The face of the balance sheet (PDF p. 6) prints 41,830,010,801 (Indonesian) / 41,830,010,810 (English), which disagrees with Note 18a. The Note 18a figure is consistent with the share-capital amount and with the June-2026 monthly securities-holder registry report (https://pge.pertamina.com/Media/Uploads/investor/Keterbukaan%20Informasi/Laporan%20Registrasi%20Pemegang%20Efek%20-%20Juni%202026.pdf: total 41.899.535.623, no treasury shares), and the FY2025 dividend of Rp49.4423 x 41,899,535,623 shares = USD123.9 mn at 16,720. Increase vs Dec 2025 = MESOP exercises."
+            },
+            "total_assets": {
+                "v": 2966.875,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy_Bilingual_Q2%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 4, JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "cash": {
+                "v": 656.634,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy_Bilingual_Q2%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 4, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash 737. FS prints USD thousand; stored in USD million (/1,000)."
+            },
+            "total_debt": {
+                "v": 737.141,
+                "source_url": "https://pge.pertamina.com/media/Uploads/laporan-keuangan/Pertamina%20Geothermal%20Energy_Bilingual_Q2%202026.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 5, borrowing lines (see note)",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (USD thousand): bonds payable 399,254 + long-term loans from Pertamina current 15,559 + non-current 322,328 = 737,141. Excludes lease liabilities 1,974 + 2,151. Stored in USD million."
+            },
+            "fx_usd_idr": {
+                "v": 17899,
+                "source_url": "https://www.bi.go.id/id/statistik/informasi-kurs/jisdor/default.aspx",
+                "source_type": "official",
+                "as_of_date": "2026-06-30",
+                "loc": "JISDOR table, row '30 Juni 2026 - Rp 17.899,00' (query 24/06/2026-30/06/2026)",
+                "basis": "n/a",
+                "note": "IDR per USD, Bank Indonesia JISDOR at the interim balance-sheet date (the FS translate monetary items at JISDOR and print only a rounded USD-per-1,000-Rupiah figure)."
+            }
+        }
+    },
+    "research_notes": [
+        "Reporting currency: the audited FS are presented in thousands of US dollars (USD is the functional and presentation currency, FS2025 Note 3l). All money values are stored in USD million (FS USD thousand / 1,000); EPS is stored in USD per share as printed (4 decimals only), DPS in rupiah as paid.",
+        "Source policy: each FY uses its own audited consolidated FS (FS2022-FS2025 from pge.pertamina.com). FY2019-FY2021 come from the audited FS re-issued for the IPO (auditor's reports 4 Nov 2022), printed in Chapter XIX of the final prospectus (20 Feb 2023). They equal the FS2022 comparatives. The 29-Mar-2022 re-issue of FS2021 on the IR page differs only in FY2021 lease liabilities, total liabilities and equity (by 162 thousand), as noted on those datums. The ARs for 2022-2025 are linked from the official IR page https://pge.pertamina.com/en/report to Google Drive, so the Drive URL is the company's own published copy. The ARs supply EBITDA, payout ratios, year-end prices, production and ROE/ROA.",
+        "IPO and listing: PT Pertamina Geothermal Energy Tbk listed on the IDX on 24 Feb 2023 (offer of 10,350,000,000 new shares at Rp875). No year-end price exists for FY2019-FY2022, so those are null. The legal name has not changed (AR2025 PDF p. 80, 'the Company has not undergone any name changes'). Controlling shareholder: PT Pertamina Power Indonesia, 68.18% at 30 Jun 2026. Masdar Indonesia Solar Holdings RSC Ltd holds 14.82% and PT Pertamina Pedeve Indonesia 5.91%.",
+        "Pre-listing share history, deliberately NOT recorded in corporate_actions: (1) June 2021 circular resolution: capitalisation of retained earnings US$908,341 thousand and debt-to-equity swap US$111,421 thousand, taking the shares from 775,256 to 15,523,071 (Rp1,000,000 par). (2) 10 Feb 2022 (Notarial Deed 12): nominal value Rp1,000,000 -> Rp500, i.e. a 1:2,000 split, taking 15,523,071 to 31,046,142,000 shares (FS2021 Note 35, PDF p. 141). Both happened before the shares traded, so there is no ex-date and no price to adjust. Every per-share value stored here is already on the post-split basis: EPS 2020-2021 from the re-issued FS (31,046,142,000 weighted shares), FY2021 shares_out 31,046,142,000. FY2020 shares_out is null. Recording the 2022 split would also make bin/stocks_prices.php reject PGEO, because Yahoo has no matching split event.",
+        "Corporate actions since listing: none of type split, reverse split, rights or bonus. 2023-2026 EGMS agendas were management changes only (EGMS minutes 2024, Aug 2025, Jan 2026). Share-count changes after the IPO come only from MESOP option exercises: 41,396,142,000 (2023), 41,508,024,149 (2024), 41,815,763,396 (2025), 41,899,535,623 (30 Jun 2026). MESOP is not a schema corporate-action type. No treasury shares at any FY end.",
+        "Presentation change: up to FY2023 the FS put finance income and other income/expense (incl. FX and impairment) above 'Laba usaha', so operating profit 2020-2023 includes them. FS2024 (Note 38) reclassified FY2023 (operating profit 265,176 -> 226,055; CFO 253,006 -> 255,190; cost of revenue / G&A split), and FS2025 reclassified FY2024 cost of revenue vs G&A (operating profit unchanged). Stored values are as originally reported. The operating_profit series breaks between 2023 and 2024.",
+        "FY2019 revenue (666,876) includes JOC contractor revenue gross. The policy changed in 2020, and the prospectus uses an 'adjusted revenue' of 328,208 for 2019 margins. FY2019 revenue is therefore not comparable with later years.",
+        "EBITDA is the company's own measure. The definition in the prospectus (PDF p. 31) is profit before finance costs net of finance income, income tax, depreciation and amortisation, and other (income)/expense net. Values: prospectus for 2020-2021 (2019 = 258,077 there, not required), then each year's AR MD&A table (2022 AR2022, 2023 AR2023, 2024 AR2024, 2025 AR2025). AR2025 and the FY25 deck restate FY2024 EBITDA from 324,512 to 324,061, and the original is stored.",
+        "total_debt = interest-bearing borrowings only (the bank loan of 2021-2022, the USD400 mn 5.15% green notes due 2028 issued 27 Apr 2023, and the long-term loans from Pertamina, which are JICA / World Bank two-step loans on-lent by Pertamina, Note 26j). Lease liabilities are excluded. In 2019-2020, 'other payables - related parties' (285,178 / 315,719) were non-loan payables to Pertamina, largely interest settled in 2021 (FY2021 cash flow: interest payments on loans to Pertamina 281,920), and are excluded.",
+        "fx_usd_idr: the FS state that monetary items are translated at the Bank Indonesia JISDOR rate at the reporting date (FS2025 Note 3l), but they print the rate only as a 2-decimal 'USD per 1,000 Rupiah' (0.06/0.07). The stored rate is therefore the JISDOR fixing from Bank Indonesia's JISDOR page (source_type official) on the last fixing date on or before 31 Dec. It was cross-checked against Rupiah balances in each FS foreign-currency note and, for FY2023-FY2025, against the USD-to-rupiah dividend conversions approved by the AGMS (15,439; 16,157; 16,720 exactly).",
+        "Dividends: the FY2021 final (USD30 mn) and FY2022 interim (USD70 mn) went to the two pre-IPO Pertamina-group holders. They were declared in USD with no rupiah DPS, so dps is null. All post-IPO dividends were declared in USD and paid in rupiah. dps is the rupiah amount per share announced in the AGMS summary of minutes, and total is the USD amount approved. Payout ratios: 0 for FY2020 (AR2022 p. 172: no dividend for FY2019 and FY2020), 35.27% FY2021, 78.54% FY2022, 78.5% FY2023, 85% FY2024, 90% FY2025. The validator's DPS x shares check does not apply to USD reporters.",
+        "Interim: PGEO published its 9M-2026 results around 29 Oct 2026 (news: IDX Channel 29 Oct 2026, net profit +21.45% YoY; Databoks: revenue US$352.20 mn). The 9M-2026 FS could not be retrieved from an official source. pge.pertamina.com lists the H1-2026 FS as its latest report on 2026-11-03; guessed file names returned 404. idx.co.id returns HTTP 403 (Cloudflare) to this server, and the Internet Archive has no copy. So the interim block is H1 2026 from the unaudited 30-Jun-2026 FS, with EBITDA from the company's 6M2026 results presentation. Replace it with 9M 2026 once the FS appear on the IR page.",
+        "Production (optional field) = own-operation steam + electricity output in GWh (steam converted to electricity equivalent) from each AR's operational highlights. Installed capacity has no schema field. It is given in the production notes: 672 MW own-operated 2020-2023 (AR2024: 673 MW for 2024) plus 1,205 MW JOC, and 727 MW own + 1,216 MW JOC in 2025 after Lumut Balai Unit 2 (55 MW, COD 30 Jun 2025). Electricity/steam sales volumes are printed only inconsistently (AR2022 sales table in GWh, later ARs in USD), so sales_volume is not stored.",
+        "Self-check: EPS x FY-end shares vs profit attributable: 2021 -1.5%, 2022 -0.04%, 2023 +1.2%, 2024 +0.9%, 2025 +0.2% (EPS rounded to 4 decimals; 2023 weighted shares reflect the Feb-2023 IPO). Profit attributable x payout vs approved USD dividend totals: 2021-2025 all within +0.02%. Balance sheets tie (assets = liabilities + total equity) for 2020-2025."
+    ]
+}

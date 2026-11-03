@@ -1,0 +1,1447 @@
+{
+    "schema": 1,
+    "code": "MEDC",
+    "name": "PT Medco Energi Internasional Tbk",
+    "name_short": "MedcoEnergi",
+    "sector": "energy",
+    "subsector": "oil_gas",
+    "currency": "USD",
+    "exchange": "IDX",
+    "website": "https://www.medcoenergi.com",
+    "ir_url": "https://www.medcoenergi.com/en/investors/overview/",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 1438.291,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/368/medc_fs-31-dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 10, Consolidated statement of profit or loss - JUMLAH PENJUALAN DAN PENDAPATAN USAHA LAINNYA / Total sales and other operating revenues",
+                "basis": "consolidated",
+                "note": "Pre-PSAK 71/72/73 presentation: net oil & gas sales + electric power sales + revenue from services. FS2020 re-presents 2019 as 1,375.7 (power concession income moved out of revenue)."
+            },
+            "net_profit_attr": {
+                "v": -27.348,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/368/medc_fs-31-dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 12, Profit (loss) for the year attributable to equity holders of the parent company",
+                "basis": "consolidated",
+                "note": "As originally reported. FS2020 restates FY2019 to (38,765,488) after finalising the Ophir purchase-price allocation (bargain purchase 79.5m -> 68.1m; FS2020 Notes 47/55)."
+            },
+            "total_assets": {
+                "v": 6006.538,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/368/medc_fs-31-dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "As originally reported; FS2020 restates 31 Dec 2019 total assets to 5,997,523,421 (Ophir PPA)."
+            },
+            "cash": {
+                "v": 456.216,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/368/medc_fs-31-dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted time deposits and cash in banks, which the FS shows on separate current and non-current lines."
+            },
+            "total_debt": {
+                "v": 3195.014,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/368/medc_fs-31-dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position - short-term bank loans, current maturities and non-current portions of long-term debt",
+                "basis": "consolidated",
+                "note": "Sum of the printed borrowing lines (US$): current bank loans 90,364,428; current non-bank FI loans 26,362; current Rupiah bonds 45,677,906; non-current bank loans 1,004,157,088; non-current non-bank FI loans 6,091; non-current Rupiah bonds 482,233,900; US Dollar bonds 1,505,913,160; non-current medium term notes 66,634,942 = 3,195,013,877. Lease liabilities excluded. 'Loans from non-bank financial institutions' are interest-bearing loans and are included."
+            },
+            "equity_attr": {
+                "v": 1196.458,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/368/medc_fs-31-dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Total equity attributable to the equity holders of the parent company",
+                "basis": "consolidated",
+                "note": "As originally reported; FS2020 restates to 1,185,039,770."
+            },
+            "total_equity": {
+                "v": 1356.246,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/368/medc_fs-31-dec-2019.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated"
+            },
+            "year_end_price": {
+                "v": 865,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/417/ar2020_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-30",
+                "loc": "AR2020 PDF p. 58, Share Performance - Stock Price (IDR per share), 2019 Q4 Closing",
+                "share_basis": "2019-12-31",
+                "note": "Q4 closing price in the AR share-price table (IDR per share). No split or bonus issue since 2000, so the figure is on the current share basis. Stored because the PUT III rights issue went ex on 2020-09-09."
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 1093.274,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10, Consolidated statement of profit or loss - JUMLAH PENDAPATAN / TOTAL REVENUES",
+                "basis": "consolidated",
+                "note": "Total revenues = revenue from contracts with customers + finance income from the power concession/finance-lease arrangements (the AR's 'Sales and other operating revenues')."
+            },
+            "ebitda": {
+                "v": 502.2,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/417/ar2020_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 57, Financial Highlights - Income Statement - EBITDA (US$ million)",
+                "basis": "consolidated",
+                "note": "EBITDA as printed by the company; the AR glossary defines it only as 'Earnings before Interest, Tax, Depreciation and Amortization' (AR2025 PDF p. 136) and no reconciliation is published. Later editions restate FY2020 (Ophir PPA / FS2021 restatement and re-presentation): operating profit 157.5 and EBITDA 494.5 in AR2021-AR2023, 165.2 / 452.1 in AR2024. Stored as originally reported in AR2020."
+            },
+            "operating_profit": {
+                "v": 169.1,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/417/ar2020_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 57, Financial Highlights - Income Statement - Operating profit (US$ million)",
+                "basis": "consolidated",
+                "note": "The audited FS face has no operating-profit line; the AR's 'Operating profit' is gross profit less selling, general & administrative expenses (before other operating income/expense, finance costs, share of profit of associates incl. AMMN, impairments and tax). Later editions restate FY2020 (Ophir PPA / FS2021 restatement and re-presentation): operating profit 157.5 and EBITDA 494.5 in AR2021-AR2023, 165.2 / 452.1 in AR2024. Stored as originally reported in AR2020."
+            },
+            "net_profit_attr": {
+                "v": -188.976,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 12, Profit (loss) for the year attributable to equity holders of the parent company",
+                "basis": "consolidated",
+                "note": "As originally reported. FS2021 restates FY2020 to (192,825,309)."
+            },
+            "eps": {
+                "v": -0.008267,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 13, Basic earnings (loss) per share attributable to equity holders of the parent company (US$)",
+                "basis": "consolidated",
+                "share_basis": "2021-05-31",
+                "note": "Basic loss per share after the bonus element of the Sep-2020 rights issue: (188,975,634) / 22,859,088,270 weighted shares (FS2020 Note 40a, PDF p. 255; the note's first line, before the bonus element, shows (0.009342) on 20,229,281,655 shares)."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/489/summaryresultagms.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-08-26",
+                "loc": "Summary of AGMS results 26 Aug 2021, Third Agenda resolution",
+                "basis": "consolidated",
+                "note": "Loss year: the AGMS 'agreed not to distribute dividends to shareholders for the 2020 financial year' (loss attributable US$188,975,634). No interim dividend was paid in 2020."
+            },
+            "total_assets": {
+                "v": 5900.823,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "As originally reported; FS2021 restates 31 Dec 2020 total assets to 5,882,742,988."
+            },
+            "total_liabilities": {
+                "v": 4687.438,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 296.477,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted time deposits and cash in banks, which the FS shows on separate current and non-current lines."
+            },
+            "total_debt": {
+                "v": 2727.52,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position - short-term bank loans, current maturities and non-current portions of long-term debt",
+                "basis": "consolidated",
+                "note": "Sum of the printed borrowing lines (US$): short-term bank loans 22,930,343; current bank loans 136,596,300; current non-bank FI loans 6,003; current Rupiah bonds 98,047,515; current medium term notes 66,884,601; non-current bank loans 366,516,789; non-current Rupiah bonds 302,812,392; US Dollar bonds 1,733,726,004 = 2,727,519,947. Lease liabilities excluded (current 94,448,948 + non-current 182,961,855). 'Loans from non-bank financial institutions' are interest-bearing loans and are included. The Sarulla project loans of held-for-sale MGeoPS sit inside 'Liabilities directly associated with assets held for sale' (452,035,614 in total; FS2020 PDF p. 197) and are not included."
+            },
+            "equity_attr": {
+                "v": 1025.523,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Total equity attributable to the equity holders of the parent company",
+                "basis": "consolidated",
+                "note": "As originally reported; FS2021 restates to 1,007,443,454."
+            },
+            "total_equity": {
+                "v": 1213.385,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 25070703283,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Capital stock - issued and fully paid 25,136,231,252 shares less treasury shares 65,527,969",
+                "share_basis": "2021-05-31",
+                "note": "25,136,231,252 issued less 65,527,969 treasury shares (Rp25 par). share_basis = FS date (auditor's letter dated 31 May 2021 (AGMS 26 Aug 2021 summary, agenda 2))."
+            },
+            "year_end_price": {
+                "v": 590,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/417/ar2020_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-30",
+                "loc": "AR2020 PDF p. 58, Share Performance - Stock Price (IDR per share), 2020 Q4 Closing",
+                "share_basis": "2020-12-30",
+                "note": "Q4 closing price in the AR share-price table (IDR per share). No split or bonus issue since 2000, so the figure is on the current share basis."
+            },
+            "cfo": {
+                "v": 458.193,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15, Consolidated statement of cash flows - Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 109.526,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 15, Cash flows from investing activities - Acquisitions of property, plant and equipment + Additions to oil and gas properties",
+                "basis": "consolidated",
+                "note": "PP&E 3,939,608 + oil & gas properties 105,586,247 = 109,525,855 (outflows, shown positive). Excludes additions to exploration & evaluation assets, concession financial assets, other assets and business acquisitions."
+            },
+            "fx_usd_idr": {
+                "v": 14105,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2020-12-31&enddate=2020-12-31",
+                "source_type": "official",
+                "as_of_date": "2020-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2020-12-31",
+                "basis": "n/a",
+                "note": "Bank Indonesia middle rate (kurs tengah) for 2020-12-31: BI publishes kurs beli 14,034.48 and kurs jual 14,175.53; their mean is 14,105.005, i.e. Rp14,105 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000071' (https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf PDF p. 39); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "production": {
+                "v": 100.4,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2024/MEDC_AR2024_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2024 PDF p. 34, Oil & Gas - 'Net Oil & Gas Production (mboepd)' table, row 'Total Oil & Gas Production'",
+                "basis": "n/a",
+                "unit": "mboepd",
+                "note": "MedcoEnergi's net (working-interest) oil & gas production incl. the Karim Small Fields service contract in Oman, the series the company uses as its headline production figure. The AR 'Operational Highlights' table prints a different 'Lifting & sales' series (incl. government share, excl. Oman service contract): 2021 86.9, 2022 155.2, 2023 152.1, 2024 143.0, 2025 147.1 mboepd. FY2020 value from AR2024's table (same layout); AR2020 PDF p. 9 also prints 100.4."
+            },
+            "roe": {
+                "v": -15.6,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/417/ar2020_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 57, Financial Highlights - Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "AR2020 prints ROE (15.6%), ROA (3.2%); later ARs print (16%)/(19%) ROE and (3%) ROA for 2020 on restated figures. Definition not stated in the AR."
+            },
+            "roa": {
+                "v": -3.2,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/417/ar2020_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 57, Financial Highlights - Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "AR2020 prints ROE (15.6%), ROA (3.2%); later ARs print (16%)/(19%) ROE and (3%) ROA for 2020 on restated figures. Definition not stated in the AR."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 1323.242,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10, Consolidated statement of profit or loss - JUMLAH PENDAPATAN / TOTAL REVENUES",
+                "basis": "consolidated",
+                "note": "Total revenues = revenue from contracts with customers + finance income from the power concession/finance-lease arrangements (the AR's 'Sales and other operating revenues'). As originally reported; FS2022 re-presents 2021 as 1,252.1 (AR2022-AR2025 use that)."
+            },
+            "ebitda": {
+                "v": 713.5,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/418/ar2021_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 70, Financial Highlights - Income Statement - EBITDA (US$ million)",
+                "basis": "consolidated",
+                "note": "EBITDA as printed by the company; the AR glossary defines it only as 'Earnings before Interest, Tax, Depreciation and Amortization' (AR2025 PDF p. 136) and no reconciliation is published. AR2022-AR2025 print the re-presented FY2021 (operating profit 389.2, EBITDA 667.3) after FS2022 re-presented 2021 revenue from 1,323.2 to 1,252.1. Stored as originally reported in AR2021."
+            },
+            "operating_profit": {
+                "v": 403.6,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/418/ar2021_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 70, Financial Highlights - Income Statement - Operating profit (US$ million)",
+                "basis": "consolidated",
+                "note": "The audited FS face has no operating-profit line; the AR's 'Operating profit' is gross profit less selling, general & administrative expenses (before other operating income/expense, finance costs, share of profit of associates incl. AMMN, impairments and tax). AR2022-AR2025 print the re-presented FY2021 (operating profit 389.2, EBITDA 667.3) after FS2022 re-presented 2021 revenue from 1,323.2 to 1,252.1. Stored as originally reported in AR2021."
+            },
+            "net_profit_attr": {
+                "v": 47.019,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 12, Profit (loss) for the year attributable to equity holders of the parent company",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.001875,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 13, Basic earnings (loss) per share attributable to equity holders of the parent company (US$)",
+                "basis": "consolidated",
+                "share_basis": "2022-06-09",
+                "note": "As originally reported. FS2022 re-computes 2021 as 0.002497 on total profit incl. NCI (62,600,751) and AR2022-AR2025 print 0.00250; profit attributable 47,019,404 / weighted shares gives 0.001875, so the original is kept."
+            },
+            "payout_ratio": {
+                "v": 74,
+                "source_url": "https://www.medcoenergi.com/en/investors/others/dividend-information/",
+                "source_type": "company_release",
+                "as_of_date": "2022-07-27",
+                "loc": "IR page 'Dividend Information' - table 'Dividend Payment and Total Return to Shareholders', book period 2021, 'Dividend payout ratio (x) 0.74'",
+                "basis": "consolidated",
+                "note": "0.74x stored as 74%. The AGMS of 27 Jul 2022 (third agenda) set the US$35,000,000 cash dividend out of FY2021 profit attributable of US$47,019,404 but states no percentage."
+            },
+            "total_assets": {
+                "v": 5683.884,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 4454.548,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 480.985,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted time deposits and cash in banks, which the FS shows on separate current and non-current lines."
+            },
+            "total_debt": {
+                "v": 2989.2,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Consolidated statement of financial position - short-term bank loans, current maturities and non-current portions of long-term debt",
+                "basis": "consolidated",
+                "note": "Sum of the printed borrowing lines (US$): current bank loans 194,127,151; current non-bank FI loans 46,088; current Rupiah bonds 121,312,147; non-current bank loans 231,466,519; non-current non-bank FI loans 1,280,187; non-current Rupiah bonds 317,506,569; US Dollar bonds 2,123,461,313 = 2,989,199,974. Lease liabilities excluded (current 95,261,352 + non-current 127,069,787). 'Loans from non-bank financial institutions' are interest-bearing loans and are included."
+            },
+            "equity_attr": {
+                "v": 1072.726,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Total equity attributable to the equity holders of the parent company",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1229.336,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24950399559,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Capital stock - issued and fully paid 25,136,231,252 shares less treasury shares 185,831,693",
+                "share_basis": "2022-06-09",
+                "note": "25,136,231,252 issued less 185,831,693 treasury shares (Rp25 par). share_basis = FS date (auditor's report dated 9 Jun 2022 (FS2021 PDF p. 6))."
+            },
+            "year_end_price": {
+                "v": 466,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/418/ar2021_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-30",
+                "loc": "AR2021 PDF p. 72, Share Performance - Stock Price (IDR per share), 2021 Q4 Closing",
+                "share_basis": "2021-12-30",
+                "note": "Q4 closing price in the AR share-price table (IDR per share). No split or bonus issue since 2000, so the figure is on the current share basis."
+            },
+            "cfo": {
+                "v": 462.961,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Consolidated statement of cash flows - Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 76.185,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 16, Cash flows from investing activities - Acquisitions of property, plant and equipment + Additions to oil and gas properties",
+                "basis": "consolidated",
+                "note": "PP&E 16,392,849 + oil & gas properties 59,792,524 = 76,185,373 (outflows, shown positive). Excludes additions to exploration & evaluation assets, concession financial assets, other assets and business acquisitions."
+            },
+            "fx_usd_idr": {
+                "v": 14269,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2021-12-31&enddate=2021-12-31",
+                "source_type": "official",
+                "as_of_date": "2021-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2021-12-31",
+                "basis": "n/a",
+                "note": "Bank Indonesia middle rate (kurs tengah) for 2021-12-31: BI publishes kurs beli 14,197.66 and kurs jual 14,340.35; their mean is 14,269.005, i.e. Rp14,269 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000070' (https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf PDF p. 42); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "production": {
+                "v": 94.1,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2025/MEDC_AR2025_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2025 PDF p. 38, Oil & Gas - 'Net Oil & Gas Production (mboepd)' table, row 'Total Oil & Gas Production'",
+                "basis": "n/a",
+                "unit": "mboepd",
+                "note": "MedcoEnergi's net (working-interest) oil & gas production incl. the Karim Small Fields service contract in Oman, the series the company uses as its headline production figure. The AR 'Operational Highlights' table prints a different 'Lifting & sales' series (incl. government share, excl. Oman service contract): 2021 86.9, 2022 155.2, 2023 152.1, 2024 143.0, 2025 147.1 mboepd."
+            },
+            "roe": {
+                "v": 4,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/418/ar2021_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 70, Financial Highlights - Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "Printed as whole percent; definition not stated."
+            },
+            "roa": {
+                "v": 1,
+                "source_url": "https://www.medcoenergi.com/uploads/rwcis/418/ar2021_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 70, Financial Highlights - Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "Printed as whole percent; definition not stated."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 2312.228,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 20, Consolidated statement of profit or loss - JUMLAH PENDAPATAN / TOTAL REVENUES",
+                "basis": "consolidated",
+                "note": "Total revenues = revenue from contracts with customers + finance income from the power concession/finance-lease arrangements (the AR's 'Sales and other operating revenues')."
+            },
+            "ebitda": {
+                "v": 1593.1,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2022/ar2022_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 68, Financial Highlights - Income Statement - EBITDA (US$ million)",
+                "basis": "consolidated",
+                "note": "EBITDA as printed by the company; the AR glossary defines it only as 'Earnings before Interest, Tax, Depreciation and Amortization' (AR2025 PDF p. 136) and no reconciliation is published. AR2023-AR2025 print 1,026.2 operating profit / 1,593.5 EBITDA for 2022 (small reclassification in the FS2023 comparatives). Stored as originally reported in AR2022."
+            },
+            "operating_profit": {
+                "v": 1025.8,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2022/ar2022_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 68, Financial Highlights - Income Statement - Operating profit (US$ million)",
+                "basis": "consolidated",
+                "note": "The audited FS face has no operating-profit line; the AR's 'Operating profit' is gross profit less selling, general & administrative expenses (before other operating income/expense, finance costs, share of profit of associates incl. AMMN, impairments and tax). AR2023-AR2025 print 1,026.2 operating profit / 1,593.5 EBITDA for 2022 (small reclassification in the FS2023 comparatives). Stored as originally reported in AR2022."
+            },
+            "net_profit_attr": {
+                "v": 530.883,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 22, Profit (loss) for the year attributable to equity holders of the parent company",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.02123,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2023 PDF p. 23 (comparative column 2022), Basic earnings per share attributable to equity holders of the parent company; FS2023 Note 40 PDF p. 238: 530,882,675 / 25,002,151,142 weighted shares",
+                "basis": "consolidated",
+                "share_basis": "2024-04-01",
+                "note": "FS2022 itself printed US$0.022055 (PDF p. 23; Note 40 PDF p. 258 divides total profit for the year incl. NCI, 551,410,338, by 25,002,151,142 shares). FS2023 and AR2023-AR2025 correct it to 0.02123 on profit attributable to owners; the corrected audited figure is stored. The IR dividend page still shows 0.022055."
+            },
+            "payout_ratio": {
+                "v": 12.24,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/ringkasanrisalahdanjadwaldividen-english.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-05-31",
+                "loc": "Summary of AGMS 31 May 2023 minutes, third agenda: 'Distributed 12.24% of the net profit attributable ... in 2022 or in the amount of US$65,000,000'",
+                "basis": "consolidated",
+                "note": "Includes the US$25m interim paid 8 Sep 2022 and the US$40m final."
+            },
+            "total_assets": {
+                "v": 6931.906,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 5184.387,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 599.999,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 17, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted time deposits and cash in banks, which the FS shows on separate current and non-current lines."
+            },
+            "total_debt": {
+                "v": 3151.163,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 18, Consolidated statement of financial position - short-term bank loans, current maturities and non-current portions of long-term debt",
+                "basis": "consolidated",
+                "note": "Sum of the printed borrowing lines (US$): short-term bank loans 35,000,000; current bank loans 286,993,328; current non-bank FI loans 3,369,245; current Rupiah bonds 110,623,276; non-current bank loans 562,023,805; non-current non-bank FI loans 16,455,848; non-current Rupiah bonds 436,751,561; US Dollar bonds 1,699,945,971 = 3,151,163,034. Lease liabilities excluded (current 101,784,419 + non-current 84,446,201). 'Loans from non-bank financial institutions' are interest-bearing loans and are included."
+            },
+            "equity_attr": {
+                "v": 1557.26,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, Total equity attributable to the equity holders of the parent company",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 1747.519,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 25025282997,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 19, Capital stock - issued and fully paid 25,136,231,252 shares less treasury shares 110,948,255",
+                "share_basis": "2023-03-31",
+                "note": "25,136,231,252 issued less 110,948,255 treasury shares (Rp25 par). share_basis = FS date (auditor's letter dated 31 Mar 2023 (AGMS 31 May 2023 minutes))."
+            },
+            "year_end_price": {
+                "v": 1015,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2022/ar2022_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-30",
+                "loc": "AR2022 PDF p. 70, Share Performance - Stock Price (IDR per share), 2022 Q4 Closing",
+                "share_basis": "2022-12-30",
+                "note": "Q4 closing price in the AR share-price table (IDR per share). No split or bonus issue since 2000, so the figure is on the current share basis."
+            },
+            "cfo": {
+                "v": 1116.438,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 26, Consolidated statement of cash flows - Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 252.895,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 26, Cash flows from investing activities - Acquisitions of property, plant and equipment + Additions to oil and gas properties",
+                "basis": "consolidated",
+                "note": "PP&E 34,692,519 + oil & gas properties 218,202,073 = 252,894,592 (outflows, shown positive). Excludes additions to exploration & evaluation assets, concession financial assets, other assets and business acquisitions."
+            },
+            "fx_usd_idr": {
+                "v": 15731,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2022-12-30&enddate=2022-12-30",
+                "source_type": "official",
+                "as_of_date": "2022-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2022-12-30",
+                "basis": "n/a",
+                "note": "Bank Indonesia middle rate (kurs tengah) for 2022-12-30: BI publishes kurs beli 15,652.34 and kurs jual 15,809.66; their mean is 15,731.000, i.e. Rp15,731 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000064' (https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf PDF p. 54); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "production": {
+                "v": 162.5,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2025/MEDC_AR2025_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2025 PDF p. 38, Oil & Gas - 'Net Oil & Gas Production (mboepd)' table, row 'Total Oil & Gas Production'",
+                "basis": "n/a",
+                "unit": "mboepd",
+                "note": "MedcoEnergi's net (working-interest) oil & gas production incl. the Karim Small Fields service contract in Oman, the series the company uses as its headline production figure. The AR 'Operational Highlights' table prints a different 'Lifting & sales' series (incl. government share, excl. Oman service contract): 2021 86.9, 2022 155.2, 2023 152.1, 2024 143.0, 2025 147.1 mboepd."
+            },
+            "roe": {
+                "v": 30,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2022/ar2022_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 68, Financial Highlights - Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "AR2022 prints ROE 30%; AR2023-AR2025 print 34% for 2022. Definition not stated; stored as originally printed."
+            },
+            "roa": {
+                "v": 8,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2022/ar2022_eng.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 68, Financial Highlights - Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "AR2022 prints ROE 30%; AR2023-AR2025 print 34% for 2022. Definition not stated; stored as originally printed."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 2249.338,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 21, Consolidated statement of profit or loss - JUMLAH PENDAPATAN / TOTAL REVENUES",
+                "basis": "consolidated",
+                "note": "Total revenues = revenue from contracts with customers + finance income from the power concession/finance-lease arrangements (the AR's 'Sales and other operating revenues')."
+            },
+            "ebitda": {
+                "v": 1255.2,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2023/MEDC_AR2023_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 70, Financial Highlights - Income Statement - EBITDA (US$ million)",
+                "basis": "consolidated",
+                "note": "EBITDA as printed by the company; the AR glossary defines it only as 'Earnings before Interest, Tax, Depreciation and Amortization' (AR2025 PDF p. 136) and no reconciliation is published. AR2024/AR2025 print the same 792.3 / 1,255.2."
+            },
+            "operating_profit": {
+                "v": 792.3,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2023/MEDC_AR2023_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 70, Financial Highlights - Income Statement - Operating profit (US$ million)",
+                "basis": "consolidated",
+                "note": "The audited FS face has no operating-profit line; the AR's 'Operating profit' is gross profit less selling, general & administrative expenses (before other operating income/expense, finance costs, share of profit of associates incl. AMMN, impairments and tax). AR2024/AR2025 print the same 792.3 / 1,255.2."
+            },
+            "net_profit_attr": {
+                "v": 330.675,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23, Profit (loss) for the year attributable to equity holders of the parent company",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.01321,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 23, Basic earnings (loss) per share attributable to equity holders of the parent company (US$)",
+                "basis": "consolidated",
+                "share_basis": "2024-04-01"
+            },
+            "payout_ratio": {
+                "v": 21.18,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/530/Peng_RingkasanRisalahdanJadwalDividen_English.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-05-30",
+                "loc": "Summary of AGMS 30 May 2024 minutes, second agenda: 'Distributed 21.18% of the net profit attributable ... in 2023 or in the amount of US$70,045,000'",
+                "basis": "consolidated",
+                "note": "Includes the US$25m interim paid 15 Dec 2023 and the US$45,045,000 final."
+            },
+            "total_assets": {
+                "v": 7468.316,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 5440.72,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19, Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 353.949,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 18, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted time deposits and cash in banks, which the FS shows on separate current and non-current lines."
+            },
+            "total_debt": {
+                "v": 3295.416,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 19, Consolidated statement of financial position - short-term bank loans, current maturities and non-current portions of long-term debt",
+                "basis": "consolidated",
+                "note": "Sum of the printed borrowing lines (US$): short-term bank loans 147,595,813; current bank loans 156,613,607; current non-bank FI loans 3,438,090; current Rupiah bonds 87,853,017; non-current bank loans 691,356,819; non-current non-bank FI loans 21,212,390; non-current Rupiah bonds 422,274,407; US Dollar bonds 1,765,072,297 = 3,295,416,440. Lease liabilities excluded (current 123,824,579 + non-current 114,636,832). 'Loans from non-bank financial institutions' are interest-bearing loans and are included."
+            },
+            "equity_attr": {
+                "v": 1828.543,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20, Total equity attributable to the equity holders of the parent company",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 2027.596,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 25029499884,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 20, Capital stock - issued and fully paid 25,136,231,252 shares less treasury shares 106,731,368",
+                "share_basis": "2024-04-01",
+                "note": "25,136,231,252 issued less 106,731,368 treasury shares (Rp25 par). share_basis = FS date (auditor's letter dated 1 Apr 2024 (AGMS 30 May 2024 minutes))."
+            },
+            "year_end_price": {
+                "v": 1155,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2023/MEDC_AR2023_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-29",
+                "loc": "AR2023 PDF p. 72, Share Performance - Stock Price (IDR per share), 2023 Q4 Closing",
+                "share_basis": "2023-12-29",
+                "note": "Q4 closing price in the AR share-price table (IDR per share). No split or bonus issue since 2000, so the figure is on the current share basis."
+            },
+            "cfo": {
+                "v": 723.226,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 26, Consolidated statement of cash flows - Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 282.309,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 26, Cash flows from investing activities - Acquisitions of property, plant and equipment + Additions to oil and gas properties",
+                "basis": "consolidated",
+                "note": "PP&E 44,546,582 + oil & gas properties 237,761,938 = 282,308,520 (outflows, shown positive). Excludes additions to exploration & evaluation assets, concession financial assets, other assets and business acquisitions."
+            },
+            "fx_usd_idr": {
+                "v": 15416,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2023-12-29&enddate=2023-12-29",
+                "source_type": "official",
+                "as_of_date": "2023-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2023-12-29",
+                "basis": "n/a",
+                "note": "Bank Indonesia middle rate (kurs tengah) for 2023-12-29: BI publishes kurs beli 15,338.92 and kurs jual 15,493.08; their mean is 15,416.000, i.e. Rp15,416 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000065' (https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf PDF p. 48); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "production": {
+                "v": 159.7,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2025/MEDC_AR2025_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 38, Oil & Gas - 'Net Oil & Gas Production (mboepd)' table, row 'Total Oil & Gas Production'",
+                "basis": "n/a",
+                "unit": "mboepd",
+                "note": "MedcoEnergi's net (working-interest) oil & gas production incl. the Karim Small Fields service contract in Oman, the series the company uses as its headline production figure. The AR 'Operational Highlights' table prints a different 'Lifting & sales' series (incl. government share, excl. Oman service contract): 2021 86.9, 2022 155.2, 2023 152.1, 2024 143.0, 2025 147.1 mboepd."
+            },
+            "roe": {
+                "v": 18,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2023/MEDC_AR2023_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 70, Financial Highlights - Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "Printed as whole percent; definition not stated."
+            },
+            "roa": {
+                "v": 4,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2023/MEDC_AR2023_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 70, Financial Highlights - Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "Printed as whole percent; definition not stated."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 2399.191,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 19, Consolidated statement of profit or loss - JUMLAH PENDAPATAN / TOTAL REVENUES",
+                "basis": "consolidated",
+                "note": "Total revenues = revenue from contracts with customers + finance income from the power concession/finance-lease arrangements (the AR's 'Sales and other operating revenues')."
+            },
+            "ebitda": {
+                "v": 1271.8,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2024/MEDC_AR2024_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 70, Financial Highlights - Income Statement - EBITDA (US$ million)",
+                "basis": "consolidated",
+                "note": "EBITDA as printed by the company; the AR glossary defines it only as 'Earnings before Interest, Tax, Depreciation and Amortization' (AR2025 PDF p. 136) and no reconciliation is published. AR2025 prints the same 716.6 / 1,271.8."
+            },
+            "operating_profit": {
+                "v": 716.6,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2024/MEDC_AR2024_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 70, Financial Highlights - Income Statement - Operating profit (US$ million)",
+                "basis": "consolidated",
+                "note": "The audited FS face has no operating-profit line; the AR's 'Operating profit' is gross profit less selling, general & administrative expenses (before other operating income/expense, finance costs, share of profit of associates incl. AMMN, impairments and tax). AR2025 prints the same 716.6 / 1,271.8."
+            },
+            "net_profit_attr": {
+                "v": 367.358,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 21, Profit (loss) for the year attributable to equity holders of the parent company",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.01466,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 21, Basic earnings (loss) per share attributable to equity holders of the parent company (US$)",
+                "basis": "consolidated",
+                "share_basis": "2025-03-28"
+            },
+            "payout_ratio": {
+                "v": 17.23,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/Pengumuman%20Risalah%20dan%20Jadwal%20Dividen%20-%20English.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-03",
+                "loc": "Summary of AGMS 3 Jun 2025 minutes, dividend agenda: 'Distributed 17.23 % of the net profit attributable ... in 2024 or in the amount of US$63,294,037'",
+                "basis": "consolidated",
+                "note": "Includes the US$25,338,499 interim paid 1 Nov 2024. The resolution text says 'financial year ended 31 December 2023 with the amount of US$330,675,261' - a drafting error; the percentage and the remainder (US$304,064,231 = 367,358,268 - 63,294,037) are on FY2024 profit."
+            },
+            "total_assets": {
+                "v": 7926.89,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 5575.859,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 637.024,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted time deposits and cash in banks, which the FS shows on separate current and non-current lines."
+            },
+            "total_debt": {
+                "v": 3300.082,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 17, Consolidated statement of financial position - short-term bank loans, current maturities and non-current portions of long-term debt",
+                "basis": "consolidated",
+                "note": "Sum of the printed borrowing lines (US$): short-term bank loans 54,691,856; current bank loans 162,501,916; current non-bank FI loans 14,871; current Rupiah bonds 211,478,310; non-current bank loans 1,028,429,769; non-current non-bank FI loans 69,990,180; non-current Rupiah bonds 330,777,880; non-current US Dollar bonds 1,442,197,561 = 3,300,082,343. Lease liabilities excluded (current 130,372,051 + non-current 147,515,311). 'Loans from non-bank financial institutions' are interest-bearing loans and are included."
+            },
+            "equity_attr": {
+                "v": 2118.726,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Total equity attributable to the equity holders of the parent company",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 2351.032,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 25064778164,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 18, Capital stock - issued and fully paid 25,136,231,252 shares less treasury shares 71,453,088",
+                "share_basis": "2025-03-28",
+                "note": "25,136,231,252 issued less 71,453,088 treasury shares (Rp25 par). share_basis = FS date (auditor's report dated 28 Mar 2025 (FS2024 PDF p. 15))."
+            },
+            "year_end_price": {
+                "v": 1100,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2024/MEDC_AR2024_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-30",
+                "loc": "AR2024 PDF p. 72, Share Performance - Stock Price (IDR per share), 2024 Q4 Closing",
+                "share_basis": "2024-12-30",
+                "note": "Q4 closing price in the AR share-price table (IDR per share). No split or bonus issue since 2000, so the figure is on the current share basis."
+            },
+            "cfo": {
+                "v": 1219.542,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 24, Consolidated statement of cash flows - Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 369.375,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 24, Cash flows from investing activities - Acquisitions of property, plant and equipment + Additions to oil and gas properties",
+                "basis": "consolidated",
+                "note": "PP&E 25,510,692 + oil & gas properties 343,864,015 = 369,374,707 (outflows, shown positive). Excludes additions to exploration & evaluation assets, concession financial assets, other assets and business acquisitions."
+            },
+            "fx_usd_idr": {
+                "v": 16162,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2024-12-31&enddate=2024-12-31",
+                "source_type": "official",
+                "as_of_date": "2024-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2024-12-31",
+                "basis": "n/a",
+                "note": "Bank Indonesia middle rate (kurs tengah) for 2024-12-31: BI publishes kurs beli 16,081.19 and kurs jual 16,242.81; their mean is 16,162.000, i.e. Rp16,162 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000062' (https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf PDF p. 46); no IDR-per-USD figure is printed in the FS or AR. Cross-check: FS2025 Note 45 (PDF p. 263) 2024 trade receivables Rp295,083 million = US$18,257,842, i.e. 16,162."
+            },
+            "production": {
+                "v": 151.9,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2025/MEDC_AR2025_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 38, Oil & Gas - 'Net Oil & Gas Production (mboepd)' table, row 'Total Oil & Gas Production'",
+                "basis": "n/a",
+                "unit": "mboepd",
+                "note": "MedcoEnergi's net (working-interest) oil & gas production incl. the Karim Small Fields service contract in Oman, the series the company uses as its headline production figure. The AR 'Operational Highlights' table prints a different 'Lifting & sales' series (incl. government share, excl. Oman service contract): 2021 86.9, 2022 155.2, 2023 152.1, 2024 143.0, 2025 147.1 mboepd."
+            },
+            "roe": {
+                "v": 17,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2024/MEDC_AR2024_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 70, Financial Highlights - Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "Printed as whole percent; definition not stated."
+            },
+            "roa": {
+                "v": 5,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2024/MEDC_AR2024_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 70, Financial Highlights - Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "Printed as whole percent; definition not stated."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 2395.036,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 21, Consolidated statement of profit or loss - JUMLAH PENDAPATAN / TOTAL REVENUES",
+                "basis": "consolidated",
+                "note": "Total revenues = revenue from contracts with customers + finance income from the power concession/finance-lease arrangements (the AR's 'Sales and other operating revenues')."
+            },
+            "ebitda": {
+                "v": 1264,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2025/MEDC_AR2025_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 74, Financial Highlights - Income Statement - EBITDA (US$ million)",
+                "basis": "consolidated",
+                "note": "EBITDA as printed by the company; the AR glossary defines it only as 'Earnings before Interest, Tax, Depreciation and Amortization' (AR2025 PDF p. 136) and no reconciliation is published."
+            },
+            "operating_profit": {
+                "v": 708.5,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2025/MEDC_AR2025_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 74, Financial Highlights - Income Statement - Operating profit (US$ million)",
+                "basis": "consolidated",
+                "note": "The audited FS face has no operating-profit line; the AR's 'Operating profit' is gross profit less selling, general & administrative expenses (before other operating income/expense, finance costs, share of profit of associates incl. AMMN, impairments and tax)."
+            },
+            "net_profit_attr": {
+                "v": 100.924,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23, Profit (loss) for the year attributable to equity holders of the parent company",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 0.00408,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 23, Basic earnings (loss) per share attributable to equity holders of the parent company (US$)",
+                "basis": "consolidated",
+                "share_basis": "2026-04-01"
+            },
+            "payout_ratio": {
+                "v": 86.2,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/Minutes%20AGMS%20and%20Dividend%20Schedule.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-04",
+                "loc": "Summary of AGMS 4 Jun 2026 minutes, dividend agenda: 'Distributed 86.20% of the net profit attributable ... in 2025 or in the amount of US$87,000,000'",
+                "basis": "consolidated",
+                "note": "Includes the US$42m interim paid 28 Nov 2025 and the US$45m final paid 3 Jul 2026."
+            },
+            "total_assets": {
+                "v": 8362.663,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18, Consolidated statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 6002.552,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 569.107,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Excludes restricted time deposits and cash in banks, which the FS shows on separate current and non-current lines."
+            },
+            "total_debt": {
+                "v": 3646.312,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 19, Consolidated statement of financial position - short-term bank loans, current maturities and non-current portions of long-term debt",
+                "basis": "consolidated",
+                "note": "Sum of the printed borrowing lines (US$): short-term bank loans 2,979,383; current bank loans 196,398,717; current non-bank FI loans 4,019,024; current Rupiah bonds 48,316,555; current US Dollar bonds 91,563,279; non-current bank loans 1,410,351,161; non-current non-bank FI loans 100,971,156; non-current Rupiah bonds 575,633,622; non-current US Dollar bonds 1,216,079,467 = 3,646,312,364. Lease liabilities excluded (current 95,819,308 + non-current 156,760,446). 'Loans from non-bank financial institutions' are interest-bearing loans and are included."
+            },
+            "equity_attr": {
+                "v": 2153.387,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Total equity attributable to the equity holders of the parent company",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 2360.112,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24680621344,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Capital stock - issued and fully paid 25,136,231,252 shares less treasury shares 455,609,908",
+                "share_basis": "2026-04-01",
+                "note": "25,136,231,252 issued less 455,609,908 treasury shares (Rp25 par). share_basis = FS date (auditor's report dated 1 Apr 2026 (FS2025 PDF p. 17))."
+            },
+            "year_end_price": {
+                "v": 1345,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2025/MEDC_AR2025_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-30",
+                "loc": "AR2025 PDF p. 122, Share Performance - Stock Price (IDR per share), 2025 Q4 Closing",
+                "share_basis": "2025-12-30",
+                "note": "Q4 closing price in the AR share-price table (IDR per share). No split or bonus issue since 2000, so the figure is on the current share basis. AR2025 PDF p. 27: 'Our share price closed at Rp1,345 on December 30, 2025'."
+            },
+            "cfo": {
+                "v": 906.288,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 26, Consolidated statement of cash flows - Net cash provided by operating activities",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 446.647,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 26, Cash flows from investing activities - Acquisitions of property, plant and equipment + Additions to oil and gas properties",
+                "basis": "consolidated",
+                "note": "PP&E 93,925,421 + oil & gas properties 352,721,301 = 446,646,722 (outflows, shown positive). Excludes additions to exploration & evaluation assets, concession financial assets, other assets and business acquisitions."
+            },
+            "fx_usd_idr": {
+                "v": 16782,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2025-12-31&enddate=2025-12-31",
+                "source_type": "official",
+                "as_of_date": "2025-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2025-12-31",
+                "basis": "n/a",
+                "note": "Bank Indonesia middle rate (kurs tengah) for 2025-12-31: BI publishes kurs beli 16,698.09 and kurs jual 16,865.91; their mean is 16,782.000, i.e. Rp16,782 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000060' (https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf PDF p. 49); no IDR-per-USD figure is printed in the FS or AR. Cross-check: FS2025 Note 45 (PDF p. 263) trade receivables Rp362,838 million = US$21,620,647, i.e. 16,782."
+            },
+            "production": {
+                "v": 156.1,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2025/MEDC_AR2025_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 38, Oil & Gas - 'Net Oil & Gas Production (mboepd)' table, row 'Total Oil & Gas Production'",
+                "basis": "n/a",
+                "unit": "mboepd",
+                "note": "MedcoEnergi's net (working-interest) oil & gas production incl. the Karim Small Fields service contract in Oman, the series the company uses as its headline production figure. The AR 'Operational Highlights' table prints a different 'Lifting & sales' series (incl. government share, excl. Oman service contract): 2021 86.9, 2022 155.2, 2023 152.1, 2024 143.0, 2025 147.1 mboepd."
+            },
+            "roe": {
+                "v": 5,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2025/MEDC_AR2025_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 74, Financial Highlights - Financial Ratios - Return on Equity (%)",
+                "basis": "consolidated",
+                "note": "Printed as whole percent; definition not stated."
+            },
+            "roa": {
+                "v": 1,
+                "source_url": "https://www.medcoenergi.com/uploads/areports/2025/MEDC_AR2025_ENG.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 74, Financial Highlights - Financial Ratios - Return on Assets (%)",
+                "basis": "consolidated",
+                "note": "Printed as whole percent; definition not stated."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 20.8656,
+            "total": 35,
+            "cum_date": "2022-08-04",
+            "ex_date": "2022-08-05",
+            "record_date": "2022-08-08",
+            "pay_date": "2022-08-26",
+            "share_basis": "2022-07-29",
+            "source_url": "https://www.medcoenergi.com/uploads/rwocis/483/20220727_medcoenergiagmsresults-1.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-07-29",
+            "loc": "Summary of AGMS 27 Jul 2022 results (announced 29 Jul 2022): third agenda (US$35,000,000 = US$0.0014 per share) and 'Timetable of Cash Dividend Distribution'",
+            "note": "Declared in USD (US$0.0014/share); Rp20.8656 per share paid to Indonesian-domiciled holders at the BI middle rate of 8 Aug 2022, Rp14,904 (rupiah notice 9 Aug 2022: https://www.medcoenergi.com/uploads/rwocis/480/kursuntukdividentunaimedcoenergi_final_1.pdf). Holders domiciled abroad were paid in USD. Only dividend out of FY2021 profit."
+        },
+        {
+            "fy": 2022,
+            "type": "interim",
+            "dps": 14.858,
+            "total": 25,
+            "cum_date": "2022-08-18",
+            "ex_date": "2022-08-19",
+            "record_date": "2022-08-22",
+            "pay_date": "2022-09-08",
+            "share_basis": "2022-08-09",
+            "source_url": "https://www.medcoenergi.com/uploads/rwocis/479/pemberitahuandivideninterim_eng_final.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-08-09",
+            "loc": "Announcement on the schedule and procedures for the distribution of FY2022 interim dividend (9 Aug 2022), section A schedule",
+            "note": "BOC/BOD approval 5 Aug 2022, US$25,000,000 = US$0.0010/share; Rp14.8580 per share at the BI middle rate of 22 Aug 2022, Rp14,858 (rupiah notice 22 Aug 2022: https://www.medcoenergi.com/uploads/rwocis/481/pengumumankurstengahdivideninterim_final.pdf). Foreign-domiciled holders paid in USD."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 23.7888,
+            "total": 40,
+            "cum_date": "2023-06-12",
+            "ex_date": "2023-06-13",
+            "record_date": "2023-06-14",
+            "pay_date": "2023-06-30",
+            "share_basis": "2023-06-05",
+            "source_url": "https://www.medcoenergi.com/uploads/rwocis/529/ringkasanrisalahdanjadwaldividen-english.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-06-05",
+            "loc": "Summary of AGMS 31 May 2023 minutes and dividend timetable (announced 5 Jun 2023): third agenda and 'Timetable of Cash Dividend Distribution'",
+            "note": "Final US$40,000,000 = US$0.0016/share on 25,050,482,997 shares excl. treasury; total FY2022 US$65m (12.24%). Rp23.7888 per share at the BI middle rate of 14 Jun 2023, Rp14,868 (rupiah notice: https://www.medcoenergi.com/uploads/rwocis/529/PengumumanKursTengahBITanggal14Juni2023DividenTunai_Final.pdf). Foreign-domiciled holders paid in USD."
+        },
+        {
+            "fy": 2023,
+            "type": "interim",
+            "dps": 15,
+            "total": 25,
+            "cum_date": "2023-11-29",
+            "ex_date": "2023-11-30",
+            "record_date": "2023-12-01",
+            "pay_date": "2023-12-15",
+            "share_basis": "2023-11-21",
+            "source_url": "https://www.medcoenergi.com/uploads/idxs/171/KetentuanPembagianDividenInterim_English.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-11-21",
+            "loc": "Announcement on the schedule and procedures for the distribution of FY2023 interim dividend (21 Nov 2023), section A schedule",
+            "note": "Board approval 17 Nov 2023 (the first paragraph misprints '17 November 2025'): Rp15 per share, maximum aggregate US$25,000,000, out of 9M2023 profit. Rupiah notice (https://www.medcoenergi.com/uploads/rwocis/530/KursTengahBIDividenInterim2023.pdf): Rp15 = US$0.00064 at Rp15,484. total = US$25,000,000 as counted by the AGMS of 30 May 2024 in the FY2023 total of US$70,045,000; the amount actually paid at Rp15/share may be slightly lower."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 29.322,
+            "total": 45.045,
+            "cum_date": "2024-06-07",
+            "ex_date": "2024-06-10",
+            "record_date": "2024-06-11",
+            "pay_date": "2024-06-28",
+            "share_basis": "2024-06-03",
+            "source_url": "https://www.medcoenergi.com/uploads/rwocis/530/Peng_RingkasanRisalahdanJadwalDividen_English.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-06-03",
+            "loc": "Summary of AGMS 30 May 2024 minutes and dividend timetable (announced 3 Jun 2024): second agenda and 'Timetable of Cash Dividend Distribution'",
+            "note": "Final US$45,045,000 = US$0.0018/share on 25,024,989,984 shares excl. treasury; total FY2023 US$70,045,000 (21.18%). Rp29.3220 per share at the BI middle rate of 11 Jun 2024, Rp16,290 (rupiah notice: https://www.medcoenergi.com/uploads/rwocis/530/KursTengahBIDividenTunai_12Juni2024.pdf). Foreign-domiciled holders paid in USD."
+        },
+        {
+            "fy": 2024,
+            "type": "interim",
+            "dps": 15.75,
+            "total": 25.338,
+            "cum_date": "2024-10-11",
+            "ex_date": "2024-10-14",
+            "record_date": "2024-10-15",
+            "pay_date": "2024-11-01",
+            "share_basis": "2024-10-03",
+            "source_url": "https://www.medcoenergi.com/uploads/rwocis/530/PemberitahuanDividenInterim2024_ENG.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-10-03",
+            "loc": "Announcement on the schedule and procedures for the distribution of FY2024 interim dividend (3 Oct 2024), section A schedule",
+            "note": "Board approval 1 Oct 2024: Rp15.75 per share out of 1H2024 profit (= US$0.001 at Rp15,581, rupiah notice https://www.medcoenergi.com/uploads/rwocis/530/Kurs%20Tengah%20BI%20Dividen%20Interim_16%20Okt%202024.pdf). total = US$25,338,499 as stated in the AGMS of 3 Jun 2025 minutes."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 25,
+            "total": 37.956,
+            "cum_date": "2025-06-13",
+            "ex_date": "2025-06-16",
+            "record_date": "2025-06-17",
+            "pay_date": "2025-07-04",
+            "share_basis": "2025-06-04",
+            "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/Pengumuman%20Risalah%20dan%20Jadwal%20Dividen%20-%20English.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-04",
+            "loc": "Summary of AGMS 3 Jun 2025 minutes and dividend timetable (announced 4 Jun 2025): dividend agenda and 'Timetable of Cash Dividend Distribution'",
+            "note": "Final Rp25 per share, 'equivalent to a total of approximately US$37,955,538' on 24,678,690,964 shares excl. treasury (28 May 2025); FY2024 total US$63,294,037 (17.23%). Rupiah notice (https://www.medcoenergi.com/uploads/rwocis/532/Kurs%20Tengah%20BI%20Dividen%20Tunai%202024_MEDC.pdf): Rp25 = US$0.0015 at Rp16,296. The IR dividend page shows US$63,262,389 actually paid for FY2024."
+        },
+        {
+            "fy": 2025,
+            "type": "interim",
+            "dps": 28.4459,
+            "total": 42,
+            "cum_date": "2025-11-10",
+            "ex_date": "2025-11-11",
+            "record_date": "2025-11-12",
+            "pay_date": "2025-11-28",
+            "share_basis": "2025-10-31",
+            "source_url": "https://www.medcoenergi.com/uploads/rwocis/531/Jadwal%20Pembagian%20Dividen%20Interim%20Thn%202025_English.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-10-31",
+            "loc": "Announcement on the schedule and procedures for the distribution of FY2025 interim dividend (31 Oct 2025), section A schedule",
+            "note": "Board approval 31 Oct 2025: US$42,000,000. Rp28.4459 per share (= US$0.0017) at the BI middle rate of 12 Nov 2025, Rp16,698 (rupiah notice: https://www.medcoenergi.com/uploads/rwocis/531/Pengumuman%20Kurs%20Tengah%20Dividen%20Interim%202025.pdf). Foreign-domiciled holders paid in USD."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 32.252,
+            "total": 45,
+            "cum_date": "2026-06-12",
+            "ex_date": "2026-06-15",
+            "record_date": "2026-06-17",
+            "pay_date": "2026-07-03",
+            "share_basis": "2026-06-05",
+            "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/Minutes%20AGMS%20and%20Dividend%20Schedule.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-06-05",
+            "loc": "Summary of AGMS 4 Jun 2026 minutes and dividend timetable (announced 5 Jun 2026): dividend agenda and 'Timetable of Cash Dividend Distribution'",
+            "note": "Final US$45,000,000, approx. US$0.0018/share on 24,680,621,344 shares excl. treasury; FY2025 total US$87,000,000 (86.20%). Rp32.2520 per share at the BI middle rate of 17 Jun 2026, Rp17,719 (rupiah notice: https://www.medcoenergi.com/uploads/rwocis/533/Pengumuman%20Kurs%20Tengah%20Dividen%20Final%202025.pdf). Foreign-domiciled holders paid in USD."
+        },
+        {
+            "fy": 2026,
+            "type": "interim",
+            "dps": null,
+            "total": 30,
+            "cum_date": "2026-11-10",
+            "ex_date": "2026-11-11",
+            "record_date": "2026-11-12",
+            "pay_date": null,
+            "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/2026%20Interim%20Dividen%20Announcement_ENG_021126.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-11-02",
+            "loc": "Announcement on the schedule and procedures for the distribution of FY2026 interim dividend (2 Nov 2026), section A schedule",
+            "note": "Board approval 29 Oct 2026: US$30,000,000. The rupiah amount per share is fixed at the BI middle rate of the 12 Nov 2026 recording date and announced on 13 Nov 2026, so dps is null for now. Payment 'Max 2 Desember 2026' (pay_date null until confirmed)."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 1414.745,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 18, Consolidated statement of profit or loss - JUMLAH PENDAPATAN / TOTAL REVENUES, six months to 30 Jun 2026",
+                "basis": "consolidated",
+                "note": "Audited interim consolidated FS (auditor's report 21 Sep 2026)."
+            },
+            "revenue_ytd_prior": {
+                "v": 1146.916,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 18, comparative column six months to 30 Jun 2025 (unaudited)",
+                "basis": "consolidated"
+            },
+            "ebitda_ytd": {
+                "v": 805.1,
+                "source_url": "https://www.medcoenergi.com/uploads/presentations/526/1H_2026_Company_Results_vFF.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-30",
+                "loc": "1H 2026 Company Results presentation PDF p. 16, consolidated financial table - EBITDA 1H26",
+                "basis": "consolidated",
+                "note": "As reported by the company (press release of 21 Sep 2026 also states 'EBITDA of US$805 million'); not in the FS."
+            },
+            "ebitda_ytd_prior": {
+                "v": 616.1,
+                "source_url": "https://www.medcoenergi.com/uploads/presentations/526/1H_2026_Company_Results_vFF.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-30",
+                "loc": "1H 2026 Company Results presentation PDF p. 16, consolidated financial table - EBITDA 1H25",
+                "basis": "consolidated",
+                "note": "As reported by the company in the 1H26 deck (EBITDA up 30.7% YoY)."
+            },
+            "profit_ytd": {
+                "v": 275.317,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 20, Profit for the period attributable to equity holders of the parent company, six months to 30 Jun 2026",
+                "basis": "consolidated",
+                "note": "Up ~797% YoY (deck PDF p. 16: 275.3 vs 30.7), driven by higher oil & gas output/prices and the AMMN contribution after its smelter reached full operation."
+            },
+            "profit_ytd_prior": {
+                "v": 30.707,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "PDF p. 20, comparative column six months to 30 Jun 2025 (unaudited)",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 2317.823,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 17, Total equity attributable to the equity holders of the parent company, 30 Jun 2026",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 24726935674,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 17, Capital stock - issued 25,136,231,252 shares less treasury shares 409,295,578 (30 Jun 2026)",
+                "share_basis": "2026-09-21",
+                "note": "25,136,231,252 issued less 409,295,578 treasury shares."
+            },
+            "total_assets": {
+                "v": 9033.307,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 15, JUMLAH ASET / TOTAL ASSETS, 30 Jun 2026",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 1326.519,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 15, Kas dan setara kas / Cash and cash equivalents, 30 Jun 2026",
+                "basis": "consolidated",
+                "note": "Excludes restricted cash; the press release's US$1,402 million includes restricted cash in banks."
+            },
+            "total_debt": {
+                "v": 4128.391,
+                "source_url": "https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "PDF p. 16, short-term bank loans, current maturities and non-current portions of long-term debt, 30 Jun 2026",
+                "basis": "consolidated",
+                "note": "Sum of the printed borrowing lines (US$): short-term bank loans 75,000,000; current bank loans 222,637,638; current non-bank FI loans 5,546,396; current Rupiah bonds 81,232,915; non-current bank loans 1,794,992,175; non-current non-bank FI loans 136,952,429; non-current Rupiah bonds 504,905,092; non-current US Dollar bonds 1,307,124,345 = 4,128,390,990. Lease liabilities (86,869,346 + 127,644,780) excluded. Matches the press release's 'consolidated debt stood at US$4,128 million'."
+            },
+            "fx_usd_idr": {
+                "v": 17856,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2026-06-30&enddate=2026-06-30",
+                "source_type": "official",
+                "as_of_date": "2026-06-30",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2026-06-30",
+                "basis": "n/a",
+                "note": "Bank Indonesia middle rate (kurs tengah) for 2026-06-30: BI publishes kurs beli 17,766.72 and kurs jual 17,945.28; their mean is 17,856.000, i.e. Rp17,856 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000056' (https://www.medcoenergi.com/uploads/rwocis/533/MEDC_1H26.pdf PDF p. 57); no IDR-per-USD figure is printed in the FS or AR."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2020",
+            "reason": "Rights issue PUT III (7.14bn new shares, ex 2020-09-09) makes FY2020 basic EPS use weighted-average shares after the rights bonus element: (188,975,634) / 22,859,088,270 = (0.008267) (FS2020 Note 40a, PDF p. 255), while shares_out is the year-end 25,070,703,283. The ~9.7% gap is real, not a data error."
+        }
+    ],
+    "research_notes": [
+        "Source policy: revenue, profit, EPS, balance-sheet levels, CFO and capex are from each year's own audited consolidated FS (bilingual, presented in US$, on medcoenergi.com), stored as originally reported in US$ million. Operating profit, EBITDA, ROE and ROA come from the 'Financial Highlights' table of the same year's annual report. Year-end prices come from each AR's share-price table. Dividends come from the AGMS minutes, board interim-dividend notices and the rupiah-rate notices posted on the IR site. FY2022 EPS is the only exception to 'own FS': see the EPS note.",
+        "Name and listing: PT Medco Energi Internasional Tbk (brand 'MedcoEnergi') is the current legal name. No rename was found (AR2025 cover and FS2025). Reporting currency is USD (all FS 2019-1H2026 'Expressed in United States Dollar').",
+        "Restatements: FY2019 was restated in FS2020 after the final Ophir purchase-price allocation. Loss attributable went from (27,347,601) to (38,765,488), total assets from 6,006.5 to 5,997.5 and equity attributable from 1,196.5 to 1,185.0. FS2020 also re-presents 2019 revenue as 1,375.7. FY2020 was restated in FS2021: total assets 5,882.7, equity attributable 1,007.4, loss (192.8). FS2022 re-presented FY2021 revenue to 1,252.1 and SG&A to 161.4 (discontinued operations). Later ARs print the restated figures. This file keeps the originally reported values and gives the restated ones in each datum's note, so year-on-year changes across a restatement boundary are not like-for-like.",
+        "EPS quality: FS2022 Note 40 divided total profit for the year incl. NCI (551,410,338) by weighted shares, giving 0.022055 for 2022 and 0.002497 for 2021. FS2023 corrected 2022 to 0.02123 (530,882,675 / 25,002,151,142), and the corrected figure is stored for FY2022. For FY2021 the original FS2021 figure 0.001875 is kept; it is correctly based on profit attributable. AR2022-AR2025 still print 0.00250 for 2021, and the IR dividend page still prints 0.022055 for 2022.",
+        "Amman Mineral (AMMN): PT Amman Mineral Internasional Tbk is an ASSOCIATE accounted for under the EQUITY METHOD ('Investment in shares', non-current), not consolidated. Effective ownership was 23.13% at end-2020 (FS2020 PDF p. 144; a 10% stake was reclassified to held-for-sale at end-2019 and sold in Feb 2020) and 20.92% at end-2025 (FS2025 Note 14, PDF p. 112), with carrying value US$1,165,511,490. The share of AMMN profit flows through 'Share of net profit of associates and joint venture', below the AR's operating profit and inside profit attributable. AMMN's July-2023 IPO gave MedcoEnergi a US$84m dilution gain (AR2023 PDF p. 23). AMMN results move MEDC's net income a lot: 2023 share US$55m vs US$253m in 2022 (AR2023 PDF p. 23), and the weak 2025 is partly AMMN.",
+        "Corporate actions since 2019-01-01: one rights issue only, PUT III. Ex 2020-09-09, 5:2 at Rp250, 7,141,951,545 new shares. Two related items are NOT corporate-action records: the Series I warrants from the 2017 PUT II (1:1 attached warrants, exercise windows to 11 Dec 2020, 78,197,793 exercised in 2020), and the PMHMETD IV approved by the AGMS of 26 Aug 2021 (up to 12.5bn new shares) but never implemented, as reported to the AGMS of 27 Jul 2022 (agenda 7). There has been no split, reverse split or bonus issue since the 2000 split (AR2025 PDF p. 123 'Historical Listings'). Issued shares have been 25,136,231,252 since end-2020. Treasury shares from buyback programmes (2021-2026) and their re-use for the share-ownership programme change shares_out: 65.5m (2020), 185.8m (2021), 110.9m (2022), 106.7m (2023), 71.5m (2024), 455.6m (2025), 409.3m (Jun 2026).",
+        "Dividends: declared in USD (or, for the 2023/2024 interims and the FY2024 final, in rupiah per share). dps is the rupiah amount per share paid to Indonesian-domiciled holders, set at the BI middle rate on the recording date; holders domiciled abroad were paid in USD. total is the USD amount (US$ million) as approved/stated by the board or AGMS. No dividend for FY2019 (loss of US$27.3m as originally reported) or FY2020 (AGMS 26 Aug 2021). An FY2026 interim of US$30m (ex 2026-11-11) was announced on 2026-11-02; its rupiah dps will only be fixed on 2026-11-13.",
+        "Operating profit and EBITDA: the FS face has no operating-profit line; the stored figure is the AR's 'Operating profit' (gross profit less SG&A). EBITDA is the AR figure; the company publishes no reconciliation, and the AR glossary only expands the acronym. Both figures are restated in later ARs (e.g. FY2020 EBITDA 502.2 in AR2020, 494.5 in AR2021-23, 452.1 in AR2024; FY2021 713.5 vs 667.3). The originally printed values are stored. Interim EBITDA (805.1 / 616.1) is from the 1H26 results deck.",
+        "fx_usd_idr: MedcoEnergi's FS print the closing rate only as 'Rupiah/US$1 0,0000xx' (US$ per rupiah, 6 dp), which is too coarse to invert. The stored value is Bank Indonesia's middle rate (mean of BI's published kurs beli/jual) on the balance-sheet date, which FS Note 2e says is the rate used. Source: BI's public web service. It agrees with the rounded FS figure every year, and with FS2025 Note 45 (Rp362,838m = US$21,620,647, i.e. 16,782; 2024: 16,162).",
+        "total_debt = short-term bank loans + bank loans + loans from non-bank financial institutions + Rupiah bonds + US Dollar bonds + medium-term notes (current and non-current, net of unamortised costs as presented), excluding lease liabilities. It matches the company's 'consolidated debt' (AR2023: US$3,295m for 2023; 1H26 press release: US$4,128m). FY2020 excludes the Sarulla (MGeoPS) project loans held inside liabilities of the held-for-sale disposal group.",
+        "Production: the 'production' datum is MedcoEnergi's net (working-interest) oil & gas production incl. the Oman Karim Small Fields service contract. It comes from the AR 'Net Oil & Gas Production (mboepd)' table: AR2025 for 2021-2025, AR2024 for 2020. Older ARs label series differently (AR2020/AR2021 'Total Oil & Gas Production' excludes Oman: 93.0 for 2020, 86.9 for 2021; AR2022 prints the lifting series 155.2 as 'Total' for 2022). One consistent table was therefore used rather than each year's own AR.",
+        "Interim: 1H2026 audited interim consolidated FS (auditor's report 21 Sep 2026, 5-column format incl. unaudited 1H2025). The 9M2026 FS was not on medcoenergi.com as of 2026-11-03 (the 9M2025 results came out on 2025-11-03, so it is probably imminent). The validator warns on profit YoY (+797%). That growth is real: 1H25 US$30.7m was depressed, and the deck (PDF p. 16) shows 275.3 vs 30.7."
+    ]
+}

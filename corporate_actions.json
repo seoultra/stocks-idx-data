@@ -582,6 +582,18 @@
             "note": "PMHMETD VII (rights issue with free warrants): every 100 shares on the 15 Dec 2022 register received 38 rights; 1 right = 1 new share (nominal Rp100) at Rp150, with 11 free Series VII warrants per 12 new shares (exercise Rp100, 19 Jun 2023 - 18 Dec 2025). Cum regular/negotiated 13 Dec, ex 14 Dec 2022 (cash ex 16 Dec); rights traded/exercised 19-23 Dec 2022; allotment 28 Dec 2022. Up to 4,955,425,905 shares offered, no standby buyer; 2,807,640,227 issued (-> 15,848,234,714; AR2022 PDF p. 23). Schedule and ratio confirmed by KSEI notice KSEI-23453/JKU/1222 of 8 Dec 2022 (https://web.ksei.co.id/Announcement/Files/BVIC_RIGHT_20221215_ID.pdf). Second rights issue between the FY2021 and FY2022 AR closes (204 / 107). Warrant exercises later added 2,571,184,114 shares (2023-2025) - not a corporate-action type here. Not a split."
         },
         {
+            "code": "BYAN",
+            "type": "split",
+            "ratio_old": 1,
+            "ratio_new": 10,
+            "ex_date": "2022-12-02",
+            "source_url": "https://web.ksei.co.id/Announcement/Files/BYAN_MCONV_20221205_ENG.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-11-29",
+            "loc": "KSEI-22755/JKU/1122 (29 Nov 2022) 'Stock Split Exercise Schedule of Share BAYAN RESOURCES Tbk (BYAN)', relaying the issuer's notification: end of old-nominal trading in the regular & negotiated market 01 Dec 2022; start of new-nominal trading 02 Dec 2022; recording date 05 Dec 2022; distribution and cash-market start 06 Dec 2022",
+            "note": "1 old share -> 10 new shares; nominal Rp100 -> Rp10; shares 3,333,333,500 -> 33,333,335,000. Approved by the EGMS of 2022-11-17 (announcement of results, https://www.bayan.com.sg/cfind/source/files/pengumuman-hasil-rupslb-17-nov-2022-final-english.pdf); IDX approval letter S-10001/BEI.PP1/11-2022 of 23 Nov 2022, effective 2 Dec 2022 (FS2025 Note 1, PDF p. 17). AR2022 PDF p. 11: 'On 2 December 2022, the Company carried out ... stock split with a 1:10 ratio'; last old-nominal price Rp94,500, first new-nominal price Rp9,450."
+        },
+        {
             "code": "MAYA",
             "type": "rights",
             "ratio_old": 14,
@@ -635,6 +647,19 @@
             "as_of_date": "2020-06-17",
             "loc": "PDF p. 1 (cover: 'Setiap pemegang 100 (seratus) Saham Lama ... berhak atas 128 (seratus dua puluh delapan) HMETD ... Harga Pelaksanaan sebesar Rp150,-') and PDF p. 2 'INDIKASI JADWAL': 'Tanggal Mulai Perdagangan Saham Tanpa HMETD (Ex-Right) - Pasar Reguler dan Pasar Negosiasi : 25 Juni 2020'",
             "note": "Penawaran Umum Terbatas V (PUT V / PMHMETD V) of PT Bank China Construction Bank Indonesia Tbk: every 100 shares on the 26 Jun 2020 register (16:00 WIB) received 128 rights; 1 right = 1 new share (nominal Rp100) at an exercise price of Rp150. Approved by the EGMS of 11 Oct 2019 (max 32bn shares); OJK effective 16 Jun 2020; cum regular/negotiated market 24 Jun, ex 25 Jun 2020 (cash market cum 26 Jun / ex 29 Jun); rights traded and exercised 30 Jun-13 Jul 2020; standby buyer PT Sinar Mas Multiartha Tbk. 21,288,269,763 new shares issued (16,631,460,751 -> 37,919,730,514; Rp3,193.2bn raised; AR2020 PDF p. 24 'Kronologis Pencatatan Saham', LKT 2020 PDF p. 8; post-PUT shareholder list in the bank's disclosure of 22 Jul 2020, https://www.bankccbi.co.id/news/8). Source is the 'Tambahan informasi dan/atau perbaikan atas Prospektus Ringkas' published 17 Jun 2020 (one body paragraph on PDF p. 3 says 'DPS ... 22 Juni 2020', a typo: the cover, schedule and procedures all say 26 Jun 2020). The exercise price was ABOVE the market (June 2020 closes 113-142, AR2020 PDF p. 23), so the theoretical ex-rights price exceeded the cum price and the rights had no intrinsic value. Not a split: no per-share adjustment factor."
+        },
+        {
+            "code": "MEDC",
+            "type": "rights",
+            "ratio_old": 5,
+            "ratio_new": 2,
+            "price": 250,
+            "ex_date": "2020-09-09",
+            "source_url": "https://www.medcoenergi.com/uploads/bonds/206/medc_rightsprospectus-sep2020.pdf",
+            "source_type": "filing",
+            "as_of_date": "2020-08-31",
+            "loc": "Prospektus PUT III 2020 (final prospectus dated 11 Sep 2020), PDF p. 1 cover schedule (OJK effective 31 Aug 2020; cum-right regular & negotiated market 8 Sep 2020, ex-right 9 Sep 2020; cash market cum 10 / ex 11 Sep; recording date 10 Sep 2020; HMETD trading and exercise 14-18 Sep 2020) and PDF p. 33 (5 old shares -> 2 HMETD, 1 HMETD = 1 new share at Rp250)",
+            "note": "PUT III / PMHMETD III: up to 7,500,000,000 new shares (Rp25 par) at Rp250 (price 250); 7,141,951,545 shares issued, proceeds Rp1,785,487,886,250 (FS2020 Note 1b, PDF p. 19; 43% oversubscribed per AR2020 PDF p. 24). Shares 17,920,454,272 (Q2-2020) -> 25,062,414,682 (Q3-2020) -> 25,136,231,252 after the last Series I warrant exercises (AR2025 PDF p. 122-123). AR share table dates the issue '14 September 2020' (HMETD listing date). No new warrants were attached."
         },
         {
             "code": "MEGA",
@@ -715,6 +740,18 @@
             "loc": "Prospektus PUT II (dated 26 Oct 2020) PDF p. 1 (cover): 'JADWAL' ('Tanggal Mulai Perdagangan Saham tanpa HMETD (Ex-Right) di Pasar Reguler dan Pasar Negosiasi: 9-Nov-2020') and offer terms ('Setiap pemegang 100 (seratus) saham ... berhak atas 62 (enam puluh dua) HMETD')",
             "note": "PUT II / PMHMETD II (Penawaran Umum Terbatas II). Every holder of 100 shares on the 10 Nov 2020 register (16:00 WIB) received 62 rights; 1 right = 1 new share (nominal Rp100) at Rp100 (exercise price). EGMS approval 27 Jul 2020; OJK effective 26 Oct 2020; cum-right regular & negotiated market 6 Nov 2020, ex-right 9 Nov 2020; cash market cum 10 Nov / ex 11 Nov 2020; recording date 10 Nov 2020; rights distribution 11 Nov 2020; rights listed/traded/exercised 12-18 Nov 2020; standby buyer PT Bank Pan Indonesia Tbk; allotment 23 Nov 2020. 14,854,603,468 new shares (23,959,037,851 -> 38,813,641,319; prospectus PDF p. 14), Rp1,485,460,346,762. Panin Bank took up 14,276,230,158 shares incl. the standby portion (ownership 53.70% -> 69.93%), Dubai Islamic Bank only 577,223,971 (parent FS2021 PDF p. 17; prospectus p. 1). KSEI lists the 'Right Distribution (100 PNBS : 62 PNBS-R)' with cum date 10 Nov 2020 / record date 11 Nov 2020 (KSEI's cash-market convention). This is the only split/reverse split/rights/bonus action since 2019: KSEI's corporate-action list for PNBS shows only proxy-voting (GMS) events after it, and the share count is still 38,813,641,319 (KSEI, Nov 2026). Not a split: no per-share adjustment factor.",
             "price": 100
+        },
+        {
+            "code": "PTRO",
+            "type": "split",
+            "ratio_old": 1,
+            "ratio_new": 10,
+            "ex_date": "2025-01-03",
+            "source_url": "https://petrosea.com/wp-content/uploads/2025/03/PTRO_Annual-Report-2024.pdf",
+            "source_type": "filing",
+            "as_of_date": "2024-12-24",
+            "loc": "AR2024 PDF p. 19 (Stock Split box: ratio 1:10, 1,008,605,000 -> 10,086,050,000 shares, nominal Rp50 -> Rp5; EGMS 16 Dec 2024; IDX principle approval S-11477/BEI.PP1/10-2024) and PDF p. 20 (schedule: last regular/negotiated-market trading at the old nominal Thu 2 Jan 2025; first trading at the new nominal Fri 3 Jan 2025; recording date 6 Jan 2025; distribution 7 Jan 2025)",
+            "note": "Stock split 1 old share -> 10 new shares (nominal Rp50 -> Rp5). Approved by the EGMS of 16 Dec 2024 (summary of minutes dated 17 Dec 2024, PDF p. 2: https://petrosea.com/wp-content/uploads/2024/12/PTRO-Ringkasan-Hasil-RUPSLB-16-Desember-2024__Eng.pdf); implementation disclosure 24 Dec 2024. AR2025 PDF p. 32 confirms: 3 Jan 2025 was the first regular-market day at Rp5 nominal; last close at Rp50 nominal on 2 Jan 2025 Rp27,500, first open at Rp5 nominal on 3 Jan 2025 Rp2,820. Cash market had no trading 3-6 Jan 2025. FS2025 calls the split 'effective 7 January 2025' (distribution date). No other split, reverse split, bonus or rights issue had an ex-date from 2019-01-01 to 2026-11-03 (AR2020-AR2025 'corporate actions' sections)."
         }
     ]
 }

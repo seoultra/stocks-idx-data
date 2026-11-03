@@ -1,0 +1,1380 @@
+{
+    "schema": 1,
+    "code": "PTRO",
+    "name": "PT Petrosea Tbk",
+    "name_short": "Petrosea",
+    "sector": "energy",
+    "subsector": "services",
+    "currency": "USD",
+    "exchange": "IDX",
+    "website": "https://petrosea.com",
+    "ir_url": "https://petrosea.com/investor/",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 476.441,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 246, consolidated statement of profit or loss, 2019 column - PENDAPATAN / REVENUES",
+                "basis": "consolidated",
+                "note": "FY2019 comparative column of the audited FY2020 consolidated FS reproduced in AR2020 (US$ '000 / 1,000). PSAK 73 (leases) was adopted on 1 Jan 2020 without restating 2019."
+            },
+            "net_profit_attr": {
+                "v": 31.175,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 246, 2019 column - profit attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "FY2019 comparative column of the audited FY2020 consolidated FS reproduced in AR2020 (US$ '000 / 1,000). PSAK 73 (leases) was adopted on 1 Jan 2020 without restating 2019."
+            },
+            "total_assets": {
+                "v": 551.044,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 244, statement of financial position, 2019 column - TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "FY2019 comparative column of the audited FY2020 consolidated FS reproduced in AR2020 (US$ '000 / 1,000). PSAK 73 (leases) was adopted on 1 Jan 2020 without restating 2019."
+            },
+            "cash": {
+                "v": 84.182,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 244, 2019 column - Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "FY2019 comparative column of the audited FY2020 consolidated FS reproduced in AR2020 (US$ '000 / 1,000). PSAK 73 (leases) was adopted on 1 Jan 2020 without restating 2019."
+            },
+            "total_debt": {
+                "v": 168.373,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 245, statement of financial position, 2019 column - sum of interest-bearing borrowings",
+                "basis": "consolidated",
+                "note": "FY2019 comparative column of the audited FY2020 consolidated FS reproduced in AR2020 (US$ '000 / 1,000). PSAK 73 (leases) was adopted on 1 Jan 2020 without restating 2019. Sum of printed lines (US$ '000): long-term loans - related party, current 1,171; long-term loans - related party, non-current 40,363; long-term loans - third parties, current 41,629; long-term loans - third parties, non-current 85,210. No bank loans at 31 Dec 2019. Excludes finance lease liabilities (current 11,236; non-current 25,677)."
+            },
+            "equity_attr": {
+                "v": 211.935,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 245, 2019 column - Equity attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "FY2019 comparative column of the audited FY2020 consolidated FS reproduced in AR2020 (US$ '000 / 1,000). PSAK 73 (leases) was adopted on 1 Jan 2020 without restating 2019."
+            },
+            "total_equity": {
+                "v": 212.563,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "AR2020 PDF p. 245, 2019 column - Total Equity",
+                "basis": "consolidated",
+                "note": "FY2019 comparative column of the audited FY2020 consolidated FS reproduced in AR2020 (US$ '000 / 1,000). PSAK 73 (leases) was adopted on 1 Jan 2020 without restating 2019."
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 340.688,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 246, consolidated statement of profit or loss - PENDAPATAN / REVENUES",
+                "basis": "consolidated",
+                "note": "Audited FY2020 consolidated FS reproduced in AR2020 (auditor's report AR2020 PDF p. 242), US$ '000 / 1,000 = USD million."
+            },
+            "gross_profit": {
+                "v": 74.866,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 246, consolidated statement of profit or loss - LABA KOTOR / GROSS PROFIT",
+                "basis": "consolidated",
+                "note": "Audited FY2020 consolidated FS reproduced in AR2020 (auditor's report AR2020 PDF p. 242), US$ '000 / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "Not reported: AR2020 mentions EBITDA only in strategy text and a 'Debt to EBITDA 3.5x' covenant (PDF pp. 88, 190); the FS have no EBITDA line."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "The consolidated statement of profit or loss has no operating-profit (laba usaha) line: it runs revenue - direct costs = gross profit, then selling/administration, interest, final tax and other gains/losses down to profit before tax. Not computed. Gross profit is stored instead. AR2020 highlights (PDF p. 12) print a non-FS 'Laba Operasi / Operating Profit' of 47.70 (USD mn) without a definition; not stored."
+            },
+            "net_profit_attr": {
+                "v": 32.279,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 246, profit attributable to: Pemilik Entitas Induk / Owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited FY2020 consolidated FS reproduced in AR2020 (auditor's report AR2020 PDF p. 242), US$ '000 / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 0.0323,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 246, Laba per saham dasar / Basic earnings per share (in full US$)",
+                "basis": "consolidated",
+                "share_basis": "2020-12-31",
+                "note": "US$ per share as printed; weighted average 1,000,591,292 shares (FS2021 PDF p. 88) because of the Jun-Sep 2020 buyback."
+            },
+            "payout_ratio": {
+                "v": 24.78,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-04-30",
+                "loc": "AR2025 PDF p. 161, dividend table: 2020 - US$8,000,000 - Rp115,27 - payout 24.78%** (**'Penghitungan kembali / Restatement')",
+                "basis": "consolidated",
+                "note": "AR2025 restates the FY2020 payout to 24.78% (= 8.000 / FY2020 profit attributable 32.279). Earlier reports printed 27.09% (AR2021 PDF p. 14; AR2023 p. 16; AR2024 p. 20) - the restated figure is stored because it matches the dividend and profit; flagged for review."
+            },
+            "total_assets": {
+                "v": 529.688,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 244, statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Audited FY2020 consolidated FS reproduced in AR2020 (auditor's report AR2020 PDF p. 242), US$ '000 / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 298.248,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 245, statement of financial position - Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated",
+                "note": "Audited FY2020 consolidated FS reproduced in AR2020 (auditor's report AR2020 PDF p. 242), US$ '000 / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 133.945,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 244, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Audited FY2020 consolidated FS reproduced in AR2020 (auditor's report AR2020 PDF p. 242), US$ '000 / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": 157.359,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 245, statement of financial position - sum of interest-bearing borrowings",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (US$ '000): bank loans (current) 20,041; long-term loans - third parties, current 42,995; long-term loans - third parties, non-current 94,323. Excludes lease liabilities (current 15,583; non-current 28,948)."
+            },
+            "equity_attr": {
+                "v": 230.773,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 245, Ekuitas yang dapat diatribusikan kepada pemilik Entitas Induk / Equity attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited FY2020 consolidated FS reproduced in AR2020 (auditor's report AR2020 PDF p. 242), US$ '000 / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 231.44,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 245, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated",
+                "note": "Audited FY2020 consolidated FS reproduced in AR2020 (auditor's report AR2020 PDF p. 242), US$ '000 / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 991664500,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 59 (share listing chronology: buyback 11 Jun-8 Sep 2020 of 16,940,500 treasury shares, outstanding shares become 991,664,500); FS2021 PDF p. 15 repeats '(2020: 991.664.500)'",
+                "share_basis": "2020-12-31",
+                "note": "1,008,605,000 issued less 16,940,500 treasury shares. EPS uses the weighted average 1,000,591,292 (FS2021 PDF p. 88)."
+            },
+            "year_end_price": {
+                "v": 1930,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 13, share price table - 2020 TW4/4Q closing; same in AR2021 PDF p. 13",
+                "share_basis": "2020-12-31",
+                "note": "Q4 closing price from the AR share table; exact trading date not printed, as_of_date set to FY end."
+            },
+            "cfo": {
+                "v": 107.463,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 248, statement of cash flows - Kas Bersih Diperoleh dari Aktivitas Operasi / Net Cash Provided by Operating Activities",
+                "basis": "consolidated",
+                "note": "Audited FY2020 consolidated FS reproduced in AR2020 (auditor's report AR2020 PDF p. 242), US$ '000 / 1,000 = USD million."
+            },
+            "capex": {
+                "v": 29.993,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 248, statement of cash flows - investing activities",
+                "basis": "consolidated",
+                "note": "Positive sum of printed investing outflows (US$ '000): Acquisitions of property, plant and equipment 29,993. No mining-property line. Excluded: intangible assets (8,111). AR2020 PDF p. 12 prints 'Capital expenditure' 29.99 (USD mn) = this line."
+            },
+            "fx_usd_idr": {
+                "v": 14104,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 (audited FS2020 inside the AR) PDF p. 369, note on conversion rates used by the Group: 'Rupiah (Rp) 1.000 = US$ 0,0709' at 31 Dec 2020",
+                "basis": "n/a",
+                "note": "The FS print the closing rate only as US$ per Rp1,000 (0.0709), to 4 decimals. Stored value = 1,000 / 0.0709 = 14,104.4, rounded to whole rupiah; because of the printed rounding the true rate lies within about +/-0.08% (14,094-14,114)."
+            },
+            "roe": {
+                "v": 14.04,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/PTRO_Annual-Report-2022_.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2022 PDF p. 13, financial ratio table (2020 column): ROE 14.04% / ROA 6.14%; same in AR2020 PDF p. 12",
+                "basis": "consolidated",
+                "note": "As reported: net profit for the year (incl. non-controlling interests) / total equity at year end (e.g. 2025: 35.006 / 307.458 = 11.39%)."
+            },
+            "roa": {
+                "v": 6.14,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/PTRO_Annual-Report-2022_.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2022 PDF p. 13, financial ratio table (2020 column): ROE 14.04% / ROA 6.14%; same in AR2020 PDF p. 12",
+                "basis": "consolidated",
+                "note": "As reported: net profit for the year (incl. non-controlling interests) / total assets at year end."
+            },
+            "production": {
+                "v": 26.79,
+                "source_url": "https://petrosea.com/wp-content/uploads/2021/04/PTRO_Annual_Report-2020.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "AR2020 PDF p. 7, highlights: '94.32 million BCM total overburden removal volume and 26.79 million tons coal production'",
+                "unit": "Mt coal mined for clients (contract mining services)",
+                "note": "Coal production under Petrosea's mining-services contracts (clients' coal, not Petrosea-owned output) as printed in the AR. Scope can change with the contract portfolio; it excludes the coal Petrosea sells from its own CEP concession (AR2025 p. 15 shows 'CEP Coal Production' 1,193.85 thousand tons separately)."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 415.737,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 8, consolidated statement of profit or loss - PENDAPATAN / REVENUES",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "gross_profit": {
+                "v": 74.562,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 8, consolidated statement of profit or loss - LABA KOTOR / GROSS PROFIT",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "Not reported: AR2021 mentions EBITDA only as a strategy target (PDF pp. 92, 146); the FS have no EBITDA line."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "The consolidated statement of profit or loss has no operating-profit (laba usaha) line: it runs revenue - direct costs = gross profit, then selling/administration, interest, final tax and other gains/losses down to profit before tax. Not computed. Gross profit is stored instead."
+            },
+            "net_profit_attr": {
+                "v": 33.714,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 8, profit attributable to: Pemilik Entitas Induk / Owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 0.034,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 8, Laba per saham dasar / Basic earnings per share (in full US$)",
+                "basis": "consolidated",
+                "share_basis": "2021-12-31",
+                "note": "US$ per share as printed (4 decimals); pre-split basis (Rp50 nominal), share_basis = FY end."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/04/PTRO-Summary-of-Minutes-AGMS.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-04-21",
+                "loc": "Summary of Minutes of AGMS 21 Apr 2022, PDF p. 3, Resolution of Third Agenda: 'Not distributing dividends to Shareholders and approving the use of the Company's net profit for the 2021 financial year fully to strengthen the Company's capital and reserve funds'",
+                "basis": "consolidated",
+                "note": "No dividend from FY2021 profit. AR2025 p. 161 dividend table shows '-' for 2021."
+            },
+            "total_assets": {
+                "v": 532.736,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 6, statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 272.513,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 7, statement of financial position - Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 89.325,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 6, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": 103.031,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 7, statement of financial position - sum of interest-bearing borrowings",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (US$ '000): long-term loans - third parties, current 52,054; long-term loans - third parties, non-current 50,977. Excludes lease liabilities (current 11,913; non-current 20,874). No bank loans at 31 Dec 2021."
+            },
+            "equity_attr": {
+                "v": 259.492,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 7, Ekuitas yang dapat diatribusikan kepada pemilik Entitas Induk / Equity attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 260.223,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 7, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 991664500,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 15 (Note 1: 991,664,500 shares listed) and PDF p. 88 (EPS note: weighted average outstanding ordinary shares 2021: 991,664,500; 2020: 1,000,591,292)",
+                "share_basis": "2021-12-31",
+                "note": "1,008,605,000 issued less 16,940,500 treasury shares."
+            },
+            "year_end_price": {
+                "v": 2170,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/04/PTRO_Annual-Report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 13, share price table - 2021 TW4/4Q closing; same in AR2022 PDF p. 14 table",
+                "share_basis": "2021-12-31",
+                "note": "Q4 closing price from the AR share table; exact trading date not printed, as_of_date set to FY end. AR2022 PDF p. 14 narrative says the Q4-2021 close was 'Rp2,150', conflicting with both AR tables (2,170); the table value is stored."
+            },
+            "cfo": {
+                "v": 109.637,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 10, statement of cash flows - Kas Bersih Diperoleh dari Aktivitas Operasi / Net Cash Provided by Operating Activities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "capex": {
+                "v": 42.045,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 10, statement of cash flows - investing activities",
+                "basis": "consolidated",
+                "note": "Positive sum of printed investing outflows (US$ '000): Acquisitions of property, plant and equipment 42,045. No mining-property line. Excluded: intangible assets (11,603), placement in other financial assets (23,937)."
+            },
+            "fx_usd_idr": {
+                "v": 14265,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/03/Financial-Statements-31122021-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS2021 PDF p. 111, note on conversion rates used by the Group: 'Rupiah (Rp) 1.000 = US$ 0,0701' at 31 Dec 2021",
+                "basis": "n/a",
+                "note": "The FS print the closing rate only as US$ per Rp1,000 (0.0701), to 4 decimals. Stored value = 1,000 / 0.0701 = 14,265.3, rounded to whole rupiah; because of the printed rounding the true rate lies within about +/-0.08% (14,255-14,276)."
+            },
+            "roe": {
+                "v": 13.05,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/PTRO_Annual-Report-2022_.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 13, financial ratio table (2021 column): ROE 13.05% / ROA 6.37%; same in AR2021 PDF p. 12",
+                "basis": "consolidated",
+                "note": "As reported: net profit for the year (incl. non-controlling interests) / total equity at year end (e.g. 2025: 35.006 / 307.458 = 11.39%)."
+            },
+            "roa": {
+                "v": 6.37,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/PTRO_Annual-Report-2022_.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2022 PDF p. 13, financial ratio table (2021 column): ROE 13.05% / ROA 6.37%; same in AR2021 PDF p. 12",
+                "basis": "consolidated",
+                "note": "As reported: net profit for the year (incl. non-controlling interests) / total assets at year end."
+            },
+            "production": {
+                "v": 31.77,
+                "source_url": "https://petrosea.com/wp-content/uploads/2022/04/PTRO_Annual-Report-2021.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "AR2021 PDF p. 73, MD&A text: 'increase in coal production of 18.59% from 26.79 million tons to 31.77 million tons'",
+                "unit": "Mt coal mined for clients (contract mining services)",
+                "note": "Coal production under Petrosea's mining-services contracts (clients' coal, not Petrosea-owned output) as printed in the AR. Scope can change with the contract portfolio; it excludes the coal Petrosea sells from its own CEP concession (AR2025 p. 15 shows 'CEP Coal Production' 1,193.85 thousand tons separately)."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 476.317,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 12, consolidated statement of profit or loss - PENDAPATAN / REVENUES",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "gross_profit": {
+                "v": 95.494,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 12, consolidated statement of profit or loss - LABA KOTOR / GROSS PROFIT",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "Not reported as an amount (AR2022 mentions EBITDA only qualitatively). The 2024 bond prospectus ratio table (PDF p. 29) prints only 'Margin EBITDA' 26.33% for 2022. Not computed."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "The consolidated statement of profit or loss has no operating-profit (laba usaha) line: it runs revenue - direct costs = gross profit, then selling/administration, interest, final tax and other gains/losses down to profit before tax. Not computed. Gross profit is stored instead."
+            },
+            "net_profit_attr": {
+                "v": 40.924,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 12, profit attributable to: Pemilik Entitas Induk / Owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 0.0413,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 12, Laba per saham dasar / Basic earnings per share (in full US$)",
+                "basis": "consolidated",
+                "share_basis": "2022-12-31",
+                "note": "US$ per share as printed (4 decimals); pre-split basis (Rp50 nominal), share_basis = FY end."
+            },
+            "payout_ratio": {
+                "v": 50.3,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-05-15",
+                "loc": "AR2025 PDF p. 161, dividend table: 2022 - US$76,000,000 - Rp1.145,90 - payout 50.30%* (*based on FY2022 profit attributable); same in AR2023 PDF p. 16",
+                "basis": "consolidated",
+                "note": "As printed. The ratio covers only the part paid out of FY2022 profit: the EAGMS of 15 May 2023 approved US$76.0m = US$20,583,000 of FY2022 profit attributable (50.30% of 40.924) + US$55,417,000 of retained earnings (summary PDF p. 4). See validation_ack payout_total:2022."
+            },
+            "total_assets": {
+                "v": 596.42,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 10, statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 298.429,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 11, statement of financial position - Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 61.76,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 10, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": 89.268,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 11, statement of financial position - sum of interest-bearing borrowings",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (US$ '000): bank loans (current) 45,146; long-term loans - third parties, current 15,807; long-term loans - third parties, non-current 28,315. Excludes lease liabilities (current 10,345; non-current 16,113)."
+            },
+            "equity_attr": {
+                "v": 297.209,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 11, Ekuitas yang dapat diatribusikan kepada pemilik Entitas Induk / Equity attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 297.991,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 11, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 991664500,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 19 (Note 1: 991,664,500 shares listed on IDX after 16,940,500-share buyback, Note 25) and PDF p. 98 (EPS note: outstanding ordinary shares 991,664,500)",
+                "share_basis": "2022-12-31",
+                "note": "1,008,605,000 issued less 16,940,500 treasury shares."
+            },
+            "year_end_price": {
+                "v": 4330,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/PTRO_Annual-Report-2022_.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 14, 2022 Share Information table - 2022 TW4/4Q closing; same in AR2023 PDF p. 15",
+                "share_basis": "2022-12-31",
+                "note": "Q4 closing price from the AR share table; exact trading date not printed, as_of_date set to FY end."
+            },
+            "cfo": {
+                "v": 97.247,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 14, statement of cash flows - Kas Bersih Diperoleh dari Aktivitas Operasi / Net Cash Provided by Operating Activities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million. As originally reported in FS2022. FS2023 (PDF p. 15) re-presents FY2022 CFO as 89,408 (sale-and-leaseback proceeds 7,839 moved to financing)."
+            },
+            "capex": {
+                "v": 54.496,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 14, statement of cash flows - investing activities",
+                "basis": "consolidated",
+                "note": "Positive sum of printed investing outflows (US$ '000): Acquisitions of property, plant and equipment 54,496. No mining-property line. Excluded: intangible assets (5,120), long-term receivable provided (54,969), investment in associate (574)."
+            },
+            "fx_usd_idr": {
+                "v": 15723,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/Financial-Statements-31122022-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS2022 PDF p. 127, note on conversion rates used by the Group: 'Rupiah (Rp) 1.000 = US$ 0,0636' at 31 Dec 2022",
+                "basis": "n/a",
+                "note": "The FS print the closing rate only as US$ per Rp1,000 (0.0636), to 4 decimals. Stored value = 1,000 / 0.0636 = 15,723.3, rounded to whole rupiah; because of the printed rounding the true rate lies within about +/-0.08% (15,711-15,736)."
+            },
+            "roe": {
+                "v": 13.82,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/PTRO_Annual-Report-2022_.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, financial ratio table: Return On Equity 13.82% / Return On Assets 6.90%",
+                "basis": "consolidated",
+                "note": "As reported in the AR ratio table (net profit for the year / total equity at year end: 41.166 / 297.991 = 13.81%; AR2022 prints 13.82%, the 2024 bond prospectus 13.81%)."
+            },
+            "roa": {
+                "v": 6.9,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/PTRO_Annual-Report-2022_.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, financial ratio table: Return On Equity 13.82% / Return On Assets 6.90%",
+                "basis": "consolidated",
+                "note": "As reported (net profit for the year / total assets at year end)."
+            },
+            "production": {
+                "v": 19.23,
+                "source_url": "https://petrosea.com/wp-content/uploads/2023/04/PTRO_Annual-Report-2022_.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 PDF p. 13, MD&A text: 'coal production which amounted to 19.23 million tons in 2022'",
+                "unit": "Mt coal mined for clients (contract mining services)",
+                "note": "Coal production under Petrosea's mining-services contracts (clients' coal, not Petrosea-owned output) as printed in the AR. Scope can change with the contract portfolio; it excludes the coal Petrosea sells from its own CEP concession (AR2025 p. 15 shows 'CEP Coal Production' 1,193.85 thousand tons separately)."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 577.617,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 13, consolidated statement of profit or loss - PENDAPATAN / REVENUES",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "gross_profit": {
+                "v": 82.107,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 13, consolidated statement of profit or loss - LABA KOTOR / GROSS PROFIT",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": null,
+                "note": "Not reported as an amount: AR2023 mentions EBITDA only qualitatively; AR2024 gives only the 2024 change (-1.06%). The 2024 bond prospectus (PDF p. 29, ratio table) and the 2025 Informasi Tambahan print only 'Margin EBITDA' 18.59% for 2023 (Adjusted EBITDA / revenue). Not computed from the margin."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "The consolidated statement of profit or loss has no operating-profit (laba usaha) line: it runs revenue - direct costs = gross profit, then selling/administration, interest, final tax and other gains/losses down to profit before tax. Not computed. Gross profit is stored instead."
+            },
+            "net_profit_attr": {
+                "v": 12.2,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 13, profit attributable to: Pemilik Entitas Induk / Owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 0.0123,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 13, Laba per saham dasar / Basic earnings per share (in full US$)",
+                "basis": "consolidated",
+                "share_basis": "2023-12-31",
+                "note": "US$ per share as printed (4 decimals); pre-split basis (Rp50 nominal), share_basis = FY end."
+            },
+            "payout_ratio": {
+                "v": 25,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-04-29",
+                "loc": "AR2025 PDF p. 161, dividend table: 2023 - US$3,050,000 - Rp49.5418 - payout 25%; same in AR2024 PDF p. 20",
+                "basis": "consolidated",
+                "note": "US$3.05m / FY2023 profit attributable US$12.20m = 25%."
+            },
+            "total_assets": {
+                "v": 727.945,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 11, statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 492.315,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 12, statement of financial position - Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 72.987,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 11, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million. Restricted cash in banks is a separate line (not included)."
+            },
+            "total_debt": {
+                "v": 224.322,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 12, statement of financial position - sum of interest-bearing borrowings",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (US$ '000): bank loans (current) 37,127; long-term loans - third parties, current 38,539; long-term loans - third parties, non-current 148,656. Excludes lease liabilities (current 11,281; non-current 15,138)."
+            },
+            "equity_attr": {
+                "v": 234.785,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 12, Ekuitas yang dapat diatribusikan kepada pemilik Entitas Induk / Equity attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 235.63,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 12, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 991664500,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 89 (Note 25 share capital: 'Jumlah saham beredar / Total shares outstanding 991.664.500'; treasury shares 16,940,500)",
+                "share_basis": "2023-12-31",
+                "note": "1,008,605,000 issued less 16,940,500 treasury shares (bought back 11 Jun-8 Sep 2020)."
+            },
+            "year_end_price": {
+                "v": 5250,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/09/PTRO_Annual-Report-2023-_.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 15, Information on Shares 2023 table - 2023 TW4/4Q closing; same in AR2024 PDF p. 19",
+                "share_basis": "2023-12-31",
+                "note": "Q4 closing price from the AR share table; exact trading date not printed, as_of_date set to FY end."
+            },
+            "cfo": {
+                "v": 107.766,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 15, statement of cash flows - Kas Bersih Diperoleh dari Aktivitas Operasi / Net Cash Provided by Operating Activities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million. The 2024 bond prospectus shows the same 107,766."
+            },
+            "capex": {
+                "v": 62.11,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 15, statement of cash flows - investing activities",
+                "basis": "consolidated",
+                "note": "Positive sum of printed investing outflows (US$ '000): Acquisitions of property, plant and equipment 62,110. No mining-property line in 2023. Excluded: acquisition of a subsidiary net of cash (90,542), intangible assets (3,954), investment in associate (2,316)."
+            },
+            "fx_usd_idr": {
+                "v": 15408,
+                "source_url": "https://petrosea.com/wp-content/uploads/2024/03/Financial-Statements-31122023-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "FS2023 PDF p. 116, note on conversion rates used by the Group: 'Rupiah (Rp) 1.000 = US$ 0,0649' at 31 Dec 2023",
+                "basis": "n/a",
+                "note": "The FS print the closing rate only as US$ per Rp1,000 (0.0649), to 4 decimals. Stored value = 1,000 / 0.0649 = 15,408.3, rounded to whole rupiah; because of the printed rounding the true rate lies within about +/-0.08% (15,396-15,420)."
+            },
+            "roe": {
+                "v": 5.28,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 17, Financial Ratio table (2023 column): ROE 5.28 / ROA 1.71 (%)",
+                "basis": "consolidated",
+                "note": "As reported: net profit for the year (incl. non-controlling interests) / total equity at year end (e.g. 2025: 35.006 / 307.458 = 11.39%)."
+            },
+            "roa": {
+                "v": 1.71,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 17, Financial Ratio table (2023 column): ROE 5.28 / ROA 1.71 (%)",
+                "basis": "consolidated",
+                "note": "As reported: net profit for the year (incl. non-controlling interests) / total assets at year end."
+            },
+            "production": {
+                "v": 17.07,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 15, Coal Production from Mining Services, 2023 comparative 17.07 million tons",
+                "unit": "Mt coal mined for clients (contract mining services)",
+                "note": "Coal production under Petrosea's mining-services contracts (clients' coal, not Petrosea-owned output) as printed in the AR. Scope can change with the contract portfolio; it excludes the coal Petrosea sells from its own CEP concession (AR2025 p. 15 shows 'CEP Coal Production' 1,193.85 thousand tons separately)."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 690.811,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 13, consolidated statement of profit or loss - PENDAPATAN / REVENUES",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "gross_profit": {
+                "v": 90.289,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 13, consolidated statement of profit or loss - LABA KOTOR / GROSS PROFIT",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": 106.22,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/PTRO_Annual-Report-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 29, Board of Directors' report: 'EBITDA decreased by 1.06% to US$106.22 million in 2024'",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it (no reconciliation in the AR). Definition in the Mar-2025 Informasi Tambahan Ringkas (PDF pp. 16-17): Adjusted EBITDA = gross profit - selling & administration expenses + depreciation & amortisation; that document's 2024 'Margin EBITDA' 15.38% is consistent with 106.22 / revenue 690.81."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "The consolidated statement of profit or loss has no operating-profit (laba usaha) line: it runs revenue - direct costs = gross profit, then selling/administration, interest, final tax and other gains/losses down to profit before tax. Not computed. Gross profit is stored instead."
+            },
+            "net_profit_attr": {
+                "v": 9.699,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 13, profit attributable to: Pemilik Entitas Induk / Owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 0.0097,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 13, Laba per saham dasar / Basic earnings per share (in full US$)",
+                "basis": "consolidated",
+                "share_basis": "2024-12-31",
+                "note": "US$ per share as printed in FS2024, on the PRE-split share count (1,008,605,000 weighted); share_basis = FY end so the adjuster divides by 10. FS2025 (PDF p. 14) re-presents FY2024 EPS on the post-split basis as US$0.0010."
+            },
+            "payout_ratio": {
+                "v": 97.46,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-04-21",
+                "loc": "AR2025 PDF p. 161, dividend table (last five fiscal years): 2024 - US$10,000,000 - Rp16.359 - payout 97.46%",
+                "basis": "consolidated",
+                "note": "As printed. The EAGMS of 21 Apr 2025 (summary PDF p. 4) paid US$10.0m = US$9,699,000 of FY2024 profit attributable + US$301,000 of retained earnings; 97.46% equals 9.699 / 9.952 (net profit for the year incl. NCI), i.e. the AR's ratio covers only the FY2024-profit portion. See validation_ack payout_total:2024."
+            },
+            "total_assets": {
+                "v": 867.265,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 11, statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 617.515,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 12, statement of financial position - Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 114.921,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 11, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million. Restricted cash in banks is a separate line (not included)."
+            },
+            "total_debt": {
+                "v": 376.984,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 12, statement of financial position - sum of interest-bearing borrowings",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (US$ '000): bank loans (current) 34,121; long-term loans - third parties, current 13,790; long-term loans - third parties, non-current 236,776; bonds payable, current 3,175; bonds payable, non-current 58,396; sukuk ijarah payable, current 2,172; sukuk ijarah payable, non-current 28,554. Excludes lease liabilities (current 7,741; non-current 12,960). Sukuk ijarah (Islamic bond) is included as a bond-like borrowing."
+            },
+            "equity_attr": {
+                "v": 248.871,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 12, Ekuitas yang dapat diatribusikan kepada pemilik Entitas Induk / Equity attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 249.75,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 12, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 1008605000,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 12 (equity: 1,008,605,000 shares issued) and PDF p. 98 (Note 27: treasury shares as of 31 Dec 2024 are nil; 16,940,500 treasury shares transferred to the public 15 May-4 Jun 2024)",
+                "share_basis": "2024-12-31",
+                "note": "Pre-split count as of 31 Dec 2024 (the 1:10 split went ex on 3 Jan 2025); the adjuster multiplies by 10. FS2025 PDF p. 13 also prints '(31 Desember 2024: 1.008.605.000 saham)'."
+            },
+            "year_end_price": {
+                "v": 27625,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/PTRO_Annual-Report-2024.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 19, share price table 2024 - TW4/4Q closing; AR2025 PDF p. 31 prints the same 2024 Q4 close (27,625) unadjusted",
+                "share_basis": "2024-12-31",
+                "note": "Q4 closing price from the AR share table; exact trading date not printed, as_of_date set to FY end. Pre-split price (Rp50 nominal): the 1:10 split went ex on 3 Jan 2025, so share_basis is the FY end and the adjuster divides by 10. AR2025 PDF p. 32: last close at the old nominal on 2 Jan 2025 was Rp27,500 and the first open at Rp5 nominal on 3 Jan 2025 was Rp2,820."
+            },
+            "cfo": {
+                "v": 27.936,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 15, statement of cash flows - Kas Bersih Diperoleh dari Aktivitas Operasi / Net Cash Provided by Operating Activities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "capex": {
+                "v": 121.76,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 15, statement of cash flows - investing activities",
+                "basis": "consolidated",
+                "note": "Positive sum of printed investing outflows (US$ '000): Acquisitions of property, plant and equipment 117,634; Payment for exploration and evaluation assets and mining properties 4,126. Excluded: intangible assets (1,418), restricted cash (3,696), other financial assets (2,680)."
+            },
+            "fx_usd_idr": {
+                "v": 16155,
+                "source_url": "https://petrosea.com/wp-content/uploads/2025/03/Financial-Statements-31122024-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "FS2024 PDF p. 128, note on conversion rates used by the Group: 'Rupiah (Rp) 1.000 = US$ 0,0619' at 31 Dec 2024",
+                "basis": "n/a",
+                "note": "The FS print the closing rate only as US$ per Rp1,000 (0.0619), to 4 decimals. Stored value = 1,000 / 0.0619 = 16,155.1, rounded to whole rupiah; because of the printed rounding the true rate lies within about +/-0.08% (16,142-16,168)."
+            },
+            "roe": {
+                "v": 3.98,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 17, Financial Ratio table (2024 column): ROE 3.98 / ROA 1.15 (%); same in AR2024 PDF p. 18",
+                "basis": "consolidated",
+                "note": "As reported: net profit for the year (incl. non-controlling interests) / total equity at year end (e.g. 2025: 35.006 / 307.458 = 11.39%)."
+            },
+            "roa": {
+                "v": 1.15,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 17, Financial Ratio table (2024 column): ROE 3.98 / ROA 1.15 (%); same in AR2024 PDF p. 18",
+                "basis": "consolidated",
+                "note": "As reported: net profit for the year (incl. non-controlling interests) / total assets at year end."
+            },
+            "production": {
+                "v": 17.99,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 15, Coal Production from Mining Services, 2024 comparative 17.99 million tons",
+                "unit": "Mt coal mined for clients (contract mining services)",
+                "note": "Coal production under Petrosea's mining-services contracts (clients' coal, not Petrosea-owned output) as printed in the AR. Scope can change with the contract portfolio; it excludes the coal Petrosea sells from its own CEP concession (AR2025 p. 15 shows 'CEP Coal Production' 1,193.85 thousand tons separately)."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 886.459,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 14, consolidated statement of profit or loss - PENDAPATAN / REVENUES",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "gross_profit": {
+                "v": 112.225,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 14, consolidated statement of profit or loss - LABA KOTOR / GROSS PROFIT",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": 172.63,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 56, Board of Directors' report: 'by an 62.53% increase in EBITDA to US$172.63 million in 2025'",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it (USD million, rounded to 2 decimals in the AR text). The AR prints no definition or reconciliation; the company's bond/sukuk offering documents define it as 'Adjusted EBITDA = gross profit - selling & administration expenses + depreciation & amortisation' (Informasi Tambahan Ringkas 2025, PDF pp. 16-17). Not recomputed."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "The consolidated statement of profit or loss has no operating-profit (laba usaha) line: it runs revenue - direct costs = gross profit, then selling/administration, interest, final tax and other gains/losses down to profit before tax. Not computed. Gross profit is stored instead."
+            },
+            "net_profit_attr": {
+                "v": 28.808,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 14, profit attributable to: Pemilik Entitas Induk / Owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 0.0029,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 14, Laba per saham dasar / Basic earnings per share (in full US$)",
+                "basis": "consolidated",
+                "share_basis": "2025-12-31",
+                "note": "US$ per share, post-split basis (FS footnote: calculated on the number of shares after the stock split effective 7 Jan 2025). Printed to 4 decimals."
+            },
+            "payout_ratio": {
+                "v": 0,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/04/PTRO-Smmry-Rslt-AGMS-090426.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-04-09",
+                "loc": "Summary of AGMS 9 Apr 2026, PDF p. 3, Resolution of the Third Agenda: 'the entire net profit of the Company for the Financial Year 2025 be retained as retained earnings'",
+                "basis": "consolidated",
+                "note": "No dividend from FY2025 profit (AGMS 9 Apr 2026). The investor page dividend table also shows '-' for 2025."
+            },
+            "total_assets": {
+                "v": 1582.883,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 12, statement of financial position - JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 1275.425,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 13, statement of financial position - Jumlah Liabilitas / Total Liabilities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 72.032,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 12, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million. Restricted cash in banks is a separate line (not included)."
+            },
+            "total_debt": {
+                "v": 812.026,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 13, statement of financial position - sum of interest-bearing borrowings",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (US$ '000): bank loans (current) 33,572; long-term loans - third parties, current 47,871; long-term loans - third parties, non-current 557,210; bonds payable, current 400; bonds payable, non-current 115,540; sukuk ijarah payable, current 194; sukuk ijarah payable, non-current 57,239. Excludes lease liabilities (current 13,412; non-current 24,116). Sukuk ijarah (Islamic bond) is included as a bond-like borrowing."
+            },
+            "equity_attr": {
+                "v": 262.523,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 13, Ekuitas yang dapat diatribusikan kepada pemilik Entitas Induk / Equity attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 307.458,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 13, Jumlah Ekuitas / Total Equity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 10086050000,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 13 (equity: subscribed and paid-up 10,086,050,000 shares at 31 Dec 2025) and PDF p. 20 (Note 1: all 10,086,050,000 shares listed on IDX); no treasury shares (PDF p. 15, treasury column nil)",
+                "share_basis": "2025-12-31",
+                "note": "Post-split count (1:10 split, ex 3 Jan 2025)."
+            },
+            "year_end_price": {
+                "v": 10925,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 31, Share Highlights table 2025 - TW4/4Q closing (Rp10,925; market cap Rp110,190,096,250,000 on 10,086,050,000 shares)",
+                "share_basis": "2025-12-31",
+                "note": "Q4 closing price from the AR share table; exact trading date not printed, as_of_date set to FY end. Post-split price (Rp5 nominal)."
+            },
+            "cfo": {
+                "v": 48.155,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 16, statement of cash flows - Kas Bersih Diperoleh dari Aktivitas Operasi / Net Cash Provided by Operating Activities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS, US$ '000 / 1,000 = USD million."
+            },
+            "capex": {
+                "v": 430.169,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 16, statement of cash flows - investing activities",
+                "basis": "consolidated",
+                "note": "Positive sum of printed investing outflows (US$ '000): Acquisitions of property, plant and equipment 415,086; Payment for exploration and evaluation assets and mining property 15,083. Excluded: acquisition of subsidiaries (34,752), investment in associate (13,228), intangible assets (4,086), other financial assets (15,786)."
+            },
+            "fx_usd_idr": {
+                "v": 16779,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/03/Financial-Statements-31122025-PTRO-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "FS2025 PDF p. 157, note on conversion rates used by the Group: 'Rupiah (Rp) 1.000 = US$ 0,0596' at 31 Dec 2025",
+                "basis": "n/a",
+                "note": "The FS print the closing rate only as US$ per Rp1,000 (0.0596), to 4 decimals. Stored value = 1,000 / 0.0596 = 16,778.5, rounded to whole rupiah; because of the printed rounding the true rate lies within about +/-0.08% (16,764-16,793)."
+            },
+            "roe": {
+                "v": 11.39,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 17, Financial Ratio table: Return on Equity 11.39 / Return on Assets 2.21 (%)",
+                "basis": "consolidated",
+                "note": "As reported: net profit for the year (incl. non-controlling interests) / total equity at year end (e.g. 2025: 35.006 / 307.458 = 11.39%)."
+            },
+            "roa": {
+                "v": 2.21,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 17, Financial Ratio table: Return on Equity 11.39 / Return on Assets 2.21 (%)",
+                "basis": "consolidated",
+                "note": "As reported: net profit for the year (incl. non-controlling interests) / total assets at year end."
+            },
+            "production": {
+                "v": 19.18,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 15, Financial & Operational Highlights: 'Produksi Batu bara Jasa Pertambangan / Coal Production from Mining Services' 19.18 Juta Ton",
+                "unit": "Mt coal mined for clients (contract mining services)",
+                "note": "Coal production under Petrosea's mining-services contracts (clients' coal, not Petrosea-owned output) as printed in the AR. Scope can change with the contract portfolio; it excludes the coal Petrosea sells from its own CEP concession (AR2025 p. 15 shows 'CEP Coal Production' 1,193.85 thousand tons separately)."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 115.27,
+            "total": 8,
+            "cum_date": "2021-05-10",
+            "ex_date": "2021-05-11",
+            "record_date": "2021-05-17",
+            "pay_date": "2021-06-03",
+            "share_basis": "2021-04-30",
+            "source_url": "https://petrosea.com/wp-content/uploads/2021/05/PTRO-Ringkasan-Hasil-RUPS_Eng.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-05-04",
+            "loc": "Summary of AGMS 30 Apr 2021 (dated 4 May 2021), PDF p. 3, Resolution of Agenda 3 (US$8,000,000 = US$0.00807 per share on 991,664,500 shares) and PDF p. 4 dividend schedule (cum regular/negotiated 10 May, ex 11 May, recording 17 May, payment 3 Jun 2021)",
+            "note": "Declared in USD (US$0.00807/share) at the BI middle rate of the recording date; rupiah amount paid Rp115.27 per share from the AR dividend table (AR2025 PDF p. 161; AR2021 PDF p. 14) [https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf]. Cash-market cum 17 May / ex 18 May 2021."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 1145.90368,
+            "total": 76,
+            "cum_date": "2023-05-24",
+            "ex_date": "2023-05-25",
+            "record_date": "2023-05-26",
+            "pay_date": "2023-05-31",
+            "share_basis": "2023-05-15",
+            "source_url": "https://petrosea.com/wp-content/uploads/2023/05/PTRO-Ringkasan-Hasil-RUPSLBT_Eng_.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-05-17",
+            "loc": "Summary of Annual & Extraordinary GMS 15 May 2023 (dated 17 May 2023), PDF p. 4 (third agenda: US$76,000,000 = US$0.07664 per share on 991,664,500 shares) and PDF p. 5 schedule (cum regular/negotiated 24 May, ex 25 May, recording 26 May, payment 31 May 2023)",
+            "note": "Declared in USD at the BI middle rate of 26 May 2023; rupiah amount Rp1,145.90368 per share from AR2023 PDF p. 89 (AR2025 p. 161 prints Rp1.145,90) [https://petrosea.com/wp-content/uploads/2024/09/PTRO_Annual-Report-2023-_.pdf]. Funded US$20,583,000 from FY2022 profit and US$55,417,000 from retained earnings (one payment). FS2024 Note 27 (PDF p. 98) says paid 30 May 2023; the GMS schedule and AR say 31 May 2023."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 49.5418,
+            "total": 3.05,
+            "cum_date": "2024-05-08",
+            "ex_date": "2024-05-13",
+            "record_date": "2024-05-14",
+            "pay_date": "2024-05-30",
+            "share_basis": "2024-04-29",
+            "source_url": "https://petrosea.com/wp-content/uploads/2024/04/PTRO-Summary-of-MoM-EAGMS.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-04-30",
+            "loc": "Summary of Annual & Extraordinary GMS 29 Apr 2024 (dated 30 Apr 2024), PDF p. 4 (third agenda: US$3,050,000 = US$0.00308 per share on 991,664,500 shares; schedule cum regular/negotiated 8 May, ex 13 May, recording 14 May, payment 30 May 2024) and PDF p. 5 schedule table",
+            "note": "Declared in USD at the BI middle rate of 14 May 2024; rupiah amount Rp49.5418 per share from AR2024 PDF p. 20 / AR2025 PDF p. 161 [https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf]. Payment date 30 May 2024 per the GMS schedule and FS2025 Note 29 (PDF p. 115); the AR tables and the investor page print 14 May 2024 (the recording date) as 'payment date'."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 16.359,
+            "total": 10,
+            "cum_date": "2025-04-29",
+            "ex_date": "2025-04-30",
+            "record_date": "2025-05-02",
+            "pay_date": "2025-05-22",
+            "share_basis": "2025-04-21",
+            "source_url": "https://petrosea.com/wp-content/uploads/2025/04/PTRO_Summary-of-EAGMS-21-Apr-2025.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-04-22",
+            "loc": "Summary of Annual & Extraordinary GMS 21 Apr 2025 (dated 22 Apr 2025), PDF p. 4 (third agenda: US$10,000,000 = US$0.00099147 per share on 10,086,050,000 shares; schedule cum regular/negotiated 29 Apr, ex 30 Apr, recording 2 May, payment 22 May 2025) and PDF pp. 5-6 schedule table",
+            "note": "First dividend on the post-split share count. Declared in USD at the BI middle rate of 2 May 2025; rupiah amount Rp16.359 per share from AR2025 PDF p. 161 [https://petrosea.com/wp-content/uploads/2026/06/PTRO_Annual_Report-2025-.pdf]. Funded US$9,699,000 from FY2024 profit and US$301,000 from retained earnings. Payment 22 May 2025 per the GMS schedule, AR2025 p. 160 and the investor page; FS2025 Note 29 (PDF p. 115) says 'paid on May 2, 2025' (the recording date)."
+        }
+    ],
+    "interim": {
+        "period": "H1",
+        "year": 2026,
+        "period_end": "2026-06-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 543.983,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "FS H1-2026 PDF p. 12, statement of profit or loss - CONTINUED OPERATION: PENDAPATAN / REVENUES (six months 2026)",
+                "basis": "consolidated",
+                "note": "Interim consolidated FS for the six months ended 30 Jun 2026 (published Sep 2026), US$ '000 / 1,000. Revenue of continuing operations only: the subsidiary PTKMS, sold to SINI on 30 Jun 2026, is a discontinued operation (Note 40, PDF p. 139: its H1-2026 revenue 42,329 is excluded)."
+            },
+            "revenue_ytd_prior": {
+                "v": 340.937,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "FS H1-2026 PDF p. 12, six months 2025 column (unaudited, re-presented) - PENDAPATAN / REVENUES of continuing operations",
+                "basis": "consolidated",
+                "note": "Interim consolidated FS for the six months ended 30 Jun 2026 (published Sep 2026), US$ '000 / 1,000. Re-presented for the PTKMS discontinued operation (comparable to revenue_ytd). As originally published in the H1-2025 FS (PDF p. 6, https://petrosea.com/wp-content/uploads/2025/07/Financial-Statements-30062025-PTRO.pdf): 351,110 (= 340,937 + 10,173 PTKMS revenue)."
+            },
+            "ebitda_ytd": {
+                "v": null,
+                "note": "Not reported: the H1-2026 interim FS have no EBITDA figure and no company results release/presentation for H1 2026 was found on petrosea.com (checked investor, press-release and governance pages, 2026-11-03)."
+            },
+            "ebitda_ytd_prior": {
+                "v": null,
+                "note": "Not reported for H1 2025 (no EBITDA in the H1-2025 or H1-2026 interim FS; no company release found)."
+            },
+            "profit_ytd": {
+                "v": 10.787,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "FS H1-2026 PDF p. 12, profit attributable to Pemilik Entitas Induk / Owners of the Company (six months 2026)",
+                "basis": "consolidated",
+                "note": "Interim consolidated FS for the six months ended 30 Jun 2026 (published Sep 2026), US$ '000 / 1,000. Includes the discontinued operation: net profit 9,170 = continuing 1,550 + discontinued 7,620; NCI share (1,617) negative. Basic EPS printed: continuing US$0.0003, discontinued US$0.0008."
+            },
+            "profit_ytd_prior": {
+                "v": 1.076,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-30",
+                "loc": "FS H1-2026 PDF p. 12, six months 2025 column - profit attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "Interim consolidated FS for the six months ended 30 Jun 2026 (published Sep 2026), US$ '000 / 1,000. Same figure as originally published in the H1-2025 FS (PDF p. 6)."
+            },
+            "equity_attr": {
+                "v": 271.781,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "FS H1-2026 PDF p. 11, Equity attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "Interim consolidated FS for the six months ended 30 Jun 2026 (published Sep 2026), US$ '000 / 1,000."
+            },
+            "shares_out": {
+                "v": 10086050000,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "FS H1-2026 PDF p. 11, capital stock: subscribed and paid-up 10,086,050,000 shares at 30 Jun 2026 (no treasury shares)",
+                "share_basis": "2026-06-30",
+                "note": "Post-split count. A rights issue of up to 170,000,000 new shares awaits the EGMS of 23 Nov 2026 (see research_notes)."
+            },
+            "total_assets": {
+                "v": 1527.857,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "FS H1-2026 PDF p. 10, JUMLAH ASET / TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Interim consolidated FS for the six months ended 30 Jun 2026 (published Sep 2026), US$ '000 / 1,000."
+            },
+            "cash": {
+                "v": 80.398,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "FS H1-2026 PDF p. 10, Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Interim consolidated FS for the six months ended 30 Jun 2026 (published Sep 2026), US$ '000 / 1,000. Restricted cash in banks (16,674) excluded."
+            },
+            "total_debt": {
+                "v": 799.992,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "FS H1-2026 PDF p. 11, sum of interest-bearing borrowings",
+                "basis": "consolidated",
+                "note": "Sum of printed lines (US$ '000): bank loans 63,228; long-term loans - third parties, current 57,336; long-term loans - third parties, non-current 516,071; bonds payable, current 349; bonds payable, non-current 108,905; sukuk ijarah payable, current 169; sukuk ijarah payable, non-current 53,934. Excludes lease liabilities (current 12,397; non-current 19,240)."
+            },
+            "fx_usd_idr": {
+                "v": 17857,
+                "source_url": "https://petrosea.com/wp-content/uploads/2026/09/Financial-Statements-30062026-PTRO.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-06-30",
+                "loc": "FS H1-2026 PDF p. 167, note on conversion rates: 'Rupiah (Rp) 1.000 = US$ 0,0560' at 30 Jun 2026",
+                "basis": "n/a",
+                "note": "Printed only as US$ per Rp1,000 (0.0560, 4 decimals). Stored value = 1,000 / 0.0560 = 17,857.1, rounded; precision about +/-0.09% (17,841-17,873). The same note gives 0.0565 at 16 Sep 2026."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "payout_total:2022",
+            "reason": "The FY2022 dividend (US$76.0m, one payment of US$0.07664/share) was funded US$20,583,000 from FY2022 profit and US$55,417,000 from retained earnings (Summary of AGMS 15 May 2023, PDF p. 4: https://petrosea.com/wp-content/uploads/2023/05/PTRO-Ringkasan-Hasil-RUPSLBT_Eng_.pdf). The AR payout ratio 50.30% (AR2025 p. 161, footnote 'based on profit attributable ... in 2022') covers only the FY2022-profit part: 40.924 x 50.30% = 20.585 = the US$20.583m portion. Real, not a data error."
+        },
+        {
+            "check": "payout_total:2024",
+            "reason": "The FY2024 dividend (US$10.0m) was funded US$9,699,000 from FY2024 profit and US$301,000 from retained earnings (Summary of AGMS 21 Apr 2025, PDF p. 4: https://petrosea.com/wp-content/uploads/2025/04/PTRO_Summary-of-EAGMS-21-Apr-2025.pdf). AR2025 p. 161 prints payout 97.46%, which equals 9.699 / 9.952 (FY2024-profit portion over net profit for the year incl. NCI), so profit attributable x 97.46% = 9.45 vs the US$10.0m total. Stored as printed; the gap is the retained-earnings top-up plus the AR's choice of denominator."
+        }
+    ],
+    "research_notes": [
+        "COMPANY: PT Petrosea Tbk (IDX: PTRO), Indonesian mining-services contractor (contract mining, engineering-procurement-construction, offshore oil & gas EPCI since 2025, logistics/support services, plus coal sales from its own CEP concession). Head office moved to Wisma Barito Pacific, West Jakarta (FS2025 Note 1). Reporting currency: US dollar (FS in US$ '000); all money values here are USD million; EPS in US$ per share; prices and DPS in rupiah.",
+        "OWNERSHIP HISTORY (not the brief's '2023' date): PT Indika Energy Tbk held 69.80% at end-2021 (AR2021 PDF p. 51) and transferred its stake to PT Caraka Reksa Optima (CARA, controlled by Haji Romo Nitiyudo Wachjo per AR2022/AR2023 PDF p. 3) on 28 Jul 2022 (FS2022 Note 1, PDF p. 16). On 7 Nov 2023 CARA signed a CSPA with PT Kreasi Jasa Persada (KJP, 99.98%-owned by PT Petrindo Jaya Kreasi Tbk / CUAN, Prajogo Pangestu / Barito group) for 342,925,700 shares (34%), completed 16 Feb 2024 (FS2024 Note 27, PDF pp. 97-98). At 31 Dec 2023 CARA held 68.90%; at 31 Dec 2024 KJP 41.52% and CARA 30.21%.",
+        "SOURCE ACCESS: every document came directly from petrosea.com (WordPress uploads) with curl and a browser User-Agent, HTTP 200, no bot challenge; Internet Archive not needed. idx.co.id was not used. FY2020 figures are from the audited FY2020 FS reproduced in AR2020 (PDF pp. 239-384) because the standalone Dec-2020 FS is not linked on the IR page; FY2019 levels are that FS's comparative column.",
+        "NO OPERATING-PROFIT LINE: the FS profit-or-loss statement has no laba usaha line, so operating_profit is null in every year; gross_profit (optional key) is stored. EBITDA is stored only where the AR states an amount (FY2024 106.22, FY2025 172.63, both in the BoD report); the bond/sukuk documents define the company's 'Adjusted EBITDA' = gross profit - selling & administration + D&A and print only margins for 2022/2023 (26.33% / 18.59%), which were NOT converted to amounts.",
+        "FX RATE: the FS give the closing rate only as US$ per Rp1,000 to four decimals (e.g. FY2025 0.0596). fx_usd_idr = 1,000 / printed rate, rounded to whole rupiah, precise to about +/-0.08%. Implied rates: FY2025 16,779; FY2024 16,155; FY2023 15,408; FY2022 15,723; FY2021 14,265; FY2020 14,104; H1-2026 17,857. Not cross-checked against Bank Indonesia's published rates (bi.go.id not consulted); a reviewer may prefer an official BI/JISDOR datum instead of the reciprocal.",
+        "STOCK SPLIT 1:10 (ex 3 Jan 2025): per-share figures are stored as printed with share_basis = the date on which they were on that basis. FY2020-FY2024 EPS, shares_out, year_end_price and FY2020-FY2023 DPS are pre-split (Rp50 nominal); FY2025, the FY2024 dividend (declared Apr 2025) and the interim are post-split. FS2024 (published Mar 2025, after the split) did NOT restate EPS (0.0097 on ~1.0bn shares); FS2025 re-presents FY2024 EPS as 0.0010 on the post-split count. AR2025's share table keeps 2024 prices unadjusted (Q4 close 27,625).",
+        "TREASURY SHARES: 16,940,500 shares bought back 11 Jun-8 Sep 2020 (US$2.033m) were held to mid-2024 and transferred to the public 15 May-4 Jun 2024 (FS2024 Note 27, PDF p. 98; proceeds US$8.475m). Hence shares_out 991,664,500 for FY2020-FY2023 and 1,008,605,000 (pre-split) at FY2024 end; FY2020 EPS uses a weighted 1,000,591,292 shares.",
+        "DIVIDENDS: all declared in USD and paid in rupiah at the BI middle rate of the recording date; dps = rupiah per share from the AR dividend tables, total = USD million as approved by the AGMS. One final payment per year, no interim dividends. FY2021 and FY2025: no dividend (AGMS 21 Apr 2022; AGMS 9 Apr 2026) -> payout_ratio 0. FY2022 and FY2024 dividends were partly funded from retained earnings (see validation_ack). Payment-date inconsistencies inside company documents are noted on each record (the GMS schedule is used).",
+        "PAYOUT FY2020: AR2025 restates the FY2020 payout ratio to 24.78% (8.0 / 32.279); AR2021-AR2024 printed 27.09%. The restated value is stored. Reviewer may want to confirm.",
+        "RECLASSIFICATIONS / RESTATEMENTS: no restatement of balance-sheet or profit figures was found between consecutive FS (each FS's comparatives match the prior FS). FS2023 re-presented FY2022 operating cash flow (97,247 -> 89,408, sale-and-leaseback proceeds moved to financing); fy.2022.cfo keeps the FS2022 figure. The H1-2026 interim re-presents H1-2025 revenue for the PTKMS discontinued operation (351,110 -> 340,937); revenue_ytd_prior uses the re-presented figure so both interim revenue numbers are continuing operations.",
+        "DIVESTMENT 2026 (not a split): Petrosea sold 99.995% of subsidiary PTKMS to SINI (CSPA 15 Apr 2026, deed 30 Jun 2026; H1-2026 FS Note 40). It is shown as a discontinued operation in H1 2026 (profit 7,620 of the 9,170 H1 net profit). FY2025 annual figures still include PTKMS as originally reported. 2025 also saw subsidiary acquisitions (FS2025 Note 39; NCI rose to 44.9) and a large fleet capex programme (PP&E purchases 415.1).",
+        "PENDING RIGHTS ISSUE (no ex-date yet, so not in corporate_actions): an EGMS on 23 Nov 2026 is asked to approve a PMHMETD of up to 170,000,000 new shares (max 1.69% of issued capital, nominal Rp5); exercise price and ratio to be set in the prospectus (disclosure 15 Oct 2026: https://petrosea.com/wp-content/uploads/2026/10/PTRO_DOI-PMHMETD_15102026.pdf; EGMS invitation: https://petrosea.com/wp-content/uploads/2026/10/PTRO_Invitation-EGMS-23-Nov-2026.pdf). Add it to corporate_actions with ratio and price once the prospectus/KSEI schedule is out.",
+        "INTERIM: H1 2026 (30 Jun 2026) is the latest published period; no 30 Sep 2026 FS was on petrosea.com (financial-statements page and WordPress media list checked 2026-11-03) and no news of 9M-2026 results was found. Interim profit is boosted by the PTKMS discontinued operation.",
+        "TRADING SUSPENSION: IDX suspended PTRO for cooling-down on 3 Oct 2025 (letters Peng-SPT-00292/BEI.WAS/10-2025 and Peng-UPT-00279/BEI.WAS/10-2025) and lifted it from session I of 7 Oct 2025 (AR2025 PDF p. 32) - expect a gap in the daily price series.",
+        "OPERATING DATA: production = coal mined for clients under Petrosea's mining-services contracts (AR figures), not Petrosea-owned production; the 2021->2022 drop (31.77 -> 19.23 Mt) reflects the contract portfolio. Overburden volumes are printed in the ARs but have no schema key.",
+        "FS2021 page header typo: the continuation page of the FY2021 statement of financial position (PDF p. 7) says 'December, 2021 (UNAUDITED)' although the document carries the independent auditor's report dated 23 Mar 2022 (PDF pp. 2-5) and is listed as 'Audited' on the IR page."
+    ]
+}

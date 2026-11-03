@@ -141,6 +141,69 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "energy",
+            "name": {
+                "id": "Energi",
+                "en": "Energy"
+            },
+            "tickers": [
+                "BREN",
+                "BYAN",
+                "ADRO",
+                "PTBA",
+                "MEDC",
+                "PGAS",
+                "PGEO",
+                "PTRO"
+            ],
+            "groups": [
+                {
+                    "id": "coal",
+                    "name": {
+                        "id": "Batu bara",
+                        "en": "Coal"
+                    },
+                    "tickers": [
+                        "BYAN",
+                        "ADRO",
+                        "PTBA"
+                    ]
+                },
+                {
+                    "id": "oil_gas",
+                    "name": {
+                        "id": "Minyak & gas",
+                        "en": "Oil & gas"
+                    },
+                    "tickers": [
+                        "MEDC",
+                        "PGAS"
+                    ]
+                },
+                {
+                    "id": "renewables",
+                    "name": {
+                        "id": "Panas bumi & energi terbarukan",
+                        "en": "Geothermal & renewables"
+                    },
+                    "tickers": [
+                        "BREN",
+                        "PGEO"
+                    ]
+                },
+                {
+                    "id": "services",
+                    "name": {
+                        "id": "Distribusi & jasa energi",
+                        "en": "Energy distribution & services"
+                    },
+                    "tickers": [
+                        "PTRO"
+                    ]
+                }
+            ]
         }
     ]
 }

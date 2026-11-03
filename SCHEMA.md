@@ -1,6 +1,6 @@
 # Data schema (v1)
 
-Curated, source-backed data for IDX-listed companies. Plain JSON, one file per issuer.
+Curated, source-backed data for IDX-listed companies (banks and energy). Plain JSON, one file per issuer.
 Every commit is validated before it is published (see "Validation" below), and the
 [seoultra.id](https://seoultra.id/stocks/idx/) pages never contain a typed number: every
 figure on them comes from these files or is computed from them.
@@ -21,7 +21,7 @@ figure on them comes from these files or is computed from them.
 ## Units
 | Kind | Unit | Example |
 |---|---|---|
-| Money (profit, equity, assets, loans, deposits, dividend totals) | IDR **billion** (Rp miliar), number | `54836.4` |
+| Money (profit, equity, assets, loans, deposits, dividend totals) | IDR **billion** (Rp miliar), number; energy issuers with `currency: "USD"`: USD **million** | `54836.4` |
 | Per-share (EPS, DPS, prices) | Rupiah per share, as printed | `530` |
 | Share counts | whole shares | `123275050000` |
 | Ratios, growth, payout | percent as a number | `23.9` means 23.9% |
@@ -206,6 +206,51 @@ corporate-action calendar and flagged on the page.
 
 Corporate actions live only in `corporate_actions.json` — an issuer file must not carry
 its own copy (the validator rejects it), so there is one table and no drift.
+
+## Energy issuers (`sector: "energy"`)
+Coal, oil & gas, geothermal and energy distribution/services companies (added 2026-11-03). Same
+datum shape, dividend, interim and corporate-action rules as above; the bank-only keys (`kbmi`,
+`sharia`, `label_overrides`, loans, deposits, NPL, CAR, ...) do not apply.
+
+**Header** adds `currency` and `subsector`:
+- `currency`: `"USD"` or `"IDR"` = the currency the audited financial statements are presented in.
+  Money values are **USD million** for USD reporters and IDR billion for IDR reporters. Nothing is
+  ever converted in the files.
+- `subsector`: `coal` | `oil_gas` | `renewables` | `services` (the display groups in sectors.json).
+
+**`fy.<YEAR>` fields** (datums; FY2020 onward need every key, `null` + note when not disclosed):
+| Key | Meaning |
+|---|---|
+| `revenue` | Revenue / net sales, consolidated |
+| `ebitda` | EBITDA **as the company reports it** (definition in `note`); `null` if it reports none, never computed |
+| `operating_profit` | Operating profit as presented (FS or annual-report highlights; `note` says which) |
+| `net_profit_attr` | Profit attributable to owners of the parent |
+| `eps` | Basic EPS in the **reporting currency** per share, + `share_basis` |
+| `payout_ratio` | Dividend payout of that year's profit as reported (`0` with source if no dividend) |
+| `total_assets`, `total_liabilities` | Balance-sheet totals |
+| `cash` | Cash and cash equivalents (excluding restricted cash) |
+| `total_debt` | Interest-bearing borrowings: bank loans + bonds/notes/sukuk, current + non-current, **excluding lease liabilities** (`note` lists the lines summed) |
+| `equity_attr`, `total_equity` | Equity attributable to owners / total equity including NCI |
+| `shares_out` | Shares outstanding at year end net of treasury shares, + `share_basis` |
+| `year_end_price` | Closing price in **rupiah** on the last trading day, + `share_basis` |
+| `cfo` | Net cash from operating activities |
+| `capex` | Purchases of fixed assets + mining / oil & gas properties (investing outflows), positive |
+| `fx_usd_idr` | USD reporters only: IDR per 1 USD closing rate used in the FS at year end, `basis: "n/a"` |
+
+Optional, each with a `unit` string: `production`, `sales_volume`, `asp`, `cash_cost`, `roe`, `roa`.
+FY2019 holds only the base levels (`revenue`, `net_profit_attr`, `total_assets`, `cash`,
+`total_debt`, `equity_attr`, `total_equity`).
+
+**Dividends:** `dps` is always **rupiah per share as paid** (companies that declare in USD pay
+rupiah at the recording-date rate; `note` says so); `total` is in the reporting currency.
+
+**`interim.fields`:** `revenue_ytd`, `revenue_ytd_prior`, `ebitda_ytd`, `ebitda_ytd_prior`,
+`profit_ytd`, `profit_ytd_prior`, `equity_attr`, `shares_out`, `total_assets`, `cash`,
+`total_debt`, and `fx_usd_idr` for USD reporters.
+
+**Derived on the site, not stored:** margins, net debt (= `total_debt` − `cash`), net debt/EBITDA,
+debt/equity, free cash flow (= `cfo` − `capex`). P/E and P/B of USD reporters convert EPS and book
+value per share to rupiah at that year's `fx_usd_idr`; no other figure is converted.
 
 ## Macro
 - `macro.json` — `sbn10y` and `bi_rate` datums (value, date, source). `sbn10y` is `null`

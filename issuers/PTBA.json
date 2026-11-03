@@ -1,0 +1,1482 @@
+{
+    "schema": 1,
+    "code": "PTBA",
+    "name": "PT Bukit Asam (Persero) Tbk",
+    "name_short": "Bukit Asam",
+    "sector": "energy",
+    "subsector": "coal",
+    "exchange": "IDX",
+    "currency": "IDR",
+    "website": "https://www.ptba.co.id",
+    "ir_url": "https://www.ptba.co.id/id/investor",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": 21787.564,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020103-2021-05-24ptba_laporan_audit_keuangan020100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 8, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Consolidated revenue (coal sales + other activities), Rp juta / 1,000."
+            },
+            "net_profit_attr": {
+                "v": 4056.888,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020103-2021-05-24ptba_laporan_audit_keuangan020100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 9, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_assets": {
+                "v": 26098.052,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020103-2021-05-24ptba_laporan_audit_keuangan020100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4756.801,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020103-2021-05-24ptba_laporan_audit_keuangan020100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 5, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; time deposits over 3 months and restricted cash are presented in separate lines and excluded."
+            },
+            "total_debt": {
+                "v": 162.474,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020103-2021-05-24ptba_laporan_audit_keuangan020100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 6, current and non-current 'Pinjaman bank' lines",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: current maturities of long-term bank borrowings 152,353 + long-term bank borrowings 10,121 (Rp juta); short-term bank borrowings nil. Finance lease liabilities (169,881 + 298,589) excluded. No bonds."
+            },
+            "equity_attr": {
+                "v": 18258.275,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020103-2021-05-24ptba_laporan_audit_keuangan020100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 18422.826,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020103-2021-05-24ptba_laporan_audit_keuangan020100.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 7, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 17325.192,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Consolidated revenue (coal sales + other activities), Rp juta / 1,000."
+            },
+            "ebitda": {
+                "v": 4381,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/corporate-presentation-fy-2020.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Key Financial Highlights (cont.) - EBITDA and Total Debt/EBITDA chart (IDR billion): FY2020 4,381",
+                "basis": "consolidated",
+                "note": "Printed in IDR billion. AR2020 PDF p. 52 states 'EBITDA of IDR4.38 trillion'. Definition not printed in the deck."
+            },
+            "operating_profit": {
+                "v": 2520.425,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 8, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less G&A and selling expenses plus other income-net; before finance items and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 2386.819,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 213,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 9, Laba per saham - dasar dan dilusian (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2021-03-08",
+                "note": "Basic = diluted EPS as printed (weighted-average shares net of treasury shares)."
+            },
+            "payout_ratio": {
+                "v": 35,
+                "source_url": "https://www.ptba.co.id/api/storage/documents/pengumuman-ringkasan-risalah-rapat-umum-pemegang-saham-tahunan-tahun-buku-2020.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-04-05",
+                "loc": "p. 3, Mata Acara 3 decision: 'Dividen sebesar 35% atau Rp835.386.571.935'",
+                "basis": "consolidated",
+                "note": "Share of FY profit attributable to owners of the parent paid as the (single, final) cash dividend; no interim dividend was paid for FY2020-FY2025."
+            },
+            "total_assets": {
+                "v": 24056.755,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 7117.559,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4340.947,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 5, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; time deposits over 3 months and restricted cash are presented in separate lines and excluded."
+            },
+            "total_debt": {
+                "v": 112.876,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 6, current and non-current 'Pinjaman bank' lines",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: current maturities 106,883 + long-term 5,993 (Rp juta). Lease liabilities (425,358 + 393,950) excluded. No bonds."
+            },
+            "equity_attr": {
+                "v": 16763.404,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 16939.196,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 7, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11184061250,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 122, Note Modal saham - Jumlah saham beredar (Total shares outstanding)",
+                "share_basis": "2021-03-08",
+                "note": "11,520,659,250 issued (incl. 5 Series A Dwiwarna) less 336,598,000 treasury shares (330,296,000 from the 2015 buyback + 6,302,000 bought back 17 Mar-16 Jun 2020)."
+            },
+            "year_end_price": {
+                "v": 2810,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524051816-2021-05-24ptba_laporan_tahunan051813.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 22, Informasi Saham PTBA 2016-2020 - Harga Saham Penutupan 2020 (same in AR2021 PDF p. 22)",
+                "share_basis": "2021-03-20",
+                "note": "Closing price as printed in the AR share table; no split or bonus issue since the 14 Dec 2017 1:5 nominal split, so no restatement."
+            },
+            "cfo": {
+                "v": 3513.628,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Arus kas bersih yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 711.318,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524020315-2021-05-24ptba_laporan_audit_keuangan020305.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Purchases of fixed assets 707,659 + addition of mining properties 3,659 (Rp juta). Addition of bearer plants (3,740) not included."
+            },
+            "production": {
+                "v": 24.84236,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220426211857-2022-04-26ptba_laporan_tahunan211701.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 19, Ikhtisar Operasional - Jumlah Produksi (Total Production) 2020: 24,842,360 t",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production (Mt = tonnes / 1e6) excluding purchased coal (0 t purchased via PT Bukit Asam Prima; the decks/releases quote production + purchases, e.g. FY2025 47.19 Mt)."
+            },
+            "sales_volume": {
+                "v": 26.124876,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220426211857-2022-04-26ptba_laporan_tahunan211701.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 19, Penjualan - Jumlah Penjualan 2020: 26,124,876 t (domestic 14,135,858 + export 11,989,018)",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Total coal sales volume, tonnes / 1e6."
+            },
+            "asp": {
+                "v": 654,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240401095940-2024-04-01ptba_presentasi_perusahaan095938.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 11, Average Selling Price (Rp Thousand/ton) chart: 2020 654",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Average coal selling price as charted in the corporate presentation."
+            },
+            "cash_cost": {
+                "v": 535,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20230310081851-2023-03-10ptba_presentasi_perusahaan081848.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 10 (slide 7), Cash cost chart (Rupiah/ton, thousand): 2020 535",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Cash cost as defined in the decks: cost of revenue + G&A + selling & marketing expenses, excluding depreciation and amortisation, divided by sales volume (FY2021 deck PDF p. 9, FY2022 deck PDF p. 10 footnote 1)."
+            },
+            "roe": {
+                "v": 14.09,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524051816-2021-05-24ptba_laporan_tahunan051813.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14, Rasio Keuangan - Laba Bersih terhadap Ekuitas",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end TOTAL equity (incl. NCI), e.g. 2,929,957 / 22,616,801 = 12.95% for 2025."
+            },
+            "roa": {
+                "v": 9.92,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20210524051816-2021-05-24ptba_laporan_tahunan051813.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 14, Rasio Keuangan - Laba Bersih terhadap Jumlah Aset",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end total assets."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 29261.468,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Consolidated revenue (coal sales + other activities), Rp juta / 1,000."
+            },
+            "ebitda": {
+                "v": 11600,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20230310081851-2023-03-10ptba_presentasi_perusahaan081848.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11 (slide 8), Net Profit and EBITDA chart (Rp trillion): 2021 11.6",
+                "basis": "consolidated",
+                "note": "Printed as Rp11.6 trillion (one decimal), stored as 11,600 bn; same value in the FY2021 deck (PDF p. 10). Definition not printed."
+            },
+            "operating_profit": {
+                "v": 9959.025,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 8, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less G&A and selling expenses plus other income-net; before finance items and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 7909.113,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 702,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 9, Laba per saham - dasar dan dilusian (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2022-03-07",
+                "note": "Basic = diluted EPS as printed (weighted-average shares net of treasury shares)."
+            },
+            "payout_ratio": {
+                "v": 100,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-05-24",
+                "loc": "PDF p. 243, dividend history table (FY2021: Rp7,909,111,452,604, 688.52/share, ratio 100%)",
+                "basis": "consolidated",
+                "note": "AGMS 24 May 2022 (AGMS summary of 27 May 2022, PDF p. 11) paid the whole FY2021 profit. Share of FY profit attributable to owners of the parent paid as the (single, final) cash dividend; no interim dividend was paid for FY2020-FY2025."
+            },
+            "total_assets": {
+                "v": 36123.703,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 11869.979,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4394.195,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 5, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; time deposits over 3 months and restricted cash are presented in separate lines and excluded."
+            },
+            "total_debt": {
+                "v": 5.94,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 6, current and non-current 'Pinjaman bank' lines",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: current maturities 3,700 + long-term 2,240 (Rp juta). Lease liabilities (417,241 + 624,070) excluded. No bonds."
+            },
+            "equity_attr": {
+                "v": 24059.665,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 24253.724,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 7, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11487209350,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 118, Note Modal saham - Jumlah saham beredar (Total shares outstanding)",
+                "share_basis": "2022-03-07",
+                "note": "11,520,659,250 issued less 33,449,900 treasury shares (303,148,100 treasury shares transferred in 2021)."
+            },
+            "year_end_price": {
+                "v": 2710,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 29, Informasi Saham Perusahaan - Harga Saham Penutupan 2021",
+                "share_basis": "2026-05-01",
+                "note": "Closing price as printed in the AR share table; no split or bonus issue since the 14 Dec 2017 1:5 nominal split, so no restatement."
+            },
+            "cfo": {
+                "v": 10795.075,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, Arus kas bersih yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 954.631,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20220307133801-2022-03-07ptba_laporan_audit_keuangan133728.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Purchases of fixed assets 954,631 + addition of mining properties nil (Rp juta). The FS2021 shows a +5,679 'addition of bearer plants' line (positive), not included; FS2022 re-presents 2021 as 948,952 for 'fixed assets and bearer plants' combined."
+            },
+            "production": {
+                "v": 30.038084,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 26, Ikhtisar Operasional - Jumlah Produksi Batu Bara Konsolidasian 2021: 30,038,084 t",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production (Mt = tonnes / 1e6) excluding purchased coal (0 t purchased via PT Bukit Asam Prima; the decks/releases quote production + purchases, e.g. FY2025 47.19 Mt)."
+            },
+            "sales_volume": {
+                "v": 28.369919,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 26, Jumlah Penjualan Batu Bara 2021: 28,369,919 t",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Total coal sales volume, tonnes / 1e6."
+            },
+            "asp": {
+                "v": 1018,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240401095940-2024-04-01ptba_presentasi_perusahaan095938.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 11, Average Selling Price (Rp Thousand/ton) chart: 2021 1,018",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Average coal selling price as charted in the corporate presentation."
+            },
+            "cash_cost": {
+                "v": 649,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20230310081851-2023-03-10ptba_presentasi_perusahaan081848.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 10 (slide 7), Cash cost chart: 2021 649",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Cash cost as defined in the decks: cost of revenue + G&A + selling & marketing expenses, excluding depreciation and amortisation, divided by sales volume (FY2021 deck PDF p. 9, FY2022 deck PDF p. 10 footnote 1). FY2021 deck PDF p. 6: 'Cash cost recorded at Rp 649 thousand/ton'."
+            },
+            "roe": {
+                "v": 32.61,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 24, Rasio Keuangan dan Rasio Penting Lainnya - Laba Bersih terhadap Ekuitas",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end TOTAL equity (incl. NCI), e.g. 2,929,957 / 22,616,801 = 12.95% for 2025."
+            },
+            "roa": {
+                "v": 21.89,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 24, Rasio Keuangan dan Rasio Penting Lainnya - Laba Bersih terhadap Jumlah Aset",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end total assets."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 42648.59,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 774, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Consolidated revenue (coal sales + other activities), Rp juta / 1,000."
+            },
+            "ebitda": {
+                "v": 17700,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20230310081851-2023-03-10ptba_presentasi_perusahaan081848.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11 (slide 8), Net Profit and EBITDA chart (Rp trillion): 2022 17.7; EBITDA margin 42%",
+                "basis": "consolidated",
+                "note": "Printed as Rp17.7 trillion (one decimal), stored as 17,700 bn; the FY2023 deck (PDF p. 13) repeats 'FY22 Rp17.7 trillion'. Definition not printed."
+            },
+            "operating_profit": {
+                "v": 15145.421,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 774, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less G&A and selling expenses plus other income-net; before finance items and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 12567.582,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 775, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 1094,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 775, Laba per saham - dasar dan dilusian (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2023-03-02",
+                "note": "Basic = diluted EPS as printed (weighted-average shares net of treasury shares). AR2025 PDF p. 23 chart misprints 2022 EPS as '1.904'; its table (p. 22) and the FS print 1,094."
+            },
+            "payout_ratio": {
+                "v": 100,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-06-15",
+                "loc": "PDF p. 243, dividend history table (FY2022: Rp12,567,581,927,964, 1,094.05/share, ratio 100%)",
+                "basis": "consolidated",
+                "note": "AGMS 15 June 2023 paid the whole FY2022 profit ('sebagai dividen seluruhnya', AGMS summary PDF p. 8). Share of FY profit attributable to owners of the parent paid as the (single, final) cash dividend; no interim dividend was paid for FY2020-FY2025."
+            },
+            "total_assets": {
+                "v": 45359.207,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 771, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 16443.161,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 772, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 7030.343,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 771, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; time deposits over 3 months and restricted cash are presented in separate lines and excluded."
+            },
+            "total_debt": {
+                "v": 2.24,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 772, current and non-current 'Pinjaman bank' lines",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: current maturities of long-term bank borrowings 2,240 (Rp juta); long-term portion nil. Lease liabilities (589,437 + 770,524) excluded. No bonds."
+            },
+            "equity_attr": {
+                "v": 28705.068,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 773, Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 28916.046,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 773, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11487209350,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 883, Note Modal saham - Jumlah saham beredar (Total shares outstanding)",
+                "share_basis": "2023-03-02",
+                "note": "11,520,659,250 issued less 33,449,900 treasury shares."
+            },
+            "year_end_price": {
+                "v": 3690,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 29, Informasi Saham Perusahaan - Harga Saham Penutupan 2022",
+                "share_basis": "2026-05-01",
+                "note": "Closing price as printed in the AR share table; no split or bonus issue since the 14 Dec 2017 1:5 nominal split, so no restatement."
+            },
+            "cfo": {
+                "v": 12527.439,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 777, Arus kas bersih yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 889.136,
+                "source_url": "https://www.ptba.co.id/api/storage/1758254670670-e02601d5-c75b-4c46-838c-b8881c3339d9.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2022 (audited FS 2022 reproduced in the annual report) PDF p. 777, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Addition of fixed assets and bearer plants 780,546 (one combined line from FY2022 on) + addition of mining properties 108,590 (Rp juta)."
+            },
+            "production": {
+                "v": 37.136685,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 26, Jumlah Produksi Batu Bara Konsolidasian 2022: 37,136,685 t",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production (Mt = tonnes / 1e6) excluding purchased coal (0 t purchased via PT Bukit Asam Prima; the decks/releases quote production + purchases, e.g. FY2025 47.19 Mt)."
+            },
+            "sales_volume": {
+                "v": 31.653634,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 26, Jumlah Penjualan Batu Bara 2022: 31,653,634 t",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Total coal sales volume, tonnes / 1e6."
+            },
+            "asp": {
+                "v": 1330,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240401095940-2024-04-01ptba_presentasi_perusahaan095938.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 11, Average Selling Price (Rp Thousand/ton) chart: 2022 1,330",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Average coal selling price as charted in the corporate presentation."
+            },
+            "cash_cost": {
+                "v": 851.1,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240401095940-2024-04-01ptba_presentasi_perusahaan095938.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 12, Financial - Cost: '(FY22 Rp851.1 thousand/ton)'",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Cash cost as defined in the decks: cost of revenue + G&A + selling & marketing expenses, excluding depreciation and amortisation, divided by sales volume (FY2021 deck PDF p. 9, FY2022 deck PDF p. 10 footnote 1). FY2022 deck chart (PDF p. 10) prints 851."
+            },
+            "roe": {
+                "v": 43.46,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 24, Rasio Keuangan dan Rasio Penting Lainnya - Laba Bersih terhadap Ekuitas",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end TOTAL equity (incl. NCI), e.g. 2,929,957 / 22,616,801 = 12.95% for 2025."
+            },
+            "roa": {
+                "v": 27.71,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 24, Rasio Keuangan dan Rasio Penting Lainnya - Laba Bersih terhadap Jumlah Aset",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end total assets."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 38488.867,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Consolidated revenue (coal sales + other activities), Rp juta / 1,000."
+            },
+            "ebitda": {
+                "v": 10000,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20250415112157-2025-04-15ptba_presentasi_perusahaan112134.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 14, Resilient Earnings Achievement - EBITDA (Rp trillion): FY23 10.00",
+                "basis": "consolidated",
+                "note": "Printed as Rp10.00 trillion (two decimals), stored as 10,000 bn; FY2023 deck PDF p. 13 prints 'Rp 10.0 trillion'. Definition not printed."
+            },
+            "operating_profit": {
+                "v": 7202.709,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less G&A and selling expenses plus other income-net; before finance items and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 6105.856,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 532,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 13, Laba per saham - dasar dan dilusian (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2024-03-04",
+                "note": "Basic = diluted EPS as printed (weighted-average shares net of treasury shares)."
+            },
+            "payout_ratio": {
+                "v": 75,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-05-08",
+                "loc": "PDF p. 242-243, Informasi Pembayaran Dividen (FY2023 ratio 75.00%)",
+                "basis": "consolidated",
+                "note": "AGMS 8 May 2024 summary PDF p. 9: 75% of FY2023 profit. Share of FY profit attributable to owners of the parent paid as the (single, final) cash dividend; no interim dividend was paid for FY2020-FY2025."
+            },
+            "total_assets": {
+                "v": 38765.189,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 17201.993,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4138.867,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 9, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; time deposits over 3 months and restricted cash are presented in separate lines and excluded."
+            },
+            "total_debt": {
+                "v": 68,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10, current and non-current 'Pinjaman bank' lines",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: current 'Pinjaman bank' 68,000 (Rp juta); no long-term bank borrowings. Lease liabilities (490,017 + 743,665) excluded. No bonds."
+            },
+            "equity_attr": {
+                "v": 21434.538,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 21563.196,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11487209350,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 110, Note Modal saham - Jumlah saham beredar (Total shares outstanding)",
+                "share_basis": "2024-03-04",
+                "note": "11,520,659,250 issued less 33,449,900 treasury shares."
+            },
+            "year_end_price": {
+                "v": 2440,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 29, Informasi Saham Perusahaan - Harga Saham Penutupan 2023",
+                "share_basis": "2026-05-01",
+                "note": "Closing price as printed in the AR share table; no split or bonus issue since the 14 Dec 2017 1:5 nominal split, so no restatement."
+            },
+            "cfo": {
+                "v": 3104.707,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Arus kas bersih yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 937.246,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240305063056-2024-03-05ptba_laporan_audit_keuangan063051.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 15, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Addition of fixed assets and bearer plants 937,246 + addition of mining properties nil (Rp juta)."
+            },
+            "production": {
+                "v": 41.75198,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 26, Jumlah Produksi Batu Bara Konsolidasian 2023: 41,751,980 t",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production (Mt = tonnes / 1e6) excluding purchased coal (191,289 t purchased via PT Bukit Asam Prima; the decks/releases quote production + purchases, e.g. FY2025 47.19 Mt)."
+            },
+            "sales_volume": {
+                "v": 36.973561,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 26, Jumlah Penjualan Batu Bara 2023: 36,973,561 t",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Total coal sales volume, tonnes / 1e6."
+            },
+            "asp": {
+                "v": 1027,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240401095940-2024-04-01ptba_presentasi_perusahaan095938.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 11, Average Selling Price (Rp Thousand/ton) chart: 2023 1,027",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Average coal selling price as charted in the corporate presentation. Same value in the FY2024 deck (PDF p. 12)."
+            },
+            "cash_cost": {
+                "v": 827,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20240401095940-2024-04-01ptba_presentasi_perusahaan095938.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 12, Financial - Cost: 'Rp827.0 thousand/ton'",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Cash cost as defined in the decks: cost of revenue + G&A + selling & marketing expenses, excluding depreciation and amortisation, divided by sales volume (FY2021 deck PDF p. 9, FY2022 deck PDF p. 10 footnote 1). FY2024 deck (PDF p. 13) prints FY23 827."
+            },
+            "roe": {
+                "v": 28.32,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 24, Rasio Keuangan dan Rasio Penting Lainnya - Laba Bersih terhadap Ekuitas",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end TOTAL equity (incl. NCI), e.g. 2,929,957 / 22,616,801 = 12.95% for 2025."
+            },
+            "roa": {
+                "v": 15.75,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 24, Rasio Keuangan dan Rasio Penting Lainnya - Laba Bersih terhadap Jumlah Aset",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end total assets."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 42764.968,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Consolidated revenue (coal sales + other activities), Rp juta / 1,000."
+            },
+            "ebitda": {
+                "v": 8304.264,
+                "source_url": "https://www.ptba.co.id/id/media/press-release/detail/ptba-bukukan-laba-bersih-rp-2-93-triliun-di-fy-2025-operasional-tumbuh-dan-profitabilitas-berangsur-pulih",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "FY2025 results release (Jakarta, 1 April 2026), Kinerja Keuangan table - EBITDA FY24 8.304.264 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Comparative column of the FY2025 release, Rp juta / 1,000. The FY2024 deck (PDF p. 14) prints Rp8.30 trillion. Definition not printed."
+            },
+            "operating_profit": {
+                "v": 5652.418,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less G&A and selling expenses plus other income-net; before finance items and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 5103.72,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 444,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Laba per saham - dasar dan dilusian (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2025-03-30",
+                "note": "Basic = diluted EPS as printed (weighted-average shares net of treasury shares)."
+            },
+            "payout_ratio": {
+                "v": 75,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-06-12",
+                "loc": "PDF p. 242, Informasi Pembayaran Dividen (FY2024 ratio 75.00%)",
+                "basis": "consolidated",
+                "note": "Share of FY profit attributable to owners of the parent paid as the (single, final) cash dividend; no interim dividend was paid for FY2020-FY2025."
+            },
+            "total_assets": {
+                "v": 41785.576,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 19141.764,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4132.858,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 9, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; time deposits over 3 months and restricted cash are presented in separate lines and excluded."
+            },
+            "total_debt": {
+                "v": 1397.68,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 10, current and non-current 'Pinjaman bank' lines",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: current 'Pinjaman bank' 1,397,680 (Rp juta); no long-term bank borrowings. Lease liabilities (485,093 + 368,260) excluded. No bonds."
+            },
+            "equity_attr": {
+                "v": 22505.288,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 22643.812,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 11, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11514357250,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 110, Note Modal saham - Jumlah saham beredar (Total shares outstanding)",
+                "share_basis": "2025-03-30",
+                "note": "11,520,659,250 issued less 6,302,000 treasury shares (27,147,900 sold on 28 Mar 2024 at Rp2,950)."
+            },
+            "year_end_price": {
+                "v": 2750,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 29 (and p. 28 quarterly table: Q4-2024 close 2,750 on 30/12/24), Harga Saham Penutupan",
+                "share_basis": "2026-05-01",
+                "note": "Closing price as printed in the AR share table; no split or bonus issue since the 14 Dec 2017 1:5 nominal split, so no restatement."
+            },
+            "cfo": {
+                "v": 5049.19,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Arus kas bersih yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 1231.886,
+                "source_url": "https://www.ptba.co.id/api/storage/1758472051536-cffc1466-b409-4d95-ad23-d440868a73cb.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 15, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "Addition of fixed assets and bearer plants 1,231,886 (Rp juta); no mining-property line in the cash-flow statement."
+            },
+            "production": {
+                "v": 43.162711,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 26, Jumlah Produksi Batu Bara Konsolidasian 2024: 43,162,711 t",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production (Mt = tonnes / 1e6) excluding purchased coal (119,718 t purchased via PT Bukit Asam Prima; the decks/releases quote production + purchases, e.g. FY2025 47.19 Mt)."
+            },
+            "sales_volume": {
+                "v": 42.890977,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 26, Jumlah Penjualan Batu Bara 2024: 42,890,977 t (domestic 22,635,452 + export 20,255,525)",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Total coal sales volume, tonnes / 1e6."
+            },
+            "asp": {
+                "v": 981,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20250415112157-2025-04-15ptba_presentasi_perusahaan112134.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12, Average Selling Price (Rp Thousand/ton): FY24 981",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Average coal selling price as charted in the corporate presentation. Key-figures slide (PDF p. 8) rounds it to Rp0.98 million/ton. The FY2025 deck prints FY2024 ASP as USD 61.90/t (PDF p. 12)."
+            },
+            "cash_cost": {
+                "v": 841,
+                "source_url": "https://www.ptba.co.id/api/storage/reports/20250415112157-2025-04-15ptba_presentasi_perusahaan112134.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13, Cash Cost (Rp Thousand/ton): FY24 841",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Cash cost as defined in the decks: cost of revenue + G&A + selling & marketing expenses, excluding depreciation and amortisation, divided by sales volume (FY2021 deck PDF p. 9, FY2022 deck PDF p. 10 footnote 1). FY2025 deck prints FY2024 as USD 53.08/t (PDF p. 13)."
+            },
+            "roe": {
+                "v": 22.54,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 24, Rasio Keuangan dan Rasio Penting Lainnya - Laba Bersih terhadap Ekuitas",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end TOTAL equity (incl. NCI), e.g. 2,929,957 / 22,616,801 = 12.95% for 2025."
+            },
+            "roa": {
+                "v": 12.21,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 24, Rasio Keuangan dan Rasio Penting Lainnya - Laba Bersih terhadap Jumlah Aset",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end total assets."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 42651.724,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Consolidated revenue (coal sales + other activities), Rp juta / 1,000."
+            },
+            "ebitda": {
+                "v": 6083.959,
+                "source_url": "https://www.ptba.co.id/id/media/press-release/detail/ptba-bukukan-laba-bersih-rp-2-93-triliun-di-fy-2025-operasional-tumbuh-dan-profitabilitas-berangsur-pulih",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "FY2025 results release (Jakarta, 1 April 2026), Kinerja Keuangan table - EBITDA FY25 6.083.959 (Rp juta); EBITDA margin 14%",
+                "basis": "consolidated",
+                "note": "Rp juta / 1,000. The FY2025 deck (PDF p. 14) prints Rp6.08 trillion. Definition not printed."
+            },
+            "operating_profit": {
+                "v": 3208.073,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 17, Laba usaha / Operating profit",
+                "basis": "consolidated",
+                "note": "'Laba usaha' as presented: gross profit less G&A and selling expenses plus other income-net; before finance items and share of associates/JVs."
+            },
+            "net_profit_attr": {
+                "v": 2929.957,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18, Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "eps": {
+                "v": 254,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 18, Laba per saham - dasar dan dilusian (nilai penuh)",
+                "basis": "consolidated",
+                "share_basis": "2026-03-31",
+                "note": "Basic = diluted EPS as printed (weighted-average shares net of treasury shares)."
+            },
+            "payout_ratio": {
+                "v": 45,
+                "source_url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-11",
+                "loc": "PDF p. 13-14 (Agenda decision: Rp1,318,480,807,559 'atau sebesar 45%') and p. 27",
+                "basis": "consolidated",
+                "note": "Share of FY profit attributable to owners of the parent paid as the (single, final) cash dividend; no interim dividend was paid for FY2020-FY2025."
+            },
+            "total_assets": {
+                "v": 43917.063,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Laporan posisi keuangan - JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "total_liabilities": {
+                "v": 21300.262,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, JUMLAH LIABILITAS",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4522.194,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 14, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; time deposits over 3 months and restricted cash are presented in separate lines and excluded."
+            },
+            "total_debt": {
+                "v": 3227.525,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15, current and non-current 'Pinjaman bank' lines",
+                "basis": "consolidated",
+                "note": "Bank borrowings only: short-term bank borrowings 1,950,000 + current maturities of long-term bank borrowings 100 + long-term bank borrowings 1,277,425 (Rp juta); matches 'Pinjaman Bank 3.227.525' in the FY2025 results release. Lease liabilities (374,390 + 255,268) excluded. PTBA has never issued bonds/sukuk (AR2025 PDF p. 176)."
+            },
+            "equity_attr": {
+                "v": 22483.714,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "total_equity": {
+                "v": 22616.801,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 16, JUMLAH EKUITAS",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11514357250,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 123, Note Modal saham - Jumlah saham beredar (Total shares outstanding)",
+                "share_basis": "2026-03-31",
+                "note": "11,520,659,250 issued less 6,302,000 treasury shares (2020 buyback; must be transferred by 31 Mar 2029)."
+            },
+            "year_end_price": {
+                "v": 2310,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 29 (and p. 28 quarterly table: Q4-2025 close 2,310 on 30/12/25), Harga Saham Penutupan",
+                "share_basis": "2026-05-01",
+                "note": "Closing price as printed in the AR share table; no split or bonus issue since the 14 Dec 2017 1:5 nominal split, so no restatement."
+            },
+            "cfo": {
+                "v": 6260.828,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Arus kas bersih yang diperoleh dari aktivitas operasi",
+                "basis": "consolidated"
+            },
+            "capex": {
+                "v": 3505.367,
+                "source_url": "https://www.ptba.co.id/api/storage/1774971772491-73e3ba96-4961-49ff-b08d-34765081e10a.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 20, Arus kas dari aktivitas investasi",
+                "basis": "consolidated",
+                "note": "'Perolehan aset tetap dan tanaman produktif' 3,505,367 (Rp juta); no mining-property line. The company's own 'Belanja Modal' (capex, accrual basis) is 4,551,266 in the FY2025 release / 4,513,323 in AR2025 p. 25."
+            },
+            "production": {
+                "v": 47.136497,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 26, Jumlah Produksi Batu Bara Konsolidasian 2025: 47,136,497 t",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Coal production (Mt = tonnes / 1e6) excluding purchased coal (52,108 t purchased via PT Bukit Asam Prima; the decks/releases quote production + purchases, e.g. FY2025 47.19 Mt)."
+            },
+            "sales_volume": {
+                "v": 45.428081,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 26, Jumlah Penjualan Batu Bara 2025: 45,428,081 t (domestic 24,742,790 + export 20,685,291)",
+                "basis": "consolidated",
+                "unit": "Mt",
+                "note": "Total coal sales volume, tonnes / 1e6."
+            },
+            "asp": {
+                "v": 920,
+                "source_url": "https://www.ptba.co.id/api/storage/1775469976417-cbd04717-aa9a-4e55-92d5-93352d34943a.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 8, Operational and Financial Key Figures FY-2025 - Average Selling Price 'Rp0.92M/Ton'",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Average coal selling price as charted in the corporate presentation. Printed only as Rp0.92 million/ton (two significant digits), stored as 920 thousand. The same deck prints USD 55.99/t on PDF p. 12 (FY2024: USD 61.90/t)."
+            },
+            "cash_cost": {
+                "v": 840,
+                "source_url": "https://www.ptba.co.id/api/storage/1775469976417-cbd04717-aa9a-4e55-92d5-93352d34943a.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 8, Key Figures FY-2025 - Cash Cost 'Rp 0.84M/Ton'",
+                "basis": "consolidated",
+                "unit": "IDR thousand/t",
+                "note": "Cash cost as defined in the decks: cost of revenue + G&A + selling & marketing expenses, excluding depreciation and amortisation, divided by sales volume (FY2021 deck PDF p. 9, FY2022 deck PDF p. 10 footnote 1). Printed only as Rp0.84 million/ton, stored as 840 thousand. Same deck PDF p. 13 prints USD 50.76/t (FY2024 USD 53.08/t)."
+            },
+            "roe": {
+                "v": 12.95,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 24, Rasio Keuangan dan Rasio Penting Lainnya - Laba Bersih terhadap Ekuitas",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end TOTAL equity (incl. NCI), e.g. 2,929,957 / 22,616,801 = 12.95% for 2025."
+            },
+            "roa": {
+                "v": 6.67,
+                "source_url": "https://www.ptba.co.id/api/storage/1780397923836-db4ccb5e-d835-4196-932d-2dabbba28b83.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 24, Rasio Keuangan dan Rasio Penting Lainnya - Laba Bersih terhadap Jumlah Aset",
+                "basis": "consolidated",
+                "note": "As reported: profit attributable to owners of the parent / year-end total assets."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2020,
+            "type": "final",
+            "dps": 74.694385,
+            "total": 835.387,
+            "cum_date": "2021-04-13",
+            "ex_date": "2021-04-14",
+            "record_date": "2021-04-15",
+            "pay_date": "2021-05-07",
+            "share_basis": "2021-04-05",
+            "source_url": "https://www.ptba.co.id/api/storage/documents/pengumuman-ringkasan-risalah-rapat-umum-pemegang-saham-tahunan-tahun-buku-2020.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2021-04-05",
+            "loc": "PDF p. 3 (Agenda 3: 35% = Rp835,386,571,935) and p. 5-6 'Jadwal Dan Tata Cara Pelaksanaan Pembayaran Dividen Tunai' (DPS Rp74.694385; cum/ex regular & negotiated market 13/14 Apr 2021, cash market 15/16 Apr; recording 15 Apr; payment 7 May 2021)",
+            "note": "Rupiah per share as declared (IDR reporter, declared in rupiah). AGMS 5 April 2021 (summary announced 7 April 2021). Total Rp835,386,571,935 (FS2021 Note 26 shows 835,388 juta, Rp75/share rounded). Shares entitled 11,184,061,250 (AR2025 PDF p. 243)."
+        },
+        {
+            "fy": 2021,
+            "type": "final",
+            "dps": 688.515,
+            "total": 7909.111,
+            "cum_date": "2022-06-03",
+            "ex_date": "2022-06-06",
+            "record_date": "2022-06-07",
+            "pay_date": "2022-06-24",
+            "share_basis": "2022-05-24",
+            "source_url": "https://www.ptba.co.id/api/storage/documents/20220527090847-2022-05-27ptba_pengumuman090756.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2022-05-24",
+            "loc": "PDF p. 11-12, Jadwal (scanned page, read from render): DPS Rp688.515; cum regular & negotiated 3 Jun 2022 (cash market 7 Jun); ex 6 Jun 2022 (cash 8 Jun); recording 7 Jun; payment 24 Jun 2022",
+            "note": "Rupiah per share as declared (IDR reporter, declared in rupiah). AGMS 24 May 2022 (summary dated 27 May 2022): 100% of FY2021 profit, Rp7,909,111,452,604. FS2022 Note 26 shows 7,909,118 juta and payment '23-24 June 2022'. Shares entitled 11,487,209,350."
+        },
+        {
+            "fy": 2022,
+            "type": "final",
+            "dps": 1094.05005,
+            "total": 12567.582,
+            "cum_date": "2023-06-23",
+            "ex_date": "2023-06-26",
+            "record_date": "2023-06-27",
+            "pay_date": "2023-07-14",
+            "share_basis": "2023-06-15",
+            "source_url": "https://www.ptba.co.id/api/storage/documents/20230619210211-2023-06-19ptba_pengumuman210209.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-06-15",
+            "loc": "PDF p. 8, H. Jadwal dan Tata Cara Pembagian Dividen Tunai (scanned page, read from render): DPS Rp1,094.050050; cum regular & negotiated 23 Jun 2023, ex 26 Jun 2023, recording 27 Jun, payment 14 Jul 2023",
+            "note": "Rupiah per share as declared (IDR reporter, declared in rupiah). AGMS 15 June 2023 (summary dated 19 June 2023): 100% of FY2022 profit, Rp12,567,581,927,964. Re-notice of 21 June 2023 (https://www.ptba.co.id/api/storage/documents/20230621141017-2023-06-21ptba_pengumuman141007.pdf, PDF p. 2) after the IDX holiday change moved only the cash-market ex-date to 3 Jul 2023; regular-market dates unchanged."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 397.712,
+            "total": 4579.392,
+            "cum_date": "2024-05-20",
+            "ex_date": "2024-05-21",
+            "record_date": "2024-05-22",
+            "pay_date": "2024-06-07",
+            "share_basis": "2024-05-08",
+            "source_url": "https://www.ptba.co.id/api/storage/documents/20240510192448-2024-05-10ptba_pengumuman192445.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-05-08",
+            "loc": "PDF p. 9 (DPS Rp397.712, 75% of Rp6,105,856,005,760) and p. 10 Jadwal (scanned, read from render): cum regular & negotiated 20 May 2024 (cash 22 May), ex 21 May 2024 (cash 27 May), recording 22 May, payment 7 Jun 2024",
+            "note": "Rupiah per share as declared (IDR reporter, declared in rupiah). AGMS 8 May 2024 (summary dated 10 May 2024). Total Rp4,579,392,004,320 (AR2025 PDF p. 242). Shares entitled 11,514,357,250 (treasury shares sold 28 Mar 2024, before the recording date)."
+        },
+        {
+            "fy": 2024,
+            "type": "final",
+            "dps": 332.437,
+            "total": 3827.79,
+            "cum_date": "2025-06-20",
+            "ex_date": "2025-06-23",
+            "record_date": "2025-06-24",
+            "pay_date": "2025-07-11",
+            "share_basis": "2025-06-12",
+            "source_url": "https://www.ptba.co.id/api/storage/documents/20250613223911-2025-06-13ptba_pengumuman223902.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2025-06-12",
+            "loc": "PDF p. 27 (DPS Rp332.437, 75% of Rp5,103,720,015,654) and p. 28-29 Jadwal (scanned, read from render): cum regular & negotiated 20 Jun 2025 (cash 24 Jun), ex 23 Jun 2025 (cash 25 Jun), recording 24 Jun, payment 11 Jul 2025",
+            "note": "Rupiah per share as declared (IDR reporter, declared in rupiah). AGMS 12 June 2025 (summary dated 13 June 2025). Total Rp3,827,790,011,741 (AR2025 PDF p. 242; FS2025 Note 24 shows 3,827,792 juta, Rp332 rounded)."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 114.508,
+            "total": 1318.481,
+            "cum_date": "2026-06-22",
+            "ex_date": "2026-06-23",
+            "record_date": "2026-06-24",
+            "pay_date": "2026-07-10",
+            "share_basis": "2026-06-11",
+            "source_url": "https://www.ptba.co.id/api/storage/1781268445682-768b9112-a802-47a8-9c3d-1d26987a9adf.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2026-06-11",
+            "loc": "PDF p. 13-14 (45% = Rp1,318,480,807,559) and p. 27-29 'H. Jadwal dan Tata Cara Pembagian Dividen Tunai' (DPS Rp114.508; cum regular & negotiated 22 Jun 2026, cash 24 Jun; ex 23 Jun 2026, cash 25 Jun; recording 24 Jun; payment 10 Jul 2026)",
+            "note": "Rupiah per share as declared (IDR reporter, declared in rupiah). AGMS 11 June 2026 (summary dated 12 June 2026). 9M2026 FS Note 24 shows 1,318,481 juta, Rp115 rounded."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 35201.385,
+                "source_url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 7, Laporan laba rugi interim - Pendapatan (9M 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited 9M2026 consolidated FS, Rp juta / 1,000."
+            },
+            "revenue_ytd_prior": {
+                "v": 31330.296,
+                "source_url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 7, comparative column 9M 2025",
+                "basis": "consolidated"
+            },
+            "ebitda_ytd": {
+                "v": 7191.854,
+                "source_url": "https://www.ptba.co.id/id/media/press-release/detail/laba-ptba-melonjak-tiga-kali-lipat-capai-rp-4-41-triliun-hingga-triwulan-iii-2026",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M26 results release (Jakarta, 29 October 2026), Kinerja Keuangan table - EBITDA 9M26 7.191.854 (Rp juta)",
+                "basis": "consolidated",
+                "note": "EBITDA as reported by the company (Rp7.19 trillion, margin 20%); definition not printed."
+            },
+            "ebitda_ytd_prior": {
+                "v": 3556.87,
+                "source_url": "https://www.ptba.co.id/id/media/press-release/detail/laba-ptba-melonjak-tiga-kali-lipat-capai-rp-4-41-triliun-hingga-triwulan-iii-2026",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "9M26 results release, Kinerja Keuangan table - EBITDA 9M25 3.556.870 (Rp juta)",
+                "basis": "consolidated"
+            },
+            "profit_ytd": {
+                "v": 4410.551,
+                "source_url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 8, Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk (9M 2026)",
+                "basis": "consolidated",
+                "note": "Up 216% YoY from a weak 9M2025 (lower coal prices and B40 fuel costs in 2025; ASP +18% YoY in 9M2026 per the release) - real, not a unit slip."
+            },
+            "profit_ytd_prior": {
+                "v": 1394.026,
+                "source_url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 8, comparative column 9M 2025",
+                "basis": "consolidated"
+            },
+            "equity_attr": {
+                "v": 27113.725,
+                "source_url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 6, Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+                "basis": "consolidated"
+            },
+            "shares_out": {
+                "v": 11514357250,
+                "source_url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 113, Note 22 Modal saham - Jumlah saham beredar",
+                "share_basis": "2026-10-29",
+                "note": "11,520,659,250 issued less 6,302,000 treasury shares."
+            },
+            "total_assets": {
+                "v": 51550.907,
+                "source_url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, JUMLAH ASET",
+                "basis": "consolidated"
+            },
+            "cash": {
+                "v": 4889.847,
+                "source_url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Kas dan setara kas",
+                "basis": "consolidated",
+                "note": "Excludes time deposits (DHE export-proceeds placements) shown separately."
+            },
+            "total_debt": {
+                "v": 4211.352,
+                "source_url": "https://www.ptba.co.id/api/storage/1793260777118-451d6bb0-9808-437d-815f-5e7bcba30440.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Pinjaman bank jangka pendek 1,540,000 + current maturities nil + long-term Pinjaman bank 2,671,352 (Rp juta)",
+                "basis": "consolidated",
+                "note": "Bank borrowings only (incl. the back-to-back facility secured by DHE placements, per the 9M26 release); lease liabilities (233,191 + 247,880) excluded. Matches 'Pinjaman Bank 4.211.352' in the 9M26 release."
+            }
+        }
+    },
+    "validation_ack": [],
+    "research_notes": [
+        "Name: the legal name changed from 'PT Bukit Asam Tbk' to 'Perusahaan Perseroan (Persero) PT Bukit Asam Tbk', abbreviated 'PT Bukit Asam (Persero) Tbk' (EGMS 16 Dec 2025 under the 4th BUMN-law amendment, UU 16/2025; notarial deed No. 68 of 14 Jan 2026; MoLHR approval AHU-0008473.AH.01.02.TAHUN 2026 of 13 Feb 2026). Sources: FS2025 Note 1 (PDF p. 22) and the IDX disclosure of 18 Feb 2026 (https://www.ptba.co.id/api/storage/1771402717137-4ea7f25d-039c-4409-be86-70bfbdf734d4.pdf). FS2019-FS2024 and AR2020-AR2024 are under 'PT Bukit Asam Tbk'. Immediate parent MIND ID (65.93%); the Government holds the 5 Series A Dwiwarna shares.",
+        "Currency/units: IDR reporter; all money in IDR billion (Rp juta / 1,000). Revenue includes non-coal activities (FY2025: coal 41,909,086 + other 742,638 Rp juta).",
+        "Source policy: FY levels/profit/EPS/cash flow from each year's own audited consolidated FS; balance-sheet comparatives in later FS match the original figures (no restatement found for 2019-2024). FY2022: the standalone audited FS PDF on ptba.co.id (reports/20230302151633-2023-03-02ptba_laporan_audit_keuangan151631.pdf) is truncated on the server (Content-Length 6,596,928, no xref/trailer; not in the Wayback Machine), so the audited FS2022 reproduced in AR2022 (PDF p. 763 ff.) is used; FS2023 comparatives agree.",
+        "EBITDA: PTBA reports EBITDA only in decks and results releases, without a printed definition. 2024-2025 and 9M figures are exact (Rp juta) from releases; 2021-2023 are chart values printed to 0.1 tn (2023: 10.00). Cross-check: PBT + finance costs + D&A (segment note) is within 0.5% of the reported EBITDA for 2024 and 2025 but not exact. The AR KPI tables print a different, SOE-KPI 'EBITDA' (AR2023 p. 386: 8,902 bn realisation for 2023; AR2024 p. 441: 7,894 for 2024; AR2025 p. 424: 5,875.43 for 2025); those were NOT used.",
+        "Treasury shares (net of which shares_out is stated): the 2012-2015 buybacks accumulated 980,283,500 treasury shares, of which 649,987,500 were transferred in 2019, leaving 330,296,000 (AR2025 PDF p. 175; FS2025 Note 23 calls them the 2015 buyback); 2020 buyback 6,302,000 shares (17 Mar-16 Jun 2020, Rp12.52 bn, AR2020 PDF p. 23); 303,148,100 transferred on 22 Sep 2021 by private placement at Rp2,280 (disclosure of 23 Sep 2021, https://www.ptba.co.id/api/storage/documents/20210923131702-2021-09-23ptba_pengumuman131646.pdf); 27,147,900 sold 28 Mar 2024 at Rp2,950 (FS2025 Note 23); 6,302,000 remain and must be transferred by 31 Mar 2029. On 23 Oct 2026 the company said it is studying a possible new share buyback (press release 'Kinerja Melesat, PTBA Siapkan Langkah Strategis Jaga Nilai Perusahaan'); nothing executed as of the 9M2026 FS.",
+        "Corporate actions 2019-01-01 to 2026-11-03: none (no split, reverse split, bonus or rights issue). The last split was the 1:5 nominal split of 14 Dec 2017 (AR2025 PDF p. 175 share chronology); AR2025 PDF p. 30 states no material corporate action in 2025; AR2025 PDF p. 176: no bonds/sukuk ever issued. corporate_actions is therefore an empty list and fy.2019.year_end_price is not needed.",
+        "Dividends: one final cash dividend per year, no interims (FS dividend notes FS2021 p. 121, AR2022 p. 885, FS2023 p. 113, FS2024 p. 113, FS2025 p. 126, 9M2026 p. 116). Exact DPS and the regular-market cum/ex/recording/payment dates come from the AGMS summary (Ringkasan Risalah RUPST) of each year; the FY2021-FY2024 summaries are scanned PDFs and were read from page renders. FS notes print rounded DPS (75, 689, 1,094, 398, 332, 115).",
+        "Operating data: production = 'Total Consolidated Coal Production' from the AR operational highlights (excludes purchased coal); sales volume = total coal sales. ASP and cash cost are deck values in Rp thousand per tonne; FY2025 is only printed as Rp0.92 M/t and Rp0.84 M/t in rupiah (the same deck gives USD 55.99/t and USD 50.76/t). The decks give ASP/cash cost only rounded, so treat them as indicative.",
+        "Large time deposits sit outside 'cash' (e.g. Rp9.0 tn end-2021, Rp8.9 tn end-2022, Rp0.5 tn end-2023; AR2025 PDF p. 20), so cash understates liquidity in 2021-2022.",
+        "9M2026: profit attributable +216% YoY and EBITDA +102% YoY against a weak 9M2025; the validator's 'YTD profit YoY > 100%' warning is real (9M26 release: ASP +18% YoY, Newcastle/ICI-3 +25%/+26%).",
+        "Customers: FY2024 sales mix by volume (FY2024 deck PDF p. 12): export 47%, domestic PLN 36%, domestic mine-mouth 9%, other domestic 8%; domestic share 54% in FY2025 (FY2025 release) and 52% in 9M2026 (9M26 release). Revenue from related parties was Rp20.7 tn in 2022 (FY2022 deck PDF p. 9, 'dominated by MIND ID Trading')."
+    ]
+}

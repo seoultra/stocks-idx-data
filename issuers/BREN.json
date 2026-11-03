@@ -1,0 +1,1287 @@
+{
+    "schema": 1,
+    "code": "BREN",
+    "name": "PT Barito Renewables Energy Tbk",
+    "name_short": "Barito Renewables",
+    "sector": "energy",
+    "subsector": "renewables",
+    "currency": "USD",
+    "exchange": "IDX",
+    "website": "https://www.baritorenewables.co.id",
+    "ir_url": "https://www.baritorenewables.co.id/en/financial-report",
+    "fy": {
+        "2019": {
+            "revenue": {
+                "v": null,
+                "note": "Not published: the earliest BREN consolidated FS are the FY2020-2022 statements in the IPO prospectus (FY2019 income statement not presented)."
+            },
+            "net_profit_attr": {
+                "v": null,
+                "note": "Not published (FY2019 income statement not in the IPO prospectus; FY2020-2022 only)."
+            },
+            "total_assets": {
+                "v": null,
+                "note": "Not published: the prospectus FS have no 31 Dec 2019 balance sheet (only 31 Mar 2023 and 31 Dec 2022/2021/2020)."
+            },
+            "cash": {
+                "v": 38.981,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 280 (FS Schedule 4 cash flow statement), 'Cash and cash equivalents at the beginning of the year' in the FY2020 column",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). Opening balance of FY2020 = 31 Dec 2019. USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": null,
+                "note": "Not published: no 31 Dec 2019 balance sheet or borrowings note in the prospectus FS."
+            },
+            "equity_attr": {
+                "v": 431.659,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 278 (FS Schedule 3/1, statement of changes in equity), 'Balance as at 1 January 2020' - total attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). Opening balance of FY2020 = 31 Dec 2019 (combined group under the common-control presentation). USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 873.111,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2019-12-31",
+                "loc": "PDF p. 278 (FS Schedule 3/1, statement of changes in equity), 'Balance as at 1 January 2020' - total equity (NCI 441.452)",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). Opening balance of FY2020 = 31 Dec 2019. USD thousand in the FS / 1,000 = USD million."
+            }
+        },
+        "2020": {
+            "revenue": {
+                "v": 520.643,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 277 (FS Schedule 2), Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": 426,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Final Prospectus PDF p. 187 ('AS$426 juta'; EBITDA margin 81.76%)",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it, in USD million as printed (rounded). Definition (Prospectus PDF p. 52, ratio table footnote 6): profit before income tax + finance costs + depreciation & amortisation. The AR/press release give no definition; the FS-face sum PBT + finance costs + D&A reproduces the reported figure (e.g. FY2025 305.754 + 118.812 + 93.449 = 518.0)."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "Not presented: the Prospectus FS statement of profit or loss lists revenue and expenses by nature straight down to 'Profit before tax' (no 'laba usaha'/operating profit subtotal); checked PDF p. 277 (FS Schedule 2)."
+            },
+            "net_profit_attr": {
+                "v": 63.705,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 277 (FS Schedule 2), Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 7.6446,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 403 (FS Note 25), basic and diluted EPS (full US$ amount), weighted average 8,333,333 shares",
+                "basis": "consolidated",
+                "share_basis": "2023-09-13",
+                "note": "Pre-IPO EPS as printed, 'restated to reflect the stock split effective from 8 June 2023' (Rp1,000,000 -> Rp150 nominal), i.e. on the listing share basis. Not comparable with later years: the company had 8.3 mn (restated) shares until the Dec-2022 restructuring share issue (see research_notes). share_basis = FS reissue date 13 Sep 2023 (after the split)."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Pre-IPO year; no payout ratio reported. Prospectus FS Note 18a (PDF p. 391): SEGHPL (Star Energy Geothermal Holdings, before its Dec-2022 restructuring into the Company) declared and paid dividends to its shareholders of US$36,000k in 2022, US$9,235k in 2021 and nil in 2020; the profit year they were paid from is not stated. Not BREN shareholder dividends (company unlisted, no rupiah DPS)."
+            },
+            "total_assets": {
+                "v": 3332.098,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 275 (FS Schedule 1/1), Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 2490.947,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 276 (FS Schedule 1/2), TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 123.26,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 275 (FS Schedule 1/1), Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; the FS shows 'Restricted cash (and time deposits)' as a separate line (debt-service reserves), excluded. USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": 1611.485,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 372 (FS Note 15 Borrowings), 'Jumlah / Total' of borrowings; = face lines Borrowings current + non-current (PDF p. 276 (FS Schedule 1/2))",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings = senior secured notes 41.614 (current) + 1,569.871 (non-current); no bank loans. Printed note total, no summing needed. Excludes lease liabilities. USD thousand in the FS / 1,000 = USD million."
+            },
+            "equity_attr": {
+                "v": 417.759,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 276 (FS Schedule 1/2), Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 841.151,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 276 (FS Schedule 1/2), Total equity (incl. non-controlling interests)",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 8333333,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "FS Note 25 (PDF p. 403): weighted average ordinary shares 2020 = 8,333,333 'restated to reflect the stock split'; FS Note 18a (PDF p. 390): 1,250 shares outstanding at both 31 Dec 2020 and 31 Dec 2021, so the weighted average equals the year-end count",
+                "share_basis": "2023-09-13",
+                "note": "FS face prints 1,250 shares of Rp1,000,000 (Barito 1,240 + PT Griya Idola 10). Stored on the post-split basis as printed by the company (1,250 x 6,666.67 = 8,333,333 after rounding). Pre-IPO; see research_notes."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed in 2020: shares listed on IDX on 9 Oct 2023 (IPO price Rp780, Final Prospectus PDF p. 1)."
+            },
+            "cfo": {
+                "v": 218.06,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 280 (FS Schedule 4), Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "capex": {
+                "v": 23.272,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "PDF p. 280 (FS Schedule 4), investing activities: 'Additions of property, plant and equipment / fixed assets' + 'Additions of property on operating lease'",
+                "basis": "consolidated",
+                "note": "Sum of two printed cash-flow lines: PP&E 0.000 + property on operating lease 23.272 (the power plants leased to PLN are carried as operating-lease property). Excluded investing outflows: deferred charges 0.973, capital spares 0.859. USD thousand in the FS / 1,000 = USD million."
+            },
+            "fx_usd_idr": {
+                "v": 14105,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2020-12-31&enddate=2020-12-31",
+                "source_type": "official",
+                "as_of_date": "2020-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2020-12-31",
+                "basis": "n/a",
+                "note": "BREN's FS state the closing rate only as 'Rp10,000 = US$0.xx' (too coarse); the Bank Indonesia middle rate is stored. Bank Indonesia middle rate (kurs tengah) for 2020-12-31: BI publishes kurs beli 14,034.48 and kurs jual 14,175.53; their mean is 14,105.005, i.e. Rp14,105 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000071' (https://www.medcoenergi.com/uploads/rwocis/423/medc-fy20.pdf PDF p. 39); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "roe": {
+                "v": 13.85,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Final Prospectus PDF p. 52, Rasio Profitabilitas (2020)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            },
+            "roa": {
+                "v": 3.5,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2020-12-31",
+                "loc": "Final Prospectus PDF p. 52, Rasio Profitabilitas (2020)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            }
+        },
+        "2021": {
+            "revenue": {
+                "v": 537.362,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 277 (FS Schedule 2), Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": 441,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Final Prospectus PDF p. 187 ('AS$441 juta'; EBITDA margin 82.12%)",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it, in USD million as printed (rounded). Definition (Prospectus PDF p. 52, ratio table footnote 6): profit before income tax + finance costs + depreciation & amortisation. The AR/press release give no definition; the FS-face sum PBT + finance costs + D&A reproduces the reported figure (e.g. FY2025 305.754 + 118.812 + 93.449 = 518.0)."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "Not presented: the Prospectus FS statement of profit or loss lists revenue and expenses by nature straight down to 'Profit before tax' (no 'laba usaha'/operating profit subtotal); checked PDF p. 277 (FS Schedule 2)."
+            },
+            "net_profit_attr": {
+                "v": 86.097,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 277 (FS Schedule 2), Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 10.33164,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 403 (FS Note 25), basic and diluted EPS (full US$ amount), weighted average 8,333,333 shares",
+                "basis": "consolidated",
+                "share_basis": "2023-09-13",
+                "note": "Pre-IPO EPS as printed, 'restated to reflect the stock split effective from 8 June 2023' (Rp1,000,000 -> Rp150 nominal), i.e. on the listing share basis. Not comparable with later years: the company had 8.3 mn (restated) shares until the Dec-2022 restructuring share issue (see research_notes). share_basis = FS reissue date 13 Sep 2023 (after the split)."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Pre-IPO year; no payout ratio reported. Prospectus FS Note 18a (PDF p. 391): SEGHPL (Star Energy Geothermal Holdings, before its Dec-2022 restructuring into the Company) declared and paid dividends to its shareholders of US$36,000k in 2022, US$9,235k in 2021 and nil in 2020; the profit year they were paid from is not stated. Not BREN shareholder dividends (company unlisted, no rupiah DPS)."
+            },
+            "total_assets": {
+                "v": 3441.902,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 275 (FS Schedule 1/1), Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 2459.12,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 276 (FS Schedule 1/2), TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 203.35,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 275 (FS Schedule 1/1), Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; the FS shows 'Restricted cash (and time deposits)' as a separate line (debt-service reserves), excluded. USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": 1572.82,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 372 (FS Note 15 Borrowings), 'Jumlah / Total' of borrowings; = face lines Borrowings current + non-current (PDF p. 276 (FS Schedule 1/2))",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings = senior secured notes 41.184 (current) + 1,531.636 (non-current); no bank loans. Printed note total, no summing needed. Excludes lease liabilities. USD thousand in the FS / 1,000 = USD million."
+            },
+            "equity_attr": {
+                "v": 496.246,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 276 (FS Schedule 1/2), Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 982.782,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 276 (FS Schedule 1/2), Total equity (incl. non-controlling interests)",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 8333333,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "FS Note 25 (PDF p. 403): weighted average ordinary shares 2021 = 8,333,333 'restated to reflect the stock split'; FS Note 18a (PDF p. 390): 1,250 shares outstanding at both 31 Dec 2020 and 31 Dec 2021, so the weighted average equals the year-end count",
+                "share_basis": "2023-09-13",
+                "note": "FS face prints 1,250 shares of Rp1,000,000 (Barito 1,240 + PT Griya Idola 10). Stored on the post-split basis as printed by the company (1,250 x 6,666.67 = 8,333,333 after rounding). Pre-IPO; see research_notes."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed in 2021: shares listed on IDX on 9 Oct 2023 (IPO price Rp780, Final Prospectus PDF p. 1)."
+            },
+            "cfo": {
+                "v": 234.932,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 280 (FS Schedule 4), Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "capex": {
+                "v": 71.574,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "PDF p. 280 (FS Schedule 4), investing activities: 'Additions of property, plant and equipment / fixed assets' + 'Additions of property on operating lease'",
+                "basis": "consolidated",
+                "note": "Sum of two printed cash-flow lines: PP&E 48.098 + property on operating lease 23.476 (the power plants leased to PLN are carried as operating-lease property). Excluded investing outflows: other non-current assets 1.003, deferred charges 3.614, intangible assets 1.293. USD thousand in the FS / 1,000 = USD million."
+            },
+            "fx_usd_idr": {
+                "v": 14269,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2021-12-31&enddate=2021-12-31",
+                "source_type": "official",
+                "as_of_date": "2021-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2021-12-31",
+                "basis": "n/a",
+                "note": "BREN's FS state the closing rate only as 'Rp10,000 = US$0.xx' (too coarse); the Bank Indonesia middle rate is stored. Bank Indonesia middle rate (kurs tengah) for 2021-12-31: BI publishes kurs beli 14,197.66 and kurs jual 14,340.35; their mean is 14,269.005, i.e. Rp14,269 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000070' (https://www.medcoenergi.com/uploads/rwocis/427/medc-fy21.pdf PDF p. 42); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "roe": {
+                "v": 16.16,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Final Prospectus PDF p. 52, Rasio Profitabilitas (2021); ROA also AR2023 PDF p. 10",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            },
+            "roa": {
+                "v": 4.61,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2021-12-31",
+                "loc": "Final Prospectus PDF p. 52, Rasio Profitabilitas (2021); ROA also AR2023 PDF p. 10",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            }
+        },
+        "2022": {
+            "revenue": {
+                "v": 569.78,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 277 (FS Schedule 2), Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": 472,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Final Prospectus PDF p. 187 (Ch. VIII business strengths d.: 'EBITDA Perseroan ... 2020, 2021, 2022 ... AS$426 juta, AS$441 juta, AS$472 juta'; EBITDA margin 82.81%)",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it, in USD million as printed (rounded). Definition (Prospectus PDF p. 52, ratio table footnote 6): profit before income tax + finance costs + depreciation & amortisation. The AR/press release give no definition; the FS-face sum PBT + finance costs + D&A reproduces the reported figure (e.g. FY2025 305.754 + 118.812 + 93.449 = 518.0)."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "Not presented: the Prospectus FS statement of profit or loss lists revenue and expenses by nature straight down to 'Profit before tax' (no 'laba usaha'/operating profit subtotal); checked PDF p. 277 (FS Schedule 2)."
+            },
+            "net_profit_attr": {
+                "v": 91.126,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 277 (FS Schedule 2), Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 0.06371,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 403 (FS Note 25), basic and diluted EPS (full US$ amount), weighted average 1,430,392,365 shares",
+                "basis": "consolidated",
+                "share_basis": "2023-09-13",
+                "note": "Pre-IPO EPS as printed, 'restated to reflect the stock split effective from 8 June 2023' (Rp1,000,000 -> Rp150 nominal), i.e. on the listing share basis. Not comparable with later years: the company had 8.3 mn (restated) shares until the Dec-2022 restructuring share issue (see research_notes). share_basis = FS reissue date 13 Sep 2023 (after the split)."
+            },
+            "payout_ratio": {
+                "v": null,
+                "note": "Pre-IPO year; no payout ratio reported. Prospectus FS Note 18a (PDF p. 391): SEGHPL (Star Energy Geothermal Holdings, before its Dec-2022 restructuring into the Company) declared and paid dividends to its shareholders of US$36,000k in 2022, US$9,235k in 2021 and nil in 2020; the profit year they were paid from is not stated. Not BREN shareholder dividends (company unlisted, no rupiah DPS)."
+            },
+            "total_assets": {
+                "v": 3393.722,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 275 (FS Schedule 1/1), Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 2958.72,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 276 (FS Schedule 1/2), TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 169.331,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 275 (FS Schedule 1/1), Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; the FS shows 'Restricted cash (and time deposits)' as a separate line (debt-service reserves), excluded. USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": 2065.1,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 372 (FS Note 15 Borrowings), 'Jumlah / Total' of borrowings; = face lines Borrowings current + non-current (PDF p. 276 (FS Schedule 1/2))",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings = senior secured notes 38.000 (current) + senior secured notes 1,495.921 + Bangkok Bank loan 531.179 (non-current), net of unamortised financing costs. Printed note total, no summing needed. Excludes lease liabilities. USD thousand in the FS / 1,000 = USD million."
+            },
+            "equity_attr": {
+                "v": 191.505,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 276 (FS Schedule 1/2), Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 435.002,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 276 (FS Schedule 1/2), Total equity (incl. non-controlling interests)",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 129771220000,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "FS Note 25 (PDF p. 403): weighted average for Q1 2023 = 129,771,220,000 restated shares (constant: FS Note 18a PDF p. 390 shows 19,465,683 shares at both 31 Dec 2022 and 31 Mar 2023); same count in the pre-IPO capital structure table (Prospectus PDF p. 25)",
+                "share_basis": "2023-09-13",
+                "note": "FS face prints 19,465,683 shares of Rp1,000,000 at 31 Dec 2022; stored on the post-split (Rp150) basis the prospectus restates to: 19,465,683 x 6,666.67 = 129,771,220,000. The Jun-2023 split predates listing and is not in corporate_actions.json (research_notes)."
+            },
+            "year_end_price": {
+                "v": null,
+                "note": "Not listed in 2022: shares listed on IDX on 9 Oct 2023 (IPO price Rp780, Final Prospectus PDF p. 1)."
+            },
+            "cfo": {
+                "v": 237.585,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 280 (FS Schedule 4), Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "Audited consolidated FS for 31 Mar 2023 and FY2022/2021/2020, reissued 13 Sep 2023, inside the IPO Final Prospectus (Indonesian prospectus; FS bilingual). USD thousand in the FS / 1,000 = USD million. The FS2023 comparative column restates FY2022 CFO to 237.361 (FS2023 PDF p. 16); the FY2022 FS as issued is stored."
+            },
+            "capex": {
+                "v": 50.934,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "PDF p. 280 (FS Schedule 4), investing activities: 'Additions of property, plant and equipment / fixed assets' + 'Additions of property on operating lease'",
+                "basis": "consolidated",
+                "note": "Sum of two printed cash-flow lines: PP&E 26.790 + property on operating lease 24.144 (the power plants leased to PLN are carried as operating-lease property). Excluded investing outflows: other non-current assets 0.224, deferred charges 9.267, intangible assets 0.446. USD thousand in the FS / 1,000 = USD million."
+            },
+            "fx_usd_idr": {
+                "v": 15731,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2022-12-30&enddate=2022-12-30",
+                "source_type": "official",
+                "as_of_date": "2022-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2022-12-30",
+                "basis": "n/a",
+                "note": "BREN's FS state the closing rate only as 'Rp10,000 = US$0.xx' (too coarse); the Bank Indonesia middle rate is stored. Bank Indonesia middle rate (kurs tengah) for 2022-12-30: BI publishes kurs beli 15,652.34 and kurs jual 15,809.66; their mean is 15,731.000, i.e. Rp15,731 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000064' (https://www.medcoenergi.com/uploads/rwocis/523/medcoenergi_fy2022.pdf PDF p. 54); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "roe": {
+                "v": 39.67,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Final Prospectus PDF p. 52, Rasio Keuangan - Rasio Profitabilitas: 'Laba tahun berjalan / Jumlah ekuitas' and '/ Jumlah aset' (2022); ROA also AR2023 PDF p. 10",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            },
+            "roa": {
+                "v": 5.08,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2023/10/aef3669eea4a0433e4a22f819b4e002d_7d30d9d2fc7f7d22159e27493a5f97cd.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "Final Prospectus PDF p. 52, Rasio Keuangan - Rasio Profitabilitas: 'Laba tahun berjalan / Jumlah ekuitas' and '/ Jumlah aset' (2022); ROA also AR2023 PDF p. 10",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            },
+            "production": {
+                "v": 5157,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/04/3f0c8d8bfd4aecfdca1aec063d2b25d2_91cbcb44a967819bd317399b4b1a744e.pdf",
+                "source_type": "filing",
+                "as_of_date": "2022-12-31",
+                "loc": "AR2023 PDF p. 75: Electricity 5,157 GWh (steam 1,688 GWh)",
+                "basis": "consolidated",
+                "unit": "GWh",
+                "note": "Electricity production (GWh) as printed in the AR MD&A table; geothermal steam sold to PLN-owned units is shown separately (in loc). Includes wind from 2024 (Sidrap acquired 2024) if the AR table includes it - not stated."
+            }
+        },
+        "2023": {
+            "revenue": {
+                "v": 594.937,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 13-14 (Schedule 2), Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": 501.9,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/04/3f0c8d8bfd4aecfdca1aec063d2b25d2_91cbcb44a967819bd317399b4b1a744e.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 26 (Board of Directors' report: 'EBITDA ... US$501.9 million', +6.1% YoY); same in the FY2023 press release of 19 Mar 2024 (https://www.baritorenewables.co.id/en/press-release/pt-barito-renewables-energy-tbk-idx-bren-announces-its-audited-consolidated-financial-statements-for-the-year-ended-31-december-2023)",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it, in USD million as printed (rounded). Definition (Prospectus PDF p. 52, ratio table footnote 6): profit before income tax + finance costs + depreciation & amortisation. The AR/press release give no definition; the FS-face sum PBT + finance costs + D&A reproduces the reported figure (e.g. FY2025 305.754 + 118.812 + 93.449 = 518.0)."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "Not presented: the FS2023 statement of profit or loss lists revenue and expenses by nature straight down to 'Profit before tax' (no 'laba usaha'/operating profit subtotal); checked PDF pp. 13-14 (Schedule 2)."
+            },
+            "net_profit_attr": {
+                "v": 107.417,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 13-14 (Schedule 2), Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 0.00082,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 13-14 (Schedule 2) face + PDF p. 138 (Note 25), basic and diluted EPS (full US$ amount)",
+                "basis": "consolidated",
+                "share_basis": "2024-03-15",
+                "note": "Basic EPS in US$ per share as printed (no dilutive instruments). share_basis = FS authorisation date; no split, bonus or rights issue since listing (9 Oct 2023)."
+            },
+            "payout_ratio": {
+                "v": 46.2,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/06/a9c544ac6b1f36bb6e5c1e63d4a47ac3_114a1b6c24c83c09ed1c543dc2fd7ad3.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2024-05-29",
+                "loc": "AGMS 29 May 2024 summary of minutes (EN), Second Agenda: USD 49.62 million or 46.2% of FY2023 owners' profit (USD 107.4 million) as cash dividends (interim USD 32.87 million paid 8 Dec 2023, remaining USD 16.75 million final)",
+                "basis": "n/a",
+                "note": "Payout of owners' profit as approved by the AGMS (percent as printed)."
+            },
+            "total_assets": {
+                "v": 3508.431,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10 (Schedule 1/1), Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 2858.093,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 11-12 (Schedule 1/2-1/3), TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 247.787,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 10 (Schedule 1/1), Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; the FS shows 'Restricted cash (and time deposits)' as a separate line (debt-service reserves), excluded. USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": 1984.529,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 107 (Note 15 Borrowings), 'Jumlah / Total' of borrowings; = face lines Borrowings current + non-current (PDF pp. 11-12 (Schedule 1/2-1/3))",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings = senior secured notes 82.167 + bank loans 52.625 (current) + senior secured notes 1,416.046 + bank loans 433.691 (non-current), net of unamortised financing costs. Printed note total, no summing needed. Excludes lease liabilities. USD thousand in the FS / 1,000 = USD million."
+            },
+            "equity_attr": {
+                "v": 444.109,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 11-12 (Schedule 1/2-1/3), Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 650.338,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 11-12 (Schedule 1/2-1/3), Total equity (incl. non-controlling interests)",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 133786220000,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF pp. 11-12 (Schedule 1/2-1/3) face, issued and fully paid 133,786,220,000 shares (IPO 9 Oct 2023); no treasury shares",
+                "share_basis": "2024-03-15",
+                "note": "Outstanding shares net of treasury shares. share_basis = FS authorisation date; no split, bonus or rights issue since listing (9 Oct 2023)."
+            },
+            "year_end_price": {
+                "v": 7475,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/04/3f0c8d8bfd4aecfdca1aec063d2b25d2_91cbcb44a967819bd317399b4b1a744e.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2023 PDF p. 10, Informasi Saham / Share Information, December 2023 closing (Penutupan); market cap Rp1,000,051,994,500,000 = 7,475 x 133,786,220,000",
+                "share_basis": "2023-12-31",
+                "note": "Closing price (Rp) of the last trading session of the year as printed in the AR share table. No split since listing."
+            },
+            "cfo": {
+                "v": 227.207,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16 (Schedule 4), Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "capex": {
+                "v": 24.676,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2024/03/558e7b746db4b5af8747a6e828ae01cf_e9519d22c81a67a99ab640c26d936170.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "PDF p. 16 (Schedule 4), investing activities: 'Additions of property, plant and equipment / fixed assets' + 'Additions of property on operating lease'",
+                "basis": "consolidated",
+                "note": "Sum of two printed cash-flow lines: PP&E 16.397 + property on operating lease 8.279 (the power plants leased to PLN are carried as operating-lease property). Excluded investing outflows: deferred charges 4.736, exploration & evaluation 3.454, capital spares 0.482, acquisition of subsidiaries 5.168. USD thousand in the FS / 1,000 = USD million."
+            },
+            "fx_usd_idr": {
+                "v": 15416,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2023-12-29&enddate=2023-12-29",
+                "source_type": "official",
+                "as_of_date": "2023-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2023-12-29",
+                "basis": "n/a",
+                "note": "BREN's FS state the closing rate only as 'Rp10,000 = US$0.xx' (too coarse); the Bank Indonesia middle rate is stored. Bank Indonesia middle rate (kurs tengah) for 2023-12-29: BI publishes kurs beli 15,338.92 and kurs jual 15,493.08; their mean is 15,416.000, i.e. Rp15,416 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000065' (https://www.medcoenergi.com/uploads/rwocis/529/MEDC_FY23.pdf PDF p. 48); no IDR-per-USD figure is printed in the FS or AR."
+            },
+            "roe": {
+                "v": 22.34,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11, Key Financial Ratios (2023 column)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            },
+            "roa": {
+                "v": 4.14,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2025 PDF p. 11, Key Financial Ratios (2023 column)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            },
+            "production": {
+                "v": 5221,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/05/df934b51ee1bf0b129ca835c1768cfd3_393efe37219000a5b5ae5a399c78659e.pdf",
+                "source_type": "filing",
+                "as_of_date": "2023-12-31",
+                "loc": "AR2024 PDF p. 86: Electricity 5,221 GWh (steam 1,856 GWh); same in AR2023 PDF p. 75",
+                "basis": "consolidated",
+                "unit": "GWh",
+                "note": "Electricity production (GWh) as printed in the AR MD&A table; geothermal steam sold to PLN-owned units is shown separately (in loc). Includes wind from 2024 (Sidrap acquired 2024) if the AR table includes it - not stated."
+            }
+        },
+        "2024": {
+            "revenue": {
+                "v": 596.823,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (FS p. 3), Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": 515,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/05/df934b51ee1bf0b129ca835c1768cfd3_393efe37219000a5b5ae5a399c78659e.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2024 PDF p. 26 (Board of Directors' report: 'EBITDA surged to US$515 million', margin 86.3%); same in the FY2024 press release of 21 Mar 2025 (https://www.baritorenewables.co.id/en/press-release/fy-2024-bren-performance)",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it, in USD million as printed (rounded). Definition (Prospectus PDF p. 52, ratio table footnote 6): profit before income tax + finance costs + depreciation & amortisation. The AR/press release give no definition; the FS-face sum PBT + finance costs + D&A reproduces the reported figure (e.g. FY2025 305.754 + 118.812 + 93.449 = 518.0)."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "Not presented: the FS2024 statement of profit or loss lists revenue and expenses by nature straight down to 'Profit before tax' (no 'laba usaha'/operating profit subtotal); checked PDF p. 14 (FS p. 3)."
+            },
+            "net_profit_attr": {
+                "v": 122.108,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (FS p. 3), Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 0.00091,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 14 (FS p. 3) face + PDF p. 127 (Note 26), basic and diluted EPS (full US$ amount)",
+                "basis": "consolidated",
+                "share_basis": "2025-03-20",
+                "note": "Basic EPS in US$ per share as printed (no dilutive instruments). share_basis = FS authorisation date; no split, bonus or rights issue since listing (9 Oct 2023)."
+            },
+            "payout_ratio": {
+                "v": 26,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/07/0a91b745b4e1877cbceda0861326c5fd_079b61e2fbd38e86c7887ad4affce40e.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2025-06-18",
+                "loc": "AGMS 18 Jun 2025 summary of minutes (EN), Second Agenda: USD 31.75 million or 26% of FY2024 owners' profit (USD 122.1 million), fully paid as the 20 Dec 2024 interim dividend, 'deemed the final dividends', no additional dividend",
+                "basis": "n/a",
+                "note": "Payout of owners' profit as approved by the AGMS (percent as printed)."
+            },
+            "total_assets": {
+                "v": 3787.513,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12 (FS p. 1), Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 3054.98,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13 (FS p. 2), TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 162.724,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 12 (FS p. 1), Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; the FS shows 'Restricted cash (and time deposits)' as a separate line (debt-service reserves), excluded. USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": 2097.237,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 98 (Note 16 Borrowings), 'Jumlah / Total' of borrowings; = face lines Borrowings current + non-current (PDF p. 13 (FS p. 2))",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings = senior secured notes 101.352 + bank loans 101.261 (current) + senior secured notes 1,316.955 + bank loans 577.669 (non-current), net of unamortised financing costs. Printed note total, no summing needed. Excludes lease liabilities. USD thousand in the FS / 1,000 = USD million."
+            },
+            "equity_attr": {
+                "v": 516.862,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13 (FS p. 2), Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 732.533,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13 (FS p. 2), Total equity (incl. non-controlling interests)",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 133786220000,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 13 (FS p. 2) face, issued and fully paid 133,786,220,000 shares; no treasury shares (FS2025 Note 19e: balance 1 Jan 2025 nil)",
+                "share_basis": "2025-03-20",
+                "note": "Outstanding shares net of treasury shares. share_basis = FS authorisation date; no split, bonus or rights issue since listing (9 Oct 2023)."
+            },
+            "year_end_price": {
+                "v": 9275,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 12, Share Information, 2024 Quarter IV closing (also AR2024 PDF p. 11)",
+                "share_basis": "2024-12-31",
+                "note": "Closing price (Rp) of the last trading session of the year as printed in the AR share table. No split since listing."
+            },
+            "cfo": {
+                "v": 268.41,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16 (FS p. 5), Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "capex": {
+                "v": 110.346,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2025/03/5398d7f4fe8e880dd55b184506b97b2c_816d5eafd468175b88bb4f06171c3646.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "PDF p. 16 (FS p. 5), investing activities: 'Additions of property, plant and equipment / fixed assets' + 'Additions of property on operating lease'",
+                "basis": "consolidated",
+                "note": "Sum of two printed cash-flow lines: PP&E 109.552 + property on operating lease 0.794 (the power plants leased to PLN are carried as operating-lease property). Excluded investing outflows: deferred charges 4.743, exploration & evaluation 1.884, capital spares 3.067, project development 1.448, novation loan 5.156, acquisition of subsidiaries (Sidrap/UPC wind) 101.003. USD thousand in the FS / 1,000 = USD million."
+            },
+            "fx_usd_idr": {
+                "v": 16162,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2024-12-31&enddate=2024-12-31",
+                "source_type": "official",
+                "as_of_date": "2024-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2024-12-31",
+                "basis": "n/a",
+                "note": "BREN's FS state the closing rate only as 'Rp10,000 = US$0.xx' (too coarse); the Bank Indonesia middle rate is stored. Bank Indonesia middle rate (kurs tengah) for 2024-12-31: BI publishes kurs beli 16,081.19 and kurs jual 16,242.81; their mean is 16,162.000, i.e. Rp16,162 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000062' (https://www.medcoenergi.com/uploads/rwocis/531/MEDC_FY24.pdf PDF p. 46); no IDR-per-USD figure is printed in the FS or AR. Cross-check: FS2025 Note 45 (PDF p. 263) 2024 trade receivables Rp295,083 million = US$18,257,842, i.e. 16,162."
+            },
+            "roe": {
+                "v": 21.17,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11, Key Financial Ratios (2024 column)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            },
+            "roa": {
+                "v": 4.09,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 11, Key Financial Ratios (2024 column)",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            },
+            "production": {
+                "v": 4969,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2024-12-31",
+                "loc": "AR2025 PDF p. 97: Electricity 4,969 GWh (steam 1,691 GWh); same in AR2024 PDF p. 86",
+                "basis": "consolidated",
+                "unit": "GWh",
+                "note": "Electricity production (GWh) as printed in the AR MD&A table; geothermal steam sold to PLN-owned units is shown separately (in loc). Includes wind from 2024 (Sidrap acquired 2024) if the AR table includes it - not stated."
+            }
+        },
+        "2025": {
+            "revenue": {
+                "v": 605.187,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13 (FS p. 3), Consolidated statement of profit or loss - Pendapatan / Revenue",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "ebitda": {
+                "v": 518,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 29 (Board of Directors' report: 'EBITDA amounted to US$518 million', margin ~85.6%); same in the FY2025 press release of 20 Mar 2026 (https://www.baritorenewables.co.id/en/press-release/pt-barito-renewables-energy-tbk-idx-bren-announces-its-audited-consolidated-performance-for-full-year-2025)",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it, in USD million as printed (rounded). Definition (Prospectus PDF p. 52, ratio table footnote 6): profit before income tax + finance costs + depreciation & amortisation. The AR/press release give no definition; the FS-face sum PBT + finance costs + D&A reproduces the reported figure (e.g. FY2025 305.754 + 118.812 + 93.449 = 518.0)."
+            },
+            "operating_profit": {
+                "v": null,
+                "note": "Not presented: the FS2025 statement of profit or loss lists revenue and expenses by nature straight down to 'Profit before tax' (no 'laba usaha'/operating profit subtotal); checked PDF p. 13 (FS p. 3)."
+            },
+            "net_profit_attr": {
+                "v": 132.198,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13 (FS p. 3), Profit for the year attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "eps": {
+                "v": 0.00099,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 13 (FS p. 3) face + PDF p. 125 (Note 26), basic and diluted EPS (full US$ amount)",
+                "basis": "consolidated",
+                "share_basis": "2026-03-18",
+                "note": "Basic EPS in US$ per share as printed (no dilutive instruments). share_basis = FS authorisation date; no split, bonus or rights issue since listing (9 Oct 2023)."
+            },
+            "payout_ratio": {
+                "v": 23,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/06/63b1acebfca31c6c15c4c032573389be_cc08273e9f03d392d75e707aa437fa08.pdf",
+                "source_type": "company_release",
+                "as_of_date": "2026-06-24",
+                "loc": "AGMS 24 Jun 2026 summary of minutes (EN), Second Agenda: USD 30.5 million 'representing 23% of the net profit' attributable to owners (USD 132.2 million) as cash dividends for FY2025",
+                "basis": "n/a",
+                "note": "Payout of owners' profit as approved by the AGMS (percent as printed)."
+            },
+            "total_assets": {
+                "v": 3867.41,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11 (FS p. 1), Consolidated statement of financial position - TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_liabilities": {
+                "v": 2983.891,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12 (FS p. 2), TOTAL LIABILITIES",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 114.985,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 11 (FS p. 1), Kas dan setara kas / Cash and cash equivalents",
+                "basis": "consolidated",
+                "note": "Cash and cash equivalents only; the FS shows 'Restricted cash (and time deposits)' as a separate line (debt-service reserves), excluded. USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": 2059.044,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 94 (Note 16 Borrowings), 'Jumlah / Total' of borrowings; = face lines Borrowings current + non-current (PDF p. 12 (FS p. 2))",
+                "basis": "consolidated",
+                "note": "Interest-bearing borrowings = senior secured notes 70.668 + bank loans 131.380 (current) + senior secured notes 1,248.371 + bank loans 608.625 (non-current), net of unamortised financing costs. Printed note total, no summing needed. Excludes lease liabilities. USD thousand in the FS / 1,000 = USD million."
+            },
+            "equity_attr": {
+                "v": 636.868,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12 (FS p. 2), Total equity attributable to owners of the parent entity",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_equity": {
+                "v": 883.519,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12 (FS p. 2), Total equity (incl. non-controlling interests)",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 133780220000,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 12 (FS p. 2) face (issued 133,786,220,000) and PDF pp. 114-116 (Note 19a shareholders table: outstanding 133,780,220,000 + treasury 6,000,000; Note 19e)",
+                "share_basis": "2026-03-18",
+                "note": "Outstanding shares net of treasury shares. share_basis = FS authorisation date; no split, bonus or rights issue since listing (9 Oct 2023)."
+            },
+            "year_end_price": {
+                "v": 9700,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 12, Informasi Saham / Share Information, 2025 Quarter IV closing (Penutupan); market cap Rp1,297,726,334,000,000 = 9,700 x 133,786,220,000",
+                "share_basis": "2025-12-31",
+                "note": "Closing price (Rp) of the last trading session of the year as printed in the AR share table. No split since listing."
+            },
+            "cfo": {
+                "v": 228.386,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (FS p. 5), Net cash provided by operating activities",
+                "basis": "consolidated",
+                "note": "USD thousand in the FS / 1,000 = USD million."
+            },
+            "capex": {
+                "v": 111.612,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/03/a03e08f77359f358ca6e09e76c51f103_04e47e2c5706896ff57d7b04e70b4327.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "PDF p. 15 (FS p. 5), investing activities: 'Additions of property, plant and equipment / fixed assets' + 'Additions of property on operating lease'",
+                "basis": "consolidated",
+                "note": "Sum of two printed cash-flow lines: PP&E 107.984 + property on operating lease 3.628 (the power plants leased to PLN are carried as operating-lease property). Excluded investing outflows: deferred charges 29.640, exploration & evaluation 19.207, capital spares 4.036, project development 0.838, bond investment 89.381. USD thousand in the FS / 1,000 = USD million."
+            },
+            "fx_usd_idr": {
+                "v": 16782,
+                "source_url": "https://www.bi.go.id/biwebservice/wskursbi.asmx/getSubKursLokal3?mts=USD&startdate=2025-12-31&enddate=2025-12-31",
+                "source_type": "official",
+                "as_of_date": "2025-12-31",
+                "loc": "Bank Indonesia web service getSubKursLokal3 (Kurs Transaksi BI), USD row for 2025-12-31",
+                "basis": "n/a",
+                "note": "BREN's FS state the closing rate only as 'Rp10,000 = US$0.xx' (too coarse); the Bank Indonesia middle rate is stored. Bank Indonesia middle rate (kurs tengah) for 2025-12-31: BI publishes kurs beli 16,698.09 and kurs jual 16,865.91; their mean is 16,782.000, i.e. Rp16,782 (BI sets beli/jual at the mid rate -/+0.5% rounded to 2 dp). The FS policy (Note 2e) translates balances at 'the Bank of Indonesia's middle exchange rates prevailing at the reporting date', but prints the rate only inverted and rounded, 'Rupiah/US$1 0,000060' (https://www.medcoenergi.com/uploads/rwocis/532/MEDC_FY25.pdf PDF p. 49); no IDR-per-USD figure is printed in the FS or AR. Cross-check: FS2025 Note 45 (PDF p. 263) trade receivables Rp362,838 million = US$21,620,647, i.e. 16,782."
+            },
+            "roe": {
+                "v": 18.69,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11, Key Financial Ratios: 'Laba Bersih terhadap Total Ekuitas / Return on Equity (%)' and 'Laba Bersih terhadap Total Aset / Return on Assets (%)'",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            },
+            "roa": {
+                "v": 4.27,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 11, Key Financial Ratios: 'Laba Bersih terhadap Total Ekuitas / Return on Equity (%)' and 'Laba Bersih terhadap Total Aset / Return on Assets (%)'",
+                "basis": "consolidated",
+                "note": "As reported: profit for the year INCLUDING non-controlling interests divided by year-end TOTAL equity (ROE) / year-end total assets (ROA), e.g. FY2025 165.137 / 883.519 = 18.69%. Not the owners' ROE."
+            },
+            "production": {
+                "v": 5255,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/05/8f4d5178ac8a551fa8a1f58a94740bbf_d01c3c5bddf4b5c8c4821c0b9417daa0.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-12-31",
+                "loc": "AR2025 PDF p. 97, Electricity and Steam Production Table: Electricity 5,255 GWh (steam 1,801 GWh)",
+                "basis": "consolidated",
+                "unit": "GWh",
+                "note": "Electricity production (GWh) as printed in the AR MD&A table; geothermal steam sold to PLN-owned units is shown separately (in loc). Includes wind from 2024 (Sidrap acquired 2024) if the AR table includes it - not stated."
+            }
+        }
+    },
+    "dividends": [
+        {
+            "fy": 2023,
+            "type": "interim",
+            "dps": 3.91,
+            "total": 32.87,
+            "cum_date": "2023-11-22",
+            "ex_date": "2023-11-23",
+            "record_date": "2023-11-24",
+            "pay_date": "2023-12-08",
+            "share_basis": "2023-11-14",
+            "source_url": "https://www.baritorenewables.co.id/uploads/2023/11/2b3339312b30e37facd68d585019158d_294c6fcb127291e9d437510c2473ec26.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2023-11-14",
+            "loc": "Pemberitahuan Jadwal dan Tata Cara Pembagian Dividen Interim Tahun Buku 2023 (14 Nov 2023), p. 1 section A (regular & negotiated market cum/ex, recording date, payment)",
+            "note": "Board decision 10 Nov 2023: Rp523,413,000,000 = Rp3.91 per share (DPS as announced, rupiah). Total in USD mn: AGMS 29 May 2024 minutes, Second Agenda ('interim dividend of USD 32.87 million on December 8, 2023') [https://www.baritorenewables.co.id/uploads/2024/06/a9c544ac6b1f36bb6e5c1e63d4a47ac3_114a1b6c24c83c09ed1c543dc2fd7ad3.pdf]; FS2023 cash flow: dividends to owners US$32,867k. Cash market cum 24 Nov / ex 27 Nov 2023."
+        },
+        {
+            "fy": 2023,
+            "type": "final",
+            "dps": 2.03362,
+            "total": 16.75,
+            "cum_date": "2024-06-06",
+            "ex_date": "2024-06-07",
+            "record_date": "2024-06-10",
+            "pay_date": "2024-06-28",
+            "share_basis": "2024-05-31",
+            "source_url": "https://www.baritorenewables.co.id/uploads/2024/06/45534d2d23facbb05d019e67d764dfa9_63013ec9edcb12dbd46e9614f88386b1.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-05-31",
+            "loc": "Announcement on Schedule and Procedures of Final Dividend Distribution for FY2023 (EN, 31 May 2024), p. 1 section A",
+            "note": "AGMS 29 May 2024: FY2023 total USD 49.62 mn (46.2%), of which USD 16.75 mn remaining final [https://www.baritorenewables.co.id/uploads/2024/06/a9c544ac6b1f36bb6e5c1e63d4a47ac3_114a1b6c24c83c09ed1c543dc2fd7ad3.pdf]; DPS Rp2.03362 as announced (rupiah, converted by the company from the USD amount). Cash market cum 10 Jun / ex 11 Jun 2024."
+        },
+        {
+            "fy": 2024,
+            "type": "interim",
+            "dps": 3.78334,
+            "total": 31.75,
+            "cum_date": "2024-12-11",
+            "ex_date": "2024-12-12",
+            "record_date": "2024-12-13",
+            "pay_date": "2024-12-20",
+            "share_basis": "2024-12-03",
+            "source_url": "https://www.baritorenewables.co.id/uploads/2024/12/b55564f3ace45157b373bd33a9a41f90_24214f468faadb953e7e00f0b8cce2c0.pdf",
+            "source_type": "company_release",
+            "as_of_date": "2024-12-03",
+            "loc": "Pemberitahuan Jadwal dan Tata Cara Pembagian Dividen Interim Tahun Buku 2024 (3 Dec 2024), p. 1 section A; same in the OJK material-information letter 079/BREN/Corps/XII/2024 p. 2 [https://www.baritorenewables.co.id/uploads/2024/12/3874b5642d91e28d4a9ad16a3438eb85_ecd5370f7735f90e059ac7761663c401.pdf]",
+            "note": "Board/BoC circular resolution 2 Dec 2024: Rp506,158,757,575 = Rp3.78334 per share. AGMS 18 Jun 2025 (Second Agenda) set the FY2024 dividend at USD 31.75 mn (26%), 'fully paid as interim dividends on 20 December 2024 ... deemed the final dividends for the 2024 financial year, and no additional dividends' [https://www.baritorenewables.co.id/uploads/2025/07/0a91b745b4e1877cbceda0861326c5fd_079b61e2fbd38e86c7887ad4affce40e.pdf]. Kept as type interim (the only FY2024 payment). Cash market cum 13 Dec / ex 16 Dec 2024."
+        },
+        {
+            "fy": 2025,
+            "type": "final",
+            "dps": 4.0933,
+            "total": 30.5,
+            "cum_date": "2026-07-02",
+            "ex_date": "2026-07-03",
+            "record_date": "2026-07-06",
+            "pay_date": "2026-07-24",
+            "share_basis": "2026-06-26",
+            "source_url": "https://stockwatch.id/cum-dividen-bren-dimulai-2-juli-2026-dividen-tunai-rp40933-per-saham-dibayar-24-juli/",
+            "source_type": "news",
+            "as_of_date": "2026-06-26",
+            "loc": "Stockwatch.id article of 26 Jun 2026 (schedule list: cum regular/negotiated 2 Jul, ex 3 Jul, cash cum 6 Jul / ex 7 Jul, recording 6 Jul, payment 24 Jul 2026; Rp4.0933 per share)",
+            "note": "NEWS SOURCE for DPS and dates: the company's schedule announcement is not on baritorenewables.co.id (checked EN/ID GMS and information-disclosure pages on 2026-11-03) and idx.co.id was not used. Same DPS (Rp4.0933, total USD30,500,000) and dates in BCA Sekuritas / IQPlus 26 Jun 2026, citing a written statement of BREN management [https://bcasekuritas.co.id/latest-news/news/dividen-bren-akan-dibagikan-pada-24-juli-2026]. Total from filings: AGMS 24 Jun 2026 minutes, Second Agenda, USD 30.5 mn = 23% [https://www.baritorenewables.co.id/uploads/2026/06/63b1acebfca31c6c15c4c032573389be_cc08273e9f03d392d75e707aa437fa08.pdf]; 9M2026 FS PDF p. 108 (Note 18a: declared 24 Jun 2026 US$30,500k) and PDF p. 7 (cash flow: dividends to owners 30,500) [https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf]."
+        }
+    ],
+    "interim": {
+        "period": "9M",
+        "year": 2026,
+        "period_end": "2026-09-30",
+        "fields": {
+            "revenue_ytd": {
+                "v": 500.815,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, interim statement of profit or loss - Pendapatan / Revenue (9M 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited interim consolidated FS 30 Sep 2026 (authorised 30 Oct 2026, PDF p. 163). USD thousand in the FS / 1,000 = USD million."
+            },
+            "revenue_ytd_prior": {
+                "v": 457.397,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 5, comparative column 9M 2025",
+                "basis": "consolidated",
+                "note": "Unaudited interim consolidated FS 30 Sep 2026 (authorised 30 Oct 2026, PDF p. 163). USD thousand in the FS / 1,000 = USD million."
+            },
+            "ebitda_ytd": {
+                "v": 442,
+                "source_url": "https://www.baritorenewables.co.id/en/press-release/9m-2026-financial-performance-results",
+                "source_type": "company_release",
+                "as_of_date": "2026-09-30",
+                "loc": "9M-2026 press release (30 Oct 2026, posted 2 Nov 2026), Key Highlights: '9M 2026 Consolidated EBITDA of US$442 million' (+10.9% YoY, margin 88.2%)",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it, in USD million as printed (rounded). Definition (Prospectus PDF p. 52, ratio table footnote 6): profit before income tax + finance costs + depreciation & amortisation. The AR/press release give no definition; the FS-face sum PBT + finance costs + D&A reproduces the reported figure (e.g. FY2025 305.754 + 118.812 + 93.449 = 518.0). 9M2026 FS-face check: 278.475 + 85.161 + 78.135 = 441.8."
+            },
+            "ebitda_ytd_prior": {
+                "v": 399,
+                "source_url": "https://www.baritorenewables.co.id/en/press-release/9m-2025-financial-performance-results-",
+                "source_type": "company_release",
+                "as_of_date": "2025-09-30",
+                "loc": "9M-2025 press release (31 Oct 2025), Key Highlights: '9M2025 Consolidated EBITDA of US$399 million' (margin 87.1%)",
+                "basis": "consolidated",
+                "note": "EBITDA as the company reports it, in USD million as printed (rounded). Definition (Prospectus PDF p. 52, ratio table footnote 6): profit before income tax + finance costs + depreciation & amortisation. The AR/press release give no definition; the FS-face sum PBT + finance costs + D&A reproduces the reported figure (e.g. FY2025 305.754 + 118.812 + 93.449 = 518.0). Consistent with the 9M2026 release (442 = +10.9% YoY). 9M2025 FS-face check (9M2026 FS comparative): 239.446 + 88.006 + 71.052 = 398.5."
+            },
+            "profit_ytd": {
+                "v": 132.828,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 5, Profit for the period attributable to owners of the Company (9M 2026)",
+                "basis": "consolidated",
+                "note": "Unaudited interim consolidated FS 30 Sep 2026 (authorised 30 Oct 2026, PDF p. 163). USD thousand in the FS / 1,000 = USD million."
+            },
+            "profit_ytd_prior": {
+                "v": 106.553,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+                "source_type": "filing",
+                "as_of_date": "2025-09-30",
+                "loc": "PDF p. 5, comparative column 9M 2025",
+                "basis": "consolidated",
+                "note": "Unaudited interim consolidated FS 30 Sep 2026 (authorised 30 Oct 2026, PDF p. 163). USD thousand in the FS / 1,000 = USD million."
+            },
+            "equity_attr": {
+                "v": 752.503,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 4, Total equity attributable to owners of the Company",
+                "basis": "consolidated",
+                "note": "Unaudited interim consolidated FS 30 Sep 2026 (authorised 30 Oct 2026, PDF p. 163). USD thousand in the FS / 1,000 = USD million."
+            },
+            "shares_out": {
+                "v": 133779520000,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 108 (Note 18a shareholders table: 133,779,520,000 outstanding + 6,700,000 treasury = 133,786,220,000 issued; Note 18e PDF p. 111: 700,000 shares bought back in 2026)",
+                "share_basis": "2026-10-30",
+                "note": "Net of treasury shares."
+            },
+            "total_assets": {
+                "v": 4110.114,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, TOTAL ASSETS",
+                "basis": "consolidated",
+                "note": "Unaudited interim consolidated FS 30 Sep 2026 (authorised 30 Oct 2026, PDF p. 163). USD thousand in the FS / 1,000 = USD million."
+            },
+            "cash": {
+                "v": 214.075,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 3, Kas dan setara kas / Cash and cash equivalents (restricted cash separate)",
+                "basis": "consolidated",
+                "note": "Unaudited interim consolidated FS 30 Sep 2026 (authorised 30 Oct 2026, PDF p. 163). USD thousand in the FS / 1,000 = USD million."
+            },
+            "total_debt": {
+                "v": 2136.299,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 82 (Note 15 Borrowings, 'Jumlah / Total'); = face Borrowings current 230.019 + non-current 1,906.280 (PDF p. 4)",
+                "basis": "consolidated",
+                "note": "Senior secured notes 69.542 + bank loans 160.477 (current) + senior secured notes 1,215.670 + bank loans 690.610 (non-current), net of unamortised costs; excludes lease liabilities. USD thousand in the FS / 1,000 = USD million."
+            },
+            "fx_usd_idr": {
+                "v": 17998,
+                "source_url": "https://www.baritorenewables.co.id/uploads/2026/11/23796cccb19d1cba342ea2018031802d_bf5c41f8be202208bc65985f58a22bd6.pdf",
+                "source_type": "filing",
+                "as_of_date": "2026-09-30",
+                "loc": "PDF p. 120 (Note 26 net monetary assets/liabilities in foreign currencies); face rate PDF p. 31 (Note 2c): Rupiah 10,000 = US$0.56",
+                "basis": "n/a",
+                "note": "Derived like the FY values: IDR cash 139,142,538 / US$7,731; other receivables 1,471,768,452 / 81,774; trade payables 325,727,804 / 18,098; borrowings 4,628,689,644 / 257,178 (all = 17,998.0)."
+            }
+        }
+    },
+    "validation_ack": [
+        {
+            "check": "eps_shares:2022",
+            "reason": "FY2022 EPS (US$0.06371, Prospectus FS Note 25, PDF p. 403) uses 1,430,392,365 weighted-average (split-restated) shares: the company had 8,333,333 restated shares until the 26-28 Dec 2022 restructuring issued 19,464,433 new Rp1,000,000 shares (= 129.76 bn restated) to Barito Pacific and Green Era for the inbreng of Star Energy shares (Prospectus PDF p. 26; FS Note 1/4). Year-end shares 129,771,220,000 x EPS therefore overstates profit ~90x. Real; nothing to fix."
+        }
+    ],
+    "research_notes": [
+        "Source policy: every FY2023-FY2025 money figure is from that year's audited consolidated FS (bilingual, US$ thousand, on baritorenewables.co.id); FY2020-FY2022 from the audited FS reissued 13 Sep 2023 inside the IPO Final Prospectus (they are not re-audited elsewhere; FS2023 comparatives agree for FY2022 except CFO). FY2019: only the opening balances of the FY2020 statements exist (cash, equity); revenue, profit, assets and debt for 2019 are null. Interim: 9M2026 FS (authorised 30 Oct 2026). EBITDA, payout and dividends come from ARs, the prospectus, press releases, dividend notices and AGMS minutes as cited. The brief's IR domain 'barito-renewables.co.id' does not resolve (NXDOMAIN); the company site is https://www.baritorenewables.co.id (no bot protection, fetched directly).",
+        "Reporting currency USD: all money values are USD million (FS US$ thousand / 1,000). FS2024/FS2025 print '.' as the thousands separator (Indonesian style), FS2023, the prospectus FS and the 9M2026 FS print ','; values were read with that in mind. EPS is in full US$ per share.",
+        "Corporate history: incorporated 5 Feb 2018 as PT Barito Cahaya Nusantara. In Dec 2022 (Deed 83 of 26 Dec 2022) Barito Pacific and Green Era contributed their Star Energy (STAR/SEGHPL) shares in kind for 19,464,433 new shares; this is a restructuring under common control, so the FY2020-2022 FS present the combined group as if it had always existed. Also in Dec 2022 the group bought out non-controlling interests in Wayang Windu/Salak/Darajat for US$645 mn (Bangkok Bank loan), which cut equity attributable from 496.2 (2021) to 191.5 (2022) via other reserves and raised total_debt. Wind: Sidrap 1 (78.75 MW, PT UPC Sidrap Bayu Energi) and 51% of the Sukabumi and Lombok wind projects were acquired in 2024 (AR2024 PDF p. 12; FS2024 cash flow: acquisition of subsidiaries 101.0).",
+        "Share basis / pre-listing split: 1,250 shares of Rp1,000,000 until Dec 2022, 19,465,683 after the Dec-2022 issue. The shareholders approved a nominal split Rp1,000,000 -> Rp150 (1 old share -> 6,666.67 new; ratio 3 : 20,000), effective 8 Jun 2023 per FS Note 25, Deed No. 54 of 15 Jun 2023 approved by the Minister of Law 16 Jun 2023 (FS2025 PDF p. 16; 9M2026 FS PDF p. 108), giving 129,771,220,000 shares before the IPO. It is deliberately NOT in corporate_actions: it happened before the shares were listed (no ex-date, no traded price; the price series starts 9 Oct 2023) and the price fetcher would then expect a matching Yahoo split event. Instead every per-share value and share count is stored on the post-split (listing) basis the prospectus itself restates to: FY2020/2021 shares_out 8,333,333 and EPS 7.64460/10.33164; FY2022 shares_out 129,771,220,000 and EPS 0.06371 (weighted 1,430,392,365) - all with share_basis 2023-09-13. These pre-IPO per-share figures describe a different capital structure and are not comparable with 2023+ (reviewer: confirm the choice of not adding a split record).",
+        "IPO: 4,015,000,000 new shares at Rp780 (Rp3,131.7 bn), OJK effective 29 Sep 2023, listed 9 Oct 2023 (Final Prospectus PDF p. 1) -> 133,786,220,000 shares. Not a rights issue. No split, reverse split, bonus or rights issue since listing: AR2025 PDF p. 12 'In 2025, the Company did not carry out corporate actions, resulting in stock changes'; AR2024 corporate-action section (PDF p. 12) lists only acquisitions; issued shares are 133,786,220,000 in every FS from FY2023 to 30 Sep 2026. corporate_actions: none.",
+        "Treasury shares: buyback under OJK 13/2023 (significantly fluctuating market, no GMS approval) 24 Mar - 23 Jun 2025: 6,000,000 shares, Rp32 bn = US$1,930k (FS2025 Note 19e, PDF p. 116); a further 700,000 shares in 2026 (9M2026 FS Note 18e) -> 6,700,000 at 30 Sep 2026. Buyback disclosures on the IR site: Mar 2025, Feb 2026 (plan) and Oct 2026 ('Buyback Fluktuatif'). shares_out is net of treasury; EPS uses the weighted average (FY2025 133,781,832,877).",
+        "EBITDA: as reported (USD mn, rounded as printed; 2023 to one decimal). The only printed definition is in the prospectus (PDF p. 52 fn. 6): profit before tax + finance costs + D&A; the face-line sum reproduces the AR/press-release figures for 2023-2025 (501.9 / 515.3 / 518.0) and the 9M figures. For 2020-2022 the prospectus prints 426 / 441 / 472 while the face-line sum gives 426.2 / 441.3 / 472.9 and the printed margins (81.76% / 82.12% / 82.81%) imply 425.7 / 441.3 / 471.8, so the 2020 and 2022 prospectus EBITDA may exclude a small item; the printed values are stored.",
+        "operating_profit is null for every year: BREN's statement of profit or loss is by nature of expense and has no operating-profit subtotal (revenue - D&A - employee - consultants - PGE production allowance - finance costs - FX - interest income - others = profit before tax). Not computed.",
+        "capex = 'Additions of property, plant and equipment' + 'Additions of property on operating lease' (the FS carries the PLN-leased power plants as operating-lease property). Other investing outflows (deferred charges = drilling/workover, exploration & evaluation, capital spares, project development, acquisitions, bond investment) are excluded and listed in each capex note so a reviewer can re-base. FY2020 has no PP&E additions line value (nil) - capex = operating-lease property 23.272.",
+        "fx_usd_idr: the FS discloses the closing rate only as 'Rupiah 10,000 = US$0.xx' (two decimals, e.g. 0.60 for 2025 = 16,529-16,807 range), which is too coarse. The stored whole-rupiah rate is the ratio IDR amount / US$ equivalent of the FS's own translated monetary items in the 'net monetary assets and liabilities in foreign currencies' note (every row agrees to within 1-2 rupiah). Results equal the Bank Indonesia middle rates the FS says it uses: 2020 14,105; 2021 14,269; 2022 15,731; 2023 15,416; 2024 16,162; 2025 16,782; 30 Sep 2026 17,998, and each rounds to the printed US$-per-Rp10,000 rate. This is a derivation (flagged to the reviewer); BI's own pages could not be queried for past dates (the archived JISDOR page of 2 Jan 2025 shows 16,157 for 31 Dec 2024 - JISDOR, not the middle rate - so it was not used).",
+        "Dividends: dps is rupiah per share as paid (BREN declares in USD, the notice gives the rupiah amount); total is USD mn as approved. FY2023: interim Rp3.91 (Dec 2023) + final Rp2.03362 (Jun 2024) = USD 49.62 mn, 46.2%. FY2024: one interim payment Rp3.78334 (20 Dec 2024) = USD 31.75 mn, 26%, deemed final by the 2025 AGMS. FY2025: final Rp4.0933 (24 Jul 2026) = USD 30.5 mn, 23% - DPS and dates from news (see the record's note). FS2025 cash flow shows no dividend to owners in 2025. Pre-IPO dividends (SEGHPL to its shareholders US$9.235 mn in 2021 and US$36.0 mn in 2022) are not dividend records; FY2020-2022 payout_ratio is null.",
+        "FS authorisation dates used as share_basis: FS2023 15 Mar 2024 (PDF p. 38); FS2024 20 Mar 2025 (PDF p. 168 - the Note 2 sentence on PDF p. 35 says '20 March 2024', a typo in the FS); FS2025 18 Mar 2026 (PDF p. 167); 9M2026 FS 30 Oct 2026 (PDF p. 163); prospectus FS reissued 13 Sep 2023.",
+        "roe/roa are the AR/prospectus ratios as printed: profit for the year INCLUDING NCI over year-end TOTAL equity / total assets (not owners' ROE). production = AR electricity output (GWh); steam output is quoted in loc only. FY2024 electricity fell 4.8% on Darajat unit outages (AR2024 PDF p. 86).",
+        "Year-end prices (AR share tables): 2023 Rp7,475 (Dec 2023, first year after the Rp780 IPO), 2024 Rp9,275, 2025 Rp9,700. FY2020-2022: not listed (null). IDX imposed two cooling-down suspensions in 2024 (AR2024 PDF p. 12). The price file does not exist yet, so the price_year_end checks have not run.",
+        "REVIEWER 2026-11-03: fx_usd_idr FY2020-FY2025 = Bank Indonesia middle rate (official BI web service) instead of the agent's FS-derived ratio, for one consistent source across USD reporters; the 9M 2026 interim keeps the FS-derived 17,998 (= BI's rate that day)."
+    ]
+}
