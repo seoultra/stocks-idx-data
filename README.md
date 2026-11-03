@@ -35,7 +35,7 @@ tanggal dan halamannya. Bukan rekomendasi investasi.*
 | BTPN | PT Bank SMBC Indonesia Tbk | 3 | FY2020–FY2025 | H1 2026 | [issuers/BTPN.json](issuers/BTPN.json) | [prices/BTPN.json](prices/BTPN.json) 2019-01-02 → 2026-11-02 |
 | AGRO | PT Bank Raya Indonesia Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/AGRO.json](issuers/AGRO.json) | [prices/AGRO.json](prices/AGRO.json) 2019-01-02 → 2026-11-02 |
 | BJBR | PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BJBR.json](issuers/BJBR.json) | [prices/BJBR.json](prices/BJBR.json) 2019-01-02 → 2026-11-02 |
-| BBYB | PT Bank Neo Commerce Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BBYB.json](issuers/BBYB.json) | [prices/BBYB.json](prices/BBYB.json) 2019-06-14 → 2026-11-02 |
+| BBYB | PT Bank Neo Commerce Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BBYB.json](issuers/BBYB.json) | [prices/BBYB.json](prices/BBYB.json) 2019-01-02 → 2026-11-02 |
 | BBHI | PT Allo Bank Indonesia Tbk | 2 | FY2020–FY2025 | 9M 2026 | [issuers/BBHI.json](issuers/BBHI.json) | [prices/BBHI.json](prices/BBHI.json) 2019-01-02 → 2026-11-02 |
 | BNLI | PT Bank Permata Tbk | 3 | FY2020–FY2025 | H1 2025 | [issuers/BNLI.json](issuers/BNLI.json) | [prices/BNLI.json](prices/BNLI.json) 2019-01-02 → 2026-11-02 |
 | BANK | PT Bank Aladin Syariah Tbk | 1 | FY2020–FY2025 | 9M 2026 | [issuers/BANK.json](issuers/BANK.json) | [prices/BANK.json](prices/BANK.json) 2021-02-01 → 2026-11-02 |

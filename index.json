@@ -496,11 +496,15 @@
             "file": "issuers/BBYB.json",
             "prices": {
                 "file": "prices/BBYB.json",
-                "first_date": "2019-06-14",
+                "first_date": "2019-01-02",
                 "last_date": "2026-11-02",
-                "sessions": 1755,
+                "sessions": 1858,
                 "last_close": 148,
-                "today": null
+                "today": {
+                    "date": "2026-11-03",
+                    "open": 148,
+                    "status": "provisional"
+                }
             },
             "page": "https://seoultra.id/stocks/idx/bbyb/"
         },
