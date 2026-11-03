@@ -81,7 +81,7 @@ which can lag by a few hours. Use a commit SHA instead of `main` for reproducibl
 | [BBMD](issuers/BBMD.json) | Bank Mestika | Mid-size & foreign-owned banks | FY2020–25 · 9M 2026 | [2019-02-06](prices/BBMD.json) |
 | [BNBA](issuers/BNBA.json) | Bank Bumi Arta | Mid-size & foreign-owned banks | FY2020–25 · 9M 2026 | [2019-01-02](prices/BNBA.json) |
 
-**38 banks** · fundamentals through **2026-09-30** · daily prices through **2026-11-02**
+**38 banks** · fundamentals through **2026-09-30** · daily prices through **2026-11-03**
 <!-- coverage:end -->
 
 ## Good to know

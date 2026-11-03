@@ -28,14 +28,8 @@
         ]
     },
     "first_date": "2019-01-02",
-    "last_date": "2026-11-02",
-    "sessions": 1858,
-    "today": {
-        "date": "2026-11-03",
-        "open": 148,
-        "status": "provisional",
-        "note": "Opening price of the session in progress. After the close the full row (open, high, low, close, volume) is added to rows and this object is removed."
-    },
+    "last_date": "2026-11-03",
+    "sessions": 1859,
     "columns": [
         "date",
         "open",
@@ -1902,6 +1896,7 @@
         ["2026-10-28",155,161,150,160,36212600],
         ["2026-10-29",162,163,150,150,36889000],
         ["2026-10-30",149,151,140,144,66520600],
-        ["2026-11-02",144,154,142,148,32032700]
+        ["2026-11-02",144,154,142,148,32032700],
+        ["2026-11-03",148,151,139,142,51344000]
     ]
 }

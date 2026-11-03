@@ -10,7 +10,7 @@
     "repository": "https://github.com/seoultra/stocks-idx-data",
     "raw_base": "https://raw.githubusercontent.com/seoultra/stocks-idx-data/main/",
     "data_through": "2026-09-30",
-    "prices_through": "2026-11-02",
+    "prices_through": "2026-11-03",
     "units": {
         "money": "IDR billion",
         "per_share": "IDR per share as printed (raw) — apply splits from corporate_actions.json using each value's share_basis",
@@ -47,9 +47,9 @@
             "prices": {
                 "file": "prices/BBRI.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1891,
-                "last_close": 2820,
+                "last_date": "2026-11-03",
+                "sessions": 1892,
+                "last_close": 2660,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbri/"
@@ -72,9 +72,9 @@
             "prices": {
                 "file": "prices/BMRI.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1890,
-                "last_close": 3700,
+                "last_date": "2026-11-03",
+                "sessions": 1891,
+                "last_close": 3590,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bmri/"
@@ -97,9 +97,9 @@
             "prices": {
                 "file": "prices/BBNI.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1890,
-                "last_close": 3290,
+                "last_date": "2026-11-03",
+                "sessions": 1891,
+                "last_close": 3200,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbni/"
@@ -122,9 +122,9 @@
             "prices": {
                 "file": "prices/BBCA.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1889,
-                "last_close": 4980,
+                "last_date": "2026-11-03",
+                "sessions": 1890,
+                "last_close": 4840,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbca/"
@@ -147,9 +147,9 @@
             "prices": {
                 "file": "prices/BNGA.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-10-30",
-                "sessions": 1888,
-                "last_close": 1490,
+                "last_date": "2026-11-03",
+                "sessions": 1890,
+                "last_close": 1480,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bnga/"
@@ -172,9 +172,9 @@
             "prices": {
                 "file": "prices/NISP.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-10-30",
-                "sessions": 1882,
-                "last_close": 1165,
+                "last_date": "2026-11-03",
+                "sessions": 1884,
+                "last_close": 1125,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/nisp/"
@@ -197,9 +197,9 @@
             "prices": {
                 "file": "prices/BDMN.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-10-30",
-                "sessions": 1886,
-                "last_close": 4870,
+                "last_date": "2026-11-03",
+                "sessions": 1888,
+                "last_close": 4600,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bdmn/"
@@ -222,9 +222,9 @@
             "prices": {
                 "file": "prices/BNII.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-10-30",
-                "sessions": 1888,
-                "last_close": 167,
+                "last_date": "2026-11-03",
+                "sessions": 1890,
+                "last_close": 164,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bnii/"
@@ -247,9 +247,9 @@
             "prices": {
                 "file": "prices/BRIS.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1891,
-                "last_close": 1015,
+                "last_date": "2026-11-03",
+                "sessions": 1892,
+                "last_close": 1010,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bris/"
@@ -272,9 +272,9 @@
             "prices": {
                 "file": "prices/PNBN.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-10-30",
-                "sessions": 1890,
-                "last_close": 740,
+                "last_date": "2026-11-03",
+                "sessions": 1892,
+                "last_close": 725,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/pnbn/"
@@ -297,8 +297,8 @@
             "prices": {
                 "file": "prices/MEGA.json",
                 "first_date": "2019-01-10",
-                "last_date": "2026-10-30",
-                "sessions": 1718,
+                "last_date": "2026-11-03",
+                "sessions": 1720,
                 "last_close": 1920,
                 "today": null
             },
@@ -322,9 +322,9 @@
             "prices": {
                 "file": "prices/BTPS.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-10-30",
-                "sessions": 1889,
-                "last_close": 1000,
+                "last_date": "2026-11-03",
+                "sessions": 1891,
+                "last_close": 975,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/btps/"
@@ -347,9 +347,9 @@
             "prices": {
                 "file": "prices/BBTN.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1891,
-                "last_close": 895,
+                "last_date": "2026-11-03",
+                "sessions": 1892,
+                "last_close": 855,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbtn/"
@@ -372,9 +372,9 @@
             "prices": {
                 "file": "prices/ARTO.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1829,
-                "last_close": 520,
+                "last_date": "2026-11-03",
+                "sessions": 1830,
+                "last_close": 498,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/arto/"
@@ -397,9 +397,9 @@
             "prices": {
                 "file": "prices/BBKP.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1889,
-                "last_close": 34,
+                "last_date": "2026-11-03",
+                "sessions": 1890,
+                "last_close": 32,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbkp/"
@@ -422,8 +422,8 @@
             "prices": {
                 "file": "prices/BTPN.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1888,
+                "last_date": "2026-11-03",
+                "sessions": 1889,
                 "last_close": 2420,
                 "today": null
             },
@@ -447,9 +447,9 @@
             "prices": {
                 "file": "prices/AGRO.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1883,
-                "last_close": 108,
+                "last_date": "2026-11-03",
+                "sessions": 1884,
+                "last_close": 103,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/agro/"
@@ -472,9 +472,9 @@
             "prices": {
                 "file": "prices/BJBR.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1891,
-                "last_close": 715,
+                "last_date": "2026-11-03",
+                "sessions": 1892,
+                "last_close": 710,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bjbr/"
@@ -497,14 +497,10 @@
             "prices": {
                 "file": "prices/BBYB.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1858,
-                "last_close": 148,
-                "today": {
-                    "date": "2026-11-03",
-                    "open": 148,
-                    "status": "provisional"
-                }
+                "last_date": "2026-11-03",
+                "sessions": 1859,
+                "last_close": 142,
+                "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbyb/"
         },
@@ -526,9 +522,9 @@
             "prices": {
                 "file": "prices/BBHI.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1878,
-                "last_close": 595,
+                "last_date": "2026-11-03",
+                "sessions": 1879,
+                "last_close": 600,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbhi/"
@@ -551,9 +547,9 @@
             "prices": {
                 "file": "prices/BNLI.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1889,
-                "last_close": 1470,
+                "last_date": "2026-11-03",
+                "sessions": 1890,
+                "last_close": 1460,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bnli/"
@@ -576,9 +572,9 @@
             "prices": {
                 "file": "prices/BANK.json",
                 "first_date": "2021-02-01",
-                "last_date": "2026-11-02",
-                "sessions": 1364,
-                "last_close": 190,
+                "last_date": "2026-11-03",
+                "sessions": 1365,
+                "last_close": 177,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bank/"
@@ -601,9 +597,9 @@
             "prices": {
                 "file": "prices/BSIM.json",
                 "first_date": "2019-01-03",
-                "last_date": "2026-11-02",
-                "sessions": 1841,
-                "last_close": 775,
+                "last_date": "2026-11-03",
+                "sessions": 1842,
+                "last_close": 765,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bsim/"
@@ -626,9 +622,9 @@
             "prices": {
                 "file": "prices/AMAR.json",
                 "first_date": "2020-01-09",
-                "last_date": "2026-11-02",
-                "sessions": 1641,
-                "last_close": 194,
+                "last_date": "2026-11-03",
+                "sessions": 1642,
+                "last_close": 190,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/amar/"
@@ -651,9 +647,9 @@
             "prices": {
                 "file": "prices/BJTM.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1890,
-                "last_close": 494,
+                "last_date": "2026-11-03",
+                "sessions": 1891,
+                "last_close": 492,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bjtm/"
@@ -676,9 +672,9 @@
             "prices": {
                 "file": "prices/NOBU.json",
                 "first_date": "2019-01-03",
-                "last_date": "2026-11-02",
-                "sessions": 1671,
-                "last_close": 394,
+                "last_date": "2026-11-03",
+                "sessions": 1672,
+                "last_close": 370,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/nobu/"
@@ -701,9 +697,9 @@
             "prices": {
                 "file": "prices/SUPA.json",
                 "first_date": "2025-12-17",
-                "last_date": "2026-11-02",
-                "sessions": 207,
-                "last_close": 332,
+                "last_date": "2026-11-03",
+                "sessions": 208,
+                "last_close": 314,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/supa/"
@@ -726,9 +722,9 @@
             "prices": {
                 "file": "prices/MCOR.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1891,
-                "last_close": 57,
+                "last_date": "2026-11-03",
+                "sessions": 1892,
+                "last_close": 55,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/mcor/"
@@ -751,9 +747,9 @@
             "prices": {
                 "file": "prices/MAYA.json",
                 "first_date": "2019-12-02",
-                "last_date": "2026-11-02",
-                "sessions": 1489,
-                "last_close": 170,
+                "last_date": "2026-11-03",
+                "sessions": 1490,
+                "last_close": 161,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/maya/"
@@ -776,9 +772,9 @@
             "prices": {
                 "file": "prices/BMAS.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1738,
-                "last_close": 414,
+                "last_date": "2026-11-03",
+                "sessions": 1739,
+                "last_close": 396,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bmas/"
@@ -801,9 +797,9 @@
             "prices": {
                 "file": "prices/PNBS.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1889,
-                "last_close": 37,
+                "last_date": "2026-11-03",
+                "sessions": 1890,
+                "last_close": 35,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/pnbs/"
@@ -826,9 +822,9 @@
             "prices": {
                 "file": "prices/BCIC.json",
                 "first_date": "2020-07-28",
-                "last_date": "2026-11-02",
-                "sessions": 1103,
-                "last_close": 97,
+                "last_date": "2026-11-03",
+                "sessions": 1104,
+                "last_close": 91,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bcic/"
@@ -851,9 +847,9 @@
             "prices": {
                 "file": "prices/BVIC.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1871,
-                "last_close": 70,
+                "last_date": "2026-11-03",
+                "sessions": 1872,
+                "last_close": 67,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bvic/"
@@ -876,9 +872,9 @@
             "prices": {
                 "file": "prices/BABP.json",
                 "first_date": "2019-01-03",
-                "last_date": "2026-11-02",
-                "sessions": 1871,
-                "last_close": 21,
+                "last_date": "2026-11-03",
+                "sessions": 1872,
+                "last_close": 20,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/babp/"
@@ -901,9 +897,9 @@
             "prices": {
                 "file": "prices/BSWD.json",
                 "first_date": "2023-12-18",
-                "last_date": "2026-10-20",
-                "sessions": 170,
-                "last_close": 8075,
+                "last_date": "2026-11-03",
+                "sessions": 171,
+                "last_close": 9675,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bswd/"
@@ -926,9 +922,9 @@
             "prices": {
                 "file": "prices/BINA.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1870,
-                "last_close": 3760,
+                "last_date": "2026-11-03",
+                "sessions": 1871,
+                "last_close": 3560,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bina/"
@@ -951,9 +947,9 @@
             "prices": {
                 "file": "prices/BBMD.json",
                 "first_date": "2019-02-06",
-                "last_date": "2026-11-02",
-                "sessions": 1239,
-                "last_close": 2060,
+                "last_date": "2026-11-03",
+                "sessions": 1240,
+                "last_close": 1975,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bbmd/"
@@ -976,9 +972,9 @@
             "prices": {
                 "file": "prices/BNBA.json",
                 "first_date": "2019-01-02",
-                "last_date": "2026-11-02",
-                "sessions": 1874,
-                "last_close": 660,
+                "last_date": "2026-11-03",
+                "sessions": 1875,
+                "last_close": 665,
                 "today": null
             },
             "page": "https://seoultra.id/stocks/idx/bnba/"
