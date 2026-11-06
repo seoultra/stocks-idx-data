@@ -14,8 +14,8 @@
         "note": "Fetched from the Yahoo Finance chart API after each IDX session. Yahoo's own split and rights adjustments are reversed so every price is the price that traded; the reversal is checked against the year-end prices in the annual reports and the IDX tick sizes."
     },
     "first_date": "2019-01-02",
-    "last_date": "2026-11-05",
-    "sessions": 1894,
+    "last_date": "2026-11-06",
+    "sessions": 1895,
     "columns": [
         "date",
         "open",
@@ -1918,6 +1918,7 @@
         ["2026-11-02",915,950,900,900,58708600],
         ["2026-11-03",910,915,855,855,68759600],
         ["2026-11-04",855,890,845,870,162502000],
-        ["2026-11-05",875,950,875,940,111279300]
+        ["2026-11-05",875,950,875,940,111279300],
+        ["2026-11-06",920,980,915,975,65461300]
     ]
 }
