@@ -114,7 +114,7 @@ which can lag by a few hours. Use a commit SHA instead of `main` for reproducibl
 | [CPIN](issuers/CPIN.json) | Charoen Pokphand Indonesia | Poultry & protein | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/CPIN.json) |
 | [JPFA](issuers/JPFA.json) | Japfa Comfeed | Poultry & protein | IDR | FY2020–25 · 9M 2026 | [2019-01-02](prices/JPFA.json) |
 
-**38 banks · 10 energy companies · 10 consumer staples companies** · fundamentals through **2026-09-30** · daily prices through **2026-11-12**
+**38 banks · 10 energy companies · 10 consumer staples companies** · fundamentals through **2026-09-30** · daily prices through **2026-11-13**
 <!-- coverage:end -->
 
 ## Good to know
