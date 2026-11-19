@@ -1,21 +1,21 @@
 {
     "schema": 1,
     "bi_rate": {
-        "v": 5.75,
-        "source_url": "https://www.bi.go.id/en/statistik/indikator/bi-rate.aspx",
+        "v": 6,
+        "source_url": "https://www.bi.go.id/id/statistik/indikator/bi-rate.aspx",
         "source_type": "official",
-        "as_of_date": "2026-10-21",
-        "loc": "BI-Rate table, row 21 October 2026 (held; decided at the 20–21 Oct 2026 Board of Governors meeting)",
+        "as_of_date": "2026-11-18",
+        "loc": "BI-Rate table, row 18 November 2026 (raised 25 bps; decided at the 17–18 Nov 2026 Board of Governors meeting)",
         "basis": "n/a",
-        "note": "Press release: https://www.bi.go.id/en/publikasi/ruang-media/news-release/Pages/sp_2823326.aspx. Next meeting 17–18 Nov 2026."
+        "note": "Press release No.28/254/DKom, 18 Nov 2026: https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825426.aspx (Deposit Facility 5.25%, Lending Facility 6.75%). Previous: 5.75% from 18 Jun 2026, held 21 Oct 2026."
     },
     "sbn10y": {
-        "v": 7.54971,
-        "source_url": "https://www.antaranews.com/berita/5815931/pemerintah-serap-rp2065-triliun-dari-lelang-sun-pekan-ini",
+        "v": 7.68,
+        "source_url": "https://www.fortuneidn.com/market/pemerintah-dapat-rp35-t-dari-lelang-sun-penawaran-melonjak-d7w02-00-lflgw-lch8k5",
         "source_type": "news",
-        "as_of_date": "2026-10-27",
-        "loc": "ANTARA, 28 Oct 2026, reprinting the DJPPR (Ministry of Finance) press statement on the SUN auction of 27 Oct 2026: series FR0111 (reopening, matures 15 Mar 2037) weighted-average yield won 7.54971%",
+        "as_of_date": "2026-11-10",
+        "loc": "Fortune IDN, 11 Nov 2026, on the DJPPR (Ministry of Finance) SUN auction of 10 Nov 2026: \"FR0111 mencatat yield 7,68 persen, naik dari 7,55 persen\" (FR0111 reopening, coupon 7%, matures 15 Mar 2037; Rp9.3 tn won)",
         "basis": "n/a",
-        "note": "10-year benchmark series FR0111: weighted-average yield won at the government SUN auction of 27 Oct 2026 (primary market, not a secondary-market quote). The DJPPR release page itself is not retrievable from this server, so the state news agency ANTARA, quoting the DJPPR statement, is the source. Updated after each SUN auction (every two weeks). The PHEI IGSYC secondary-market curve is not used: it requires written permission for redistribution."
+        "note": "10-year benchmark series FR0111: yield won at the government SUN auction of 10 Nov 2026 (primary market, not a secondary-market quote). Only two decimals are published in the news; Bloomberg Technoz reports 7.67% for the same auction (rounding). The DJPPR release page is not retrievable from this server (JavaScript-rendered; not bypassed). Previous: 7.54971% at the 27 Oct 2026 auction. Updated after each SUN auction (every two weeks). The PHEI IGSYC secondary-market curve is not used: it requires written permission for redistribution."
     }
 }
